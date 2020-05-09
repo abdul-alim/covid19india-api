@@ -53,85 +53,85 @@
       {
         "district": "Anantapur",
         "notes": "",
-        "active": 53,
-        "confirmed": 99,
-        "recovered": 42,
+        "active": 54,
+        "confirmed": 102,
+        "recovered": 44,
         "dead": 4,
         "today": {
-          "confirmed": 0,
-          "recovered": 0,
-          "active": 0,
+          "confirmed": 3,
+          "recovered": 2,
+          "active": 1,
           "dead": 0
         }
       },
       {
         "district": "Chittoor",
         "notes": "",
-        "active": 11,
-        "confirmed": 85,
+        "active": 22,
+        "confirmed": 96,
         "recovered": 74,
         "dead": 0,
         "today": {
-          "confirmed": 0,
+          "confirmed": 11,
           "recovered": 0,
-          "active": 0,
+          "active": 11,
           "dead": 0
         }
       },
       {
         "district": "East Godavari",
         "notes": "",
-        "active": 20,
+        "active": 17,
         "confirmed": 46,
-        "recovered": 26,
+        "recovered": 29,
         "dead": 0,
         "today": {
           "confirmed": 0,
-          "recovered": 0,
-          "active": 0,
+          "recovered": 3,
+          "active": -3,
           "dead": 0
         }
       },
       {
         "district": "Guntur",
         "notes": "",
-        "active": 202,
-        "confirmed": 374,
-        "recovered": 164,
+        "active": 200,
+        "confirmed": 376,
+        "recovered": 168,
         "dead": 8,
         "today": {
-          "confirmed": 0,
-          "recovered": 0,
-          "active": 0,
+          "confirmed": 2,
+          "recovered": 4,
+          "active": -2,
           "dead": 0
         }
       },
       {
         "district": "Krishna",
         "notes": "",
-        "active": 185,
-        "confirmed": 322,
-        "recovered": 126,
-        "dead": 11,
+        "active": 191,
+        "confirmed": 338,
+        "recovered": 134,
+        "dead": 13,
         "today": {
-          "confirmed": 0,
-          "recovered": 0,
-          "active": 0,
-          "dead": 0
+          "confirmed": 16,
+          "recovered": 8,
+          "active": 6,
+          "dead": 2
         }
       },
       {
         "district": "Kurnool",
         "notes": "",
-        "active": 342,
-        "confirmed": 547,
-        "recovered": 191,
-        "dead": 14,
+        "active": 320,
+        "confirmed": 553,
+        "recovered": 218,
+        "dead": 15,
         "today": {
-          "confirmed": 0,
-          "recovered": 0,
-          "active": 0,
-          "dead": 0
+          "confirmed": 6,
+          "recovered": 27,
+          "active": -22,
+          "dead": 1
         }
       },
       {
@@ -165,14 +165,14 @@
       {
         "district": "S.P.S. Nellore",
         "notes": "",
-        "active": 33,
+        "active": 32,
         "confirmed": 96,
-        "recovered": 60,
+        "recovered": 61,
         "dead": 3,
         "today": {
           "confirmed": 0,
-          "recovered": 0,
-          "active": 0,
+          "recovered": 1,
+          "active": -1,
           "dead": 0
         }
       },
@@ -193,14 +193,14 @@
       {
         "district": "Visakhapatnam",
         "notes": "",
-        "active": 33,
-        "confirmed": 57,
+        "active": 38,
+        "confirmed": 62,
         "recovered": 23,
         "dead": 1,
         "today": {
-          "confirmed": 0,
+          "confirmed": 5,
           "recovered": 0,
-          "active": 0,
+          "active": 5,
           "dead": 0
         }
       },
@@ -245,15 +245,23 @@
           "active": 0,
           "dead": 0
         }
+      },
+      {
+        "district": "Unknown",
+        "confirmed": -43,
+        "active": 5,
+        "recovered": -45,
+        "dead": -3,
+        "note": "Awaiting patient-level details from State Bulletin"
       }
     ],
     "today": {
-      "confirmed": 0,
-      "active": 0,
-      "recovered": 0,
-      "dead": 0
+      "confirmed": 43,
+      "active": -5,
+      "recovered": 45,
+      "dead": 3
     },
-    "updatedTime": "2020-05-08T07:06:24.465Z"
+    "updatedTime": "2020-05-09T11:07:58.268Z"
   },
   "AR": {
     "state": "Arunachal Pradesh",
@@ -4794,6 +4802,20 @@
         }
       },
       {
+        "district": "Nayagarh",
+        "notes": "",
+        "active": 1,
+        "confirmed": 1,
+        "recovered": 0,
+        "dead": 0,
+        "today": {
+          "confirmed": 1,
+          "recovered": 0,
+          "active": 1,
+          "dead": 0
+        }
+      },
+      {
         "district": "Puri",
         "notes": "",
         "active": 0,
@@ -4820,15 +4842,23 @@
           "active": 1,
           "dead": 0
         }
+      },
+      {
+        "district": "Unknown",
+        "confirmed": -1,
+        "active": -1,
+        "recovered": 0,
+        "dead": 0,
+        "note": "Awaiting patient-level details from State Bulletin"
       }
     ],
     "today": {
-      "confirmed": 18,
-      "active": 13,
+      "confirmed": 19,
+      "active": 14,
       "recovered": 5,
       "dead": 0
     },
-    "updatedTime": "2020-05-09T10:37:58.273Z"
+    "updatedTime": "2020-05-09T11:07:58.268Z"
   },
   "PB": {
     "state": "Punjab",
