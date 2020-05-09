@@ -287,8 +287,8 @@
   },
   "AS": {
     "state": "Assam",
-    "confirmed": 60,
-    "active": 23,
+    "confirmed": 63,
+    "active": 26,
     "recovered": 35,
     "dead": 2,
     "districts": [
@@ -373,6 +373,20 @@
           "confirmed": 0,
           "recovered": 0,
           "active": 0,
+          "dead": 0
+        }
+      },
+      {
+        "district": "Jorhat",
+        "notes": "",
+        "active": 3,
+        "confirmed": 3,
+        "recovered": 0,
+        "dead": 0,
+        "today": {
+          "confirmed": 3,
+          "recovered": 0,
+          "active": 3,
           "dead": 0
         }
       },
@@ -504,12 +518,12 @@
       }
     ],
     "today": {
-      "confirmed": 0,
-      "active": 0,
+      "confirmed": 3,
+      "active": 3,
       "recovered": 0,
       "dead": 0
     },
-    "updatedTime": "2020-05-08T19:36:24.525Z"
+    "updatedTime": "2020-05-09T17:07:58.286Z"
   },
   "BR": {
     "state": "Bihar",
@@ -1920,9 +1934,9 @@
   },
   "HP": {
     "state": "Himachal Pradesh",
-    "confirmed": 50,
-    "active": 13,
-    "recovered": 34,
+    "confirmed": 52,
+    "active": 14,
+    "recovered": 35,
     "dead": 3,
     "districts": [
       {
@@ -1942,28 +1956,28 @@
       {
         "district": "Hamirpur",
         "notes": "",
-        "active": 1,
-        "confirmed": 3,
+        "active": 2,
+        "confirmed": 4,
         "recovered": 2,
         "dead": 0,
         "today": {
-          "confirmed": 0,
+          "confirmed": 1,
           "recovered": 0,
-          "active": 0,
+          "active": 1,
           "dead": 0
         }
       },
       {
         "district": "Kangra",
         "notes": "",
-        "active": 2,
-        "confirmed": 7,
+        "active": 3,
+        "confirmed": 8,
         "recovered": 4,
         "dead": 1,
         "today": {
-          "confirmed": 0,
+          "confirmed": 1,
           "recovered": 0,
-          "active": 0,
+          "active": 1,
           "dead": 0
         }
       },
@@ -1998,14 +2012,14 @@
       {
         "district": "Sirmaur",
         "notes": "",
-        "active": 1,
+        "active": 0,
         "confirmed": 2,
-        "recovered": 1,
+        "recovered": 2,
         "dead": 0,
         "today": {
           "confirmed": 0,
-          "recovered": 0,
-          "active": 0,
+          "recovered": 1,
+          "active": -1,
           "dead": 0
         }
       },
@@ -2039,12 +2053,12 @@
       }
     ],
     "today": {
-      "confirmed": 0,
-      "active": 0,
-      "recovered": 0,
+      "confirmed": 2,
+      "active": 1,
+      "recovered": 1,
       "dead": 0
     },
-    "updatedTime": "2020-05-08T15:36:24.499Z"
+    "updatedTime": "2020-05-09T17:07:58.286Z"
   },
   "HR": {
     "state": "Haryana",
@@ -5762,36 +5776,36 @@
   },
   "TG": {
     "state": "Telangana",
-    "confirmed": 1132,
-    "active": 376,
-    "recovered": 727,
-    "dead": 29,
+    "confirmed": 1163,
+    "active": 382,
+    "recovered": 751,
+    "dead": 30,
     "districts": [
       {
         "district": "Other State",
         "notes": "",
-        "active": 3,
-        "confirmed": 3,
+        "active": 4,
+        "confirmed": 4,
         "recovered": 0,
         "dead": 0,
         "today": {
-          "confirmed": 0,
+          "confirmed": 1,
           "recovered": 0,
-          "active": 0,
+          "active": 1,
           "dead": 0
         }
       },
       {
         "district": "Adilabad",
         "notes": "",
-        "active": 8,
+        "active": 6,
         "confirmed": 21,
-        "recovered": 13,
+        "recovered": 15,
         "dead": 0,
         "today": {
           "confirmed": 0,
-          "recovered": 0,
-          "active": 0,
+          "recovered": 2,
+          "active": -2,
           "dead": 0
         }
       },
@@ -5812,14 +5826,14 @@
       {
         "district": "Hyderabad",
         "notes": "",
-        "active": 370,
-        "confirmed": 624,
-        "recovered": 233,
+        "active": 388,
+        "confirmed": 654,
+        "recovered": 245,
         "dead": 21,
         "today": {
-          "confirmed": 0,
-          "recovered": 0,
-          "active": 0,
+          "confirmed": 30,
+          "recovered": 12,
+          "active": 18,
           "dead": 0
         }
       },
@@ -5868,14 +5882,14 @@
       {
         "district": "Jogulamba Gadwal",
         "notes": "",
-        "active": 22,
+        "active": 19,
         "confirmed": 45,
-        "recovered": 22,
+        "recovered": 25,
         "dead": 1,
         "today": {
           "confirmed": 0,
-          "recovered": 0,
-          "active": 0,
+          "recovered": 3,
+          "active": -3,
           "dead": 0
         }
       },
@@ -5994,14 +6008,14 @@
       {
         "district": "Medchal Malkajgiri",
         "notes": "",
-        "active": 15,
+        "active": 14,
         "confirmed": 22,
-        "recovered": 6,
+        "recovered": 7,
         "dead": 1,
         "today": {
           "confirmed": 0,
-          "recovered": 0,
-          "active": 0,
+          "recovered": 1,
+          "active": -1,
           "dead": 0
         }
       },
@@ -6106,28 +6120,28 @@
       {
         "district": "Rajanna Sircilla",
         "notes": "",
-        "active": 2,
+        "active": 1,
         "confirmed": 3,
-        "recovered": 1,
+        "recovered": 2,
         "dead": 0,
         "today": {
           "confirmed": 0,
-          "recovered": 0,
-          "active": 0,
+          "recovered": 1,
+          "active": -1,
           "dead": 0
         }
       },
       {
         "district": "Ranga Reddy",
         "notes": "",
-        "active": 21,
+        "active": 20,
         "confirmed": 36,
-        "recovered": 13,
+        "recovered": 14,
         "dead": 2,
         "today": {
           "confirmed": 0,
-          "recovered": 0,
-          "active": 0,
+          "recovered": 1,
+          "active": -1,
           "dead": 0
         }
       },
@@ -6162,28 +6176,28 @@
       {
         "district": "Suryapet",
         "notes": "",
-        "active": 68,
+        "active": 66,
         "confirmed": 83,
-        "recovered": 15,
+        "recovered": 17,
         "dead": 0,
         "today": {
           "confirmed": 0,
-          "recovered": 0,
-          "active": 0,
+          "recovered": 2,
+          "active": -2,
           "dead": 0
         }
       },
       {
         "district": "Vikarabad",
         "notes": "",
-        "active": 23,
+        "active": 22,
         "confirmed": 37,
-        "recovered": 13,
+        "recovered": 14,
         "dead": 1,
         "today": {
           "confirmed": 0,
-          "recovered": 0,
-          "active": 0,
+          "recovered": 1,
+          "active": -1,
           "dead": 0
         }
       },
@@ -6204,19 +6218,19 @@
       {
         "district": "Unknown",
         "confirmed": 40,
-        "active": -238,
-        "recovered": 277,
-        "dead": 1,
+        "active": -240,
+        "recovered": 278,
+        "dead": 2,
         "note": "Awaiting patient-level details from State Bulletin"
       }
     ],
     "today": {
-      "confirmed": 0,
-      "active": 0,
-      "recovered": 0,
+      "confirmed": 31,
+      "active": 8,
+      "recovered": 23,
       "dead": 0
     },
-    "updatedTime": "2020-05-08T16:21:24.492Z"
+    "updatedTime": "2020-05-09T17:07:58.286Z"
   },
   "TN": {
     "state": "Tamil Nadu",
