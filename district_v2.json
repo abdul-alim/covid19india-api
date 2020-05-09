@@ -6876,14 +6876,14 @@
       {
         "district": "Amroha",
         "notes": "",
-        "active": 6,
-        "confirmed": 33,
+        "active": 5,
+        "confirmed": 32,
         "recovered": 26,
         "dead": 1,
         "today": {
-          "confirmed": 0,
+          "confirmed": -1,
           "recovered": 0,
-          "active": 0,
+          "active": -1,
           "dead": 0
         }
       },
@@ -7324,14 +7324,14 @@
       {
         "district": "Jaunpur",
         "notes": "",
-        "active": 4,
-        "confirmed": 9,
+        "active": 3,
+        "confirmed": 8,
         "recovered": 5,
         "dead": 0,
         "today": {
-          "confirmed": 0,
+          "confirmed": -1,
           "recovered": 0,
-          "active": 0,
+          "active": -1,
           "dead": 0
         }
       },
@@ -7394,14 +7394,14 @@
       {
         "district": "Kasganj",
         "notes": "",
-        "active": 1,
-        "confirmed": 4,
+        "active": 0,
+        "confirmed": 3,
         "recovered": 3,
         "dead": 0,
         "today": {
-          "confirmed": 0,
+          "confirmed": -1,
           "recovered": 0,
-          "active": 0,
+          "active": -1,
           "dead": 0
         }
       },
@@ -7618,14 +7618,14 @@
       {
         "district": "Pratapgarh",
         "notes": "",
-        "active": 6,
-        "confirmed": 12,
+        "active": 5,
+        "confirmed": 11,
         "recovered": 6,
         "dead": 0,
         "today": {
-          "confirmed": 0,
+          "confirmed": -1,
           "recovered": 0,
-          "active": 0,
+          "active": -1,
           "dead": 0
         }
       },
@@ -7666,8 +7666,8 @@
         "dead": 0,
         "today": {
           "confirmed": 0,
-          "recovered": 0,
-          "active": 0,
+          "recovered": 4,
+          "active": -4,
           "dead": 0
         }
       },
@@ -7792,8 +7792,8 @@
         "dead": 0,
         "today": {
           "confirmed": 0,
-          "recovered": 0,
-          "active": 0,
+          "recovered": 1,
+          "active": -1,
           "dead": 0
         }
       },
@@ -7824,20 +7824,12 @@
           "active": 4,
           "dead": 0
         }
-      },
-      {
-        "district": "Unknown",
-        "confirmed": -4,
-        "active": -4,
-        "recovered": 0,
-        "dead": 0,
-        "note": "Awaiting patient-level details from State Bulletin"
       }
     ],
     "today": {
-      "confirmed": 163,
-      "active": 48,
-      "recovered": 107,
+      "confirmed": 159,
+      "active": 39,
+      "recovered": 112,
       "dead": 8
     },
     "updatedTime": "2020-05-09T19:07:58.295Z"
