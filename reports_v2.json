@@ -1,9 +1,9 @@
 {
-  "confirmed": 63451,
-  "active": 41892,
-  "recovered": 19445,
-  "dead": 2110,
-  "updatedTime": "10/05/2020 17:41:25",
+  "confirmed": 64139,
+  "active": 42572,
+  "recovered": 19452,
+  "dead": 2111,
+  "updatedTime": "10/05/2020 18:11:23",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -79,18 +79,18 @@
     },
     "TN": {
       "name": "Tamil Nadu",
-      "confirmed": 6535,
-      "active": 4667,
+      "confirmed": 7204,
+      "active": 5336,
       "recovered": 1824,
       "dead": 44,
       "updatedTime": "09/05/2020 19:23:08",
       "note": "",
       "stateCode": "TN",
       "today": {
-        "confirmed": 0,
+        "confirmed": 7,
         "recovered": 0,
         "dead": 0,
-        "active": 0
+        "active": 7
       },
       "testing_data": {
         "tested": 229670,
@@ -299,7 +299,7 @@
       "active": 394,
       "recovered": 422,
       "dead": 31,
-      "updatedTime": "10/05/2020 17:41:26",
+      "updatedTime": "10/05/2020 17:44:25",
       "note": "One active case in KA reduced as a confirmed patient died of non-CoViD19 related reasons",
       "stateCode": "KA",
       "today": {
@@ -343,18 +343,18 @@
     },
     "BR": {
       "name": "Bihar",
-      "confirmed": 653,
-      "active": 330,
+      "confirmed": 663,
+      "active": 339,
       "recovered": 318,
-      "dead": 5,
-      "updatedTime": "10/05/2020 16:43:24",
+      "dead": 6,
+      "updatedTime": "10/05/2020 17:53:25",
       "note": "",
       "stateCode": "BR",
       "today": {
-        "confirmed": 42,
+        "confirmed": 52,
         "recovered": 0,
-        "dead": 0,
-        "active": 42
+        "dead": 1,
+        "active": 51
       },
       "testing_data": {
         "tested": 34150,
@@ -367,18 +367,18 @@
     },
     "KL": {
       "name": "Kerala",
-      "confirmed": 506,
-      "active": 17,
-      "recovered": 485,
+      "confirmed": 513,
+      "active": 20,
+      "recovered": 489,
       "dead": 4,
-      "updatedTime": "09/05/2020 17:13:09",
+      "updatedTime": "10/05/2020 17:53:25",
       "note": "Mahe native who expired in Kannur included in Kerala's tally",
       "stateCode": "KL",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 7,
+        "recovered": 4,
         "dead": 0,
-        "active": 0
+        "active": 3
       },
       "testing_data": {
         "tested": 36648,
@@ -430,9 +430,9 @@
       },
       "testing_data": {
         "tested": 2142,
-        "positive": 0,
+        "positive": 173,
         "negative": 1947,
-        "unconfirmed": 0,
+        "unconfirmed": 21,
         "date": "10/05/2020",
         "source": "http://chdcovid19.in/"
       }
@@ -487,18 +487,18 @@
     },
     "UT": {
       "name": "Uttarakhand",
-      "confirmed": 67,
-      "active": 20,
+      "confirmed": 68,
+      "active": 21,
       "recovered": 46,
       "dead": 1,
-      "updatedTime": "09/05/2020 14:35:08",
+      "updatedTime": "10/05/2020 18:11:24",
       "note": "",
       "stateCode": "UT",
       "today": {
-        "confirmed": 0,
+        "confirmed": 1,
         "recovered": 0,
         "dead": 0,
-        "active": 0
+        "active": 1
       },
       "testing_data": {
         "tested": 9386,
@@ -559,18 +559,18 @@
     },
     "HP": {
       "name": "Himachal Pradesh",
-      "confirmed": 54,
-      "active": 13,
+      "confirmed": 55,
+      "active": 14,
       "recovered": 35,
       "dead": 3,
-      "updatedTime": "10/05/2020 16:43:26",
+      "updatedTime": "10/05/2020 17:53:27",
       "note": "HP has 4 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed",
       "stateCode": "HP",
       "today": {
-        "confirmed": 2,
+        "confirmed": 3,
         "recovered": 0,
         "dead": 0,
-        "active": 2
+        "active": 3
       },
       "testing_data": {
         "tested": 10209,
@@ -584,17 +584,17 @@
     "LA": {
       "name": "Ladakh",
       "confirmed": 42,
-      "active": 24,
-      "recovered": 18,
+      "active": 21,
+      "recovered": 21,
       "dead": 0,
-      "updatedTime": "09/05/2020 00:13:10",
+      "updatedTime": "10/05/2020 17:53:28",
       "note": "",
       "stateCode": "LA",
       "today": {
         "confirmed": 0,
-        "recovered": 0,
+        "recovered": 3,
         "dead": 0,
-        "active": 0
+        "active": -3
       },
       "testing_data": {
         "tested": 3503,
@@ -869,18 +869,18 @@
   },
   "testing_data": {
     "tested": 1710828,
-    "positive": 62532,
+    "positive": 62705,
     "negative": 1192592,
-    "unconfirmed": 17940
+    "unconfirmed": 17961
   },
   "testing_data_imcr": {
     "tested": 1609037,
     "source": "https://www.icmr.gov.in/pdf/covid/update/ICMR_testing_update_10May2020_9AM_IST.pdf"
   },
   "today": {
-    "confirmed": 586,
-    "recovered": 144,
-    "dead": 9,
-    "active": 433
+    "confirmed": 612,
+    "recovered": 151,
+    "dead": 10,
+    "active": 451
   }
 }
