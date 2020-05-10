@@ -1,9 +1,9 @@
 {
-  "confirmed": 64139,
-  "active": 42434,
-  "recovered": 19587,
+  "confirmed": 64200,
+  "active": 42486,
+  "recovered": 19596,
   "dead": 2114,
-  "updatedTime": "10/05/2020 18:41:23",
+  "updatedTime": "10/05/2020 18:51:23",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -83,7 +83,7 @@
       "active": 5198,
       "recovered": 1959,
       "dead": 47,
-      "updatedTime": "10/05/2020 18:41:24",
+      "updatedTime": "10/05/2020 18:42:24",
       "note": "",
       "stateCode": "TN",
       "today": {
@@ -93,12 +93,12 @@
         "active": 531
       },
       "testing_data": {
-        "tested": 229670,
-        "positive": 6535,
-        "negative": 22576,
-        "unconfirmed": 559,
-        "date": "09/05/2020",
-        "source": "https://t.me/indiacovid/4383"
+        "tested": 243037,
+        "positive": 7204,
+        "negative": 235157,
+        "unconfirmed": 0,
+        "date": "10/05/2020",
+        "source": ""
       }
     },
     "RJ": {
@@ -223,18 +223,18 @@
     },
     "PB": {
       "name": "Punjab",
-      "confirmed": 1762,
-      "active": 1574,
-      "recovered": 157,
+      "confirmed": 1823,
+      "active": 1626,
+      "recovered": 166,
       "dead": 31,
-      "updatedTime": "09/05/2020 18:53:08",
+      "updatedTime": "10/05/2020 18:51:25",
       "note": "",
       "stateCode": "PB",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 61,
+        "recovered": 9,
         "dead": 0,
-        "active": 0
+        "active": 52
       },
       "testing_data": {
         "tested": 39462,
@@ -501,12 +501,12 @@
         "active": 1
       },
       "testing_data": {
-        "tested": 9386,
-        "positive": 67,
-        "negative": 8659,
-        "unconfirmed": 280,
-        "date": "09/05/2020",
-        "source": ""
+        "tested": 9668,
+        "positive": 68,
+        "negative": 8990,
+        "unconfirmed": 194,
+        "date": "10/05/2020",
+        "source": "http://health.uk.gov.in/files/2020.05.10_Health_Bulletin.pdf"
       }
     },
     "AS": {
@@ -868,19 +868,19 @@
     }
   },
   "testing_data": {
-    "tested": 1722838,
-    "positive": 63111,
-    "negative": 1193785,
-    "unconfirmed": 19169
+    "tested": 1736831,
+    "positive": 63788,
+    "negative": 1406697,
+    "unconfirmed": 18524
   },
   "testing_data_imcr": {
     "tested": 1609037,
     "source": "https://www.icmr.gov.in/pdf/covid/update/ICMR_testing_update_10May2020_9AM_IST.pdf"
   },
   "today": {
-    "confirmed": 1274,
-    "recovered": 286,
+    "confirmed": 1335,
+    "recovered": 295,
     "dead": 13,
-    "active": 975
+    "active": 1027
   }
 }
