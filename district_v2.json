@@ -3463,10 +3463,10 @@
   },
   "MH": {
     "state": "Maharashtra",
-    "confirmed": 20228,
-    "active": 15649,
-    "recovered": 3800,
-    "dead": 779,
+    "confirmed": 22171,
+    "active": 17140,
+    "recovered": 4199,
+    "dead": 832,
     "districts": [
       {
         "district": "Ahmednagar",
@@ -3681,15 +3681,15 @@
       {
         "district": "Mumbai",
         "notes": "",
-        "active": 10508,
+        "active": 10507,
         "confirmed": 12864,
         "recovered": 1867,
-        "dead": 489,
+        "dead": 490,
         "today": {
           "confirmed": 0,
           "recovered": 0,
-          "active": 0,
-          "dead": 0
+          "active": -1,
+          "dead": 1
         }
       },
       {
@@ -3947,10 +3947,10 @@
       {
         "district": "Unknown",
         "notes": "",
-        "active": -330,
-        "confirmed": 0,
-        "recovered": 330,
-        "dead": 0,
+        "active": 1162,
+        "confirmed": 1943,
+        "recovered": 729,
+        "dead": 52,
         "today": {
           "confirmed": 0,
           "recovered": 0,
@@ -3961,9 +3961,9 @@
     ],
     "today": {
       "confirmed": 0,
-      "active": 0,
+      "active": -1,
       "recovered": 0,
-      "dead": 0
+      "dead": 1
     }
   },
   "ML": {
@@ -5262,8 +5262,8 @@
   },
   "PY": {
     "state": "Puducherry",
-    "confirmed": 11,
-    "active": 3,
+    "confirmed": 12,
+    "active": 4,
     "recovered": 8,
     "dead": 0,
     "districts": [
@@ -5298,21 +5298,21 @@
       {
         "district": "Puducherry",
         "notes": "",
-        "active": 2,
-        "confirmed": 8,
+        "active": 3,
+        "confirmed": 9,
         "recovered": 6,
         "dead": 0,
         "today": {
-          "confirmed": 0,
+          "confirmed": 1,
           "recovered": 0,
-          "active": 0,
+          "active": 1,
           "dead": 0
         }
       }
     ],
     "today": {
-      "confirmed": 1,
-      "active": 1,
+      "confirmed": 2,
+      "active": 2,
       "recovered": 0,
       "dead": 0
     }
@@ -6820,22 +6820,22 @@
   },
   "TR": {
     "state": "Tripura",
-    "confirmed": 135,
-    "active": 133,
+    "confirmed": 151,
+    "active": 149,
     "recovered": 2,
     "dead": 0,
     "districts": [
       {
         "district": "Dhalai",
         "notes": "",
-        "active": 133,
-        "confirmed": 133,
+        "active": 149,
+        "confirmed": 149,
         "recovered": 0,
         "dead": 0,
         "today": {
-          "confirmed": 0,
+          "confirmed": 16,
           "recovered": 0,
-          "active": 0,
+          "active": 16,
           "dead": 0
         }
       },
@@ -6869,8 +6869,8 @@
       }
     ],
     "today": {
-      "confirmed": 0,
-      "active": 0,
+      "confirmed": 16,
+      "active": 16,
       "recovered": 0,
       "dead": 0
     }
