@@ -3,7 +3,7 @@
   "active": 42659,
   "recovered": 19611,
   "dead": 2114,
-  "updatedTime": "10/05/2020 19:11:23",
+  "updatedTime": "10/05/2020 19:12:23",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -203,7 +203,7 @@
       "active": 1396,
       "recovered": 372,
       "dead": 171,
-      "updatedTime": "10/05/2020 19:11:24",
+      "updatedTime": "10/05/2020 19:12:24",
       "note": "- Cases updated as per WB bulletin as it now provides total number of cases.<br>\n- Deaths due to comorbidities added to total deceased<br>\n- Zones updated as per WB bulletin<br>",
       "stateCode": "WB",
       "today": {
@@ -275,7 +275,7 @@
       "active": 469,
       "recovered": 383,
       "dead": 9,
-      "updatedTime": "10/05/2020 19:11:25",
+      "updatedTime": "10/05/2020 19:12:25",
       "note": "",
       "stateCode": "JK",
       "today": {
@@ -382,11 +382,11 @@
       },
       "testing_data": {
         "tested": 37464,
-        "positive": 0,
-        "negative": 0,
-        "unconfirmed": 0,
+        "positive": 512,
+        "negative": 36630,
+        "unconfirmed": 322,
         "date": "10/05/2020",
-        "source": ""
+        "source": "https://dashboard.kerala.gov.in/testing-view-public.php"
       }
     },
     "OR": {
@@ -669,12 +669,12 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 4266,
-        "positive": 16,
-        "negative": 4028,
-        "unconfirmed": 222,
-        "date": "09/05/2020",
-        "source": "https://t.me/indiacovid/4361"
+        "tested": 4364,
+        "positive": 17,
+        "negative": 4273,
+        "unconfirmed": 74,
+        "date": "10/05/2020",
+        "source": "https://covid19dashboard.py.gov.in/"
       }
     },
     "GA": {
@@ -744,8 +744,8 @@
         "positive": 1,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "09/05/2020",
-        "source": "http://dipr.mizoram.gov.in/post/status-of-state-surveillance-of-covid-19-time-852020-500pm-952020-500-pm"
+        "date": "10/05/2020",
+        "source": "http://dipr.mizoram.gov.in/post/status-of-state-surveillance-of-covid-19-time-952020-500pm-1052020-500-pm"
       }
     },
     "AR": {
@@ -862,16 +862,16 @@
         "positive": 0,
         "negative": 219,
         "unconfirmed": 0,
-        "date": "09/05/2020",
+        "date": "10/05/2020",
         "source": "https://covid19sikkim.org/"
       }
     }
   },
   "testing_data": {
-    "tested": 1758131,
-    "positive": 63670,
-    "negative": 1383823,
-    "unconfirmed": 19672
+    "tested": 1758229,
+    "positive": 64183,
+    "negative": 1420698,
+    "unconfirmed": 19846
   },
   "testing_data_imcr": {
     "tested": 1609037,
