@@ -4618,6 +4618,20 @@
     "dead": 2,
     "districts": [
       {
+        "district": "Angul",
+        "notes": "",
+        "active": 13,
+        "confirmed": 13,
+        "recovered": 0,
+        "dead": 0,
+        "today": {
+          "confirmed": 0,
+          "recovered": 0,
+          "active": 0,
+          "dead": 0
+        }
+      },
+      {
         "district": "Balangir",
         "notes": "",
         "active": 2,
@@ -4634,8 +4648,8 @@
       {
         "district": "Balasore",
         "notes": "",
-        "active": 18,
-        "confirmed": 27,
+        "active": 33,
+        "confirmed": 42,
         "recovered": 9,
         "dead": 0,
         "today": {
@@ -4704,10 +4718,10 @@
       {
         "district": "Ganjam",
         "notes": "",
-        "active": 89,
-        "confirmed": 89,
+        "active": 117,
+        "confirmed": 118,
         "recovered": 0,
-        "dead": 0,
+        "dead": 1,
         "today": {
           "confirmed": 0,
           "recovered": 0,
@@ -4830,8 +4844,8 @@
       {
         "district": "Mayurbhanj",
         "notes": "",
-        "active": 7,
-        "confirmed": 7,
+        "active": 8,
+        "confirmed": 8,
         "recovered": 0,
         "dead": 0,
         "today": {
@@ -4882,6 +4896,14 @@
           "active": 0,
           "dead": 0
         }
+      },
+      {
+        "district": "Unknown",
+        "confirmed": -58,
+        "active": -57,
+        "recovered": 0,
+        "dead": -1,
+        "note": "Awaiting patient-level details from State Bulletin"
       }
     ],
     "today": {
@@ -4890,7 +4912,7 @@
       "recovered": 0,
       "dead": 0
     },
-    "updatedTime": "2020-05-09T12:07:58.262Z"
+    "updatedTime": "2020-05-10T03:07:58.674Z"
   },
   "PB": {
     "state": "Punjab",
