@@ -1,9 +1,9 @@
 {
   "confirmed": 64388,
-  "active": 42659,
-  "recovered": 19611,
+  "active": 42614,
+  "recovered": 19656,
   "dead": 2114,
-  "updatedTime": "10/05/2020 19:12:23",
+  "updatedTime": "10/05/2020 19:51:23",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -53,30 +53,6 @@
         "source": "https://gujcovid19.gujarat.gov.in/"
       }
     },
-    "DL": {
-      "name": "Delhi",
-      "confirmed": 6923,
-      "active": 4781,
-      "recovered": 2069,
-      "dead": 73,
-      "updatedTime": "09/05/2020 18:23:08",
-      "note": "[10-May]<br>\n\nDelhi will be releasing bulletins in the morning, containing data of the previous day. We will add that data to the date on which the report is released, rather than the previous day.",
-      "stateCode": "DL",
-      "today": {
-        "confirmed": 381,
-        "recovered": 49,
-        "dead": 5,
-        "active": 327
-      },
-      "testing_data": {
-        "tested": 93810,
-        "positive": 6923,
-        "negative": 0,
-        "unconfirmed": 0,
-        "date": "10/05/2020",
-        "source": "https://delhifightscorona.in/wp-content/uploads/2020/05/Delhi-Health-Bulletin_COVID-19-10.05.2020.pdf"
-      }
-    },
     "TN": {
       "name": "Tamil Nadu",
       "confirmed": 7204,
@@ -99,6 +75,30 @@
         "unconfirmed": 676,
         "date": "10/05/2020",
         "source": "https://stopcorona.tn.gov.in/wp-content/uploads/2020/03/Media-Bulletin-10.05.2020.pdf"
+      }
+    },
+    "DL": {
+      "name": "Delhi",
+      "confirmed": 6923,
+      "active": 4781,
+      "recovered": 2069,
+      "dead": 73,
+      "updatedTime": "09/05/2020 18:23:08",
+      "note": "[10-May]<br>\n\nDelhi will be releasing bulletins in the morning, containing data of the previous day. We will add that data to the date on which the report is released, rather than the previous day.",
+      "stateCode": "DL",
+      "today": {
+        "confirmed": 381,
+        "recovered": 49,
+        "dead": 5,
+        "active": 327
+      },
+      "testing_data": {
+        "tested": 93810,
+        "positive": 6923,
+        "negative": 0,
+        "unconfirmed": 0,
+        "date": "10/05/2020",
+        "source": "https://delhifightscorona.in/wp-content/uploads/2020/05/Delhi-Health-Bulletin_COVID-19-10.05.2020.pdf"
       }
     },
     "RJ": {
@@ -200,17 +200,17 @@
     "WB": {
       "name": "West Bengal",
       "confirmed": 1939,
-      "active": 1396,
-      "recovered": 372,
+      "active": 1351,
+      "recovered": 417,
       "dead": 171,
-      "updatedTime": "10/05/2020 19:12:24",
+      "updatedTime": "10/05/2020 19:51:24",
       "note": "- Cases updated as per WB bulletin as it now provides total number of cases.<br>\n- Deaths due to comorbidities added to total deceased<br>\n- Zones updated as per WB bulletin<br>",
       "stateCode": "WB",
       "today": {
         "confirmed": 153,
-        "recovered": 0,
+        "recovered": 45,
         "dead": 0,
-        "active": 153
+        "active": 108
       },
       "testing_data": {
         "tested": 43414,
@@ -879,8 +879,8 @@
   },
   "today": {
     "confirmed": 1523,
-    "recovered": 310,
+    "recovered": 355,
     "dead": 13,
-    "active": 1200
+    "active": 1155
   }
 }
