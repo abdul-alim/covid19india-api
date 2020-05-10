@@ -408,9 +408,9 @@
         "district": "Kamrup Metropolitan",
         "notes": "",
         "active": 4,
-        "confirmed": 6,
+        "confirmed": 5,
         "recovered": 1,
-        "dead": 1,
+        "dead": 0,
         "today": {
           "confirmed": 0,
           "recovered": 0,
@@ -515,6 +515,14 @@
           "active": 0,
           "dead": 0
         }
+      },
+      {
+        "district": "Unknown",
+        "confirmed": 1,
+        "active": 0,
+        "recovered": 0,
+        "dead": 1,
+        "note": "Awaiting patient-level details from State Bulletin"
       }
     ],
     "today": {
@@ -523,7 +531,7 @@
       "recovered": 0,
       "dead": 0
     },
-    "updatedTime": "2020-05-09T17:07:58.286Z"
+    "updatedTime": "2020-05-10T04:37:58.338Z"
   },
   "BR": {
     "state": "Bihar",
@@ -535,14 +543,14 @@
       {
         "district": "Araria",
         "notes": "",
-        "active": 2,
-        "confirmed": 2,
+        "active": 3,
+        "confirmed": 3,
         "recovered": 0,
         "dead": 0,
         "today": {
-          "confirmed": 0,
+          "confirmed": 1,
           "recovered": 0,
-          "active": 0,
+          "active": 1,
           "dead": 0
         }
       },
@@ -591,14 +599,14 @@
       {
         "district": "Begusarai",
         "notes": "",
-        "active": 18,
-        "confirmed": 26,
+        "active": 19,
+        "confirmed": 27,
         "recovered": 8,
         "dead": 0,
         "today": {
-          "confirmed": 0,
+          "confirmed": 1,
           "recovered": 0,
-          "active": 0,
+          "active": 1,
           "dead": 0
         }
       },
@@ -647,14 +655,14 @@
       {
         "district": "Darbhanga",
         "notes": "",
-        "active": 9,
-        "confirmed": 9,
+        "active": 11,
+        "confirmed": 11,
         "recovered": 0,
         "dead": 0,
         "today": {
-          "confirmed": 0,
+          "confirmed": 2,
           "recovered": 0,
-          "active": 0,
+          "active": 2,
           "dead": 0
         }
       },
@@ -787,14 +795,14 @@
       {
         "district": "Madhepura",
         "notes": "",
-        "active": 0,
-        "confirmed": 2,
+        "active": 7,
+        "confirmed": 9,
         "recovered": 2,
         "dead": 0,
         "today": {
-          "confirmed": 0,
+          "confirmed": 7,
           "recovered": 0,
-          "active": 0,
+          "active": 7,
           "dead": 0
         }
       },
@@ -913,14 +921,14 @@
       {
         "district": "Saharsa",
         "notes": "",
-        "active": 10,
-        "confirmed": 10,
+        "active": 9,
+        "confirmed": 9,
         "recovered": 0,
         "dead": 0,
         "today": {
-          "confirmed": 8,
+          "confirmed": 7,
           "recovered": 0,
-          "active": 8,
+          "active": 7,
           "dead": 0
         }
       },
@@ -1049,19 +1057,11 @@
           "active": 0,
           "dead": 0
         }
-      },
-      {
-        "district": "Unknown",
-        "confirmed": 10,
-        "active": 10,
-        "recovered": 0,
-        "dead": 0,
-        "note": "Awaiting patient-level details from State Bulletin"
       }
     ],
     "today": {
-      "confirmed": 8,
-      "active": 8,
+      "confirmed": 18,
+      "active": 18,
       "recovered": 0,
       "dead": 0
     },
