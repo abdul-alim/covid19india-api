@@ -1,9 +1,9 @@
 {
-  "confirmed": 64598,
-  "active": 42801,
-  "recovered": 19665,
-  "dead": 2128,
-  "updatedTime": "10/05/2020 20:21:23",
+  "confirmed": 65021,
+  "active": 42549,
+  "recovered": 20315,
+  "dead": 2153,
+  "updatedTime": "10/05/2020 20:41:23",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -31,18 +31,18 @@
     },
     "GJ": {
       "name": "Gujarat",
-      "confirmed": 7797,
-      "active": 5234,
-      "recovered": 2091,
-      "dead": 472,
-      "updatedTime": "09/05/2020 19:43:08",
+      "confirmed": 8195,
+      "active": 5157,
+      "recovered": 2545,
+      "dead": 493,
+      "updatedTime": "10/05/2020 20:41:25",
       "note": "",
       "stateCode": "GJ",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 398,
+        "recovered": 454,
+        "dead": 21,
+        "active": -77
       },
       "testing_data": {
         "tested": 109650,
@@ -128,17 +128,17 @@
     "MP": {
       "name": "Madhya Pradesh",
       "confirmed": 3614,
-      "active": 1923,
-      "recovered": 1480,
-      "dead": 211,
-      "updatedTime": "10/05/2020 20:21:24",
+      "active": 1723,
+      "recovered": 1676,
+      "dead": 215,
+      "updatedTime": "10/05/2020 20:33:28",
       "note": "",
       "stateCode": "MP",
       "today": {
         "confirmed": 157,
-        "recovered": 0,
-        "dead": 0,
-        "active": 157
+        "recovered": 196,
+        "dead": 4,
+        "active": -43
       },
       "testing_data": {
         "tested": 68010,
@@ -343,18 +343,18 @@
     },
     "BR": {
       "name": "Bihar",
-      "confirmed": 663,
-      "active": 339,
+      "confirmed": 673,
+      "active": 349,
       "recovered": 318,
       "dead": 6,
-      "updatedTime": "10/05/2020 17:53:25",
+      "updatedTime": "10/05/2020 20:41:26",
       "note": "",
       "stateCode": "BR",
       "today": {
-        "confirmed": 52,
+        "confirmed": 62,
         "recovered": 0,
         "dead": 1,
-        "active": 51
+        "active": 61
       },
       "testing_data": {
         "tested": 34150,
@@ -391,18 +391,18 @@
     },
     "OR": {
       "name": "Odisha",
-      "confirmed": 362,
-      "active": 291,
+      "confirmed": 377,
+      "active": 306,
       "recovered": 68,
       "dead": 3,
-      "updatedTime": "10/05/2020 19:02:24",
+      "updatedTime": "10/05/2020 20:41:28",
       "note": "",
       "stateCode": "OR",
       "today": {
-        "confirmed": 10,
+        "confirmed": 25,
         "recovered": 0,
         "dead": 0,
-        "active": 10
+        "active": 25
       },
       "testing_data": {
         "tested": 59780,
@@ -878,9 +878,9 @@
     "source": "https://www.icmr.gov.in/pdf/covid/update/ICMR_testing_update_10May2020_9AM_IST.pdf"
   },
   "today": {
-    "confirmed": 1733,
-    "recovered": 364,
-    "dead": 27,
-    "active": 1342
+    "confirmed": 2156,
+    "recovered": 1014,
+    "dead": 52,
+    "active": 1090
   }
 }
