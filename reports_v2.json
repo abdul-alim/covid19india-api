@@ -1343,19 +1343,19 @@
           "confirmed": 0,
           "active": 0,
           "recovered": 0,
-          "dead": 0
+          "dead": -1
         }
       ],
-      "confirmed": 63,
+      "confirmed": 62,
       "active": 26,
       "recovered": 35,
-      "dead": 2,
+      "dead": 1,
       "today": {
         "date": "May 10, 2020",
         "confirmed": 0,
         "active": 0,
         "recovered": 0,
-        "dead": 0
+        "dead": -1
       },
       "testing_data": {
         "tested": 16167,
@@ -13574,17 +13574,17 @@
       "stateCode": "WB"
     }
   },
-  "confirmed": 62916,
+  "confirmed": 62915,
   "active": 41498,
   "recovered": 19315,
-  "dead": 2103,
+  "dead": 2102,
   "today": {
     "confirmed": 109,
     "active": 67,
     "recovered": 40,
-    "dead": 2
+    "dead": 1
   },
-  "updatedTime": "2020-05-10T04:22:58.326Z",
+  "updatedTime": "2020-05-10T04:52:58.323Z",
   "testing_data": {
     "tested": 1684127,
     "positive": 61442,
@@ -14304,7 +14304,7 @@
       "confirmed": 109,
       "active": 67,
       "recovered": 40,
-      "dead": 2
+      "dead": 1
     }
   ],
   "testing_data_imcr": {
