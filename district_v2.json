@@ -395,9 +395,9 @@
         "recovered": 1,
         "dead": 0,
         "today": {
-          "confirmed": 1,
+          "confirmed": 0,
           "recovered": 0,
-          "active": 1,
+          "active": 0,
           "dead": 0
         }
       },
@@ -515,8 +515,8 @@
       }
     ],
     "today": {
-      "confirmed": 1,
-      "active": 1,
+      "confirmed": 0,
+      "active": 0,
       "recovered": 0,
       "dead": 0
     }
@@ -1930,8 +1930,8 @@
   },
   "HP": {
     "state": "Himachal Pradesh",
-    "confirmed": 55,
-    "active": 17,
+    "confirmed": 58,
+    "active": 20,
     "recovered": 35,
     "dead": 3,
     "districts": [
@@ -1952,8 +1952,8 @@
       {
         "district": "Chamba",
         "notes": "",
-        "active": 3,
-        "confirmed": 9,
+        "active": 6,
+        "confirmed": 12,
         "recovered": 6,
         "dead": 0,
         "today": {
@@ -5249,8 +5249,8 @@
   "PY": {
     "state": "Puducherry",
     "confirmed": 12,
-    "active": 4,
-    "recovered": 8,
+    "active": 3,
+    "recovered": 9,
     "dead": 0,
     "districts": [
       {
@@ -5284,9 +5284,9 @@
       {
         "district": "Puducherry",
         "notes": "",
-        "active": 3,
+        "active": 2,
         "confirmed": 9,
-        "recovered": 6,
+        "recovered": 7,
         "dead": 0,
         "today": {
           "confirmed": 0,
@@ -7950,9 +7950,9 @@
       {
         "district": "Nainital",
         "notes": "",
-        "active": 2,
+        "active": 1,
         "confirmed": 10,
-        "recovered": 8,
+        "recovered": 9,
         "dead": 0,
         "today": {
           "confirmed": 0,
@@ -7995,20 +7995,6 @@
         "active": 1,
         "confirmed": 1,
         "recovered": 0,
-        "dead": 0,
-        "today": {
-          "confirmed": 0,
-          "recovered": 0,
-          "active": 0,
-          "dead": 0
-        }
-      },
-      {
-        "district": "Unknown",
-        "notes": "",
-        "active": -1,
-        "confirmed": 0,
-        "recovered": 1,
         "dead": 0,
         "today": {
           "confirmed": 0,
