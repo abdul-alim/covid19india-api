@@ -1,9 +1,9 @@
 {
   "confirmed": 67724,
-  "active": 44354,
-  "recovered": 21151,
+  "active": 44350,
+  "recovered": 21155,
   "dead": 2215,
-  "updatedTime": "11/05/2020 17:32:23",
+  "updatedTime": "11/05/2020 17:42:22",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -299,7 +299,7 @@
       "active": 404,
       "recovered": 426,
       "dead": 31,
-      "updatedTime": "11/05/2020 17:32:25",
+      "updatedTime": "11/05/2020 17:42:24",
       "note": "One active case in KA reduced as a confirmed patient died of non-CoViD19 related reasons",
       "stateCode": "KA",
       "today": {
@@ -347,7 +347,7 @@
       "active": 364,
       "recovered": 354,
       "dead": 6,
-      "updatedTime": "11/05/2020 17:32:26",
+      "updatedTime": "11/05/2020 17:42:24",
       "note": "",
       "stateCode": "BR",
       "today": {
@@ -416,17 +416,17 @@
     "CH": {
       "name": "Chandigarh",
       "confirmed": 173,
-      "active": 146,
-      "recovered": 24,
+      "active": 142,
+      "recovered": 28,
       "dead": 3,
-      "updatedTime": "10/05/2020 16:43:25",
+      "updatedTime": "11/05/2020 17:42:25",
       "note": "",
       "stateCode": "CH",
       "today": {
         "confirmed": 0,
-        "recovered": 0,
+        "recovered": 4,
         "dead": 0,
-        "active": 0
+        "active": -4
       },
       "testing_data": {
         "tested": 2142,
@@ -879,8 +879,8 @@
   },
   "today": {
     "confirmed": 547,
-    "recovered": 181,
+    "recovered": 185,
     "dead": 2,
-    "active": 364
+    "active": 360
   }
 }
