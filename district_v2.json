@@ -523,8 +523,8 @@
   },
   "BR": {
     "state": "Bihar",
-    "confirmed": 714,
-    "active": 354,
+    "confirmed": 724,
+    "active": 364,
     "recovered": 354,
     "dead": 6,
     "districts": [
@@ -853,28 +853,28 @@
       {
         "district": "Nawada",
         "notes": "",
-        "active": 4,
-        "confirmed": 7,
+        "active": 6,
+        "confirmed": 9,
         "recovered": 3,
         "dead": 0,
         "today": {
-          "confirmed": 0,
+          "confirmed": 2,
           "recovered": 0,
-          "active": 0,
+          "active": 2,
           "dead": 0
         }
       },
       {
         "district": "Patna",
         "notes": "",
-        "active": 40,
-        "confirmed": 64,
+        "active": 48,
+        "confirmed": 72,
         "recovered": 23,
         "dead": 1,
         "today": {
-          "confirmed": 3,
+          "confirmed": 11,
           "recovered": 0,
-          "active": 3,
+          "active": 11,
           "dead": 0
         }
       },
@@ -1048,8 +1048,8 @@
       }
     ],
     "today": {
-      "confirmed": 7,
-      "active": 7,
+      "confirmed": 17,
+      "active": 17,
       "recovered": 0,
       "dead": 0
     }
@@ -1057,29 +1057,29 @@
   "CH": {
     "state": "Chandigarh",
     "confirmed": 173,
-    "active": 146,
-    "recovered": 24,
+    "active": 142,
+    "recovered": 28,
     "dead": 3,
     "districts": [
       {
         "district": "Chandigarh",
         "notes": "",
-        "active": 146,
+        "active": 142,
         "confirmed": 173,
-        "recovered": 24,
+        "recovered": 28,
         "dead": 3,
         "today": {
           "confirmed": 0,
-          "recovered": 0,
-          "active": 0,
+          "recovered": 4,
+          "active": -4,
           "dead": 0
         }
       }
     ],
     "today": {
       "confirmed": 0,
-      "active": 0,
-      "recovered": 0,
+      "active": -4,
+      "recovered": 4,
       "dead": 0
     }
   },
@@ -2873,8 +2873,8 @@
   "KA": {
     "state": "Karnataka",
     "confirmed": 862,
-    "active": 406,
-    "recovered": 425,
+    "active": 405,
+    "recovered": 426,
     "dead": 31,
     "districts": [
       {
@@ -2936,14 +2936,14 @@
       {
         "district": "Bengaluru Urban",
         "notes": "One death on 27th Apr is not included as it's not counted as covid related death by the Karnataka govt.",
-        "active": 81,
+        "active": 80,
         "confirmed": 178,
-        "recovered": 90,
+        "recovered": 91,
         "dead": 7,
         "today": {
           "confirmed": 1,
-          "recovered": 4,
-          "active": -3,
+          "recovered": 5,
+          "active": -4,
           "dead": 0
         }
       },
@@ -3046,20 +3046,6 @@
         }
       },
       {
-        "district": "Hassan",
-        "notes": "",
-        "active": 1,
-        "confirmed": 1,
-        "recovered": 0,
-        "dead": 0,
-        "today": {
-          "confirmed": 1,
-          "recovered": 0,
-          "active": 1,
-          "dead": 0
-        }
-      },
-      {
         "district": "Haveri",
         "notes": "",
         "active": 3,
@@ -3104,14 +3090,14 @@
       {
         "district": "Mandya",
         "notes": "",
-        "active": 15,
-        "confirmed": 29,
+        "active": 16,
+        "confirmed": 30,
         "recovered": 14,
         "dead": 0,
         "today": {
-          "confirmed": 1,
+          "confirmed": 2,
           "recovered": 0,
-          "active": 1,
+          "active": 2,
           "dead": 0
         }
       },
@@ -3216,8 +3202,8 @@
     ],
     "today": {
       "confirmed": 14,
-      "active": 11,
-      "recovered": 3,
+      "active": 10,
+      "recovered": 4,
       "dead": 0
     }
   },
