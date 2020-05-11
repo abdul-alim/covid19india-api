@@ -1,24 +1,24 @@
 {
-  "confirmed": 69400,
-  "active": 45478,
-  "recovered": 21664,
-  "dead": 2254,
-  "updatedTime": "11/05/2020 21:28:22",
+  "confirmed": 70717,
+  "active": 46016,
+  "recovered": 22406,
+  "dead": 2291,
+  "updatedTime": "11/05/2020 21:51:23",
   "states": {
     "MH": {
       "name": "Maharashtra",
-      "confirmed": 22171,
-      "active": 17140,
-      "recovered": 4199,
-      "dead": 832,
-      "updatedTime": "10/05/2020 23:03:23",
+      "confirmed": 23401,
+      "active": 17747,
+      "recovered": 4786,
+      "dead": 868,
+      "updatedTime": "11/05/2020 21:51:23",
       "note": "[10-May]<br>\n- Total numbers are updated to the final figure reported for 10th May. <br>\n- 665 cases added by MH govt. on 10th May due to data cleaning <br>\n- 143 cases added by MH govt. on 5th May due to data cleaning <br>\n- 796 cases added by MH govt. on 4th May due to data cleaning <br>",
       "stateCode": "MH",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 1230,
+        "recovered": 587,
+        "dead": 36,
+        "active": 607
       },
       "testing_data": {
         "tested": 225524,
@@ -152,17 +152,17 @@
     "UP": {
       "name": "Uttar Pradesh",
       "confirmed": 3573,
-      "active": 1841,
-      "recovered": 1653,
-      "dead": 79,
-      "updatedTime": "11/05/2020 21:28:23",
+      "active": 1735,
+      "recovered": 1758,
+      "dead": 80,
+      "updatedTime": "11/05/2020 21:43:24",
       "note": "",
       "stateCode": "UP",
       "today": {
         "confirmed": 106,
-        "recovered": 0,
-        "dead": 0,
-        "active": 106
+        "recovered": 105,
+        "dead": 1,
+        "active": 0
       },
       "testing_data": {
         "tested": 129955,
@@ -247,18 +247,18 @@
     },
     "TG": {
       "name": "Telangana",
-      "confirmed": 1196,
-      "active": 415,
-      "recovered": 751,
+      "confirmed": 1275,
+      "active": 444,
+      "recovered": 801,
       "dead": 30,
-      "updatedTime": "10/05/2020 20:02:30",
+      "updatedTime": "11/05/2020 21:51:24",
       "note": "",
       "stateCode": "TG",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 79,
+        "recovered": 50,
         "dead": 0,
-        "active": 0
+        "active": 29
       },
       "testing_data": {
         "tested": 19278,
@@ -415,18 +415,18 @@
     },
     "CH": {
       "name": "Chandigarh",
-      "confirmed": 173,
-      "active": 142,
+      "confirmed": 181,
+      "active": 150,
       "recovered": 28,
       "dead": 3,
-      "updatedTime": "11/05/2020 17:42:25",
+      "updatedTime": "11/05/2020 21:43:25",
       "note": "",
       "stateCode": "CH",
       "today": {
-        "confirmed": 0,
+        "confirmed": 8,
         "recovered": 4,
         "dead": 0,
-        "active": -4
+        "active": 4
       },
       "testing_data": {
         "tested": 2177,
@@ -453,12 +453,12 @@
         "active": 4
       },
       "testing_data": {
-        "tested": 20832,
-        "positive": 157,
-        "negative": 20675,
+        "tested": 21201,
+        "positive": 0,
+        "negative": 0,
         "unconfirmed": 0,
-        "date": "10/05/2020",
-        "source": "https://twitter.com/RobRanchi/status/1259523301606658048?s=19"
+        "date": "11/05/2020",
+        "source": "https://twitter.com/RobRanchi/status/1259763103123685376/photo/1"
       }
     },
     "TR": {
@@ -868,9 +868,9 @@
     }
   },
   "testing_data": {
-    "tested": 1805814,
-    "positive": 65764,
-    "negative": 1460712,
+    "tested": 1806183,
+    "positive": 65607,
+    "negative": 1440037,
     "unconfirmed": 20018
   },
   "testing_data_imcr": {
@@ -878,9 +878,9 @@
     "source": "https://www.icmr.gov.in/pdf/covid/update/ICMR_testing_update_11May2020_9AM_IST.pdf"
   },
   "today": {
-    "confirmed": 2223,
-    "recovered": 694,
-    "dead": 41,
-    "active": 1488
+    "confirmed": 3540,
+    "recovered": 1436,
+    "dead": 78,
+    "active": 2026
   }
 }
