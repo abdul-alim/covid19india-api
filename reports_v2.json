@@ -1,9 +1,9 @@
 {
-  "confirmed": 70717,
-  "active": 45934,
-  "recovered": 22488,
+  "confirmed": 70765,
+  "active": 45921,
+  "recovered": 22549,
   "dead": 2291,
-  "updatedTime": "11/05/2020 22:02:23",
+  "updatedTime": "11/05/2020 22:11:22",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -103,18 +103,18 @@
     },
     "RJ": {
       "name": "Rajasthan",
-      "confirmed": 3940,
-      "active": 1566,
-      "recovered": 2264,
+      "confirmed": 3988,
+      "active": 1554,
+      "recovered": 2324,
       "dead": 110,
-      "updatedTime": "11/05/2020 14:52:24",
+      "updatedTime": "11/05/2020 22:11:23",
       "note": "",
       "stateCode": "RJ",
       "today": {
-        "confirmed": 126,
-        "recovered": 23,
+        "confirmed": 174,
+        "recovered": 83,
         "dead": 2,
-        "active": 101
+        "active": 89
       },
       "testing_data": {
         "tested": 166424,
@@ -141,12 +141,12 @@
         "active": 94
       },
       "testing_data": {
-        "tested": 72069,
-        "positive": 3614,
-        "negative": 65436,
+        "tested": 76039,
+        "positive": 3785,
+        "negative": 0,
         "unconfirmed": 0,
-        "date": "10/05/2020",
-        "source": "https://twitter.com/healthminmp/status/1259492747590934529?s=19"
+        "date": "11/05/2020",
+        "source": "https://twitter.com/healthminmp/status/1259847116282892289/photo/2"
       }
     },
     "UP": {
@@ -203,7 +203,7 @@
       "active": 1374,
       "recovered": 499,
       "dead": 190,
-      "updatedTime": "11/05/2020 22:02:23",
+      "updatedTime": "11/05/2020 22:03:24",
       "note": "- Cases updated as per WB bulletin as it now provides total number of cases.<br>\n- Deaths due to comorbidities added to total deceased<br>\n- Zones updated as per WB bulletin<br>",
       "stateCode": "WB",
       "today": {
@@ -381,11 +381,11 @@
         "active": 7
       },
       "testing_data": {
-        "tested": 37464,
+        "tested": 37858,
         "positive": 512,
-        "negative": 36630,
-        "unconfirmed": 322,
-        "date": "10/05/2020",
+        "negative": 37098,
+        "unconfirmed": 248,
+        "date": "11/05/2020",
         "source": "https://dashboard.kerala.gov.in/testing-view-public.php"
       }
     },
@@ -584,17 +584,17 @@
     "LA": {
       "name": "Ladakh",
       "confirmed": 42,
-      "active": 21,
-      "recovered": 21,
+      "active": 20,
+      "recovered": 22,
       "dead": 0,
-      "updatedTime": "10/05/2020 17:53:28",
+      "updatedTime": "11/05/2020 22:11:25",
       "note": "",
       "stateCode": "LA",
       "today": {
         "confirmed": 0,
-        "recovered": 0,
+        "recovered": 1,
         "dead": 0,
-        "active": 0
+        "active": -1
       },
       "testing_data": {
         "tested": 3503,
@@ -868,19 +868,19 @@
     }
   },
   "testing_data": {
-    "tested": 1810467,
-    "positive": 65781,
-    "negative": 1465279,
-    "unconfirmed": 20018
+    "tested": 1814831,
+    "positive": 65952,
+    "negative": 1400311,
+    "unconfirmed": 19944
   },
   "testing_data_imcr": {
     "tested": 1673688,
     "source": "https://www.icmr.gov.in/pdf/covid/update/ICMR_testing_update_11May2020_9AM_IST.pdf"
   },
   "today": {
-    "confirmed": 3540,
-    "recovered": 1518,
+    "confirmed": 3588,
+    "recovered": 1579,
     "dead": 78,
-    "active": 1944
+    "active": 1931
   }
 }
