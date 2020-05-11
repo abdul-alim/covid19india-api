@@ -1,9 +1,9 @@
 {
   "confirmed": 70717,
-  "active": 46016,
-  "recovered": 22406,
+  "active": 45934,
+  "recovered": 22488,
   "dead": 2291,
-  "updatedTime": "11/05/2020 21:51:23",
+  "updatedTime": "11/05/2020 22:02:23",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -11,7 +11,7 @@
       "active": 17747,
       "recovered": 4786,
       "dead": 868,
-      "updatedTime": "11/05/2020 21:51:23",
+      "updatedTime": "11/05/2020 21:53:23",
       "note": "[10-May]<br>\n- Total numbers are updated to the final figure reported for 10th May. <br>\n- 665 cases added by MH govt. on 10th May due to data cleaning <br>\n- 143 cases added by MH govt. on 5th May due to data cleaning <br>\n- 796 cases added by MH govt. on 4th May due to data cleaning <br>",
       "stateCode": "MH",
       "today": {
@@ -200,17 +200,17 @@
     "WB": {
       "name": "West Bengal",
       "confirmed": 2063,
-      "active": 1456,
-      "recovered": 417,
+      "active": 1374,
+      "recovered": 499,
       "dead": 190,
-      "updatedTime": "11/05/2020 20:42:24",
+      "updatedTime": "11/05/2020 22:02:23",
       "note": "- Cases updated as per WB bulletin as it now provides total number of cases.<br>\n- Deaths due to comorbidities added to total deceased<br>\n- Zones updated as per WB bulletin<br>",
       "stateCode": "WB",
       "today": {
         "confirmed": 124,
-        "recovered": 0,
+        "recovered": 82,
         "dead": 5,
-        "active": 119
+        "active": 37
       },
       "testing_data": {
         "tested": 43414,
@@ -251,7 +251,7 @@
       "active": 444,
       "recovered": 801,
       "dead": 30,
-      "updatedTime": "11/05/2020 21:51:24",
+      "updatedTime": "11/05/2020 21:53:24",
       "note": "",
       "stateCode": "TG",
       "today": {
@@ -309,12 +309,12 @@
         "active": 10
       },
       "testing_data": {
-        "tested": 107311,
-        "positive": 848,
-        "negative": 102266,
+        "tested": 111595,
+        "positive": 862,
+        "negative": 106467,
         "unconfirmed": 0,
-        "date": "10/05/2020",
-        "source": "https://covid19.karnataka.gov.in/storage/pdf-files/Media-Bulletin/10-05-2020%2005-00%20English.pdf"
+        "date": "11/05/2020",
+        "source": "https://covid19.karnataka.gov.in/storage/pdf-files/Media-Bulletin/11-05-2020%2005-00%20English.pdf"
       }
     },
     "HR": {
@@ -454,8 +454,8 @@
       },
       "testing_data": {
         "tested": 21201,
-        "positive": 0,
-        "negative": 0,
+        "positive": 160,
+        "negative": 21041,
         "unconfirmed": 0,
         "date": "11/05/2020",
         "source": "https://twitter.com/RobRanchi/status/1259763103123685376/photo/1"
@@ -868,9 +868,9 @@
     }
   },
   "testing_data": {
-    "tested": 1806183,
-    "positive": 65607,
-    "negative": 1440037,
+    "tested": 1810467,
+    "positive": 65781,
+    "negative": 1465279,
     "unconfirmed": 20018
   },
   "testing_data_imcr": {
@@ -879,8 +879,8 @@
   },
   "today": {
     "confirmed": 3540,
-    "recovered": 1436,
+    "recovered": 1518,
     "dead": 78,
-    "active": 2026
+    "active": 1944
   }
 }
