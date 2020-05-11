@@ -1,9 +1,9 @@
 {
-  "confirmed": 69294,
-  "active": 45372,
+  "confirmed": 69400,
+  "active": 45478,
   "recovered": 21664,
   "dead": 2254,
-  "updatedTime": "11/05/2020 20:52:23",
+  "updatedTime": "11/05/2020 21:21:23",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -45,12 +45,12 @@
         "active": 92
       },
       "testing_data": {
-        "tested": 116471,
-        "positive": 8542,
+        "tested": 116470,
+        "positive": 8541,
         "negative": 107929,
         "unconfirmed": 0,
         "date": "11/05/2020",
-        "source": ""
+        "source": "https://gujcovid19.gujarat.gov.in/"
       }
     },
     "TN": {
@@ -151,18 +151,18 @@
     },
     "UP": {
       "name": "Uttar Pradesh",
-      "confirmed": 3467,
-      "active": 1735,
+      "confirmed": 3573,
+      "active": 1841,
       "recovered": 1653,
       "dead": 79,
-      "updatedTime": "11/05/2020 13:06:24",
+      "updatedTime": "11/05/2020 21:21:23",
       "note": "",
       "stateCode": "UP",
       "today": {
-        "confirmed": 0,
+        "confirmed": 106,
         "recovered": 0,
         "dead": 0,
-        "active": 0
+        "active": 106
       },
       "testing_data": {
         "tested": 129955,
@@ -189,12 +189,12 @@
         "active": -35
       },
       "testing_data": {
-        "tested": 173735,
-        "positive": 1980,
-        "negative": 171755,
+        "tested": 181144,
+        "positive": 2018,
+        "negative": 179126,
         "unconfirmed": 0,
-        "date": "10/05/2020",
-        "source": "http://hmfw.ap.gov.in/covid_dashboard.aspx"
+        "date": "11/05/2020",
+        "source": "http://hmfw.ap.gov.in/index.aspx"
       }
     },
     "WB": {
@@ -429,11 +429,11 @@
         "active": -4
       },
       "testing_data": {
-        "tested": 2142,
+        "tested": 2177,
         "positive": 173,
-        "negative": 1947,
-        "unconfirmed": 21,
-        "date": "10/05/2020",
+        "negative": 1978,
+        "unconfirmed": 25,
+        "date": "11/05/2020",
         "source": "http://chdcovid19.in/"
       }
     },
@@ -868,19 +868,19 @@
     }
   },
   "testing_data": {
-    "tested": 1790887,
-    "positive": 65678,
-    "negative": 1445929,
-    "unconfirmed": 20032
+    "tested": 1798330,
+    "positive": 65715,
+    "negative": 1453331,
+    "unconfirmed": 20036
   },
   "testing_data_imcr": {
     "tested": 1673688,
     "source": "https://www.icmr.gov.in/pdf/covid/update/ICMR_testing_update_11May2020_9AM_IST.pdf"
   },
   "today": {
-    "confirmed": 2117,
+    "confirmed": 2223,
     "recovered": 694,
     "dead": 41,
-    "active": 1382
+    "active": 1488
   }
 }
