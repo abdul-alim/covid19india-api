@@ -284,8 +284,8 @@
   },
   "AS": {
     "state": "Assam",
-    "confirmed": 63,
-    "active": 27,
+    "confirmed": 65,
+    "active": 29,
     "recovered": 35,
     "dead": 1,
     "districts": [
@@ -404,14 +404,14 @@
       {
         "district": "Kamrup Metropolitan",
         "notes": "",
-        "active": 4,
-        "confirmed": 5,
+        "active": 5,
+        "confirmed": 6,
         "recovered": 1,
         "dead": 0,
         "today": {
-          "confirmed": 0,
+          "confirmed": 1,
           "recovered": 0,
-          "active": 0,
+          "active": 1,
           "dead": 0
         }
       },
@@ -460,14 +460,14 @@
       {
         "district": "Morigaon",
         "notes": "",
-        "active": 0,
-        "confirmed": 6,
+        "active": 1,
+        "confirmed": 7,
         "recovered": 6,
         "dead": 0,
         "today": {
-          "confirmed": 0,
+          "confirmed": 1,
           "recovered": 0,
-          "active": 0,
+          "active": 1,
           "dead": 0
         }
       },
@@ -515,8 +515,8 @@
       }
     ],
     "today": {
-      "confirmed": 0,
-      "active": 0,
+      "confirmed": 2,
+      "active": 2,
       "recovered": 0,
       "dead": 0
     }
@@ -2872,9 +2872,9 @@
   },
   "KA": {
     "state": "Karnataka",
-    "confirmed": 858,
-    "active": 405,
-    "recovered": 422,
+    "confirmed": 862,
+    "active": 406,
+    "recovered": 425,
     "dead": 31,
     "districts": [
       {
@@ -2908,14 +2908,14 @@
       {
         "district": "Belagavi",
         "notes": "",
-        "active": 75,
+        "active": 76,
         "confirmed": 113,
-        "recovered": 37,
+        "recovered": 36,
         "dead": 1,
         "today": {
           "confirmed": 0,
-          "recovered": 0,
-          "active": 0,
+          "recovered": -1,
+          "active": 1,
           "dead": 0
         }
       },
@@ -2936,14 +2936,14 @@
       {
         "district": "Bengaluru Urban",
         "notes": "One death on 27th Apr is not included as it's not counted as covid related death by the Karnataka govt.",
-        "active": 84,
-        "confirmed": 177,
-        "recovered": 86,
+        "active": 81,
+        "confirmed": 178,
+        "recovered": 90,
         "dead": 7,
         "today": {
-          "confirmed": 0,
-          "recovered": 0,
-          "active": 0,
+          "confirmed": 1,
+          "recovered": 4,
+          "active": -3,
           "dead": 0
         }
       },
@@ -3046,6 +3046,20 @@
         }
       },
       {
+        "district": "Hassan",
+        "notes": "",
+        "active": 1,
+        "confirmed": 1,
+        "recovered": 0,
+        "dead": 0,
+        "today": {
+          "confirmed": 1,
+          "recovered": 0,
+          "active": 1,
+          "dead": 0
+        }
+      },
+      {
         "district": "Haveri",
         "notes": "",
         "active": 3,
@@ -3090,14 +3104,14 @@
       {
         "district": "Mandya",
         "notes": "",
-        "active": 14,
-        "confirmed": 28,
+        "active": 15,
+        "confirmed": 29,
         "recovered": 14,
         "dead": 0,
         "today": {
-          "confirmed": 0,
+          "confirmed": 1,
           "recovered": 0,
-          "active": 0,
+          "active": 1,
           "dead": 0
         }
       },
@@ -3118,14 +3132,14 @@
       {
         "district": "Other State",
         "notes": "Includes Cases of other States and International Quarantined Passengers.",
-        "active": 2,
-        "confirmed": 21,
+        "active": 3,
+        "confirmed": 22,
         "recovered": 19,
         "dead": 0,
         "today": {
-          "confirmed": 0,
+          "confirmed": 1,
           "recovered": 0,
-          "active": 0,
+          "active": 1,
           "dead": 0
         }
       },
@@ -3201,16 +3215,16 @@
       }
     ],
     "today": {
-      "confirmed": 10,
-      "active": 10,
-      "recovered": 0,
+      "confirmed": 14,
+      "active": 11,
+      "recovered": 3,
       "dead": 0
     }
   },
   "KL": {
     "state": "Kerala",
-    "confirmed": 513,
-    "active": 20,
+    "confirmed": 520,
+    "active": 27,
     "recovered": 489,
     "dead": 4,
     "districts": [
@@ -3273,14 +3287,14 @@
       {
         "district": "Kasaragod",
         "notes": "",
-        "active": 0,
-        "confirmed": 179,
+        "active": 4,
+        "confirmed": 183,
         "recovered": 179,
         "dead": 0,
         "today": {
-          "confirmed": 0,
+          "confirmed": 4,
           "recovered": 0,
-          "active": 0,
+          "active": 4,
           "dead": 0
         }
       },
@@ -3329,28 +3343,28 @@
       {
         "district": "Malappuram",
         "notes": "",
-        "active": 1,
-        "confirmed": 25,
+        "active": 2,
+        "confirmed": 26,
         "recovered": 23,
         "dead": 1,
         "today": {
-          "confirmed": 0,
+          "confirmed": 1,
           "recovered": 0,
-          "active": 0,
+          "active": 1,
           "dead": 0
         }
       },
       {
         "district": "Palakkad",
         "notes": "",
-        "active": 0,
-        "confirmed": 13,
+        "active": 1,
+        "confirmed": 14,
         "recovered": 13,
         "dead": 0,
         "today": {
-          "confirmed": 0,
+          "confirmed": 1,
           "recovered": 0,
-          "active": 0,
+          "active": 1,
           "dead": 0
         }
       },
@@ -3399,21 +3413,21 @@
       {
         "district": "Wayanad",
         "notes": "",
-        "active": 7,
-        "confirmed": 10,
+        "active": 8,
+        "confirmed": 11,
         "recovered": 3,
         "dead": 0,
         "today": {
-          "confirmed": 0,
+          "confirmed": 1,
           "recovered": 0,
-          "active": 0,
+          "active": 1,
           "dead": 0
         }
       }
     ],
     "today": {
-      "confirmed": 0,
-      "active": 0,
+      "confirmed": 7,
+      "active": 7,
       "recovered": 0,
       "dead": 0
     }
