@@ -6983,14 +6983,14 @@
       {
         "district": "Ayodhya",
         "notes": "",
-        "active": 2,
-        "confirmed": 2,
+        "active": 1,
+        "confirmed": 1,
         "recovered": 0,
         "dead": 0,
         "today": {
-          "confirmed": 0,
+          "confirmed": -1,
           "recovered": 0,
-          "active": 0,
+          "active": -1,
           "dead": 0
         }
       },
@@ -7025,14 +7025,14 @@
       {
         "district": "Bahraich",
         "notes": "",
-        "active": 16,
-        "confirmed": 24,
+        "active": 17,
+        "confirmed": 25,
         "recovered": 8,
         "dead": 0,
         "today": {
-          "confirmed": 0,
+          "confirmed": 1,
           "recovered": 0,
-          "active": 0,
+          "active": 1,
           "dead": 0
         }
       },
@@ -7473,14 +7473,14 @@
       {
         "district": "Kanpur Nagar",
         "notes": "",
-        "active": 237,
-        "confirmed": 301,
+        "active": 238,
+        "confirmed": 302,
         "recovered": 58,
         "dead": 6,
         "today": {
-          "confirmed": 0,
+          "confirmed": 1,
           "recovered": 0,
-          "active": 0,
+          "active": 1,
           "dead": 0
         }
       },
@@ -7711,14 +7711,14 @@
       {
         "district": "Pratapgarh",
         "notes": "",
-        "active": 6,
-        "confirmed": 12,
+        "active": 7,
+        "confirmed": 13,
         "recovered": 6,
         "dead": 0,
         "today": {
-          "confirmed": 0,
+          "confirmed": 1,
           "recovered": 0,
-          "active": 0,
+          "active": 1,
           "dead": 0
         }
       },
@@ -7931,11 +7931,25 @@
           "active": 3,
           "dead": 0
         }
+      },
+      {
+        "district": "Unknown",
+        "notes": "",
+        "active": -2,
+        "confirmed": -2,
+        "recovered": 0,
+        "dead": 0,
+        "today": {
+          "confirmed": 0,
+          "recovered": 0,
+          "active": 0,
+          "dead": 0
+        }
       }
     ],
     "today": {
-      "confirmed": 106,
-      "active": 106,
+      "confirmed": 108,
+      "active": 108,
       "recovered": 0,
       "dead": 0
     }
