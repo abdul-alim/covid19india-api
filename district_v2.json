@@ -1930,8 +1930,8 @@
   },
   "HP": {
     "state": "Himachal Pradesh",
-    "confirmed": 65,
-    "active": 27,
+    "confirmed": 66,
+    "active": 28,
     "recovered": 35,
     "dead": 3,
     "districts": [
@@ -2053,6 +2053,20 @@
         "active": 1,
         "confirmed": 17,
         "recovered": 16,
+        "dead": 0,
+        "today": {
+          "confirmed": 0,
+          "recovered": 0,
+          "active": 0,
+          "dead": 0
+        }
+      },
+      {
+        "district": "Unknown",
+        "notes": "",
+        "active": 1,
+        "confirmed": 1,
+        "recovered": 0,
         "dead": 0,
         "today": {
           "confirmed": 0,
@@ -6463,14 +6477,14 @@
       {
         "district": "Chennai",
         "notes": "",
-        "active": 4099,
+        "active": 4093,
         "confirmed": 4882,
-        "recovered": 743,
+        "recovered": 749,
         "dead": 40,
         "today": {
           "confirmed": 510,
-          "recovered": 37,
-          "active": 466,
+          "recovered": 43,
+          "active": 460,
           "dead": 7
         }
       },
@@ -6701,28 +6715,28 @@
       {
         "district": "Ramanathapuram",
         "notes": "",
-        "active": 14,
+        "active": 15,
         "confirmed": 31,
-        "recovered": 16,
+        "recovered": 15,
         "dead": 1,
         "today": {
           "confirmed": 0,
-          "recovered": 0,
-          "active": 0,
+          "recovered": -1,
+          "active": 1,
           "dead": 0
         }
       },
       {
         "district": "Ranipet",
         "notes": "",
-        "active": 37,
+        "active": 36,
         "confirmed": 75,
-        "recovered": 38,
+        "recovered": 39,
         "dead": 0,
         "today": {
           "confirmed": 9,
-          "recovered": 0,
-          "active": 9,
+          "recovered": 1,
+          "active": 8,
           "dead": 0
         }
       },
@@ -6855,14 +6869,14 @@
       {
         "district": "Tirunelveli",
         "notes": "",
-        "active": 31,
+        "active": 33,
         "confirmed": 96,
-        "recovered": 64,
+        "recovered": 62,
         "dead": 1,
         "today": {
           "confirmed": 3,
-          "recovered": 1,
-          "active": 2,
+          "recovered": -1,
+          "active": 4,
           "dead": 0
         }
       },
@@ -6939,14 +6953,14 @@
       {
         "district": "Virudhunagar",
         "notes": "",
-        "active": 10,
+        "active": 14,
         "confirmed": 45,
-        "recovered": 35,
+        "recovered": 31,
         "dead": 0,
         "today": {
           "confirmed": 4,
-          "recovered": 0,
-          "active": 4,
+          "recovered": -4,
+          "active": 8,
           "dead": 0
         }
       }
