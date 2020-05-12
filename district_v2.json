@@ -44,50 +44,50 @@
   },
   "AP": {
     "state": "Andhra Pradesh",
-    "confirmed": 2018,
-    "active": 975,
-    "recovered": 998,
-    "dead": 45,
+    "confirmed": 2051,
+    "active": 949,
+    "recovered": 1056,
+    "dead": 46,
     "districts": [
       {
         "district": "Anantapur",
         "notes": "",
-        "active": 66,
+        "active": 63,
         "confirmed": 115,
-        "recovered": 45,
+        "recovered": 48,
         "dead": 4,
         "today": {
           "confirmed": 0,
-          "recovered": 0,
-          "active": 0,
+          "recovered": 3,
+          "active": -3,
           "dead": 0
         }
       },
       {
         "district": "Chittoor",
         "notes": "",
-        "active": 47,
-        "confirmed": 121,
+        "active": 57,
+        "confirmed": 131,
         "recovered": 74,
         "dead": 0,
         "today": {
-          "confirmed": 0,
+          "confirmed": 10,
           "recovered": 0,
-          "active": 0,
+          "active": 10,
           "dead": 0
         }
       },
       {
         "district": "East Godavari",
         "notes": "",
-        "active": 15,
-        "confirmed": 46,
+        "active": 16,
+        "confirmed": 47,
         "recovered": 31,
         "dead": 0,
         "today": {
-          "confirmed": 0,
+          "confirmed": 1,
           "recovered": 0,
-          "active": 0,
+          "active": 1,
           "dead": 0
         }
       },
@@ -108,28 +108,28 @@
       {
         "district": "Krishna",
         "notes": "",
-        "active": 187,
-        "confirmed": 342,
-        "recovered": 142,
-        "dead": 13,
+        "active": 155,
+        "confirmed": 346,
+        "recovered": 177,
+        "dead": 14,
         "today": {
-          "confirmed": 0,
-          "recovered": 0,
-          "active": 0,
-          "dead": 0
+          "confirmed": 4,
+          "recovered": 35,
+          "active": -32,
+          "dead": 1
         }
       },
       {
         "district": "Kurnool",
         "notes": "",
-        "active": 292,
-        "confirmed": 575,
-        "recovered": 267,
+        "active": 284,
+        "confirmed": 584,
+        "recovered": 284,
         "dead": 16,
         "today": {
-          "confirmed": 0,
-          "recovered": 0,
-          "active": 0,
+          "confirmed": 9,
+          "recovered": 17,
+          "active": -8,
           "dead": 0
         }
       },
@@ -164,28 +164,28 @@
       {
         "district": "S.P.S. Nellore",
         "notes": "",
-        "active": 23,
-        "confirmed": 102,
+        "active": 32,
+        "confirmed": 111,
         "recovered": 76,
         "dead": 3,
         "today": {
-          "confirmed": 0,
+          "confirmed": 9,
           "recovered": 0,
-          "active": 0,
+          "active": 9,
           "dead": 0
         }
       },
       {
         "district": "Srikakulam",
         "notes": "",
-        "active": 5,
+        "active": 4,
         "confirmed": 5,
-        "recovered": 0,
+        "recovered": 1,
         "dead": 0,
         "today": {
           "confirmed": 0,
-          "recovered": 0,
-          "active": 0,
+          "recovered": 1,
+          "active": -1,
           "dead": 0
         }
       },
@@ -220,37 +220,37 @@
       {
         "district": "West Godavari",
         "notes": "",
-        "active": 35,
+        "active": 34,
         "confirmed": 68,
-        "recovered": 33,
+        "recovered": 34,
         "dead": 0,
         "today": {
           "confirmed": 0,
-          "recovered": 0,
-          "active": 0,
+          "recovered": 1,
+          "active": -1,
           "dead": 0
         }
       },
       {
         "district": "Y.S.R. Kadapa",
         "notes": "",
-        "active": 52,
+        "active": 51,
         "confirmed": 97,
-        "recovered": 45,
+        "recovered": 46,
         "dead": 0,
         "today": {
           "confirmed": 0,
-          "recovered": 0,
-          "active": 0,
+          "recovered": 1,
+          "active": -1,
           "dead": 0
         }
       }
     ],
     "today": {
-      "confirmed": 0,
-      "active": 0,
-      "recovered": 0,
-      "dead": 0
+      "confirmed": 33,
+      "active": -26,
+      "recovered": 58,
+      "dead": 1
     }
   },
   "AR": {
@@ -1198,10 +1198,10 @@
   },
   "DL": {
     "state": "Delhi",
-    "confirmed": 7233,
-    "active": 5031,
-    "recovered": 2129,
-    "dead": 73,
+    "confirmed": 7639,
+    "active": 5041,
+    "recovered": 2512,
+    "dead": 86,
     "districts": [
       {
         "district": "Central Delhi",
@@ -1360,10 +1360,10 @@
       {
         "district": "Unknown",
         "notes": "",
-        "active": 4244,
-        "confirmed": 6445,
-        "recovered": 2129,
-        "dead": 72,
+        "active": 4254,
+        "confirmed": 6851,
+        "recovered": 2512,
+        "dead": 85,
         "today": {
           "confirmed": 0,
           "recovered": 0,
@@ -2408,8 +2408,8 @@
   },
   "JH": {
     "state": "Jharkhand",
-    "confirmed": 161,
-    "active": 80,
+    "confirmed": 163,
+    "active": 82,
     "recovered": 78,
     "dead": 3,
     "districts": [
@@ -2587,6 +2587,20 @@
         "active": 0,
         "confirmed": 2,
         "recovered": 2,
+        "dead": 0,
+        "today": {
+          "confirmed": 0,
+          "recovered": 0,
+          "active": 0,
+          "dead": 0
+        }
+      },
+      {
+        "district": "Unknown",
+        "notes": "",
+        "active": 2,
+        "confirmed": 2,
+        "recovered": 0,
         "dead": 0,
         "today": {
           "confirmed": 0,
