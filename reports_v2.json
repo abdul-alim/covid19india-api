@@ -1,9 +1,9 @@
 {
   "confirmed": 72593,
-  "active": 47055,
-  "recovered": 23203,
+  "active": 46942,
+  "recovered": 23316,
   "dead": 2331,
-  "updatedTime": "12/05/2020 19:41:23",
+  "updatedTime": "12/05/2020 19:53:22",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -59,7 +59,7 @@
       "active": 6606,
       "recovered": 2051,
       "dead": 61,
-      "updatedTime": "12/05/2020 19:41:24",
+      "updatedTime": "12/05/2020 19:42:23",
       "note": "",
       "stateCode": "TN",
       "today": {
@@ -117,12 +117,12 @@
         "active": 12
       },
       "testing_data": {
-        "tested": 176130,
-        "positive": 3988,
-        "negative": 168546,
-        "unconfirmed": 3596,
-        "date": "11/05/2020",
-        "source": "https://t.me/indiacovid/4565"
+        "tested": 184853,
+        "positive": 4056,
+        "negative": 176219,
+        "unconfirmed": 4578,
+        "date": "12/05/2020",
+        "source": "https://t.me/indiacovid/4592"
       }
     },
     "MP": {
@@ -200,17 +200,17 @@
     "WB": {
       "name": "West Bengal",
       "confirmed": 2173,
-      "active": 1476,
-      "recovered": 499,
+      "active": 1363,
+      "recovered": 612,
       "dead": 198,
-      "updatedTime": "12/05/2020 19:41:25",
+      "updatedTime": "12/05/2020 19:53:24",
       "note": "- Cases updated as per WB bulletin as it now provides total number of cases.<br>\n- Deaths due to comorbidities added to total deceased<br>\n- Zones updated as per WB bulletin<br>",
       "stateCode": "WB",
       "today": {
         "confirmed": 110,
-        "recovered": 0,
+        "recovered": 113,
         "dead": 8,
-        "active": 102
+        "active": -11
       },
       "testing_data": {
         "tested": 52622,
@@ -869,10 +869,10 @@
     }
   },
   "testing_data": {
-    "tested": 1905294,
-    "positive": 68332,
-    "negative": 1528449,
-    "unconfirmed": 20727
+    "tested": 1914017,
+    "positive": 68400,
+    "negative": 1536122,
+    "unconfirmed": 21709
   },
   "testing_data_imcr": {
     "tested": 1759579,
@@ -880,8 +880,8 @@
   },
   "today": {
     "confirmed": 1824,
-    "recovered": 654,
+    "recovered": 767,
     "dead": 37,
-    "active": 1133
+    "active": 1020
   }
 }
