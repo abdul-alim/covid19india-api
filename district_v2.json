@@ -523,8 +523,8 @@
   },
   "BR": {
     "state": "Bihar",
-    "confirmed": 830,
-    "active": 442,
+    "confirmed": 879,
+    "active": 491,
     "recovered": 382,
     "dead": 6,
     "districts": [
@@ -697,16 +697,30 @@
         }
       },
       {
-        "district": "Jehanabad",
+        "district": "Jamui",
         "notes": "",
         "active": 1,
-        "confirmed": 5,
+        "confirmed": 1,
+        "recovered": 0,
+        "dead": 0,
+        "today": {
+          "confirmed": 1,
+          "recovered": 0,
+          "active": 1,
+          "dead": 0
+        }
+      },
+      {
+        "district": "Jehanabad",
+        "notes": "",
+        "active": 17,
+        "confirmed": 21,
         "recovered": 4,
         "dead": 0,
         "today": {
-          "confirmed": 0,
+          "confirmed": 16,
           "recovered": 0,
-          "active": 0,
+          "active": 16,
           "dead": 0
         }
       },
@@ -769,14 +783,14 @@
       {
         "district": "Lakhisarai",
         "notes": "",
-        "active": 0,
-        "confirmed": 4,
+        "active": 1,
+        "confirmed": 5,
         "recovered": 4,
         "dead": 0,
         "today": {
-          "confirmed": 0,
+          "confirmed": 1,
           "recovered": -1,
-          "active": 1,
+          "active": 2,
           "dead": 0
         }
       },
@@ -811,14 +825,14 @@
       {
         "district": "Munger",
         "notes": "",
-        "active": 54,
-        "confirmed": 115,
+        "active": 55,
+        "confirmed": 116,
         "recovered": 60,
         "dead": 1,
         "today": {
-          "confirmed": 0,
+          "confirmed": 1,
           "recovered": 0,
-          "active": 0,
+          "active": 1,
           "dead": 0
         }
       },
@@ -839,42 +853,42 @@
       {
         "district": "Nalanda",
         "notes": "",
-        "active": 15,
-        "confirmed": 51,
+        "active": 27,
+        "confirmed": 63,
         "recovered": 36,
         "dead": 0,
         "today": {
-          "confirmed": 0,
+          "confirmed": 12,
           "recovered": 0,
-          "active": 0,
+          "active": 12,
           "dead": 0
         }
       },
       {
         "district": "Nawada",
         "notes": "",
-        "active": 10,
-        "confirmed": 13,
+        "active": 12,
+        "confirmed": 15,
         "recovered": 3,
         "dead": 0,
         "today": {
-          "confirmed": 0,
+          "confirmed": 2,
           "recovered": 0,
-          "active": 0,
+          "active": 2,
           "dead": 0
         }
       },
       {
         "district": "Patna",
         "notes": "",
-        "active": 42,
-        "confirmed": 79,
+        "active": 53,
+        "confirmed": 90,
         "recovered": 36,
         "dead": 1,
         "today": {
-          "confirmed": 7,
+          "confirmed": 18,
           "recovered": 1,
-          "active": 6,
+          "active": 17,
           "dead": 0
         }
       },
@@ -923,28 +937,28 @@
       {
         "district": "Samastipur",
         "notes": "",
-        "active": 9,
-        "confirmed": 9,
+        "active": 13,
+        "confirmed": 13,
         "recovered": 0,
         "dead": 0,
         "today": {
-          "confirmed": 0,
+          "confirmed": 4,
           "recovered": 0,
-          "active": 0,
+          "active": 4,
           "dead": 0
         }
       },
       {
         "district": "Saran",
         "notes": "",
-        "active": 1,
-        "confirmed": 9,
+        "active": 2,
+        "confirmed": 10,
         "recovered": 8,
         "dead": 0,
         "today": {
-          "confirmed": 1,
+          "confirmed": 2,
           "recovered": 2,
-          "active": -1,
+          "active": 0,
           "dead": 0
         }
       },
@@ -1048,8 +1062,8 @@
       }
     ],
     "today": {
-      "confirmed": 81,
-      "active": 76,
+      "confirmed": 130,
+      "active": 125,
       "recovered": 5,
       "dead": 0
     }
