@@ -1,9 +1,9 @@
 {
-  "confirmed": 71441,
-  "active": 46068,
+  "confirmed": 71445,
+  "active": 46072,
   "recovered": 23059,
   "dead": 2310,
-  "updatedTime": "12/05/2020 18:12:23",
+  "updatedTime": "12/05/2020 18:41:23",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -487,18 +487,18 @@
     },
     "UT": {
       "name": "Uttarakhand",
-      "confirmed": 68,
-      "active": 21,
+      "confirmed": 69,
+      "active": 22,
       "recovered": 46,
       "dead": 1,
-      "updatedTime": "11/05/2020 11:37:24",
+      "updatedTime": "12/05/2020 18:41:25",
       "note": "",
       "stateCode": "UT",
       "today": {
-        "confirmed": 0,
+        "confirmed": 1,
         "recovered": 0,
         "dead": 0,
-        "active": 0
+        "active": 1
       },
       "testing_data": {
         "tested": 9915,
@@ -559,18 +559,18 @@
     },
     "HP": {
       "name": "Himachal Pradesh",
-      "confirmed": 62,
-      "active": 21,
+      "confirmed": 65,
+      "active": 24,
       "recovered": 35,
       "dead": 3,
-      "updatedTime": "12/05/2020 15:40:24",
+      "updatedTime": "12/05/2020 18:41:25",
       "note": "HP has 4 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed",
       "stateCode": "HP",
       "today": {
-        "confirmed": 3,
+        "confirmed": 6,
         "recovered": 0,
         "dead": 0,
-        "active": 3
+        "active": 6
       },
       "testing_data": {
         "tested": 11267,
@@ -879,9 +879,9 @@
     "source": "https://www.icmr.gov.in/pdf/covid/update/ICMR_testing_update_12May2020_9AM_IST.pdf"
   },
   "today": {
-    "confirmed": 672,
+    "confirmed": 676,
     "recovered": 510,
     "dead": 16,
-    "active": 146
+    "active": 150
   }
 }
