@@ -1126,9 +1126,9 @@
   "BR": {
     "state": "Bihar",
     "confirmed": 908,
-    "active": 520,
+    "active": 519,
     "recovered": 382,
-    "dead": 6,
+    "dead": 7,
     "districts": [
       {
         "district": "Araria",
@@ -1483,15 +1483,15 @@
       {
         "district": "Patna",
         "notes": "",
-        "active": 53,
+        "active": 52,
         "confirmed": 90,
         "recovered": 36,
-        "dead": 1,
+        "dead": 2,
         "today": {
           "confirmed": 0,
           "recovered": 0,
-          "active": 0,
-          "dead": 0
+          "active": -1,
+          "dead": 1
         }
       },
       {
@@ -1665,9 +1665,9 @@
     ],
     "today": {
       "confirmed": 29,
-      "active": 29,
+      "active": 28,
       "recovered": 0,
-      "dead": 0
+      "dead": 1
     }
   },
   "CH": {
