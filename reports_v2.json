@@ -1,9 +1,9 @@
 {
-  "confirmed": 74954,
-  "active": 47617,
+  "confirmed": 74983,
+  "active": 47643,
   "recovered": 24896,
-  "dead": 2437,
-  "updatedTime": "13/05/2020 15:42:23",
+  "dead": 2440,
+  "updatedTime": "13/05/2020 16:11:23",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -104,17 +104,17 @@
     "RJ": {
       "name": "Rajasthan",
       "confirmed": 4213,
-      "active": 1641,
+      "active": 1638,
       "recovered": 2455,
-      "dead": 117,
-      "updatedTime": "13/05/2020 09:43:24",
+      "dead": 120,
+      "updatedTime": "13/05/2020 16:11:24",
       "note": "",
       "stateCode": "RJ",
       "today": {
         "confirmed": 87,
         "recovered": 1,
-        "dead": 0,
-        "active": 86
+        "dead": 3,
+        "active": 83
       },
       "testing_data": {
         "tested": 185610,
@@ -173,30 +173,6 @@
         "source": "https://t.me/indiacovid/4634?single"
       }
     },
-    "AP": {
-      "name": "Andhra Pradesh",
-      "confirmed": 2137,
-      "active": 948,
-      "recovered": 1142,
-      "dead": 47,
-      "updatedTime": "13/05/2020 11:54:24",
-      "note": "",
-      "stateCode": "AP",
-      "today": {
-        "confirmed": 48,
-        "recovered": 86,
-        "dead": 1,
-        "active": -39
-      },
-      "testing_data": {
-        "tested": 191874,
-        "positive": 2051,
-        "negative": 189823,
-        "unconfirmed": 0,
-        "date": "12/05/2020",
-        "source": "http://hmfw.ap.gov.in/covid_dashboard.aspx"
-      }
-    },
     "WB": {
       "name": "West Bengal",
       "confirmed": 2173,
@@ -219,6 +195,30 @@
         "unconfirmed": 0,
         "date": "12/05/2020",
         "source": "https://www.wbhealth.gov.in/uploaded_files/corona/WB_DHFW_Bulletin_12th_MAY_REPORT_FINAL.pdf"
+      }
+    },
+    "AP": {
+      "name": "Andhra Pradesh",
+      "confirmed": 2137,
+      "active": 948,
+      "recovered": 1142,
+      "dead": 47,
+      "updatedTime": "13/05/2020 11:54:24",
+      "note": "",
+      "stateCode": "AP",
+      "today": {
+        "confirmed": 48,
+        "recovered": 86,
+        "dead": 1,
+        "active": -39
+      },
+      "testing_data": {
+        "tested": 191874,
+        "positive": 2051,
+        "negative": 189823,
+        "unconfirmed": 0,
+        "date": "12/05/2020",
+        "source": "http://hmfw.ap.gov.in/covid_dashboard.aspx"
       }
     },
     "PB": {
@@ -269,6 +269,30 @@
         "source": "http://124.124.103.93/COVID/home.htm"
       }
     },
+    "KA": {
+      "name": "Karnataka",
+      "confirmed": 951,
+      "active": 476,
+      "recovered": 442,
+      "dead": 32,
+      "updatedTime": "13/05/2020 15:42:24",
+      "note": "One active case in KA reduced as a confirmed patient died of non-CoViD19 related reasons",
+      "stateCode": "KA",
+      "today": {
+        "confirmed": 26,
+        "recovered": 9,
+        "dead": 1,
+        "active": 16
+      },
+      "testing_data": {
+        "tested": 116533,
+        "positive": 925,
+        "negative": 111264,
+        "unconfirmed": 0,
+        "date": "12/05/2020",
+        "source": "https://covid19.karnataka.gov.in/storage/pdf-files/Media-Bulletin/12-05-2020%2005-00%20English.pdf"
+      }
+    },
     "JK": {
       "name": "Jammu and Kashmir",
       "confirmed": 934,
@@ -293,28 +317,28 @@
         "source": "https://twitter.com/diprjk/status/1260200858555494400"
       }
     },
-    "KA": {
-      "name": "Karnataka",
-      "confirmed": 951,
-      "active": 476,
-      "recovered": 442,
-      "dead": 32,
-      "updatedTime": "13/05/2020 15:42:24",
-      "note": "One active case in KA reduced as a confirmed patient died of non-CoViD19 related reasons",
-      "stateCode": "KA",
+    "BR": {
+      "name": "Bihar",
+      "confirmed": 908,
+      "active": 520,
+      "recovered": 382,
+      "dead": 6,
+      "updatedTime": "13/05/2020 16:03:24",
+      "note": "",
+      "stateCode": "BR",
       "today": {
-        "confirmed": 26,
-        "recovered": 9,
-        "dead": 1,
-        "active": 16
+        "confirmed": 29,
+        "recovered": 0,
+        "dead": 0,
+        "active": 29
       },
       "testing_data": {
-        "tested": 116533,
-        "positive": 925,
-        "negative": 111264,
-        "unconfirmed": 0,
+        "tested": 37430,
+        "positive": 796,
+        "negative": 0,
+        "unconfirmed": 2673,
         "date": "12/05/2020",
-        "source": "https://covid19.karnataka.gov.in/storage/pdf-files/Media-Bulletin/12-05-2020%2005-00%20English.pdf"
+        "source": "https://twitter.com/SHSBihar/status/1260170113812070401"
       }
     },
     "HR": {
@@ -341,28 +365,28 @@
         "source": "http://www.nhmharyana.gov.in/WriteReadData/userfiles/file/CoronaVirus/Morning%20Bulletin%2013-05-2020.pdf"
       }
     },
-    "BR": {
-      "name": "Bihar",
-      "confirmed": 879,
-      "active": 491,
-      "recovered": 382,
-      "dead": 6,
-      "updatedTime": "13/05/2020 11:10:24",
+    "OR": {
+      "name": "Odisha",
+      "confirmed": 538,
+      "active": 419,
+      "recovered": 116,
+      "dead": 3,
+      "updatedTime": "13/05/2020 09:22:24",
       "note": "",
-      "stateCode": "BR",
+      "stateCode": "OR",
       "today": {
-        "confirmed": 0,
+        "confirmed": 101,
         "recovered": 0,
         "dead": 0,
-        "active": 0
+        "active": 101
       },
       "testing_data": {
-        "tested": 37430,
-        "positive": 796,
+        "tested": 68057,
+        "positive": 437,
         "negative": 0,
-        "unconfirmed": 2673,
+        "unconfirmed": 0,
         "date": "12/05/2020",
-        "source": "https://twitter.com/SHSBihar/status/1260170113812070401"
+        "source": "https://statedashboard.odisha.gov.in/"
       }
     },
     "KL": {
@@ -387,30 +411,6 @@
         "unconfirmed": 296,
         "date": "12/05/2020",
         "source": "https://dashboard.kerala.gov.in/testing-view-public.php"
-      }
-    },
-    "OR": {
-      "name": "Odisha",
-      "confirmed": 538,
-      "active": 419,
-      "recovered": 116,
-      "dead": 3,
-      "updatedTime": "13/05/2020 09:22:24",
-      "note": "",
-      "stateCode": "OR",
-      "today": {
-        "confirmed": 101,
-        "recovered": 0,
-        "dead": 0,
-        "active": 101
-      },
-      "testing_data": {
-        "tested": 68057,
-        "positive": 437,
-        "negative": 0,
-        "unconfirmed": 0,
-        "date": "12/05/2020",
-        "source": "https://statedashboard.odisha.gov.in/"
       }
     },
     "CH": {
@@ -509,6 +509,30 @@
         "source": "http://health.uk.gov.in/files/2020.05.12_Health_Bulletin.pdf"
       }
     },
+    "HP": {
+      "name": "Himachal Pradesh",
+      "confirmed": 66,
+      "active": 25,
+      "recovered": 35,
+      "dead": 3,
+      "updatedTime": "12/05/2020 22:52:24",
+      "note": "HP has 4 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed",
+      "stateCode": "HP",
+      "today": {
+        "confirmed": 0,
+        "recovered": 0,
+        "dead": 0,
+        "active": 0
+      },
+      "testing_data": {
+        "tested": 12224,
+        "positive": 66,
+        "negative": 11846,
+        "unconfirmed": 312,
+        "date": "12/05/2020",
+        "source": "https://twitter.com/nhm_hp/status/1260248852176781312"
+      }
+    },
     "AS": {
       "name": "Assam",
       "confirmed": 65,
@@ -555,30 +579,6 @@
         "unconfirmed": 1539,
         "date": "12/05/2020",
         "source": "http://cghealth.nic.in/cghealth17/Information/content/CORONA/MediaBulletinHindi_12052020.pdf"
-      }
-    },
-    "HP": {
-      "name": "Himachal Pradesh",
-      "confirmed": 66,
-      "active": 25,
-      "recovered": 35,
-      "dead": 3,
-      "updatedTime": "12/05/2020 22:52:24",
-      "note": "HP has 4 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed",
-      "stateCode": "HP",
-      "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
-      },
-      "testing_data": {
-        "tested": 12224,
-        "positive": 66,
-        "negative": 11846,
-        "unconfirmed": 312,
-        "date": "12/05/2020",
-        "source": "https://twitter.com/nhm_hp/status/1260248852176781312"
       }
     },
     "LA": {
@@ -879,9 +879,9 @@
     "source": "https://www.icmr.gov.in/pdf/covid/update/ICMR_testing_update_13May2020_9AM_IST.pdf"
   },
   "today": {
-    "confirmed": 624,
+    "confirmed": 653,
     "recovered": 443,
-    "dead": 22,
-    "active": 159
+    "dead": 25,
+    "active": 185
   }
 }
