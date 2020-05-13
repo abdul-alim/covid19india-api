@@ -1672,29 +1672,29 @@
   },
   "CH": {
     "state": "Chandigarh",
-    "confirmed": 187,
-    "active": 154,
+    "confirmed": 189,
+    "active": 156,
     "recovered": 30,
     "dead": 3,
     "districts": [
       {
         "district": "Chandigarh",
         "notes": "",
-        "active": 154,
-        "confirmed": 187,
+        "active": 156,
+        "confirmed": 189,
         "recovered": 30,
         "dead": 3,
         "today": {
-          "confirmed": 0,
+          "confirmed": 2,
           "recovered": 0,
-          "active": 0,
+          "active": 2,
           "dead": 0
         }
       }
     ],
     "today": {
-      "confirmed": 0,
-      "active": 0,
+      "confirmed": 2,
+      "active": 2,
       "recovered": 0,
       "dead": 0
     }
@@ -4090,10 +4090,10 @@
   },
   "KA": {
     "state": "Karnataka",
-    "confirmed": 925,
-    "active": 461,
-    "recovered": 433,
-    "dead": 31,
+    "confirmed": 951,
+    "active": 477,
+    "recovered": 442,
+    "dead": 32,
     "districts": [
       {
         "district": "Bagalkote",
@@ -4522,6 +4522,20 @@
         "confirmed": 2,
         "recovered": 0,
         "dead": 0,
+        "today": {
+          "confirmed": 0,
+          "recovered": 0,
+          "active": 0,
+          "dead": 0
+        }
+      },
+      {
+        "district": "Unknown",
+        "notes": "",
+        "active": 16,
+        "confirmed": 26,
+        "recovered": 9,
+        "dead": 1,
         "today": {
           "confirmed": 0,
           "recovered": 0,
