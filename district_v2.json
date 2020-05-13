@@ -3403,8 +3403,8 @@
   "JH": {
     "state": "Jharkhand",
     "confirmed": 177,
-    "active": 95,
-    "recovered": 79,
+    "active": 87,
+    "recovered": 87,
     "dead": 3,
     "districts": [
       {
@@ -3494,14 +3494,14 @@
       {
         "district": "Garhwa",
         "notes": "",
-        "active": 21,
+        "active": 20,
         "confirmed": 23,
-        "recovered": 2,
+        "recovered": 3,
         "dead": 0,
         "today": {
           "confirmed": 0,
-          "recovered": 0,
-          "active": 0,
+          "recovered": 1,
+          "active": -1,
           "dead": 0
         }
       },
@@ -3676,14 +3676,14 @@
       {
         "district": "Ranchi",
         "notes": "",
-        "active": 40,
+        "active": 33,
         "confirmed": 96,
-        "recovered": 54,
+        "recovered": 61,
         "dead": 2,
         "today": {
           "confirmed": 1,
-          "recovered": 0,
-          "active": 1,
+          "recovered": 7,
+          "active": -6,
           "dead": 0
         }
       },
@@ -3760,8 +3760,8 @@
     ],
     "today": {
       "confirmed": 2,
-      "active": 2,
-      "recovered": 0,
+      "active": -6,
+      "recovered": 8,
       "dead": 0
     }
   },
