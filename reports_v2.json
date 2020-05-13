@@ -1,9 +1,9 @@
 {
-  "confirmed": 75090,
-  "active": 47707,
-  "recovered": 24937,
-  "dead": 2442,
-  "updatedTime": "13/05/2020 19:11:23",
+  "confirmed": 75278,
+  "active": 47743,
+  "recovered": 25081,
+  "dead": 2449,
+  "updatedTime": "13/05/2020 19:32:23",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -127,18 +127,18 @@
     },
     "MP": {
       "name": "Madhya Pradesh",
-      "confirmed": 3986,
-      "active": 1901,
-      "recovered": 1860,
-      "dead": 225,
-      "updatedTime": "12/05/2020 19:36:27",
+      "confirmed": 4173,
+      "active": 1937,
+      "recovered": 2004,
+      "dead": 232,
+      "updatedTime": "13/05/2020 19:32:24",
       "note": "",
       "stateCode": "MP",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 187,
+        "recovered": 144,
+        "dead": 7,
+        "active": 36
       },
       "testing_data": {
         "tested": 80885,
@@ -323,7 +323,7 @@
       "active": 543,
       "recovered": 382,
       "dead": 7,
-      "updatedTime": "13/05/2020 19:11:24",
+      "updatedTime": "13/05/2020 19:13:24",
       "note": "",
       "stateCode": "BR",
       "today": {
@@ -487,18 +487,18 @@
     },
     "UT": {
       "name": "Uttarakhand",
-      "confirmed": 70,
-      "active": 23,
+      "confirmed": 71,
+      "active": 24,
       "recovered": 46,
       "dead": 1,
-      "updatedTime": "13/05/2020 15:13:24",
+      "updatedTime": "13/05/2020 19:23:27",
       "note": "",
       "stateCode": "UT",
       "today": {
-        "confirmed": 1,
+        "confirmed": 2,
         "recovered": 0,
         "dead": 0,
-        "active": 1
+        "active": 2
       },
       "testing_data": {
         "tested": 10471,
@@ -536,11 +536,11 @@
     "AS": {
       "name": "Assam",
       "confirmed": 65,
-      "active": 23,
+      "active": 22,
       "recovered": 40,
       "dead": 2,
-      "updatedTime": "12/05/2020 23:03:25",
-      "note": "Includes one case from Nagaland",
+      "updatedTime": "13/05/2020 19:23:28",
+      "note": "Includes one case from Nagaland <br>\nOne patient who migrated to Bihar has been reduced from Active count",
       "stateCode": "AS",
       "today": {
         "confirmed": 0,
@@ -879,9 +879,9 @@
     "source": "https://www.icmr.gov.in/pdf/covid/update/ICMR_testing_update_13May2020_9AM_IST.pdf"
   },
   "today": {
-    "confirmed": 760,
-    "recovered": 484,
-    "dead": 27,
-    "active": 249
+    "confirmed": 948,
+    "recovered": 628,
+    "dead": 34,
+    "active": 286
   }
 }
