@@ -2094,10 +2094,10 @@
   },
   "DL": {
     "state": "Delhi",
-    "confirmed": 7639,
-    "active": 5041,
-    "recovered": 2512,
-    "dead": 86,
+    "confirmed": 7998,
+    "active": 5034,
+    "recovered": 2858,
+    "dead": 106,
     "districts": [
       {
         "district": "Central Delhi",
@@ -2256,10 +2256,10 @@
       {
         "district": "Unknown",
         "notes": "",
-        "active": 4254,
-        "confirmed": 6851,
-        "recovered": 2512,
-        "dead": 85,
+        "active": 4247,
+        "confirmed": 7210,
+        "recovered": 2858,
+        "dead": 105,
         "today": {
           "confirmed": 0,
           "recovered": 0,
@@ -5356,8 +5356,8 @@
   "ML": {
     "state": "Meghalaya",
     "confirmed": 13,
-    "active": 2,
-    "recovered": 10,
+    "active": 1,
+    "recovered": 11,
     "dead": 1,
     "districts": [
       {
@@ -5391,14 +5391,14 @@
       {
         "district": "East Khasi Hills",
         "notes": "",
-        "active": 2,
+        "active": 1,
         "confirmed": 13,
-        "recovered": 10,
+        "recovered": 11,
         "dead": 1,
         "today": {
           "confirmed": 0,
-          "recovered": 0,
-          "active": 0,
+          "recovered": 1,
+          "active": -1,
           "dead": 0
         }
       },
@@ -5517,8 +5517,8 @@
     ],
     "today": {
       "confirmed": 0,
-      "active": 0,
-      "recovered": 0,
+      "active": -1,
+      "recovered": 1,
       "dead": 0
     }
   },

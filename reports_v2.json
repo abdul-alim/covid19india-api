@@ -1,9 +1,9 @@
 {
-  "confirmed": 74518,
-  "active": 47645,
-  "recovered": 24454,
-  "dead": 2415,
-  "updatedTime": "13/05/2020 09:43:23",
+  "confirmed": 74877,
+  "active": 47637,
+  "recovered": 24801,
+  "dead": 2435,
+  "updatedTime": "13/05/2020 11:11:22",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -79,18 +79,18 @@
     },
     "DL": {
       "name": "Delhi",
-      "confirmed": 7639,
-      "active": 5041,
-      "recovered": 2512,
-      "dead": 86,
-      "updatedTime": "12/05/2020 12:02:23",
+      "confirmed": 7998,
+      "active": 5034,
+      "recovered": 2858,
+      "dead": 106,
+      "updatedTime": "13/05/2020 11:11:23",
       "note": "[10-May]<br>\n\nDelhi will be releasing bulletins in the morning, containing data of the previous day. We will add that data to the date on which the report is released, rather than the previous day.",
       "stateCode": "DL",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 359,
+        "recovered": 346,
+        "dead": 20,
+        "active": -7
       },
       "testing_data": {
         "tested": 106109,
@@ -347,7 +347,7 @@
       "active": 491,
       "recovered": 382,
       "dead": 6,
-      "updatedTime": "13/05/2020 02:43:25",
+      "updatedTime": "13/05/2020 11:10:24",
       "note": "",
       "stateCode": "BR",
       "today": {
@@ -632,17 +632,17 @@
     "ML": {
       "name": "Meghalaya",
       "confirmed": 13,
-      "active": 2,
-      "recovered": 10,
+      "active": 1,
+      "recovered": 11,
       "dead": 1,
-      "updatedTime": "09/05/2020 15:43:09",
+      "updatedTime": "13/05/2020 11:11:25",
       "note": "",
       "stateCode": "ML",
       "today": {
         "confirmed": 0,
-        "recovered": 0,
+        "recovered": 1,
         "dead": 0,
-        "active": 0
+        "active": -1
       },
       "testing_data": {
         "tested": 2480,
@@ -879,9 +879,9 @@
     "source": "https://www.icmr.gov.in/pdf/covid/update/ICMR_testing_update_13May2020_9AM_IST.pdf"
   },
   "today": {
-    "confirmed": 188,
-    "recovered": 1,
-    "dead": 0,
-    "active": 187
+    "confirmed": 547,
+    "recovered": 348,
+    "dead": 20,
+    "active": 179
   }
 }
