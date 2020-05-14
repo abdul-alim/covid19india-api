@@ -1,9 +1,9 @@
 {
-  "confirmed": 81990,
-  "active": 51380,
+  "confirmed": 81987,
+  "active": 51377,
   "recovered": 27956,
   "dead": 2649,
-  "updatedTime": "14/05/2020 22:22:23",
+  "updatedTime": "14/05/2020 22:41:23",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -21,12 +21,11 @@
         "active": 1046
       },
       "testing_data": {
-        "tested": 240482,
-        "positive": 25922,
-        "negative": 211082,
+        "tested": 0,
+        "positive": 0,
+        "negative": 0,
         "unconfirmed": 0,
-        "date": "14/05/2020",
-        "source": "https://twitter.com/Maha_MEDD/status/1260804289620049925?s=19"
+        "updated": false
       }
     },
     "TN": {
@@ -45,12 +44,11 @@
         "active": 380
       },
       "testing_data": {
-        "tested": 291432,
-        "positive": 9674,
-        "negative": 281001,
-        "unconfirmed": 757,
-        "date": "14/05/2020",
-        "source": "https://stopcorona.tn.gov.in/wp-content/uploads/2020/03/Media-Bulletin-14-05-20-COVID-19-6-PM.pdf"
+        "tested": 0,
+        "positive": 0,
+        "negative": 0,
+        "unconfirmed": 0,
+        "updated": false
       }
     },
     "GJ": {
@@ -117,12 +115,11 @@
         "active": 81
       },
       "testing_data": {
-        "tested": 85903,
-        "positive": 4173,
-        "negative": 77738,
+        "tested": 0,
+        "positive": 0,
+        "negative": 0,
         "unconfirmed": 0,
-        "date": "13/05/2020",
-        "source": "https://twitter.com/healthminmp/status/1260561896341745664"
+        "updated": false
       }
     },
     "RJ": {
@@ -141,36 +138,34 @@
         "active": 137
       },
       "testing_data": {
-        "tested": 194683,
-        "positive": 4328,
-        "negative": 186125,
-        "unconfirmed": 4230,
-        "date": "13/05/2020",
-        "source": "https://t.me/indiacovid/4702"
+        "tested": 0,
+        "positive": 0,
+        "negative": 0,
+        "unconfirmed": 0,
+        "updated": false
       }
     },
     "UP": {
       "name": "Uttar Pradesh",
-      "confirmed": 3905,
-      "active": 1745,
+      "confirmed": 3902,
+      "active": 1742,
       "recovered": 2072,
       "dead": 88,
-      "updatedTime": "14/05/2020 22:21:25",
+      "updatedTime": "14/05/2020 22:41:24",
       "note": "",
       "stateCode": "UP",
       "today": {
-        "confirmed": 147,
+        "confirmed": 144,
         "recovered": 107,
         "dead": 2,
-        "active": 38
+        "active": 35
       },
       "testing_data": {
-        "tested": 145637,
-        "positive": 3578,
-        "negative": 141068,
-        "unconfirmed": 811,
-        "date": "13/05/2020",
-        "source": "https://t.me/indiacovid/4705?single"
+        "tested": 0,
+        "positive": 0,
+        "negative": 0,
+        "unconfirmed": 0,
+        "updated": false
       }
     },
     "WB": {
@@ -189,12 +184,11 @@
         "active": 13
       },
       "testing_data": {
-        "tested": 57632,
-        "positive": 2290,
+        "tested": 0,
+        "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "13/05/2020",
-        "source": "https://www.wbhealth.gov.in/uploaded_files/corona/WB_DHFW_Bulletin_13th_MAY_REPORT_FINAL.pdf"
+        "updated": false
       }
     },
     "AP": {
@@ -237,12 +231,11 @@
         "active": -12
       },
       "testing_data": {
-        "tested": 46026,
-        "positive": 1924,
-        "negative": 40637,
-        "unconfirmed": 3465,
-        "date": "13/05/2020",
-        "source": "http://pbhealth.gov.in/Media%20Bulletin%20COVID-19%2013-05-2020.pdf"
+        "tested": 0,
+        "positive": 0,
+        "negative": 0,
+        "unconfirmed": 0,
+        "updated": false
       }
     },
     "TG": {
@@ -261,12 +254,11 @@
         "active": 34
       },
       "testing_data": {
-        "tested": 19278,
-        "positive": 1016,
+        "tested": 0,
+        "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "29/04/2020",
-        "source": "http://124.124.103.93/COVID/home.htm"
+        "updated": false
       }
     },
     "BR": {
@@ -381,12 +373,11 @@
         "active": 71
       },
       "testing_data": {
-        "tested": 72756,
-        "positive": 538,
+        "tested": 0,
+        "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "13/05/2020",
-        "source": "https://statedashboard.odisha.gov.in/"
+        "updated": false
       }
     },
     "KL": {
@@ -407,10 +398,10 @@
       "testing_data": {
         "tested": 40692,
         "positive": 560,
-        "negative": 0,
-        "unconfirmed": 0,
+        "negative": 39619,
+        "unconfirmed": 513,
         "date": "14/05/2020",
-        "source": ""
+        "source": "https://dashboard.kerala.gov.in/testing-view-public.php"
       }
     },
     "CH": {
@@ -443,7 +434,7 @@
       "active": 107,
       "recovered": 87,
       "dead": 3,
-      "updatedTime": "14/05/2020 16:03:24",
+      "updatedTime": "14/05/2020 22:23:27",
       "note": "",
       "stateCode": "JH",
       "today": {
@@ -477,12 +468,11 @@
         "active": -14
       },
       "testing_data": {
-        "tested": 11146,
-        "positive": 155,
-        "negative": 10991,
+        "tested": 0,
+        "positive": 0,
+        "negative": 0,
         "unconfirmed": 0,
-        "date": "13/05/2020",
-        "source": "https://covid19.tripura.gov.in/Visitor/ViewStatus.aspx"
+        "updated": false
       }
     },
     "AS": {
@@ -525,12 +515,11 @@
         "active": 2
       },
       "testing_data": {
-        "tested": 11294,
-        "positive": 75,
-        "negative": 10157,
-        "unconfirmed": 386,
-        "date": "14/05/2020",
-        "source": "https://t.me/indiacovid/4731"
+        "tested": 0,
+        "positive": 0,
+        "negative": 0,
+        "unconfirmed": 0,
+        "updated": false
       }
     },
     "HP": {
@@ -597,12 +586,11 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 3683,
-        "positive": 43,
-        "negative": 3353,
-        "unconfirmed": 211,
-        "date": "13/05/2020",
-        "source": "https://mobile.twitter.com/ladags/status/1260600445707288582?s=19"
+        "tested": 0,
+        "positive": 0,
+        "negative": 0,
+        "unconfirmed": 0,
+        "updated": false
       }
     },
     "AN": {
@@ -669,12 +657,11 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 2480,
-        "positive": 13,
-        "negative": 2342,
-        "unconfirmed": 125,
-        "date": "11/05/2020",
-        "source": "http://meghalayaonline.gov.in/covid/login.htm"
+        "tested": 0,
+        "positive": 0,
+        "negative": 0,
+        "unconfirmed": 0,
+        "updated": false
       }
     },
     "PY": {
@@ -693,12 +680,11 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 4919,
-        "positive": 18,
-        "negative": 4832,
-        "unconfirmed": 69,
-        "date": "13/05/2020",
-        "source": "https://t.me/indiacovid/4659?single"
+        "tested": 0,
+        "positive": 0,
+        "negative": 0,
+        "unconfirmed": 0,
+        "updated": false
       }
     },
     "MN": {
@@ -717,12 +703,11 @@
         "active": 1
       },
       "testing_data": {
-        "tested": 1706,
-        "positive": 2,
+        "tested": 0,
+        "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "13/05/2020",
-        "source": "http://nrhmmanipur.org/wp-content/uploads/2020/05/status_130520.jpg"
+        "updated": false
       }
     },
     "MZ": {
@@ -741,12 +726,11 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 224,
-        "positive": 1,
+        "tested": 0,
+        "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "13/05/2020",
-        "source": "https://dipr.mizoram.gov.in/post/status-of-state-surveillance-of-covid-19-time-1252020-500pm-1352020-500-pm"
+        "updated": false
       }
     },
     "AR": {
@@ -789,12 +773,11 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 889,
+        "tested": 0,
         "positive": 0,
-        "negative": 872,
-        "unconfirmed": 17,
-        "date": "13/05/2020",
-        "source": "https://covid19.nagaland.gov.in/"
+        "negative": 0,
+        "unconfirmed": 0,
+        "updated": false
       }
     },
     "DD": {
@@ -859,29 +842,28 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 579,
+        "tested": 0,
         "positive": 0,
-        "negative": 292,
-        "unconfirmed": 287,
-        "date": "14/05/2020",
-        "source": "https://covid19sikkim.org/"
+        "negative": 0,
+        "unconfirmed": 0,
+        "updated": false
       }
     }
   },
   "testing_data": {
-    "tested": 2093955,
-    "positive": 78832,
-    "negative": 1521360,
-    "unconfirmed": 20480
+    "tested": 903206,
+    "positive": 25082,
+    "negative": 590489,
+    "unconfirmed": 10635
   },
   "testing_data_imcr": {
     "tested": 1947041,
     "source": "https://www.icmr.gov.in/pdf/covid/update/ICMR_testing_update_14May2020_9AM_IST.pdf"
   },
   "today": {
-    "confirmed": 3933,
+    "confirmed": 3930,
     "recovered": 1539,
     "dead": 97,
-    "active": 2297
+    "active": 2294
   }
 }
