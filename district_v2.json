@@ -5574,14 +5574,14 @@
       {
         "district": "Imphal East",
         "notes": "",
-        "active": 0,
-        "confirmed": 1,
+        "active": 1,
+        "confirmed": 2,
         "recovered": 1,
         "dead": 0,
         "today": {
-          "confirmed": 0,
+          "confirmed": 1,
           "recovered": 0,
-          "active": 0,
+          "active": 1,
           "dead": 0
         }
       },
@@ -5752,25 +5752,11 @@
           "active": 0,
           "dead": 0
         }
-      },
-      {
-        "district": "Unknown",
-        "notes": "",
-        "active": 1,
-        "confirmed": 1,
-        "recovered": 0,
-        "dead": 0,
-        "today": {
-          "confirmed": 0,
-          "recovered": 0,
-          "active": 0,
-          "dead": 0
-        }
       }
     ],
     "today": {
-      "confirmed": 0,
-      "active": 0,
+      "confirmed": 1,
+      "active": 1,
       "recovered": 0,
       "dead": 0
     }
@@ -8319,22 +8305,22 @@
   },
   "TG": {
     "state": "Telangana",
-    "confirmed": 1367,
-    "active": 394,
-    "recovered": 939,
+    "confirmed": 1414,
+    "active": 428,
+    "recovered": 952,
     "dead": 34,
     "districts": [
       {
         "district": "Other State",
         "notes": "",
-        "active": 35,
-        "confirmed": 35,
+        "active": 37,
+        "confirmed": 37,
         "recovered": 0,
         "dead": 0,
         "today": {
-          "confirmed": 0,
+          "confirmed": 2,
           "recovered": 0,
-          "active": 0,
+          "active": 2,
           "dead": 0
         }
       },
@@ -8369,14 +8355,14 @@
       {
         "district": "Hyderabad",
         "notes": "",
-        "active": 504,
-        "confirmed": 827,
+        "active": 544,
+        "confirmed": 867,
         "recovered": 300,
         "dead": 23,
         "today": {
-          "confirmed": 0,
+          "confirmed": 40,
           "recovered": 0,
-          "active": 0,
+          "active": 40,
           "dead": 0
         }
       },
@@ -8677,14 +8663,14 @@
       {
         "district": "Ranga Reddy",
         "notes": "",
-        "active": 17,
-        "confirmed": 36,
+        "active": 22,
+        "confirmed": 41,
         "recovered": 17,
         "dead": 2,
         "today": {
-          "confirmed": 0,
+          "confirmed": 5,
           "recovered": 0,
-          "active": 0,
+          "active": 5,
           "dead": 0
         }
       },
@@ -8803,9 +8789,9 @@
       {
         "district": "Unknown",
         "notes": "",
-        "active": -359,
+        "active": -372,
         "confirmed": 40,
-        "recovered": 395,
+        "recovered": 408,
         "dead": 4,
         "today": {
           "confirmed": 0,
@@ -8816,8 +8802,8 @@
       }
     ],
     "today": {
-      "confirmed": 0,
-      "active": 0,
+      "confirmed": 47,
+      "active": 47,
       "recovered": 0,
       "dead": 0
     }
