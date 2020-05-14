@@ -1,9 +1,9 @@
 {
-  "confirmed": 78055,
-  "active": 49099,
-  "recovered": 26400,
+  "confirmed": 78056,
+  "active": 49086,
+  "recovered": 26414,
   "dead": 2551,
-  "updatedTime": "14/05/2020 07:56:23",
+  "updatedTime": "14/05/2020 08:51:23",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -463,25 +463,25 @@
     },
     "TR": {
       "name": "Tripura",
-      "confirmed": 154,
-      "active": 152,
-      "recovered": 2,
+      "confirmed": 155,
+      "active": 139,
+      "recovered": 16,
       "dead": 0,
-      "updatedTime": "12/05/2020 23:13:25",
+      "updatedTime": "14/05/2020 08:51:24",
       "note": "",
       "stateCode": "TR",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 1,
+        "recovered": 14,
         "dead": 0,
-        "active": 0
+        "active": -13
       },
       "testing_data": {
-        "tested": 10344,
+        "tested": 11146,
         "positive": 155,
-        "negative": 10189,
+        "negative": 10991,
         "unconfirmed": 0,
-        "date": "12/05/2020",
+        "date": "13/05/2020",
         "source": "https://covid19.tripura.gov.in/Visitor/ViewStatus.aspx"
       }
     },
@@ -869,9 +869,9 @@
     }
   },
   "testing_data": {
-    "tested": 2009606,
+    "tested": 2010408,
     "positive": 75360,
-    "negative": 1611168,
+    "negative": 1611970,
     "unconfirmed": 21274
   },
   "testing_data_imcr": {
@@ -879,9 +879,9 @@
     "source": "https://www.icmr.gov.in/pdf/covid/update/ICMR_testing_update_13May2020_9AM_IST.pdf"
   },
   "today": {
-    "confirmed": 0,
-    "recovered": 0,
+    "confirmed": 1,
+    "recovered": 14,
     "dead": 0,
-    "active": 0
+    "active": -13
   }
 }
