@@ -1,9 +1,9 @@
 {
-  "confirmed": 79352,
-  "active": 49939,
+  "confirmed": 79688,
+  "active": 50255,
   "recovered": 26841,
-  "dead": 2567,
-  "updatedTime": "14/05/2020 19:43:23",
+  "dead": 2587,
+  "updatedTime": "14/05/2020 20:13:44",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -31,18 +31,18 @@
     },
     "GJ": {
       "name": "Gujarat",
-      "confirmed": 9268,
-      "active": 5140,
+      "confirmed": 9592,
+      "active": 5444,
       "recovered": 3562,
-      "dead": 566,
-      "updatedTime": "13/05/2020 20:33:34",
+      "dead": 586,
+      "updatedTime": "14/05/2020 20:14:04",
       "note": "",
       "stateCode": "GJ",
       "today": {
-        "confirmed": 0,
+        "confirmed": 324,
         "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "dead": 20,
+        "active": 304
       },
       "testing_data": {
         "tested": 122297,
@@ -319,18 +319,18 @@
     },
     "BR": {
       "name": "Bihar",
-      "confirmed": 966,
-      "active": 559,
+      "confirmed": 978,
+      "active": 571,
       "recovered": 400,
       "dead": 7,
-      "updatedTime": "14/05/2020 15:13:24",
+      "updatedTime": "14/05/2020 20:13:54",
       "note": "",
       "stateCode": "BR",
       "today": {
-        "confirmed": 13,
+        "confirmed": 25,
         "recovered": 0,
         "dead": 0,
-        "active": 13
+        "active": 25
       },
       "testing_data": {
         "tested": 40782,
@@ -879,9 +879,9 @@
     "source": "https://www.icmr.gov.in/pdf/covid/update/ICMR_testing_update_14May2020_9AM_IST.pdf"
   },
   "today": {
-    "confirmed": 1295,
+    "confirmed": 1631,
     "recovered": 424,
-    "dead": 15,
-    "active": 856
+    "dead": 35,
+    "active": 1172
   }
 }
