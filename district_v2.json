@@ -4077,8 +4077,8 @@
   "KA": {
     "state": "Karnataka",
     "confirmed": 981,
-    "active": 491,
-    "recovered": 455,
+    "active": 490,
+    "recovered": 456,
     "dead": 35,
     "districts": [
       {
@@ -4308,14 +4308,14 @@
       {
         "district": "Kalaburagi",
         "notes": "",
-        "active": 30,
+        "active": 28,
         "confirmed": 81,
-        "recovered": 44,
+        "recovered": 46,
         "dead": 7,
         "today": {
           "confirmed": 0,
-          "recovered": 0,
-          "active": 0,
+          "recovered": 2,
+          "active": -2,
           "dead": 0
         }
       },
@@ -4378,14 +4378,14 @@
       {
         "district": "Mysuru",
         "notes": "",
-        "active": 4,
+        "active": 2,
         "confirmed": 88,
-        "recovered": 84,
+        "recovered": 86,
         "dead": 0,
         "today": {
           "confirmed": 0,
-          "recovered": 0,
-          "active": 0,
+          "recovered": 2,
+          "active": -2,
           "dead": 0
         }
       },
@@ -4490,9 +4490,9 @@
       {
         "district": "Vijayapura",
         "notes": "",
-        "active": 14,
+        "active": 13,
         "confirmed": 52,
-        "recovered": 35,
+        "recovered": 36,
         "dead": 3,
         "today": {
           "confirmed": 0,
@@ -4514,26 +4514,12 @@
           "active": 0,
           "dead": 0
         }
-      },
-      {
-        "district": "Unknown",
-        "notes": "",
-        "active": -4,
-        "confirmed": 0,
-        "recovered": 4,
-        "dead": 0,
-        "today": {
-          "confirmed": 0,
-          "recovered": 0,
-          "active": 0,
-          "dead": 0
-        }
       }
     ],
     "today": {
       "confirmed": 22,
-      "active": 20,
-      "recovered": 0,
+      "active": 16,
+      "recovered": 4,
       "dead": 2
     }
   },
