@@ -894,14 +894,14 @@
       {
         "district": "Kamrup Metropolitan",
         "notes": "",
-        "active": 19,
-        "confirmed": 21,
+        "active": 27,
+        "confirmed": 29,
         "recovered": 1,
         "dead": 1,
         "today": {
-          "confirmed": 0,
+          "confirmed": 8,
           "recovered": 0,
-          "active": 0,
+          "active": 8,
           "dead": 0
         }
       },
@@ -978,14 +978,14 @@
       {
         "district": "Morigaon",
         "notes": "",
-        "active": 1,
-        "confirmed": 7,
+        "active": 0,
+        "confirmed": 6,
         "recovered": 6,
         "dead": 0,
         "today": {
-          "confirmed": 0,
+          "confirmed": -1,
           "recovered": 0,
-          "active": 0,
+          "active": -1,
           "dead": 0
         }
       },
@@ -1114,25 +1114,11 @@
           "active": 0,
           "dead": 0
         }
-      },
-      {
-        "district": "Unknown",
-        "notes": "",
-        "active": 7,
-        "confirmed": 7,
-        "recovered": 0,
-        "dead": 0,
-        "today": {
-          "confirmed": 0,
-          "recovered": 0,
-          "active": 0,
-          "dead": 0
-        }
       }
     ],
     "today": {
-      "confirmed": 0,
-      "active": 0,
+      "confirmed": 7,
+      "active": 7,
       "recovered": 0,
       "dead": 0
     }
