@@ -1,9 +1,9 @@
 {
-  "confirmed": 78290,
-  "active": 49242,
+  "confirmed": 78296,
+  "active": 49248,
   "recovered": 26488,
   "dead": 2555,
-  "updatedTime": "14/05/2020 13:03:23",
+  "updatedTime": "14/05/2020 13:32:23",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -204,7 +204,7 @@
       "recovered": 1192,
       "dead": 48,
       "updatedTime": "14/05/2020 12:33:24",
-      "note": "",
+      "note": "Total includes patients from other states.",
       "stateCode": "AP",
       "today": {
         "confirmed": 68,
@@ -535,18 +535,18 @@
     },
     "AS": {
       "name": "Assam",
-      "confirmed": 80,
-      "active": 37,
+      "confirmed": 86,
+      "active": 43,
       "recovered": 40,
       "dead": 2,
-      "updatedTime": "13/05/2020 20:33:39",
+      "updatedTime": "14/05/2020 13:32:25",
       "note": "Includes one case from Nagaland <br>\nOne patient who migrated to Bihar has been reduced from Active count",
       "stateCode": "AS",
       "today": {
-        "confirmed": 0,
+        "confirmed": 6,
         "recovered": 0,
         "dead": 0,
-        "active": 0
+        "active": 6
       },
       "testing_data": {
         "tested": 21791,
@@ -879,9 +879,9 @@
     "source": "https://www.icmr.gov.in/pdf/covid/update/ICMR_testing_update_14May2020_9AM_IST.pdf"
   },
   "today": {
-    "confirmed": 233,
+    "confirmed": 239,
     "recovered": 70,
     "dead": 4,
-    "active": 159
+    "active": 165
   }
 }

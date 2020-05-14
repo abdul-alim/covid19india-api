@@ -634,8 +634,8 @@
   },
   "AS": {
     "state": "Assam",
-    "confirmed": 80,
-    "active": 38,
+    "confirmed": 86,
+    "active": 44,
     "recovered": 40,
     "dead": 2,
     "districts": [
@@ -1106,6 +1106,20 @@
         "notes": "",
         "active": 0,
         "confirmed": 0,
+        "recovered": 0,
+        "dead": 0,
+        "today": {
+          "confirmed": 0,
+          "recovered": 0,
+          "active": 0,
+          "dead": 0
+        }
+      },
+      {
+        "district": "Unknown",
+        "notes": "",
+        "active": 6,
+        "confirmed": 6,
         "recovered": 0,
         "dead": 0,
         "today": {
@@ -2094,10 +2108,10 @@
   },
   "DL": {
     "state": "Delhi",
-    "confirmed": 7998,
-    "active": 5034,
-    "recovered": 2858,
-    "dead": 106,
+    "confirmed": 8470,
+    "active": 5310,
+    "recovered": 3045,
+    "dead": 115,
     "districts": [
       {
         "district": "Central Delhi",
@@ -2256,10 +2270,10 @@
       {
         "district": "Unknown",
         "notes": "",
-        "active": 4247,
-        "confirmed": 7210,
-        "recovered": 2858,
-        "dead": 105,
+        "active": 4523,
+        "confirmed": 7682,
+        "recovered": 3045,
+        "dead": 114,
         "today": {
           "confirmed": 0,
           "recovered": 0,
