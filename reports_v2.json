@@ -1,9 +1,9 @@
 {
-  "confirmed": 78296,
-  "active": 49248,
-  "recovered": 26488,
-  "dead": 2555,
-  "updatedTime": "14/05/2020 13:32:23",
+  "confirmed": 78768,
+  "active": 49524,
+  "recovered": 26675,
+  "dead": 2564,
+  "updatedTime": "14/05/2020 13:41:23",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -79,26 +79,26 @@
     },
     "DL": {
       "name": "Delhi",
-      "confirmed": 7998,
-      "active": 5034,
-      "recovered": 2858,
-      "dead": 106,
-      "updatedTime": "13/05/2020 11:13:23",
+      "confirmed": 8470,
+      "active": 5310,
+      "recovered": 3045,
+      "dead": 115,
+      "updatedTime": "14/05/2020 13:41:23",
       "note": "[10-May]<br>\n\nDelhi will be releasing bulletins in the morning, containing data of the previous day. We will add that data to the date on which the report is released, rather than the previous day.",
       "stateCode": "DL",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 472,
+        "recovered": 187,
+        "dead": 9,
+        "active": 276
       },
       "testing_data": {
-        "tested": 113345,
-        "positive": 7998,
+        "tested": 119736,
+        "positive": 8470,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "13/05/2020",
-        "source": "https://delhifightscorona.in/wp-content/uploads/2020/05/05-13.pdf"
+        "date": "14/05/2020",
+        "source": "https://delhifightscorona.in/wp-content/uploads/2020/05/05-14.pdf"
       }
     },
     "RJ": {
@@ -539,7 +539,7 @@
       "active": 43,
       "recovered": 40,
       "dead": 2,
-      "updatedTime": "14/05/2020 13:32:25",
+      "updatedTime": "14/05/2020 13:33:24",
       "note": "Includes one case from Nagaland <br>\nOne patient who migrated to Bihar has been reduced from Active count",
       "stateCode": "AS",
       "today": {
@@ -869,8 +869,8 @@
     }
   },
   "testing_data": {
-    "tested": 2041485,
-    "positive": 77465,
+    "tested": 2047876,
+    "positive": 77937,
     "negative": 1633888,
     "unconfirmed": 20902
   },
@@ -879,9 +879,9 @@
     "source": "https://www.icmr.gov.in/pdf/covid/update/ICMR_testing_update_14May2020_9AM_IST.pdf"
   },
   "today": {
-    "confirmed": 239,
-    "recovered": 70,
-    "dead": 4,
-    "active": 165
+    "confirmed": 711,
+    "recovered": 257,
+    "dead": 13,
+    "active": 441
   }
 }
