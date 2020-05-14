@@ -1,9 +1,9 @@
 {
-  "confirmed": 78200,
-  "active": 49227,
-  "recovered": 26416,
-  "dead": 2552,
-  "updatedTime": "14/05/2020 10:53:23",
+  "confirmed": 78290,
+  "active": 49260,
+  "recovered": 26470,
+  "dead": 2555,
+  "updatedTime": "14/05/2020 12:41:23",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -199,18 +199,18 @@
     },
     "AP": {
       "name": "Andhra Pradesh",
-      "confirmed": 2137,
-      "active": 948,
-      "recovered": 1142,
-      "dead": 47,
-      "updatedTime": "13/05/2020 11:54:24",
+      "confirmed": 2205,
+      "active": 965,
+      "recovered": 1192,
+      "dead": 48,
+      "updatedTime": "14/05/2020 12:33:24",
       "note": "",
       "stateCode": "AP",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 68,
+        "recovered": 50,
+        "dead": 1,
+        "active": 17
       },
       "testing_data": {
         "tested": 201196,
@@ -271,18 +271,18 @@
     },
     "KA": {
       "name": "Karnataka",
-      "confirmed": 959,
-      "active": 474,
-      "recovered": 451,
-      "dead": 33,
-      "updatedTime": "13/05/2020 18:08:24",
+      "confirmed": 981,
+      "active": 490,
+      "recovered": 455,
+      "dead": 35,
+      "updatedTime": "14/05/2020 12:41:24",
       "note": "One active case in KA reduced as a confirmed patient died of non-CoViD19 related reasons",
       "stateCode": "KA",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 22,
+        "recovered": 4,
+        "dead": 2,
+        "active": 16
       },
       "testing_data": {
         "tested": 121178,
@@ -573,12 +573,12 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 27339,
+        "tested": 28837,
         "positive": 59,
-        "negative": 25741,
-        "unconfirmed": 1539,
-        "date": "12/05/2020",
-        "source": "http://cghealth.nic.in/cghealth17/Information/content/CORONA/MediaBulletinHindi_12052020.pdf"
+        "negative": 27012,
+        "unconfirmed": 1766,
+        "date": "13/05/2020",
+        "source": "https://t.me/indiacovid/4711?single"
       }
     },
     "LA": {
@@ -869,19 +869,19 @@
     }
   },
   "testing_data": {
-    "tested": 2037539,
+    "tested": 2039037,
     "positive": 77465,
-    "negative": 1632617,
-    "unconfirmed": 20675
+    "negative": 1633888,
+    "unconfirmed": 20902
   },
   "testing_data_imcr": {
     "tested": 1947041,
     "source": "https://www.icmr.gov.in/pdf/covid/update/ICMR_testing_update_14May2020_9AM_IST.pdf"
   },
   "today": {
-    "confirmed": 143,
-    "recovered": 16,
-    "dead": 1,
-    "active": 126
+    "confirmed": 233,
+    "recovered": 70,
+    "dead": 4,
+    "active": 159
   }
 }
