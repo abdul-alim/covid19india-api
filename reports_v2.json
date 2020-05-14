@@ -1,9 +1,9 @@
 {
   "confirmed": 81645,
-  "active": 51219,
-  "recovered": 27777,
+  "active": 51218,
+  "recovered": 27778,
   "dead": 2644,
-  "updatedTime": "14/05/2020 20:52:23",
+  "updatedTime": "14/05/2020 21:02:23",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -59,7 +59,7 @@
       "active": 5253,
       "recovered": 3753,
       "dead": 586,
-      "updatedTime": "14/05/2020 20:52:27",
+      "updatedTime": "14/05/2020 20:53:27",
       "note": "",
       "stateCode": "GJ",
       "today": {
@@ -560,17 +560,17 @@
     "CT": {
       "name": "Chhattisgarh",
       "confirmed": 59,
-      "active": 4,
-      "recovered": 55,
+      "active": 3,
+      "recovered": 56,
       "dead": 0,
-      "updatedTime": "13/05/2020 21:33:27",
+      "updatedTime": "14/05/2020 21:02:28",
       "note": "",
       "stateCode": "CT",
       "today": {
         "confirmed": 0,
-        "recovered": 0,
+        "recovered": 1,
         "dead": 0,
-        "active": 0
+        "active": -1
       },
       "testing_data": {
         "tested": 28837,
@@ -880,8 +880,8 @@
   },
   "today": {
     "confirmed": 3588,
-    "recovered": 1360,
+    "recovered": 1361,
     "dead": 92,
-    "active": 2136
+    "active": 2135
   }
 }
