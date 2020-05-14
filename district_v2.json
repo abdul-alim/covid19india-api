@@ -2868,8 +2868,8 @@
   },
   "HP": {
     "state": "Himachal Pradesh",
-    "confirmed": 68,
-    "active": 30,
+    "confirmed": 70,
+    "active": 32,
     "recovered": 35,
     "dead": 3,
     "districts": [
@@ -3002,14 +3002,14 @@
       {
         "district": "Sirmaur",
         "notes": "",
-        "active": 0,
-        "confirmed": 2,
+        "active": 2,
+        "confirmed": 4,
         "recovered": 2,
         "dead": 0,
         "today": {
-          "confirmed": 0,
+          "confirmed": 2,
           "recovered": 0,
-          "active": 0,
+          "active": 2,
           "dead": 0
         }
       },
@@ -3057,8 +3057,8 @@
       }
     ],
     "today": {
-      "confirmed": 0,
-      "active": 0,
+      "confirmed": 2,
+      "active": 2,
       "recovered": 0,
       "dead": 0
     }
@@ -7279,9 +7279,9 @@
   },
   "PB": {
     "state": "Punjab",
-    "confirmed": 1924,
-    "active": 1692,
-    "recovered": 200,
+    "confirmed": 1935,
+    "active": 1680,
+    "recovered": 223,
     "dead": 32,
     "districts": [
       {
@@ -7413,14 +7413,14 @@
       {
         "district": "Jalandhar",
         "notes": "",
-        "active": 173,
-        "confirmed": 198,
-        "recovered": 20,
+        "active": 171,
+        "confirmed": 205,
+        "recovered": 29,
         "dead": 5,
         "today": {
-          "confirmed": 0,
-          "recovered": 0,
-          "active": 0,
+          "confirmed": 7,
+          "recovered": 9,
+          "active": -2,
           "dead": 0
         }
       },
@@ -7441,28 +7441,28 @@
       {
         "district": "Ludhiana",
         "notes": "",
-        "active": 134,
-        "confirmed": 148,
+        "active": 137,
+        "confirmed": 151,
         "recovered": 8,
         "dead": 6,
         "today": {
-          "confirmed": 0,
+          "confirmed": 3,
           "recovered": 0,
-          "active": 0,
+          "active": 3,
           "dead": 0
         }
       },
       {
         "district": "Mansa",
         "notes": "",
-        "active": 26,
+        "active": 23,
         "confirmed": 32,
-        "recovered": 6,
+        "recovered": 9,
         "dead": 0,
         "today": {
           "confirmed": 0,
-          "recovered": 0,
-          "active": 0,
+          "recovered": 3,
+          "active": -3,
           "dead": 0
         }
       },
@@ -7483,28 +7483,28 @@
       {
         "district": "Pathankot",
         "notes": "",
-        "active": 17,
+        "active": 14,
         "confirmed": 29,
-        "recovered": 11,
+        "recovered": 14,
         "dead": 1,
         "today": {
           "confirmed": 0,
-          "recovered": 0,
-          "active": 0,
+          "recovered": 3,
+          "active": -3,
           "dead": 0
         }
       },
       {
         "district": "Patiala",
         "notes": "",
-        "active": 77,
-        "confirmed": 99,
-        "recovered": 20,
+        "active": 70,
+        "confirmed": 100,
+        "recovered": 28,
         "dead": 2,
         "today": {
-          "confirmed": 0,
-          "recovered": 0,
-          "active": 0,
+          "confirmed": 1,
+          "recovered": 8,
+          "active": -7,
           "dead": 0
         }
       },
@@ -7594,9 +7594,9 @@
       }
     ],
     "today": {
-      "confirmed": 0,
-      "active": 0,
-      "recovered": 0,
+      "confirmed": 11,
+      "active": -12,
+      "recovered": 23,
       "dead": 0
     }
   },
@@ -8782,10 +8782,10 @@
   },
   "TN": {
     "state": "Tamil Nadu",
-    "confirmed": 9227,
-    "active": 6987,
+    "confirmed": 9674,
+    "active": 7432,
     "recovered": 2176,
-    "dead": 64,
+    "dead": 66,
     "districts": [
       {
         "district": "Airport Quarantine",
@@ -8832,15 +8832,15 @@
       {
         "district": "Chennai",
         "notes": "",
-        "active": 4470,
+        "active": 4468,
         "confirmed": 5262,
         "recovered": 749,
-        "dead": 43,
+        "dead": 45,
         "today": {
           "confirmed": 0,
           "recovered": 0,
-          "active": 0,
-          "dead": 0
+          "active": -2,
+          "dead": 2
         }
       },
       {
@@ -9318,13 +9318,27 @@
           "active": 0,
           "dead": 0
         }
+      },
+      {
+        "district": "Unknown",
+        "notes": "",
+        "active": 447,
+        "confirmed": 447,
+        "recovered": 0,
+        "dead": 0,
+        "today": {
+          "confirmed": 0,
+          "recovered": 0,
+          "active": 0,
+          "dead": 0
+        }
       }
     ],
     "today": {
       "confirmed": 0,
-      "active": 0,
+      "active": -2,
       "recovered": 0,
-      "dead": 0
+      "dead": 2
     }
   },
   "TR": {
