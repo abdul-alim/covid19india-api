@@ -698,14 +698,14 @@
       {
         "district": "Cachar",
         "notes": "",
-        "active": 10,
+        "active": 9,
         "confirmed": 11,
-        "recovered": 1,
+        "recovered": 2,
         "dead": 0,
         "today": {
           "confirmed": 0,
-          "recovered": 0,
-          "active": 0,
+          "recovered": 1,
+          "active": -1,
           "dead": 0
         }
       },
@@ -1114,26 +1114,12 @@
           "active": 0,
           "dead": 0
         }
-      },
-      {
-        "district": "Unknown",
-        "notes": "",
-        "active": -1,
-        "confirmed": 0,
-        "recovered": 1,
-        "dead": 0,
-        "today": {
-          "confirmed": 0,
-          "recovered": 0,
-          "active": 0,
-          "dead": 0
-        }
       }
     ],
     "today": {
       "confirmed": 0,
-      "active": 0,
-      "recovered": 0,
+      "active": -1,
+      "recovered": 1,
       "dead": 0
     }
   },
@@ -1701,29 +1687,29 @@
   "CH": {
     "state": "Chandigarh",
     "confirmed": 191,
-    "active": 151,
-    "recovered": 37,
+    "active": 148,
+    "recovered": 40,
     "dead": 3,
     "districts": [
       {
         "district": "Chandigarh",
         "notes": "",
-        "active": 151,
+        "active": 148,
         "confirmed": 191,
-        "recovered": 37,
+        "recovered": 40,
         "dead": 3,
         "today": {
           "confirmed": 0,
-          "recovered": 0,
-          "active": 0,
+          "recovered": 3,
+          "active": -3,
           "dead": 0
         }
       }
     ],
     "today": {
       "confirmed": 0,
-      "active": 0,
-      "recovered": 0,
+      "active": -3,
+      "recovered": 3,
       "dead": 0
     }
   },
@@ -2946,8 +2932,8 @@
       {
         "district": "Kangra",
         "notes": "",
-        "active": 12,
-        "confirmed": 17,
+        "active": 13,
+        "confirmed": 18,
         "recovered": 4,
         "dead": 1,
         "today": {
@@ -3066,20 +3052,6 @@
           "confirmed": 1,
           "recovered": 0,
           "active": 1,
-          "dead": 0
-        }
-      },
-      {
-        "district": "Unknown",
-        "notes": "",
-        "active": 1,
-        "confirmed": 1,
-        "recovered": 0,
-        "dead": 0,
-        "today": {
-          "confirmed": 0,
-          "recovered": 0,
-          "active": 0,
           "dead": 0
         }
       }
@@ -3430,8 +3402,8 @@
   },
   "JH": {
     "state": "Jharkhand",
-    "confirmed": 203,
-    "active": 113,
+    "confirmed": 205,
+    "active": 115,
     "recovered": 87,
     "dead": 3,
     "districts": [
@@ -3762,6 +3734,20 @@
         "notes": "",
         "active": 0,
         "confirmed": 0,
+        "recovered": 0,
+        "dead": 0,
+        "today": {
+          "confirmed": 0,
+          "recovered": 0,
+          "active": 0,
+          "dead": 0
+        }
+      },
+      {
+        "district": "Unknown",
+        "notes": "",
+        "active": 2,
+        "confirmed": 2,
         "recovered": 0,
         "dead": 0,
         "today": {
