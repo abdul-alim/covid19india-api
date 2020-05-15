@@ -1,9 +1,9 @@
 {
-  "confirmed": 83584,
-  "active": 51971,
-  "recovered": 28936,
-  "dead": 2672,
-  "updatedTime": "15/05/2020 20:11:23",
+  "confirmed": 83930,
+  "active": 51934,
+  "recovered": 29295,
+  "dead": 2696,
+  "updatedTime": "15/05/2020 20:32:23",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -31,17 +31,17 @@
     "TN": {
       "name": "Tamil Nadu",
       "confirmed": 10108,
-      "active": 7802,
-      "recovered": 2240,
-      "dead": 66,
-      "updatedTime": "15/05/2020 20:03:24",
+      "active": 7438,
+      "recovered": 2599,
+      "dead": 71,
+      "updatedTime": "15/05/2020 20:27:24",
       "note": "",
       "stateCode": "TN",
       "today": {
         "confirmed": 434,
-        "recovered": 0,
-        "dead": 0,
-        "active": 434
+        "recovered": 359,
+        "dead": 5,
+        "active": 70
       },
       "testing_data": {
         "tested": 291432,
@@ -53,18 +53,18 @@
     },
     "GJ": {
       "name": "Gujarat",
-      "confirmed": 9592,
-      "active": 5253,
+      "confirmed": 9932,
+      "active": 5574,
       "recovered": 3753,
-      "dead": 586,
-      "updatedTime": "14/05/2020 20:53:27",
+      "dead": 605,
+      "updatedTime": "15/05/2020 20:27:25",
       "note": "",
       "stateCode": "GJ",
       "today": {
-        "confirmed": 0,
+        "confirmed": 340,
         "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "dead": 19,
+        "active": 321
       },
       "testing_data": {
         "tested": 124708,
@@ -172,7 +172,7 @@
       "active": 1407,
       "recovered": 829,
       "dead": 225,
-      "updatedTime": "15/05/2020 20:11:24",
+      "updatedTime": "15/05/2020 20:19:35",
       "note": "- Cases updated as per WB bulletin as it now provides total number of cases.<br>\n- Deaths due to comorbidities added to total deceased<br>\n- Zones updated as per WB bulletin<br>",
       "stateCode": "WB",
       "today": {
@@ -260,18 +260,18 @@
     },
     "BR": {
       "name": "Bihar",
-      "confirmed": 1012,
-      "active": 553,
+      "confirmed": 1018,
+      "active": 559,
       "recovered": 452,
       "dead": 7,
-      "updatedTime": "15/05/2020 18:02:40",
+      "updatedTime": "15/05/2020 20:32:24",
       "note": "",
       "stateCode": "BR",
       "today": {
-        "confirmed": 13,
+        "confirmed": 19,
         "recovered": 40,
         "dead": 0,
-        "active": -27
+        "active": -21
       },
       "testing_data": {
         "tested": 42645,
@@ -845,9 +845,9 @@
     "source": "https://www.icmr.gov.in/pdf/covid/update/ICMR_testing_update_15May2020_9AM_IST.pdf"
   },
   "today": {
-    "confirmed": 1536,
-    "recovered": 955,
-    "dead": 23,
-    "active": 558
+    "confirmed": 1882,
+    "recovered": 1314,
+    "dead": 47,
+    "active": 521
   }
 }
