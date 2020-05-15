@@ -9351,14 +9351,14 @@
       {
         "district": "Dhalai",
         "notes": "",
-        "active": 125,
+        "active": 112,
         "confirmed": 152,
-        "recovered": 27,
+        "recovered": 40,
         "dead": 0,
         "today": {
           "confirmed": 0,
-          "recovered": 0,
-          "active": 0,
+          "recovered": 13,
+          "active": -13,
           "dead": 0
         }
       },
@@ -9459,26 +9459,12 @@
           "active": 0,
           "dead": 0
         }
-      },
-      {
-        "district": "Unknown",
-        "notes": "",
-        "active": -13,
-        "confirmed": 0,
-        "recovered": 13,
-        "dead": 0,
-        "today": {
-          "confirmed": 0,
-          "recovered": 0,
-          "active": 0,
-          "dead": 0
-        }
       }
     ],
     "today": {
       "confirmed": 0,
-      "active": 0,
-      "recovered": 0,
+      "active": -13,
+      "recovered": 13,
       "dead": 0
     }
   },
