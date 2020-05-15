@@ -1,9 +1,9 @@
 {
-  "confirmed": 82103,
-  "active": 51472,
-  "recovered": 27977,
+  "confirmed": 82166,
+  "active": 51467,
+  "recovered": 28045,
   "dead": 2649,
-  "updatedTime": "15/05/2020 10:11:22",
+  "updatedTime": "15/05/2020 12:21:23",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -191,18 +191,18 @@
     },
     "AP": {
       "name": "Andhra Pradesh",
-      "confirmed": 2205,
-      "active": 965,
-      "recovered": 1192,
+      "confirmed": 2262,
+      "active": 962,
+      "recovered": 1252,
       "dead": 48,
-      "updatedTime": "14/05/2020 12:33:24",
+      "updatedTime": "15/05/2020 12:13:24",
       "note": "Total includes patients from other states.",
       "stateCode": "AP",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 57,
+        "recovered": 60,
         "dead": 0,
-        "active": 0
+        "active": -3
       },
       "testing_data": {
         "tested": 210452,
@@ -260,18 +260,18 @@
     },
     "BR": {
       "name": "Bihar",
-      "confirmed": 999,
-      "active": 592,
+      "confirmed": 1005,
+      "active": 598,
       "recovered": 400,
       "dead": 7,
-      "updatedTime": "14/05/2020 23:03:24",
+      "updatedTime": "15/05/2020 12:21:24",
       "note": "",
       "stateCode": "BR",
       "today": {
-        "confirmed": 0,
+        "confirmed": 6,
         "recovered": 0,
         "dead": 0,
-        "active": 0
+        "active": 6
       },
       "testing_data": {
         "tested": 40782,
@@ -353,17 +353,17 @@
     "OR": {
       "name": "Odisha",
       "confirmed": 672,
-      "active": 511,
-      "recovered": 158,
+      "active": 503,
+      "recovered": 166,
       "dead": 3,
-      "updatedTime": "15/05/2020 10:11:24",
+      "updatedTime": "15/05/2020 12:21:25",
       "note": "",
       "stateCode": "OR",
       "today": {
         "confirmed": 0,
-        "recovered": 0,
+        "recovered": 8,
         "dead": 0,
-        "active": 0
+        "active": -8
       },
       "testing_data": {
         "tested": 77150,
@@ -845,9 +845,9 @@
     "source": "https://www.icmr.gov.in/pdf/covid/update/ICMR_testing_update_15May2020_9AM_IST.pdf"
   },
   "today": {
-    "confirmed": 55,
-    "recovered": 8,
+    "confirmed": 118,
+    "recovered": 76,
     "dead": 0,
-    "active": 47
+    "active": 42
   }
 }
