@@ -1,9 +1,9 @@
 {
-  "confirmed": 82834,
-  "active": 51540,
-  "recovered": 28632,
+  "confirmed": 82866,
+  "active": 51541,
+  "recovered": 28663,
   "dead": 2657,
-  "updatedTime": "15/05/2020 18:02:38",
+  "updatedTime": "15/05/2020 18:52:23",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -205,11 +205,11 @@
         "active": 42
       },
       "testing_data": {
-        "tested": 210452,
-        "positive": 2100,
-        "negative": 208247,
+        "tested": 219490,
+        "positive": 2157,
+        "negative": 217183,
         "unconfirmed": 0,
-        "date": "14/05/2020"
+        "date": "15/05/2020"
       }
     },
     "PB": {
@@ -306,18 +306,18 @@
     },
     "JK": {
       "name": "Jammu and Kashmir",
-      "confirmed": 983,
-      "active": 487,
-      "recovered": 485,
+      "confirmed": 1013,
+      "active": 489,
+      "recovered": 513,
       "dead": 11,
-      "updatedTime": "14/05/2020 19:23:26",
+      "updatedTime": "15/05/2020 18:52:25",
       "note": "",
       "stateCode": "JK",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 18,
+        "recovered": 28,
         "dead": 0,
-        "active": 0
+        "active": -10
       },
       "testing_data": {
         "tested": 63515,
@@ -399,17 +399,17 @@
     "CH": {
       "name": "Chandigarh",
       "confirmed": 191,
-      "active": 151,
-      "recovered": 37,
+      "active": 148,
+      "recovered": 40,
       "dead": 3,
-      "updatedTime": "14/05/2020 17:53:25",
+      "updatedTime": "15/05/2020 18:39:25",
       "note": "",
       "stateCode": "CH",
       "today": {
         "confirmed": 0,
-        "recovered": 0,
+        "recovered": 3,
         "dead": 0,
-        "active": 0
+        "active": -3
       },
       "testing_data": {
         "tested": 2505,
@@ -421,18 +421,18 @@
     },
     "JH": {
       "name": "Jharkhand",
-      "confirmed": 203,
-      "active": 113,
+      "confirmed": 205,
+      "active": 115,
       "recovered": 87,
       "dead": 3,
-      "updatedTime": "15/05/2020 03:19:24",
+      "updatedTime": "15/05/2020 18:39:26",
       "note": "",
       "stateCode": "JH",
       "today": {
-        "confirmed": 0,
+        "confirmed": 2,
         "recovered": 0,
         "dead": 0,
-        "active": 0
+        "active": 2
       },
       "testing_data": {
         "tested": 27789,
@@ -471,7 +471,7 @@
       "active": 43,
       "recovered": 41,
       "dead": 2,
-      "updatedTime": "15/05/2020 18:02:41",
+      "updatedTime": "15/05/2020 18:28:26",
       "note": "Includes one case from Nagaland <br>\nOne patient who migrated to Bihar has been reduced from Active count",
       "stateCode": "AS",
       "today": {
@@ -835,9 +835,9 @@
     }
   },
   "testing_data": {
-    "tested": 2150833,
-    "positive": 80896,
-    "negative": 1601807,
+    "tested": 2159871,
+    "positive": 80953,
+    "negative": 1610743,
     "unconfirmed": 19456
   },
   "testing_data_imcr": {
@@ -845,9 +845,9 @@
     "source": "https://www.icmr.gov.in/pdf/covid/update/ICMR_testing_update_15May2020_9AM_IST.pdf"
   },
   "today": {
-    "confirmed": 786,
-    "recovered": 651,
+    "confirmed": 806,
+    "recovered": 682,
     "dead": 8,
-    "active": 127
+    "active": 116
   }
 }
