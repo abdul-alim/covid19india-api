@@ -1,9 +1,9 @@
 {
   "confirmed": 82834,
-  "active": 51568,
-  "recovered": 28604,
+  "active": 51540,
+  "recovered": 28632,
   "dead": 2657,
-  "updatedTime": "15/05/2020 17:41:22",
+  "updatedTime": "15/05/2020 18:01:20",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -261,17 +261,17 @@
     "BR": {
       "name": "Bihar",
       "confirmed": 1012,
-      "active": 580,
-      "recovered": 425,
+      "active": 553,
+      "recovered": 452,
       "dead": 7,
-      "updatedTime": "15/05/2020 17:41:24",
+      "updatedTime": "15/05/2020 18:01:21",
       "note": "",
       "stateCode": "BR",
       "today": {
         "confirmed": 13,
-        "recovered": 13,
+        "recovered": 40,
         "dead": 0,
-        "active": 0
+        "active": -27
       },
       "testing_data": {
         "tested": 40782,
@@ -379,7 +379,7 @@
       "active": 80,
       "recovered": 493,
       "dead": 4,
-      "updatedTime": "15/05/2020 17:41:25",
+      "updatedTime": "15/05/2020 17:42:25",
       "note": "Mahe native who expired in Kannur included in Kerala's tally",
       "stateCode": "KL",
       "today": {
@@ -468,17 +468,17 @@
     "AS": {
       "name": "Assam",
       "confirmed": 87,
-      "active": 44,
-      "recovered": 40,
+      "active": 43,
+      "recovered": 41,
       "dead": 2,
-      "updatedTime": "14/05/2020 14:23:25",
+      "updatedTime": "15/05/2020 18:01:23",
       "note": "Includes one case from Nagaland <br>\nOne patient who migrated to Bihar has been reduced from Active count",
       "stateCode": "AS",
       "today": {
         "confirmed": 0,
-        "recovered": 0,
+        "recovered": 1,
         "dead": 0,
-        "active": 0
+        "active": -1
       },
       "testing_data": {
         "tested": 25824,
@@ -846,8 +846,8 @@
   },
   "today": {
     "confirmed": 786,
-    "recovered": 623,
+    "recovered": 651,
     "dead": 8,
-    "active": 155
+    "active": 127
   }
 }

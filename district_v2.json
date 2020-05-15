@@ -635,8 +635,8 @@
   "AS": {
     "state": "Assam",
     "confirmed": 87,
-    "active": 45,
-    "recovered": 40,
+    "active": 44,
+    "recovered": 41,
     "dead": 2,
     "districts": [
       {
@@ -1114,6 +1114,20 @@
           "active": 0,
           "dead": 0
         }
+      },
+      {
+        "district": "Unknown",
+        "notes": "",
+        "active": -1,
+        "confirmed": 0,
+        "recovered": 1,
+        "dead": 0,
+        "today": {
+          "confirmed": 0,
+          "recovered": 0,
+          "active": 0,
+          "dead": 0
+        }
       }
     ],
     "today": {
@@ -1126,8 +1140,8 @@
   "BR": {
     "state": "Bihar",
     "confirmed": 1012,
-    "active": 580,
-    "recovered": 425,
+    "active": 553,
+    "recovered": 452,
     "dead": 7,
     "districts": [
       {
@@ -1665,9 +1679,9 @@
       {
         "district": "Unknown",
         "notes": "",
-        "active": -13,
+        "active": -40,
         "confirmed": 0,
-        "recovered": 13,
+        "recovered": 40,
         "dead": 0,
         "today": {
           "confirmed": 0,
