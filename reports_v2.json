@@ -1,9 +1,9 @@
 {
-  "confirmed": 85605,
-  "active": 52713,
-  "recovered": 30141,
+  "confirmed": 85760,
+  "active": 52775,
+  "recovered": 30234,
   "dead": 2746,
-  "updatedTime": "15/05/2020 21:53:23",
+  "updatedTime": "15/05/2020 22:32:24",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -136,27 +136,27 @@
         "active": 122
       },
       "testing_data": {
-        "tested": 204243,
-        "positive": 4534,
-        "negative": 197269,
-        "unconfirmed": 2440,
-        "date": "14/05/2020"
+        "tested": 212317,
+        "positive": 4747,
+        "negative": 203770,
+        "unconfirmed": 3800,
+        "date": "15/05/2020"
       }
     },
     "UP": {
       "name": "Uttar Pradesh",
-      "confirmed": 3902,
-      "active": 1742,
-      "recovered": 2072,
+      "confirmed": 4057,
+      "active": 1804,
+      "recovered": 2165,
       "dead": 88,
-      "updatedTime": "14/05/2020 22:43:25",
+      "updatedTime": "15/05/2020 22:32:25",
       "note": "",
       "stateCode": "UP",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 155,
+        "recovered": 93,
         "dead": 0,
-        "active": 0
+        "active": 62
       },
       "testing_data": {
         "tested": 159282,
@@ -835,19 +835,19 @@
     }
   },
   "testing_data": {
-    "tested": 2216324,
-    "positive": 82301,
-    "negative": 1766732,
-    "unconfirmed": 19893
+    "tested": 2224398,
+    "positive": 82514,
+    "negative": 1773233,
+    "unconfirmed": 21253
   },
   "testing_data_imcr": {
     "tested": 2039952,
     "source": "https://www.icmr.gov.in/pdf/covid/update/ICMR_testing_update_15May2020_9AM_IST.pdf"
   },
   "today": {
-    "confirmed": 3557,
-    "recovered": 2160,
+    "confirmed": 3712,
+    "recovered": 2253,
     "dead": 97,
-    "active": 1300
+    "active": 1362
   }
 }
