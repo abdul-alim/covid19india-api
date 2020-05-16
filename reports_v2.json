@@ -1,9 +1,9 @@
 {
   "confirmed": 85790,
-  "active": 52774,
-  "recovered": 30258,
+  "active": 52769,
+  "recovered": 30263,
   "dead": 2753,
-  "updatedTime": "16/05/2020 09:22:23",
+  "updatedTime": "16/05/2020 10:21:23",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -123,17 +123,17 @@
     "RJ": {
       "name": "Rajasthan",
       "confirmed": 4747,
-      "active": 1893,
-      "recovered": 2729,
+      "active": 1888,
+      "recovered": 2734,
       "dead": 125,
-      "updatedTime": "15/05/2020 21:53:24",
+      "updatedTime": "16/05/2020 10:21:24",
       "note": "",
       "stateCode": "RJ",
       "today": {
         "confirmed": 0,
-        "recovered": 0,
+        "recovered": 5,
         "dead": 0,
-        "active": 0
+        "active": -5
       },
       "testing_data": {
         "tested": 212317,
@@ -846,8 +846,8 @@
   },
   "today": {
     "confirmed": 0,
-    "recovered": 0,
+    "recovered": 5,
     "dead": 0,
-    "active": 0
+    "active": -5
   }
 }
