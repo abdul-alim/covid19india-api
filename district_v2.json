@@ -59,21 +59,21 @@
   "AP": {
     "state": "Andhra Pradesh",
     "confirmed": 2355,
-    "active": 1055,
-    "recovered": 1252,
-    "dead": 48,
+    "active": 953,
+    "recovered": 1353,
+    "dead": 49,
     "districts": [
       {
         "district": "Anantapur",
         "notes": "",
-        "active": 62,
+        "active": 25,
         "confirmed": 122,
-        "recovered": 56,
+        "recovered": 93,
         "dead": 4,
         "today": {
           "confirmed": 0,
-          "recovered": 0,
-          "active": 0,
+          "recovered": 37,
+          "active": -37,
           "dead": 0
         }
       },
@@ -94,14 +94,14 @@
       {
         "district": "East Godavari",
         "notes": "",
-        "active": 17,
+        "active": 14,
         "confirmed": 52,
-        "recovered": 35,
+        "recovered": 38,
         "dead": 0,
         "today": {
           "confirmed": 0,
-          "recovered": 0,
-          "active": 0,
+          "recovered": 3,
+          "active": -3,
           "dead": 0
         }
       },
@@ -122,29 +122,29 @@
       {
         "district": "Krishna",
         "notes": "",
-        "active": 147,
+        "active": 142,
         "confirmed": 367,
-        "recovered": 206,
+        "recovered": 211,
         "dead": 14,
         "today": {
           "confirmed": 7,
-          "recovered": 0,
-          "active": 7,
+          "recovered": 5,
+          "active": 2,
           "dead": 0
         }
       },
       {
         "district": "Kurnool",
         "notes": "",
-        "active": 247,
+        "active": 199,
         "confirmed": 608,
-        "recovered": 343,
-        "dead": 18,
+        "recovered": 390,
+        "dead": 19,
         "today": {
           "confirmed": 9,
-          "recovered": 0,
-          "active": 9,
-          "dead": 0
+          "recovered": 47,
+          "active": -39,
+          "dead": 1
         }
       },
       {
@@ -164,14 +164,14 @@
       {
         "district": "Prakasam",
         "notes": "",
-        "active": 3,
+        "active": 0,
         "confirmed": 63,
-        "recovered": 60,
+        "recovered": 63,
         "dead": 0,
         "today": {
           "confirmed": 0,
-          "recovered": 0,
-          "active": 0,
+          "recovered": 3,
+          "active": -3,
           "dead": 0
         }
       },
@@ -206,14 +206,14 @@
       {
         "district": "Visakhapatnam",
         "notes": "",
-        "active": 46,
+        "active": 45,
         "confirmed": 72,
-        "recovered": 25,
+        "recovered": 26,
         "dead": 1,
         "today": {
           "confirmed": 4,
-          "recovered": 0,
-          "active": 4,
+          "recovered": 1,
+          "active": 3,
           "dead": 0
         }
       },
@@ -234,37 +234,37 @@
       {
         "district": "West Godavari",
         "notes": "",
-        "active": 25,
+        "active": 22,
         "confirmed": 70,
-        "recovered": 45,
+        "recovered": 48,
         "dead": 0,
         "today": {
           "confirmed": 1,
-          "recovered": 0,
-          "active": 1,
+          "recovered": 3,
+          "active": -2,
           "dead": 0
         }
       },
       {
         "district": "Y.S.R. Kadapa",
         "notes": "",
-        "active": 39,
+        "active": 37,
         "confirmed": 102,
-        "recovered": 63,
+        "recovered": 65,
         "dead": 0,
         "today": {
           "confirmed": 1,
-          "recovered": 0,
-          "active": 1,
+          "recovered": 2,
+          "active": -1,
           "dead": 0
         }
       }
     ],
     "today": {
       "confirmed": 48,
-      "active": 48,
-      "recovered": 0,
-      "dead": 0
+      "active": -54,
+      "recovered": 101,
+      "dead": 1
     }
   },
   "AR": {
@@ -634,8 +634,8 @@
   },
   "AS": {
     "state": "Assam",
-    "confirmed": 90,
-    "active": 47,
+    "confirmed": 92,
+    "active": 49,
     "recovered": 41,
     "dead": 2,
     "districts": [
@@ -894,14 +894,14 @@
       {
         "district": "Kamrup Metropolitan",
         "notes": "",
-        "active": 30,
-        "confirmed": 32,
+        "active": 32,
+        "confirmed": 34,
         "recovered": 1,
         "dead": 1,
         "today": {
-          "confirmed": 0,
+          "confirmed": 2,
           "recovered": 0,
-          "active": 0,
+          "active": 2,
           "dead": 0
         }
       },
@@ -1117,8 +1117,8 @@
       }
     ],
     "today": {
-      "confirmed": 0,
-      "active": 0,
+      "confirmed": 2,
+      "active": 2,
       "recovered": 0,
       "dead": 0
     }
@@ -3402,8 +3402,8 @@
   },
   "JH": {
     "state": "Jharkhand",
-    "confirmed": 211,
-    "active": 111,
+    "confirmed": 215,
+    "active": 115,
     "recovered": 97,
     "dead": 3,
     "districts": [
@@ -3480,14 +3480,14 @@
       {
         "district": "East Singhbhum",
         "notes": "",
-        "active": 3,
-        "confirmed": 3,
+        "active": 4,
+        "confirmed": 4,
         "recovered": 0,
         "dead": 0,
         "today": {
-          "confirmed": 0,
+          "confirmed": 1,
           "recovered": 0,
-          "active": 0,
+          "active": 1,
           "dead": 0
         }
       },
@@ -3550,14 +3550,14 @@
       {
         "district": "Hazaribagh",
         "notes": "",
-        "active": 18,
-        "confirmed": 21,
+        "active": 21,
+        "confirmed": 24,
         "recovered": 3,
         "dead": 0,
         "today": {
-          "confirmed": 0,
+          "confirmed": 3,
           "recovered": 0,
-          "active": 0,
+          "active": 3,
           "dead": 0
         }
       },
@@ -3745,8 +3745,8 @@
       }
     ],
     "today": {
-      "confirmed": 0,
-      "active": 0,
+      "confirmed": 4,
+      "active": 4,
       "recovered": 0,
       "dead": 0
     }
