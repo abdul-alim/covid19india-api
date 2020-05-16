@@ -634,8 +634,8 @@
   },
   "AS": {
     "state": "Assam",
-    "confirmed": 93,
-    "active": 50,
+    "confirmed": 92,
+    "active": 49,
     "recovered": 41,
     "dead": 2,
     "districts": [
@@ -1106,20 +1106,6 @@
         "notes": "",
         "active": 0,
         "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "today": {
-          "confirmed": 0,
-          "recovered": 0,
-          "active": 0,
-          "dead": 0
-        }
-      },
-      {
-        "district": "Unknown",
-        "notes": "",
-        "active": 1,
-        "confirmed": 1,
         "recovered": 0,
         "dead": 0,
         "today": {
@@ -1715,8 +1701,8 @@
   },
   "CT": {
     "state": "Chhattisgarh",
-    "confirmed": 66,
-    "active": 8,
+    "confirmed": 67,
+    "active": 9,
     "recovered": 58,
     "dead": 0,
     "districts": [
@@ -2089,6 +2075,20 @@
         "notes": "",
         "active": 0,
         "confirmed": 0,
+        "recovered": 0,
+        "dead": 0,
+        "today": {
+          "confirmed": 0,
+          "recovered": 0,
+          "active": 0,
+          "dead": 0
+        }
+      },
+      {
+        "district": "Unknown",
+        "notes": "",
+        "active": 1,
+        "confirmed": 1,
         "recovered": 0,
         "dead": 0,
         "today": {
@@ -2896,8 +2896,8 @@
   },
   "HP": {
     "state": "Himachal Pradesh",
-    "confirmed": 77,
-    "active": 39,
+    "confirmed": 78,
+    "active": 40,
     "recovered": 35,
     "dead": 3,
     "districts": [
@@ -2932,14 +2932,14 @@
       {
         "district": "Hamirpur",
         "notes": "",
-        "active": 5,
-        "confirmed": 7,
+        "active": 6,
+        "confirmed": 8,
         "recovered": 2,
         "dead": 0,
         "today": {
-          "confirmed": 0,
+          "confirmed": 1,
           "recovered": 0,
-          "active": 0,
+          "active": 1,
           "dead": 0
         }
       },
@@ -3085,8 +3085,8 @@
       }
     ],
     "today": {
-      "confirmed": 0,
-      "active": 0,
+      "confirmed": 1,
+      "active": 1,
       "recovered": 0,
       "dead": 0
     }
@@ -3431,8 +3431,8 @@
   "JH": {
     "state": "Jharkhand",
     "confirmed": 217,
-    "active": 117,
-    "recovered": 97,
+    "active": 101,
+    "recovered": 113,
     "dead": 3,
     "districts": [
       {
@@ -3494,14 +3494,14 @@
       {
         "district": "Dumka",
         "notes": "",
-        "active": 2,
+        "active": 0,
         "confirmed": 2,
-        "recovered": 0,
+        "recovered": 2,
         "dead": 0,
         "today": {
           "confirmed": 0,
-          "recovered": 0,
-          "active": 0,
+          "recovered": 2,
+          "active": -2,
           "dead": 0
         }
       },
@@ -3704,14 +3704,14 @@
       {
         "district": "Ranchi",
         "notes": "",
-        "active": 30,
+        "active": 18,
         "confirmed": 103,
-        "recovered": 71,
+        "recovered": 83,
         "dead": 2,
         "today": {
           "confirmed": 1,
-          "recovered": 0,
-          "active": 1,
+          "recovered": 12,
+          "active": -11,
           "dead": 0
         }
       },
@@ -3770,12 +3770,26 @@
           "active": 0,
           "dead": 0
         }
+      },
+      {
+        "district": "Unknown",
+        "notes": "",
+        "active": -2,
+        "confirmed": 0,
+        "recovered": 2,
+        "dead": 0,
+        "today": {
+          "confirmed": 0,
+          "recovered": 0,
+          "active": 0,
+          "dead": 0
+        }
       }
     ],
     "today": {
       "confirmed": 6,
-      "active": 6,
-      "recovered": 0,
+      "active": -8,
+      "recovered": 14,
       "dead": 0
     }
   },
