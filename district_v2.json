@@ -6859,8 +6859,8 @@
   "OR": {
     "state": "Odisha",
     "confirmed": 737,
-    "active": 568,
-    "recovered": 166,
+    "active": 538,
+    "recovered": 196,
     "dead": 3,
     "districts": [
       {
@@ -6894,14 +6894,14 @@
       {
         "district": "Balasore",
         "notes": "",
-        "active": 81,
+        "active": 80,
         "confirmed": 102,
-        "recovered": 21,
+        "recovered": 22,
         "dead": 0,
         "today": {
           "confirmed": 0,
-          "recovered": 0,
-          "active": 0,
+          "recovered": 1,
+          "active": -1,
           "dead": 0
         }
       },
@@ -6950,14 +6950,14 @@
       {
         "district": "Cuttack",
         "notes": "",
-        "active": 9,
+        "active": 8,
         "confirmed": 10,
-        "recovered": 1,
+        "recovered": 2,
         "dead": 0,
         "today": {
           "confirmed": 0,
-          "recovered": 0,
-          "active": 0,
+          "recovered": 1,
+          "active": -1,
           "dead": 0
         }
       },
@@ -7006,14 +7006,14 @@
       {
         "district": "Ganjam",
         "notes": "",
-        "active": 274,
+        "active": 246,
         "confirmed": 277,
-        "recovered": 2,
+        "recovered": 30,
         "dead": 1,
         "today": {
           "confirmed": 0,
-          "recovered": 0,
-          "active": 0,
+          "recovered": 28,
+          "active": -28,
           "dead": 0
         }
       },
@@ -7286,8 +7286,8 @@
     ],
     "today": {
       "confirmed": 0,
-      "active": 0,
-      "recovered": 0,
+      "active": -30,
+      "recovered": 30,
       "dead": 0
     }
   },

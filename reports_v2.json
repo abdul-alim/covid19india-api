@@ -1,9 +1,9 @@
 {
   "confirmed": 90398,
-  "active": 53633,
-  "recovered": 33898,
+  "active": 53603,
+  "recovered": 33928,
   "dead": 2862,
-  "updatedTime": "16/05/2020 22:39:22",
+  "updatedTime": "16/05/2020 23:01:23",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -353,17 +353,17 @@
     "OR": {
       "name": "Odisha",
       "confirmed": 737,
-      "active": 568,
-      "recovered": 166,
+      "active": 538,
+      "recovered": 196,
       "dead": 3,
-      "updatedTime": "16/05/2020 11:23:24",
+      "updatedTime": "16/05/2020 23:01:24",
       "note": "",
       "stateCode": "OR",
       "today": {
         "confirmed": 0,
-        "recovered": 0,
+        "recovered": 30,
         "dead": 0,
-        "active": 0
+        "active": -30
       },
       "testing_data": {
         "tested": 86140,
@@ -846,8 +846,8 @@
   },
   "today": {
     "confirmed": 4542,
-    "recovered": 3653,
+    "recovered": 3683,
     "dead": 109,
-    "active": 780
+    "active": 750
   }
 }
