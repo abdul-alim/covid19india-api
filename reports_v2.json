@@ -1,24 +1,24 @@
 {
-  "confirmed": 88507,
-  "active": 52512,
-  "recovered": 33133,
+  "confirmed": 90343,
+  "active": 53824,
+  "recovered": 33657,
   "dead": 2857,
-  "updatedTime": "16/05/2020 22:01:23",
+  "updatedTime": "16/05/2020 22:11:23",
   "states": {
     "MH": {
       "name": "Maharashtra",
-      "confirmed": 29101,
-      "active": 21402,
-      "recovered": 6564,
+      "confirmed": 30706,
+      "active": 22483,
+      "recovered": 7088,
       "dead": 1135,
-      "updatedTime": "16/05/2020 22:01:24",
+      "updatedTime": "16/05/2020 22:11:24",
       "note": "[10-May]<br>\n- Total numbers are updated to the final figure reported for 10th May. <br>\n- 665 cases added by MH govt. on 10th May due to data cleaning <br>\n- 143 cases added by MH govt. on 5th May due to data cleaning <br>\n- 796 cases added by MH govt. on 4th May due to data cleaning <br>",
       "stateCode": "MH",
       "today": {
-        "confirmed": 1,
-        "recovered": 0,
+        "confirmed": 1606,
+        "recovered": 524,
         "dead": 67,
-        "active": -66
+        "active": 1015
       },
       "testing_data": {
         "tested": 261815,
@@ -99,18 +99,18 @@
     },
     "MP": {
       "name": "Madhya Pradesh",
-      "confirmed": 4595,
-      "active": 2073,
+      "confirmed": 4790,
+      "active": 2268,
       "recovered": 2283,
       "dead": 239,
-      "updatedTime": "15/05/2020 19:23:24",
+      "updatedTime": "16/05/2020 22:11:25",
       "note": "",
       "stateCode": "MP",
       "today": {
-        "confirmed": 0,
+        "confirmed": 195,
         "recovered": 0,
         "dead": 0,
-        "active": 0
+        "active": 195
       },
       "testing_data": {
         "tested": 99677,
@@ -122,18 +122,18 @@
     },
     "RJ": {
       "name": "Rajasthan",
-      "confirmed": 4924,
-      "active": 2052,
+      "confirmed": 4960,
+      "active": 2088,
       "recovered": 2747,
       "dead": 125,
-      "updatedTime": "16/05/2020 17:33:24",
+      "updatedTime": "16/05/2020 22:11:27",
       "note": "",
       "stateCode": "RJ",
       "today": {
-        "confirmed": 177,
+        "confirmed": 213,
         "recovered": 18,
         "dead": 0,
-        "active": 159
+        "active": 195
       },
       "testing_data": {
         "tested": 221439,
@@ -845,9 +845,9 @@
     "source": "https://www.icmr.gov.in/pdf/covid/update/ICMR_testing_update_16May2020_9AM_IST.pdf"
   },
   "today": {
-    "confirmed": 2651,
-    "recovered": 2888,
+    "confirmed": 4487,
+    "recovered": 3412,
     "dead": 104,
-    "active": -341
+    "active": 971
   }
 }
