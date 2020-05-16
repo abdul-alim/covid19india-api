@@ -1,9 +1,9 @@
 {
   "confirmed": 88506,
-  "active": 52580,
-  "recovered": 33131,
+  "active": 52578,
+  "recovered": 33133,
   "dead": 2790,
-  "updatedTime": "16/05/2020 20:44:23",
+  "updatedTime": "16/05/2020 21:41:23",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -58,7 +58,7 @@
       "recovered": 4308,
       "dead": 625,
       "updatedTime": "16/05/2020 20:44:24",
-      "note": "",
+      "note": "[16-May]<br>\n702 backdated cases added today as per the state bulletin",
       "stateCode": "GJ",
       "today": {
         "confirmed": 1057,
@@ -537,17 +537,17 @@
     "CT": {
       "name": "Chhattisgarh",
       "confirmed": 66,
-      "active": 10,
-      "recovered": 56,
+      "active": 8,
+      "recovered": 58,
       "dead": 0,
-      "updatedTime": "16/05/2020 09:22:24",
+      "updatedTime": "16/05/2020 21:41:24",
       "note": "",
       "stateCode": "CT",
       "today": {
         "confirmed": 0,
-        "recovered": 0,
+        "recovered": 2,
         "dead": 0,
-        "active": 0
+        "active": -2
       },
       "testing_data": {
         "tested": 31341,
@@ -846,8 +846,8 @@
   },
   "today": {
     "confirmed": 2650,
-    "recovered": 2886,
+    "recovered": 2888,
     "dead": 37,
-    "active": -273
+    "active": -275
   }
 }
