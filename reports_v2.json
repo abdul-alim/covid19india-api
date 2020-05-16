@@ -1,9 +1,9 @@
 {
-  "confirmed": 86508,
-  "active": 52970,
-  "recovered": 30773,
+  "confirmed": 86681,
+  "active": 53117,
+  "recovered": 30799,
   "dead": 2760,
-  "updatedTime": "16/05/2020 14:13:23",
+  "updatedTime": "16/05/2020 17:21:23",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -122,18 +122,18 @@
     },
     "RJ": {
       "name": "Rajasthan",
-      "confirmed": 4838,
-      "active": 1979,
-      "recovered": 2734,
+      "confirmed": 5010,
+      "active": 2125,
+      "recovered": 2760,
       "dead": 125,
-      "updatedTime": "16/05/2020 10:41:24",
+      "updatedTime": "16/05/2020 17:21:24",
       "note": "",
       "stateCode": "RJ",
       "today": {
-        "confirmed": 91,
-        "recovered": 5,
+        "confirmed": 263,
+        "recovered": 31,
         "dead": 0,
-        "active": 86
+        "active": 232
       },
       "testing_data": {
         "tested": 212317,
@@ -513,18 +513,18 @@
     },
     "HP": {
       "name": "Himachal Pradesh",
-      "confirmed": 76,
-      "active": 35,
+      "confirmed": 77,
+      "active": 36,
       "recovered": 35,
       "dead": 3,
-      "updatedTime": "16/05/2020 11:33:24",
+      "updatedTime": "16/05/2020 17:21:25",
       "note": "HP has 4 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed",
       "stateCode": "HP",
       "today": {
-        "confirmed": 0,
+        "confirmed": 1,
         "recovered": 0,
         "dead": 0,
-        "active": 0
+        "active": 1
       },
       "testing_data": {
         "tested": 15557,
@@ -835,9 +835,9 @@
     }
   },
   "testing_data": {
-    "tested": 2256067,
+    "tested": 2256212,
     "positive": 84625,
-    "negative": 1793421,
+    "negative": 1793566,
     "unconfirmed": 20560
   },
   "testing_data_imcr": {
@@ -845,9 +845,9 @@
     "source": "https://www.icmr.gov.in/pdf/covid/update/ICMR_testing_update_16May2020_9AM_IST.pdf"
   },
   "today": {
-    "confirmed": 652,
-    "recovered": 528,
+    "confirmed": 825,
+    "recovered": 554,
     "dead": 7,
-    "active": 117
+    "active": 264
   }
 }
