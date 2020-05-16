@@ -1,24 +1,24 @@
 {
-  "confirmed": 88506,
-  "active": 52578,
+  "confirmed": 88507,
+  "active": 52512,
   "recovered": 33133,
-  "dead": 2790,
-  "updatedTime": "16/05/2020 21:41:23",
+  "dead": 2857,
+  "updatedTime": "16/05/2020 22:01:23",
   "states": {
     "MH": {
       "name": "Maharashtra",
-      "confirmed": 29100,
-      "active": 21468,
+      "confirmed": 29101,
+      "active": 21402,
       "recovered": 6564,
-      "dead": 1068,
-      "updatedTime": "15/05/2020 20:43:24",
+      "dead": 1135,
+      "updatedTime": "16/05/2020 22:01:24",
       "note": "[10-May]<br>\n- Total numbers are updated to the final figure reported for 10th May. <br>\n- 665 cases added by MH govt. on 10th May due to data cleaning <br>\n- 143 cases added by MH govt. on 5th May due to data cleaning <br>\n- 796 cases added by MH govt. on 4th May due to data cleaning <br>",
       "stateCode": "MH",
       "today": {
-        "confirmed": 0,
+        "confirmed": 1,
         "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "dead": 67,
+        "active": -66
       },
       "testing_data": {
         "tested": 261815,
@@ -540,7 +540,7 @@
       "active": 8,
       "recovered": 58,
       "dead": 0,
-      "updatedTime": "16/05/2020 21:41:24",
+      "updatedTime": "16/05/2020 21:44:24",
       "note": "",
       "stateCode": "CT",
       "today": {
@@ -845,9 +845,9 @@
     "source": "https://www.icmr.gov.in/pdf/covid/update/ICMR_testing_update_16May2020_9AM_IST.pdf"
   },
   "today": {
-    "confirmed": 2650,
+    "confirmed": 2651,
     "recovered": 2888,
-    "dead": 37,
-    "active": -275
+    "dead": 104,
+    "active": -341
   }
 }
