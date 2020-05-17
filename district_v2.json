@@ -8810,16 +8810,30 @@
   },
   "TN": {
     "state": "Tamil Nadu",
-    "confirmed": 10585,
-    "active": 6973,
+    "confirmed": 11224,
+    "active": 7608,
     "recovered": 3538,
-    "dead": 74,
+    "dead": 78,
     "districts": [
       {
         "district": "Airport Quarantine",
         "notes": "",
         "active": 13,
         "confirmed": 13,
+        "recovered": 0,
+        "dead": 0,
+        "today": {
+          "confirmed": 0,
+          "recovered": 0,
+          "active": 0,
+          "dead": 0
+        }
+      },
+      {
+        "district": "Other State",
+        "notes": "",
+        "active": 0,
+        "confirmed": 0,
         "recovered": 0,
         "dead": 0,
         "today": {
@@ -9340,6 +9354,20 @@
         "confirmed": 47,
         "recovered": 34,
         "dead": 0,
+        "today": {
+          "confirmed": 0,
+          "recovered": 0,
+          "active": 0,
+          "dead": 0
+        }
+      },
+      {
+        "district": "Unknown",
+        "notes": "",
+        "active": 635,
+        "confirmed": 639,
+        "recovered": 0,
+        "dead": 4,
         "today": {
           "confirmed": 0,
           "recovered": 0,
