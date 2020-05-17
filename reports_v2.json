@@ -1,9 +1,9 @@
 {
-  "confirmed": 91260,
-  "active": 53812,
-  "recovered": 34547,
-  "dead": 2896,
-  "updatedTime": "17/05/2020 13:24:22",
+  "confirmed": 91314,
+  "active": 53831,
+  "recovered": 34581,
+  "dead": 2897,
+  "updatedTime": "17/05/2020 13:44:23",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -155,8 +155,8 @@
       "today": {
         "confirmed": 0,
         "recovered": 0,
-        "dead": -9,
-        "active": 9
+        "dead": 0,
+        "active": 0
       },
       "testing_data": {
         "tested": 163105,
@@ -261,10 +261,10 @@
     "BR": {
       "name": "Bihar",
       "confirmed": 1178,
-      "active": 730,
-      "recovered": 440,
+      "active": 697,
+      "recovered": 473,
       "dead": 8,
-      "updatedTime": "17/05/2020 13:24:24",
+      "updatedTime": "17/05/2020 13:44:24",
       "note": "",
       "stateCode": "BR",
       "today": {
@@ -283,18 +283,18 @@
     },
     "KA": {
       "name": "Karnataka",
-      "confirmed": 1092,
-      "active": 559,
-      "recovered": 496,
-      "dead": 36,
-      "updatedTime": "16/05/2020 18:50:25",
+      "confirmed": 1146,
+      "active": 611,
+      "recovered": 497,
+      "dead": 37,
+      "updatedTime": "17/05/2020 13:44:25",
       "note": "One active case in KA reduced as a confirmed patient died of non-CoViD19 related reasons",
       "stateCode": "KA",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 54,
+        "recovered": 1,
+        "dead": 1,
+        "active": 52
       },
       "testing_data": {
         "tested": 140024,
@@ -845,9 +845,9 @@
     "source": "https://www.icmr.gov.in/pdf/covid/update/ICMR_testing_update_17May2020_9AM_IST.pdf"
   },
   "today": {
-    "confirmed": 611,
-    "recovered": 323,
-    "dead": 15,
-    "active": 273
+    "confirmed": 665,
+    "recovered": 324,
+    "dead": 25,
+    "active": 316
   }
 }
