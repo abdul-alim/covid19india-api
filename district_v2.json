@@ -4462,14 +4462,14 @@
       {
         "district": "Tumakuru",
         "notes": "",
-        "active": 7,
+        "active": 6,
         "confirmed": 11,
-        "recovered": 2,
+        "recovered": 3,
         "dead": 2,
         "today": {
           "confirmed": 0,
-          "recovered": 0,
-          "active": 0,
+          "recovered": 1,
+          "active": -1,
           "dead": 0
         }
       },
@@ -4528,26 +4528,12 @@
           "active": 3,
           "dead": 0
         }
-      },
-      {
-        "district": "Unknown",
-        "notes": "",
-        "active": -1,
-        "confirmed": 0,
-        "recovered": 1,
-        "dead": 0,
-        "today": {
-          "confirmed": 0,
-          "recovered": 0,
-          "active": 0,
-          "dead": 0
-        }
       }
     ],
     "today": {
       "confirmed": 55,
-      "active": 42,
-      "recovered": 12,
+      "active": 41,
+      "recovered": 13,
       "dead": 1
     }
   },
