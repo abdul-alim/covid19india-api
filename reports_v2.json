@@ -1,9 +1,9 @@
 {
-  "confirmed": 95639,
-  "active": 55814,
+  "confirmed": 95648,
+  "active": 55823,
   "recovered": 36794,
   "dead": 3025,
-  "updatedTime": "17/05/2020 22:31:23",
+  "updatedTime": "17/05/2020 22:51:23",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -25,29 +25,6 @@
         "positive": 30706,
         "negative": 238476,
         "unconfirmed": 0,
-        "date": "17/05/2020"
-      }
-    },
-    "TN": {
-      "name": "Tamil Nadu",
-      "confirmed": 11224,
-      "active": 6973,
-      "recovered": 4172,
-      "dead": 79,
-      "updatedTime": "17/05/2020 19:13:23",
-      "note": "",
-      "stateCode": "TN",
-      "today": {
-        "confirmed": 639,
-        "recovered": 634,
-        "dead": 4,
-        "active": 1
-      },
-      "testing_data": {
-        "tested": 326720,
-        "positive": 11224,
-        "negative": 315019,
-        "unconfirmed": 477,
         "date": "17/05/2020"
       }
     },
@@ -74,6 +51,29 @@
         "date": "16/05/2020"
       }
     },
+    "TN": {
+      "name": "Tamil Nadu",
+      "confirmed": 11224,
+      "active": 6973,
+      "recovered": 4172,
+      "dead": 79,
+      "updatedTime": "17/05/2020 19:13:23",
+      "note": "",
+      "stateCode": "TN",
+      "today": {
+        "confirmed": 639,
+        "recovered": 634,
+        "dead": 4,
+        "active": 1
+      },
+      "testing_data": {
+        "tested": 326720,
+        "positive": 11224,
+        "negative": 315019,
+        "unconfirmed": 477,
+        "date": "17/05/2020"
+      }
+    },
     "DL": {
       "name": "Delhi",
       "confirmed": 9755,
@@ -97,29 +97,6 @@
         "date": "17/05/2020"
       }
     },
-    "MP": {
-      "name": "Madhya Pradesh",
-      "confirmed": 4977,
-      "active": 2326,
-      "recovered": 2403,
-      "dead": 248,
-      "updatedTime": "17/05/2020 21:03:24",
-      "note": "",
-      "stateCode": "MP",
-      "today": {
-        "confirmed": 187,
-        "recovered": 88,
-        "dead": 5,
-        "active": 94
-      },
-      "testing_data": {
-        "tested": 99677,
-        "positive": 4790,
-        "negative": 91393,
-        "unconfirmed": 0,
-        "date": "16/05/2020"
-      }
-    },
     "RJ": {
       "name": "Rajasthan",
       "confirmed": 5202,
@@ -140,6 +117,29 @@
         "positive": 5202,
         "negative": 221764,
         "unconfirmed": 4980,
+        "date": "17/05/2020"
+      }
+    },
+    "MP": {
+      "name": "Madhya Pradesh",
+      "confirmed": 4977,
+      "active": 2326,
+      "recovered": 2403,
+      "dead": 248,
+      "updatedTime": "17/05/2020 21:03:24",
+      "note": "",
+      "stateCode": "MP",
+      "today": {
+        "confirmed": 187,
+        "recovered": 88,
+        "dead": 5,
+        "active": 94
+      },
+      "testing_data": {
+        "tested": 103898,
+        "positive": 4977,
+        "negative": 95355,
+        "unconfirmed": 0,
         "date": "17/05/2020"
       }
     },
@@ -281,29 +281,6 @@
         "date": "17/05/2020"
       }
     },
-    "KA": {
-      "name": "Karnataka",
-      "confirmed": 1147,
-      "active": 600,
-      "recovered": 509,
-      "dead": 37,
-      "updatedTime": "17/05/2020 19:40:24",
-      "note": "One active case in KA reduced as a confirmed patient died of non-CoViD19 related reasons",
-      "stateCode": "KA",
-      "today": {
-        "confirmed": 55,
-        "recovered": 13,
-        "dead": 1,
-        "active": 41
-      },
-      "testing_data": {
-        "tested": 145398,
-        "positive": 1147,
-        "negative": 143444,
-        "unconfirmed": 0,
-        "date": "17/05/2020"
-      }
-    },
     "JK": {
       "name": "Jammu and Kashmir",
       "confirmed": 1183,
@@ -325,6 +302,29 @@
         "negative": 75070,
         "unconfirmed": 0,
         "date": "16/05/2020"
+      }
+    },
+    "KA": {
+      "name": "Karnataka",
+      "confirmed": 1147,
+      "active": 600,
+      "recovered": 509,
+      "dead": 37,
+      "updatedTime": "17/05/2020 19:40:24",
+      "note": "One active case in KA reduced as a confirmed patient died of non-CoViD19 related reasons",
+      "stateCode": "KA",
+      "today": {
+        "confirmed": 55,
+        "recovered": 13,
+        "dead": 1,
+        "active": 41
+      },
+      "testing_data": {
+        "tested": 145398,
+        "positive": 1147,
+        "negative": 143444,
+        "unconfirmed": 0,
+        "date": "17/05/2020"
       }
     },
     "HR": {
@@ -396,29 +396,6 @@
         "date": "17/05/2020"
       }
     },
-    "CH": {
-      "name": "Chandigarh",
-      "confirmed": 191,
-      "active": 137,
-      "recovered": 51,
-      "dead": 3,
-      "updatedTime": "16/05/2020 20:29:31",
-      "note": "",
-      "stateCode": "CH",
-      "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
-      },
-      "testing_data": {
-        "tested": 2812,
-        "positive": 191,
-        "negative": 2604,
-        "unconfirmed": 16,
-        "date": "17/05/2020"
-      }
-    },
     "JH": {
       "name": "Jharkhand",
       "confirmed": 223,
@@ -439,6 +416,29 @@
         "positive": 223,
         "negative": 32997,
         "unconfirmed": 0,
+        "date": "17/05/2020"
+      }
+    },
+    "CH": {
+      "name": "Chandigarh",
+      "confirmed": 191,
+      "active": 137,
+      "recovered": 51,
+      "dead": 3,
+      "updatedTime": "16/05/2020 20:29:31",
+      "note": "",
+      "stateCode": "CH",
+      "today": {
+        "confirmed": 0,
+        "recovered": 0,
+        "dead": 0,
+        "active": 0
+      },
+      "testing_data": {
+        "tested": 2812,
+        "positive": 191,
+        "negative": 2604,
+        "unconfirmed": 16,
         "date": "17/05/2020"
       }
     },
@@ -540,7 +540,7 @@
       "active": 11,
       "recovered": 58,
       "dead": 0,
-      "updatedTime": "17/05/2020 22:31:24",
+      "updatedTime": "17/05/2020 22:33:25",
       "note": "",
       "stateCode": "CT",
       "today": {
@@ -605,18 +605,18 @@
     },
     "GA": {
       "name": "Goa",
-      "confirmed": 20,
-      "active": 13,
+      "confirmed": 29,
+      "active": 22,
       "recovered": 7,
       "dead": 0,
-      "updatedTime": "16/05/2020 23:14:30",
+      "updatedTime": "17/05/2020 22:51:25",
       "note": "",
       "stateCode": "GA",
       "today": {
-        "confirmed": 0,
+        "confirmed": 9,
         "recovered": 0,
         "dead": 0,
-        "active": 0
+        "active": 9
       },
       "testing_data": {
         "tested": 8011,
@@ -624,29 +624,6 @@
         "negative": 0,
         "unconfirmed": 0,
         "date": "16/05/2020"
-      }
-    },
-    "ML": {
-      "name": "Meghalaya",
-      "confirmed": 13,
-      "active": 1,
-      "recovered": 11,
-      "dead": 1,
-      "updatedTime": "13/05/2020 11:13:25",
-      "note": "",
-      "stateCode": "ML",
-      "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
-      },
-      "testing_data": {
-        "tested": 2712,
-        "positive": 13,
-        "negative": 2597,
-        "unconfirmed": 102,
-        "date": "15/05/2020"
       }
     },
     "PY": {
@@ -670,6 +647,29 @@
         "negative": 5501,
         "unconfirmed": 96,
         "date": "17/05/2020"
+      }
+    },
+    "ML": {
+      "name": "Meghalaya",
+      "confirmed": 13,
+      "active": 1,
+      "recovered": 11,
+      "dead": 1,
+      "updatedTime": "13/05/2020 11:13:25",
+      "note": "",
+      "stateCode": "ML",
+      "today": {
+        "confirmed": 0,
+        "recovered": 0,
+        "dead": 0,
+        "active": 0
+      },
+      "testing_data": {
+        "tested": 2712,
+        "positive": 13,
+        "negative": 2597,
+        "unconfirmed": 102,
+        "date": "15/05/2020"
       }
     },
     "MN": {
@@ -812,9 +812,9 @@
     }
   },
   "testing_data": {
-    "tested": 2434752,
-    "positive": 91864,
-    "negative": 1931071,
+    "tested": 2438973,
+    "positive": 92051,
+    "negative": 1935033,
     "unconfirmed": 22329
   },
   "testing_data_imcr": {
@@ -822,9 +822,9 @@
     "source": "https://www.icmr.gov.in/pdf/covid/update/ICMR_testing_update_17May2020_9AM_IST.pdf"
   },
   "today": {
-    "confirmed": 4990,
+    "confirmed": 4999,
     "recovered": 2537,
     "dead": 152,
-    "active": 2301
+    "active": 2310
   }
 }
