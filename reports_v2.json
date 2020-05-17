@@ -1,9 +1,9 @@
 {
   "confirmed": 94877,
-  "active": 55546,
+  "active": 55512,
   "recovered": 36345,
-  "dead": 2980,
-  "updatedTime": "17/05/2020 21:21:18",
+  "dead": 3014,
+  "updatedTime": "17/05/2020 21:31:23",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -54,17 +54,17 @@
     "GJ": {
       "name": "Gujarat",
       "confirmed": 10989,
-      "active": 6056,
+      "active": 6022,
       "recovered": 4308,
-      "dead": 625,
-      "updatedTime": "16/05/2020 20:44:24",
+      "dead": 659,
+      "updatedTime": "17/05/2020 21:31:24",
       "note": "",
       "stateCode": "GJ",
       "today": {
         "confirmed": 0,
         "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "dead": 34,
+        "active": -34
       },
       "testing_data": {
         "tested": 138407,
@@ -824,7 +824,7 @@
   "today": {
     "confirmed": 4228,
     "recovered": 2088,
-    "dead": 107,
-    "active": 2033
+    "dead": 141,
+    "active": 1999
   }
 }
