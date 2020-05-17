@@ -635,8 +635,8 @@
   "AS": {
     "state": "Assam",
     "confirmed": 97,
-    "active": 54,
-    "recovered": 41,
+    "active": 53,
+    "recovered": 42,
     "dead": 2,
     "districts": [
       {
@@ -1107,6 +1107,20 @@
         "active": 0,
         "confirmed": 0,
         "recovered": 0,
+        "dead": 0,
+        "today": {
+          "confirmed": 0,
+          "recovered": 0,
+          "active": 0,
+          "dead": 0
+        }
+      },
+      {
+        "district": "Unknown",
+        "notes": "",
+        "active": -1,
+        "confirmed": 0,
+        "recovered": 1,
         "dead": 0,
         "today": {
           "confirmed": 0,
@@ -3065,9 +3079,9 @@
   },
   "HR": {
     "state": "Haryana",
-    "confirmed": 887,
-    "active": 360,
-    "recovered": 514,
+    "confirmed": 894,
+    "active": 330,
+    "recovered": 551,
     "dead": 13,
     "districts": [
       {
@@ -3115,14 +3129,14 @@
       {
         "district": "Faridabad",
         "notes": "",
-        "active": 62,
-        "confirmed": 144,
+        "active": 65,
+        "confirmed": 147,
         "recovered": 77,
         "dead": 5,
         "today": {
-          "confirmed": 0,
+          "confirmed": 3,
           "recovered": 0,
-          "active": 0,
+          "active": 3,
           "dead": 0
         }
       },
@@ -3143,14 +3157,14 @@
       {
         "district": "Gurugram",
         "notes": "",
-        "active": 103,
+        "active": 89,
         "confirmed": 193,
-        "recovered": 90,
+        "recovered": 104,
         "dead": 0,
         "today": {
           "confirmed": 0,
-          "recovered": 0,
-          "active": 0,
+          "recovered": 14,
+          "active": -14,
           "dead": 0
         }
       },
@@ -3185,28 +3199,28 @@
       {
         "district": "Jhajjar",
         "notes": "",
-        "active": 62,
+        "active": 48,
         "confirmed": 90,
-        "recovered": 28,
+        "recovered": 42,
         "dead": 0,
         "today": {
           "confirmed": 0,
-          "recovered": 0,
-          "active": 0,
+          "recovered": 14,
+          "active": -14,
           "dead": 0
         }
       },
       {
         "district": "Jind",
         "notes": "",
-        "active": 10,
+        "active": 5,
         "confirmed": 20,
-        "recovered": 10,
+        "recovered": 15,
         "dead": 0,
         "today": {
           "confirmed": 0,
-          "recovered": 0,
-          "active": 0,
+          "recovered": 5,
+          "active": -5,
           "dead": 0
         }
       },
@@ -3241,28 +3255,28 @@
       {
         "district": "Kurukshetra",
         "notes": "",
-        "active": 1,
-        "confirmed": 3,
+        "active": 3,
+        "confirmed": 5,
         "recovered": 2,
         "dead": 0,
         "today": {
-          "confirmed": 0,
+          "confirmed": 2,
           "recovered": 0,
-          "active": 0,
+          "active": 2,
           "dead": 0
         }
       },
       {
         "district": "Mahendragarh",
         "notes": "",
-        "active": 6,
-        "confirmed": 6,
+        "active": 7,
+        "confirmed": 7,
         "recovered": 0,
         "dead": 0,
         "today": {
-          "confirmed": 0,
+          "confirmed": 1,
           "recovered": 0,
-          "active": 0,
+          "active": 1,
           "dead": 0
         }
       },
@@ -3283,28 +3297,28 @@
       {
         "district": "Palwal",
         "notes": "",
-        "active": 4,
+        "active": 3,
         "confirmed": 39,
-        "recovered": 35,
+        "recovered": 36,
         "dead": 0,
         "today": {
           "confirmed": 0,
-          "recovered": 0,
-          "active": 0,
+          "recovered": 1,
+          "active": -1,
           "dead": 0
         }
       },
       {
         "district": "Panchkula",
         "notes": "",
-        "active": 5,
+        "active": 2,
         "confirmed": 25,
-        "recovered": 20,
+        "recovered": 23,
         "dead": 0,
         "today": {
           "confirmed": 0,
-          "recovered": 0,
-          "active": 0,
+          "recovered": 3,
+          "active": -3,
           "dead": 0
         }
       },
@@ -3353,14 +3367,14 @@
       {
         "district": "Sirsa",
         "notes": "",
-        "active": 1,
-        "confirmed": 7,
+        "active": 2,
+        "confirmed": 8,
         "recovered": 6,
         "dead": 0,
         "today": {
-          "confirmed": 0,
+          "confirmed": 1,
           "recovered": 0,
-          "active": 0,
+          "active": 1,
           "dead": 0
         }
       },
@@ -3394,9 +3408,9 @@
       }
     ],
     "today": {
-      "confirmed": 0,
-      "active": 0,
-      "recovered": 0,
+      "confirmed": 7,
+      "active": -30,
+      "recovered": 37,
       "dead": 0
     }
   },
@@ -7687,9 +7701,9 @@
   },
   "RJ": {
     "state": "Rajasthan",
-    "confirmed": 5030,
-    "active": 1911,
-    "recovered": 2991,
+    "confirmed": 5083,
+    "active": 1963,
+    "recovered": 2992,
     "dead": 128,
     "districts": [
       {
@@ -7779,14 +7793,14 @@
       {
         "district": "Bhilwara",
         "notes": "",
-        "active": 10,
-        "confirmed": 50,
+        "active": 11,
+        "confirmed": 51,
         "recovered": 38,
         "dead": 2,
         "today": {
-          "confirmed": 0,
+          "confirmed": 1,
           "recovered": 0,
-          "active": 0,
+          "active": 1,
           "dead": 0
         }
       },
@@ -7961,42 +7975,42 @@
       {
         "district": "Jaipur",
         "notes": "",
-        "active": 585,
-        "confirmed": 1552,
+        "active": 586,
+        "confirmed": 1553,
         "recovered": 901,
         "dead": 66,
         "today": {
-          "confirmed": 36,
+          "confirmed": 37,
           "recovered": 0,
-          "active": 34,
+          "active": 35,
           "dead": 2
         }
       },
       {
         "district": "Jaisalmer",
         "notes": "",
-        "active": 13,
+        "active": 12,
         "confirmed": 47,
-        "recovered": 34,
+        "recovered": 35,
         "dead": 0,
         "today": {
           "confirmed": 0,
-          "recovered": 0,
-          "active": 0,
+          "recovered": 1,
+          "active": -1,
           "dead": 0
         }
       },
       {
         "district": "Jalore",
         "notes": "",
-        "active": 67,
-        "confirmed": 69,
+        "active": 68,
+        "confirmed": 70,
         "recovered": 1,
         "dead": 1,
         "today": {
-          "confirmed": 0,
+          "confirmed": 1,
           "recovered": 0,
-          "active": 0,
+          "active": 1,
           "dead": 0
         }
       },
@@ -8031,14 +8045,14 @@
       {
         "district": "Jodhpur",
         "notes": "",
-        "active": 255,
-        "confirmed": 993,
+        "active": 266,
+        "confirmed": 1004,
         "recovered": 722,
         "dead": 16,
         "today": {
-          "confirmed": 0,
+          "confirmed": 11,
           "recovered": 0,
-          "active": 0,
+          "active": 11,
           "dead": 0
         }
       },
@@ -8101,14 +8115,14 @@
       {
         "district": "Pali",
         "notes": "",
-        "active": 77,
-        "confirmed": 114,
+        "active": 83,
+        "confirmed": 120,
         "recovered": 34,
         "dead": 3,
         "today": {
-          "confirmed": 0,
+          "confirmed": 6,
           "recovered": 0,
-          "active": 0,
+          "active": 6,
           "dead": 0
         }
       },
@@ -8129,14 +8143,14 @@
       {
         "district": "Rajsamand",
         "notes": "",
-        "active": 25,
-        "confirmed": 33,
+        "active": 35,
+        "confirmed": 43,
         "recovered": 8,
         "dead": 0,
         "today": {
-          "confirmed": 0,
+          "confirmed": 10,
           "recovered": 0,
-          "active": 0,
+          "active": 10,
           "dead": 0
         }
       },
@@ -8157,14 +8171,14 @@
       {
         "district": "Sikar",
         "notes": "",
-        "active": 18,
-        "confirmed": 27,
+        "active": 25,
+        "confirmed": 34,
         "recovered": 7,
         "dead": 2,
         "today": {
-          "confirmed": 0,
+          "confirmed": 7,
           "recovered": 4,
-          "active": -4,
+          "active": 3,
           "dead": 0
         }
       },
@@ -8199,22 +8213,22 @@
       {
         "district": "Udaipur",
         "notes": "",
-        "active": 351,
-        "confirmed": 363,
+        "active": 367,
+        "confirmed": 379,
         "recovered": 12,
         "dead": 0,
         "today": {
-          "confirmed": 0,
+          "confirmed": 16,
           "recovered": 0,
-          "active": 0,
+          "active": 16,
           "dead": 0
         }
       }
     ],
     "today": {
-      "confirmed": 70,
-      "active": 21,
-      "recovered": 47,
+      "confirmed": 123,
+      "active": 73,
+      "recovered": 48,
       "dead": 2
     }
   },

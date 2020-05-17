@@ -1,9 +1,9 @@
 {
-  "confirmed": 91315,
-  "active": 53833,
-  "recovered": 34581,
+  "confirmed": 91375,
+  "active": 53853,
+  "recovered": 34620,
   "dead": 2896,
-  "updatedTime": "17/05/2020 14:49:23",
+  "updatedTime": "17/05/2020 15:21:23",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -90,11 +90,11 @@
         "active": 127
       },
       "testing_data": {
-        "tested": 130845,
-        "positive": 9333,
+        "tested": 135791,
+        "positive": 9755,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "16/05/2020"
+        "date": "17/05/2020"
       }
     },
     "MP": {
@@ -122,18 +122,18 @@
     },
     "RJ": {
       "name": "Rajasthan",
-      "confirmed": 5030,
-      "active": 1911,
-      "recovered": 2991,
+      "confirmed": 5083,
+      "active": 1963,
+      "recovered": 2992,
       "dead": 128,
-      "updatedTime": "17/05/2020 10:23:24",
+      "updatedTime": "17/05/2020 15:21:24",
       "note": "",
       "stateCode": "RJ",
       "today": {
-        "confirmed": 70,
-        "recovered": 47,
+        "confirmed": 123,
+        "recovered": 48,
         "dead": 2,
-        "active": 21
+        "active": 73
       },
       "testing_data": {
         "tested": 221439,
@@ -329,18 +329,18 @@
     },
     "HR": {
       "name": "Haryana",
-      "confirmed": 887,
-      "active": 360,
-      "recovered": 514,
+      "confirmed": 894,
+      "active": 330,
+      "recovered": 551,
       "dead": 13,
-      "updatedTime": "16/05/2020 20:29:30",
+      "updatedTime": "17/05/2020 15:21:25",
       "note": "",
       "stateCode": "HR",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 7,
+        "recovered": 37,
         "dead": 0,
-        "active": 0
+        "active": -30
       },
       "testing_data": {
         "tested": 75097,
@@ -468,17 +468,17 @@
     "AS": {
       "name": "Assam",
       "confirmed": 97,
-      "active": 53,
-      "recovered": 41,
+      "active": 51,
+      "recovered": 42,
       "dead": 2,
-      "updatedTime": "17/05/2020 14:22:25",
-      "note": "Includes one case from Nagaland <br>\nOne patient who migrated to Bihar has been reduced from Active count",
+      "updatedTime": "17/05/2020 15:21:26",
+      "note": "Includes one case from Nagaland <br>\nTwo* patients who migrated to Bihar has been reduced from Active count",
       "stateCode": "AS",
       "today": {
         "confirmed": 4,
-        "recovered": 0,
+        "recovered": 1,
         "dead": 0,
-        "active": 4
+        "active": 3
       },
       "testing_data": {
         "tested": 31276,
@@ -812,8 +812,8 @@
     }
   },
   "testing_data": {
-    "tested": 2371948,
-    "positive": 88897,
+    "tested": 2376894,
+    "positive": 89319,
     "negative": 1886508,
     "unconfirmed": 19553
   },
@@ -822,9 +822,9 @@
     "source": "https://www.icmr.gov.in/pdf/covid/update/ICMR_testing_update_17May2020_9AM_IST.pdf"
   },
   "today": {
-    "confirmed": 666,
-    "recovered": 324,
+    "confirmed": 726,
+    "recovered": 363,
     "dead": 24,
-    "active": 318
+    "active": 339
   }
 }
