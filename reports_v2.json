@@ -1,9 +1,9 @@
 {
-  "confirmed": 95700,
-  "active": 55874,
+  "confirmed": 95698,
+  "active": 55872,
   "recovered": 36795,
   "dead": 3025,
-  "updatedTime": "18/05/2020 01:21:23",
+  "updatedTime": "18/05/2020 01:31:23",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -264,7 +264,7 @@
       "active": 839,
       "recovered": 473,
       "dead": 8,
-      "updatedTime": "18/05/2020 01:21:24",
+      "updatedTime": "18/05/2020 01:23:24",
       "note": "",
       "stateCode": "BR",
       "today": {
@@ -444,18 +444,18 @@
     },
     "TR": {
       "name": "Tripura",
-      "confirmed": 167,
-      "active": 82,
+      "confirmed": 165,
+      "active": 80,
       "recovered": 85,
       "dead": 0,
-      "updatedTime": "17/05/2020 20:10:24",
-      "note": "",
+      "updatedTime": "18/05/2020 01:31:25",
+      "note": "Two cases are migrated out of Tripura.",
       "stateCode": "TR",
       "today": {
-        "confirmed": 0,
+        "confirmed": -2,
         "recovered": 21,
         "dead": 0,
-        "active": -21
+        "active": -23
       },
       "testing_data": {
         "tested": 13750,
@@ -822,9 +822,9 @@
     "source": "https://www.icmr.gov.in/pdf/covid/update/ICMR_testing_update_17May2020_9AM_IST.pdf"
   },
   "today": {
-    "confirmed": 5051,
+    "confirmed": 5049,
     "recovered": 2538,
     "dead": 152,
-    "active": 2361
+    "active": 2359
   }
 }
