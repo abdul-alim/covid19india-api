@@ -1,24 +1,24 @@
 {
-  "confirmed": 100020,
-  "active": 58714,
-  "recovered": 38156,
-  "dead": 3144,
-  "updatedTime": "18/05/2020 21:21:23",
+  "confirmed": 100293,
+  "active": 57926,
+  "recovered": 39206,
+  "dead": 3155,
+  "updatedTime": "18/05/2020 21:50:23",
   "states": {
     "MH": {
       "name": "Maharashtra",
       "confirmed": 35086,
-      "active": 26149,
-      "recovered": 7688,
+      "active": 25400,
+      "recovered": 8437,
       "dead": 1249,
-      "updatedTime": "18/05/2020 21:21:24",
+      "updatedTime": "18/05/2020 21:33:24",
       "note": "",
       "stateCode": "MH",
       "today": {
         "confirmed": 2033,
-        "recovered": 0,
+        "recovered": 749,
         "dead": 51,
-        "active": 1982
+        "active": 1233
       },
       "testing_data": {
         "tested": 282437,
@@ -99,18 +99,18 @@
     },
     "RJ": {
       "name": "Rajasthan",
-      "confirmed": 5375,
-      "active": 2174,
-      "recovered": 3068,
-      "dead": 133,
-      "updatedTime": "18/05/2020 14:34:24",
+      "confirmed": 5507,
+      "active": 2151,
+      "recovered": 3218,
+      "dead": 138,
+      "updatedTime": "18/05/2020 21:50:24",
       "note": "",
       "stateCode": "RJ",
       "today": {
-        "confirmed": 173,
-        "recovered": 13,
-        "dead": 2,
-        "active": 158
+        "confirmed": 305,
+        "recovered": 163,
+        "dead": 7,
+        "active": 135
       },
       "testing_data": {
         "tested": 243476,
@@ -145,18 +145,18 @@
     },
     "UP": {
       "name": "Uttar Pradesh",
-      "confirmed": 4464,
-      "active": 1716,
-      "recovered": 2636,
-      "dead": 112,
-      "updatedTime": "17/05/2020 22:03:24",
+      "confirmed": 4605,
+      "active": 1704,
+      "recovered": 2783,
+      "dead": 118,
+      "updatedTime": "18/05/2020 21:50:25",
       "note": "",
       "stateCode": "UP",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 141,
+        "recovered": 147,
+        "dead": 6,
+        "active": -12
       },
       "testing_data": {
         "tested": 176479,
@@ -228,11 +228,11 @@
         "active": -167
       },
       "testing_data": {
-        "tested": 51812,
-        "positive": 1964,
-        "negative": 47484,
-        "unconfirmed": 2364,
-        "date": "17/05/2020"
+        "tested": 52955,
+        "positive": 1980,
+        "negative": 48813,
+        "unconfirmed": 2162,
+        "date": "18/05/2020"
       }
     },
     "TG": {
@@ -445,17 +445,17 @@
     "TR": {
       "name": "Tripura",
       "confirmed": 165,
-      "active": 80,
-      "recovered": 85,
+      "active": 76,
+      "recovered": 89,
       "dead": 0,
-      "updatedTime": "18/05/2020 01:33:25",
+      "updatedTime": "18/05/2020 21:33:27",
       "note": "Two cases are migrated out of Tripura.",
       "stateCode": "TR",
       "today": {
         "confirmed": 0,
-        "recovered": 0,
+        "recovered": 4,
         "dead": 0,
-        "active": 0
+        "active": -4
       },
       "testing_data": {
         "tested": 14286,
@@ -812,19 +812,19 @@
     }
   },
   "testing_data": {
-    "tested": 2527690,
-    "positive": 97205,
-    "negative": 2001457,
-    "unconfirmed": 21092
+    "tested": 2528833,
+    "positive": 97221,
+    "negative": 2002786,
+    "unconfirmed": 20890
   },
   "testing_data_imcr": {
     "tested": 2302792,
     "source": "https://www.icmr.gov.in/pdf/covid/update/ICMR_testing_update_18May2020_9AM_IST.pdf"
   },
   "today": {
-    "confirmed": 4321,
-    "recovered": 1361,
-    "dead": 119,
-    "active": 2841
+    "confirmed": 4594,
+    "recovered": 2411,
+    "dead": 130,
+    "active": 2053
   }
 }
