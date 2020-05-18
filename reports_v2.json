@@ -1,9 +1,9 @@
 {
   "confirmed": 96334,
-  "active": 56088,
-  "recovered": 37200,
+  "active": 56087,
+  "recovered": 37201,
   "dead": 3040,
-  "updatedTime": "18/05/2020 13:51:23",
+  "updatedTime": "18/05/2020 14:01:23",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -333,7 +333,7 @@
       "active": 335,
       "recovered": 563,
       "dead": 14,
-      "updatedTime": "18/05/2020 13:51:27",
+      "updatedTime": "18/05/2020 13:53:25",
       "note": "",
       "stateCode": "HR",
       "today": {
@@ -652,17 +652,17 @@
     "ML": {
       "name": "Meghalaya",
       "confirmed": 13,
-      "active": 1,
-      "recovered": 11,
+      "active": 0,
+      "recovered": 12,
       "dead": 1,
-      "updatedTime": "13/05/2020 11:13:25",
+      "updatedTime": "18/05/2020 14:01:24",
       "note": "",
       "stateCode": "ML",
       "today": {
         "confirmed": 0,
-        "recovered": 0,
+        "recovered": 1,
         "dead": 0,
-        "active": 0
+        "active": -1
       },
       "testing_data": {
         "tested": 2712,
@@ -823,8 +823,8 @@
   },
   "today": {
     "confirmed": 635,
-    "recovered": 405,
+    "recovered": 406,
     "dead": 15,
-    "active": 215
+    "active": 214
   }
 }
