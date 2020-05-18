@@ -4112,14 +4112,14 @@
       {
         "district": "Bagalkote",
         "notes": "",
-        "active": 43,
+        "active": 31,
         "confirmed": 71,
-        "recovered": 27,
+        "recovered": 39,
         "dead": 1,
         "today": {
           "confirmed": 0,
-          "recovered": 0,
-          "active": 0,
+          "recovered": 12,
+          "active": -12,
           "dead": 0
         }
       },
@@ -4210,14 +4210,14 @@
       {
         "district": "Chikkaballapura",
         "notes": "",
-        "active": 5,
+        "active": 4,
         "confirmed": 24,
-        "recovered": 17,
+        "recovered": 18,
         "dead": 2,
         "today": {
           "confirmed": 0,
-          "recovered": 0,
-          "active": 0,
+          "recovered": 1,
+          "active": -1,
           "dead": 0
         }
       },
@@ -4252,14 +4252,14 @@
       {
         "district": "Dakshina Kannada",
         "notes": "",
-        "active": 33,
+        "active": 32,
         "confirmed": 48,
-        "recovered": 10,
+        "recovered": 11,
         "dead": 5,
         "today": {
           "confirmed": 2,
-          "recovered": 0,
-          "active": 2,
+          "recovered": 1,
+          "active": 1,
           "dead": 0
         }
       },
@@ -4336,14 +4336,14 @@
       {
         "district": "Kalaburagi",
         "notes": "",
-        "active": 57,
+        "active": 55,
         "confirmed": 115,
-        "recovered": 51,
+        "recovered": 53,
         "dead": 7,
         "today": {
           "confirmed": 11,
-          "recovered": 0,
-          "active": 11,
+          "recovered": 2,
+          "active": 9,
           "dead": 0
         }
       },
@@ -4392,14 +4392,14 @@
       {
         "district": "Mandya",
         "notes": "",
-        "active": 70,
+        "active": 68,
         "confirmed": 89,
-        "recovered": 19,
+        "recovered": 21,
         "dead": 0,
         "today": {
           "confirmed": 17,
-          "recovered": 0,
-          "active": 17,
+          "recovered": 2,
+          "active": 15,
           "dead": 0
         }
       },
@@ -4420,14 +4420,14 @@
       {
         "district": "Other State",
         "notes": "",
-        "active": 2,
+        "active": 1,
         "confirmed": 22,
-        "recovered": 19,
+        "recovered": 20,
         "dead": 1,
         "today": {
           "confirmed": 0,
-          "recovered": 0,
-          "active": 0,
+          "recovered": 1,
+          "active": -1,
           "dead": 0
         }
       },
@@ -4476,14 +4476,14 @@
       {
         "district": "Tumakuru",
         "notes": "",
-        "active": 6,
+        "active": 4,
         "confirmed": 11,
-        "recovered": 3,
+        "recovered": 5,
         "dead": 2,
         "today": {
           "confirmed": 0,
-          "recovered": 0,
-          "active": 0,
+          "recovered": 2,
+          "active": -2,
           "dead": 0
         }
       },
@@ -4542,26 +4542,12 @@
           "active": 5,
           "dead": 0
         }
-      },
-      {
-        "district": "Unknown",
-        "notes": "",
-        "active": -21,
-        "confirmed": 0,
-        "recovered": 21,
-        "dead": 0,
-        "today": {
-          "confirmed": 0,
-          "recovered": 0,
-          "active": 0,
-          "dead": 0
-        }
       }
     ],
     "today": {
       "confirmed": 99,
-      "active": 99,
-      "recovered": 0,
+      "active": 78,
+      "recovered": 21,
       "dead": 0
     }
   },
@@ -8824,10 +8810,10 @@
   },
   "TN": {
     "state": "Tamil Nadu",
-    "confirmed": 11224,
-    "active": 6973,
+    "confirmed": 11760,
+    "active": 7506,
     "recovered": 4172,
-    "dead": 79,
+    "dead": 82,
     "districts": [
       {
         "district": "Airport Quarantine",
@@ -9378,10 +9364,10 @@
       {
         "district": "Unknown",
         "notes": "",
-        "active": 2,
-        "confirmed": 2,
+        "active": 535,
+        "confirmed": 538,
         "recovered": 0,
-        "dead": 0,
+        "dead": 3,
         "today": {
           "confirmed": 0,
           "recovered": 0,
