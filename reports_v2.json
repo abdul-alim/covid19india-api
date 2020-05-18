@@ -1,9 +1,9 @@
 {
-  "confirmed": 97609,
-  "active": 56711,
-  "recovered": 37834,
+  "confirmed": 97621,
+  "active": 56689,
+  "recovered": 37868,
   "dead": 3058,
-  "updatedTime": "18/05/2020 20:01:23",
+  "updatedTime": "18/05/2020 20:28:52",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -28,29 +28,6 @@
         "date": "18/05/2020"
       }
     },
-    "GJ": {
-      "name": "Gujarat",
-      "confirmed": 11380,
-      "active": 6222,
-      "recovered": 4499,
-      "dead": 659,
-      "updatedTime": "17/05/2020 21:47:24",
-      "note": "",
-      "stateCode": "GJ",
-      "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
-      },
-      "testing_data": {
-        "tested": 143600,
-        "positive": 11380,
-        "negative": 132220,
-        "unconfirmed": 0,
-        "date": "17/05/2020"
-      }
-    },
     "TN": {
       "name": "Tamil Nadu",
       "confirmed": 11760,
@@ -71,6 +48,29 @@
         "positive": 11224,
         "negative": 315019,
         "unconfirmed": 477,
+        "date": "17/05/2020"
+      }
+    },
+    "GJ": {
+      "name": "Gujarat",
+      "confirmed": 11380,
+      "active": 6222,
+      "recovered": 4499,
+      "dead": 659,
+      "updatedTime": "17/05/2020 21:47:24",
+      "note": "",
+      "stateCode": "GJ",
+      "today": {
+        "confirmed": 0,
+        "recovered": 0,
+        "dead": 0,
+        "active": 0
+      },
+      "testing_data": {
+        "tested": 143600,
+        "positive": 11380,
+        "negative": 132220,
+        "unconfirmed": 0,
         "date": "17/05/2020"
       }
     },
@@ -398,18 +398,18 @@
     },
     "JH": {
       "name": "Jharkhand",
-      "confirmed": 225,
-      "active": 109,
+      "confirmed": 228,
+      "active": 112,
       "recovered": 113,
       "dead": 3,
-      "updatedTime": "18/05/2020 17:45:24",
+      "updatedTime": "18/05/2020 20:27:24",
       "note": "",
       "stateCode": "JH",
       "today": {
-        "confirmed": 2,
+        "confirmed": 5,
         "recovered": 0,
         "dead": 0,
-        "active": 2
+        "active": 5
       },
       "testing_data": {
         "tested": 33220,
@@ -513,18 +513,18 @@
     },
     "HP": {
       "name": "Himachal Pradesh",
-      "confirmed": 85,
-      "active": 38,
+      "confirmed": 86,
+      "active": 39,
       "recovered": 41,
       "dead": 3,
-      "updatedTime": "18/05/2020 18:05:26",
+      "updatedTime": "18/05/2020 20:27:26",
       "note": "HP has 4 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed",
       "stateCode": "HP",
       "today": {
-        "confirmed": 5,
+        "confirmed": 6,
         "recovered": 1,
         "dead": 0,
-        "active": 4
+        "active": 5
       },
       "testing_data": {
         "tested": 18118,
@@ -536,18 +536,18 @@
     },
     "CT": {
       "name": "Chhattisgarh",
-      "confirmed": 85,
-      "active": 26,
+      "confirmed": 93,
+      "active": 34,
       "recovered": 59,
       "dead": 0,
-      "updatedTime": "17/05/2020 23:23:25",
+      "updatedTime": "18/05/2020 20:27:30",
       "note": "",
       "stateCode": "CT",
       "today": {
-        "confirmed": 0,
+        "confirmed": 8,
         "recovered": 0,
         "dead": 0,
-        "active": 0
+        "active": 8
       },
       "testing_data": {
         "tested": 32678,
@@ -560,17 +560,17 @@
     "LA": {
       "name": "Ladakh",
       "confirmed": 43,
-      "active": 19,
-      "recovered": 24,
+      "active": -15,
+      "recovered": 58,
       "dead": 0,
-      "updatedTime": "15/05/2020 19:33:36",
+      "updatedTime": "18/05/2020 20:28:54",
       "note": "",
       "stateCode": "LA",
       "today": {
         "confirmed": 0,
-        "recovered": 0,
+        "recovered": 34,
         "dead": 0,
-        "active": 0
+        "active": -34
       },
       "testing_data": {
         "tested": 4067,
@@ -822,9 +822,9 @@
     "source": "https://www.icmr.gov.in/pdf/covid/update/ICMR_testing_update_18May2020_9AM_IST.pdf"
   },
   "today": {
-    "confirmed": 1910,
-    "recovered": 1039,
+    "confirmed": 1922,
+    "recovered": 1073,
     "dead": 33,
-    "active": 838
+    "active": 816
   }
 }
