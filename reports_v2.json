@@ -1,9 +1,9 @@
 {
-  "confirmed": 97621,
-  "active": 56689,
-  "recovered": 37868,
-  "dead": 3058,
-  "updatedTime": "18/05/2020 20:28:52",
+  "confirmed": 97987,
+  "active": 56732,
+  "recovered": 38156,
+  "dead": 3093,
+  "updatedTime": "18/05/2020 20:43:23",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -53,25 +53,25 @@
     },
     "GJ": {
       "name": "Gujarat",
-      "confirmed": 11380,
-      "active": 6222,
-      "recovered": 4499,
-      "dead": 659,
-      "updatedTime": "17/05/2020 21:47:24",
+      "confirmed": 11746,
+      "active": 6248,
+      "recovered": 4804,
+      "dead": 694,
+      "updatedTime": "18/05/2020 20:43:24",
       "note": "",
       "stateCode": "GJ",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 366,
+        "recovered": 305,
+        "dead": 35,
+        "active": 26
       },
       "testing_data": {
-        "tested": 143600,
-        "positive": 11380,
-        "negative": 132220,
+        "tested": 148824,
+        "positive": 11746,
+        "negative": 137078,
         "unconfirmed": 0,
-        "date": "17/05/2020"
+        "date": "18/05/2020"
       }
     },
     "DL": {
@@ -402,7 +402,7 @@
       "active": 112,
       "recovered": 113,
       "dead": 3,
-      "updatedTime": "18/05/2020 20:27:24",
+      "updatedTime": "18/05/2020 20:29:45",
       "note": "",
       "stateCode": "JH",
       "today": {
@@ -517,7 +517,7 @@
       "active": 39,
       "recovered": 41,
       "dead": 3,
-      "updatedTime": "18/05/2020 20:27:26",
+      "updatedTime": "18/05/2020 20:29:47",
       "note": "HP has 4 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed",
       "stateCode": "HP",
       "today": {
@@ -540,7 +540,7 @@
       "active": 34,
       "recovered": 59,
       "dead": 0,
-      "updatedTime": "18/05/2020 20:27:30",
+      "updatedTime": "18/05/2020 20:29:48",
       "note": "",
       "stateCode": "CT",
       "today": {
@@ -560,17 +560,17 @@
     "LA": {
       "name": "Ladakh",
       "confirmed": 43,
-      "active": -15,
-      "recovered": 58,
+      "active": 2,
+      "recovered": 41,
       "dead": 0,
-      "updatedTime": "18/05/2020 20:28:54",
+      "updatedTime": "18/05/2020 20:33:48",
       "note": "",
       "stateCode": "LA",
       "today": {
         "confirmed": 0,
-        "recovered": 34,
+        "recovered": 17,
         "dead": 0,
-        "active": -34
+        "active": -17
       },
       "testing_data": {
         "tested": 4067,
@@ -812,9 +812,9 @@
     }
   },
   "testing_data": {
-    "tested": 2498935,
-    "positive": 96014,
-    "negative": 1981236,
+    "tested": 2504159,
+    "positive": 96380,
+    "negative": 1986094,
     "unconfirmed": 21215
   },
   "testing_data_imcr": {
@@ -822,9 +822,9 @@
     "source": "https://www.icmr.gov.in/pdf/covid/update/ICMR_testing_update_18May2020_9AM_IST.pdf"
   },
   "today": {
-    "confirmed": 1922,
-    "recovered": 1073,
-    "dead": 33,
-    "active": 816
+    "confirmed": 2288,
+    "recovered": 1361,
+    "dead": 68,
+    "active": 859
   }
 }
