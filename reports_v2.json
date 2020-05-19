@@ -1,9 +1,9 @@
 {
-  "confirmed": 100328,
-  "active": 57933,
-  "recovered": 39233,
-  "dead": 3156,
-  "updatedTime": "19/05/2020 02:43:23",
+  "confirmed": 101385,
+  "active": 58987,
+  "recovered": 39234,
+  "dead": 3158,
+  "updatedTime": "19/05/2020 11:37:23",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -99,18 +99,18 @@
     },
     "RJ": {
       "name": "Rajasthan",
-      "confirmed": 5507,
-      "active": 2151,
-      "recovered": 3218,
-      "dead": 138,
-      "updatedTime": "18/05/2020 21:56:24",
+      "confirmed": 5629,
+      "active": 2271,
+      "recovered": 3219,
+      "dead": 139,
+      "updatedTime": "19/05/2020 09:56:24",
       "note": "",
       "stateCode": "RJ",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 122,
+        "recovered": 1,
+        "dead": 1,
+        "active": 120
       },
       "testing_data": {
         "tested": 243476,
@@ -205,11 +205,11 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 248771,
-        "positive": 2282,
-        "negative": 246279,
+        "tested": 258450,
+        "positive": 2339,
+        "negative": 255961,
         "unconfirmed": 0,
-        "date": "18/05/2020"
+        "date": "19/05/2020"
       }
     },
     "PB": {
@@ -260,18 +260,18 @@
     },
     "BR": {
       "name": "Bihar",
-      "confirmed": 1423,
-      "active": 941,
+      "confirmed": 1442,
+      "active": 960,
       "recovered": 473,
       "dead": 9,
-      "updatedTime": "18/05/2020 20:01:26",
+      "updatedTime": "19/05/2020 10:24:24",
       "note": "",
       "stateCode": "BR",
       "today": {
-        "confirmed": 0,
+        "confirmed": 19,
         "recovered": 0,
         "dead": 0,
-        "active": 0
+        "active": 19
       },
       "testing_data": {
         "tested": 46996,
@@ -352,18 +352,18 @@
     },
     "OR": {
       "name": "Odisha",
-      "confirmed": 876,
-      "active": 595,
+      "confirmed": 978,
+      "active": 696,
       "recovered": 277,
-      "dead": 4,
-      "updatedTime": "18/05/2020 14:13:24",
+      "dead": 5,
+      "updatedTime": "19/05/2020 11:37:24",
       "note": "",
       "stateCode": "OR",
       "today": {
-        "confirmed": 0,
+        "confirmed": 102,
         "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "dead": 1,
+        "active": 101
       },
       "testing_data": {
         "tested": 95766,
@@ -504,11 +504,11 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 13212,
-        "positive": 92,
-        "negative": 11316,
-        "unconfirmed": 951,
-        "date": "17/05/2020"
+        "tested": 13870,
+        "positive": 93,
+        "negative": 11812,
+        "unconfirmed": 1087,
+        "date": "18/05/2020"
       }
     },
     "HP": {
@@ -741,6 +741,29 @@
         "date": "18/05/2020"
       }
     },
+    "DN": {
+      "name": "Dadra and Nagar Haveli and Daman and Diu",
+      "confirmed": 1,
+      "active": 0,
+      "recovered": 1,
+      "dead": 0,
+      "updatedTime": "12/05/2020 23:23:25",
+      "note": "",
+      "stateCode": "DN",
+      "today": {
+        "confirmed": 0,
+        "recovered": 0,
+        "dead": 0,
+        "active": 0
+      },
+      "testing_data": {
+        "tested": 382,
+        "positive": 0,
+        "negative": 382,
+        "unconfirmed": 0,
+        "date": "16/04/2020"
+      }
+    },
     "NL": {
       "name": "Nagaland",
       "confirmed": 0,
@@ -809,22 +832,39 @@
         "unconfirmed": 551,
         "date": "18/05/2020"
       }
+    },
+    "UN": {
+      "name": "State Unassigned",
+      "confirmed": 814,
+      "active": 814,
+      "recovered": 0,
+      "dead": 0,
+      "updatedTime": "19/05/2020 09:28:27",
+      "note": "MoHFW reports that these cases are being reassigned to states",
+      "stateCode": "UN",
+      "today": {
+        "confirmed": 814,
+        "recovered": 0,
+        "dead": 0,
+        "active": 814
+      },
+      "isUnknown": true
     }
   },
   "testing_data": {
-    "tested": 2564153,
-    "positive": 97944,
-    "negative": 2030056,
-    "unconfirmed": 18306
+    "tested": 2574490,
+    "positive": 98002,
+    "negative": 2040234,
+    "unconfirmed": 18442
   },
   "testing_data_imcr": {
-    "tested": 2302792,
-    "source": "https://www.icmr.gov.in/pdf/covid/update/ICMR_testing_update_18May2020_9AM_IST.pdf"
+    "tested": 2404267,
+    "source": "https://www.icmr.gov.in/pdf/covid/update/ICMR_testing_update_19May2020_9AM_IST.pdf"
   },
   "today": {
-    "confirmed": 0,
-    "recovered": 0,
-    "dead": 0,
-    "active": 0
+    "confirmed": 1057,
+    "recovered": 1,
+    "dead": 2,
+    "active": 1054
   }
 }
