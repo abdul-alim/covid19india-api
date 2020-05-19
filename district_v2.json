@@ -4126,8 +4126,8 @@
   "KA": {
     "state": "Karnataka",
     "confirmed": 1395,
-    "active": 825,
-    "recovered": 530,
+    "active": 812,
+    "recovered": 543,
     "dead": 40,
     "districts": [
       {
@@ -4147,28 +4147,28 @@
       {
         "district": "Ballari",
         "notes": "",
-        "active": 6,
+        "active": 5,
         "confirmed": 19,
         "recovered": 13,
-        "dead": 0,
+        "dead": 1,
         "today": {
           "confirmed": 0,
           "recovered": 0,
-          "active": 0,
-          "dead": 0
+          "active": -1,
+          "dead": 1
         }
       },
       {
         "district": "Belagavi",
         "notes": "",
-        "active": 61,
+        "active": 59,
         "confirmed": 116,
-        "recovered": 54,
+        "recovered": 56,
         "dead": 1,
         "today": {
           "confirmed": 0,
-          "recovered": 0,
-          "active": 0,
+          "recovered": 2,
+          "active": -2,
           "dead": 0
         }
       },
@@ -4189,28 +4189,28 @@
       {
         "district": "Bengaluru Urban",
         "notes": "",
-        "active": 117,
+        "active": 115,
         "confirmed": 246,
-        "recovered": 122,
-        "dead": 7,
+        "recovered": 123,
+        "dead": 8,
         "today": {
           "confirmed": 6,
-          "recovered": 0,
-          "active": 6,
-          "dead": 0
+          "recovered": 1,
+          "active": 4,
+          "dead": 1
         }
       },
       {
         "district": "Bidar",
         "notes": "",
-        "active": 41,
+        "active": 34,
         "confirmed": 57,
-        "recovered": 14,
+        "recovered": 21,
         "dead": 2,
         "today": {
           "confirmed": 1,
-          "recovered": 0,
-          "active": 1,
+          "recovered": 7,
+          "active": -6,
           "dead": 0
         }
       },
@@ -4357,14 +4357,14 @@
       {
         "district": "Kalaburagi",
         "notes": "",
-        "active": 68,
+        "active": 66,
         "confirmed": 128,
-        "recovered": 53,
+        "recovered": 55,
         "dead": 7,
         "today": {
           "confirmed": 13,
-          "recovered": 0,
-          "active": 13,
+          "recovered": 2,
+          "active": 11,
           "dead": 0
         }
       },
@@ -4525,29 +4525,29 @@
       {
         "district": "Uttara Kannada",
         "notes": "",
-        "active": 44,
+        "active": 43,
         "confirmed": 55,
-        "recovered": 11,
+        "recovered": 12,
         "dead": 0,
         "today": {
           "confirmed": 4,
-          "recovered": 0,
-          "active": 4,
+          "recovered": 1,
+          "active": 3,
           "dead": 0
         }
       },
       {
         "district": "Vijayapura",
         "notes": "",
-        "active": 20,
+        "active": 19,
         "confirmed": 60,
         "recovered": 37,
-        "dead": 3,
+        "dead": 4,
         "today": {
           "confirmed": 1,
           "recovered": 0,
-          "active": 1,
-          "dead": 0
+          "active": 0,
+          "dead": 1
         }
       },
       {
@@ -4563,47 +4563,33 @@
           "active": 1,
           "dead": 0
         }
-      },
-      {
-        "district": "Unknown",
-        "notes": "",
-        "active": -3,
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 3,
-        "today": {
-          "confirmed": 0,
-          "recovered": 0,
-          "active": 0,
-          "dead": 0
-        }
       }
     ],
     "today": {
       "confirmed": 149,
-      "active": 149,
-      "recovered": 0,
-      "dead": 0
+      "active": 133,
+      "recovered": 13,
+      "dead": 3
     }
   },
   "KL": {
     "state": "Kerala",
-    "confirmed": 631,
-    "active": 130,
+    "confirmed": 643,
+    "active": 142,
     "recovered": 497,
     "dead": 4,
     "districts": [
       {
         "district": "Alappuzha",
         "notes": "",
-        "active": 4,
-        "confirmed": 9,
+        "active": 5,
+        "confirmed": 10,
         "recovered": 5,
         "dead": 0,
         "today": {
-          "confirmed": 0,
+          "confirmed": 1,
           "recovered": 0,
-          "active": 0,
+          "active": 1,
           "dead": 0
         }
       },
@@ -4638,14 +4624,14 @@
       {
         "district": "Kannur",
         "notes": "",
-        "active": 8,
-        "confirmed": 124,
+        "active": 13,
+        "confirmed": 129,
         "recovered": 115,
         "dead": 1,
         "today": {
-          "confirmed": 0,
+          "confirmed": 5,
           "recovered": 0,
-          "active": 0,
+          "active": 5,
           "dead": 0
         }
       },
@@ -4708,42 +4694,42 @@
       {
         "district": "Malappuram",
         "notes": "",
-        "active": 24,
-        "confirmed": 48,
+        "active": 27,
+        "confirmed": 51,
         "recovered": 23,
         "dead": 1,
         "today": {
-          "confirmed": 0,
+          "confirmed": 3,
           "recovered": 0,
-          "active": 0,
+          "active": 3,
           "dead": 0
         }
       },
       {
         "district": "Palakkad",
         "notes": "",
-        "active": 12,
-        "confirmed": 25,
+        "active": 13,
+        "confirmed": 26,
         "recovered": 13,
         "dead": 0,
         "today": {
-          "confirmed": 0,
+          "confirmed": 1,
           "recovered": 0,
-          "active": 0,
+          "active": 1,
           "dead": 0
         }
       },
       {
         "district": "Pathanamthitta",
         "notes": "",
-        "active": 4,
-        "confirmed": 21,
+        "active": 5,
+        "confirmed": 22,
         "recovered": 17,
         "dead": 0,
         "today": {
-          "confirmed": 0,
+          "confirmed": 1,
           "recovered": 0,
-          "active": 0,
+          "active": 1,
           "dead": 0
         }
       },
@@ -4764,14 +4750,14 @@
       {
         "district": "Thrissur",
         "notes": "",
-        "active": 11,
-        "confirmed": 24,
+        "active": 12,
+        "confirmed": 25,
         "recovered": 13,
         "dead": 0,
         "today": {
-          "confirmed": 0,
+          "confirmed": 1,
           "recovered": 0,
-          "active": 0,
+          "active": 1,
           "dead": 0
         }
       },
@@ -4791,8 +4777,8 @@
       }
     ],
     "today": {
-      "confirmed": 0,
-      "active": 0,
+      "confirmed": 12,
+      "active": 12,
       "recovered": 0,
       "dead": 0
     }
