@@ -1,9 +1,9 @@
 {
-  "confirmed": 106468,
-  "active": 60854,
-  "recovered": 42307,
-  "dead": 3301,
-  "updatedTime": "19/05/2020 23:53:23",
+  "confirmed": 106475,
+  "active": 60858,
+  "recovered": 42309,
+  "dead": 3302,
+  "updatedTime": "20/05/2020 02:01:23",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -530,18 +530,18 @@
     },
     "CT": {
       "name": "Chhattisgarh",
-      "confirmed": 95,
-      "active": 36,
+      "confirmed": 100,
+      "active": 41,
       "recovered": 59,
       "dead": 0,
-      "updatedTime": "19/05/2020 02:43:24",
+      "updatedTime": "20/05/2020 02:01:25",
       "note": "",
       "stateCode": "CT",
       "today": {
-        "confirmed": 0,
+        "confirmed": 5,
         "recovered": 0,
         "dead": 0,
-        "active": 0
+        "active": 5
       },
       "testing_data": {
         "tested": 36606,
@@ -553,18 +553,18 @@
     },
     "HP": {
       "name": "Himachal Pradesh",
-      "confirmed": 90,
-      "active": 39,
-      "recovered": 45,
-      "dead": 3,
-      "updatedTime": "19/05/2020 19:59:27",
+      "confirmed": 92,
+      "active": 38,
+      "recovered": 47,
+      "dead": 4,
+      "updatedTime": "20/05/2020 02:01:26",
       "note": "HP has 4 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed",
       "stateCode": "HP",
       "today": {
-        "confirmed": 0,
-        "recovered": 3,
-        "dead": 0,
-        "active": -3
+        "confirmed": 2,
+        "recovered": 5,
+        "dead": 1,
+        "active": -4
       },
       "testing_data": {
         "tested": 19490,
@@ -856,9 +856,9 @@
     "source": "https://www.icmr.gov.in/pdf/covid/update/ICMR_testing_update_19May2020_9AM_IST.pdf"
   },
   "today": {
-    "confirmed": 6141,
-    "recovered": 3030,
-    "dead": 145,
-    "active": 2966
+    "confirmed": 6148,
+    "recovered": 3032,
+    "dead": 146,
+    "active": 2970
   }
 }
