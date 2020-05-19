@@ -79,10 +79,10 @@
   },
   "AP": {
     "state": "Andhra Pradesh",
-    "confirmed": 2432,
-    "active": 830,
-    "recovered": 1552,
-    "dead": 50,
+    "confirmed": 2489,
+    "active": 816,
+    "recovered": 1621,
+    "dead": 52,
     "districts": [
       {
         "district": "Anantapur",
@@ -101,15 +101,15 @@
       {
         "district": "Chittoor",
         "notes": "",
-        "active": 110,
+        "active": 109,
         "confirmed": 192,
         "recovered": 82,
-        "dead": 0,
+        "dead": 1,
         "today": {
           "confirmed": 0,
           "recovered": 0,
-          "active": 0,
-          "dead": 0
+          "active": -1,
+          "dead": 1
         }
       },
       {
@@ -157,15 +157,15 @@
       {
         "district": "Kurnool",
         "notes": "",
-        "active": 163,
+        "active": 162,
         "confirmed": 615,
         "recovered": 433,
-        "dead": 19,
+        "dead": 20,
         "today": {
           "confirmed": 0,
           "recovered": 0,
-          "active": 0,
-          "dead": 0
+          "active": -1,
+          "dead": 1
         }
       },
       {
@@ -279,13 +279,27 @@
           "active": 0,
           "dead": 0
         }
+      },
+      {
+        "district": "Unknown",
+        "notes": "",
+        "active": -12,
+        "confirmed": 57,
+        "recovered": 69,
+        "dead": 0,
+        "today": {
+          "confirmed": 0,
+          "recovered": 0,
+          "active": 0,
+          "dead": 0
+        }
       }
     ],
     "today": {
       "confirmed": 0,
-      "active": 0,
+      "active": -2,
       "recovered": 0,
-      "dead": 0
+      "dead": 2
     }
   },
   "AR": {
