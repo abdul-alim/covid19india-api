@@ -1,9 +1,9 @@
 {
   "confirmed": 102032,
-  "active": 59330,
-  "recovered": 39529,
+  "active": 59286,
+  "recovered": 39573,
   "dead": 3167,
-  "updatedTime": "19/05/2020 13:31:23",
+  "updatedTime": "19/05/2020 13:49:23",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -21,11 +21,11 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 282437,
-        "positive": 33053,
-        "negative": 245512,
+        "tested": 294272,
+        "positive": 35058,
+        "negative": 255065,
         "unconfirmed": 0,
-        "date": "18/05/2020"
+        "date": "19/05/2020"
       }
     },
     "TN": {
@@ -80,7 +80,7 @@
       "active": 5638,
       "recovered": 4750,
       "dead": 166,
-      "updatedTime": "19/05/2020 13:26:24",
+      "updatedTime": "19/05/2020 13:33:24",
       "note": "[10-May]<br>\n\nDelhi will be releasing bulletins in the morning, containing data of the previous day. We will add that data to the date on which the report is released, rather than the previous day.",
       "stateCode": "DL",
       "today": {
@@ -261,17 +261,17 @@
     "BR": {
       "name": "Bihar",
       "confirmed": 1442,
-      "active": 960,
-      "recovered": 473,
+      "active": 916,
+      "recovered": 517,
       "dead": 9,
-      "updatedTime": "19/05/2020 10:24:24",
+      "updatedTime": "19/05/2020 13:45:24",
       "note": "",
       "stateCode": "BR",
       "today": {
         "confirmed": 19,
-        "recovered": 0,
+        "recovered": 7,
         "dead": 0,
-        "active": 19
+        "active": 12
       },
       "testing_data": {
         "tested": 46996,
@@ -356,7 +356,7 @@
       "active": 666,
       "recovered": 307,
       "dead": 5,
-      "updatedTime": "19/05/2020 13:31:24",
+      "updatedTime": "19/05/2020 13:49:24",
       "note": "",
       "stateCode": "OR",
       "today": {
@@ -366,11 +366,11 @@
         "active": 71
       },
       "testing_data": {
-        "tested": 95766,
-        "positive": 876,
+        "tested": 100302,
+        "positive": 978,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "18/05/2020"
+        "date": "19/05/2020"
       }
     },
     "KL": {
@@ -471,7 +471,7 @@
       "active": 88,
       "recovered": 42,
       "dead": 4,
-      "updatedTime": "19/05/2020 13:31:25",
+      "updatedTime": "19/05/2020 13:34:26",
       "note": "Includes one case from Nagaland <br>\nTwo* patients who migrated to Bihar has been reduced from Active count",
       "stateCode": "AS",
       "today": {
@@ -846,9 +846,9 @@
     }
   },
   "testing_data": {
-    "tested": 2574490,
-    "positive": 98002,
-    "negative": 2040234,
+    "tested": 2590861,
+    "positive": 100109,
+    "negative": 2049787,
     "unconfirmed": 18442
   },
   "testing_data_imcr": {
@@ -857,8 +857,8 @@
   },
   "today": {
     "confirmed": 1704,
-    "recovered": 296,
+    "recovered": 303,
     "dead": 11,
-    "active": 1397
+    "active": 1390
   }
 }
