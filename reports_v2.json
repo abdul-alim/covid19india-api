@@ -1,9 +1,9 @@
 {
-  "confirmed": 101385,
-  "active": 58987,
+  "confirmed": 101512,
+  "active": 59111,
   "recovered": 39234,
-  "dead": 3158,
-  "updatedTime": "19/05/2020 11:37:23",
+  "dead": 3161,
+  "updatedTime": "19/05/2020 13:11:23",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -306,18 +306,18 @@
     },
     "KA": {
       "name": "Karnataka",
-      "confirmed": 1246,
-      "active": 678,
+      "confirmed": 1373,
+      "active": 802,
       "recovered": 530,
-      "dead": 37,
-      "updatedTime": "18/05/2020 18:05:24",
+      "dead": 40,
+      "updatedTime": "19/05/2020 13:11:24",
       "note": "One active case in KA reduced as a confirmed patient died of non-CoViD19 related reasons",
       "stateCode": "KA",
       "today": {
-        "confirmed": 0,
+        "confirmed": 127,
         "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "dead": 3,
+        "active": 124
       },
       "testing_data": {
         "tested": 151663,
@@ -756,13 +756,7 @@
         "dead": 0,
         "active": 0
       },
-      "testing_data": {
-        "tested": 382,
-        "positive": 0,
-        "negative": 382,
-        "unconfirmed": 0,
-        "date": "16/04/2020"
-      }
+      "isUnknown": true
     },
     "NL": {
       "name": "Nagaland",
@@ -862,9 +856,9 @@
     "source": "https://www.icmr.gov.in/pdf/covid/update/ICMR_testing_update_19May2020_9AM_IST.pdf"
   },
   "today": {
-    "confirmed": 1057,
+    "confirmed": 1184,
     "recovered": 1,
-    "dead": 2,
-    "active": 1054
+    "dead": 5,
+    "active": 1178
   }
 }

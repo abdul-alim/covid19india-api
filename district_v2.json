@@ -4111,10 +4111,10 @@
   },
   "KA": {
     "state": "Karnataka",
-    "confirmed": 1246,
-    "active": 679,
+    "confirmed": 1373,
+    "active": 803,
     "recovered": 530,
-    "dead": 37,
+    "dead": 40,
     "districts": [
       {
         "district": "Bagalkote",
@@ -4543,6 +4543,20 @@
         "confirmed": 10,
         "recovered": 0,
         "dead": 0,
+        "today": {
+          "confirmed": 0,
+          "recovered": 0,
+          "active": 0,
+          "dead": 0
+        }
+      },
+      {
+        "district": "Unknown",
+        "notes": "",
+        "active": 124,
+        "confirmed": 127,
+        "recovered": 0,
+        "dead": 3,
         "today": {
           "confirmed": 0,
           "recovered": 0,
@@ -11157,5 +11171,19 @@
       "recovered": 0,
       "dead": 0
     }
+  },
+  "DD": {
+    "confirmed": 0,
+    "active": 0,
+    "recovered": 0,
+    "dead": 0,
+    "today": {
+      "confirmed": 0,
+      "active": 0,
+      "recovered": 0,
+      "dead": 0
+    },
+    "state": "Daman and Diu",
+    "districts": []
   }
 }
