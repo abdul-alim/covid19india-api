@@ -1,9 +1,9 @@
 {
-  "confirmed": 102564,
-  "active": 59715,
-  "recovered": 39674,
-  "dead": 3169,
-  "updatedTime": "19/05/2020 19:13:23",
+  "confirmed": 102586,
+  "active": 59436,
+  "recovered": 39968,
+  "dead": 3176,
+  "updatedTime": "19/05/2020 19:51:23",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -123,17 +123,17 @@
     "MP": {
       "name": "Madhya Pradesh",
       "confirmed": 5465,
-      "active": 2778,
-      "recovered": 2435,
-      "dead": 252,
-      "updatedTime": "18/05/2020 20:01:25",
+      "active": 2576,
+      "recovered": 2631,
+      "dead": 258,
+      "updatedTime": "19/05/2020 19:47:24",
       "note": "",
       "stateCode": "MP",
       "today": {
         "confirmed": 229,
-        "recovered": 0,
-        "dead": 0,
-        "active": 229
+        "recovered": 196,
+        "dead": 6,
+        "active": 27
       },
       "testing_data": {
         "tested": 116473,
@@ -214,18 +214,18 @@
     },
     "PB": {
       "name": "Punjab",
-      "confirmed": 1980,
-      "active": 396,
-      "recovered": 1547,
-      "dead": 37,
-      "updatedTime": "18/05/2020 19:18:26",
+      "confirmed": 2002,
+      "active": 322,
+      "recovered": 1642,
+      "dead": 38,
+      "updatedTime": "19/05/2020 19:51:24",
       "note": "Cases in Punjab were effectively reduced as some cases were added to 'central pool' as per the bulletin",
       "stateCode": "PB",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 22,
+        "recovered": 95,
+        "dead": 1,
+        "active": -74
       },
       "testing_data": {
         "tested": 52955,
@@ -297,11 +297,11 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 88601,
-        "positive": 1289,
-        "negative": 87312,
+        "tested": 96826,
+        "positive": 1317,
+        "negative": 95509,
         "unconfirmed": 0,
-        "date": "18/05/2020"
+        "date": "19/05/2020"
       }
     },
     "KA": {
@@ -320,11 +320,11 @@
         "active": 133
       },
       "testing_data": {
-        "tested": 151663,
-        "positive": 1246,
-        "negative": 149566,
+        "tested": 158599,
+        "positive": 1395,
+        "negative": 156247,
         "unconfirmed": 0,
-        "date": "18/05/2020"
+        "date": "19/05/2020"
       }
     },
     "HR": {
@@ -343,10 +343,10 @@
         "active": 11
       },
       "testing_data": {
-        "tested": 81618,
-        "positive": 942,
-        "negative": 76202,
-        "unconfirmed": 4474,
+        "tested": 82544,
+        "positive": 964,
+        "negative": 77296,
+        "unconfirmed": 4284,
         "date": "19/05/2020"
       }
     },
@@ -389,11 +389,11 @@
         "active": 12
       },
       "testing_data": {
-        "tested": 45905,
-        "positive": 630,
-        "negative": 44651,
-        "unconfirmed": 624,
-        "date": "18/05/2020"
+        "tested": 46958,
+        "positive": 642,
+        "negative": 45527,
+        "unconfirmed": 789,
+        "date": "19/05/2020"
       }
     },
     "JH": {
@@ -504,33 +504,33 @@
         "active": 8
       },
       "testing_data": {
-        "tested": 13870,
-        "positive": 93,
-        "negative": 11812,
-        "unconfirmed": 1087,
-        "date": "18/05/2020"
+        "tested": 14691,
+        "positive": 104,
+        "negative": 12242,
+        "unconfirmed": 1456,
+        "date": "19/05/2020"
       }
     },
     "HP": {
       "name": "Himachal Pradesh",
       "confirmed": 90,
-      "active": 42,
-      "recovered": 42,
+      "active": 39,
+      "recovered": 45,
       "dead": 3,
-      "updatedTime": "18/05/2020 22:50:27",
+      "updatedTime": "19/05/2020 19:51:25",
       "note": "HP has 4 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed",
       "stateCode": "HP",
       "today": {
         "confirmed": 0,
-        "recovered": 0,
+        "recovered": 3,
         "dead": 0,
-        "active": 0
+        "active": -3
       },
       "testing_data": {
-        "tested": 18224,
+        "tested": 19490,
         "positive": 90,
-        "negative": 17946,
-        "unconfirmed": 188,
+        "negative": 18390,
+        "unconfirmed": 1010,
         "date": "19/05/2020"
       }
     },
@@ -642,11 +642,11 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 5754,
+        "tested": 5829,
         "positive": 22,
-        "negative": 5709,
-        "unconfirmed": 23,
-        "date": "18/05/2020"
+        "negative": 5762,
+        "unconfirmed": 45,
+        "date": "19/05/2020"
       }
     },
     "ML": {
@@ -846,19 +846,19 @@
     }
   },
   "testing_data": {
-    "tested": 2602855,
-    "positive": 100864,
-    "negative": 2054943,
-    "unconfirmed": 18207
+    "tested": 2622157,
+    "positive": 101086,
+    "negative": 2072718,
+    "unconfirmed": 19395
   },
   "testing_data_imcr": {
     "tested": 2404267,
     "source": "https://www.icmr.gov.in/pdf/covid/update/ICMR_testing_update_19May2020_9AM_IST.pdf"
   },
   "today": {
-    "confirmed": 2236,
-    "recovered": 397,
-    "dead": 13,
-    "active": 1826
+    "confirmed": 2258,
+    "recovered": 691,
+    "dead": 20,
+    "active": 1547
   }
 }
