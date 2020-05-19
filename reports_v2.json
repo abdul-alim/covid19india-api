@@ -1,9 +1,9 @@
 {
-  "confirmed": 106446,
-  "active": 60832,
+  "confirmed": 106453,
+  "active": 60839,
   "recovered": 42307,
   "dead": 3301,
-  "updatedTime": "19/05/2020 23:10:23",
+  "updatedTime": "19/05/2020 23:30:23",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -11,7 +11,7 @@
       "active": 26172,
       "recovered": 9639,
       "dead": 1325,
-      "updatedTime": "19/05/2020 23:10:24",
+      "updatedTime": "19/05/2020 23:12:24",
       "note": "",
       "stateCode": "MH",
       "today": {
@@ -103,7 +103,7 @@
       "active": 2365,
       "recovered": 3337,
       "dead": 143,
-      "updatedTime": "19/05/2020 23:10:25",
+      "updatedTime": "19/05/2020 23:12:25",
       "note": "",
       "stateCode": "RJ",
       "today": {
@@ -149,7 +149,7 @@
       "active": 1885,
       "recovered": 2918,
       "dead": 123,
-      "updatedTime": "19/05/2020 23:10:26",
+      "updatedTime": "19/05/2020 23:12:26",
       "note": "",
       "stateCode": "UP",
       "today": {
@@ -444,18 +444,18 @@
     },
     "TR": {
       "name": "Tripura",
-      "confirmed": 165,
-      "active": 49,
+      "confirmed": 169,
+      "active": 53,
       "recovered": 116,
       "dead": 0,
-      "updatedTime": "19/05/2020 20:41:28",
+      "updatedTime": "19/05/2020 23:30:25",
       "note": "Two cases are migrated out of Tripura.",
       "stateCode": "TR",
       "today": {
-        "confirmed": 0,
+        "confirmed": 4,
         "recovered": 27,
         "dead": 0,
-        "active": -27
+        "active": -23
       },
       "testing_data": {
         "tested": 14286,
@@ -467,18 +467,18 @@
     },
     "AS": {
       "name": "Assam",
-      "confirmed": 155,
-      "active": 107,
+      "confirmed": 158,
+      "active": 110,
       "recovered": 42,
       "dead": 4,
-      "updatedTime": "19/05/2020 20:11:26",
+      "updatedTime": "19/05/2020 23:30:26",
       "note": "Includes one case from Nagaland <br>\nTwo* patients who migrated to Bihar has been reduced from Active count",
       "stateCode": "AS",
       "today": {
-        "confirmed": 39,
+        "confirmed": 42,
         "recovered": 0,
         "dead": 0,
-        "active": 39
+        "active": 42
       },
       "testing_data": {
         "tested": 37898,
@@ -856,9 +856,9 @@
     "source": "https://www.icmr.gov.in/pdf/covid/update/ICMR_testing_update_19May2020_9AM_IST.pdf"
   },
   "today": {
-    "confirmed": 6119,
+    "confirmed": 6126,
     "recovered": 3030,
     "dead": 145,
-    "active": 2944
+    "active": 2951
   }
 }
