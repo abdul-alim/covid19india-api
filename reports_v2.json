@@ -1,9 +1,9 @@
 {
   "confirmed": 103873,
-  "active": 59826,
-  "recovered": 40829,
+  "active": 59799,
+  "recovered": 40856,
   "dead": 3212,
-  "updatedTime": "19/05/2020 20:21:22",
+  "updatedTime": "19/05/2020 20:31:23",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -57,7 +57,7 @@
       "active": 6379,
       "recovered": 5043,
       "dead": 719,
-      "updatedTime": "19/05/2020 20:21:24",
+      "updatedTime": "19/05/2020 20:30:24",
       "note": "",
       "stateCode": "GJ",
       "today": {
@@ -172,7 +172,7 @@
       "active": 1637,
       "recovered": 1074,
       "dead": 250,
-      "updatedTime": "19/05/2020 20:21:25",
+      "updatedTime": "19/05/2020 20:30:26",
       "note": "- Cases updated as per WB bulletin.<br>\n- Deaths due to comorbidities added to total deceased<br>\n- Zones updated as per WB bulletin<br>",
       "stateCode": "WB",
       "today": {
@@ -287,7 +287,7 @@
       "active": 653,
       "recovered": 647,
       "dead": 17,
-      "updatedTime": "19/05/2020 20:21:29",
+      "updatedTime": "19/05/2020 20:30:27",
       "note": "",
       "stateCode": "JK",
       "today": {
@@ -333,7 +333,7 @@
       "active": 323,
       "recovered": 627,
       "dead": 14,
-      "updatedTime": "19/05/2020 20:21:31",
+      "updatedTime": "19/05/2020 20:30:28",
       "note": "",
       "stateCode": "HR",
       "today": {
@@ -445,17 +445,17 @@
     "TR": {
       "name": "Tripura",
       "confirmed": 165,
-      "active": 76,
-      "recovered": 89,
+      "active": 49,
+      "recovered": 116,
       "dead": 0,
-      "updatedTime": "18/05/2020 21:33:27",
+      "updatedTime": "19/05/2020 20:31:25",
       "note": "Two cases are migrated out of Tripura.",
       "stateCode": "TR",
       "today": {
         "confirmed": 0,
-        "recovered": 0,
+        "recovered": 27,
         "dead": 0,
-        "active": 0
+        "active": -27
       },
       "testing_data": {
         "tested": 14286,
@@ -632,7 +632,7 @@
       "active": 12,
       "recovered": 10,
       "dead": 0,
-      "updatedTime": "19/05/2020 20:21:32",
+      "updatedTime": "19/05/2020 20:23:38",
       "note": "",
       "stateCode": "PY",
       "today": {
@@ -857,8 +857,8 @@
   },
   "today": {
     "confirmed": 3546,
-    "recovered": 1552,
+    "recovered": 1579,
     "dead": 56,
-    "active": 1938
+    "active": 1911
   }
 }
