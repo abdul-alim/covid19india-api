@@ -3,7 +3,7 @@
   "active": 60854,
   "recovered": 42307,
   "dead": 3301,
-  "updatedTime": "19/05/2020 23:47:23",
+  "updatedTime": "19/05/2020 23:53:23",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -281,6 +281,29 @@
         "date": "18/05/2020"
       }
     },
+    "KA": {
+      "name": "Karnataka",
+      "confirmed": 1395,
+      "active": 811,
+      "recovered": 543,
+      "dead": 40,
+      "updatedTime": "19/05/2020 18:18:24",
+      "note": "One active case in KA reduced as a confirmed patient died of non-CoViD19 related reasons",
+      "stateCode": "KA",
+      "today": {
+        "confirmed": 149,
+        "recovered": 13,
+        "dead": 3,
+        "active": 133
+      },
+      "testing_data": {
+        "tested": 158599,
+        "positive": 1395,
+        "negative": 156247,
+        "unconfirmed": 0,
+        "date": "19/05/2020"
+      }
+    },
     "JK": {
       "name": "Jammu and Kashmir",
       "confirmed": 1317,
@@ -304,25 +327,25 @@
         "date": "19/05/2020"
       }
     },
-    "KA": {
-      "name": "Karnataka",
-      "confirmed": 1395,
-      "active": 811,
-      "recovered": 543,
-      "dead": 40,
-      "updatedTime": "19/05/2020 18:18:24",
-      "note": "One active case in KA reduced as a confirmed patient died of non-CoViD19 related reasons",
-      "stateCode": "KA",
+    "OR": {
+      "name": "Odisha",
+      "confirmed": 978,
+      "active": 666,
+      "recovered": 307,
+      "dead": 5,
+      "updatedTime": "19/05/2020 13:49:24",
+      "note": "",
+      "stateCode": "OR",
       "today": {
-        "confirmed": 149,
-        "recovered": 13,
-        "dead": 3,
-        "active": 133
+        "confirmed": 102,
+        "recovered": 30,
+        "dead": 1,
+        "active": 71
       },
       "testing_data": {
-        "tested": 158599,
-        "positive": 1395,
-        "negative": 156247,
+        "tested": 100302,
+        "positive": 978,
+        "negative": 0,
         "unconfirmed": 0,
         "date": "19/05/2020"
       }
@@ -350,28 +373,22 @@
         "date": "19/05/2020"
       }
     },
-    "OR": {
-      "name": "Odisha",
-      "confirmed": 978,
-      "active": 666,
-      "recovered": 307,
-      "dead": 5,
-      "updatedTime": "19/05/2020 13:49:24",
-      "note": "",
-      "stateCode": "OR",
+    "UN": {
+      "name": "State Unassigned",
+      "confirmed": 814,
+      "active": 814,
+      "recovered": 0,
+      "dead": 0,
+      "updatedTime": "19/05/2020 09:28:27",
+      "note": "MoHFW reports that these cases are being reassigned to states",
+      "stateCode": "UN",
       "today": {
-        "confirmed": 102,
-        "recovered": 30,
-        "dead": 1,
-        "active": 71
+        "confirmed": 814,
+        "recovered": 0,
+        "dead": 0,
+        "active": 814
       },
-      "testing_data": {
-        "tested": 100302,
-        "positive": 978,
-        "negative": 0,
-        "unconfirmed": 0,
-        "date": "19/05/2020"
-      }
+      "isUnknown": true
     },
     "KL": {
       "name": "Kerala",
@@ -402,7 +419,7 @@
       "active": 118,
       "recovered": 127,
       "dead": 3,
-      "updatedTime": "19/05/2020 23:47:25",
+      "updatedTime": "19/05/2020 23:53:25",
       "note": "",
       "stateCode": "JH",
       "today": {
@@ -511,6 +528,29 @@
         "date": "19/05/2020"
       }
     },
+    "CT": {
+      "name": "Chhattisgarh",
+      "confirmed": 95,
+      "active": 36,
+      "recovered": 59,
+      "dead": 0,
+      "updatedTime": "19/05/2020 02:43:24",
+      "note": "",
+      "stateCode": "CT",
+      "today": {
+        "confirmed": 0,
+        "recovered": 0,
+        "dead": 0,
+        "active": 0
+      },
+      "testing_data": {
+        "tested": 36606,
+        "positive": 93,
+        "negative": 34656,
+        "unconfirmed": 1857,
+        "date": "18/05/2020"
+      }
+    },
     "HP": {
       "name": "Himachal Pradesh",
       "confirmed": 90,
@@ -534,27 +574,27 @@
         "date": "19/05/2020"
       }
     },
-    "CT": {
-      "name": "Chhattisgarh",
-      "confirmed": 95,
-      "active": 36,
-      "recovered": 59,
+    "GA": {
+      "name": "Goa",
+      "confirmed": 46,
+      "active": 39,
+      "recovered": 7,
       "dead": 0,
-      "updatedTime": "19/05/2020 02:43:24",
+      "updatedTime": "19/05/2020 20:43:26",
       "note": "",
-      "stateCode": "CT",
+      "stateCode": "GA",
       "today": {
-        "confirmed": 0,
+        "confirmed": 8,
         "recovered": 0,
         "dead": 0,
-        "active": 0
+        "active": 8
       },
       "testing_data": {
-        "tested": 36606,
-        "positive": 93,
-        "negative": 34656,
-        "unconfirmed": 1857,
-        "date": "18/05/2020"
+        "tested": 9549,
+        "positive": 46,
+        "negative": 0,
+        "unconfirmed": 0,
+        "date": "19/05/2020"
       }
     },
     "LA": {
@@ -601,29 +641,6 @@
         "negative": 0,
         "unconfirmed": 136,
         "date": "16/05/2020"
-      }
-    },
-    "GA": {
-      "name": "Goa",
-      "confirmed": 46,
-      "active": 39,
-      "recovered": 7,
-      "dead": 0,
-      "updatedTime": "19/05/2020 20:43:26",
-      "note": "",
-      "stateCode": "GA",
-      "today": {
-        "confirmed": 8,
-        "recovered": 0,
-        "dead": 0,
-        "active": 8
-      },
-      "testing_data": {
-        "tested": 9549,
-        "positive": 46,
-        "negative": 0,
-        "unconfirmed": 0,
-        "date": "19/05/2020"
       }
     },
     "PY": {
@@ -826,23 +843,6 @@
         "unconfirmed": 551,
         "date": "18/05/2020"
       }
-    },
-    "UN": {
-      "name": "State Unassigned",
-      "confirmed": 814,
-      "active": 814,
-      "recovered": 0,
-      "dead": 0,
-      "updatedTime": "19/05/2020 09:28:27",
-      "note": "MoHFW reports that these cases are being reassigned to states",
-      "stateCode": "UN",
-      "today": {
-        "confirmed": 814,
-        "recovered": 0,
-        "dead": 0,
-        "active": 814
-      },
-      "isUnknown": true
     }
   },
   "testing_data": {
