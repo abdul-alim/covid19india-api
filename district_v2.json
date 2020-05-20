@@ -2904,8 +2904,8 @@
   "HP": {
     "state": "Himachal Pradesh",
     "confirmed": 104,
-    "active": 53,
-    "recovered": 47,
+    "active": 52,
+    "recovered": 48,
     "dead": 4,
     "districts": [
       {
@@ -2939,14 +2939,14 @@
       {
         "district": "Hamirpur",
         "notes": "",
-        "active": 11,
+        "active": 10,
         "confirmed": 15,
-        "recovered": 3,
+        "recovered": 4,
         "dead": 1,
         "today": {
           "confirmed": 0,
-          "recovered": 0,
-          "active": 0,
+          "recovered": 1,
+          "active": -1,
           "dead": 0
         }
       },
@@ -3079,8 +3079,8 @@
     ],
     "today": {
       "confirmed": 12,
-      "active": 12,
-      "recovered": 0,
+      "active": 11,
+      "recovered": 1,
       "dead": 0
     }
   },
@@ -7329,9 +7329,9 @@
   "PB": {
     "state": "Punjab",
     "confirmed": 2005,
-    "active": 172,
+    "active": 173,
     "recovered": 1794,
-    "dead": 39,
+    "dead": 38,
     "districts": [
       {
         "district": "Amritsar",
@@ -7532,15 +7532,15 @@
       {
         "district": "Pathankot",
         "notes": "",
-        "active": -1,
+        "active": 0,
         "confirmed": 29,
         "recovered": 28,
-        "dead": 2,
+        "dead": 1,
         "today": {
           "confirmed": 0,
           "recovered": 2,
-          "active": -2,
-          "dead": 0
+          "active": -1,
+          "dead": -1
         }
       },
       {
@@ -7644,9 +7644,9 @@
     ],
     "today": {
       "confirmed": 3,
-      "active": -150,
+      "active": -149,
       "recovered": 152,
-      "dead": 1
+      "dead": 0
     }
   },
   "PY": {
