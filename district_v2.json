@@ -655,8 +655,8 @@
   },
   "AS": {
     "state": "Assam",
-    "confirmed": 186,
-    "active": 133,
+    "confirmed": 189,
+    "active": 136,
     "recovered": 49,
     "dead": 4,
     "districts": [
@@ -1127,6 +1127,20 @@
         "notes": "",
         "active": 0,
         "confirmed": 0,
+        "recovered": 0,
+        "dead": 0,
+        "today": {
+          "confirmed": 0,
+          "recovered": 0,
+          "active": 0,
+          "dead": 0
+        }
+      },
+      {
+        "district": "Unknown",
+        "notes": "",
+        "active": 3,
+        "confirmed": 3,
         "recovered": 0,
         "dead": 0,
         "today": {
@@ -5117,14 +5131,14 @@
       {
         "district": "Nagpur",
         "notes": "",
-        "active": 154,
-        "confirmed": 388,
+        "active": 189,
+        "confirmed": 423,
         "recovered": 228,
         "dead": 6,
         "today": {
-          "confirmed": 0,
+          "confirmed": 35,
           "recovered": 0,
-          "active": 0,
+          "active": 35,
           "dead": 0
         }
       },
@@ -5383,8 +5397,8 @@
       {
         "district": "Unknown",
         "notes": "",
-        "active": -644,
-        "confirmed": 35,
+        "active": -679,
+        "confirmed": 0,
         "recovered": 679,
         "dead": 0,
         "today": {
@@ -5396,8 +5410,8 @@
       }
     ],
     "today": {
-      "confirmed": 2126,
-      "active": 2061,
+      "confirmed": 2161,
+      "active": 2096,
       "recovered": 0,
       "dead": 65
     }
