@@ -1,9 +1,9 @@
 {
-  "confirmed": 111999,
-  "active": 63286,
-  "recovered": 45272,
+  "confirmed": 112002,
+  "active": 63139,
+  "recovered": 45422,
   "dead": 3434,
-  "updatedTime": "20/05/2020 22:58:23",
+  "updatedTime": "20/05/2020 23:21:23",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -114,9 +114,9 @@
       },
       "testing_data": {
         "tested": 265555,
-        "positive": 5952,
+        "positive": 6015,
         "negative": 254128,
-        "unconfirmed": 5475,
+        "unconfirmed": 5412,
         "date": "20/05/2020"
       }
     },
@@ -146,24 +146,24 @@
     "UP": {
       "name": "Uttar Pradesh",
       "confirmed": 5175,
-      "active": 2130,
-      "recovered": 2918,
+      "active": 1982,
+      "recovered": 3066,
       "dead": 127,
-      "updatedTime": "20/05/2020 22:58:24",
+      "updatedTime": "20/05/2020 23:19:24",
       "note": "",
       "stateCode": "UP",
       "today": {
         "confirmed": 249,
-        "recovered": 0,
+        "recovered": 148,
         "dead": 4,
-        "active": 245
+        "active": 97
       },
       "testing_data": {
-        "tested": 182184,
-        "positive": 4926,
-        "negative": 175412,
-        "unconfirmed": 1846,
-        "date": "19/05/2020"
+        "tested": 191164,
+        "positive": 5175,
+        "negative": 184209,
+        "unconfirmed": 1780,
+        "date": "20/05/2020"
       }
     },
     "WB": {
@@ -415,25 +415,25 @@
     },
     "JH": {
       "name": "Jharkhand",
-      "confirmed": 278,
-      "active": 148,
-      "recovered": 127,
+      "confirmed": 281,
+      "active": 149,
+      "recovered": 129,
       "dead": 3,
-      "updatedTime": "20/05/2020 22:43:30",
+      "updatedTime": "20/05/2020 23:21:24",
       "note": "",
       "stateCode": "JH",
       "today": {
-        "confirmed": 30,
-        "recovered": 0,
+        "confirmed": 33,
+        "recovered": 2,
         "dead": 0,
-        "active": 30
+        "active": 31
       },
       "testing_data": {
-        "tested": 37589,
-        "positive": 248,
-        "negative": 37341,
+        "tested": 39402,
+        "positive": 281,
+        "negative": 39121,
         "unconfirmed": 0,
-        "date": "19/05/2020"
+        "date": "20/05/2020"
       }
     },
     "CH": {
@@ -846,19 +846,19 @@
     }
   },
   "testing_data": {
-    "tested": 2778402,
-    "positive": 108029,
-    "negative": 5184341,
-    "unconfirmed": 27334
+    "tested": 2789195,
+    "positive": 108374,
+    "negative": 5194918,
+    "unconfirmed": 27205
   },
   "testing_data_imcr": {
     "tested": 2512388,
     "source": "https://www.icmr.gov.in/pdf/covid/update/ICMR_testing_update_20May2020_9AM_IST.pdf"
   },
   "today": {
-    "confirmed": 5518,
-    "recovered": 2963,
+    "confirmed": 5521,
+    "recovered": 3113,
     "dead": 132,
-    "active": 2423
+    "active": 2276
   }
 }
