@@ -1,9 +1,9 @@
 {
-  "confirmed": 112738,
-  "active": 63804,
-  "recovered": 45489,
-  "dead": 3438,
-  "updatedTime": "21/05/2020 15:13:23",
+  "confirmed": 113321,
+  "active": 63972,
+  "recovered": 45886,
+  "dead": 3456,
+  "updatedTime": "21/05/2020 15:31:23",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -76,18 +76,18 @@
     },
     "DL": {
       "name": "Delhi",
-      "confirmed": 11088,
-      "active": 5720,
-      "recovered": 5192,
-      "dead": 176,
-      "updatedTime": "20/05/2020 14:35:24",
+      "confirmed": 11659,
+      "active": 5898,
+      "recovered": 5567,
+      "dead": 194,
+      "updatedTime": "21/05/2020 15:31:24",
       "note": "[10-May]<br>\n\nDelhi will be releasing bulletins in the morning, containing data of the previous day. We will add that data to the date on which the report is released, rather than the previous day.",
       "stateCode": "DL",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 571,
+        "recovered": 375,
+        "dead": 18,
+        "active": 178
       },
       "testing_data": {
         "tested": 150282,
@@ -103,7 +103,7 @@
       "active": 2583,
       "recovered": 3421,
       "dead": 150,
-      "updatedTime": "21/05/2020 11:53:24",
+      "updatedTime": "21/05/2020 15:23:26",
       "note": "",
       "stateCode": "RJ",
       "today": {
@@ -369,18 +369,18 @@
     },
     "HR": {
       "name": "Haryana",
-      "confirmed": 993,
-      "active": 331,
-      "recovered": 648,
+      "confirmed": 1005,
+      "active": 321,
+      "recovered": 670,
       "dead": 14,
-      "updatedTime": "20/05/2020 20:40:30",
+      "updatedTime": "21/05/2020 15:31:25",
       "note": "",
       "stateCode": "HR",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 12,
+        "recovered": 22,
         "dead": 0,
-        "active": 0
+        "active": -10
       },
       "testing_data": {
         "tested": 83944,
@@ -856,9 +856,9 @@
     "source": "https://www.icmr.gov.in/pdf/covid/update/ICMR_testing_update_21May2020_9AM_IST.pdf"
   },
   "today": {
-    "confirmed": 710,
-    "recovered": 67,
-    "dead": 4,
-    "active": 639
+    "confirmed": 1293,
+    "recovered": 464,
+    "dead": 22,
+    "active": 807
   }
 }
