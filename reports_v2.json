@@ -1,9 +1,9 @@
 {
-  "confirmed": 113459,
-  "active": 64016,
-  "recovered": 45979,
+  "confirmed": 113461,
+  "active": 64012,
+  "recovered": 45985,
   "dead": 3457,
-  "updatedTime": "21/05/2020 18:11:23",
+  "updatedTime": "21/05/2020 18:20:23",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -195,7 +195,7 @@
       "active": 846,
       "recovered": 1705,
       "dead": 54,
-      "updatedTime": "21/05/2020 18:11:24",
+      "updatedTime": "21/05/2020 18:20:29",
       "note": "Total includes patients from other states.",
       "stateCode": "AP",
       "today": {
@@ -287,7 +287,7 @@
       "active": 992,
       "recovered": 571,
       "dead": 41,
-      "updatedTime": "21/05/2020 18:11:26",
+      "updatedTime": "21/05/2020 18:20:30",
       "note": "One active case in KA reduced as a confirmed patient died of non-CoViD19 related reasons",
       "stateCode": "KA",
       "today": {
@@ -461,18 +461,18 @@
     },
     "AS": {
       "name": "Assam",
-      "confirmed": 190,
-      "active": 134,
-      "recovered": 49,
+      "confirmed": 192,
+      "active": 130,
+      "recovered": 55,
       "dead": 4,
-      "updatedTime": "21/05/2020 12:10:27",
+      "updatedTime": "21/05/2020 18:20:31",
       "note": "Includes one case from Nagaland <br>\nTotal of Three* patients who migrated to other states has been reduced from Active count",
       "stateCode": "AS",
       "today": {
-        "confirmed": 1,
-        "recovered": 0,
+        "confirmed": 3,
+        "recovered": 6,
         "dead": 0,
-        "active": 1
+        "active": -3
       },
       "testing_data": {
         "tested": 47084,
@@ -856,9 +856,9 @@
     "source": "https://www.icmr.gov.in/pdf/covid/update/ICMR_testing_update_21May2020_9AM_IST.pdf"
   },
   "today": {
-    "confirmed": 1431,
-    "recovered": 557,
+    "confirmed": 1433,
+    "recovered": 563,
     "dead": 23,
-    "active": 851
+    "active": 847
   }
 }
