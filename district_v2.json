@@ -4167,22 +4167,22 @@
   },
   "KA": {
     "state": "Karnataka",
-    "confirmed": 1462,
-    "active": 865,
-    "recovered": 556,
+    "confirmed": 1578,
+    "active": 967,
+    "recovered": 570,
     "dead": 41,
     "districts": [
       {
         "district": "Bagalkote",
         "notes": "",
-        "active": 36,
+        "active": 30,
         "confirmed": 76,
-        "recovered": 39,
+        "recovered": 45,
         "dead": 1,
         "today": {
           "confirmed": 0,
-          "recovered": 0,
-          "active": 0,
+          "recovered": 6,
+          "active": -6,
           "dead": 0
         }
       },
@@ -4315,28 +4315,28 @@
       {
         "district": "Dakshina Kannada",
         "notes": "",
-        "active": 33,
+        "active": 30,
         "confirmed": 49,
-        "recovered": 11,
+        "recovered": 14,
         "dead": 5,
         "today": {
           "confirmed": 0,
-          "recovered": 0,
-          "active": 0,
+          "recovered": 3,
+          "active": -3,
           "dead": 0
         }
       },
       {
         "district": "Davanagere",
         "notes": "",
-        "active": 97,
+        "active": 92,
         "confirmed": 110,
-        "recovered": 9,
+        "recovered": 14,
         "dead": 4,
         "today": {
           "confirmed": 0,
-          "recovered": 0,
-          "active": 0,
+          "recovered": 5,
+          "active": -5,
           "dead": 0
         }
       },
@@ -4605,12 +4605,26 @@
           "active": 0,
           "dead": 0
         }
+      },
+      {
+        "district": "Unknown",
+        "notes": "",
+        "active": 116,
+        "confirmed": 116,
+        "recovered": 0,
+        "dead": 0,
+        "today": {
+          "confirmed": 0,
+          "recovered": 0,
+          "active": 0,
+          "dead": 0
+        }
       }
     ],
     "today": {
       "confirmed": 0,
-      "active": 0,
-      "recovered": 0,
+      "active": -14,
+      "recovered": 14,
       "dead": 0
     }
   },
