@@ -1,9 +1,9 @@
 {
-  "confirmed": 114272,
-  "active": 64398,
-  "recovered": 46403,
-  "dead": 3464,
-  "updatedTime": "21/05/2020 19:01:23",
+  "confirmed": 114478,
+  "active": 64545,
+  "recovered": 46461,
+  "dead": 3465,
+  "updatedTime": "21/05/2020 19:21:23",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -145,18 +145,18 @@
     },
     "UP": {
       "name": "Uttar Pradesh",
-      "confirmed": 5175,
-      "active": 1982,
-      "recovered": 3066,
+      "confirmed": 5356,
+      "active": 2130,
+      "recovered": 3099,
       "dead": 127,
-      "updatedTime": "20/05/2020 23:23:24",
+      "updatedTime": "21/05/2020 19:21:26",
       "note": "",
       "stateCode": "UP",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 181,
+        "recovered": 33,
         "dead": 0,
-        "active": 0
+        "active": 148
       },
       "testing_data": {
         "tested": 191164,
@@ -214,18 +214,18 @@
     },
     "PB": {
       "name": "Punjab",
-      "confirmed": 2005,
-      "active": 173,
-      "recovered": 1794,
-      "dead": 38,
-      "updatedTime": "20/05/2020 18:43:25",
+      "confirmed": 2028,
+      "active": 170,
+      "recovered": 1819,
+      "dead": 39,
+      "updatedTime": "21/05/2020 19:18:26",
       "note": "Cases in Punjab were effectively reduced as some cases were added to 'central pool' as per the bulletin",
       "stateCode": "PB",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 23,
+        "recovered": 25,
+        "dead": 1,
+        "active": -3
       },
       "testing_data": {
         "tested": 57737,
@@ -557,7 +557,7 @@
       "active": 79,
       "recovered": 51,
       "dead": 4,
-      "updatedTime": "21/05/2020 19:01:26",
+      "updatedTime": "21/05/2020 19:04:26",
       "note": "HP has 4 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed",
       "stateCode": "HP",
       "today": {
@@ -576,18 +576,18 @@
     },
     "GA": {
       "name": "Goa",
-      "confirmed": 50,
-      "active": 43,
+      "confirmed": 52,
+      "active": 45,
       "recovered": 7,
       "dead": 0,
-      "updatedTime": "20/05/2020 20:40:34",
+      "updatedTime": "21/05/2020 19:18:27",
       "note": "",
       "stateCode": "GA",
       "today": {
-        "confirmed": 0,
+        "confirmed": 2,
         "recovered": 0,
         "dead": 0,
-        "active": 0
+        "active": 2
       },
       "testing_data": {
         "tested": 10136,
@@ -856,9 +856,9 @@
     "source": "https://www.icmr.gov.in/pdf/covid/update/ICMR_testing_update_21May2020_9AM_IST.pdf"
   },
   "today": {
-    "confirmed": 2244,
-    "recovered": 981,
-    "dead": 30,
-    "active": 1233
+    "confirmed": 2450,
+    "recovered": 1039,
+    "dead": 31,
+    "active": 1380
   }
 }
