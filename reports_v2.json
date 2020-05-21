@@ -1,9 +1,9 @@
 {
-  "confirmed": 115374,
-  "active": 64996,
+  "confirmed": 115398,
+  "active": 65020,
   "recovered": 46869,
   "dead": 3502,
-  "updatedTime": "21/05/2020 21:01:23",
+  "updatedTime": "21/05/2020 21:21:23",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -241,7 +241,7 @@
       "active": 618,
       "recovered": 1036,
       "dead": 45,
-      "updatedTime": "21/05/2020 21:01:26",
+      "updatedTime": "21/05/2020 21:13:25",
       "note": "",
       "stateCode": "TG",
       "today": {
@@ -327,7 +327,7 @@
       "active": 745,
       "recovered": 684,
       "dead": 20,
-      "updatedTime": "21/05/2020 21:01:29",
+      "updatedTime": "21/05/2020 21:03:27",
       "note": "",
       "stateCode": "JK",
       "today": {
@@ -507,18 +507,18 @@
     },
     "UT": {
       "name": "Uttarakhand",
-      "confirmed": 122,
-      "active": 68,
+      "confirmed": 146,
+      "active": 92,
       "recovered": 53,
       "dead": 1,
-      "updatedTime": "20/05/2020 20:40:33",
+      "updatedTime": "21/05/2020 21:21:25",
       "note": "",
       "stateCode": "UT",
       "today": {
-        "confirmed": 0,
+        "confirmed": 24,
         "recovered": 0,
         "dead": 0,
-        "active": 0
+        "active": 24
       },
       "testing_data": {
         "tested": 15503,
@@ -751,11 +751,11 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 4157,
+        "tested": 4438,
         "positive": 2,
-        "negative": 3710,
-        "unconfirmed": 445,
-        "date": "20/05/2020"
+        "negative": 3963,
+        "unconfirmed": 473,
+        "date": "21/05/2020"
       }
     },
     "DN": {
@@ -846,19 +846,19 @@
     }
   },
   "testing_data": {
-    "tested": 2863141,
+    "tested": 2863422,
     "positive": 112918,
-    "negative": 2255871,
-    "unconfirmed": 21097
+    "negative": 2256124,
+    "unconfirmed": 21125
   },
   "testing_data_imcr": {
     "tested": 2615920,
     "source": "https://www.icmr.gov.in/pdf/covid/update/ICMR_testing_update_21May2020_9AM_IST.pdf"
   },
   "today": {
-    "confirmed": 3177,
+    "confirmed": 3201,
     "recovered": 1447,
     "dead": 68,
-    "active": 1662
+    "active": 1686
   }
 }
