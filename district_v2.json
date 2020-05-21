@@ -3515,8 +3515,8 @@
       {
         "district": "Chatra",
         "notes": "",
-        "active": 0,
-        "confirmed": 0,
+        "active": 1,
+        "confirmed": 1,
         "recovered": 0,
         "dead": 0,
         "today": {
@@ -3543,8 +3543,8 @@
       {
         "district": "Dhanbad",
         "notes": "",
-        "active": 4,
-        "confirmed": 6,
+        "active": 5,
+        "confirmed": 7,
         "recovered": 2,
         "dead": 0,
         "today": {
@@ -3571,8 +3571,8 @@
       {
         "district": "East Singhbhum",
         "notes": "",
-        "active": 11,
-        "confirmed": 11,
+        "active": 15,
+        "confirmed": 15,
         "recovered": 0,
         "dead": 0,
         "today": {
@@ -3599,8 +3599,8 @@
       {
         "district": "Giridih",
         "notes": "",
-        "active": 11,
-        "confirmed": 12,
+        "active": 14,
+        "confirmed": 15,
         "recovered": 1,
         "dead": 0,
         "today": {
@@ -3825,20 +3825,6 @@
         "notes": "",
         "active": 1,
         "confirmed": 1,
-        "recovered": 0,
-        "dead": 0,
-        "today": {
-          "confirmed": 0,
-          "recovered": 0,
-          "active": 0,
-          "dead": 0
-        }
-      },
-      {
-        "district": "Unknown",
-        "notes": "",
-        "active": 9,
-        "confirmed": 9,
         "recovered": 0,
         "dead": 0,
         "today": {
@@ -8396,22 +8382,22 @@
   },
   "TG": {
     "state": "Telangana",
-    "confirmed": 1661,
-    "active": 610,
-    "recovered": 1013,
-    "dead": 38,
+    "confirmed": 1699,
+    "active": 618,
+    "recovered": 1036,
+    "dead": 45,
     "districts": [
       {
         "district": "Other State",
         "notes": "",
-        "active": 87,
-        "confirmed": 87,
+        "active": 97,
+        "confirmed": 97,
         "recovered": 0,
         "dead": 0,
         "today": {
-          "confirmed": 0,
+          "confirmed": 10,
           "recovered": 0,
-          "active": 0,
+          "active": 10,
           "dead": 0
         }
       },
@@ -8446,14 +8432,14 @@
       {
         "district": "Hyderabad",
         "notes": "",
-        "active": 728,
-        "confirmed": 1056,
+        "active": 754,
+        "confirmed": 1082,
         "recovered": 305,
         "dead": 23,
         "today": {
-          "confirmed": 0,
+          "confirmed": 26,
           "recovered": 0,
-          "active": 0,
+          "active": 26,
           "dead": 0
         }
       },
@@ -8754,14 +8740,14 @@
       {
         "district": "Ranga Reddy",
         "notes": "",
-        "active": 25,
-        "confirmed": 44,
+        "active": 27,
+        "confirmed": 46,
         "recovered": 17,
         "dead": 2,
         "today": {
-          "confirmed": 0,
+          "confirmed": 2,
           "recovered": 0,
-          "active": 0,
+          "active": 2,
           "dead": 0
         }
       },
@@ -8880,10 +8866,10 @@
       {
         "district": "Unknown",
         "notes": "",
-        "active": -430,
+        "active": -460,
         "confirmed": 40,
-        "recovered": 462,
-        "dead": 8,
+        "recovered": 485,
+        "dead": 15,
         "today": {
           "confirmed": 0,
           "recovered": 0,
@@ -8893,8 +8879,8 @@
       }
     ],
     "today": {
-      "confirmed": 0,
-      "active": 0,
+      "confirmed": 38,
+      "active": 38,
       "recovered": 0,
       "dead": 0
     }
