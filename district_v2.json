@@ -79,10 +79,10 @@
   },
   "AP": {
     "state": "Andhra Pradesh",
-    "confirmed": 2560,
-    "active": 843,
-    "recovered": 1664,
-    "dead": 53,
+    "confirmed": 2605,
+    "active": 846,
+    "recovered": 1705,
+    "dead": 54,
     "districts": [
       {
         "district": "Anantapur",
@@ -199,15 +199,15 @@
       {
         "district": "S.P.S. Nellore",
         "notes": "",
-        "active": 76,
+        "active": 75,
         "confirmed": 182,
         "recovered": 103,
-        "dead": 3,
+        "dead": 4,
         "today": {
           "confirmed": 0,
           "recovered": 0,
-          "active": 0,
-          "dead": 0
+          "active": -1,
+          "dead": 1
         }
       },
       {
@@ -279,13 +279,27 @@
           "active": 0,
           "dead": 0
         }
+      },
+      {
+        "district": "Unknown",
+        "notes": "",
+        "active": 4,
+        "confirmed": 45,
+        "recovered": 41,
+        "dead": 0,
+        "today": {
+          "confirmed": 0,
+          "recovered": 0,
+          "active": 0,
+          "dead": 0
+        }
       }
     ],
     "today": {
       "confirmed": 0,
-      "active": 0,
+      "active": -1,
       "recovered": 0,
-      "dead": 0
+      "dead": 1
     }
   },
   "AR": {
@@ -655,9 +669,9 @@
   },
   "AS": {
     "state": "Assam",
-    "confirmed": 190,
-    "active": 137,
-    "recovered": 49,
+    "confirmed": 192,
+    "active": 133,
+    "recovered": 55,
     "dead": 4,
     "districts": [
       {
@@ -1139,9 +1153,9 @@
       {
         "district": "Unknown",
         "notes": "",
-        "active": 3,
-        "confirmed": 3,
-        "recovered": 0,
+        "active": -1,
+        "confirmed": 5,
+        "recovered": 6,
         "dead": 0,
         "today": {
           "confirmed": 0,
@@ -1729,36 +1743,22 @@
       {
         "district": "Chandigarh",
         "notes": "",
-        "active": 63,
-        "confirmed": 202,
-        "recovered": 136,
+        "active": 48,
+        "confirmed": 216,
+        "recovered": 165,
         "dead": 3,
         "today": {
-          "confirmed": 0,
-          "recovered": 0,
-          "active": 0,
-          "dead": 0
-        }
-      },
-      {
-        "district": "Unknown",
-        "notes": "",
-        "active": -15,
-        "confirmed": 14,
-        "recovered": 29,
-        "dead": 0,
-        "today": {
-          "confirmed": 0,
-          "recovered": 0,
-          "active": 0,
+          "confirmed": 14,
+          "recovered": 29,
+          "active": -15,
           "dead": 0
         }
       }
     ],
     "today": {
-      "confirmed": 0,
-      "active": 0,
-      "recovered": 0,
+      "confirmed": 14,
+      "active": -15,
+      "recovered": 29,
       "dead": 0
     }
   },
@@ -4181,9 +4181,9 @@
   },
   "KA": {
     "state": "Karnataka",
-    "confirmed": 1578,
-    "active": 967,
-    "recovered": 570,
+    "confirmed": 1605,
+    "active": 993,
+    "recovered": 571,
     "dead": 41,
     "districts": [
       {
@@ -4245,14 +4245,14 @@
       {
         "district": "Bengaluru Urban",
         "notes": "",
-        "active": 124,
-        "confirmed": 257,
+        "active": 125,
+        "confirmed": 258,
         "recovered": 124,
         "dead": 9,
         "today": {
-          "confirmed": 7,
+          "confirmed": 8,
           "recovered": 0,
-          "active": 7,
+          "active": 8,
           "dead": 0
         }
       },
@@ -4441,14 +4441,14 @@
       {
         "district": "Kolar",
         "notes": "",
-        "active": 9,
-        "confirmed": 9,
+        "active": 11,
+        "confirmed": 11,
         "recovered": 0,
         "dead": 0,
         "today": {
-          "confirmed": 0,
+          "confirmed": 2,
           "recovered": 0,
-          "active": 0,
+          "active": 2,
           "dead": 0
         }
       },
@@ -4469,14 +4469,14 @@
       {
         "district": "Mandya",
         "notes": "",
-        "active": 159,
-        "confirmed": 183,
-        "recovered": 24,
+        "active": 176,
+        "confirmed": 201,
+        "recovered": 25,
         "dead": 0,
         "today": {
-          "confirmed": 15,
-          "recovered": 0,
-          "active": 15,
+          "confirmed": 33,
+          "recovered": 1,
+          "active": 32,
           "dead": 0
         }
       },
@@ -4511,14 +4511,14 @@
       {
         "district": "Raichur",
         "notes": "",
-        "active": 11,
-        "confirmed": 11,
+        "active": 16,
+        "confirmed": 16,
         "recovered": 0,
         "dead": 0,
         "today": {
-          "confirmed": 0,
+          "confirmed": 5,
           "recovered": 0,
-          "active": 0,
+          "active": 5,
           "dead": 0
         }
       },
@@ -4567,14 +4567,14 @@
       {
         "district": "Udupi",
         "notes": "",
-        "active": 42,
-        "confirmed": 46,
+        "active": 43,
+        "confirmed": 47,
         "recovered": 3,
         "dead": 1,
         "today": {
-          "confirmed": 25,
+          "confirmed": 26,
           "recovered": 0,
-          "active": 25,
+          "active": 26,
           "dead": 0
         }
       },
@@ -4622,9 +4622,9 @@
       }
     ],
     "today": {
-      "confirmed": 116,
-      "active": 102,
-      "recovered": 14,
+      "confirmed": 143,
+      "active": 128,
+      "recovered": 15,
       "dead": 0
     }
   },
