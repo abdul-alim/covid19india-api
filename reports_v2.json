@@ -1,9 +1,9 @@
 {
-  "confirmed": 115027,
-  "active": 64801,
-  "recovered": 46730,
-  "dead": 3489,
-  "updatedTime": "21/05/2020 20:31:23",
+  "confirmed": 115336,
+  "active": 64988,
+  "recovered": 46846,
+  "dead": 3495,
+  "updatedTime": "21/05/2020 20:51:23",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -57,7 +57,7 @@
       "active": 6649,
       "recovered": 5488,
       "dead": 773,
-      "updatedTime": "21/05/2020 20:31:24",
+      "updatedTime": "21/05/2020 20:33:26",
       "note": "",
       "stateCode": "GJ",
       "today": {
@@ -71,7 +71,7 @@
         "positive": 12910,
         "negative": 153242,
         "unconfirmed": 0,
-        "date": "20/05/2020"
+        "date": "21/05/2020"
       }
     },
     "DL": {
@@ -122,18 +122,18 @@
     },
     "MP": {
       "name": "Madhya Pradesh",
-      "confirmed": 5735,
-      "active": 2734,
-      "recovered": 2734,
-      "dead": 267,
-      "updatedTime": "20/05/2020 21:00:25",
+      "confirmed": 5981,
+      "active": 2866,
+      "recovered": 2844,
+      "dead": 271,
+      "updatedTime": "21/05/2020 20:51:24",
       "note": "",
       "stateCode": "MP",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 246,
+        "recovered": 110,
+        "dead": 4,
+        "active": 132
       },
       "testing_data": {
         "tested": 120737,
@@ -323,18 +323,18 @@
     },
     "JK": {
       "name": "Jammu and Kashmir",
-      "confirmed": 1390,
-      "active": 694,
-      "recovered": 678,
-      "dead": 18,
-      "updatedTime": "20/05/2020 20:40:29",
+      "confirmed": 1449,
+      "active": 745,
+      "recovered": 684,
+      "dead": 20,
+      "updatedTime": "21/05/2020 20:51:26",
       "note": "",
       "stateCode": "JK",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 59,
+        "recovered": 6,
+        "dead": 2,
+        "active": 51
       },
       "testing_data": {
         "tested": 101950,
@@ -461,18 +461,18 @@
     },
     "AS": {
       "name": "Assam",
-      "confirmed": 200,
-      "active": 138,
+      "confirmed": 204,
+      "active": 142,
       "recovered": 55,
       "dead": 4,
-      "updatedTime": "21/05/2020 18:57:26",
+      "updatedTime": "21/05/2020 20:51:28",
       "note": "Includes one case from Nagaland <br>\nTotal of Three* patients who migrated to other states has been reduced from Active count",
       "stateCode": "AS",
       "today": {
-        "confirmed": 11,
+        "confirmed": 15,
         "recovered": 6,
         "dead": 0,
-        "active": 5
+        "active": 9
       },
       "testing_data": {
         "tested": 47084,
@@ -856,9 +856,9 @@
     "source": "https://www.icmr.gov.in/pdf/covid/update/ICMR_testing_update_21May2020_9AM_IST.pdf"
   },
   "today": {
-    "confirmed": 2830,
-    "recovered": 1308,
-    "dead": 55,
-    "active": 1467
+    "confirmed": 3139,
+    "recovered": 1424,
+    "dead": 61,
+    "active": 1654
   }
 }
