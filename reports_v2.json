@@ -1,9 +1,9 @@
 {
-  "confirmed": 119575,
-  "active": 66941,
+  "confirmed": 119705,
+  "active": 67071,
   "recovered": 49026,
   "dead": 3601,
-  "updatedTime": "22/05/2020 17:39:23",
+  "updatedTime": "22/05/2020 18:01:23",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -237,18 +237,18 @@
     },
     "BR": {
       "name": "Bihar",
-      "confirmed": 1987,
-      "active": 1407,
+      "confirmed": 2105,
+      "active": 1525,
       "recovered": 571,
       "dead": 9,
-      "updatedTime": "21/05/2020 22:23:36",
+      "updatedTime": "22/05/2020 18:01:25",
       "note": "",
       "stateCode": "BR",
       "today": {
-        "confirmed": 0,
+        "confirmed": 118,
         "recovered": 0,
         "dead": 0,
-        "active": 0
+        "active": 118
       },
       "testing_data": {
         "tested": 55692,
@@ -530,18 +530,18 @@
     },
     "HP": {
       "name": "Himachal Pradesh",
-      "confirmed": 152,
-      "active": 90,
+      "confirmed": 164,
+      "active": 102,
       "recovered": 55,
       "dead": 4,
-      "updatedTime": "21/05/2020 22:02:35",
+      "updatedTime": "22/05/2020 18:01:27",
       "note": "HP has 4 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed",
       "stateCode": "HP",
       "today": {
-        "confirmed": 0,
+        "confirmed": 12,
         "recovered": 0,
         "dead": 0,
-        "active": 0
+        "active": 12
       },
       "testing_data": {
         "tested": 24032,
@@ -791,11 +791,11 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 1001,
+        "tested": 1035,
         "positive": 0,
-        "negative": 978,
-        "unconfirmed": 23,
-        "date": "21/05/2020"
+        "negative": 0,
+        "unconfirmed": 0,
+        "date": "22/05/2020"
       }
     },
     "LD": {
@@ -846,19 +846,19 @@
     }
   },
   "testing_data": {
-    "tested": 2977720,
+    "tested": 2977754,
     "positive": 117523,
-    "negative": 2346849,
-    "unconfirmed": 22670
+    "negative": 2345871,
+    "unconfirmed": 22647
   },
   "testing_data_imcr": {
     "tested": 2719434,
     "source": "https://t.me/Covid19india_Auxiliary_Test_Data/99"
   },
   "today": {
-    "confirmed": 1349,
+    "confirmed": 1479,
     "recovered": 473,
     "dead": 17,
-    "active": 859
+    "active": 989
   }
 }
