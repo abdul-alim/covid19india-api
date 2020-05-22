@@ -1,31 +1,31 @@
 {
-  "confirmed": 123476,
-  "active": 69890,
-  "recovered": 49911,
-  "dead": 3668,
-  "updatedTime": "22/05/2020 20:01:23",
+  "confirmed": 123711,
+  "active": 69171,
+  "recovered": 50857,
+  "dead": 3676,
+  "updatedTime": "22/05/2020 20:21:23",
   "states": {
     "MH": {
       "name": "Maharashtra",
       "confirmed": 44582,
-      "active": 31339,
-      "recovered": 11726,
+      "active": 30482,
+      "recovered": 12583,
       "dead": 1517,
-      "updatedTime": "22/05/2020 20:01:24",
+      "updatedTime": "22/05/2020 20:21:24",
       "note": "",
       "stateCode": "MH",
       "today": {
         "confirmed": 2940,
-        "recovered": 0,
+        "recovered": 857,
         "dead": 63,
-        "active": 2877
+        "active": 2020
       },
       "testing_data": {
-        "tested": 0,
-        "positive": 0,
-        "negative": 0,
+        "tested": 333087,
+        "positive": 41642,
+        "negative": 286157,
         "unconfirmed": 0,
-        "updated": false
+        "date": "22/05/2020"
       }
     },
     "TN": {
@@ -44,11 +44,11 @@
         "active": -64
       },
       "testing_data": {
-        "tested": 0,
-        "positive": 0,
-        "negative": 0,
-        "unconfirmed": 0,
-        "updated": false
+        "tested": 372532,
+        "positive": 13967,
+        "negative": 357898,
+        "unconfirmed": 667,
+        "date": "21/05/2020"
       }
     },
     "GJ": {
@@ -113,11 +113,11 @@
         "active": 92
       },
       "testing_data": {
-        "tested": 0,
-        "positive": 0,
-        "negative": 0,
-        "unconfirmed": 0,
-        "updated": false
+        "tested": 287164,
+        "positive": 6377,
+        "negative": 277744,
+        "unconfirmed": 3043,
+        "date": "22/05/2020"
       }
     },
     "MP": {
@@ -136,11 +136,11 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 0,
-        "positive": 0,
-        "negative": 0,
+        "tested": 125608,
+        "positive": 5981,
+        "negative": 112947,
         "unconfirmed": 0,
-        "updated": false
+        "date": "21/05/2020"
       }
     },
     "UP": {
@@ -159,34 +159,34 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 0,
-        "positive": 0,
-        "negative": 0,
-        "unconfirmed": 0,
-        "updated": false
+        "tested": 206811,
+        "positive": 5515,
+        "negative": 199469,
+        "unconfirmed": 1827,
+        "date": "21/05/2020"
       }
     },
     "WB": {
       "name": "West Bengal",
-      "confirmed": 3197,
-      "active": 1745,
-      "recovered": 1193,
-      "dead": 259,
-      "updatedTime": "21/05/2020 22:43:26",
+      "confirmed": 3332,
+      "active": 1846,
+      "recovered": 1221,
+      "dead": 265,
+      "updatedTime": "22/05/2020 20:21:26",
       "note": "- Cases updated as per WB bulletin.<br>\n- Deaths due to comorbidities added to total deceased<br>\n- Zones updated as per WB bulletin<br>",
       "stateCode": "WB",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 135,
+        "recovered": 28,
+        "dead": 6,
+        "active": 101
       },
       "testing_data": {
-        "tested": 0,
-        "positive": 0,
+        "tested": 115244,
+        "positive": 3197,
         "negative": 0,
         "unconfirmed": 0,
-        "updated": false
+        "date": "21/05/2020"
       }
     },
     "AP": {
@@ -228,11 +228,11 @@
         "active": -27
       },
       "testing_data": {
-        "tested": 0,
-        "positive": 0,
-        "negative": 0,
-        "unconfirmed": 0,
-        "updated": false
+        "tested": 59618,
+        "positive": 2028,
+        "negative": 53871,
+        "unconfirmed": 3719,
+        "date": "21/05/2020"
       }
     },
     "BR": {
@@ -274,11 +274,11 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 0,
-        "positive": 0,
+        "tested": 23388,
+        "positive": 1551,
         "negative": 0,
         "unconfirmed": 0,
-        "updated": false
+        "date": "17/05/2020"
       }
     },
     "KA": {
@@ -297,34 +297,34 @@
         "active": 112
       },
       "testing_data": {
-        "tested": 0,
-        "positive": 0,
-        "negative": 0,
+        "tested": 186526,
+        "positive": 1743,
+        "negative": 183088,
         "unconfirmed": 0,
-        "updated": false
+        "date": "22/05/2020"
       }
     },
     "JK": {
       "name": "Jammu and Kashmir",
-      "confirmed": 1449,
-      "active": 745,
-      "recovered": 684,
+      "confirmed": 1489,
+      "active": 749,
+      "recovered": 720,
       "dead": 20,
-      "updatedTime": "21/05/2020 21:03:27",
+      "updatedTime": "22/05/2020 20:21:27",
       "note": "",
       "stateCode": "JK",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 40,
+        "recovered": 36,
         "dead": 0,
-        "active": 0
+        "active": 4
       },
       "testing_data": {
-        "tested": 0,
-        "positive": 0,
-        "negative": 0,
+        "tested": 114859,
+        "positive": 1489,
+        "negative": 113370,
         "unconfirmed": 0,
-        "updated": false
+        "date": "22/05/2020"
       }
     },
     "UN": {
@@ -360,34 +360,34 @@
         "active": 43
       },
       "testing_data": {
-        "tested": 0,
-        "positive": 0,
+        "tested": 113437,
+        "positive": 1189,
         "negative": 0,
         "unconfirmed": 0,
-        "updated": false
+        "date": "22/05/2020"
       }
     },
     "HR": {
       "name": "Haryana",
-      "confirmed": 1031,
-      "active": 336,
-      "recovered": 681,
-      "dead": 14,
-      "updatedTime": "21/05/2020 22:30:26",
+      "confirmed": 1068,
+      "active": 346,
+      "recovered": 706,
+      "dead": 16,
+      "updatedTime": "22/05/2020 20:21:29",
       "note": "",
       "stateCode": "HR",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 37,
+        "recovered": 25,
+        "dead": 2,
+        "active": 10
       },
       "testing_data": {
-        "tested": 88138,
-        "positive": 1031,
-        "negative": 82372,
+        "tested": 91119,
+        "positive": 1067,
+        "negative": 85317,
         "unconfirmed": 4735,
-        "date": "21/05/2020"
+        "date": "22/05/2020"
       }
     },
     "KL": {
@@ -406,11 +406,11 @@
         "active": 40
       },
       "testing_data": {
-        "tested": 0,
-        "positive": 0,
-        "negative": 0,
-        "unconfirmed": 0,
-        "updated": false
+        "tested": 51310,
+        "positive": 732,
+        "negative": 49535,
+        "unconfirmed": 1043,
+        "date": "22/05/2020"
       }
     },
     "JH": {
@@ -429,11 +429,11 @@
         "active": 5
       },
       "testing_data": {
-        "tested": 0,
-        "positive": 0,
-        "negative": 0,
+        "tested": 41936,
+        "positive": 303,
+        "negative": 41633,
         "unconfirmed": 0,
-        "updated": false
+        "date": "21/05/2020"
       }
     },
     "CH": {
@@ -442,7 +442,7 @@
       "active": 38,
       "recovered": 178,
       "dead": 3,
-      "updatedTime": "22/05/2020 20:01:26",
+      "updatedTime": "22/05/2020 20:12:32",
       "note": "",
       "stateCode": "CH",
       "today": {
@@ -452,27 +452,27 @@
         "active": 1
       },
       "testing_data": {
-        "tested": 3369,
-        "positive": 216,
-        "negative": 3125,
-        "unconfirmed": 27,
-        "date": "21/05/2020"
+        "tested": 3531,
+        "positive": 219,
+        "negative": 3234,
+        "unconfirmed": 77,
+        "date": "22/05/2020"
       }
     },
     "AS": {
       "name": "Assam",
-      "confirmed": 231,
-      "active": 169,
+      "confirmed": 255,
+      "active": 193,
       "recovered": 55,
       "dead": 4,
-      "updatedTime": "22/05/2020 18:41:29",
+      "updatedTime": "22/05/2020 20:21:30",
       "note": "Includes one case from Nagaland <br>\nTotal of Three* patients who migrated to other states has been reduced from Active count",
       "stateCode": "AS",
       "today": {
-        "confirmed": 20,
+        "confirmed": 44,
         "recovered": 0,
         "dead": 0,
-        "active": 20
+        "active": 44
       },
       "testing_data": {
         "tested": 51730,
@@ -498,20 +498,20 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 0,
-        "positive": 0,
-        "negative": 0,
+        "tested": 16873,
+        "positive": 173,
+        "negative": 16610,
         "unconfirmed": 0,
-        "updated": false
+        "date": "21/05/2020"
       }
     },
     "UT": {
       "name": "Uttarakhand",
-      "confirmed": 151,
-      "active": 97,
+      "confirmed": 150,
+      "active": 96,
       "recovered": 53,
       "dead": 1,
-      "updatedTime": "22/05/2020 15:34:26",
+      "updatedTime": "22/05/2020 20:21:31",
       "note": "",
       "stateCode": "UT",
       "today": {
@@ -521,11 +521,11 @@
         "active": 5
       },
       "testing_data": {
-        "tested": 0,
-        "positive": 0,
-        "negative": 0,
-        "unconfirmed": 0,
-        "updated": false
+        "tested": 16528,
+        "positive": 132,
+        "negative": 13808,
+        "unconfirmed": 1612,
+        "date": "21/05/2020"
       }
     },
     "HP": {
@@ -544,11 +544,11 @@
         "active": 12
       },
       "testing_data": {
-        "tested": 0,
-        "positive": 0,
-        "negative": 0,
-        "unconfirmed": 0,
-        "updated": false
+        "tested": 24032,
+        "positive": 164,
+        "negative": 22825,
+        "unconfirmed": 1043,
+        "date": "22/05/2020"
       }
     },
     "CT": {
@@ -580,7 +580,7 @@
       "active": 47,
       "recovered": 7,
       "dead": 0,
-      "updatedTime": "22/05/2020 20:01:28",
+      "updatedTime": "22/05/2020 20:12:34",
       "note": "",
       "stateCode": "GA",
       "today": {
@@ -590,11 +590,11 @@
         "active": 2
       },
       "testing_data": {
-        "tested": 10859,
-        "positive": 52,
+        "tested": 11362,
+        "positive": 54,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "21/05/2020"
+        "date": "22/05/2020"
       }
     },
     "LA": {
@@ -613,11 +613,11 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 0,
-        "positive": 0,
-        "negative": 0,
-        "unconfirmed": 0,
-        "updated": false
+        "tested": 5291,
+        "positive": 44,
+        "negative": 4081,
+        "unconfirmed": 1079,
+        "date": "21/05/2020"
       }
     },
     "AN": {
@@ -659,11 +659,11 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 0,
-        "positive": 0,
+        "tested": 1706,
+        "positive": 2,
         "negative": 0,
         "unconfirmed": 0,
-        "updated": false
+        "date": "13/05/2020"
       }
     },
     "PY": {
@@ -682,11 +682,11 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 0,
-        "positive": 0,
-        "negative": 0,
-        "unconfirmed": 0,
-        "updated": false
+        "tested": 6106,
+        "positive": 31,
+        "negative": 5995,
+        "unconfirmed": 80,
+        "date": "21/05/2020"
       }
     },
     "ML": {
@@ -705,11 +705,11 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 0,
-        "positive": 0,
+        "tested": 3419,
+        "positive": 13,
         "negative": 0,
         "unconfirmed": 0,
-        "updated": false
+        "date": "20/05/2020"
       }
     },
     "MZ": {
@@ -728,11 +728,11 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 0,
-        "positive": 0,
+        "tested": 320,
+        "positive": 1,
         "negative": 0,
         "unconfirmed": 0,
-        "updated": false
+        "date": "21/05/2020"
       }
     },
     "AR": {
@@ -791,11 +791,11 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 0,
+        "tested": 1035,
         "positive": 0,
-        "negative": 0,
-        "unconfirmed": 0,
-        "updated": false
+        "negative": 1012,
+        "unconfirmed": 23,
+        "date": "22/05/2020"
       }
     },
     "LD": {
@@ -837,28 +837,28 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 0,
+        "tested": 1342,
         "positive": 0,
-        "negative": 0,
-        "unconfirmed": 0,
-        "updated": false
+        "negative": 955,
+        "unconfirmed": 387,
+        "date": "20/05/2020"
       }
     }
   },
   "testing_data": {
-    "tested": 880122,
-    "positive": 31506,
-    "negative": 613596,
-    "unconfirmed": 11458
+    "tested": 2991940,
+    "positive": 117821,
+    "negative": 2357648,
+    "unconfirmed": 26031
   },
   "testing_data_imcr": {
     "tested": 2719434,
     "source": "https://t.me/Covid19india_Auxiliary_Test_Data/99"
   },
   "today": {
-    "confirmed": 5250,
-    "recovered": 1358,
-    "dead": 84,
-    "active": 3808
+    "confirmed": 5486,
+    "recovered": 2304,
+    "dead": 92,
+    "active": 3090
   }
 }
