@@ -669,8 +669,8 @@
   },
   "AS": {
     "state": "Assam",
-    "confirmed": 258,
-    "active": 199,
+    "confirmed": 260,
+    "active": 201,
     "recovered": 55,
     "dead": 4,
     "districts": [
@@ -1153,8 +1153,8 @@
       {
         "district": "Unknown",
         "notes": "",
-        "active": 32,
-        "confirmed": 32,
+        "active": 34,
+        "confirmed": 34,
         "recovered": 0,
         "dead": 0,
         "today": {
@@ -9449,21 +9449,21 @@
   "TR": {
     "state": "Tripura",
     "confirmed": 175,
-    "active": 27,
-    "recovered": 148,
+    "active": 23,
+    "recovered": 152,
     "dead": 0,
     "districts": [
       {
         "district": "Dhalai",
         "notes": "",
-        "active": 16,
+        "active": 12,
         "confirmed": 162,
-        "recovered": 146,
+        "recovered": 150,
         "dead": 0,
         "today": {
           "confirmed": 0,
-          "recovered": 0,
-          "active": 0,
+          "recovered": 4,
+          "active": -4,
           "dead": 0
         }
       },
@@ -9582,8 +9582,8 @@
     ],
     "today": {
       "confirmed": 0,
-      "active": 0,
-      "recovered": 0,
+      "active": -4,
+      "recovered": 4,
       "dead": 0
     }
   },
