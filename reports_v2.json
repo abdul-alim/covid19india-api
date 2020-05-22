@@ -1,9 +1,9 @@
 {
-  "confirmed": 118235,
-  "active": 66091,
+  "confirmed": 118452,
+  "active": 66308,
   "recovered": 48553,
   "dead": 3584,
-  "updatedTime": "22/05/2020 08:43:23",
+  "updatedTime": "22/05/2020 09:21:24",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -329,18 +329,18 @@
     },
     "UN": {
       "name": "State Unassigned",
-      "confirmed": 1403,
-      "active": 1403,
+      "confirmed": 1620,
+      "active": 1620,
       "recovered": 0,
       "dead": 0,
-      "updatedTime": "21/05/2020 09:30:24",
+      "updatedTime": "22/05/2020 09:21:27",
       "note": "MoHFW reports that these cases are being reassigned to states",
       "stateCode": "UN",
       "today": {
-        "confirmed": 0,
+        "confirmed": 217,
         "recovered": 0,
         "dead": 0,
-        "active": 0
+        "active": 217
       },
       "isUnknown": true
     },
@@ -498,11 +498,11 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 15822,
+        "tested": 16873,
         "positive": 173,
-        "negative": 15694,
+        "negative": 16610,
         "unconfirmed": 0,
-        "date": "20/05/2020"
+        "date": "21/05/2020"
       }
     },
     "UT": {
@@ -846,9 +846,9 @@
     }
   },
   "testing_data": {
-    "tested": 2913684,
+    "tested": 2914735,
     "positive": 113934,
-    "negative": 2302859,
+    "negative": 2303775,
     "unconfirmed": 22145
   },
   "testing_data_imcr": {
@@ -856,9 +856,9 @@
     "source": "https://www.icmr.gov.in/pdf/covid/update/ICMR_testing_update_21May2020_9AM_IST.pdf"
   },
   "today": {
-    "confirmed": 9,
+    "confirmed": 226,
     "recovered": 0,
     "dead": 0,
-    "active": 9
+    "active": 226
   }
 }
