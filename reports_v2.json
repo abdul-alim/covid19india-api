@@ -1,9 +1,9 @@
 {
-  "confirmed": 119706,
-  "active": 67072,
-  "recovered": 49026,
-  "dead": 3601,
-  "updatedTime": "22/05/2020 18:03:23",
+  "confirmed": 120532,
+  "active": 67048,
+  "recovered": 49872,
+  "dead": 3605,
+  "updatedTime": "22/05/2020 18:31:23",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -30,18 +30,18 @@
     },
     "TN": {
       "name": "Tamil Nadu",
-      "confirmed": 13968,
-      "active": 7591,
-      "recovered": 6282,
-      "dead": 95,
-      "updatedTime": "21/05/2020 18:57:24",
+      "confirmed": 14753,
+      "active": 7526,
+      "recovered": 7128,
+      "dead": 99,
+      "updatedTime": "22/05/2020 18:31:24",
       "note": "",
       "stateCode": "TN",
       "today": {
-        "confirmed": 1,
-        "recovered": 0,
-        "dead": 0,
-        "active": 1
+        "confirmed": 786,
+        "recovered": 846,
+        "dead": 4,
+        "active": -64
       },
       "testing_data": {
         "tested": 372532,
@@ -283,18 +283,18 @@
     },
     "KA": {
       "name": "Karnataka",
-      "confirmed": 1710,
-      "active": 1080,
+      "confirmed": 1743,
+      "active": 1113,
       "recovered": 588,
       "dead": 41,
-      "updatedTime": "22/05/2020 13:33:27",
+      "updatedTime": "22/05/2020 18:31:30",
       "note": "One active case in KA reduced as a confirmed patient died of non-CoViD19 related reasons",
       "stateCode": "KA",
       "today": {
-        "confirmed": 105,
+        "confirmed": 138,
         "recovered": 17,
         "dead": 0,
-        "active": 88
+        "active": 121
       },
       "testing_data": {
         "tested": 186526,
@@ -461,18 +461,18 @@
     },
     "AS": {
       "name": "Assam",
-      "confirmed": 223,
-      "active": 161,
+      "confirmed": 231,
+      "active": 169,
       "recovered": 55,
       "dead": 4,
-      "updatedTime": "22/05/2020 17:29:25",
+      "updatedTime": "22/05/2020 18:31:31",
       "note": "Includes one case from Nagaland <br>\nTotal of Three* patients who migrated to other states has been reduced from Active count",
       "stateCode": "AS",
       "today": {
-        "confirmed": 12,
+        "confirmed": 20,
         "recovered": 0,
         "dead": 0,
-        "active": 12
+        "active": 20
       },
       "testing_data": {
         "tested": 51730,
@@ -856,9 +856,9 @@
     "source": "https://t.me/Covid19india_Auxiliary_Test_Data/99"
   },
   "today": {
-    "confirmed": 1480,
-    "recovered": 473,
-    "dead": 17,
-    "active": 990
+    "confirmed": 2306,
+    "recovered": 1319,
+    "dead": 21,
+    "active": 966
   }
 }
