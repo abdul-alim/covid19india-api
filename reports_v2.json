@@ -1,9 +1,9 @@
 {
-  "confirmed": 118654,
-  "active": 66452,
-  "recovered": 48610,
-  "dead": 3585,
-  "updatedTime": "22/05/2020 12:24:22",
+  "confirmed": 119419,
+  "active": 66856,
+  "recovered": 48957,
+  "dead": 3599,
+  "updatedTime": "22/05/2020 13:21:24",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -21,11 +21,11 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 319921,
-        "positive": 39297,
-        "negative": 276369,
+        "tested": 333087,
+        "positive": 41642,
+        "negative": 286157,
         "unconfirmed": 0,
-        "date": "21/05/2020"
+        "date": "22/05/2020"
       }
     },
     "TN": {
@@ -76,18 +76,18 @@
     },
     "DL": {
       "name": "Delhi",
-      "confirmed": 11659,
-      "active": 5898,
-      "recovered": 5567,
-      "dead": 194,
-      "updatedTime": "21/05/2020 15:37:24",
+      "confirmed": 12319,
+      "active": 6214,
+      "recovered": 5897,
+      "dead": 208,
+      "updatedTime": "22/05/2020 13:21:26",
       "note": "[10-May]<br>\n\nDelhi will be releasing bulletins in the morning, containing data of the previous day. We will add that data to the date on which the report is released, rather than the previous day.",
       "stateCode": "DL",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 660,
+        "recovered": 330,
+        "dead": 14,
+        "active": 316
       },
       "testing_data": {
         "tested": 154385,
@@ -283,18 +283,18 @@
     },
     "KA": {
       "name": "Karnataka",
-      "confirmed": 1605,
-      "active": 992,
-      "recovered": 571,
+      "confirmed": 1710,
+      "active": 1080,
+      "recovered": 588,
       "dead": 41,
-      "updatedTime": "21/05/2020 18:21:26",
+      "updatedTime": "22/05/2020 13:21:28",
       "note": "One active case in KA reduced as a confirmed patient died of non-CoViD19 related reasons",
       "stateCode": "KA",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 105,
+        "recovered": 17,
         "dead": 0,
-        "active": 0
+        "active": 88
       },
       "testing_data": {
         "tested": 174297,
@@ -846,9 +846,9 @@
     }
   },
   "testing_data": {
-    "tested": 2918977,
-    "positive": 114028,
-    "negative": 2303775,
+    "tested": 2932143,
+    "positive": 116373,
+    "negative": 2313563,
     "unconfirmed": 22145
   },
   "testing_data_imcr": {
@@ -856,9 +856,9 @@
     "source": "https://t.me/Covid19india_Auxiliary_Test_Data/99"
   },
   "today": {
-    "confirmed": 428,
-    "recovered": 57,
-    "dead": 1,
-    "active": 370
+    "confirmed": 1193,
+    "recovered": 404,
+    "dead": 15,
+    "active": 774
   }
 }
