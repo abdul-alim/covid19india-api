@@ -1,9 +1,9 @@
 {
-  "confirmed": 124792,
-  "active": 69239,
-  "recovered": 51820,
+  "confirmed": 124794,
+  "active": 69237,
+  "recovered": 51824,
   "dead": 3726,
-  "updatedTime": "23/05/2020 00:35:23",
+  "updatedTime": "23/05/2020 00:49:23",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -103,7 +103,7 @@
       "active": 2661,
       "recovered": 3680,
       "dead": 153,
-      "updatedTime": "23/05/2020 00:35:24",
+      "updatedTime": "23/05/2020 00:48:24",
       "note": "",
       "stateCode": "RJ",
       "today": {
@@ -438,18 +438,18 @@
     },
     "AS": {
       "name": "Assam",
-      "confirmed": 258,
-      "active": 196,
+      "confirmed": 260,
+      "active": 198,
       "recovered": 55,
       "dead": 4,
-      "updatedTime": "22/05/2020 23:08:30",
+      "updatedTime": "23/05/2020 00:49:25",
       "note": "Includes one case from Nagaland <br>\nTotal of Three* patients who migrated to other states has been reduced from Active count",
       "stateCode": "AS",
       "today": {
-        "confirmed": 47,
+        "confirmed": 49,
         "recovered": 0,
         "dead": 0,
-        "active": 47
+        "active": 49
       },
       "testing_data": {
         "tested": 51730,
@@ -485,17 +485,17 @@
     "TR": {
       "name": "Tripura",
       "confirmed": 175,
-      "active": 27,
-      "recovered": 148,
+      "active": 23,
+      "recovered": 152,
       "dead": 0,
-      "updatedTime": "22/05/2020 00:13:27",
+      "updatedTime": "23/05/2020 00:49:26",
       "note": "Two cases are migrated out of Tripura.",
       "stateCode": "TR",
       "today": {
         "confirmed": 0,
-        "recovered": 0,
+        "recovered": 4,
         "dead": 0,
-        "active": 0
+        "active": -4
       },
       "testing_data": {
         "tested": 17721,
@@ -511,7 +511,7 @@
       "active": 110,
       "recovered": 62,
       "dead": 0,
-      "updatedTime": "23/05/2020 00:35:26",
+      "updatedTime": "23/05/2020 00:48:28",
       "note": "",
       "stateCode": "CT",
       "today": {
@@ -856,9 +856,9 @@
     "source": "https://t.me/Covid19india_Auxiliary_Test_Data/99"
   },
   "today": {
-    "confirmed": 6568,
-    "recovered": 3267,
+    "confirmed": 6570,
+    "recovered": 3271,
     "dead": 142,
-    "active": 3159
+    "active": 3157
   }
 }
