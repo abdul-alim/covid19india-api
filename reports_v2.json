@@ -1,9 +1,9 @@
 {
-  "confirmed": 124747,
-  "active": 69207,
-  "recovered": 51807,
+  "confirmed": 124792,
+  "active": 69239,
+  "recovered": 51820,
   "dead": 3726,
-  "updatedTime": "23/05/2020 00:11:24",
+  "updatedTime": "23/05/2020 00:35:23",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -99,18 +99,18 @@
     },
     "RJ": {
       "name": "Rajasthan",
-      "confirmed": 6489,
-      "active": 2666,
-      "recovered": 3670,
+      "confirmed": 6494,
+      "active": 2661,
+      "recovered": 3680,
       "dead": 153,
-      "updatedTime": "22/05/2020 23:08:24",
+      "updatedTime": "23/05/2020 00:35:24",
       "note": "",
       "stateCode": "RJ",
       "today": {
-        "confirmed": 262,
-        "recovered": 185,
+        "confirmed": 267,
+        "recovered": 195,
         "dead": 2,
-        "active": 75
+        "active": 70
       },
       "testing_data": {
         "tested": 287164,
@@ -149,7 +149,7 @@
       "active": 2259,
       "recovered": 3324,
       "dead": 152,
-      "updatedTime": "23/05/2020 00:11:25",
+      "updatedTime": "23/05/2020 00:23:25",
       "note": "",
       "stateCode": "UP",
       "today": {
@@ -212,6 +212,29 @@
         "date": "22/05/2020"
       }
     },
+    "BR": {
+      "name": "Bihar",
+      "confirmed": 2166,
+      "active": 1526,
+      "recovered": 629,
+      "dead": 11,
+      "updatedTime": "23/05/2020 00:23:27",
+      "note": "",
+      "stateCode": "BR",
+      "today": {
+        "confirmed": 179,
+        "recovered": 58,
+        "dead": 2,
+        "active": 119
+      },
+      "testing_data": {
+        "tested": 58481,
+        "positive": 2098,
+        "negative": 0,
+        "unconfirmed": 3311,
+        "date": "22/05/2020"
+      }
+    },
     "PB": {
       "name": "Punjab",
       "confirmed": 2029,
@@ -232,29 +255,6 @@
         "positive": 2029,
         "negative": 55777,
         "unconfirmed": 4593,
-        "date": "22/05/2020"
-      }
-    },
-    "BR": {
-      "name": "Bihar",
-      "confirmed": 2166,
-      "active": 1526,
-      "recovered": 629,
-      "dead": 11,
-      "updatedTime": "23/05/2020 00:11:27",
-      "note": "",
-      "stateCode": "BR",
-      "today": {
-        "confirmed": 179,
-        "recovered": 58,
-        "dead": 2,
-        "active": 119
-      },
-      "testing_data": {
-        "tested": 58481,
-        "positive": 2098,
-        "negative": 0,
-        "unconfirmed": 3311,
         "date": "22/05/2020"
       }
     },
@@ -304,6 +304,23 @@
         "date": "22/05/2020"
       }
     },
+    "UN": {
+      "name": "State Unassigned",
+      "confirmed": 1620,
+      "active": 1620,
+      "recovered": 0,
+      "dead": 0,
+      "updatedTime": "22/05/2020 09:23:24",
+      "note": "MoHFW reports that these cases are being reassigned to states",
+      "stateCode": "UN",
+      "today": {
+        "confirmed": 217,
+        "recovered": 0,
+        "dead": 0,
+        "active": 217
+      },
+      "isUnknown": true
+    },
     "JK": {
       "name": "Jammu and Kashmir",
       "confirmed": 1489,
@@ -326,23 +343,6 @@
         "unconfirmed": 0,
         "date": "22/05/2020"
       }
-    },
-    "UN": {
-      "name": "State Unassigned",
-      "confirmed": 1620,
-      "active": 1620,
-      "recovered": 0,
-      "dead": 0,
-      "updatedTime": "22/05/2020 09:23:24",
-      "note": "MoHFW reports that these cases are being reassigned to states",
-      "stateCode": "UN",
-      "today": {
-        "confirmed": 217,
-        "recovered": 0,
-        "dead": 0,
-        "active": 217
-      },
-      "isUnknown": true
     },
     "OR": {
       "name": "Odisha",
@@ -373,7 +373,7 @@
       "active": 345,
       "recovered": 706,
       "dead": 16,
-      "updatedTime": "23/05/2020 00:11:28",
+      "updatedTime": "23/05/2020 00:23:28",
       "note": "",
       "stateCode": "HR",
       "today": {
@@ -436,29 +436,6 @@
         "date": "21/05/2020"
       }
     },
-    "CH": {
-      "name": "Chandigarh",
-      "confirmed": 219,
-      "active": 38,
-      "recovered": 178,
-      "dead": 3,
-      "updatedTime": "22/05/2020 20:12:32",
-      "note": "",
-      "stateCode": "CH",
-      "today": {
-        "confirmed": 1,
-        "recovered": 0,
-        "dead": 0,
-        "active": 1
-      },
-      "testing_data": {
-        "tested": 3531,
-        "positive": 219,
-        "negative": 3234,
-        "unconfirmed": 77,
-        "date": "22/05/2020"
-      }
-    },
     "AS": {
       "name": "Assam",
       "confirmed": 258,
@@ -480,6 +457,29 @@
         "negative": 46442,
         "unconfirmed": 0,
         "date": "21/05/2020"
+      }
+    },
+    "CH": {
+      "name": "Chandigarh",
+      "confirmed": 219,
+      "active": 38,
+      "recovered": 178,
+      "dead": 3,
+      "updatedTime": "22/05/2020 20:12:32",
+      "note": "",
+      "stateCode": "CH",
+      "today": {
+        "confirmed": 1,
+        "recovered": 0,
+        "dead": 0,
+        "active": 1
+      },
+      "testing_data": {
+        "tested": 3531,
+        "positive": 219,
+        "negative": 3234,
+        "unconfirmed": 77,
+        "date": "22/05/2020"
       }
     },
     "TR": {
@@ -505,27 +505,27 @@
         "date": "22/05/2020"
       }
     },
-    "UT": {
-      "name": "Uttarakhand",
-      "confirmed": 153,
-      "active": 99,
-      "recovered": 53,
-      "dead": 1,
-      "updatedTime": "22/05/2020 23:08:31",
+    "CT": {
+      "name": "Chhattisgarh",
+      "confirmed": 172,
+      "active": 110,
+      "recovered": 62,
+      "dead": 0,
+      "updatedTime": "23/05/2020 00:35:26",
       "note": "",
-      "stateCode": "UT",
+      "stateCode": "CT",
       "today": {
-        "confirmed": 8,
-        "recovered": 0,
+        "confirmed": 44,
+        "recovered": 3,
         "dead": 0,
-        "active": 8
+        "active": 41
       },
       "testing_data": {
-        "tested": 18008,
-        "positive": 151,
-        "negative": 14960,
-        "unconfirmed": 1968,
-        "date": "22/05/2020"
+        "tested": 45522,
+        "positive": 128,
+        "negative": 42618,
+        "unconfirmed": 2776,
+        "date": "21/05/2020"
       }
     },
     "HP": {
@@ -551,27 +551,27 @@
         "date": "22/05/2020"
       }
     },
-    "CT": {
-      "name": "Chhattisgarh",
-      "confirmed": 132,
-      "active": 73,
-      "recovered": 59,
-      "dead": 0,
-      "updatedTime": "22/05/2020 08:19:29",
+    "UT": {
+      "name": "Uttarakhand",
+      "confirmed": 153,
+      "active": 99,
+      "recovered": 53,
+      "dead": 1,
+      "updatedTime": "22/05/2020 23:08:31",
       "note": "",
-      "stateCode": "CT",
+      "stateCode": "UT",
       "today": {
-        "confirmed": 4,
+        "confirmed": 8,
         "recovered": 0,
         "dead": 0,
-        "active": 4
+        "active": 8
       },
       "testing_data": {
-        "tested": 45522,
-        "positive": 128,
-        "negative": 42618,
-        "unconfirmed": 2776,
-        "date": "21/05/2020"
+        "tested": 18008,
+        "positive": 151,
+        "negative": 14960,
+        "unconfirmed": 1968,
+        "date": "22/05/2020"
       }
     },
     "GA": {
@@ -603,7 +603,7 @@
       "active": 3,
       "recovered": 43,
       "dead": 0,
-      "updatedTime": "23/05/2020 00:11:30",
+      "updatedTime": "23/05/2020 00:23:32",
       "note": "",
       "stateCode": "LA",
       "today": {
@@ -672,7 +672,7 @@
       "active": 16,
       "recovered": 10,
       "dead": 0,
-      "updatedTime": "23/05/2020 00:11:32",
+      "updatedTime": "23/05/2020 00:23:33",
       "note": "",
       "stateCode": "PY",
       "today": {
@@ -856,9 +856,9 @@
     "source": "https://t.me/Covid19india_Auxiliary_Test_Data/99"
   },
   "today": {
-    "confirmed": 6523,
-    "recovered": 3254,
+    "confirmed": 6568,
+    "recovered": 3267,
     "dead": 142,
-    "active": 3127
+    "active": 3159
   }
 }
