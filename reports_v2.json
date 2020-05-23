@@ -1,9 +1,9 @@
 {
-  "confirmed": 127296,
-  "active": 70810,
-  "recovered": 52720,
+  "confirmed": 127220,
+  "active": 70732,
+  "recovered": 52721,
   "dead": 3759,
-  "updatedTime": "23/05/2020 18:32:23",
+  "updatedTime": "23/05/2020 19:01:27",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -214,18 +214,18 @@
     },
     "BR": {
       "name": "Bihar",
-      "confirmed": 2345,
-      "active": 1705,
+      "confirmed": 2263,
+      "active": 1623,
       "recovered": 629,
       "dead": 11,
-      "updatedTime": "23/05/2020 18:10:26",
+      "updatedTime": "23/05/2020 19:01:30",
       "note": "",
       "stateCode": "BR",
       "today": {
-        "confirmed": 179,
+        "confirmed": 97,
         "recovered": 0,
         "dead": 0,
-        "active": 179
+        "active": 97
       },
       "testing_data": {
         "tested": 61220,
@@ -284,10 +284,10 @@
     "KA": {
       "name": "Karnataka",
       "confirmed": 1959,
-      "active": 1308,
+      "active": 1307,
       "recovered": 608,
       "dead": 42,
-      "updatedTime": "23/05/2020 18:32:27",
+      "updatedTime": "23/05/2020 18:58:36",
       "note": "One active case in KA reduced as a confirmed patient died of non-CoViD19 related reasons",
       "stateCode": "KA",
       "today": {
@@ -396,7 +396,7 @@
       "active": 275,
       "recovered": 515,
       "dead": 5,
-      "updatedTime": "23/05/2020 18:32:33",
+      "updatedTime": "23/05/2020 19:01:36",
       "note": "Mahe native who expired in Kannur included in Kerala's tally",
       "stateCode": "KL",
       "today": {
@@ -461,18 +461,18 @@
     },
     "CH": {
       "name": "Chandigarh",
-      "confirmed": 219,
-      "active": 38,
-      "recovered": 178,
+      "confirmed": 225,
+      "active": 43,
+      "recovered": 179,
       "dead": 3,
-      "updatedTime": "22/05/2020 20:12:32",
+      "updatedTime": "23/05/2020 19:01:38",
       "note": "",
       "stateCode": "CH",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 6,
+        "recovered": 1,
         "dead": 0,
-        "active": 0
+        "active": 5
       },
       "testing_data": {
         "tested": 3531,
@@ -613,11 +613,11 @@
         "active": 3
       },
       "testing_data": {
-        "tested": 5505,
-        "positive": 44,
-        "negative": 4173,
-        "unconfirmed": 1201,
-        "date": "22/05/2020"
+        "tested": 5727,
+        "positive": 49,
+        "negative": 4505,
+        "unconfirmed": 1083,
+        "date": "23/05/2020"
       }
     },
     "AN": {
@@ -636,11 +636,11 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 6677,
+        "tested": 7263,
         "positive": 33,
-        "negative": 0,
-        "unconfirmed": 136,
-        "date": "16/05/2020"
+        "negative": 7167,
+        "unconfirmed": 96,
+        "date": "22/05/2020"
       }
     },
     "MN": {
@@ -649,7 +649,7 @@
       "active": 25,
       "recovered": 2,
       "dead": 0,
-      "updatedTime": "23/05/2020 18:32:41",
+      "updatedTime": "23/05/2020 18:44:28",
       "note": "",
       "stateCode": "MN",
       "today": {
@@ -846,19 +846,19 @@
     }
   },
   "testing_data": {
-    "tested": 3126567,
-    "positive": 124811,
-    "negative": 2465146,
-    "unconfirmed": 27525
+    "tested": 3127375,
+    "positive": 124816,
+    "negative": 2472645,
+    "unconfirmed": 27367
   },
   "testing_data_imcr": {
     "tested": 2834798,
     "source": "https://t.me/Covid19india_Auxiliary_Test_Data/110"
   },
   "today": {
-    "confirmed": 2502,
-    "recovered": 887,
+    "confirmed": 2426,
+    "recovered": 888,
     "dead": 33,
-    "active": 1582
+    "active": 1505
   }
 }
