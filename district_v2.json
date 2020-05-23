@@ -2340,8 +2340,8 @@
   },
   "DN": {
     "state": "Dadra and Nagar Haveli and Daman and Diu",
-    "confirmed": 1,
-    "active": 0,
+    "confirmed": 2,
+    "active": 1,
     "recovered": 1,
     "dead": 0,
     "districts": [
@@ -2378,6 +2378,20 @@
         "notes": "",
         "active": 0,
         "confirmed": 0,
+        "recovered": 0,
+        "dead": 0,
+        "today": {
+          "confirmed": 0,
+          "recovered": 0,
+          "active": 0,
+          "dead": 0
+        }
+      },
+      {
+        "district": "Unknown",
+        "notes": "",
+        "active": 1,
+        "confirmed": 1,
         "recovered": 0,
         "dead": 0,
         "today": {

@@ -1,9 +1,9 @@
 {
-  "confirmed": 131422,
-  "active": 73161,
+  "confirmed": 131423,
+  "active": 73162,
   "recovered": 54385,
   "dead": 3868,
-  "updatedTime": "23/05/2020 23:21:23",
+  "updatedTime": "23/05/2020 23:47:23",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -419,7 +419,7 @@
       "active": 206,
       "recovered": 141,
       "dead": 3,
-      "updatedTime": "23/05/2020 23:21:25",
+      "updatedTime": "23/05/2020 23:23:24",
       "note": "",
       "stateCode": "JH",
       "today": {
@@ -429,9 +429,9 @@
         "active": 22
       },
       "testing_data": {
-        "tested": 43998,
-        "positive": 330,
-        "negative": 43668,
+        "tested": 45785,
+        "positive": 350,
+        "negative": 45435,
         "unconfirmed": 0,
         "date": "23/05/2020"
       }
@@ -442,14 +442,14 @@
       "active": 283,
       "recovered": 57,
       "dead": 4,
-      "updatedTime": "23/05/2020 23:21:27",
+      "updatedTime": "23/05/2020 23:23:27",
       "note": "Includes one case from Nagaland <br>\nTotal of Three* patients who migrated to other states has been reduced from Active count",
       "stateCode": "AS",
       "today": {
-        "confirmed": 87,
+        "confirmed": 121,
         "recovered": 2,
         "dead": 0,
-        "active": 85
+        "active": 119
       },
       "testing_data": {
         "tested": 55791,
@@ -544,10 +544,10 @@
         "active": 15
       },
       "testing_data": {
-        "tested": 25629,
+        "tested": 25905,
         "positive": 185,
-        "negative": 24225,
-        "unconfirmed": 1219,
+        "negative": 24625,
+        "unconfirmed": 1095,
         "date": "23/05/2020"
       }
     },
@@ -760,18 +760,18 @@
     },
     "DN": {
       "name": "Dadra and Nagar Haveli and Daman and Diu",
-      "confirmed": 1,
-      "active": 0,
+      "confirmed": 2,
+      "active": 1,
       "recovered": 1,
       "dead": 0,
-      "updatedTime": "12/05/2020 23:23:25",
+      "updatedTime": "23/05/2020 23:47:25",
       "note": "",
       "stateCode": "DN",
       "today": {
-        "confirmed": 0,
+        "confirmed": 1,
         "recovered": 0,
         "dead": 0,
-        "active": 0
+        "active": 1
       },
       "isUnknown": true
     },
@@ -846,19 +846,19 @@
     }
   },
   "testing_data": {
-    "tested": 3167717,
-    "positive": 126083,
-    "negative": 2503607,
-    "unconfirmed": 26687
+    "tested": 3169780,
+    "positive": 126103,
+    "negative": 2505774,
+    "unconfirmed": 26563
   },
   "testing_data_imcr": {
     "tested": 2834798,
     "source": "https://t.me/Covid19india_Auxiliary_Test_Data/110"
   },
   "today": {
-    "confirmed": 6628,
+    "confirmed": 6663,
     "recovered": 2552,
     "dead": 142,
-    "active": 3934
+    "active": 3969
   }
 }
