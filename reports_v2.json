@@ -1,9 +1,9 @@
 {
-  "confirmed": 131385,
-  "active": 73129,
-  "recovered": 54380,
+  "confirmed": 131422,
+  "active": 73161,
+  "recovered": 54385,
   "dead": 3868,
-  "updatedTime": "23/05/2020 23:10:23",
+  "updatedTime": "23/05/2020 23:21:23",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -251,11 +251,11 @@
         "active": -7
       },
       "testing_data": {
-        "tested": 62399,
-        "positive": 2029,
-        "negative": 55777,
-        "unconfirmed": 4593,
-        "date": "22/05/2020"
+        "tested": 63567,
+        "positive": 2045,
+        "negative": 57899,
+        "unconfirmed": 3623,
+        "date": "23/05/2020"
       }
     },
     "TG": {
@@ -415,18 +415,18 @@
     },
     "JH": {
       "name": "Jharkhand",
-      "confirmed": 330,
-      "active": 191,
-      "recovered": 136,
+      "confirmed": 350,
+      "active": 206,
+      "recovered": 141,
       "dead": 3,
-      "updatedTime": "23/05/2020 17:41:26",
+      "updatedTime": "23/05/2020 23:21:25",
       "note": "",
       "stateCode": "JH",
       "today": {
-        "confirmed": 7,
-        "recovered": 0,
+        "confirmed": 27,
+        "recovered": 5,
         "dead": 0,
-        "active": 7
+        "active": 22
       },
       "testing_data": {
         "tested": 43998,
@@ -438,18 +438,18 @@
     },
     "AS": {
       "name": "Assam",
-      "confirmed": 330,
-      "active": 266,
+      "confirmed": 347,
+      "active": 283,
       "recovered": 57,
       "dead": 4,
-      "updatedTime": "23/05/2020 22:23:25",
+      "updatedTime": "23/05/2020 23:21:27",
       "note": "Includes one case from Nagaland <br>\nTotal of Three* patients who migrated to other states has been reduced from Active count",
       "stateCode": "AS",
       "today": {
-        "confirmed": 70,
+        "confirmed": 87,
         "recovered": 2,
         "dead": 0,
-        "active": 68
+        "active": 85
       },
       "testing_data": {
         "tested": 55791,
@@ -837,28 +837,28 @@
         "active": 1
       },
       "testing_data": {
-        "tested": 1637,
+        "tested": 1707,
         "positive": 0,
-        "negative": 1347,
-        "unconfirmed": 290,
-        "date": "22/05/2020"
+        "negative": 1398,
+        "unconfirmed": 309,
+        "date": "23/05/2020"
       }
     }
   },
   "testing_data": {
-    "tested": 3166479,
-    "positive": 126067,
-    "negative": 2501434,
-    "unconfirmed": 27638
+    "tested": 3167717,
+    "positive": 126083,
+    "negative": 2503607,
+    "unconfirmed": 26687
   },
   "testing_data_imcr": {
     "tested": 2834798,
     "source": "https://t.me/Covid19india_Auxiliary_Test_Data/110"
   },
   "today": {
-    "confirmed": 6591,
-    "recovered": 2547,
+    "confirmed": 6628,
+    "recovered": 2552,
     "dead": 142,
-    "active": 3902
+    "active": 3934
   }
 }
