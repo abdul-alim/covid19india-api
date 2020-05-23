@@ -1,9 +1,9 @@
 {
-  "confirmed": 130506,
-  "active": 72701,
-  "recovered": 53947,
-  "dead": 3850,
-  "updatedTime": "23/05/2020 20:20:23",
+  "confirmed": 130586,
+  "active": 72726,
+  "recovered": 54001,
+  "dead": 3851,
+  "updatedTime": "23/05/2020 20:32:23",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -323,25 +323,25 @@
     },
     "JK": {
       "name": "Jammu and Kashmir",
-      "confirmed": 1489,
-      "active": 749,
-      "recovered": 720,
-      "dead": 20,
-      "updatedTime": "22/05/2020 20:32:27",
+      "confirmed": 1569,
+      "active": 774,
+      "recovered": 774,
+      "dead": 21,
+      "updatedTime": "23/05/2020 20:32:27",
       "note": "",
       "stateCode": "JK",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 80,
+        "recovered": 54,
+        "dead": 1,
+        "active": 25
       },
       "testing_data": {
-        "tested": 114859,
-        "positive": 1489,
-        "negative": 113370,
+        "tested": 124074,
+        "positive": 1569,
+        "negative": 122505,
         "unconfirmed": 0,
-        "date": "22/05/2020"
+        "date": "23/05/2020"
       }
     },
     "OR": {
@@ -383,11 +383,11 @@
         "active": 20
       },
       "testing_data": {
-        "tested": 91119,
-        "positive": 1067,
-        "negative": 85317,
-        "unconfirmed": 4735,
-        "date": "22/05/2020"
+        "tested": 94035,
+        "positive": 1131,
+        "negative": 88051,
+        "unconfirmed": 4853,
+        "date": "23/05/2020"
       }
     },
     "KL": {
@@ -590,11 +590,11 @@
         "active": 1
       },
       "testing_data": {
-        "tested": 11362,
-        "positive": 54,
+        "tested": 11945,
+        "positive": 55,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "22/05/2020"
+        "date": "23/05/2020"
       }
     },
     "LA": {
@@ -846,19 +846,19 @@
     }
   },
   "testing_data": {
-    "tested": 3134942,
-    "positive": 125274,
-    "negative": 2479782,
-    "unconfirmed": 27339
+    "tested": 3147656,
+    "positive": 125419,
+    "negative": 2491651,
+    "unconfirmed": 27457
   },
   "testing_data_imcr": {
     "tested": 2834798,
     "source": "https://t.me/Covid19india_Auxiliary_Test_Data/110"
   },
   "today": {
-    "confirmed": 5712,
-    "recovered": 2114,
-    "dead": 124,
-    "active": 3474
+    "confirmed": 5792,
+    "recovered": 2168,
+    "dead": 125,
+    "active": 3499
   }
 }
