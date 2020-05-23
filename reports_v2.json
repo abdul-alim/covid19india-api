@@ -1,9 +1,9 @@
 {
-  "confirmed": 126516,
-  "active": 70420,
-  "recovered": 52335,
-  "dead": 3754,
-  "updatedTime": "23/05/2020 18:01:22",
+  "confirmed": 127275,
+  "active": 70802,
+  "recovered": 52707,
+  "dead": 3759,
+  "updatedTime": "23/05/2020 18:21:23",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -30,18 +30,18 @@
     },
     "TN": {
       "name": "Tamil Nadu",
-      "confirmed": 14753,
-      "active": 7526,
-      "recovered": 7128,
-      "dead": 99,
-      "updatedTime": "22/05/2020 18:41:24",
+      "confirmed": 15512,
+      "active": 7917,
+      "recovered": 7491,
+      "dead": 104,
+      "updatedTime": "23/05/2020 18:21:24",
       "note": "",
       "stateCode": "TN",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 759,
+        "recovered": 363,
+        "dead": 5,
+        "active": 391
       },
       "testing_data": {
         "tested": 385185,
@@ -218,7 +218,7 @@
       "active": 1705,
       "recovered": 629,
       "dead": 11,
-      "updatedTime": "23/05/2020 15:03:27",
+      "updatedTime": "23/05/2020 18:10:26",
       "note": "",
       "stateCode": "BR",
       "today": {
@@ -228,11 +228,11 @@
         "active": 179
       },
       "testing_data": {
-        "tested": 58481,
-        "positive": 2098,
+        "tested": 61220,
+        "positive": 0,
         "negative": 0,
-        "unconfirmed": 3311,
-        "date": "22/05/2020"
+        "unconfirmed": 0,
+        "date": "23/05/2020"
       }
     },
     "PB": {
@@ -350,7 +350,7 @@
       "active": 765,
       "recovered": 497,
       "dead": 7,
-      "updatedTime": "23/05/2020 18:01:24",
+      "updatedTime": "23/05/2020 18:10:27",
       "note": "",
       "stateCode": "OR",
       "today": {
@@ -534,7 +534,7 @@
       "active": 121,
       "recovered": 57,
       "dead": 4,
-      "updatedTime": "23/05/2020 18:01:25",
+      "updatedTime": "23/05/2020 18:10:34",
       "note": "HP has 4 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed",
       "stateCode": "HP",
       "today": {
@@ -577,10 +577,10 @@
     "GA": {
       "name": "Goa",
       "confirmed": 54,
-      "active": 47,
-      "recovered": 7,
+      "active": 38,
+      "recovered": 16,
       "dead": 0,
-      "updatedTime": "22/05/2020 20:12:34",
+      "updatedTime": "23/05/2020 18:20:28",
       "note": "",
       "stateCode": "GA",
       "today": {
@@ -603,7 +603,7 @@
       "active": 6,
       "recovered": 43,
       "dead": 0,
-      "updatedTime": "23/05/2020 18:01:27",
+      "updatedTime": "23/05/2020 18:10:36",
       "note": "",
       "stateCode": "LA",
       "today": {
@@ -846,19 +846,19 @@
     }
   },
   "testing_data": {
-    "tested": 3100620,
-    "positive": 123589,
+    "tested": 3103359,
+    "positive": 121491,
     "negative": 2443902,
-    "unconfirmed": 28865
+    "unconfirmed": 25554
   },
   "testing_data_imcr": {
     "tested": 2834798,
     "source": "https://t.me/Covid19india_Auxiliary_Test_Data/110"
   },
   "today": {
-    "confirmed": 1722,
-    "recovered": 511,
-    "dead": 28,
-    "active": 1183
+    "confirmed": 2481,
+    "recovered": 874,
+    "dead": 33,
+    "active": 1574
   }
 }
