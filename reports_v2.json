@@ -1,9 +1,9 @@
 {
-  "confirmed": 130110,
-  "active": 72621,
-  "recovered": 53658,
-  "dead": 3823,
-  "updatedTime": "23/05/2020 20:01:23",
+  "confirmed": 130506,
+  "active": 72701,
+  "recovered": 53947,
+  "dead": 3850,
+  "updatedTime": "23/05/2020 20:20:23",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -11,7 +11,7 @@
       "active": 32209,
       "recovered": 13404,
       "dead": 1577,
-      "updatedTime": "23/05/2020 20:01:24",
+      "updatedTime": "23/05/2020 20:04:24",
       "note": "",
       "stateCode": "MH",
       "today": {
@@ -53,25 +53,25 @@
     },
     "GJ": {
       "name": "Gujarat",
-      "confirmed": 13273,
-      "active": 6591,
-      "recovered": 5880,
-      "dead": 802,
-      "updatedTime": "22/05/2020 20:51:24",
+      "confirmed": 13669,
+      "active": 6671,
+      "recovered": 6169,
+      "dead": 829,
+      "updatedTime": "23/05/2020 20:20:24",
       "note": "",
       "stateCode": "GJ",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 396,
+        "recovered": 289,
+        "dead": 27,
+        "active": 80
       },
       "testing_data": {
-        "tested": 172562,
-        "positive": 13273,
-        "negative": 159289,
+        "tested": 178068,
+        "positive": 13669,
+        "negative": 164399,
         "unconfirmed": 0,
-        "date": "22/05/2020"
+        "date": "23/05/2020"
       }
     },
     "DL": {
@@ -846,9 +846,9 @@
     }
   },
   "testing_data": {
-    "tested": 3129436,
-    "positive": 124878,
-    "negative": 2474672,
+    "tested": 3134942,
+    "positive": 125274,
+    "negative": 2479782,
     "unconfirmed": 27339
   },
   "testing_data_imcr": {
@@ -856,9 +856,9 @@
     "source": "https://t.me/Covid19india_Auxiliary_Test_Data/110"
   },
   "today": {
-    "confirmed": 5316,
-    "recovered": 1825,
-    "dead": 97,
-    "active": 3394
+    "confirmed": 5712,
+    "recovered": 2114,
+    "dead": 124,
+    "active": 3474
   }
 }
