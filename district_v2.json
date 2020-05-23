@@ -79,10 +79,10 @@
   },
   "AP": {
     "state": "Andhra Pradesh",
-    "confirmed": 2667,
-    "active": 881,
-    "recovered": 1731,
-    "dead": 55,
+    "confirmed": 2714,
+    "active": 880,
+    "recovered": 1778,
+    "dead": 56,
     "districts": [
       {
         "district": "Anantapur",
@@ -143,15 +143,15 @@
       {
         "district": "Krishna",
         "notes": "",
-        "active": 101,
+        "active": 100,
         "confirmed": 396,
         "recovered": 280,
-        "dead": 15,
+        "dead": 16,
         "today": {
           "confirmed": 0,
           "recovered": 0,
-          "active": 0,
-          "dead": 0
+          "active": -1,
+          "dead": 1
         }
       },
       {
@@ -284,8 +284,8 @@
         "district": "Unknown",
         "notes": "",
         "active": 39,
-        "confirmed": 107,
-        "recovered": 67,
+        "confirmed": 154,
+        "recovered": 114,
         "dead": 1,
         "today": {
           "confirmed": 0,
@@ -297,9 +297,9 @@
     ],
     "today": {
       "confirmed": 0,
-      "active": 0,
+      "active": -1,
       "recovered": 0,
-      "dead": 0
+      "dead": 1
     }
   },
   "AR": {
@@ -2143,10 +2143,10 @@
   },
   "DL": {
     "state": "Delhi",
-    "confirmed": 12319,
-    "active": 6214,
-    "recovered": 5897,
-    "dead": 208,
+    "confirmed": 12910,
+    "active": 6412,
+    "recovered": 6267,
+    "dead": 231,
     "districts": [
       {
         "district": "Central Delhi",
@@ -2305,10 +2305,10 @@
       {
         "district": "Unknown",
         "notes": "",
-        "active": 5427,
-        "confirmed": 11531,
-        "recovered": 5897,
-        "dead": 207,
+        "active": 5625,
+        "confirmed": 12122,
+        "recovered": 6267,
+        "dead": 230,
         "today": {
           "confirmed": 0,
           "recovered": 0,
