@@ -1,9 +1,9 @@
 {
-  "confirmed": 126308,
-  "active": 70289,
-  "recovered": 52258,
+  "confirmed": 126317,
+  "active": 70286,
+  "recovered": 52270,
   "dead": 3754,
-  "updatedTime": "23/05/2020 16:21:23",
+  "updatedTime": "23/05/2020 16:51:23",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -113,11 +113,11 @@
         "active": 145
       },
       "testing_data": {
-        "tested": 287164,
-        "positive": 6494,
-        "negative": 277744,
-        "unconfirmed": 2962,
-        "date": "22/05/2020"
+        "tested": 303935,
+        "positive": 6657,
+        "negative": 292384,
+        "unconfirmed": 4894,
+        "date": "23/05/2020"
       }
     },
     "MP": {
@@ -287,7 +287,7 @@
       "active": 1298,
       "recovered": 598,
       "dead": 42,
-      "updatedTime": "23/05/2020 16:21:24",
+      "updatedTime": "23/05/2020 16:23:25",
       "note": "One active case in KA reduced as a confirmed patient died of non-CoViD19 related reasons",
       "stateCode": "KA",
       "today": {
@@ -369,18 +369,18 @@
     },
     "HR": {
       "name": "Haryana",
-      "confirmed": 1067,
-      "active": 345,
-      "recovered": 706,
+      "confirmed": 1076,
+      "active": 342,
+      "recovered": 718,
       "dead": 16,
-      "updatedTime": "23/05/2020 00:23:28",
+      "updatedTime": "23/05/2020 16:51:25",
       "note": "",
       "stateCode": "HR",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 9,
+        "recovered": 12,
         "dead": 0,
-        "active": 0
+        "active": -3
       },
       "testing_data": {
         "tested": 91119,
@@ -429,11 +429,11 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 43988,
-        "positive": 323,
-        "negative": 43665,
+        "tested": 43998,
+        "positive": 330,
+        "negative": 43668,
         "unconfirmed": 0,
-        "date": "22/05/2020"
+        "date": "23/05/2020"
       }
     },
     "AS": {
@@ -846,19 +846,19 @@
     }
   },
   "testing_data": {
-    "tested": 3083839,
-    "positive": 123419,
-    "negative": 2429259,
-    "unconfirmed": 26933
+    "tested": 3100620,
+    "positive": 123589,
+    "negative": 2443902,
+    "unconfirmed": 28865
   },
   "testing_data_imcr": {
     "tested": 2834798,
     "source": "https://t.me/Covid19india_Auxiliary_Test_Data/110"
   },
   "today": {
-    "confirmed": 1514,
-    "recovered": 434,
+    "confirmed": 1523,
+    "recovered": 446,
     "dead": 28,
-    "active": 1052
+    "active": 1049
   }
 }
