@@ -1,9 +1,9 @@
 {
-  "confirmed": 127318,
-  "active": 70807,
-  "recovered": 52744,
-  "dead": 3759,
-  "updatedTime": "23/05/2020 19:21:23",
+  "confirmed": 127446,
+  "active": 70870,
+  "recovered": 52805,
+  "dead": 3763,
+  "updatedTime": "23/05/2020 19:42:23",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -168,18 +168,18 @@
     },
     "WB": {
       "name": "West Bengal",
-      "confirmed": 3332,
-      "active": 1846,
-      "recovered": 1221,
-      "dead": 265,
-      "updatedTime": "22/05/2020 20:32:25",
+      "confirmed": 3459,
+      "active": 1909,
+      "recovered": 1281,
+      "dead": 269,
+      "updatedTime": "23/05/2020 19:42:30",
       "note": "- Cases updated as per WB bulletin.<br>\n- Deaths due to comorbidities added to total deceased<br>\n- Zones updated as per WB bulletin<br>",
       "stateCode": "WB",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 127,
+        "recovered": 60,
+        "dead": 4,
+        "active": 63
       },
       "testing_data": {
         "tested": 120599,
@@ -218,7 +218,7 @@
       "active": 1705,
       "recovered": 629,
       "dead": 11,
-      "updatedTime": "23/05/2020 19:20:25",
+      "updatedTime": "23/05/2020 19:22:24",
       "note": "",
       "stateCode": "BR",
       "today": {
@@ -241,7 +241,7 @@
       "active": 136,
       "recovered": 1870,
       "dead": 39,
-      "updatedTime": "23/05/2020 19:21:24",
+      "updatedTime": "23/05/2020 19:33:25",
       "note": "Cases in Punjab were effectively reduced as some cases were added to 'central pool' as per the bulletin",
       "stateCode": "PB",
       "today": {
@@ -439,17 +439,17 @@
     "AS": {
       "name": "Assam",
       "confirmed": 330,
-      "active": 268,
-      "recovered": 55,
+      "active": 267,
+      "recovered": 56,
       "dead": 4,
-      "updatedTime": "23/05/2020 17:57:26",
+      "updatedTime": "23/05/2020 19:42:33",
       "note": "Includes one case from Nagaland <br>\nTotal of Three* patients who migrated to other states has been reduced from Active count",
       "stateCode": "AS",
       "today": {
         "confirmed": 70,
-        "recovered": 0,
+        "recovered": 1,
         "dead": 0,
-        "active": 70
+        "active": 69
       },
       "testing_data": {
         "tested": 55791,
@@ -823,18 +823,18 @@
     },
     "SK": {
       "name": "Sikkim",
-      "confirmed": 0,
-      "active": 0,
+      "confirmed": 1,
+      "active": 1,
       "recovered": 0,
       "dead": 0,
-      "updatedTime": "26/03/2020 07:19:29",
+      "updatedTime": "23/05/2020 19:42:35",
       "note": "",
       "stateCode": "SK",
       "today": {
-        "confirmed": 0,
+        "confirmed": 1,
         "recovered": 0,
         "dead": 0,
-        "active": 0
+        "active": 1
       },
       "testing_data": {
         "tested": 1637,
@@ -856,9 +856,9 @@
     "source": "https://t.me/Covid19india_Auxiliary_Test_Data/110"
   },
   "today": {
-    "confirmed": 2524,
-    "recovered": 911,
-    "dead": 33,
-    "active": 1580
+    "confirmed": 2652,
+    "recovered": 972,
+    "dead": 37,
+    "active": 1643
   }
 }
