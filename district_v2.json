@@ -80,8 +80,8 @@
   "AP": {
     "state": "Andhra Pradesh",
     "confirmed": 2714,
-    "active": 880,
-    "recovered": 1778,
+    "active": 879,
+    "recovered": 1779,
     "dead": 56,
     "districts": [
       {
@@ -171,14 +171,14 @@
       {
         "district": "Other State",
         "notes": "",
-        "active": 128,
+        "active": 127,
         "confirmed": 153,
-        "recovered": 25,
+        "recovered": 26,
         "dead": 0,
         "today": {
           "confirmed": 0,
-          "recovered": 0,
-          "active": 0,
+          "recovered": 1,
+          "active": -1,
           "dead": 0
         }
       },
@@ -297,8 +297,8 @@
     ],
     "today": {
       "confirmed": 0,
-      "active": -1,
-      "recovered": 0,
+      "active": -2,
+      "recovered": 1,
       "dead": 1
     }
   },
@@ -1174,8 +1174,8 @@
   },
   "BR": {
     "state": "Bihar",
-    "confirmed": 2166,
-    "active": 1526,
+    "confirmed": 2263,
+    "active": 1623,
     "recovered": 629,
     "dead": 11,
     "districts": [
@@ -1703,6 +1703,20 @@
         "active": 21,
         "confirmed": 32,
         "recovered": 11,
+        "dead": 0,
+        "today": {
+          "confirmed": 0,
+          "recovered": 0,
+          "active": 0,
+          "dead": 0
+        }
+      },
+      {
+        "district": "Unknown",
+        "notes": "",
+        "active": 97,
+        "confirmed": 97,
+        "recovered": 0,
         "dead": 0,
         "today": {
           "confirmed": 0,
