@@ -1,9 +1,9 @@
 {
-  "confirmed": 133786,
-  "recovered": 55710,
-  "dead": 3909,
-  "active": 74158,
-  "updatedTime": "24/05/2020 19:21:02",
+  "confirmed": 133839,
+  "recovered": 55715,
+  "dead": 3910,
+  "active": 74205,
+  "updatedTime": "24/05/2020 19:51:03",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -189,12 +189,12 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 129608,
-        "positive": 3459,
+        "tested": 138824,
+        "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "23/05/2020",
-        "source": "https://www.wbhealth.gov.in/uploaded_files/corona/WB_DHFW_Bulletin_23rd_MAY_REPORT_FINAL.pdf"
+        "date": "24/05/2020",
+        "source": ""
       }
     },
     "AP": {
@@ -227,7 +227,7 @@
       "active": 1847,
       "recovered": 653,
       "dead": 11,
-      "updatedTime": "24/05/2020 18:23:04",
+      "updatedTime": "24/05/2020 19:43:04",
       "note": "",
       "stateCode": "BR",
       "today": {
@@ -408,18 +408,18 @@
     },
     "KL": {
       "name": "Kerala",
-      "confirmed": 795,
-      "active": 275,
-      "recovered": 515,
-      "dead": 5,
-      "updatedTime": "23/05/2020 19:01:36",
+      "confirmed": 848,
+      "active": 322,
+      "recovered": 520,
+      "dead": 6,
+      "updatedTime": "24/05/2020 19:51:04",
       "note": "Mahe native who expired in Kannur included in Kerala's tally",
       "stateCode": "KL",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 53,
+        "recovered": 5,
+        "dead": 1,
+        "active": 47
       },
       "testing_data": {
         "tested": 61900,
@@ -852,7 +852,7 @@
         "negative": 1032,
         "unconfirmed": 65,
         "date": "24/05/2020",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data"
+        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/138?single"
       }
     },
     "LD": {
@@ -880,8 +880,8 @@
     }
   },
   "testing_data": {
-    "tested": 3201218,
-    "positive": 129451,
+    "tested": 3210434,
+    "positive": 125992,
     "negative": 2523248,
     "unconfirmed": 26277
   },
@@ -890,9 +890,9 @@
     "source": "https://t.me/Covid19india_Auxiliary_Test_Data/129"
   },
   "today": {
-    "confirmed": 2361,
-    "recovered": 1301,
-    "dead": 41,
-    "active": 1019
+    "confirmed": 2414,
+    "recovered": 1306,
+    "dead": 42,
+    "active": 1066
   }
 }
