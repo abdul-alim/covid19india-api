@@ -1,9 +1,9 @@
 {
-  "confirmed": 132092,
-  "recovered": 54427,
-  "dead": 3869,
-  "active": 73788,
-  "updatedTime": "24/05/2020 12:46:03",
+  "confirmed": 132600,
+  "recovered": 54700,
+  "dead": 3899,
+  "active": 73993,
+  "updatedTime": "24/05/2020 14:21:03",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -21,12 +21,12 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 348932,
-        "positive": 44582,
-        "negative": 299107,
+        "tested": 363470,
+        "positive": 47190,
+        "negative": 310565,
         "unconfirmed": 0,
-        "date": "23/05/2020",
-        "source": "https://twitter.com/Maha_MEDD/status/1264074085513846785?s=19"
+        "date": "24/05/2020",
+        "source": "https://twitter.com/Maha_MEDD/status/1264430855872643075?s=19"
       }
     },
     "TN": {
@@ -79,18 +79,18 @@
     },
     "DL": {
       "name": "Delhi",
-      "confirmed": 12910,
-      "active": 6412,
-      "recovered": 6267,
-      "dead": 231,
-      "updatedTime": "23/05/2020 14:56:24",
+      "confirmed": 13418,
+      "active": 6617,
+      "recovered": 6540,
+      "dead": 261,
+      "updatedTime": "24/05/2020 14:21:04",
       "note": "[10-May]<br>\n\nDelhi will be releasing bulletins in the morning, containing data of the previous day. We will add that data to the date on which the report is released, rather than the previous day.",
       "stateCode": "DL",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 508,
+        "recovered": 273,
+        "dead": 30,
+        "active": 205
       },
       "testing_data": {
         "tested": 165047,
@@ -880,19 +880,19 @@
     }
   },
   "testing_data": {
-    "tested": 3174974,
-    "positive": 126179,
-    "negative": 2509794,
+    "tested": 3189512,
+    "positive": 128787,
+    "negative": 2521252,
     "unconfirmed": 26852
   },
   "testing_data_imcr": {
     "tested": 2943421,
-    "source": "https://www.icmr.gov.in/pdf/covid/update/ICMR_testing_update_24May2020_9AM_IST.pdf"
+    "source": "https://t.me/Covid19india_Auxiliary_Test_Data/129"
   },
   "today": {
-    "confirmed": 669,
-    "recovered": 18,
-    "dead": 1,
-    "active": 650
+    "confirmed": 1177,
+    "recovered": 291,
+    "dead": 31,
+    "active": 855
   }
 }
