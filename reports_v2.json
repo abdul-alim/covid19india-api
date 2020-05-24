@@ -1,9 +1,9 @@
 {
-  "confirmed": 138059,
-  "recovered": 57429,
-  "dead": 4014,
-  "active": 76607,
-  "updatedTime": "24/05/2020 22:22:06",
+  "confirmed": 138223,
+  "recovered": 57511,
+  "dead": 4018,
+  "active": 76685,
+  "updatedTime": "24/05/2020 22:51:03",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -11,7 +11,7 @@
       "active": 33996,
       "recovered": 14600,
       "dead": 1635,
-      "updatedTime": "24/05/2020 21:22:04",
+      "updatedTime": "24/05/2020 22:25:03",
       "note": "",
       "stateCode": "MH",
       "today": {
@@ -103,18 +103,18 @@
     },
     "RJ": {
       "name": "Rajasthan",
-      "confirmed": 6894,
-      "active": 2917,
-      "recovered": 3816,
-      "dead": 161,
-      "updatedTime": "24/05/2020 19:11:04",
+      "confirmed": 7028,
+      "active": 3017,
+      "recovered": 3848,
+      "dead": 163,
+      "updatedTime": "24/05/2020 22:51:04",
       "note": "",
       "stateCode": "RJ",
       "today": {
-        "confirmed": 152,
-        "recovered": 30,
-        "dead": 1,
-        "active": 121
+        "confirmed": 286,
+        "recovered": 62,
+        "dead": 3,
+        "active": 221
       },
       "testing_data": {
         "tested": 303935,
@@ -264,18 +264,18 @@
     },
     "PB": {
       "name": "Punjab",
-      "confirmed": 2045,
-      "active": 136,
-      "recovered": 1870,
-      "dead": 39,
-      "updatedTime": "23/05/2020 19:33:25",
+      "confirmed": 2060,
+      "active": 122,
+      "recovered": 1898,
+      "dead": 40,
+      "updatedTime": "24/05/2020 22:45:06",
       "note": "Cases in Punjab were effectively reduced as some cases were added to 'central pool' as per the bulletin",
       "stateCode": "PB",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 15,
+        "recovered": 28,
+        "dead": 1,
+        "active": -14
       },
       "testing_data": {
         "tested": 66142,
@@ -457,17 +457,17 @@
     "JH": {
       "name": "Jharkhand",
       "confirmed": 370,
-      "active": 226,
-      "recovered": 141,
-      "dead": 3,
-      "updatedTime": "24/05/2020 22:21:04",
+      "active": 218,
+      "recovered": 148,
+      "dead": 4,
+      "updatedTime": "24/05/2020 22:45:07",
       "note": "",
       "stateCode": "JH",
       "today": {
         "confirmed": 20,
-        "recovered": 0,
-        "dead": 0,
-        "active": 20
+        "recovered": 7,
+        "dead": 1,
+        "active": 12
       },
       "testing_data": {
         "tested": 45785,
@@ -542,28 +542,28 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 48116,
-        "positive": 172,
-        "negative": 45022,
-        "unconfirmed": 2922,
-        "date": "22/05/2020",
-        "source": "http://cghealth.nic.in/cghealth17/Information/content/CORONA/MediaBulletinHindi_22052020.pdf"
+        "tested": 49763,
+        "positive": 214,
+        "negative": 46894,
+        "unconfirmed": 2655,
+        "date": "23/05/2020",
+        "source": "http://cghealth.nic.in/cghealth17/Information/content/CORONA/MediaBulletinHindi_23052020.pdf"
       }
     },
     "TR": {
       "name": "Tripura",
       "confirmed": 191,
-      "active": 39,
-      "recovered": 152,
+      "active": 26,
+      "recovered": 165,
       "dead": 0,
-      "updatedTime": "23/05/2020 21:57:26",
+      "updatedTime": "24/05/2020 22:51:06",
       "note": "Two cases are migrated out of Tripura.",
       "stateCode": "TR",
       "today": {
         "confirmed": 0,
-        "recovered": 0,
+        "recovered": 13,
         "dead": 0,
-        "active": 0
+        "active": -13
       },
       "testing_data": {
         "tested": 18737,
@@ -580,7 +580,7 @@
       "active": 137,
       "recovered": 59,
       "dead": 4,
-      "updatedTime": "24/05/2020 22:21:06",
+      "updatedTime": "24/05/2020 22:23:05",
       "note": "HP has 4 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed",
       "stateCode": "HP",
       "today": {
@@ -696,18 +696,18 @@
     },
     "PY": {
       "name": "Puducherry",
-      "confirmed": 26,
-      "active": 16,
-      "recovered": 10,
+      "confirmed": 41,
+      "active": 29,
+      "recovered": 12,
       "dead": 0,
-      "updatedTime": "23/05/2020 00:23:33",
+      "updatedTime": "24/05/2020 22:51:07",
       "note": "",
       "stateCode": "PY",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 15,
+        "recovered": 2,
         "dead": 0,
-        "active": 0
+        "active": 13
       },
       "testing_data": {
         "tested": 6106,
@@ -880,19 +880,19 @@
     }
   },
   "testing_data": {
-    "tested": 3255922,
-    "positive": 131386,
-    "negative": 2562924,
-    "unconfirmed": 25828
+    "tested": 3257569,
+    "positive": 131428,
+    "negative": 2564796,
+    "unconfirmed": 25561
   },
   "testing_data_imcr": {
     "tested": 2943421,
     "source": "https://t.me/Covid19india_Auxiliary_Test_Data/129"
   },
   "today": {
-    "confirmed": 6634,
-    "recovered": 3020,
-    "dead": 146,
-    "active": 3468
+    "confirmed": 6798,
+    "recovered": 3102,
+    "dead": 150,
+    "active": 3546
   }
 }
