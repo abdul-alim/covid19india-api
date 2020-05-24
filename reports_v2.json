@@ -1,9 +1,9 @@
 {
   "confirmed": 132674,
-  "recovered": 54762,
+  "recovered": 54815,
   "dead": 3899,
-  "active": 74005,
-  "updatedTime": "24/05/2020 15:11:02",
+  "active": 73952,
+  "updatedTime": "24/05/2020 15:20:03",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -203,7 +203,7 @@
       "active": 883,
       "recovered": 1841,
       "dead": 56,
-      "updatedTime": "24/05/2020 15:11:03",
+      "updatedTime": "24/05/2020 15:20:04",
       "note": "Total includes patients from other states.",
       "stateCode": "AP",
       "today": {
@@ -245,6 +245,23 @@
         "source": "https://twitter.com/BiharHealthDept/status/1264090617510006784"
       }
     },
+    "UN": {
+      "name": "State Unassigned",
+      "confirmed": 2338,
+      "active": 2338,
+      "recovered": 0,
+      "dead": 0,
+      "updatedTime": "23/05/2020 09:32:24",
+      "note": "MoHFW reports that these cases are being reassigned to states",
+      "stateCode": "UN",
+      "today": {
+        "confirmed": 439,
+        "recovered": 0,
+        "dead": 0,
+        "active": 439
+      },
+      "isUnknown": true
+    },
     "PB": {
       "name": "Punjab",
       "confirmed": 2045,
@@ -267,30 +284,6 @@
         "unconfirmed": 3623,
         "date": "23/05/2020",
         "source": "http://pbhealth.gov.in/Media%20Bulletin%20COVID-19%2023-05-2020.pdf"
-      }
-    },
-    "TG": {
-      "name": "Telangana",
-      "confirmed": 1813,
-      "active": 696,
-      "recovered": 1068,
-      "dead": 49,
-      "updatedTime": "23/05/2020 22:09:29",
-      "note": "",
-      "stateCode": "TG",
-      "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
-      },
-      "testing_data": {
-        "tested": 23388,
-        "positive": 1551,
-        "negative": 0,
-        "unconfirmed": 0,
-        "date": "17/05/2020",
-        "source": ""
       }
     },
     "KA": {
@@ -317,22 +310,29 @@
         "source": "https://covid19.karnataka.gov.in/storage/pdf-files/Media-Bulletin/23.05.2020%20EMB%20English.pdf"
       }
     },
-    "UN": {
-      "name": "State Unassigned",
-      "confirmed": 2338,
-      "active": 2338,
-      "recovered": 0,
-      "dead": 0,
-      "updatedTime": "23/05/2020 09:32:24",
-      "note": "MoHFW reports that these cases are being reassigned to states",
-      "stateCode": "UN",
+    "TG": {
+      "name": "Telangana",
+      "confirmed": 1813,
+      "active": 696,
+      "recovered": 1068,
+      "dead": 49,
+      "updatedTime": "23/05/2020 22:09:29",
+      "note": "",
+      "stateCode": "TG",
       "today": {
-        "confirmed": 439,
+        "confirmed": 0,
         "recovered": 0,
         "dead": 0,
-        "active": 439
+        "active": 0
       },
-      "isUnknown": true
+      "testing_data": {
+        "tested": 23388,
+        "positive": 1551,
+        "negative": 0,
+        "unconfirmed": 0,
+        "date": "17/05/2020",
+        "source": ""
+      }
     },
     "JK": {
       "name": "Jammu and Kashmir",
@@ -361,17 +361,17 @@
     "OR": {
       "name": "Odisha",
       "confirmed": 1336,
-      "active": 832,
-      "recovered": 497,
+      "active": 779,
+      "recovered": 550,
       "dead": 7,
       "updatedTime": "23/05/2020 18:10:27",
       "note": "",
       "stateCode": "OR",
       "today": {
         "confirmed": 67,
-        "recovered": 0,
+        "recovered": 53,
         "dead": 0,
-        "active": 67
+        "active": 14
       },
       "testing_data": {
         "tested": 118446,
@@ -430,6 +430,30 @@
         "source": "http://dhs.kerala.gov.in/2020/05/22/22-05-2020/"
       }
     },
+    "AS": {
+      "name": "Assam",
+      "confirmed": 351,
+      "active": 287,
+      "recovered": 57,
+      "dead": 4,
+      "updatedTime": "23/05/2020 23:23:27",
+      "note": "Includes one case from Nagaland <br>\nTotal of Three* patients who migrated to other states has been reduced from Active count",
+      "stateCode": "AS",
+      "today": {
+        "confirmed": 4,
+        "recovered": 0,
+        "dead": 0,
+        "active": 4
+      },
+      "testing_data": {
+        "tested": 60405,
+        "positive": 329,
+        "negative": 54185,
+        "unconfirmed": 0,
+        "date": "23/05/2020",
+        "source": "https://twitter.com/nhm_assam/status/1264220889811476481?s=19"
+      }
+    },
     "JH": {
       "name": "Jharkhand",
       "confirmed": 350,
@@ -454,28 +478,28 @@
         "source": "https://twitter.com/RanchiPIB/status/1264230815841415169?s=19"
       }
     },
-    "AS": {
-      "name": "Assam",
-      "confirmed": 351,
-      "active": 287,
-      "recovered": 57,
-      "dead": 4,
-      "updatedTime": "23/05/2020 23:23:27",
-      "note": "Includes one case from Nagaland <br>\nTotal of Three* patients who migrated to other states has been reduced from Active count",
-      "stateCode": "AS",
+    "UT": {
+      "name": "Uttarakhand",
+      "confirmed": 244,
+      "active": 188,
+      "recovered": 55,
+      "dead": 1,
+      "updatedTime": "23/05/2020 20:54:25",
+      "note": "",
+      "stateCode": "UT",
       "today": {
-        "confirmed": 4,
+        "confirmed": 0,
         "recovered": 0,
         "dead": 0,
-        "active": 4
+        "active": 0
       },
       "testing_data": {
-        "tested": 60405,
-        "positive": 329,
-        "negative": 54185,
-        "unconfirmed": 0,
+        "tested": 19248,
+        "positive": 173,
+        "negative": 15757,
+        "unconfirmed": 2382,
         "date": "23/05/2020",
-        "source": "https://twitter.com/nhm_assam/status/1264220889811476481?s=19"
+        "source": "http://health.uk.gov.in/files/2020.05.23_Health_Bulletin.pdf"
       }
     },
     "CH": {
@@ -502,30 +526,6 @@
         "source": "https://t.me/indiacovid/5389?single"
       }
     },
-    "TR": {
-      "name": "Tripura",
-      "confirmed": 191,
-      "active": 39,
-      "recovered": 152,
-      "dead": 0,
-      "updatedTime": "23/05/2020 21:57:26",
-      "note": "Two cases are migrated out of Tripura.",
-      "stateCode": "TR",
-      "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
-      },
-      "testing_data": {
-        "tested": 18737,
-        "positive": 191,
-        "negative": 18546,
-        "unconfirmed": 0,
-        "date": "23/05/2020",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/126"
-      }
-    },
     "CT": {
       "name": "Chhattisgarh",
       "confirmed": 214,
@@ -550,6 +550,30 @@
         "source": "http://cghealth.nic.in/cghealth17/Information/content/CORONA/MediaBulletinHindi_22052020.pdf"
       }
     },
+    "TR": {
+      "name": "Tripura",
+      "confirmed": 191,
+      "active": 39,
+      "recovered": 152,
+      "dead": 0,
+      "updatedTime": "23/05/2020 21:57:26",
+      "note": "Two cases are migrated out of Tripura.",
+      "stateCode": "TR",
+      "today": {
+        "confirmed": 0,
+        "recovered": 0,
+        "dead": 0,
+        "active": 0
+      },
+      "testing_data": {
+        "tested": 18737,
+        "positive": 191,
+        "negative": 18546,
+        "unconfirmed": 0,
+        "date": "23/05/2020",
+        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/126"
+      }
+    },
     "HP": {
       "name": "Himachal Pradesh",
       "confirmed": 185,
@@ -572,30 +596,6 @@
         "unconfirmed": 1095,
         "date": "23/05/2020",
         "source": "https://twitter.com/nhm_hp/status/1264222704099524609?s=19"
-      }
-    },
-    "UT": {
-      "name": "Uttarakhand",
-      "confirmed": 244,
-      "active": 188,
-      "recovered": 55,
-      "dead": 1,
-      "updatedTime": "23/05/2020 20:54:25",
-      "note": "",
-      "stateCode": "UT",
-      "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
-      },
-      "testing_data": {
-        "tested": 19248,
-        "positive": 173,
-        "negative": 15757,
-        "unconfirmed": 2382,
-        "date": "23/05/2020",
-        "source": "http://health.uk.gov.in/files/2020.05.23_Health_Bulletin.pdf"
       }
     },
     "GA": {
@@ -742,6 +742,23 @@
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/109"
       }
     },
+    "DN": {
+      "name": "Dadra and Nagar Haveli and Daman and Diu",
+      "confirmed": 2,
+      "active": 1,
+      "recovered": 1,
+      "dead": 0,
+      "updatedTime": "23/05/2020 23:47:25",
+      "note": "",
+      "stateCode": "DN",
+      "today": {
+        "confirmed": 0,
+        "recovered": 0,
+        "dead": 0,
+        "active": 0
+      },
+      "isUnknown": true
+    },
     "MZ": {
       "name": "Mizoram",
       "confirmed": 1,
@@ -790,22 +807,29 @@
         "source": "http://covid19.itanagarsmartcity.in/callstatus.php"
       }
     },
-    "DN": {
-      "name": "Dadra and Nagar Haveli and Daman and Diu",
-      "confirmed": 2,
+    "SK": {
+      "name": "Sikkim",
+      "confirmed": 1,
       "active": 1,
-      "recovered": 1,
+      "recovered": 0,
       "dead": 0,
-      "updatedTime": "23/05/2020 23:47:25",
+      "updatedTime": "23/05/2020 19:42:35",
       "note": "",
-      "stateCode": "DN",
+      "stateCode": "SK",
       "today": {
         "confirmed": 0,
         "recovered": 0,
         "dead": 0,
         "active": 0
       },
-      "isUnknown": true
+      "testing_data": {
+        "tested": 1707,
+        "positive": 0,
+        "negative": 1398,
+        "unconfirmed": 309,
+        "date": "23/05/2020",
+        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/127"
+      }
     },
     "NL": {
       "name": "Nagaland",
@@ -853,30 +877,6 @@
         "unconfirmed": 0,
         "updated": false
       }
-    },
-    "SK": {
-      "name": "Sikkim",
-      "confirmed": 1,
-      "active": 1,
-      "recovered": 0,
-      "dead": 0,
-      "updatedTime": "23/05/2020 19:42:35",
-      "note": "",
-      "stateCode": "SK",
-      "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
-      },
-      "testing_data": {
-        "tested": 1707,
-        "positive": 0,
-        "negative": 1398,
-        "unconfirmed": 309,
-        "date": "23/05/2020",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/127"
-      }
     }
   },
   "testing_data": {
@@ -891,8 +891,8 @@
   },
   "today": {
     "confirmed": 1249,
-    "recovered": 353,
+    "recovered": 406,
     "dead": 31,
-    "active": 865
+    "active": 812
   }
 }
