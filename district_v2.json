@@ -2347,7 +2347,11 @@
       "active": 0,
       "recovered": 0,
       "dead": 0
-    }
+    },
+    "confirmed": 2,
+    "recovered": 1,
+    "dead": 0,
+    "active": 1
   },
   "GA": {
     "state": "Goa",
@@ -5324,16 +5328,16 @@
         "recovered": 91,
         "dead": 0,
         "today": {
-          "confirmed": 2,
+          "confirmed": 0,
           "recovered": 0,
-          "active": 2,
+          "active": 0,
           "dead": 0
         }
       }
     ],
     "today": {
-      "confirmed": 3041,
-      "active": 2983,
+      "confirmed": 3039,
+      "active": 2981,
       "recovered": 0,
       "dead": 58
     },
@@ -8282,20 +8286,6 @@
     "state": "Telangana",
     "districts": [
       {
-        "district": "Foreign Evacuees",
-        "notes": "Category added in Telangana State Bulletin",
-        "active": 6,
-        "confirmed": 6,
-        "recovered": 0,
-        "dead": 0,
-        "today": {
-          "confirmed": 6,
-          "recovered": 0,
-          "active": 6,
-          "dead": 0
-        }
-      },
-      {
         "district": "Other State",
         "notes": "",
         "active": 127,
@@ -8773,8 +8763,8 @@
       }
     ],
     "today": {
-      "confirmed": 41,
-      "active": 41,
+      "confirmed": 35,
+      "active": 35,
       "recovered": 0,
       "dead": 0
     },
@@ -11097,19 +11087,5 @@
     "recovered": 1339,
     "dead": 272,
     "active": 2056
-  },
-  "DD": {
-    "confirmed": 0,
-    "active": 0,
-    "recovered": 0,
-    "dead": 0,
-    "today": {
-      "confirmed": 0,
-      "active": 0,
-      "recovered": 0,
-      "dead": 0
-    },
-    "state": "Daman and Diu",
-    "districts": []
   }
 }
