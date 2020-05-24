@@ -1,9 +1,9 @@
 {
-  "confirmed": 137608,
-  "recovered": 57273,
-  "dead": 4004,
-  "active": 76322,
-  "updatedTime": "24/05/2020 21:11:42",
+  "confirmed": 137902,
+  "recovered": 57414,
+  "dead": 4013,
+  "active": 76466,
+  "updatedTime": "24/05/2020 21:32:03",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -11,14 +11,14 @@
       "active": 33996,
       "recovered": 14600,
       "dead": 1635,
-      "updatedTime": "24/05/2020 21:11:43",
+      "updatedTime": "24/05/2020 21:22:04",
       "note": "",
       "stateCode": "MH",
       "today": {
-        "confirmed": 3039,
-        "recovered": 0,
+        "confirmed": 3041,
+        "recovered": 1196,
         "dead": 58,
-        "active": 2981
+        "active": 1787
       },
       "testing_data": {
         "tested": 363470,
@@ -127,18 +127,18 @@
     },
     "MP": {
       "name": "Madhya Pradesh",
-      "confirmed": 6371,
-      "active": 2823,
-      "recovered": 3267,
-      "dead": 281,
-      "updatedTime": "23/05/2020 21:43:24",
+      "confirmed": 6665,
+      "active": 2967,
+      "recovered": 3408,
+      "dead": 290,
+      "updatedTime": "24/05/2020 21:32:04",
       "note": "",
       "stateCode": "MP",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 294,
+        "recovered": 141,
+        "dead": 9,
+        "active": 144
       },
       "testing_data": {
         "tested": 132769,
@@ -316,7 +316,7 @@
       "active": 709,
       "recovered": 1092,
       "dead": 53,
-      "updatedTime": "24/05/2020 21:11:45",
+      "updatedTime": "24/05/2020 21:22:05",
       "note": "",
       "stateCode": "TG",
       "today": {
@@ -757,14 +757,7 @@
         "dead": 0,
         "active": 0
       },
-      "testing_data": {
-        "tested": 382,
-        "positive": 0,
-        "negative": 382,
-        "unconfirmed": 0,
-        "date": "16/04/2020",
-        "source": "https://twitter.com/DnhPublicity/status/1250813940537278464"
-      }
+      "isUnknown": true
     },
     "MZ": {
       "name": "Mizoram",
@@ -897,9 +890,9 @@
     "source": "https://t.me/Covid19india_Auxiliary_Test_Data/129"
   },
   "today": {
-    "confirmed": 6181,
-    "recovered": 1668,
-    "dead": 136,
-    "active": 4377
+    "confirmed": 6477,
+    "recovered": 3005,
+    "dead": 145,
+    "active": 3327
   }
 }
