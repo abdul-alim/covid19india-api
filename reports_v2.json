@@ -1,9 +1,9 @@
 {
-  "confirmed": 133839,
-  "recovered": 55715,
-  "dead": 3910,
-  "active": 74205,
-  "updatedTime": "24/05/2020 20:01:02",
+  "confirmed": 134252,
+  "recovered": 55960,
+  "dead": 3939,
+  "active": 74344,
+  "updatedTime": "24/05/2020 20:32:54",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -55,26 +55,26 @@
     },
     "GJ": {
       "name": "Gujarat",
-      "confirmed": 13669,
-      "active": 6671,
-      "recovered": 6169,
-      "dead": 829,
-      "updatedTime": "23/05/2020 20:20:24",
+      "confirmed": 14063,
+      "active": 6793,
+      "recovered": 6412,
+      "dead": 858,
+      "updatedTime": "24/05/2020 20:32:54",
       "note": "",
       "stateCode": "GJ",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 394,
+        "recovered": 243,
+        "dead": 29,
+        "active": 122
       },
       "testing_data": {
-        "tested": 178068,
-        "positive": 13669,
-        "negative": 164399,
+        "tested": 182869,
+        "positive": 14063,
+        "negative": 168806,
         "unconfirmed": 0,
-        "date": "23/05/2020",
-        "source": "https://gujcovid19.gujarat.gov.in/uploads/pressbrief2305232020073105292.pdf"
+        "date": "24/05/2020",
+        "source": "https://www.deshgujarat.com/2020/05/24/gujarat-covid19-case-total-update/"
       }
     },
     "DL": {
@@ -278,12 +278,12 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 63567,
-        "positive": 2045,
-        "negative": 57899,
-        "unconfirmed": 3623,
-        "date": "23/05/2020",
-        "source": "http://pbhealth.gov.in/Media%20Bulletin%20COVID-19%2023-05-2020.pdf"
+        "tested": 66142,
+        "positive": 2060,
+        "negative": 60114,
+        "unconfirmed": 3968,
+        "date": "24/05/2020",
+        "source": "http://pbhealth.gov.in/Media%20Bulletin%20COVID-19%2024-05-2020.pdf"
       }
     },
     "KA": {
@@ -480,18 +480,18 @@
     },
     "UT": {
       "name": "Uttarakhand",
-      "confirmed": 298,
-      "active": 238,
-      "recovered": 56,
+      "confirmed": 317,
+      "active": 255,
+      "recovered": 58,
       "dead": 3,
-      "updatedTime": "24/05/2020 16:12:13",
+      "updatedTime": "24/05/2020 20:33:00",
       "note": "One migrated case reduced from Active count",
       "stateCode": "UT",
       "today": {
-        "confirmed": 54,
-        "recovered": 1,
+        "confirmed": 73,
+        "recovered": 3,
         "dead": 2,
-        "active": 51
+        "active": 68
       },
       "testing_data": {
         "tested": 20969,
@@ -880,19 +880,19 @@
     }
   },
   "testing_data": {
-    "tested": 3227099,
-    "positive": 130708,
-    "negative": 2535678,
-    "unconfirmed": 25614
+    "tested": 3234475,
+    "positive": 131117,
+    "negative": 2542300,
+    "unconfirmed": 25959
   },
   "testing_data_imcr": {
     "tested": 2943421,
     "source": "https://t.me/Covid19india_Auxiliary_Test_Data/129"
   },
   "today": {
-    "confirmed": 2414,
-    "recovered": 1306,
-    "dead": 42,
-    "active": 1066
+    "confirmed": 2827,
+    "recovered": 1551,
+    "dead": 71,
+    "active": 1205
   }
 }
