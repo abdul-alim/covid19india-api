@@ -1,9 +1,9 @@
 {
-  "confirmed": 138223,
+  "confirmed": 138229,
   "recovered": 57511,
-  "dead": 4018,
+  "dead": 4024,
   "active": 76685,
-  "updatedTime": "24/05/2020 22:51:03",
+  "updatedTime": "24/05/2020 23:06:03",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -107,7 +107,7 @@
       "active": 3017,
       "recovered": 3848,
       "dead": 163,
-      "updatedTime": "24/05/2020 22:51:04",
+      "updatedTime": "24/05/2020 23:01:04",
       "note": "",
       "stateCode": "RJ",
       "today": {
@@ -152,25 +152,25 @@
     "UP": {
       "name": "Uttar Pradesh",
       "confirmed": 6017,
-      "active": 2456,
+      "active": 2450,
       "recovered": 3406,
-      "dead": 155,
-      "updatedTime": "23/05/2020 23:10:25",
+      "dead": 161,
+      "updatedTime": "24/05/2020 23:11:03",
       "note": "",
       "stateCode": "UP",
       "today": {
         "confirmed": 0,
         "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "dead": 6,
+        "active": -6
       },
       "testing_data": {
-        "tested": 217867,
-        "positive": 6017,
-        "negative": 210864,
-        "unconfirmed": 986,
-        "date": "23/05/2020",
-        "source": "https://t.me/indiacovid/5418?single"
+        "tested": 229621,
+        "positive": 6268,
+        "negative": 222341,
+        "unconfirmed": 1012,
+        "date": "24/05/2020",
+        "source": "https://t.me/indiacovid/5455?single"
       }
     },
     "WB": {
@@ -213,12 +213,12 @@
         "active": 4
       },
       "testing_data": {
-        "tested": 292969,
-        "positive": 2561,
-        "negative": 290255,
+        "tested": 304326,
+        "positive": 2627,
+        "negative": 301529,
         "unconfirmed": 0,
-        "date": "23/05/2020",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/114"
+        "date": "24/05/2020",
+        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/143"
       }
     },
     "BR": {
@@ -504,18 +504,18 @@
     },
     "CH": {
       "name": "Chandigarh",
-      "confirmed": 256,
-      "active": 73,
+      "confirmed": 262,
+      "active": 79,
       "recovered": 179,
       "dead": 4,
-      "updatedTime": "24/05/2020 22:13:06",
+      "updatedTime": "24/05/2020 23:11:04",
       "note": "",
       "stateCode": "CH",
       "today": {
-        "confirmed": 31,
+        "confirmed": 37,
         "recovered": 0,
         "dead": 1,
-        "active": 30
+        "active": 36
       },
       "testing_data": {
         "tested": 3904,
@@ -556,7 +556,7 @@
       "active": 26,
       "recovered": 165,
       "dead": 0,
-      "updatedTime": "24/05/2020 22:51:06",
+      "updatedTime": "24/05/2020 23:01:07",
       "note": "Two cases are migrated out of Tripura.",
       "stateCode": "TR",
       "today": {
@@ -700,7 +700,7 @@
       "active": 29,
       "recovered": 12,
       "dead": 0,
-      "updatedTime": "24/05/2020 22:51:07",
+      "updatedTime": "24/05/2020 23:01:08",
       "note": "",
       "stateCode": "PY",
       "today": {
@@ -880,19 +880,19 @@
     }
   },
   "testing_data": {
-    "tested": 3257569,
-    "positive": 131428,
-    "negative": 2564796,
-    "unconfirmed": 25561
+    "tested": 3280680,
+    "positive": 131745,
+    "negative": 2587547,
+    "unconfirmed": 25587
   },
   "testing_data_imcr": {
     "tested": 2943421,
     "source": "https://t.me/Covid19india_Auxiliary_Test_Data/129"
   },
   "today": {
-    "confirmed": 6798,
+    "confirmed": 6804,
     "recovered": 3102,
-    "dead": 150,
+    "dead": 156,
     "active": 3546
   }
 }
