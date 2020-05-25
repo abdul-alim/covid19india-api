@@ -1,9 +1,9 @@
 {
-  "confirmed": 139993,
-  "recovered": 58097,
-  "dead": 4039,
-  "active": 77848,
-  "updatedTime": "25/05/2020 17:20:03",
+  "confirmed": 140066,
+  "recovered": 58174,
+  "dead": 4041,
+  "active": 77842,
+  "updatedTime": "25/05/2020 17:52:03",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -69,12 +69,12 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 182869,
-        "positive": 14063,
+        "tested": 182868,
+        "positive": 14056,
         "negative": 168806,
-        "unconfirmed": 0,
+        "unconfirmed": 6,
         "date": "24/05/2020",
-        "source": "https://www.deshgujarat.com/2020/05/24/gujarat-covid19-case-total-update/"
+        "source": "https://gujcovid19.gujarat.gov.in/uploads/pressbrief2405242020094425849.pdf"
       }
     },
     "DL": {
@@ -264,18 +264,18 @@
     },
     "KA": {
       "name": "Karnataka",
-      "confirmed": 2089,
-      "active": 1391,
-      "recovered": 654,
-      "dead": 42,
-      "updatedTime": "24/05/2020 18:23:05",
+      "confirmed": 2158,
+      "active": 1407,
+      "recovered": 705,
+      "dead": 44,
+      "updatedTime": "25/05/2020 17:52:05",
       "note": "One active case in KA reduced as a confirmed patient died of non-CoViD19 related reasons",
       "stateCode": "KA",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 69,
+        "recovered": 51,
+        "dead": 2,
+        "active": 16
       },
       "testing_data": {
         "tested": 206313,
@@ -384,11 +384,11 @@
     },
     "HR": {
       "name": "Haryana",
-      "confirmed": 1184,
-      "active": 403,
-      "recovered": 765,
+      "confirmed": 1187,
+      "active": 380,
+      "recovered": 791,
       "dead": 16,
-      "updatedTime": "24/05/2020 22:13:04",
+      "updatedTime": "25/05/2020 17:51:07",
       "note": "",
       "stateCode": "HR",
       "today": {
@@ -624,11 +624,11 @@
     },
     "LA": {
       "name": "Ladakh",
-      "confirmed": 52,
-      "active": 9,
+      "confirmed": 53,
+      "active": 10,
       "recovered": 43,
       "dead": 0,
-      "updatedTime": "24/05/2020 14:52:04",
+      "updatedTime": "25/05/2020 17:51:08",
       "note": "",
       "stateCode": "LA",
       "today": {
@@ -880,19 +880,19 @@
     }
   },
   "testing_data": {
-    "tested": 3341070,
-    "positive": 136324,
+    "tested": 3341069,
+    "positive": 136317,
     "negative": 2637339,
-    "unconfirmed": 23945
+    "unconfirmed": 23951
   },
   "testing_data_imcr": {
     "tested": 3033591,
     "source": "https://t.me/Covid19india_Auxiliary_Test_Data/146"
   },
   "today": {
-    "confirmed": 1457,
-    "recovered": 403,
-    "dead": 15,
-    "active": 1039
+    "confirmed": 1526,
+    "recovered": 454,
+    "dead": 17,
+    "active": 1055
   }
 }
