@@ -1,9 +1,9 @@
 {
-  "confirmed": 139049,
-  "recovered": 57700,
+  "confirmed": 139051,
+  "recovered": 57702,
   "dead": 4024,
   "active": 77316,
-  "updatedTime": "25/05/2020 11:31:03",
+  "updatedTime": "25/05/2020 11:52:03",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -662,12 +662,12 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 6106,
-        "positive": 31,
-        "negative": 5995,
-        "unconfirmed": 80,
-        "date": "21/05/2020",
-        "source": "https://covid19dashboard.py.gov.in/LabTestReport"
+        "tested": 6536,
+        "positive": 45,
+        "negative": 6444,
+        "unconfirmed": 47,
+        "date": "24/05/2020",
+        "source": ""
       }
     },
     "AN": {
@@ -696,18 +696,18 @@
     },
     "MN": {
       "name": "Manipur",
-      "confirmed": 32,
+      "confirmed": 34,
       "active": 30,
-      "recovered": 2,
+      "recovered": 4,
       "dead": 0,
-      "updatedTime": "24/05/2020 15:00:04",
+      "updatedTime": "25/05/2020 11:52:05",
       "note": "",
       "stateCode": "MN",
       "today": {
-        "confirmed": 0,
+        "confirmed": 2,
         "recovered": 0,
         "dead": 0,
-        "active": 0
+        "active": 2
       },
       "testing_data": {
         "tested": 1706,
@@ -880,19 +880,19 @@
     }
   },
   "testing_data": {
-    "tested": 3310089,
-    "positive": 132590,
-    "negative": 2613367,
-    "unconfirmed": 23978
+    "tested": 3310519,
+    "positive": 132604,
+    "negative": 2613816,
+    "unconfirmed": 23945
   },
   "testing_data_imcr": {
     "tested": 3033591,
     "source": "https://t.me/Covid19india_Auxiliary_Test_Data/146"
   },
   "today": {
-    "confirmed": 513,
+    "confirmed": 515,
     "recovered": 8,
     "dead": 0,
-    "active": 505
+    "active": 507
   }
 }
