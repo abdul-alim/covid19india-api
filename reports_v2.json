@@ -1,9 +1,9 @@
 {
-  "confirmed": 141193,
-  "recovered": 58716,
-  "dead": 4056,
-  "active": 78412,
-  "updatedTime": "25/05/2020 19:21:02",
+  "confirmed": 141228,
+  "recovered": 58724,
+  "dead": 4057,
+  "active": 78436,
+  "updatedTime": "25/05/2020 19:32:03",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -35,7 +35,7 @@
       "active": 8232,
       "recovered": 8731,
       "dead": 119,
-      "updatedTime": "25/05/2020 19:20:03",
+      "updatedTime": "25/05/2020 19:22:04",
       "note": "",
       "stateCode": "TN",
       "today": {
@@ -179,7 +179,7 @@
       "active": 2124,
       "recovered": 1414,
       "dead": 278,
-      "updatedTime": "25/05/2020 19:21:03",
+      "updatedTime": "25/05/2020 19:31:04",
       "note": "- Cases updated as per WB bulletin.<br>\n- Deaths due to comorbidities added to total deceased<br>\n- Zones updated as per WB bulletin<br>",
       "stateCode": "WB",
       "today": {
@@ -481,17 +481,17 @@
     "UT": {
       "name": "Uttarakhand",
       "confirmed": 332,
-      "active": 270,
+      "active": 267,
       "recovered": 58,
-      "dead": 3,
-      "updatedTime": "25/05/2020 17:20:05",
-      "note": "One migrated case reduced from Active count",
+      "dead": 4,
+      "updatedTime": "25/05/2020 19:32:05",
+      "note": "Three migrated cases reduced from Active count",
       "stateCode": "UT",
       "today": {
         "confirmed": 15,
         "recovered": 0,
-        "dead": 0,
-        "active": 15
+        "dead": 1,
+        "active": 14
       },
       "testing_data": {
         "tested": 20969,
@@ -504,18 +504,18 @@
     },
     "CH": {
       "name": "Chandigarh",
-      "confirmed": 262,
-      "active": 79,
-      "recovered": 179,
+      "confirmed": 266,
+      "active": 75,
+      "recovered": 187,
       "dead": 4,
-      "updatedTime": "25/05/2020 10:27:04",
+      "updatedTime": "25/05/2020 19:32:06",
       "note": "",
       "stateCode": "CH",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 4,
+        "recovered": 8,
         "dead": 0,
-        "active": 0
+        "active": -4
       },
       "testing_data": {
         "tested": 3904,
@@ -528,18 +528,18 @@
     },
     "CT": {
       "name": "Chhattisgarh",
-      "confirmed": 252,
-      "active": 188,
+      "confirmed": 283,
+      "active": 219,
       "recovered": 64,
       "dead": 0,
       "updatedTime": "24/05/2020 23:33:07",
       "note": "",
       "stateCode": "CT",
       "today": {
-        "confirmed": 0,
+        "confirmed": 31,
         "recovered": 0,
         "dead": 0,
-        "active": 0
+        "active": 31
       },
       "testing_data": {
         "tested": 49763,
@@ -604,7 +604,7 @@
       "active": 48,
       "recovered": 19,
       "dead": 0,
-      "updatedTime": "25/05/2020 19:20:06",
+      "updatedTime": "25/05/2020 19:22:08",
       "note": "",
       "stateCode": "GA",
       "today": {
@@ -700,7 +700,7 @@
       "active": 32,
       "recovered": 4,
       "dead": 0,
-      "updatedTime": "25/05/2020 19:21:05",
+      "updatedTime": "25/05/2020 19:31:07",
       "note": "",
       "stateCode": "MN",
       "today": {
@@ -890,9 +890,9 @@
     "source": "https://t.me/Covid19india_Auxiliary_Test_Data/146"
   },
   "today": {
-    "confirmed": 2657,
-    "recovered": 1022,
-    "dead": 32,
-    "active": 1603
+    "confirmed": 2692,
+    "recovered": 1030,
+    "dead": 33,
+    "active": 1629
   }
 }
