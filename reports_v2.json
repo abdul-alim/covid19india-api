@@ -1,9 +1,9 @@
 {
-  "confirmed": 138840,
-  "recovered": 57692,
+  "confirmed": 138947,
+  "recovered": 57700,
   "dead": 4024,
-  "active": 77115,
-  "updatedTime": "25/05/2020 09:33:03",
+  "active": 77214,
+  "updatedTime": "25/05/2020 10:11:03",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -103,26 +103,26 @@
     },
     "RJ": {
       "name": "Rajasthan",
-      "confirmed": 7028,
-      "active": 3017,
-      "recovered": 3848,
+      "confirmed": 7100,
+      "active": 3081,
+      "recovered": 3856,
       "dead": 163,
-      "updatedTime": "24/05/2020 23:01:04",
+      "updatedTime": "25/05/2020 10:07:04",
       "note": "",
       "stateCode": "RJ",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 72,
+        "recovered": 8,
         "dead": 0,
-        "active": 0
+        "active": 64
       },
       "testing_data": {
-        "tested": 303935,
-        "positive": 6657,
-        "negative": 292384,
-        "unconfirmed": 4894,
-        "date": "23/05/2020",
-        "source": "https://t.me/indiacovid/5375"
+        "tested": 317067,
+        "positive": 7028,
+        "negative": 306209,
+        "unconfirmed": 3830,
+        "date": "24/05/2020",
+        "source": "https://twitter.com/ANI/status/1264590131454861312?s=19"
       }
     },
     "MP": {
@@ -221,6 +221,23 @@
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/143"
       }
     },
+    "UN": {
+      "name": "State Unassigned",
+      "confirmed": 2642,
+      "active": 2642,
+      "recovered": 0,
+      "dead": 0,
+      "updatedTime": "25/05/2020 09:33:04",
+      "note": "MoHFW website reports that these are the \"cases that are being reassigned to states\"",
+      "stateCode": "UN",
+      "today": {
+        "confirmed": 304,
+        "recovered": 0,
+        "dead": 0,
+        "active": 304
+      },
+      "isUnknown": true
+    },
     "BR": {
       "name": "Bihar",
       "confirmed": 2574,
@@ -245,22 +262,29 @@
         "source": "https://twitter.com/PIB_Patna/status/1264535576906211328"
       }
     },
-    "UN": {
-      "name": "State Unassigned",
-      "confirmed": 2642,
-      "active": 2642,
-      "recovered": 0,
-      "dead": 0,
-      "updatedTime": "25/05/2020 09:33:04",
-      "note": "MoHFW website reports that these are the \"cases that are being reassigned to states\"",
-      "stateCode": "UN",
+    "KA": {
+      "name": "Karnataka",
+      "confirmed": 2089,
+      "active": 1391,
+      "recovered": 654,
+      "dead": 42,
+      "updatedTime": "24/05/2020 18:23:05",
+      "note": "One active case in KA reduced as a confirmed patient died of non-CoViD19 related reasons",
+      "stateCode": "KA",
       "today": {
-        "confirmed": 304,
+        "confirmed": 0,
         "recovered": 0,
         "dead": 0,
-        "active": 304
+        "active": 0
       },
-      "isUnknown": true
+      "testing_data": {
+        "tested": 206313,
+        "positive": 2089,
+        "negative": 201978,
+        "unconfirmed": 0,
+        "date": "24/05/2020",
+        "source": "https://covid19.karnataka.gov.in/storage/pdf-files/Media-Bulletin/24.05.2020%20EMB%20English.pdf"
+      }
     },
     "PB": {
       "name": "Punjab",
@@ -284,30 +308,6 @@
         "unconfirmed": 3968,
         "date": "24/05/2020",
         "source": "http://pbhealth.gov.in/Media%20Bulletin%20COVID-19%2024-05-2020.pdf"
-      }
-    },
-    "KA": {
-      "name": "Karnataka",
-      "confirmed": 2089,
-      "active": 1391,
-      "recovered": 654,
-      "dead": 42,
-      "updatedTime": "24/05/2020 18:23:05",
-      "note": "One active case in KA reduced as a confirmed patient died of non-CoViD19 related reasons",
-      "stateCode": "KA",
-      "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
-      },
-      "testing_data": {
-        "tested": 206313,
-        "positive": 2089,
-        "negative": 201978,
-        "unconfirmed": 0,
-        "date": "24/05/2020",
-        "source": "https://covid19.karnataka.gov.in/storage/pdf-files/Media-Bulletin/24.05.2020%20EMB%20English.pdf"
       }
     },
     "TG": {
@@ -432,18 +432,18 @@
     },
     "AS": {
       "name": "Assam",
-      "confirmed": 393,
-      "active": 328,
+      "confirmed": 428,
+      "active": 363,
       "recovered": 58,
       "dead": 4,
-      "updatedTime": "24/05/2020 23:33:06",
+      "updatedTime": "25/05/2020 10:11:04",
       "note": "Includes one case from Nagaland <br>\nTotal of Three* patients who migrated to other states has been reduced from Active count",
       "stateCode": "AS",
       "today": {
-        "confirmed": 0,
+        "confirmed": 35,
         "recovered": 0,
         "dead": 0,
-        "active": 0
+        "active": 35
       },
       "testing_data": {
         "tested": 60405,
@@ -550,30 +550,6 @@
         "source": "http://cghealth.nic.in/cghealth17/Information/content/CORONA/MediaBulletinHindi_23052020.pdf"
       }
     },
-    "TR": {
-      "name": "Tripura",
-      "confirmed": 194,
-      "active": 29,
-      "recovered": 165,
-      "dead": 0,
-      "updatedTime": "24/05/2020 23:43:05",
-      "note": "Two cases are migrated out of Tripura.",
-      "stateCode": "TR",
-      "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
-      },
-      "testing_data": {
-        "tested": 18737,
-        "positive": 191,
-        "negative": 18546,
-        "unconfirmed": 0,
-        "date": "23/05/2020",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/126"
-      }
-    },
     "HP": {
       "name": "Himachal Pradesh",
       "confirmed": 203,
@@ -596,6 +572,30 @@
         "unconfirmed": 1115,
         "date": "24/05/2020",
         "source": "https://twitter.com/nhm_hp/status/1264531382505701376"
+      }
+    },
+    "TR": {
+      "name": "Tripura",
+      "confirmed": 194,
+      "active": 29,
+      "recovered": 165,
+      "dead": 0,
+      "updatedTime": "24/05/2020 23:43:05",
+      "note": "Two cases are migrated out of Tripura.",
+      "stateCode": "TR",
+      "today": {
+        "confirmed": 0,
+        "recovered": 0,
+        "dead": 0,
+        "active": 0
+      },
+      "testing_data": {
+        "tested": 18737,
+        "positive": 191,
+        "negative": 18546,
+        "unconfirmed": 0,
+        "date": "23/05/2020",
+        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/126"
       }
     },
     "GA": {
@@ -646,6 +646,30 @@
         "source": "https://twitter.com/ladags/status/1264478443887923203?s=19"
       }
     },
+    "PY": {
+      "name": "Puducherry",
+      "confirmed": 41,
+      "active": 29,
+      "recovered": 12,
+      "dead": 0,
+      "updatedTime": "24/05/2020 23:01:08",
+      "note": "",
+      "stateCode": "PY",
+      "today": {
+        "confirmed": 0,
+        "recovered": 0,
+        "dead": 0,
+        "active": 0
+      },
+      "testing_data": {
+        "tested": 6106,
+        "positive": 31,
+        "negative": 5995,
+        "unconfirmed": 80,
+        "date": "21/05/2020",
+        "source": "https://covid19dashboard.py.gov.in/LabTestReport"
+      }
+    },
     "AN": {
       "name": "Andaman and Nicobar",
       "confirmed": 33,
@@ -694,30 +718,6 @@
         "source": "http://nrhmmanipur.org/wp-content/uploads/2020/05/status_130520.jpg"
       }
     },
-    "PY": {
-      "name": "Puducherry",
-      "confirmed": 41,
-      "active": 29,
-      "recovered": 12,
-      "dead": 0,
-      "updatedTime": "24/05/2020 23:01:08",
-      "note": "",
-      "stateCode": "PY",
-      "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
-      },
-      "testing_data": {
-        "tested": 6106,
-        "positive": 31,
-        "negative": 5995,
-        "unconfirmed": 80,
-        "date": "21/05/2020",
-        "source": "https://covid19dashboard.py.gov.in/LabTestReport"
-      }
-    },
     "ML": {
       "name": "Meghalaya",
       "confirmed": 14,
@@ -759,6 +759,30 @@
       },
       "isUnknown": true
     },
+    "AR": {
+      "name": "Arunachal Pradesh",
+      "confirmed": 2,
+      "active": 1,
+      "recovered": 1,
+      "dead": 0,
+      "updatedTime": "24/05/2020 23:43:06",
+      "note": "",
+      "stateCode": "AR",
+      "today": {
+        "confirmed": 0,
+        "recovered": 0,
+        "dead": 0,
+        "active": 0
+      },
+      "testing_data": {
+        "tested": 5428,
+        "positive": 2,
+        "negative": 4552,
+        "unconfirmed": 873,
+        "date": "24/05/2020",
+        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/145"
+      }
+    },
     "MZ": {
       "name": "Mizoram",
       "confirmed": 1,
@@ -781,30 +805,6 @@
         "unconfirmed": 0,
         "date": "24/05/2020",
         "source": "https://dipr.mizoram.gov.in/post/status-of-state-surveillance-of-covid-19-time-2352020-500pm-2452020-500-pm"
-      }
-    },
-    "AR": {
-      "name": "Arunachal Pradesh",
-      "confirmed": 2,
-      "active": 1,
-      "recovered": 1,
-      "dead": 0,
-      "updatedTime": "24/05/2020 23:43:06",
-      "note": "",
-      "stateCode": "AR",
-      "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
-      },
-      "testing_data": {
-        "tested": 5206,
-        "positive": 2,
-        "negative": 4340,
-        "unconfirmed": 864,
-        "date": "23/05/2020",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/128"
       }
     },
     "SK": {
@@ -880,19 +880,19 @@
     }
   },
   "testing_data": {
-    "tested": 3280680,
-    "positive": 131745,
-    "negative": 2587547,
-    "unconfirmed": 25587
+    "tested": 3294034,
+    "positive": 132116,
+    "negative": 2601584,
+    "unconfirmed": 24532
   },
   "testing_data_imcr": {
     "tested": 2943421,
     "source": "https://t.me/Covid19india_Auxiliary_Test_Data/129"
   },
   "today": {
-    "confirmed": 304,
-    "recovered": 0,
+    "confirmed": 411,
+    "recovered": 8,
     "dead": 0,
-    "active": 304
+    "active": 403
   }
 }
