@@ -897,14 +897,14 @@
       {
         "district": "Jorhat",
         "notes": "",
-        "active": 9,
+        "active": 7,
         "confirmed": 11,
-        "recovered": 2,
+        "recovered": 4,
         "dead": 0,
         "today": {
           "confirmed": 1,
-          "recovered": 0,
-          "active": 1,
+          "recovered": 2,
+          "active": -1,
           "dead": 0
         }
       },
@@ -925,14 +925,14 @@
       {
         "district": "Kamrup Metropolitan",
         "notes": "",
-        "active": 151,
+        "active": 148,
         "confirmed": 161,
-        "recovered": 7,
+        "recovered": 10,
         "dead": 3,
         "today": {
           "confirmed": 0,
-          "recovered": 0,
-          "active": 0,
+          "recovered": 3,
+          "active": -3,
           "dead": 0
         }
       },
@@ -1149,14 +1149,14 @@
     ],
     "today": {
       "confirmed": 74,
-      "active": 74,
-      "recovered": 0,
+      "active": 69,
+      "recovered": 5,
       "dead": 0
     },
     "confirmed": 467,
-    "recovered": 58,
+    "recovered": 63,
     "dead": 4,
-    "active": 402
+    "active": 397
   },
   "BR": {
     "state": "Bihar",
