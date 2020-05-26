@@ -1,9 +1,9 @@
 {
   "confirmed": 146498,
-  "recovered": 61151,
+  "recovered": 61233,
   "dead": 4187,
-  "active": 81149,
-  "updatedTime": "26/05/2020 17:51:03",
+  "active": 81067,
+  "updatedTime": "26/05/2020 18:01:03",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -224,17 +224,17 @@
     "BR": {
       "name": "Bihar",
       "confirmed": 2870,
-      "active": 2124,
-      "recovered": 733,
+      "active": 2052,
+      "recovered": 805,
       "dead": 13,
-      "updatedTime": "26/05/2020 14:25:04",
+      "updatedTime": "26/05/2020 18:01:04",
       "note": "",
       "stateCode": "BR",
       "today": {
         "confirmed": 133,
-        "recovered": 0,
+        "recovered": 72,
         "dead": 0,
-        "active": 133
+        "active": 61
       },
       "testing_data": {
         "tested": 63741,
@@ -409,17 +409,17 @@
     "KL": {
       "name": "Kerala",
       "confirmed": 964,
-      "active": 426,
-      "recovered": 532,
+      "active": 416,
+      "recovered": 542,
       "dead": 6,
       "updatedTime": "26/05/2020 17:33:05",
       "note": "Mahe native who expired in Kannur included in Kerala's tally",
       "stateCode": "KL",
       "today": {
         "confirmed": 67,
-        "recovered": 0,
+        "recovered": 10,
         "dead": 0,
-        "active": 67
+        "active": 57
       },
       "testing_data": {
         "tested": 63009,
@@ -436,7 +436,7 @@
       "active": 528,
       "recovered": 63,
       "dead": 4,
-      "updatedTime": "26/05/2020 17:51:04",
+      "updatedTime": "26/05/2020 17:55:04",
       "note": "Includes one case from Nagaland <br>\nTotal of Three* patients who migrated to other states has been reduced from Active count",
       "stateCode": "AS",
       "today": {
@@ -556,7 +556,7 @@
       "active": 163,
       "recovered": 63,
       "dead": 4,
-      "updatedTime": "26/05/2020 17:51:05",
+      "updatedTime": "26/05/2020 17:55:05",
       "note": "HP has 4 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed",
       "stateCode": "HP",
       "today": {
@@ -734,12 +734,12 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 3682,
-        "positive": 14,
-        "negative": 0,
+        "tested": 6553,
+        "positive": 15,
+        "negative": 5599,
         "unconfirmed": 0,
-        "date": "22/05/2020",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/109"
+        "date": "26/05/2020",
+        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/166"
       }
     },
     "NL": {
@@ -880,9 +880,9 @@
     }
   },
   "testing_data": {
-    "tested": 3470253,
-    "positive": 142221,
-    "negative": 2747010,
+    "tested": 3474037,
+    "positive": 142222,
+    "negative": 2753522,
     "unconfirmed": 21930
   },
   "testing_data_imcr": {
@@ -891,8 +891,8 @@
   },
   "today": {
     "confirmed": 1548,
-    "recovered": 445,
+    "recovered": 527,
     "dead": 13,
-    "active": 1090
+    "active": 1008
   }
 }
