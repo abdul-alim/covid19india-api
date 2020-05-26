@@ -1,9 +1,9 @@
 {
-  "confirmed": 150739,
+  "confirmed": 150762,
   "recovered": 64272,
   "dead": 4344,
-  "active": 82112,
-  "updatedTime": "26/05/2020 22:14:03",
+  "active": 82135,
+  "updatedTime": "26/05/2020 23:11:03",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -69,12 +69,12 @@
         "active": -169
       },
       "testing_data": {
-        "tested": 186361,
-        "positive": 14468,
-        "negative": 171893,
+        "tested": 189313,
+        "positive": 14821,
+        "negative": 0,
         "unconfirmed": 0,
-        "date": "25/05/2020",
-        "source": "https://gujcovid19.gujarat.gov.in/uploads/pressbrief2505252020064620368.pdf"
+        "date": "26/05/2020",
+        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/175"
       }
     },
     "DL": {
@@ -432,22 +432,22 @@
     },
     "AS": {
       "name": "Assam",
-      "confirmed": 646,
-      "active": 576,
+      "confirmed": 669,
+      "active": 599,
       "recovered": 63,
       "dead": 4,
-      "updatedTime": "26/05/2020 22:43:05",
+      "updatedTime": "26/05/2020 23:11:05",
       "note": "Includes one case from Nagaland <br>\nTotal of Three* patients who migrated to other states has been reduced from Active count",
       "stateCode": "AS",
       "today": {
-        "confirmed": 97,
+        "confirmed": 120,
         "recovered": 0,
         "dead": 0,
-        "active": 97
+        "active": 120
       },
       "testing_data": {
         "tested": 72654,
-        "positive": 0,
+        "positive": 616,
         "negative": 66562,
         "unconfirmed": 0,
         "date": "26/05/2020",
@@ -518,12 +518,12 @@
         "active": 56
       },
       "testing_data": {
-        "tested": 55022,
-        "positive": 292,
-        "negative": 52598,
-        "unconfirmed": 2132,
-        "date": "24/05/2020",
-        "source": "https://t.me/indiacovid/5545"
+        "tested": 57479,
+        "positive": 360,
+        "negative": 55539,
+        "unconfirmed": 1580,
+        "date": "26/05/2020",
+        "source": "https://t.me/indiacovid/5610?single"
       }
     },
     "CH": {
@@ -580,7 +580,7 @@
       "active": 42,
       "recovered": 165,
       "dead": 0,
-      "updatedTime": "26/05/2020 22:43:07",
+      "updatedTime": "26/05/2020 22:44:06",
       "note": "Two cases are migrated out of Tripura.",
       "stateCode": "TR",
       "today": {
@@ -614,12 +614,12 @@
         "active": -9
       },
       "testing_data": {
-        "tested": 12860,
+        "tested": 13303,
         "positive": 67,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "25/05/2020",
-        "source": "https://twitter.com/DHS_Goa/status/1264911787305996288/photo/1"
+        "date": "26/05/2020",
+        "source": "https://twitter.com/DHS_Goa/status/1265286605561982976?s=19"
       }
     },
     "LA": {
@@ -880,19 +880,19 @@
     }
   },
   "testing_data": {
-    "tested": 3505843,
-    "positive": 142075,
-    "negative": 2772454,
-    "unconfirmed": 21845
+    "tested": 3511998,
+    "positive": 143112,
+    "negative": 2603805,
+    "unconfirmed": 21293
   },
   "testing_data_imcr": {
     "tested": 3126119,
     "source": "https://t.me/Covid19india_Auxiliary_Test_Data/160"
   },
   "today": {
-    "confirmed": 5789,
+    "confirmed": 5812,
     "recovered": 3566,
     "dead": 170,
-    "active": 2053
+    "active": 2076
   }
 }
