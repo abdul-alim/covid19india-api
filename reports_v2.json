@@ -1,9 +1,9 @@
 {
-  "confirmed": 147373,
-  "recovered": 62000,
-  "dead": 4202,
-  "active": 81160,
-  "updatedTime": "26/05/2020 19:34:03",
+  "confirmed": 147668,
+  "recovered": 62024,
+  "dead": 4203,
+  "active": 81430,
+  "updatedTime": "26/05/2020 20:11:46",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -104,17 +104,17 @@
     "RJ": {
       "name": "Rajasthan",
       "confirmed": 7476,
-      "active": 3144,
+      "active": 3143,
       "recovered": 4165,
-      "dead": 167,
-      "updatedTime": "26/05/2020 15:33:05",
+      "dead": 168,
+      "updatedTime": "26/05/2020 20:11:21",
       "note": "",
       "stateCode": "RJ",
       "today": {
         "confirmed": 176,
         "recovered": 109,
-        "dead": 0,
-        "active": 67
+        "dead": 1,
+        "active": 66
       },
       "testing_data": {
         "tested": 337159,
@@ -127,18 +127,18 @@
     },
     "MP": {
       "name": "Madhya Pradesh",
-      "confirmed": 6859,
-      "active": 2988,
+      "confirmed": 7024,
+      "active": 3153,
       "recovered": 3571,
       "dead": 300,
-      "updatedTime": "25/05/2020 22:43:04",
+      "updatedTime": "26/05/2020 20:11:47",
       "note": "",
       "stateCode": "MP",
       "today": {
-        "confirmed": 0,
+        "confirmed": 165,
         "recovered": 0,
         "dead": 0,
-        "active": 0
+        "active": 165
       },
       "testing_data": {
         "tested": 138584,
@@ -221,6 +221,23 @@
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/164"
       }
     },
+    "UN": {
+      "name": "State Unassigned",
+      "confirmed": 2970,
+      "active": 2970,
+      "recovered": 0,
+      "dead": 0,
+      "updatedTime": "26/05/2020 09:19:03",
+      "note": "MoHFW website reports that these are the \"cases that are being reassigned to states\"",
+      "stateCode": "UN",
+      "today": {
+        "confirmed": 328,
+        "recovered": 0,
+        "dead": 0,
+        "active": 328
+      },
+      "isUnknown": true
+    },
     "BR": {
       "name": "Bihar",
       "confirmed": 2870,
@@ -244,23 +261,6 @@
         "date": "24/05/2020",
         "source": "https://twitter.com/PIB_Patna/status/1264535576906211328"
       }
-    },
-    "UN": {
-      "name": "State Unassigned",
-      "confirmed": 2970,
-      "active": 2970,
-      "recovered": 0,
-      "dead": 0,
-      "updatedTime": "26/05/2020 09:19:03",
-      "note": "MoHFW website reports that these are the \"cases that are being reassigned to states\"",
-      "stateCode": "UN",
-      "today": {
-        "confirmed": 328,
-        "recovered": 0,
-        "dead": 0,
-        "active": 328
-      },
-      "isUnknown": true
     },
     "KA": {
       "name": "Karnataka",
@@ -336,18 +336,18 @@
     },
     "JK": {
       "name": "Jammu and Kashmir",
-      "confirmed": 1668,
-      "active": 836,
-      "recovered": 809,
+      "confirmed": 1759,
+      "active": 903,
+      "recovered": 833,
       "dead": 23,
-      "updatedTime": "25/05/2020 22:54:06",
+      "updatedTime": "26/05/2020 20:11:50",
       "note": "",
       "stateCode": "JK",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 91,
+        "recovered": 24,
         "dead": 0,
-        "active": 0
+        "active": 67
       },
       "testing_data": {
         "tested": 134188,
@@ -432,18 +432,18 @@
     },
     "AS": {
       "name": "Assam",
-      "confirmed": 598,
-      "active": 528,
+      "confirmed": 617,
+      "active": 547,
       "recovered": 63,
       "dead": 4,
-      "updatedTime": "26/05/2020 17:55:04",
+      "updatedTime": "26/05/2020 20:11:51",
       "note": "Includes one case from Nagaland <br>\nTotal of Three* patients who migrated to other states has been reduced from Active count",
       "stateCode": "AS",
       "today": {
-        "confirmed": 49,
+        "confirmed": 68,
         "recovered": 0,
         "dead": 0,
-        "active": 49
+        "active": 68
       },
       "testing_data": {
         "tested": 70029,
@@ -456,18 +456,18 @@
     },
     "JH": {
       "name": "Jharkhand",
-      "confirmed": 405,
-      "active": 253,
+      "confirmed": 416,
+      "active": 264,
       "recovered": 148,
       "dead": 4,
-      "updatedTime": "25/05/2020 23:43:07",
+      "updatedTime": "26/05/2020 20:11:53",
       "note": "",
       "stateCode": "JH",
       "today": {
-        "confirmed": 0,
+        "confirmed": 11,
         "recovered": 0,
         "dead": 0,
-        "active": 0
+        "active": 11
       },
       "testing_data": {
         "tested": 50709,
@@ -600,18 +600,18 @@
     },
     "GA": {
       "name": "Goa",
-      "confirmed": 67,
-      "active": 48,
+      "confirmed": 76,
+      "active": 57,
       "recovered": 19,
       "dead": 0,
-      "updatedTime": "25/05/2020 19:22:08",
+      "updatedTime": "26/05/2020 20:11:54",
       "note": "",
       "stateCode": "GA",
       "today": {
-        "confirmed": 0,
+        "confirmed": 9,
         "recovered": 0,
         "dead": 0,
-        "active": 0
+        "active": 9
       },
       "testing_data": {
         "tested": 12860,
@@ -890,9 +890,9 @@
     "source": "https://t.me/Covid19india_Auxiliary_Test_Data/160"
   },
   "today": {
-    "confirmed": 2423,
-    "recovered": 1294,
-    "dead": 28,
-    "active": 1101
+    "confirmed": 2718,
+    "recovered": 1318,
+    "dead": 29,
+    "active": 1371
   }
 }
