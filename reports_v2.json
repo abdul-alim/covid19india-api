@@ -1,9 +1,9 @@
 {
-  "confirmed": 150614,
-  "recovered": 63811,
+  "confirmed": 150739,
+  "recovered": 64272,
   "dead": 4344,
-  "active": 82448,
-  "updatedTime": "26/05/2020 21:51:02",
+  "active": 82112,
+  "updatedTime": "26/05/2020 22:02:03",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -11,7 +11,7 @@
       "active": 36012,
       "recovered": 16954,
       "dead": 1792,
-      "updatedTime": "26/05/2020 21:51:04",
+      "updatedTime": "26/05/2020 22:02:04",
       "note": "",
       "stateCode": "MH",
       "today": {
@@ -56,17 +56,17 @@
     "GJ": {
       "name": "Gujarat",
       "confirmed": 14829,
-      "active": 7236,
-      "recovered": 6678,
+      "active": 6775,
+      "recovered": 7139,
       "dead": 915,
-      "updatedTime": "26/05/2020 21:13:05",
+      "updatedTime": "26/05/2020 22:02:05",
       "note": "",
       "stateCode": "GJ",
       "today": {
         "confirmed": 361,
-        "recovered": 42,
+        "recovered": 503,
         "dead": 27,
-        "active": 292
+        "active": -169
       },
       "testing_data": {
         "tested": 186361,
@@ -240,18 +240,18 @@
     },
     "BR": {
       "name": "Bihar",
-      "confirmed": 2870,
-      "active": 2056,
+      "confirmed": 2968,
+      "active": 2154,
       "recovered": 800,
       "dead": 14,
-      "updatedTime": "26/05/2020 18:31:04",
+      "updatedTime": "26/05/2020 22:02:07",
       "note": "",
       "stateCode": "BR",
       "today": {
-        "confirmed": 133,
+        "confirmed": 231,
         "recovered": 67,
         "dead": 1,
-        "active": 65
+        "active": 163
       },
       "testing_data": {
         "tested": 63741,
@@ -432,18 +432,18 @@
     },
     "AS": {
       "name": "Assam",
-      "confirmed": 617,
-      "active": 547,
+      "confirmed": 644,
+      "active": 574,
       "recovered": 63,
       "dead": 4,
-      "updatedTime": "26/05/2020 20:22:11",
+      "updatedTime": "26/05/2020 22:02:09",
       "note": "Includes one case from Nagaland <br>\nTotal of Three* patients who migrated to other states has been reduced from Active count",
       "stateCode": "AS",
       "today": {
-        "confirmed": 68,
+        "confirmed": 95,
         "recovered": 0,
         "dead": 0,
-        "active": 68
+        "active": 95
       },
       "testing_data": {
         "tested": 70029,
@@ -556,7 +556,7 @@
       "active": 177,
       "recovered": 63,
       "dead": 4,
-      "updatedTime": "26/05/2020 21:51:07",
+      "updatedTime": "26/05/2020 22:02:11",
       "note": "HP has 4 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed",
       "stateCode": "HP",
       "today": {
@@ -890,9 +890,9 @@
     "source": "https://t.me/Covid19india_Auxiliary_Test_Data/160"
   },
   "today": {
-    "confirmed": 5664,
-    "recovered": 3105,
+    "confirmed": 5789,
+    "recovered": 3566,
     "dead": 170,
-    "active": 2389
+    "active": 2053
   }
 }
