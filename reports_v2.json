@@ -1,9 +1,9 @@
 {
-  "confirmed": 154181,
-  "recovered": 65394,
+  "confirmed": 154186,
+  "recovered": 65419,
   "dead": 4375,
-  "active": 84401,
-  "updatedTime": "27/05/2020 19:12:03",
+  "active": 84381,
+  "updatedTime": "27/05/2020 19:22:03",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -35,8 +35,8 @@
       "active": 8500,
       "recovered": 9909,
       "dead": 136,
-      "updatedTime": "27/05/2020 19:12:04",
-      "note": "",
+      "updatedTime": "27/05/2020 19:22:04",
+      "note": "2 deaths cross notified to other states from Chennai and Coimbatore. 1 patient died after turning negative for infection in Chengalpattu",
       "stateCode": "TN",
       "today": {
         "confirmed": 817,
@@ -423,27 +423,27 @@
       },
       "testing_data": {
         "tested": 67961,
-        "positive": 0,
-        "negative": 0,
-        "unconfirmed": 0,
+        "positive": 1004,
+        "negative": 65099,
+        "unconfirmed": 1858,
         "date": "27/05/2020",
-        "source": ""
+        "source": "https://dhs.kerala.gov.in/wp-content/uploads/2020/05/Daily-Bulletin-HFWD-English-May-27.pdf"
       }
     },
     "AS": {
       "name": "Assam",
       "confirmed": 775,
-      "active": 705,
-      "recovered": 63,
+      "active": 680,
+      "recovered": 88,
       "dead": 4,
-      "updatedTime": "27/05/2020 18:53:06",
+      "updatedTime": "27/05/2020 19:21:06",
       "note": "Includes one case from Nagaland <br>\nTotal of Three* patients who migrated to other states has been reduced from Active count",
       "stateCode": "AS",
       "today": {
         "confirmed": 92,
-        "recovered": 0,
+        "recovered": 25,
         "dead": 0,
-        "active": 92
+        "active": 67
       },
       "testing_data": {
         "tested": 72654,
@@ -672,18 +672,18 @@
     },
     "MN": {
       "name": "Manipur",
-      "confirmed": 39,
-      "active": 35,
+      "confirmed": 44,
+      "active": 40,
       "recovered": 4,
       "dead": 0,
       "updatedTime": "26/05/2020 13:23:05",
       "note": "",
       "stateCode": "MN",
       "today": {
-        "confirmed": 0,
+        "confirmed": 5,
         "recovered": 0,
         "dead": 0,
-        "active": 0
+        "active": 5
       },
       "testing_data": {
         "tested": 6233,
@@ -847,12 +847,12 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 2255,
+        "tested": 2417,
         "positive": 1,
-        "negative": 1508,
-        "unconfirmed": 746,
-        "date": "26/05/2020",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/167"
+        "negative": 1665,
+        "unconfirmed": 751,
+        "date": "27/05/2020",
+        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/182"
       }
     },
     "LD": {
@@ -880,19 +880,19 @@
     }
   },
   "testing_data": {
-    "tested": 3627018,
-    "positive": 148201,
-    "negative": 2629145,
-    "unconfirmed": 23942
+    "tested": 3627180,
+    "positive": 149205,
+    "negative": 2694401,
+    "unconfirmed": 25805
   },
   "testing_data_imcr": {
     "tested": 3242160,
     "source": "https://t.me/Covid19india_Auxiliary_Test_Data/177"
   },
   "today": {
-    "confirmed": 3365,
-    "recovered": 1117,
+    "confirmed": 3370,
+    "recovered": 1142,
     "dead": 29,
-    "active": 2219
+    "active": 2199
   }
 }
