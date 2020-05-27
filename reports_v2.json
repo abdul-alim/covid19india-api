@@ -1,24 +1,24 @@
 {
-  "confirmed": 154818,
-  "recovered": 65534,
-  "dead": 4383,
-  "active": 84890,
-  "updatedTime": "27/05/2020 20:22:03",
+  "confirmed": 157449,
+  "recovered": 66203,
+  "dead": 4417,
+  "active": 86818,
+  "updatedTime": "27/05/2020 20:54:03",
   "states": {
     "MH": {
       "name": "Maharashtra",
-      "confirmed": 54758,
-      "active": 36012,
+      "confirmed": 56948,
+      "active": 38202,
       "recovered": 16954,
       "dead": 1792,
       "updatedTime": "26/05/2020 23:14:04",
       "note": "",
       "stateCode": "MH",
       "today": {
-        "confirmed": 0,
+        "confirmed": 2190,
         "recovered": 0,
         "dead": 0,
-        "active": 0
+        "active": 2190
       },
       "testing_data": {
         "tested": 405020,
@@ -55,22 +55,22 @@
     },
     "GJ": {
       "name": "Gujarat",
-      "confirmed": 15203,
-      "active": 7149,
-      "recovered": 7139,
-      "dead": 915,
-      "updatedTime": "27/05/2020 20:22:04",
+      "confirmed": 15205,
+      "active": 6718,
+      "recovered": 7549,
+      "dead": 938,
+      "updatedTime": "27/05/2020 20:44:04",
       "note": "",
       "stateCode": "GJ",
       "today": {
-        "confirmed": 374,
-        "recovered": 0,
-        "dead": 0,
-        "active": 374
+        "confirmed": 376,
+        "recovered": 410,
+        "dead": 23,
+        "active": -57
       },
       "testing_data": {
         "tested": 193863,
-        "positive": 0,
+        "positive": 15203,
         "negative": 0,
         "unconfirmed": 0,
         "date": "27/05/2020",
@@ -127,18 +127,18 @@
     },
     "MP": {
       "name": "Madhya Pradesh",
-      "confirmed": 7024,
-      "active": 3030,
-      "recovered": 3689,
-      "dead": 305,
-      "updatedTime": "26/05/2020 20:34:11",
+      "confirmed": 7261,
+      "active": 3021,
+      "recovered": 3927,
+      "dead": 313,
+      "updatedTime": "27/05/2020 20:54:09",
       "note": "",
       "stateCode": "MP",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 237,
+        "recovered": 238,
+        "dead": 8,
+        "active": -9
       },
       "testing_data": {
         "tested": 141508,
@@ -288,18 +288,18 @@
     },
     "PB": {
       "name": "Punjab",
-      "confirmed": 2106,
-      "active": 148,
+      "confirmed": 2139,
+      "active": 181,
       "recovered": 1918,
       "dead": 40,
-      "updatedTime": "26/05/2020 19:24:36",
+      "updatedTime": "27/05/2020 20:54:10",
       "note": "Cases in Punjab were effectively reduced as some cases were added to 'central pool' as per the bulletin",
       "stateCode": "PB",
       "today": {
-        "confirmed": 0,
+        "confirmed": 33,
         "recovered": 0,
         "dead": 0,
-        "active": 0
+        "active": 33
       },
       "testing_data": {
         "tested": 69818,
@@ -336,18 +336,18 @@
     },
     "JK": {
       "name": "Jammu and Kashmir",
-      "confirmed": 1759,
-      "active": 902,
-      "recovered": 833,
-      "dead": 24,
-      "updatedTime": "26/05/2020 20:34:17",
+      "confirmed": 1921,
+      "active": 1041,
+      "recovered": 854,
+      "dead": 26,
+      "updatedTime": "27/05/2020 20:54:12",
       "note": "",
       "stateCode": "JK",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 162,
+        "recovered": 21,
+        "dead": 2,
+        "active": 139
       },
       "testing_data": {
         "tested": 140962,
@@ -409,10 +409,10 @@
     "KL": {
       "name": "Kerala",
       "confirmed": 1004,
-      "active": 446,
+      "active": 445,
       "recovered": 552,
-      "dead": 6,
-      "updatedTime": "27/05/2020 17:54:05",
+      "dead": 7,
+      "updatedTime": "27/05/2020 20:54:13",
       "note": "Mahe native who expired in Kannur included in Kerala's tally",
       "stateCode": "KL",
       "today": {
@@ -456,18 +456,18 @@
     },
     "JH": {
       "name": "Jharkhand",
-      "confirmed": 426,
-      "active": 269,
+      "confirmed": 433,
+      "active": 276,
       "recovered": 153,
       "dead": 4,
-      "updatedTime": "27/05/2020 00:21:05",
+      "updatedTime": "27/05/2020 20:54:15",
       "note": "",
       "stateCode": "JH",
       "today": {
-        "confirmed": 0,
+        "confirmed": 7,
         "recovered": 0,
         "dead": 0,
-        "active": 0
+        "active": 7
       },
       "testing_data": {
         "tested": 53309,
@@ -604,7 +604,7 @@
       "active": 31,
       "recovered": 37,
       "dead": 0,
-      "updatedTime": "27/05/2020 20:22:09",
+      "updatedTime": "27/05/2020 20:34:08",
       "note": "",
       "stateCode": "GA",
       "today": {
@@ -758,12 +758,12 @@
         "active": 5
       },
       "testing_data": {
-        "tested": 1366,
-        "positive": 4,
-        "negative": 1080,
-        "unconfirmed": 282,
-        "date": "26/05/2020",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/171?single"
+        "tested": 1554,
+        "positive": 9,
+        "negative": 1225,
+        "unconfirmed": 320,
+        "date": "27/05/2020",
+        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/184"
       }
     },
     "DN": {
@@ -880,19 +880,19 @@
     }
   },
   "testing_data": {
-    "tested": 3640966,
-    "positive": 134567,
-    "negative": 2694401,
-    "unconfirmed": 25805
+    "tested": 3641154,
+    "positive": 149775,
+    "negative": 2694546,
+    "unconfirmed": 25843
   },
   "testing_data_imcr": {
     "tested": 3242160,
     "source": "https://t.me/Covid19india_Auxiliary_Test_Data/177"
   },
   "today": {
-    "confirmed": 4002,
-    "recovered": 1257,
-    "dead": 37,
-    "active": 2708
+    "confirmed": 6633,
+    "recovered": 1926,
+    "dead": 70,
+    "active": 4637
   }
 }
