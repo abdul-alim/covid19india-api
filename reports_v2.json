@@ -1,9 +1,9 @@
 {
-  "confirmed": 157453,
-  "recovered": 67167,
-  "dead": 4522,
-  "active": 85753,
-  "updatedTime": "27/05/2020 21:09:03",
+  "confirmed": 157484,
+  "recovered": 67285,
+  "dead": 4523,
+  "active": 85665,
+  "updatedTime": "27/05/2020 21:22:03",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -11,7 +11,7 @@
       "active": 37133,
       "recovered": 17918,
       "dead": 1897,
-      "updatedTime": "27/05/2020 21:09:04",
+      "updatedTime": "27/05/2020 21:13:05",
       "note": "",
       "stateCode": "MH",
       "today": {
@@ -241,17 +241,17 @@
     "BR": {
       "name": "Bihar",
       "confirmed": 3010,
-      "active": 2196,
-      "recovered": 800,
-      "dead": 14,
-      "updatedTime": "27/05/2020 17:28:05",
+      "active": 2077,
+      "recovered": 918,
+      "dead": 15,
+      "updatedTime": "27/05/2020 21:22:04",
       "note": "",
       "stateCode": "BR",
       "today": {
         "confirmed": 42,
-        "recovered": 0,
-        "dead": 0,
-        "active": 42
+        "recovered": 118,
+        "dead": 1,
+        "active": -77
       },
       "testing_data": {
         "tested": 68262,
@@ -480,18 +480,18 @@
     },
     "UT": {
       "name": "Uttarakhand",
-      "confirmed": 438,
-      "active": 352,
+      "confirmed": 469,
+      "active": 383,
       "recovered": 79,
       "dead": 4,
-      "updatedTime": "27/05/2020 15:14:08",
+      "updatedTime": "27/05/2020 21:22:07",
       "note": "Three migrated cases reduced from Active count",
       "stateCode": "UT",
       "today": {
-        "confirmed": 38,
+        "confirmed": 69,
         "recovered": 15,
         "dead": 0,
-        "active": 23
+        "active": 54
       },
       "testing_data": {
         "tested": 23975,
@@ -890,9 +890,9 @@
     "source": "https://t.me/Covid19india_Auxiliary_Test_Data/177"
   },
   "today": {
-    "confirmed": 6637,
-    "recovered": 2890,
-    "dead": 175,
-    "active": 3572
+    "confirmed": 6668,
+    "recovered": 3008,
+    "dead": 176,
+    "active": 3484
   }
 }
