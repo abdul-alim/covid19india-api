@@ -1,9 +1,9 @@
 {
-  "confirmed": 154186,
-  "recovered": 65419,
-  "dead": 4375,
-  "active": 84381,
-  "updatedTime": "27/05/2020 19:22:03",
+  "confirmed": 154369,
+  "recovered": 65511,
+  "dead": 4381,
+  "active": 84466,
+  "updatedTime": "27/05/2020 19:33:03",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -35,7 +35,7 @@
       "active": 8500,
       "recovered": 9909,
       "dead": 136,
-      "updatedTime": "27/05/2020 19:22:04",
+      "updatedTime": "27/05/2020 19:23:04",
       "note": "2 deaths cross notified to other states from Chennai and Coimbatore. 1 patient died after turning negative for infection in Chengalpattu",
       "stateCode": "TN",
       "today": {
@@ -175,26 +175,26 @@
     },
     "WB": {
       "name": "West Bengal",
-      "confirmed": 4009,
-      "active": 2240,
-      "recovered": 1486,
-      "dead": 283,
-      "updatedTime": "26/05/2020 19:34:05",
+      "confirmed": 4192,
+      "active": 2325,
+      "recovered": 1578,
+      "dead": 289,
+      "updatedTime": "27/05/2020 19:33:04",
       "note": "- Cases updated as per WB bulletin.<br>\n- Deaths due to comorbidities added to total deceased<br>\n- Zones updated as per WB bulletin<br>",
       "stateCode": "WB",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 183,
+        "recovered": 92,
+        "dead": 6,
+        "active": 85
       },
       "testing_data": {
-        "tested": 157277,
-        "positive": 4009,
+        "tested": 166513,
+        "positive": 4192,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "26/05/2020",
-        "source": "https://www.wbhealth.gov.in/uploaded_files/corona/WB_DHFW_Bulletin_26th_MAY_REPORT_FINAL.pdf"
+        "date": "27/05/2020",
+        "source": "https://www.wbhealth.gov.in/uploaded_files/corona/WB_DHFW_Bulletin_27th_MAY_REPORT_FINAL.pdf"
       }
     },
     "AP": {
@@ -436,7 +436,7 @@
       "active": 680,
       "recovered": 88,
       "dead": 4,
-      "updatedTime": "27/05/2020 19:21:06",
+      "updatedTime": "27/05/2020 19:33:06",
       "note": "Includes one case from Nagaland <br>\nTotal of Three* patients who migrated to other states has been reduced from Active count",
       "stateCode": "AS",
       "today": {
@@ -676,7 +676,7 @@
       "active": 40,
       "recovered": 4,
       "dead": 0,
-      "updatedTime": "26/05/2020 13:23:05",
+      "updatedTime": "27/05/2020 19:33:08",
       "note": "",
       "stateCode": "MN",
       "today": {
@@ -880,8 +880,8 @@
     }
   },
   "testing_data": {
-    "tested": 3627180,
-    "positive": 149205,
+    "tested": 3636416,
+    "positive": 149388,
     "negative": 2694401,
     "unconfirmed": 25805
   },
@@ -890,9 +890,9 @@
     "source": "https://t.me/Covid19india_Auxiliary_Test_Data/177"
   },
   "today": {
-    "confirmed": 3370,
-    "recovered": 1142,
-    "dead": 29,
-    "active": 2199
+    "confirmed": 3553,
+    "recovered": 1234,
+    "dead": 35,
+    "active": 2284
   }
 }
