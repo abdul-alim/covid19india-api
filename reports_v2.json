@@ -1,9 +1,9 @@
 {
-  "confirmed": 158052,
-  "recovered": 67711,
+  "confirmed": 158077,
+  "recovered": 67749,
   "dead": 4534,
-  "active": 85796,
-  "updatedTime": "27/05/2020 23:22:03",
+  "active": 85783,
+  "updatedTime": "27/05/2020 23:32:04",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -53,30 +53,6 @@
         "source": "https://stopcorona.tn.gov.in/wp-content/uploads/2020/03/Media-Bulletin-27-05-20-COVID-19-6-PM.pdf"
       }
     },
-    "GJ": {
-      "name": "Gujarat",
-      "confirmed": 15205,
-      "active": 6718,
-      "recovered": 7549,
-      "dead": 938,
-      "updatedTime": "27/05/2020 20:44:04",
-      "note": "",
-      "stateCode": "GJ",
-      "today": {
-        "confirmed": 376,
-        "recovered": 410,
-        "dead": 23,
-        "active": -57
-      },
-      "testing_data": {
-        "tested": 193863,
-        "positive": 15203,
-        "negative": 0,
-        "unconfirmed": 0,
-        "date": "27/05/2020",
-        "source": ""
-      }
-    },
     "DL": {
       "name": "Delhi",
       "confirmed": 15257,
@@ -99,6 +75,30 @@
         "unconfirmed": 0,
         "date": "27/05/2020",
         "source": "https://delhifightscorona.in/wp-content/uploads/2020/05/05-27.pdf"
+      }
+    },
+    "GJ": {
+      "name": "Gujarat",
+      "confirmed": 15205,
+      "active": 6718,
+      "recovered": 7549,
+      "dead": 938,
+      "updatedTime": "27/05/2020 20:44:04",
+      "note": "",
+      "stateCode": "GJ",
+      "today": {
+        "confirmed": 376,
+        "recovered": 410,
+        "dead": 23,
+        "active": -57
+      },
+      "testing_data": {
+        "tested": 193863,
+        "positive": 15203,
+        "negative": 0,
+        "unconfirmed": 0,
+        "date": "27/05/2020",
+        "source": ""
       }
     },
     "RJ": {
@@ -166,11 +166,11 @@
       },
       "testing_data": {
         "tested": 240588,
-        "positive": 6724,
-        "negative": 232290,
-        "unconfirmed": 1574,
-        "date": "26/05/2020",
-        "source": "https://t.me/indiacovid/5608?single"
+        "positive": 6991,
+        "negative": 239592,
+        "unconfirmed": 0,
+        "date": "27/05/2020",
+        "source": "https://t.me/indiacovid/5682?single"
       }
     },
     "WB": {
@@ -197,6 +197,23 @@
         "source": "https://www.wbhealth.gov.in/uploaded_files/corona/WB_DHFW_Bulletin_27th_MAY_REPORT_FINAL.pdf"
       }
     },
+    "UN": {
+      "name": "State Unassigned",
+      "confirmed": 4013,
+      "active": 4013,
+      "recovered": 0,
+      "dead": 0,
+      "updatedTime": "27/05/2020 09:19:04",
+      "note": "MoHFW website reports that these are the \"cases that are being reassigned to states\"",
+      "stateCode": "UN",
+      "today": {
+        "confirmed": 1043,
+        "recovered": 0,
+        "dead": 0,
+        "active": 1043
+      },
+      "isUnknown": true
+    },
     "AP": {
       "name": "Andhra Pradesh",
       "confirmed": 3117,
@@ -220,23 +237,6 @@
         "date": "27/05/2020",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/180"
       }
-    },
-    "UN": {
-      "name": "State Unassigned",
-      "confirmed": 4013,
-      "active": 4013,
-      "recovered": 0,
-      "dead": 0,
-      "updatedTime": "27/05/2020 09:19:04",
-      "note": "MoHFW website reports that these are the \"cases that are being reassigned to states\"",
-      "stateCode": "UN",
-      "today": {
-        "confirmed": 1043,
-        "recovered": 0,
-        "dead": 0,
-        "active": 1043
-      },
-      "isUnknown": true
     },
     "BR": {
       "name": "Bihar",
@@ -454,30 +454,6 @@
         "source": "https://twitter.com/nhm_assam/status/1265318571728666626?s=19"
       }
     },
-    "JH": {
-      "name": "Jharkhand",
-      "confirmed": 433,
-      "active": 276,
-      "recovered": 153,
-      "dead": 4,
-      "updatedTime": "27/05/2020 20:56:11",
-      "note": "",
-      "stateCode": "JH",
-      "today": {
-        "confirmed": 7,
-        "recovered": 0,
-        "dead": 0,
-        "active": 7
-      },
-      "testing_data": {
-        "tested": 53309,
-        "positive": 426,
-        "negative": 52883,
-        "unconfirmed": 0,
-        "date": "26/05/2020",
-        "source": "https://twitter.com/RobRanchi/status/1265319397096173568?s=19"
-      }
-    },
     "UT": {
       "name": "Uttarakhand",
       "confirmed": 469,
@@ -500,6 +476,30 @@
         "unconfirmed": 3939,
         "date": "27/05/2020",
         "source": "https://t.me/indiacovid/5629"
+      }
+    },
+    "JH": {
+      "name": "Jharkhand",
+      "confirmed": 458,
+      "active": 263,
+      "recovered": 191,
+      "dead": 4,
+      "updatedTime": "27/05/2020 23:32:06",
+      "note": "",
+      "stateCode": "JH",
+      "today": {
+        "confirmed": 32,
+        "recovered": 38,
+        "dead": 0,
+        "active": -6
+      },
+      "testing_data": {
+        "tested": 53309,
+        "positive": 426,
+        "negative": 52883,
+        "unconfirmed": 0,
+        "date": "26/05/2020",
+        "source": "https://twitter.com/RobRanchi/status/1265319397096173568?s=19"
       }
     },
     "CT": {
@@ -566,12 +566,12 @@
         "active": 21
       },
       "testing_data": {
-        "tested": 30864,
-        "positive": 251,
-        "negative": 29357,
-        "unconfirmed": 1256,
+        "tested": 30852,
+        "positive": 273,
+        "negative": 30019,
+        "unconfirmed": 560,
         "date": "27/05/2020",
-        "source": "https://twitter.com/nhm_hp/status/1265618085052125184?s=19"
+        "source": "https://twitter.com/nhm_hp/status/1265682860469559297?s=19"
       }
     },
     "TR": {
@@ -880,19 +880,19 @@
     }
   },
   "testing_data": {
-    "tested": 3642369,
-    "positive": 149798,
-    "negative": 2695738,
-    "unconfirmed": 25843
+    "tested": 3642357,
+    "positive": 150087,
+    "negative": 2703702,
+    "unconfirmed": 23573
   },
   "testing_data_imcr": {
     "tested": 3242160,
     "source": "https://t.me/Covid19india_Auxiliary_Test_Data/177"
   },
   "today": {
-    "confirmed": 7236,
-    "recovered": 3434,
+    "confirmed": 7261,
+    "recovered": 3472,
     "dead": 187,
-    "active": 3615
+    "active": 3602
   }
 }
