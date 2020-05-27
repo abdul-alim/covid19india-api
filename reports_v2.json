@@ -1,9 +1,9 @@
 {
-  "confirmed": 153237,
-  "recovered": 64733,
+  "confirmed": 153247,
+  "recovered": 64812,
   "dead": 4365,
-  "active": 84128,
-  "updatedTime": "27/05/2020 16:35:03",
+  "active": 84059,
+  "updatedTime": "27/05/2020 17:33:03",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -244,7 +244,7 @@
       "active": 2192,
       "recovered": 800,
       "dead": 14,
-      "updatedTime": "27/05/2020 15:14:05",
+      "updatedTime": "27/05/2020 17:28:05",
       "note": "",
       "stateCode": "BR",
       "today": {
@@ -361,17 +361,17 @@
     "OR": {
       "name": "Odisha",
       "confirmed": 1593,
-      "active": 853,
-      "recovered": 733,
+      "active": 774,
+      "recovered": 812,
       "dead": 7,
-      "updatedTime": "27/05/2020 13:53:04",
+      "updatedTime": "27/05/2020 17:33:05",
       "note": "",
       "stateCode": "OR",
       "today": {
         "confirmed": 76,
-        "recovered": 0,
+        "recovered": 79,
         "dead": 0,
-        "active": 76
+        "active": -3
       },
       "testing_data": {
         "tested": 136274,
@@ -432,18 +432,18 @@
     },
     "AS": {
       "name": "Assam",
-      "confirmed": 705,
-      "active": 635,
+      "confirmed": 715,
+      "active": 645,
       "recovered": 63,
       "dead": 4,
-      "updatedTime": "27/05/2020 15:14:07",
+      "updatedTime": "27/05/2020 17:33:06",
       "note": "Includes one case from Nagaland <br>\nTotal of Three* patients who migrated to other states has been reduced from Active count",
       "stateCode": "AS",
       "today": {
-        "confirmed": 22,
+        "confirmed": 32,
         "recovered": 0,
         "dead": 0,
-        "active": 22
+        "active": 32
       },
       "testing_data": {
         "tested": 72654,
@@ -890,9 +890,9 @@
     "source": "https://t.me/Covid19india_Auxiliary_Test_Data/177"
   },
   "today": {
-    "confirmed": 2421,
-    "recovered": 456,
+    "confirmed": 2431,
+    "recovered": 535,
     "dead": 21,
-    "active": 1944
+    "active": 1875
   }
 }
