@@ -1,9 +1,9 @@
 {
-  "confirmed": 160310,
-  "recovered": 68713,
-  "dead": 4560,
-  "active": 87026,
-  "updatedTime": "28/05/2020 19:32:54",
+  "confirmed": 160502,
+  "recovered": 68836,
+  "dead": 4568,
+  "active": 87087,
+  "updatedTime": "28/05/2020 19:50:03",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -127,26 +127,26 @@
     },
     "MP": {
       "name": "Madhya Pradesh",
-      "confirmed": 7261,
-      "active": 3021,
-      "recovered": 3927,
-      "dead": 313,
-      "updatedTime": "27/05/2020 21:03:06",
+      "confirmed": 7453,
+      "active": 3082,
+      "recovered": 4050,
+      "dead": 321,
+      "updatedTime": "28/05/2020 19:50:04",
       "note": "",
       "stateCode": "MP",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 192,
+        "recovered": 123,
+        "dead": 8,
+        "active": 61
       },
       "testing_data": {
-        "tested": 146144,
-        "positive": 7261,
-        "negative": 134774,
+        "tested": 151182,
+        "positive": 7453,
+        "negative": 138387,
         "unconfirmed": 0,
-        "date": "27/05/2020",
-        "source": "https://twitter.com/healthminmp/status/1265660460617080832?s=19"
+        "date": "28/05/2020",
+        "source": ""
       }
     },
     "UP": {
@@ -179,7 +179,7 @@
       "active": 2573,
       "recovered": 1668,
       "dead": 295,
-      "updatedTime": "28/05/2020 19:32:59",
+      "updatedTime": "28/05/2020 19:35:04",
       "note": "- Cases updated as per WB bulletin.<br>\n- Deaths due to comorbidities added to total deceased<br>\n- Zones updated as per WB bulletin<br>",
       "stateCode": "WB",
       "today": {
@@ -686,12 +686,12 @@
         "active": 11
       },
       "testing_data": {
-        "tested": 6836,
-        "positive": 44,
+        "tested": 7758,
+        "positive": 55,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "27/05/2020",
-        "source": "https://t.me/indiacovid/5652"
+        "date": "28/05/2020",
+        "source": "https://twitter.com/DiprManipur/status/1266005531430248448"
       }
     },
     "AN": {
@@ -880,9 +880,9 @@
     }
   },
   "testing_data": {
-    "tested": 3700733,
-    "positive": 153526,
-    "negative": 2742220,
+    "tested": 3706693,
+    "positive": 153729,
+    "negative": 2745833,
     "unconfirmed": 24892
   },
   "testing_data_imcr": {
@@ -890,9 +890,9 @@
     "source": "https://t.me/Covid19india_Auxiliary_Test_Data/194"
   },
   "today": {
-    "confirmed": 2223,
-    "recovered": 964,
-    "dead": 26,
-    "active": 1233
+    "confirmed": 2415,
+    "recovered": 1087,
+    "dead": 34,
+    "active": 1294
   }
 }
