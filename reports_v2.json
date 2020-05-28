@@ -1,9 +1,9 @@
 {
-  "confirmed": 163120,
-  "recovered": 69534,
-  "dead": 4653,
-  "active": 88922,
-  "updatedTime": "28/05/2020 20:12:03",
+  "confirmed": 163242,
+  "recovered": 69555,
+  "dead": 4654,
+  "active": 89022,
+  "updatedTime": "28/05/2020 20:33:03",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -11,7 +11,7 @@
       "active": 38948,
       "recovered": 18616,
       "dead": 1982,
-      "updatedTime": "28/05/2020 20:12:04",
+      "updatedTime": "28/05/2020 20:24:07",
       "note": "",
       "stateCode": "MH",
       "today": {
@@ -45,12 +45,11 @@
         "active": 176
       },
       "testing_data": {
-        "tested": 455216,
-        "positive": 19372,
-        "negative": 435279,
-        "unconfirmed": 565,
-        "date": "28/05/2020",
-        "source": "https://stopcorona.tn.gov.in/wp-content/uploads/2020/03/Media-Bulletin-28-05-20-COVID-19-6-PM-final.pdf"
+        "tested": 0,
+        "positive": 0,
+        "negative": 0,
+        "unconfirmed": 0,
+        "updated": false
       }
     },
     "DL": {
@@ -165,12 +164,11 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 240588,
-        "positive": 6991,
-        "negative": 239592,
-        "unconfirmed": 1182,
-        "date": "27/05/2020",
-        "source": "https://twitter.com/ANINewsUP/status/1265675407887499265?s=19"
+        "tested": 0,
+        "positive": 0,
+        "negative": 0,
+        "unconfirmed": 0,
+        "updated": false
       }
     },
     "WB": {
@@ -189,12 +187,11 @@
         "active": 248
       },
       "testing_data": {
-        "tested": 175769,
-        "positive": 4536,
+        "tested": 0,
+        "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "28/05/2020",
-        "source": "https://www.wbhealth.gov.in/uploaded_files/corona/WB_DHFW_Bulletin_28th_MAY_REPORT_DRAFT.pdf"
+        "updated": false
       }
     },
     "UN": {
@@ -326,36 +323,35 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 23388,
-        "positive": 1551,
+        "tested": 0,
+        "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "16/05/2020",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/42"
+        "updated": false
       }
     },
     "JK": {
       "name": "Jammu and Kashmir",
-      "confirmed": 1921,
-      "active": 1041,
-      "recovered": 854,
-      "dead": 26,
-      "updatedTime": "27/05/2020 21:03:08",
+      "confirmed": 2036,
+      "active": 1150,
+      "recovered": 859,
+      "dead": 27,
+      "updatedTime": "28/05/2020 20:33:07",
       "note": "",
       "stateCode": "JK",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 115,
+        "recovered": 5,
+        "dead": 1,
+        "active": 109
       },
       "testing_data": {
-        "tested": 145162,
-        "positive": 1921,
-        "negative": 143241,
+        "tested": 153522,
+        "positive": 2036,
+        "negative": 151486,
         "unconfirmed": 0,
-        "date": "27/05/2020",
-        "source": "https://twitter.com/diprjk/status/1265659488947838976?s=19"
+        "date": "28/05/2020",
+        "source": "https://twitter.com/diprjk/status/1266017345962737664?s=19"
       }
     },
     "OR": {
@@ -433,17 +429,17 @@
     "AS": {
       "name": "Assam",
       "confirmed": 857,
-      "active": 762,
-      "recovered": 88,
+      "active": 746,
+      "recovered": 104,
       "dead": 4,
-      "updatedTime": "28/05/2020 18:44:11",
+      "updatedTime": "28/05/2020 20:33:08",
       "note": "Includes one case from Nagaland <br>\nTotal of Three* patients who migrated to other states has been reduced from Active count",
       "stateCode": "AS",
       "today": {
         "confirmed": 73,
-        "recovered": 0,
+        "recovered": 16,
         "dead": 0,
-        "active": 73
+        "active": 57
       },
       "testing_data": {
         "tested": 72654,
@@ -456,26 +452,25 @@
     },
     "UT": {
       "name": "Uttarakhand",
-      "confirmed": 493,
-      "active": 407,
+      "confirmed": 500,
+      "active": 414,
       "recovered": 79,
       "dead": 4,
-      "updatedTime": "28/05/2020 16:11:05",
+      "updatedTime": "28/05/2020 20:32:06",
       "note": "Three migrated cases reduced from Active count",
       "stateCode": "UT",
       "today": {
-        "confirmed": 24,
+        "confirmed": 31,
         "recovered": 0,
         "dead": 0,
-        "active": 24
+        "active": 31
       },
       "testing_data": {
-        "tested": 23975,
-        "positive": 438,
-        "negative": 18645,
-        "unconfirmed": 3939,
-        "date": "27/05/2020",
-        "source": "https://t.me/indiacovid/5629"
+        "tested": 0,
+        "positive": 0,
+        "negative": 0,
+        "unconfirmed": 0,
+        "updated": false
       }
     },
     "JH": {
@@ -542,12 +537,12 @@
         "active": 8
       },
       "testing_data": {
-        "tested": 4332,
-        "positive": 279,
-        "negative": 3991,
-        "unconfirmed": 61,
-        "date": "27/05/2020",
-        "source": "https://t.me/indiacovid/5627"
+        "tested": 4467,
+        "positive": 289,
+        "negative": 4138,
+        "unconfirmed": 39,
+        "date": "28/05/2020",
+        "source": "https://t.me/indiacovid/5710"
       }
     },
     "HP": {
@@ -571,7 +566,7 @@
         "negative": 30794,
         "unconfirmed": 1378,
         "date": "28/05/2020",
-        "source": ""
+        "source": "https://twitter.com/nhm_hp/status/1265977545402380288"
       }
     },
     "TR": {
@@ -590,12 +585,11 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 23264,
-        "positive": 232,
-        "negative": 23032,
+        "tested": 0,
+        "positive": 0,
+        "negative": 0,
         "unconfirmed": 0,
-        "date": "27/05/2020",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/190"
+        "updated": false
       }
     },
     "GA": {
@@ -847,12 +841,11 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 2417,
-        "positive": 1,
-        "negative": 1665,
-        "unconfirmed": 751,
-        "date": "27/05/2020",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/182"
+        "tested": 0,
+        "positive": 0,
+        "negative": 0,
+        "unconfirmed": 0,
+        "updated": false
       }
     },
     "LD": {
@@ -880,19 +873,19 @@
     }
   },
   "testing_data": {
-    "tested": 3734327,
-    "positive": 154728,
-    "negative": 2771561,
-    "unconfirmed": 24813
+    "tested": 2798205,
+    "positive": 121732,
+    "negative": 2061740,
+    "unconfirmed": 18354
   },
   "testing_data_imcr": {
     "tested": 3362136,
     "source": "https://t.me/Covid19india_Auxiliary_Test_Data/194"
   },
   "today": {
-    "confirmed": 5033,
-    "recovered": 1785,
-    "dead": 119,
-    "active": 3129
+    "confirmed": 5155,
+    "recovered": 1806,
+    "dead": 120,
+    "active": 3229
   }
 }
