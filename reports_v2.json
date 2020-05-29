@@ -1,9 +1,9 @@
 {
-  "confirmed": 167442,
-  "recovered": 71385,
+  "confirmed": 167441,
+  "recovered": 71406,
   "dead": 4797,
-  "active": 91249,
-  "updatedTime": "29/05/2020 16:10:03",
+  "active": 91227,
+  "updatedTime": "29/05/2020 16:52:05",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -480,18 +480,18 @@
     },
     "JH": {
       "name": "Jharkhand",
-      "confirmed": 470,
-      "active": 275,
-      "recovered": 191,
+      "confirmed": 469,
+      "active": 253,
+      "recovered": 212,
       "dead": 4,
-      "updatedTime": "28/05/2020 22:53:05",
+      "updatedTime": "29/05/2020 16:52:12",
       "note": "",
       "stateCode": "JH",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": -1,
+        "recovered": 21,
         "dead": 0,
-        "active": 0
+        "active": -22
       },
       "testing_data": {
         "tested": 57250,
@@ -890,9 +890,9 @@
     "source": "https://t.me/Covid19india_Auxiliary_Test_Data/211"
   },
   "today": {
-    "confirmed": 2054,
-    "recovered": 449,
+    "confirmed": 2053,
+    "recovered": 470,
     "dead": 86,
-    "active": 1519
+    "active": 1497
   }
 }
