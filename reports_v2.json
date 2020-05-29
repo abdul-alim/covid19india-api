@@ -1,24 +1,24 @@
 {
-  "confirmed": 169011,
-  "recovered": 72543,
-  "dead": 4820,
-  "active": 91637,
-  "updatedTime": "29/05/2020 19:32:03",
+  "confirmed": 171693,
+  "recovered": 80927,
+  "dead": 4936,
+  "active": 85819,
+  "updatedTime": "29/05/2020 20:12:03",
   "states": {
     "MH": {
       "name": "Maharashtra",
-      "confirmed": 59546,
-      "active": 38948,
-      "recovered": 18616,
-      "dead": 1982,
-      "updatedTime": "28/05/2020 20:24:07",
+      "confirmed": 62228,
+      "active": 33133,
+      "recovered": 26997,
+      "dead": 2098,
+      "updatedTime": "29/05/2020 20:12:07",
       "note": "",
       "stateCode": "MH",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 2682,
+        "recovered": 8381,
+        "dead": 116,
+        "active": -5815
       },
       "testing_data": {
         "tested": 434565,
@@ -179,7 +179,7 @@
       "active": 2736,
       "recovered": 1775,
       "dead": 302,
-      "updatedTime": "29/05/2020 19:31:05",
+      "updatedTime": "29/05/2020 19:33:09",
       "note": "- Cases updated as per WB bulletin.<br>\n- Deaths due to comorbidities added to total deceased<br>\n- Zones updated as per WB bulletin<br>",
       "stateCode": "WB",
       "today": {
@@ -220,7 +220,7 @@
       "active": 1036,
       "recovered": 2234,
       "dead": 60,
-      "updatedTime": "29/05/2020 19:31:07",
+      "updatedTime": "29/05/2020 19:33:13",
       "note": "Total includes patients from other states and a new category \"Foreign Evacuees\" which is now reported in AP bulletin. <br>\nAP district data updated to match state dashboard as of 27th May. ",
       "stateCode": "AP",
       "today": {
@@ -292,7 +292,7 @@
       "active": 206,
       "recovered": 1949,
       "dead": 42,
-      "updatedTime": "29/05/2020 19:31:08",
+      "updatedTime": "29/05/2020 19:33:23",
       "note": "Cases in Punjab were effectively reduced as some cases were added to 'central pool' as per the bulletin",
       "stateCode": "PB",
       "today": {
@@ -436,7 +436,7 @@
       "active": 803,
       "recovered": 126,
       "dead": 4,
-      "updatedTime": "29/05/2020 19:32:06",
+      "updatedTime": "29/05/2020 19:36:05",
       "note": "Includes one case from Nagaland <br>\nTotal of Three* patients who migrated to other states has been reduced from Active count",
       "stateCode": "AS",
       "today": {
@@ -601,17 +601,17 @@
     "GA": {
       "name": "Goa",
       "confirmed": 69,
-      "active": 31,
-      "recovered": 38,
+      "active": 28,
+      "recovered": 41,
       "dead": 0,
-      "updatedTime": "27/05/2020 20:34:08",
+      "updatedTime": "29/05/2020 20:12:10",
       "note": "",
       "stateCode": "GA",
       "today": {
         "confirmed": 0,
-        "recovered": 0,
+        "recovered": 3,
         "dead": 0,
-        "active": 0
+        "active": -3
       },
       "testing_data": {
         "tested": 14782,
@@ -890,9 +890,9 @@
     "source": "https://t.me/Covid19india_Auxiliary_Test_Data/211"
   },
   "today": {
-    "confirmed": 3654,
-    "recovered": 1645,
-    "dead": 109,
-    "active": 1900
+    "confirmed": 6336,
+    "recovered": 10029,
+    "dead": 225,
+    "active": -3918
   }
 }
