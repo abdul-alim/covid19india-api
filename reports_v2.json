@@ -1,9 +1,9 @@
 {
-  "confirmed": 181792,
-  "recovered": 86880,
+  "confirmed": 181796,
+  "recovered": 86896,
   "dead": 5185,
-  "active": 89716,
-  "updatedTime": "30/05/2020 22:36:03",
+  "active": 89704,
+  "updatedTime": "30/05/2020 22:52:03",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -553,17 +553,17 @@
     "CH": {
       "name": "Chandigarh",
       "confirmed": 289,
-      "active": 96,
-      "recovered": 189,
+      "active": 86,
+      "recovered": 199,
       "dead": 4,
       "updatedTime": "28/05/2020 16:11:07",
       "note": "",
       "stateCode": "CH",
       "today": {
         "confirmed": 0,
-        "recovered": 0,
+        "recovered": 10,
         "dead": 0,
-        "active": 0
+        "active": -10
       },
       "testing_data": {
         "tested": 4654,
@@ -580,7 +580,7 @@
       "active": 99,
       "recovered": 172,
       "dead": 0,
-      "updatedTime": "30/05/2020 22:36:18",
+      "updatedTime": "30/05/2020 22:43:05",
       "note": "Two cases have migrated out of Tripura.",
       "stateCode": "TR",
       "today": {
@@ -672,11 +672,11 @@
     },
     "PY": {
       "name": "Puducherry",
-      "confirmed": 53,
-      "active": 36,
-      "recovered": 17,
+      "confirmed": 57,
+      "active": 34,
+      "recovered": 23,
       "dead": 0,
-      "updatedTime": "28/05/2020 23:20:05",
+      "updatedTime": "30/05/2020 22:52:06",
       "note": "",
       "stateCode": "PY",
       "today": {
@@ -891,8 +891,8 @@
   },
   "today": {
     "confirmed": 8301,
-    "recovered": 4253,
+    "recovered": 4263,
     "dead": 205,
-    "active": 3843
+    "active": 3833
   }
 }
