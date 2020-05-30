@@ -1,9 +1,9 @@
 {
-  "confirmed": 173921,
-  "recovered": 82673,
+  "confirmed": 174020,
+  "recovered": 82676,
   "dead": 4981,
-  "active": 86256,
-  "updatedTime": "30/05/2020 11:46:03",
+  "active": 86352,
+  "updatedTime": "30/05/2020 12:53:03",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -360,18 +360,18 @@
     },
     "OR": {
       "name": "Odisha",
-      "confirmed": 1723,
-      "active": 737,
+      "confirmed": 1819,
+      "active": 833,
       "recovered": 977,
       "dead": 9,
-      "updatedTime": "29/05/2020 18:42:14",
+      "updatedTime": "30/05/2020 12:53:05",
       "note": "",
       "stateCode": "OR",
       "today": {
-        "confirmed": 0,
+        "confirmed": 96,
         "recovered": 0,
         "dead": 0,
-        "active": 0
+        "active": 96
       },
       "testing_data": {
         "tested": 143570,
@@ -423,9 +423,9 @@
       },
       "testing_data": {
         "tested": 74214,
-        "positive": 1150,
+        "positive": 1151,
         "negative": 71083,
-        "unconfirmed": 0,
+        "unconfirmed": 1980,
         "date": "29/05/2020",
         "source": "http://dhs.kerala.gov.in/wp-content/uploads/2020/05/Daily-Bulletin-HFWD-English-May-29.pdf"
       }
@@ -552,18 +552,18 @@
     },
     "HP": {
       "name": "Himachal Pradesh",
-      "confirmed": 295,
-      "active": 203,
-      "recovered": 83,
+      "confirmed": 297,
+      "active": 202,
+      "recovered": 86,
       "dead": 6,
-      "updatedTime": "29/05/2020 23:15:10",
+      "updatedTime": "30/05/2020 12:53:10",
       "note": "HP has 4 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed",
       "stateCode": "HP",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 2,
+        "recovered": 3,
         "dead": 0,
-        "active": 0
+        "active": -1
       },
       "testing_data": {
         "tested": 33979,
@@ -672,18 +672,18 @@
     },
     "MN": {
       "name": "Manipur",
-      "confirmed": 59,
-      "active": 53,
+      "confirmed": 60,
+      "active": 54,
       "recovered": 6,
       "dead": 0,
-      "updatedTime": "29/05/2020 21:34:13",
+      "updatedTime": "30/05/2020 12:53:11",
       "note": "",
       "stateCode": "MN",
       "today": {
-        "confirmed": 0,
+        "confirmed": 1,
         "recovered": 0,
         "dead": 0,
-        "active": 0
+        "active": 1
       },
       "testing_data": {
         "tested": 7758,
@@ -881,18 +881,18 @@
   },
   "testing_data": {
     "tested": 3957171,
-    "positive": 164544,
+    "positive": 164545,
     "negative": 2857173,
-    "unconfirmed": 20545
+    "unconfirmed": 22525
   },
   "testing_data_imcr": {
     "tested": 3483838,
     "source": "https://t.me/Covid19india_Auxiliary_Test_Data/211"
   },
   "today": {
-    "confirmed": 430,
-    "recovered": 46,
+    "confirmed": 529,
+    "recovered": 49,
     "dead": 1,
-    "active": 383
+    "active": 479
   }
 }
