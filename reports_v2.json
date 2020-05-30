@@ -1,9 +1,9 @@
 {
   "confirmed": 174355,
-  "recovered": 82842,
+  "recovered": 82945,
   "dead": 4982,
-  "active": 86520,
-  "updatedTime": "30/05/2020 17:53:03",
+  "active": 86417,
+  "updatedTime": "30/05/2020 18:03:03",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -254,28 +254,28 @@
         "active": 150
       },
       "testing_data": {
-        "tested": 72256,
-        "positive": 3276,
+        "tested": 73929,
+        "positive": 3511,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "29/05/2020",
-        "source": "https://twitter.com/PIB_Patna/status/1266341629104799750"
+        "date": "30/05/2020",
+        "source": "https://twitter.com/PIB_Patna/status/1266698915262476288"
       }
     },
     "KA": {
       "name": "Karnataka",
       "confirmed": 2781,
-      "active": 1837,
-      "recovered": 894,
+      "active": 1734,
+      "recovered": 997,
       "dead": 48,
-      "updatedTime": "29/05/2020 18:53:05",
+      "updatedTime": "30/05/2020 18:03:05",
       "note": "Two active cases in KA reduced as these confirmed patients died of non-CoViD19 related reasons",
       "stateCode": "KA",
       "today": {
         "confirmed": 0,
-        "recovered": 0,
+        "recovered": 103,
         "dead": 0,
-        "active": 0
+        "active": -103
       },
       "testing_data": {
         "tested": 264489,
@@ -436,7 +436,7 @@
       "active": 930,
       "recovered": 164,
       "dead": 4,
-      "updatedTime": "30/05/2020 17:52:05",
+      "updatedTime": "30/05/2020 18:01:04",
       "note": "Includes one case from Nagaland <br>\nTotal of three* patients who migrated to other states has been reduced from Active count",
       "stateCode": "AS",
       "today": {
@@ -880,8 +880,8 @@
     }
   },
   "testing_data": {
-    "tested": 3986173,
-    "positive": 167518,
+    "tested": 3987846,
+    "positive": 167753,
     "negative": 2878405,
     "unconfirmed": 22999
   },
@@ -891,8 +891,8 @@
   },
   "today": {
     "confirmed": 864,
-    "recovered": 215,
+    "recovered": 318,
     "dead": 2,
-    "active": 647
+    "active": 544
   }
 }
