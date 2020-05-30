@@ -1,9 +1,9 @@
 {
-  "confirmed": 175434,
-  "recovered": 83632,
-  "dead": 4989,
-  "active": 86802,
-  "updatedTime": "30/05/2020 19:12:03",
+  "confirmed": 175957,
+  "recovered": 83878,
+  "dead": 4996,
+  "active": 87072,
+  "updatedTime": "30/05/2020 19:34:03",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -35,7 +35,7 @@
       "active": 9021,
       "recovered": 12000,
       "dead": 163,
-      "updatedTime": "30/05/2020 19:12:04",
+      "updatedTime": "30/05/2020 19:13:04",
       "note": "2 deaths cross notified to other states from Chennai and Coimbatore.<br>1 patient died after turning negative for infection in Chengalpattu",
       "stateCode": "TN",
       "today": {
@@ -175,18 +175,18 @@
     },
     "WB": {
       "name": "West Bengal",
-      "confirmed": 4813,
-      "active": 2736,
-      "recovered": 1775,
-      "dead": 302,
-      "updatedTime": "29/05/2020 19:33:09",
+      "confirmed": 5130,
+      "active": 2851,
+      "recovered": 1970,
+      "dead": 309,
+      "updatedTime": "30/05/2020 19:34:04",
       "note": "- Cases updated as per WB bulletin.<br>\n- Deaths due to comorbidities added to total deceased<br>",
       "stateCode": "WB",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 317,
+        "recovered": 195,
+        "dead": 7,
+        "active": 115
       },
       "testing_data": {
         "tested": 194397,
@@ -214,30 +214,6 @@
       },
       "isUnknown": true
     },
-    "AP": {
-      "name": "Andhra Pradesh",
-      "confirmed": 3461,
-      "active": 1112,
-      "recovered": 2289,
-      "dead": 60,
-      "updatedTime": "30/05/2020 15:13:04",
-      "note": "Total includes patients from other states and a new category \"Foreign Evacuees\" which is now reported in AP bulletin. <br>\nAP district data updated to match state dashboard as of 27th May. ",
-      "stateCode": "AP",
-      "today": {
-        "confirmed": 131,
-        "recovered": 55,
-        "dead": 0,
-        "active": 76
-      },
-      "testing_data": {
-        "tested": 363378,
-        "positive": 2944,
-        "negative": 359917,
-        "unconfirmed": 0,
-        "date": "30/05/2020",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/231"
-      }
-    },
     "BR": {
       "name": "Bihar",
       "confirmed": 3509,
@@ -260,6 +236,30 @@
         "unconfirmed": 0,
         "date": "30/05/2020",
         "source": "https://twitter.com/PIB_Patna/status/1266698915262476288"
+      }
+    },
+    "AP": {
+      "name": "Andhra Pradesh",
+      "confirmed": 3461,
+      "active": 1112,
+      "recovered": 2289,
+      "dead": 60,
+      "updatedTime": "30/05/2020 15:13:04",
+      "note": "Total includes patients from other states and a new category \"Foreign Evacuees\" which is now reported in AP bulletin. <br>\nAP district data updated to match state dashboard as of 27th May. ",
+      "stateCode": "AP",
+      "today": {
+        "confirmed": 131,
+        "recovered": 55,
+        "dead": 0,
+        "active": 76
+      },
+      "testing_data": {
+        "tested": 363378,
+        "positive": 2944,
+        "negative": 359917,
+        "unconfirmed": 0,
+        "date": "30/05/2020",
+        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/231"
       }
     },
     "KA": {
@@ -286,30 +286,6 @@
         "source": "https://twitter.com/DHFWKA/status/1266700497798430722?s=19"
       }
     },
-    "PB": {
-      "name": "Punjab",
-      "confirmed": 2197,
-      "active": 206,
-      "recovered": 1949,
-      "dead": 42,
-      "updatedTime": "29/05/2020 19:33:23",
-      "note": "",
-      "stateCode": "PB",
-      "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
-      },
-      "testing_data": {
-        "tested": 81021,
-        "positive": 2197,
-        "negative": 0,
-        "unconfirmed": 0,
-        "date": "29/05/2020",
-        "source": "https://t.me/indiacovid/5837?single"
-      }
-    },
     "TG": {
       "name": "Telangana",
       "confirmed": 2425,
@@ -332,6 +308,30 @@
         "unconfirmed": 0,
         "date": "16/05/2020",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/42"
+      }
+    },
+    "PB": {
+      "name": "Punjab",
+      "confirmed": 2197,
+      "active": 206,
+      "recovered": 1949,
+      "dead": 42,
+      "updatedTime": "29/05/2020 19:33:23",
+      "note": "",
+      "stateCode": "PB",
+      "today": {
+        "confirmed": 0,
+        "recovered": 0,
+        "dead": 0,
+        "active": 0
+      },
+      "testing_data": {
+        "tested": 81021,
+        "positive": 2197,
+        "negative": 0,
+        "unconfirmed": 0,
+        "date": "29/05/2020",
+        "source": "https://t.me/indiacovid/5837?single"
       }
     },
     "JK": {
@@ -384,18 +384,18 @@
     },
     "HR": {
       "name": "Haryana",
-      "confirmed": 1721,
-      "active": 762,
-      "recovered": 940,
+      "confirmed": 1923,
+      "active": 933,
+      "recovered": 971,
       "dead": 19,
-      "updatedTime": "29/05/2020 21:34:09",
+      "updatedTime": "30/05/2020 19:34:06",
       "note": "",
       "stateCode": "HR",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 202,
+        "recovered": 31,
         "dead": 0,
-        "active": 0
+        "active": 171
       },
       "testing_data": {
         "tested": 114683,
@@ -526,6 +526,30 @@
         "source": "https://twitter.com/HealthCgGov/status/1266724300859596800?s=20"
       }
     },
+    "HP": {
+      "name": "Himachal Pradesh",
+      "confirmed": 301,
+      "active": 186,
+      "recovered": 106,
+      "dead": 6,
+      "updatedTime": "30/05/2020 19:34:07",
+      "note": "HP has 4 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed",
+      "stateCode": "HP",
+      "today": {
+        "confirmed": 6,
+        "recovered": 23,
+        "dead": 0,
+        "active": -17
+      },
+      "testing_data": {
+        "tested": 35614,
+        "positive": 301,
+        "negative": 34114,
+        "unconfirmed": 1199,
+        "date": "30/05/2020",
+        "source": "https://twitter.com/nhm_hp/status/1266702236404469760?s=20"
+      }
+    },
     "CH": {
       "name": "Chandigarh",
       "confirmed": 289,
@@ -548,30 +572,6 @@
         "unconfirmed": 22,
         "date": "30/05/2020",
         "source": "https://t.me/indiacovid/5905?single"
-      }
-    },
-    "HP": {
-      "name": "Himachal Pradesh",
-      "confirmed": 297,
-      "active": 202,
-      "recovered": 86,
-      "dead": 6,
-      "updatedTime": "30/05/2020 13:04:06",
-      "note": "HP has 4 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed",
-      "stateCode": "HP",
-      "today": {
-        "confirmed": 2,
-        "recovered": 3,
-        "dead": 0,
-        "active": -1
-      },
-      "testing_data": {
-        "tested": 35614,
-        "positive": 301,
-        "negative": 34114,
-        "unconfirmed": 1199,
-        "date": "30/05/2020",
-        "source": "https://twitter.com/nhm_hp/status/1266702236404469760?s=20"
       }
     },
     "TR": {
@@ -598,6 +598,30 @@
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/225"
       }
     },
+    "LA": {
+      "name": "Ladakh",
+      "confirmed": 74,
+      "active": 31,
+      "recovered": 43,
+      "dead": 0,
+      "updatedTime": "28/05/2020 20:12:06",
+      "note": "",
+      "stateCode": "LA",
+      "today": {
+        "confirmed": 0,
+        "recovered": 0,
+        "dead": 0,
+        "active": 0
+      },
+      "testing_data": {
+        "tested": 7354,
+        "positive": 74,
+        "negative": 6145,
+        "unconfirmed": 1005,
+        "date": "30/05/2020",
+        "source": "https://t.me/indiacovid/5907"
+      }
+    },
     "GA": {
       "name": "Goa",
       "confirmed": 69,
@@ -622,28 +646,28 @@
         "source": "https://twitter.com/DHS_Goa/status/1266371308704550920?s=19"
       }
     },
-    "LA": {
-      "name": "Ladakh",
-      "confirmed": 74,
-      "active": 31,
-      "recovered": 43,
+    "MN": {
+      "name": "Manipur",
+      "confirmed": 60,
+      "active": 54,
+      "recovered": 6,
       "dead": 0,
-      "updatedTime": "28/05/2020 20:12:06",
+      "updatedTime": "30/05/2020 13:04:08",
       "note": "",
-      "stateCode": "LA",
+      "stateCode": "MN",
       "today": {
-        "confirmed": 0,
+        "confirmed": 1,
         "recovered": 0,
         "dead": 0,
-        "active": 0
+        "active": 1
       },
       "testing_data": {
-        "tested": 7354,
-        "positive": 74,
-        "negative": 6145,
-        "unconfirmed": 1005,
-        "date": "30/05/2020",
-        "source": "https://t.me/indiacovid/5907"
+        "tested": 7758,
+        "positive": 55,
+        "negative": 0,
+        "unconfirmed": 0,
+        "date": "28/05/2020",
+        "source": "https://twitter.com/DiprManipur/status/1266005531430248448"
       }
     },
     "PY": {
@@ -670,28 +694,28 @@
         "source": "http://chdcovid19.in/"
       }
     },
-    "MN": {
-      "name": "Manipur",
-      "confirmed": 60,
-      "active": 54,
-      "recovered": 6,
+    "NL": {
+      "name": "Nagaland",
+      "confirmed": 36,
+      "active": 36,
+      "recovered": 0,
       "dead": 0,
-      "updatedTime": "30/05/2020 13:04:08",
+      "updatedTime": "30/05/2020 11:21:05",
       "note": "",
-      "stateCode": "MN",
+      "stateCode": "NL",
       "today": {
-        "confirmed": 1,
+        "confirmed": 11,
         "recovered": 0,
         "dead": 0,
-        "active": 1
+        "active": 11
       },
       "testing_data": {
-        "tested": 7758,
-        "positive": 55,
-        "negative": 0,
-        "unconfirmed": 0,
-        "date": "28/05/2020",
-        "source": "https://twitter.com/DiprManipur/status/1266005531430248448"
+        "tested": 1997,
+        "positive": 25,
+        "negative": 1409,
+        "unconfirmed": 563,
+        "date": "29/05/2020",
+        "source": ""
       }
     },
     "AN": {
@@ -742,47 +766,6 @@
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/206"
       }
     },
-    "NL": {
-      "name": "Nagaland",
-      "confirmed": 36,
-      "active": 36,
-      "recovered": 0,
-      "dead": 0,
-      "updatedTime": "30/05/2020 11:21:05",
-      "note": "",
-      "stateCode": "NL",
-      "today": {
-        "confirmed": 11,
-        "recovered": 0,
-        "dead": 0,
-        "active": 11
-      },
-      "testing_data": {
-        "tested": 1997,
-        "positive": 25,
-        "negative": 1409,
-        "unconfirmed": 563,
-        "date": "29/05/2020",
-        "source": ""
-      }
-    },
-    "DN": {
-      "name": "Dadra and Nagar Haveli and Daman and Diu",
-      "confirmed": 2,
-      "active": 1,
-      "recovered": 1,
-      "dead": 0,
-      "updatedTime": "23/05/2020 23:47:25",
-      "note": "",
-      "stateCode": "DN",
-      "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
-      },
-      "isUnknown": true
-    },
     "AR": {
       "name": "Arunachal Pradesh",
       "confirmed": 3,
@@ -806,6 +789,23 @@
         "date": "29/05/2020",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/222"
       }
+    },
+    "DN": {
+      "name": "Dadra and Nagar Haveli and Daman and Diu",
+      "confirmed": 2,
+      "active": 1,
+      "recovered": 1,
+      "dead": 0,
+      "updatedTime": "23/05/2020 23:47:25",
+      "note": "",
+      "stateCode": "DN",
+      "today": {
+        "confirmed": 0,
+        "recovered": 0,
+        "dead": 0,
+        "active": 0
+      },
+      "isUnknown": true
     },
     "MZ": {
       "name": "Mizoram",
@@ -890,9 +890,9 @@
     "source": "https://t.me/Covid19india_Auxiliary_Test_Data/228"
   },
   "today": {
-    "confirmed": 1943,
-    "recovered": 1005,
-    "dead": 9,
-    "active": 929
+    "confirmed": 2466,
+    "recovered": 1251,
+    "dead": 16,
+    "active": 1199
   }
 }
