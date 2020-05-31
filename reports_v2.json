@@ -1,9 +1,9 @@
 {
-  "confirmed": 184364,
-  "recovered": 87583,
-  "dead": 5245,
-  "active": 91525,
-  "updatedTime": "31/05/2020 18:22:03",
+  "confirmed": 184735,
+  "recovered": 87789,
+  "dead": 5253,
+  "active": 91682,
+  "updatedTime": "31/05/2020 18:43:03",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -59,7 +59,7 @@
       "active": 10893,
       "recovered": 8478,
       "dead": 473,
-      "updatedTime": "31/05/2020 18:11:04",
+      "updatedTime": "31/05/2020 18:35:04",
       "note": "[10-May]<br>\n\nDelhi bulletins in the morning, containing data of the previous day. We will add that data to the date on which the report is released, rather than the previous day.",
       "stateCode": "DL",
       "today": {
@@ -175,18 +175,18 @@
     },
     "WB": {
       "name": "West Bengal",
-      "confirmed": 5130,
-      "active": 2851,
-      "recovered": 1970,
-      "dead": 309,
-      "updatedTime": "30/05/2020 20:04:05",
+      "confirmed": 5501,
+      "active": 3027,
+      "recovered": 2157,
+      "dead": 317,
+      "updatedTime": "31/05/2020 18:43:04",
       "note": "- Cases updated as per WB bulletin.<br>\n- Deaths due to comorbidities added to total deceased<br>",
       "stateCode": "WB",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 371,
+        "recovered": 187,
+        "dead": 8,
+        "active": 176
       },
       "testing_data": {
         "tested": 194397,
@@ -409,17 +409,17 @@
     "KL": {
       "name": "Kerala",
       "confirmed": 1270,
-      "active": 685,
-      "recovered": 575,
+      "active": 670,
+      "recovered": 590,
       "dead": 10,
-      "updatedTime": "31/05/2020 18:22:05",
+      "updatedTime": "31/05/2020 18:42:05",
       "note": "Mahe native who expired in Kannur included in Kerala's tally",
       "stateCode": "KL",
       "today": {
         "confirmed": 61,
-        "recovered": 0,
+        "recovered": 15,
         "dead": 0,
-        "active": 61
+        "active": 46
       },
       "testing_data": {
         "tested": 77257,
@@ -601,17 +601,17 @@
     "LA": {
       "name": "Ladakh",
       "confirmed": 77,
-      "active": 34,
-      "recovered": 43,
+      "active": 30,
+      "recovered": 47,
       "dead": 0,
-      "updatedTime": "30/05/2020 21:34:08",
+      "updatedTime": "31/05/2020 18:42:07",
       "note": "",
       "stateCode": "LA",
       "today": {
         "confirmed": 0,
-        "recovered": 0,
+        "recovered": 4,
         "dead": 0,
-        "active": 0
+        "active": -4
       },
       "testing_data": {
         "tested": 7354,
@@ -652,7 +652,7 @@
       "active": 60,
       "recovered": 11,
       "dead": 0,
-      "updatedTime": "31/05/2020 18:22:06",
+      "updatedTime": "31/05/2020 18:35:08",
       "note": "",
       "stateCode": "MN",
       "today": {
@@ -890,9 +890,9 @@
     "source": "https://t.me/Covid19india_Auxiliary_Test_Data/236"
   },
   "today": {
-    "confirmed": 2505,
-    "recovered": 647,
-    "dead": 60,
-    "active": 1798
+    "confirmed": 2876,
+    "recovered": 853,
+    "dead": 68,
+    "active": 1955
   }
 }
