@@ -111,15 +111,15 @@
       {
         "district": "Chittoor",
         "notes": "",
-        "active": 72,
+        "active": 71,
         "confirmed": 253,
         "recovered": 180,
-        "dead": 1,
+        "dead": 2,
         "today": {
           "confirmed": 0,
           "recovered": 0,
-          "active": 0,
-          "dead": 0
+          "active": -1,
+          "dead": 1
         }
       },
       {
@@ -153,15 +153,15 @@
       {
         "district": "Krishna",
         "notes": "",
-        "active": 117,
+        "active": 116,
         "confirmed": 456,
         "recovered": 322,
-        "dead": 17,
+        "dead": 18,
         "today": {
           "confirmed": 0,
           "recovered": 0,
-          "active": 0,
-          "dead": 0
+          "active": -1,
+          "dead": 1
         }
       },
       {
@@ -293,9 +293,9 @@
     ],
     "today": {
       "confirmed": 12,
-      "active": 4,
+      "active": 2,
       "recovered": 8,
-      "dead": 0
+      "dead": 2
     },
     "confirmed": 3571,
     "recovered": 2340,
@@ -3717,8 +3717,8 @@
       {
         "district": "Sahibganj",
         "notes": "",
-        "active": 0,
-        "confirmed": 0,
+        "active": 1,
+        "confirmed": 1,
         "recovered": 0,
         "dead": 0,
         "today": {
@@ -3777,10 +3777,10 @@
       "recovered": 0,
       "dead": 0
     },
-    "confirmed": 593,
+    "confirmed": 594,
     "recovered": 256,
     "dead": 5,
-    "active": 332
+    "active": 333
   },
   "JK": {
     "state": "Jammu and Kashmir",
