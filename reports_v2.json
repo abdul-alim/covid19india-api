@@ -1,9 +1,9 @@
 {
-  "confirmed": 198220,
-  "recovered": 95615,
+  "confirmed": 198317,
+  "recovered": 95714,
   "dead": 5608,
-  "active": 96986,
-  "updatedTime": "01/06/2020 23:23:03",
+  "active": 96984,
+  "updatedTime": "01/06/2020 23:35:08",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -220,7 +220,7 @@
       "active": 2181,
       "recovered": 1741,
       "dead": 23,
-      "updatedTime": "01/06/2020 23:23:05",
+      "updatedTime": "01/06/2020 23:26:05",
       "note": "",
       "stateCode": "BR",
       "today": {
@@ -409,17 +409,17 @@
     "AS": {
       "name": "Assam",
       "confirmed": 1464,
-      "active": 1271,
-      "recovered": 186,
+      "active": 1172,
+      "recovered": 285,
       "dead": 4,
-      "updatedTime": "01/06/2020 21:34:07",
+      "updatedTime": "01/06/2020 23:35:14",
       "note": "Includes one case from Nagaland <br>\nTotal of three* patients who migrated to other states has been reduced from Active count",
       "stateCode": "AS",
       "today": {
         "confirmed": 124,
-        "recovered": 0,
+        "recovered": 99,
         "dead": 0,
-        "active": 124
+        "active": 25
       },
       "testing_data": {
         "tested": 109097,
@@ -446,12 +446,12 @@
         "active": 38
       },
       "testing_data": {
-        "tested": 77508,
-        "positive": 1270,
-        "negative": 75697,
-        "unconfirmed": 541,
-        "date": "31/05/2020",
-        "source": "https://dhs.kerala.gov.in/wp-content/uploads/2020/05/Daily-Bulletin-HFWD-English-May-31-1.pdf"
+        "tested": 82449,
+        "positive": 0,
+        "negative": 0,
+        "unconfirmed": 0,
+        "date": "01/06/2020",
+        "source": ""
       }
     },
     "UT": {
@@ -518,12 +518,12 @@
         "active": 43
       },
       "testing_data": {
-        "tested": 69152,
-        "positive": 492,
-        "negative": 67268,
-        "unconfirmed": 1392,
-        "date": "31/05/2020",
-        "source": "https://twitter.com/HealthCgGov/status/1267113754824634370"
+        "tested": 74696,
+        "positive": 545,
+        "negative": 73294,
+        "unconfirmed": 426,
+        "date": "01/06/2020",
+        "source": "https://t.me/indiacovid/6107?single"
       }
     },
     "HP": {
@@ -552,18 +552,18 @@
     },
     "TR": {
       "name": "Tripura",
-      "confirmed": 321,
-      "active": 148,
+      "confirmed": 418,
+      "active": 245,
       "recovered": 173,
       "dead": 0,
-      "updatedTime": "01/06/2020 14:35:11",
+      "updatedTime": "01/06/2020 23:35:16",
       "note": "Two cases have migrated out of Tripura.",
       "stateCode": "TR",
       "today": {
-        "confirmed": 5,
+        "confirmed": 102,
         "recovered": 0,
         "dead": 0,
-        "active": 5
+        "active": 102
       },
       "testing_data": {
         "tested": 27475,
@@ -652,7 +652,7 @@
       "active": 23,
       "recovered": 50,
       "dead": 0,
-      "updatedTime": "01/06/2020 23:23:07",
+      "updatedTime": "01/06/2020 23:26:14",
       "note": "",
       "stateCode": "GA",
       "today": {
@@ -676,7 +676,7 @@
       "active": 54,
       "recovered": 25,
       "dead": 0,
-      "updatedTime": "01/06/2020 23:23:09",
+      "updatedTime": "01/06/2020 23:35:17",
       "note": "",
       "stateCode": "PY",
       "today": {
@@ -748,7 +748,7 @@
       "active": 15,
       "recovered": 12,
       "dead": 1,
-      "updatedTime": "01/06/2020 23:23:11",
+      "updatedTime": "01/06/2020 23:26:18",
       "note": "",
       "stateCode": "ML",
       "today": {
@@ -880,19 +880,19 @@
     }
   },
   "testing_data": {
-    "tested": 4332850,
-    "positive": 186970,
-    "negative": 3122555,
-    "unconfirmed": 24709
+    "tested": 4343551,
+    "positive": 185754,
+    "negative": 3053099,
+    "unconfirmed": 23202
   },
   "testing_data_imcr": {
     "tested": 3837207,
     "source": "https://t.me/Covid19india_Auxiliary_Test_Data/253"
   },
   "today": {
-    "confirmed": 7572,
-    "recovered": 3753,
+    "confirmed": 7669,
+    "recovered": 3852,
     "dead": 201,
-    "active": 3618
+    "active": 3616
   }
 }
