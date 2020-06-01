@@ -1,9 +1,9 @@
 {
-  "confirmed": 194698,
+  "confirmed": 194700,
   "recovered": 93504,
-  "dead": 5456,
-  "active": 95727,
-  "updatedTime": "01/06/2020 20:13:03",
+  "dead": 5457,
+  "active": 95728,
+  "updatedTime": "01/06/2020 20:23:05",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -59,7 +59,7 @@
       "active": 11603,
       "recovered": 8746,
       "dead": 485,
-      "updatedTime": "01/06/2020 20:13:06",
+      "updatedTime": "01/06/2020 20:14:05",
       "note": "[10-May]<br>\n\nDelhi bulletins in the morning, containing data of the previous day. We will add that data to the date on which the report is released, rather than the previous day.",
       "stateCode": "DL",
       "today": {
@@ -131,7 +131,7 @@
       "active": 2922,
       "recovered": 5003,
       "dead": 358,
-      "updatedTime": "01/06/2020 20:13:08",
+      "updatedTime": "01/06/2020 20:23:21",
       "note": "",
       "stateCode": "MP",
       "today": {
@@ -337,17 +337,17 @@
     "HR": {
       "name": "Haryana",
       "confirmed": 2356,
-      "active": 1281,
+      "active": 1280,
       "recovered": 1055,
-      "dead": 20,
-      "updatedTime": "01/06/2020 19:47:07",
+      "dead": 21,
+      "updatedTime": "01/06/2020 20:23:24",
       "note": "",
       "stateCode": "HR",
       "today": {
         "confirmed": 265,
         "recovered": 7,
-        "dead": 0,
-        "active": 258
+        "dead": 1,
+        "active": 257
       },
       "testing_data": {
         "tested": 121779,
@@ -364,7 +364,7 @@
       "active": 257,
       "recovered": 2000,
       "dead": 44,
-      "updatedTime": "01/06/2020 20:13:10",
+      "updatedTime": "01/06/2020 20:14:10",
       "note": "",
       "stateCode": "PB",
       "today": {
@@ -590,12 +590,12 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 4785,
-        "positive": 293,
-        "negative": 4478,
-        "unconfirmed": 13,
-        "date": "31/05/2020",
-        "source": "https://t.me/indiacovid/5993"
+        "tested": 4816,
+        "positive": 294,
+        "negative": 4495,
+        "unconfirmed": 26,
+        "date": "01/06/2020",
+        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/260"
       }
     },
     "MN": {
@@ -648,18 +648,18 @@
     },
     "GA": {
       "name": "Goa",
-      "confirmed": 71,
-      "active": 27,
+      "confirmed": 73,
+      "active": 29,
       "recovered": 44,
       "dead": 0,
-      "updatedTime": "31/05/2020 19:44:14",
+      "updatedTime": "01/06/2020 20:23:26",
       "note": "",
       "stateCode": "GA",
       "today": {
-        "confirmed": 0,
+        "confirmed": 2,
         "recovered": 0,
         "dead": 0,
-        "active": 0
+        "active": 2
       },
       "testing_data": {
         "tested": 19491,
@@ -676,7 +676,7 @@
       "active": 48,
       "recovered": 25,
       "dead": 0,
-      "updatedTime": "01/06/2020 20:13:13",
+      "updatedTime": "01/06/2020 20:14:13",
       "note": "",
       "stateCode": "PY",
       "today": {
@@ -880,19 +880,19 @@
     }
   },
   "testing_data": {
-    "tested": 4332819,
-    "positive": 186969,
-    "negative": 3122538,
-    "unconfirmed": 24696
+    "tested": 4332850,
+    "positive": 186970,
+    "negative": 3122555,
+    "unconfirmed": 24709
   },
   "testing_data_imcr": {
     "tested": 3837207,
     "source": "https://t.me/Covid19india_Auxiliary_Test_Data/253"
   },
   "today": {
-    "confirmed": 4050,
+    "confirmed": 4052,
     "recovered": 1642,
-    "dead": 49,
-    "active": 2359
+    "dead": 50,
+    "active": 2360
   }
 }
