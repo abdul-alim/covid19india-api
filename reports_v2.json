@@ -1,9 +1,9 @@
 {
-  "confirmed": 190791,
-  "recovered": 91855,
-  "dead": 5408,
-  "active": 93517,
-  "updatedTime": "01/06/2020 09:55:03",
+  "confirmed": 190962,
+  "recovered": 91866,
+  "dead": 5412,
+  "active": 93673,
+  "updatedTime": "01/06/2020 12:23:03",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -93,28 +93,28 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 205780,
-        "positive": 16356,
+        "tested": 211930,
+        "positive": 16794,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "30/05/2020",
-        "source": "https://twitter.com/GujHFWDept/status/1266732895776931842?s=20"
+        "date": "31/05/2020",
+        "source": ""
       }
     },
     "RJ": {
       "name": "Rajasthan",
-      "confirmed": 8831,
-      "active": 2604,
-      "recovered": 6032,
-      "dead": 195,
-      "updatedTime": "31/05/2020 22:19:07",
+      "confirmed": 8980,
+      "active": 2738,
+      "recovered": 6043,
+      "dead": 199,
+      "updatedTime": "01/06/2020 12:23:05",
       "note": "",
       "stateCode": "RJ",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 149,
+        "recovered": 11,
+        "dead": 4,
+        "active": 134
       },
       "testing_data": {
         "tested": 409777,
@@ -432,18 +432,18 @@
     },
     "AS": {
       "name": "Assam",
-      "confirmed": 1340,
-      "active": 1147,
+      "confirmed": 1362,
+      "active": 1169,
       "recovered": 186,
       "dead": 4,
-      "updatedTime": "01/06/2020 01:25:05",
+      "updatedTime": "01/06/2020 12:22:07",
       "note": "Includes one case from Nagaland <br>\nTotal of three* patients who migrated to other states has been reduced from Active count",
       "stateCode": "AS",
       "today": {
-        "confirmed": 0,
+        "confirmed": 22,
         "recovered": 0,
         "dead": 0,
-        "active": 0
+        "active": 22
       },
       "testing_data": {
         "tested": 109097,
@@ -880,8 +880,8 @@
     }
   },
   "testing_data": {
-    "tested": 4244566,
-    "positive": 176547,
+    "tested": 4250716,
+    "positive": 176985,
     "negative": 2967734,
     "unconfirmed": 24001
   },
@@ -890,9 +890,9 @@
     "source": "https://t.me/Covid19india_Auxiliary_Test_Data/253"
   },
   "today": {
-    "confirmed": 144,
-    "recovered": 0,
-    "dead": 0,
-    "active": 144
+    "confirmed": 315,
+    "recovered": 11,
+    "dead": 4,
+    "active": 300
   }
 }
