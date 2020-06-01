@@ -1,9 +1,9 @@
 {
-  "confirmed": 191041,
+  "confirmed": 191105,
   "recovered": 91907,
   "dead": 5413,
-  "active": 93710,
-  "updatedTime": "01/06/2020 14:13:03",
+  "active": 93774,
+  "updatedTime": "01/06/2020 14:35:03",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -240,18 +240,18 @@
     },
     "AP": {
       "name": "Andhra Pradesh",
-      "confirmed": 3647,
-      "active": 1209,
+      "confirmed": 3676,
+      "active": 1238,
       "recovered": 2374,
       "dead": 64,
-      "updatedTime": "01/06/2020 14:13:06",
+      "updatedTime": "01/06/2020 14:35:06",
       "note": "Total includes patients from other states and a new category \"Foreign Evacuees\" which is now reported in AP bulletin. <br>\nAP district data updated to match state dashboard as of 27th May. ",
       "stateCode": "AP",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 105,
+        "recovered": 34,
+        "dead": 2,
+        "active": 69
       },
       "testing_data": {
         "tested": 372748,
@@ -432,18 +432,18 @@
     },
     "AS": {
       "name": "Assam",
-      "confirmed": 1362,
-      "active": 1169,
+      "confirmed": 1385,
+      "active": 1192,
       "recovered": 186,
       "dead": 4,
-      "updatedTime": "01/06/2020 12:24:08",
+      "updatedTime": "01/06/2020 14:35:08",
       "note": "Includes one case from Nagaland <br>\nTotal of three* patients who migrated to other states has been reduced from Active count",
       "stateCode": "AS",
       "today": {
-        "confirmed": 22,
+        "confirmed": 45,
         "recovered": 0,
         "dead": 0,
-        "active": 22
+        "active": 45
       },
       "testing_data": {
         "tested": 109097,
@@ -536,10 +536,10 @@
       "note": "HP has 4 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed",
       "stateCode": "HP",
       "today": {
-        "confirmed": 0,
+        "confirmed": 2,
         "recovered": 0,
         "dead": 0,
-        "active": 0
+        "active": 2
       },
       "testing_data": {
         "tested": 37168,
@@ -576,18 +576,18 @@
     },
     "TR": {
       "name": "Tripura",
-      "confirmed": 316,
-      "active": 143,
+      "confirmed": 321,
+      "active": 148,
       "recovered": 173,
       "dead": 0,
-      "updatedTime": "01/06/2020 06:16:24",
+      "updatedTime": "01/06/2020 14:35:11",
       "note": "Two cases have migrated out of Tripura.",
       "stateCode": "TR",
       "today": {
-        "confirmed": 0,
+        "confirmed": 5,
         "recovered": 0,
         "dead": 0,
-        "active": 0
+        "active": 5
       },
       "testing_data": {
         "tested": 27475,
@@ -648,18 +648,18 @@
     },
     "MN": {
       "name": "Manipur",
-      "confirmed": 71,
-      "active": 60,
+      "confirmed": 78,
+      "active": 67,
       "recovered": 11,
       "dead": 0,
-      "updatedTime": "31/05/2020 18:35:08",
+      "updatedTime": "01/06/2020 14:35:13",
       "note": "",
       "stateCode": "MN",
       "today": {
-        "confirmed": 0,
+        "confirmed": 7,
         "recovered": 0,
         "dead": 0,
-        "active": 0
+        "active": 7
       },
       "testing_data": {
         "tested": 8596,
@@ -890,9 +890,9 @@
     "source": "https://t.me/Covid19india_Auxiliary_Test_Data/253"
   },
   "today": {
-    "confirmed": 315,
-    "recovered": 11,
-    "dead": 4,
-    "active": 300
+    "confirmed": 457,
+    "recovered": 45,
+    "dead": 6,
+    "active": 406
   }
 }
