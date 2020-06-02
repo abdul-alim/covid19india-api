@@ -687,14 +687,14 @@
       {
         "district": "Barpeta",
         "notes": "",
-        "active": 33,
+        "active": 31,
         "confirmed": 43,
-        "recovered": 10,
+        "recovered": 12,
         "dead": 0,
         "today": {
           "confirmed": 0,
-          "recovered": 0,
-          "active": 0,
+          "recovered": 2,
+          "active": -2,
           "dead": 0
         }
       },
@@ -925,14 +925,14 @@
       {
         "district": "Kamrup Metropolitan",
         "notes": "",
-        "active": 203,
+        "active": 193,
         "confirmed": 377,
-        "recovered": 171,
+        "recovered": 181,
         "dead": 3,
         "today": {
           "confirmed": 0,
-          "recovered": 9,
-          "active": -9,
+          "recovered": 19,
+          "active": -19,
           "dead": 0
         }
       },
@@ -1135,22 +1135,22 @@
       {
         "district": "West Karbi Anglong",
         "notes": "",
-        "active": 4,
+        "active": 3,
         "confirmed": 4,
-        "recovered": 0,
+        "recovered": 1,
         "dead": 0,
         "today": {
           "confirmed": 0,
-          "recovered": 0,
-          "active": 0,
+          "recovered": 1,
+          "active": -1,
           "dead": 0
         }
       }
     ],
     "today": {
       "confirmed": 23,
-      "active": -17,
-      "recovered": 40,
+      "active": -30,
+      "recovered": 53,
       "dead": 0
     },
     "confirmed": 1514,
@@ -5601,14 +5601,14 @@
       {
         "district": "Imphal East",
         "notes": "",
-        "active": 5,
-        "confirmed": 6,
+        "active": 9,
+        "confirmed": 10,
         "recovered": 1,
         "dead": 0,
         "today": {
-          "confirmed": 0,
+          "confirmed": 4,
           "recovered": 0,
-          "active": 0,
+          "active": 4,
           "dead": 0
         }
       },
@@ -5782,8 +5782,8 @@
       }
     ],
     "today": {
-      "confirmed": 2,
-      "active": 2,
+      "confirmed": 6,
+      "active": 6,
       "recovered": 0,
       "dead": 0
     },
