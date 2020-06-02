@@ -1,9 +1,9 @@
 {
-  "confirmed": 199599,
-  "recovered": 95848,
+  "confirmed": 199613,
+  "recovered": 95852,
   "dead": 5610,
-  "active": 98130,
-  "updatedTime": "02/06/2020 13:03:03",
+  "active": 98140,
+  "updatedTime": "02/06/2020 13:21:03",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -388,7 +388,7 @@
       "active": 991,
       "recovered": 1245,
       "dead": 9,
-      "updatedTime": "02/06/2020 13:03:05",
+      "updatedTime": "02/06/2020 13:15:06",
       "note": "",
       "stateCode": "OR",
       "today": {
@@ -480,18 +480,18 @@
     },
     "JH": {
       "name": "Jharkhand",
-      "confirmed": 661,
-      "active": 360,
+      "confirmed": 675,
+      "active": 374,
       "recovered": 296,
       "dead": 5,
-      "updatedTime": "02/06/2020 00:35:08",
+      "updatedTime": "02/06/2020 13:21:06",
       "note": "",
       "stateCode": "JH",
       "today": {
-        "confirmed": 0,
+        "confirmed": 14,
         "recovered": 0,
         "dead": 0,
-        "active": 0
+        "active": 14
       },
       "testing_data": {
         "tested": 69187,
@@ -529,17 +529,17 @@
     "HP": {
       "name": "Himachal Pradesh",
       "confirmed": 340,
-      "active": 213,
-      "recovered": 118,
+      "active": 209,
+      "recovered": 122,
       "dead": 6,
-      "updatedTime": "01/06/2020 21:30:08",
+      "updatedTime": "02/06/2020 13:21:07",
       "note": "HP has 4 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed",
       "stateCode": "HP",
       "today": {
         "confirmed": 0,
-        "recovered": 0,
+        "recovered": 4,
         "dead": 0,
-        "active": 0
+        "active": -4
       },
       "testing_data": {
         "tested": 37897,
@@ -890,9 +890,9 @@
     "source": "https://twitter.com/ICMRDELHI/status/1267665101781266433?s=20"
   },
   "today": {
-    "confirmed": 1229,
-    "recovered": 94,
+    "confirmed": 1243,
+    "recovered": 98,
     "dead": 2,
-    "active": 1133
+    "active": 1143
   }
 }
