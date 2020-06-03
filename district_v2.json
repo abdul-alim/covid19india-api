@@ -5418,14 +5418,14 @@
       {
         "district": "East Khasi Hills",
         "notes": "",
-        "active": 1,
+        "active": 0,
         "confirmed": 14,
-        "recovered": 12,
+        "recovered": 13,
         "dead": 1,
         "today": {
           "confirmed": 0,
-          "recovered": 0,
-          "active": 0,
+          "recovered": 1,
+          "active": -1,
           "dead": 0
         }
       },
@@ -5544,12 +5544,12 @@
     ],
     "today": {
       "confirmed": 1,
-      "active": 1,
-      "recovered": 0,
+      "active": 0,
+      "recovered": 1,
       "dead": 0
     },
-    "confirmed": 30,
-    "recovered": 12,
+    "confirmed": 31,
+    "recovered": 13,
     "dead": 1,
     "active": 17
   },
@@ -10626,14 +10626,14 @@
       {
         "district": "Chamoli",
         "notes": "",
-        "active": 19,
-        "confirmed": 19,
+        "active": 23,
+        "confirmed": 23,
         "recovered": 0,
         "dead": 0,
         "today": {
-          "confirmed": 0,
+          "confirmed": 4,
           "recovered": 0,
-          "active": 0,
+          "active": 4,
           "dead": 0
         }
       },
@@ -10654,28 +10654,28 @@
       {
         "district": "Dehradun",
         "notes": "",
-        "active": 234,
-        "confirmed": 279,
-        "recovered": 41,
-        "dead": 4,
+        "active": 238,
+        "confirmed": 287,
+        "recovered": 44,
+        "dead": 5,
         "today": {
-          "confirmed": 0,
-          "recovered": 0,
-          "active": 0,
-          "dead": 0
+          "confirmed": 8,
+          "recovered": 3,
+          "active": 4,
+          "dead": 1
         }
       },
       {
         "district": "Haridwar",
         "notes": "",
-        "active": 64,
-        "confirmed": 77,
+        "active": 73,
+        "confirmed": 86,
         "recovered": 13,
         "dead": 0,
         "today": {
-          "confirmed": 0,
+          "confirmed": 9,
           "recovered": 0,
-          "active": 0,
+          "active": 9,
           "dead": 0
         }
       },
@@ -10683,12 +10683,12 @@
         "district": "Nainital",
         "notes": "",
         "active": 167,
-        "confirmed": 285,
-        "recovered": 117,
+        "confirmed": 286,
+        "recovered": 118,
         "dead": 1,
         "today": {
-          "confirmed": 0,
-          "recovered": 0,
+          "confirmed": 1,
+          "recovered": 1,
           "active": 0,
           "dead": 0
         }
@@ -10696,14 +10696,14 @@
       {
         "district": "Pauri Garhwal",
         "notes": "",
-        "active": 29,
-        "confirmed": 37,
-        "recovered": 7,
+        "active": 33,
+        "confirmed": 38,
+        "recovered": 4,
         "dead": 1,
         "today": {
-          "confirmed": 0,
-          "recovered": 0,
-          "active": 0,
+          "confirmed": 1,
+          "recovered": -3,
+          "active": 4,
           "dead": 0
         }
       },
@@ -10738,28 +10738,28 @@
       {
         "district": "Tehri Garhwal",
         "notes": "",
-        "active": 91,
+        "active": 86,
         "confirmed": 91,
-        "recovered": 0,
+        "recovered": 5,
         "dead": 0,
         "today": {
           "confirmed": 0,
-          "recovered": 0,
-          "active": 0,
+          "recovered": 5,
+          "active": -5,
           "dead": 0
         }
       },
       {
         "district": "Udham Singh Nagar",
         "notes": "",
-        "active": 39,
+        "active": 38,
         "confirmed": 82,
-        "recovered": 43,
+        "recovered": 44,
         "dead": 0,
         "today": {
           "confirmed": 0,
-          "recovered": 0,
-          "active": 0,
+          "recovered": 1,
+          "active": -1,
           "dead": 0
         }
       },
@@ -10779,15 +10779,15 @@
       }
     ],
     "today": {
-      "confirmed": 0,
-      "active": 0,
-      "recovered": 0,
-      "dead": 0
+      "confirmed": 23,
+      "active": 15,
+      "recovered": 7,
+      "dead": 1
     },
-    "confirmed": 1043,
-    "recovered": 252,
-    "dead": 7,
-    "active": 781
+    "confirmed": 1066,
+    "recovered": 259,
+    "dead": 8,
+    "active": 796
   },
   "WB": {
     "state": "West Bengal",
