@@ -1,9 +1,9 @@
 {
-  "confirmed": 208709,
-  "recovered": 100577,
+  "confirmed": 208800,
+  "recovered": 100602,
   "dead": 5834,
-  "active": 102287,
-  "updatedTime": "03/06/2020 18:00:03",
+  "active": 102352,
+  "updatedTime": "03/06/2020 18:23:03",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -36,7 +36,7 @@
       "recovered": 13706,
       "dead": 200,
       "updatedTime": "02/06/2020 18:36:17",
-      "note": "2 deaths cross notified to other states from Chennai and Coimbatore.<br>1 patient died after turning negative for infection in Chengalpattu",
+      "note": "2 deaths cross notified to other states from Chennai and Coimbatore.\n1 patient died after turning negative for infection in Chengalpattu",
       "stateCode": "TN",
       "today": {
         "confirmed": 0,
@@ -60,7 +60,7 @@
       "recovered": 9243,
       "dead": 556,
       "updatedTime": "02/06/2020 22:24:06",
-      "note": "[10-May]<br>\n\nDelhi bulletins in the morning, containing data of the previous day. We will add that data to the date on which the report is released, rather than the previous day.",
+      "note": "[10-May]\nDelhi bulletins in the morning, containing data of the previous day. We will add that data to the date on which the report is released, rather than the previous day.",
       "stateCode": "DL",
       "today": {
         "confirmed": 0,
@@ -180,7 +180,7 @@
       "recovered": 2410,
       "dead": 335,
       "updatedTime": "02/06/2020 20:35:05",
-      "note": "- Cases updated as per WB bulletin.<br>\n- Deaths due to comorbidities added to total deceased<br>",
+      "note": "Deaths due to comorbidities added to total deceased",
       "stateCode": "WB",
       "today": {
         "confirmed": 0,
@@ -245,7 +245,7 @@
       "recovered": 2464,
       "dead": 68,
       "updatedTime": "03/06/2020 13:53:05",
-      "note": "Total includes patients from other states and a new category \"Foreign Evacuees\" which is now reported in AP bulletin. <br>\nAP district data updated to match state dashboard as of 27th May. ",
+      "note": "Total includes patients from other states and a new category \"Foreign Evacuees\" which is now reported in AP bulletin.",
       "stateCode": "AP",
       "today": {
         "confirmed": 180,
@@ -413,7 +413,7 @@
       "recovered": 405,
       "dead": 4,
       "updatedTime": "03/06/2020 18:00:06",
-      "note": "Includes one case from Nagaland <br>\nTotal of three* patients who migrated to other states has been reduced from Active count",
+      "note": "Includes one case from Nagaland\nTotal of three* patients who migrated to other states has been reduced from Active count",
       "stateCode": "AS",
       "today": {
         "confirmed": 111,
@@ -432,18 +432,18 @@
     },
     "KL": {
       "name": "Kerala",
-      "confirmed": 1413,
-      "active": 774,
-      "recovered": 627,
+      "confirmed": 1495,
+      "active": 832,
+      "recovered": 651,
       "dead": 12,
-      "updatedTime": "02/06/2020 18:13:05",
+      "updatedTime": "03/06/2020 18:23:05",
       "note": "Mahe native who expired in Kannur included in Kerala's tally",
       "stateCode": "KL",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 82,
+        "recovered": 24,
         "dead": 0,
-        "active": 0
+        "active": 58
       },
       "testing_data": {
         "tested": 86169,
@@ -457,11 +457,11 @@
     "UT": {
       "name": "Uttarakhand",
       "confirmed": 1066,
-      "active": 796,
+      "active": 795,
       "recovered": 259,
       "dead": 8,
-      "updatedTime": "03/06/2020 15:32:06",
-      "note": "Three migrated cases reduced from Active count",
+      "updatedTime": "03/06/2020 18:23:07",
+      "note": "Four migrated cases reduced from Active count",
       "stateCode": "UT",
       "today": {
         "confirmed": 23,
@@ -470,12 +470,12 @@
         "active": 15
       },
       "testing_data": {
-        "tested": 33081,
-        "positive": 999,
-        "negative": 24262,
-        "unconfirmed": 6863,
-        "date": "02/06/2020",
-        "source": "https://t.me/indiacovid/6122?single"
+        "tested": 34413,
+        "positive": 1066,
+        "negative": 25385,
+        "unconfirmed": 7004,
+        "date": "03/06/2020",
+        "source": "https://t.me/indiacovid/6207?single"
       }
     },
     "JH": {
@@ -542,12 +542,12 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 39620,
-        "positive": 345,
-        "negative": 38993,
-        "unconfirmed": 282,
-        "date": "02/06/2020",
-        "source": "https://twitter.com/nhm_hp/status/1267846904345497601"
+        "tested": 41243,
+        "positive": 357,
+        "negative": 39825,
+        "unconfirmed": 1061,
+        "date": "03/06/2020",
+        "source": "https://twitter.com/nhm_hp/status/1268156466801700864?s=19"
       }
     },
     "TR": {
@@ -557,7 +557,7 @@
       "recovered": 173,
       "dead": 0,
       "updatedTime": "03/06/2020 16:04:06",
-      "note": "Two cases have migrated out of Tripura.",
+      "note": "",
       "stateCode": "TR",
       "today": {
         "confirmed": 49,
@@ -590,12 +590,12 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 4902,
+        "tested": 4977,
         "positive": 301,
-        "negative": 4573,
-        "unconfirmed": 27,
-        "date": "02/06/2020",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/273"
+        "negative": 4658,
+        "unconfirmed": 17,
+        "date": "03/06/2020",
+        "source": "https://t.me/indiacovid/6205"
       }
     },
     "MN": {
@@ -624,18 +624,18 @@
     },
     "LA": {
       "name": "Ladakh",
-      "confirmed": 81,
-      "active": 33,
-      "recovered": 47,
+      "confirmed": 90,
+      "active": 41,
+      "recovered": 48,
       "dead": 1,
-      "updatedTime": "02/06/2020 22:24:12",
+      "updatedTime": "03/06/2020 18:16:07",
       "note": "",
       "stateCode": "LA",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 9,
+        "recovered": 1,
         "dead": 0,
-        "active": 0
+        "active": 8
       },
       "testing_data": {
         "tested": 8264,
@@ -880,19 +880,19 @@
     }
   },
   "testing_data": {
-    "tested": 4558183,
-    "positive": 199115,
-    "negative": 3286091,
-    "unconfirmed": 27830
+    "tested": 4561213,
+    "positive": 199194,
+    "negative": 3288131,
+    "unconfirmed": 28740
   },
   "testing_data_imcr": {
     "tested": 4103233,
     "source": "https://twitter.com/ICMRDELHI/status/1268030064467165184?s=19"
   },
   "today": {
-    "confirmed": 1518,
-    "recovered": 292,
+    "confirmed": 1609,
+    "recovered": 317,
     "dead": 5,
-    "active": 1221
+    "active": 1287
   }
 }
