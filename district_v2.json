@@ -687,14 +687,14 @@
       {
         "district": "Barpeta",
         "notes": "",
-        "active": 31,
+        "active": 21,
         "confirmed": 43,
-        "recovered": 12,
+        "recovered": 22,
         "dead": 0,
         "today": {
           "confirmed": 0,
-          "recovered": 0,
-          "active": 0,
+          "recovered": 10,
+          "active": -10,
           "dead": 0
         }
       },
@@ -729,14 +729,14 @@
       {
         "district": "Cachar",
         "notes": "",
-        "active": 13,
+        "active": 11,
         "confirmed": 73,
-        "recovered": 60,
+        "recovered": 62,
         "dead": 0,
         "today": {
           "confirmed": 1,
-          "recovered": 0,
-          "active": 1,
+          "recovered": 2,
+          "active": -1,
           "dead": 0
         }
       },
@@ -827,14 +827,14 @@
       {
         "district": "Dima Hasao",
         "notes": "",
-        "active": 38,
+        "active": 31,
         "confirmed": 38,
-        "recovered": 0,
+        "recovered": 7,
         "dead": 0,
         "today": {
           "confirmed": 30,
-          "recovered": 0,
-          "active": 30,
+          "recovered": 7,
+          "active": 23,
           "dead": 0
         }
       },
@@ -855,14 +855,14 @@
       {
         "district": "Golaghat",
         "notes": "",
-        "active": 182,
+        "active": 181,
         "confirmed": 207,
-        "recovered": 25,
+        "recovered": 26,
         "dead": 0,
         "today": {
           "confirmed": 18,
-          "recovered": 4,
-          "active": 14,
+          "recovered": 5,
+          "active": 13,
           "dead": 0
         }
       },
@@ -897,56 +897,56 @@
       {
         "district": "Jorhat",
         "notes": "",
-        "active": 5,
+        "active": 2,
         "confirmed": 23,
-        "recovered": 18,
+        "recovered": 21,
         "dead": 0,
         "today": {
           "confirmed": 0,
-          "recovered": 0,
-          "active": 0,
+          "recovered": 3,
+          "active": -3,
           "dead": 0
         }
       },
       {
         "district": "Kamrup",
         "notes": "",
-        "active": 94,
-        "confirmed": 95,
-        "recovered": 1,
+        "active": 90,
+        "confirmed": 96,
+        "recovered": 6,
         "dead": 0,
         "today": {
           "confirmed": 3,
-          "recovered": 0,
-          "active": 3,
+          "recovered": 5,
+          "active": -2,
           "dead": 0
         }
       },
       {
         "district": "Kamrup Metropolitan",
         "notes": "",
-        "active": 193,
-        "confirmed": 377,
-        "recovered": 181,
+        "active": 170,
+        "confirmed": 393,
+        "recovered": 220,
         "dead": 3,
         "today": {
-          "confirmed": 0,
-          "recovered": 0,
-          "active": 0,
+          "confirmed": 2,
+          "recovered": 39,
+          "active": -37,
           "dead": 0
         }
       },
       {
         "district": "Karbi Anglong",
         "notes": "",
-        "active": 8,
+        "active": 7,
         "confirmed": 8,
-        "recovered": 0,
+        "recovered": 1,
         "dead": 0,
         "today": {
           "confirmed": 0,
-          "recovered": 0,
-          "active": 0,
+          "recovered": 1,
+          "active": -1,
           "dead": 0
         }
       },
@@ -1135,22 +1135,22 @@
       {
         "district": "West Karbi Anglong",
         "notes": "",
-        "active": 12,
+        "active": 13,
         "confirmed": 13,
-        "recovered": 1,
+        "recovered": 0,
         "dead": 0,
         "today": {
           "confirmed": 0,
-          "recovered": 0,
-          "active": 0,
+          "recovered": -1,
+          "active": 1,
           "dead": 0
         }
       }
     ],
     "today": {
-      "confirmed": 267,
-      "active": 258,
-      "recovered": 9,
+      "confirmed": 269,
+      "active": 193,
+      "recovered": 76,
       "dead": 0
     },
     "confirmed": 1831,
@@ -3438,12 +3438,12 @@
         "district": "Bokaro",
         "notes": "",
         "active": 8,
-        "confirmed": 23,
-        "recovered": 14,
+        "confirmed": 24,
+        "recovered": 15,
         "dead": 1,
         "today": {
-          "confirmed": 0,
-          "recovered": 0,
+          "confirmed": 1,
+          "recovered": 1,
           "active": 0,
           "dead": 0
         }
@@ -3507,14 +3507,14 @@
       {
         "district": "East Singhbhum",
         "notes": "",
-        "active": 121,
-        "confirmed": 122,
+        "active": 122,
+        "confirmed": 123,
         "recovered": 1,
         "dead": 0,
         "today": {
-          "confirmed": 3,
+          "confirmed": 4,
           "recovered": 0,
-          "active": 3,
+          "active": 4,
           "dead": 0
         }
       },
@@ -3563,28 +3563,28 @@
       {
         "district": "Gumla",
         "notes": "",
-        "active": 22,
-        "confirmed": 22,
+        "active": 23,
+        "confirmed": 23,
         "recovered": 0,
         "dead": 0,
         "today": {
-          "confirmed": 0,
+          "confirmed": 1,
           "recovered": 0,
-          "active": 0,
+          "active": 1,
           "dead": 0
         }
       },
       {
         "district": "Hazaribagh",
         "notes": "",
-        "active": 47,
-        "confirmed": 82,
+        "active": 48,
+        "confirmed": 83,
         "recovered": 35,
         "dead": 0,
         "today": {
-          "confirmed": 2,
+          "confirmed": 3,
           "recovered": 0,
-          "active": 2,
+          "active": 3,
           "dead": 0
         }
       },
@@ -3619,28 +3619,28 @@
       {
         "district": "Koderma",
         "notes": "",
-        "active": 19,
-        "confirmed": 45,
+        "active": 20,
+        "confirmed": 46,
         "recovered": 25,
         "dead": 1,
         "today": {
-          "confirmed": 0,
+          "confirmed": 1,
           "recovered": 0,
-          "active": 0,
+          "active": 1,
           "dead": 0
         }
       },
       {
         "district": "Latehar",
         "notes": "",
-        "active": 3,
-        "confirmed": 10,
+        "active": 6,
+        "confirmed": 13,
         "recovered": 7,
         "dead": 0,
         "today": {
-          "confirmed": 0,
+          "confirmed": 3,
           "recovered": 0,
-          "active": 0,
+          "active": 3,
           "dead": 0
         }
       },
@@ -3675,42 +3675,42 @@
       {
         "district": "Palamu",
         "notes": "",
-        "active": 3,
-        "confirmed": 19,
+        "active": 9,
+        "confirmed": 25,
         "recovered": 16,
         "dead": 0,
         "today": {
-          "confirmed": 0,
+          "confirmed": 6,
           "recovered": 0,
-          "active": 0,
+          "active": 6,
           "dead": 0
         }
       },
       {
         "district": "Ramgarh",
         "notes": "",
-        "active": 44,
-        "confirmed": 44,
+        "active": 49,
+        "confirmed": 49,
         "recovered": 0,
         "dead": 0,
         "today": {
-          "confirmed": -1,
+          "confirmed": 4,
           "recovered": 0,
-          "active": -1,
+          "active": 4,
           "dead": 0
         }
       },
       {
         "district": "Ranchi",
         "notes": "",
-        "active": 23,
-        "confirmed": 138,
+        "active": 24,
+        "confirmed": 139,
         "recovered": 113,
         "dead": 2,
         "today": {
-          "confirmed": 0,
+          "confirmed": 1,
           "recovered": 0,
-          "active": 0,
+          "active": 1,
           "dead": 0
         }
       },
@@ -3731,56 +3731,56 @@
       {
         "district": "Saraikela-Kharsawan",
         "notes": "",
-        "active": 5,
-        "confirmed": 5,
+        "active": 14,
+        "confirmed": 14,
         "recovered": 0,
         "dead": 0,
         "today": {
-          "confirmed": 0,
+          "confirmed": 9,
           "recovered": 0,
-          "active": 0,
+          "active": 9,
           "dead": 0
         }
       },
       {
         "district": "Simdega",
         "notes": "",
-        "active": 14,
-        "confirmed": 16,
+        "active": 22,
+        "confirmed": 24,
         "recovered": 2,
         "dead": 0,
         "today": {
-          "confirmed": 0,
+          "confirmed": 8,
           "recovered": 0,
-          "active": 0,
+          "active": 8,
           "dead": 0
         }
       },
       {
         "district": "West Singhbhum",
         "notes": "",
-        "active": 14,
-        "confirmed": 15,
+        "active": 15,
+        "confirmed": 16,
         "recovered": 1,
         "dead": 0,
         "today": {
-          "confirmed": 0,
+          "confirmed": 1,
           "recovered": 0,
-          "active": 0,
+          "active": 1,
           "dead": 0
         }
       }
     ],
     "today": {
-      "confirmed": 18,
-      "active": 18,
-      "recovered": 0,
+      "confirmed": 56,
+      "active": 55,
+      "recovered": 1,
       "dead": 0
     },
-    "confirmed": 726,
-    "recovered": 296,
+    "confirmed": 764,
+    "recovered": 297,
     "dead": 5,
-    "active": 425
+    "active": 462
   },
   "JK": {
     "state": "Jammu and Kashmir",
