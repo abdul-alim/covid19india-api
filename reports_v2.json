@@ -1,9 +1,9 @@
 {
-  "confirmed": 218061,
-  "recovered": 104410,
+  "confirmed": 218172,
+  "recovered": 104505,
   "dead": 6097,
-  "active": 107542,
-  "updatedTime": "04/06/2020 18:23:03",
+  "active": 107558,
+  "updatedTime": "04/06/2020 18:53:05",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -217,17 +217,17 @@
     "BR": {
       "name": "Bihar",
       "confirmed": 4420,
-      "active": 2370,
-      "recovered": 2025,
+      "active": 2275,
+      "recovered": 2120,
       "dead": 25,
-      "updatedTime": "04/06/2020 18:04:05",
+      "updatedTime": "04/06/2020 18:53:07",
       "note": "",
       "stateCode": "BR",
       "today": {
         "confirmed": 94,
-        "recovered": 0,
+        "recovered": 95,
         "dead": 0,
-        "active": 94
+        "active": -1
       },
       "testing_data": {
         "tested": 84729,
@@ -408,18 +408,18 @@
     },
     "AS": {
       "name": "Assam",
-      "confirmed": 1878,
-      "active": 1428,
+      "confirmed": 1989,
+      "active": 1539,
       "recovered": 443,
       "dead": 4,
-      "updatedTime": "04/06/2020 17:14:05",
+      "updatedTime": "04/06/2020 18:52:07",
       "note": "Includes one case from Nagaland\nTotal of three* patients who migrated to other states has been reduced from Active count",
       "stateCode": "AS",
       "today": {
-        "confirmed": 47,
+        "confirmed": 158,
         "recovered": 29,
         "dead": 0,
-        "active": 18
+        "active": 129
       },
       "testing_data": {
         "tested": 126726,
@@ -436,7 +436,7 @@
       "active": 884,
       "recovered": 690,
       "dead": 15,
-      "updatedTime": "04/06/2020 18:23:06",
+      "updatedTime": "04/06/2020 18:52:16",
       "note": "Mahe native who expired in Kannur included in Kerala's tally",
       "stateCode": "KL",
       "today": {
@@ -890,9 +890,9 @@
     "source": "https://t.me/Covid19india_Auxiliary_Test_Data/294"
   },
   "today": {
-    "confirmed": 1235,
-    "recovered": 336,
+    "confirmed": 1346,
+    "recovered": 431,
     "dead": 8,
-    "active": 891
+    "active": 907
   }
 }
