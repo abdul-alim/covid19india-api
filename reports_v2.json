@@ -1,9 +1,9 @@
 {
-  "confirmed": 225082,
-  "recovered": 107991,
-  "dead": 6318,
-  "active": 110761,
-  "updatedTime": "04/06/2020 22:23:04",
+  "confirmed": 226494,
+  "recovered": 108347,
+  "dead": 6362,
+  "active": 111773,
+  "updatedTime": "04/06/2020 22:35:04",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -55,18 +55,18 @@
     },
     "DL": {
       "name": "Delhi",
-      "confirmed": 23645,
-      "active": 13488,
-      "recovered": 9542,
-      "dead": 615,
-      "updatedTime": "03/06/2020 21:45:04",
+      "confirmed": 25004,
+      "active": 14447,
+      "recovered": 9898,
+      "dead": 659,
+      "updatedTime": "04/06/2020 22:35:13",
       "note": "[10-May]\nDelhi bulletins in the morning, containing data of the previous day. We will add that data to the date on which the report is released, rather than the previous day.\nAlso, backdated deaths reported are added to the day in which they are announced",
       "stateCode": "DL",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 1359,
+        "recovered": 356,
+        "dead": 44,
+        "active": 959
       },
       "testing_data": {
         "tested": 230145,
@@ -141,12 +141,12 @@
         "active": 170
       },
       "testing_data": {
-        "tested": 317780,
-        "positive": 8870,
-        "negative": 306672,
-        "unconfirmed": 2238,
-        "date": "03/06/2020",
-        "source": "https://t.me/indiacovid/6266?single"
+        "tested": 330663,
+        "positive": 9237,
+        "negative": 318562,
+        "unconfirmed": 2864,
+        "date": "04/06/2020",
+        "source": "https://t.me/indiacovid/6310"
       }
     },
     "MP": {
@@ -206,12 +206,12 @@
         "active": 170
       },
       "testing_data": {
-        "tested": 232225,
-        "positive": 6508,
+        "tested": 241831,
+        "positive": 6876,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "03/06/2020",
-        "source": "https://www.wbhealth.gov.in/uploaded_files/corona/WB_DHFW_Bulletin_3rd_JUNE_REPORT_FINAL.pdf"
+        "date": "04/06/2020",
+        "source": "https://www.wbhealth.gov.in/uploaded_files/corona/WB_DHFW_Bulletin_4th_JUNE_REPORT_FINAL.pdf"
       }
     },
     "BR": {
@@ -470,12 +470,12 @@
         "active": 28
       },
       "testing_data": {
-        "tested": 34413,
-        "positive": 1066,
-        "negative": 25385,
-        "unconfirmed": 7004,
-        "date": "03/06/2020",
-        "source": "https://t.me/indiacovid/6207?single"
+        "tested": 35117,
+        "positive": 1145,
+        "negative": 26093,
+        "unconfirmed": 6920,
+        "date": "04/06/2020",
+        "source": "https://health.uk.gov.in/files/2020.06.04_Health_Bulletin.pdf"
       }
     },
     "JH": {
@@ -504,18 +504,18 @@
     },
     "CT": {
       "name": "Chhattisgarh",
-      "confirmed": 678,
-      "active": 487,
+      "confirmed": 756,
+      "active": 565,
       "recovered": 189,
       "dead": 2,
-      "updatedTime": "04/06/2020 17:55:08",
+      "updatedTime": "04/06/2020 22:35:22",
       "note": "",
       "stateCode": "CT",
       "today": {
-        "confirmed": 52,
+        "confirmed": 130,
         "recovered": 19,
         "dead": 0,
-        "active": 33
+        "active": 111
       },
       "testing_data": {
         "tested": 80416,
@@ -528,18 +528,18 @@
     },
     "TR": {
       "name": "Tripura",
-      "confirmed": 672,
-      "active": 499,
+      "confirmed": 647,
+      "active": 474,
       "recovered": 173,
       "dead": 0,
-      "updatedTime": "04/06/2020 22:23:08",
+      "updatedTime": "04/06/2020 22:35:31",
       "note": "",
       "stateCode": "TR",
       "today": {
-        "confirmed": 201,
+        "confirmed": 176,
         "recovered": 0,
         "dead": 0,
-        "active": 201
+        "active": 176
       },
       "testing_data": {
         "tested": 31138,
@@ -847,12 +847,12 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 4102,
+        "tested": 4358,
         "positive": 2,
-        "negative": 3062,
-        "unconfirmed": 1038,
-        "date": "03/06/2020",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/288"
+        "negative": 3894,
+        "unconfirmed": 462,
+        "date": "04/06/2020",
+        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/305"
       }
     },
     "LD": {
@@ -880,19 +880,19 @@
     }
   },
   "testing_data": {
-    "tested": 4789607,
-    "positive": 210908,
-    "negative": 3445503,
-    "unconfirmed": 30899
+    "tested": 4813056,
+    "positive": 211722,
+    "negative": 3458933,
+    "unconfirmed": 30865
   },
   "testing_data_imcr": {
     "tested": 4242718,
     "source": "https://t.me/Covid19india_Auxiliary_Test_Data/294"
   },
   "today": {
-    "confirmed": 8358,
-    "recovered": 3927,
-    "dead": 229,
-    "active": 4202
+    "confirmed": 9770,
+    "recovered": 4283,
+    "dead": 273,
+    "active": 5214
   }
 }
