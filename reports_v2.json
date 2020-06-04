@@ -1,9 +1,9 @@
 {
-  "confirmed": 218172,
-  "recovered": 104505,
-  "dead": 6097,
-  "active": 107558,
-  "updatedTime": "04/06/2020 18:53:05",
+  "confirmed": 218437,
+  "recovered": 104628,
+  "dead": 6104,
+  "active": 107693,
+  "updatedTime": "04/06/2020 19:02:13",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -217,41 +217,41 @@
     "BR": {
       "name": "Bihar",
       "confirmed": 4420,
-      "active": 2275,
+      "active": 2272,
       "recovered": 2120,
-      "dead": 25,
-      "updatedTime": "04/06/2020 18:53:07",
+      "dead": 28,
+      "updatedTime": "04/06/2020 19:02:16",
       "note": "",
       "stateCode": "BR",
       "today": {
         "confirmed": 94,
         "recovered": 95,
-        "dead": 0,
-        "active": -1
+        "dead": 3,
+        "active": -4
       },
       "testing_data": {
-        "tested": 84729,
-        "positive": 4273,
+        "tested": 88313,
+        "positive": 4420,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "03/06/2020",
-        "source": "https://twitter.com/PIB_Patna/status/1268140984656957441"
+        "date": "04/06/2020",
+        "source": "https://twitter.com/PIB_Patna/status/1268520472284667904"
       }
     },
     "KA": {
       "name": "Karnataka",
-      "confirmed": 4063,
-      "active": 2494,
-      "recovered": 1514,
-      "dead": 53,
-      "updatedTime": "03/06/2020 19:45:05",
+      "confirmed": 4320,
+      "active": 2641,
+      "recovered": 1620,
+      "dead": 57,
+      "updatedTime": "04/06/2020 19:02:18",
       "note": "Two active cases in KA reduced as these confirmed patients died of non-CoViD19 related reasons",
       "stateCode": "KA",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 257,
+        "recovered": 106,
+        "dead": 4,
+        "active": 147
       },
       "testing_data": {
         "tested": 334825,
@@ -412,7 +412,7 @@
       "active": 1539,
       "recovered": 443,
       "dead": 4,
-      "updatedTime": "04/06/2020 18:52:07",
+      "updatedTime": "04/06/2020 18:58:30",
       "note": "Includes one case from Nagaland\nTotal of three* patients who migrated to other states has been reduced from Active count",
       "stateCode": "AS",
       "today": {
@@ -436,7 +436,7 @@
       "active": 884,
       "recovered": 690,
       "dead": 15,
-      "updatedTime": "04/06/2020 18:52:16",
+      "updatedTime": "04/06/2020 18:58:33",
       "note": "Mahe native who expired in Kannur included in Kerala's tally",
       "stateCode": "KL",
       "today": {
@@ -552,18 +552,18 @@
     },
     "HP": {
       "name": "Himachal Pradesh",
-      "confirmed": 361,
-      "active": 206,
-      "recovered": 146,
+      "confirmed": 369,
+      "active": 197,
+      "recovered": 163,
       "dead": 6,
-      "updatedTime": "04/06/2020 12:42:33",
+      "updatedTime": "04/06/2020 19:02:21",
       "note": "HP has 4 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed",
       "stateCode": "HP",
       "today": {
-        "confirmed": 2,
-        "recovered": 0,
+        "confirmed": 10,
+        "recovered": 17,
         "dead": 0,
-        "active": 2
+        "active": -7
       },
       "testing_data": {
         "tested": 41351,
@@ -880,8 +880,8 @@
     }
   },
   "testing_data": {
-    "tested": 4712061,
-    "positive": 207384,
+    "tested": 4715645,
+    "positive": 207531,
     "negative": 3389167,
     "unconfirmed": 29445
   },
@@ -890,9 +890,9 @@
     "source": "https://t.me/Covid19india_Auxiliary_Test_Data/294"
   },
   "today": {
-    "confirmed": 1346,
-    "recovered": 431,
-    "dead": 8,
-    "active": 907
+    "confirmed": 1611,
+    "recovered": 554,
+    "dead": 15,
+    "active": 1042
   }
 }
