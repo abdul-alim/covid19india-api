@@ -1,9 +1,9 @@
 {
-  "confirmed": 229640,
-  "recovered": 109931,
-  "dead": 6382,
-  "active": 113315,
-  "updatedTime": "05/06/2020 19:22:46",
+  "confirmed": 230113,
+  "recovered": 110075,
+  "dead": 6393,
+  "active": 113633,
+  "updatedTime": "05/06/2020 19:34:45",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -192,18 +192,18 @@
     },
     "WB": {
       "name": "West Bengal",
-      "confirmed": 6876,
-      "active": 3753,
-      "recovered": 2768,
-      "dead": 355,
-      "updatedTime": "04/06/2020 19:55:08",
+      "confirmed": 7303,
+      "active": 4025,
+      "recovered": 2912,
+      "dead": 366,
+      "updatedTime": "05/06/2020 19:34:47",
       "note": "Deaths due to comorbidities added to total deceased",
       "stateCode": "WB",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 427,
+        "recovered": 144,
+        "dead": 11,
+        "active": 272
       },
       "testing_data": {
         "tested": 241831,
@@ -278,12 +278,12 @@
         "active": 100
       },
       "testing_data": {
-        "tested": 413733,
-        "positive": 3377,
-        "negative": 409621,
+        "tested": 423564,
+        "positive": 3427,
+        "negative": 419314,
         "unconfirmed": 0,
-        "date": "04/06/2020",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/298"
+        "date": "05/06/2020",
+        "source": "http://hmfw.ap.gov.in/covid_dashboard.aspx"
       }
     },
     "TG": {
@@ -408,18 +408,18 @@
     },
     "AS": {
       "name": "Assam",
-      "confirmed": 2116,
-      "active": 1610,
+      "confirmed": 2154,
+      "active": 1648,
       "recovered": 499,
       "dead": 4,
-      "updatedTime": "05/06/2020 19:22:48",
+      "updatedTime": "05/06/2020 19:34:49",
       "note": "Includes one case from Nagaland\nTotal of three* patients who migrated to other states has been reduced from Active count",
       "stateCode": "AS",
       "today": {
-        "confirmed": 0,
+        "confirmed": 38,
         "recovered": 39,
         "dead": 0,
-        "active": -39
+        "active": -1
       },
       "testing_data": {
         "tested": 133029,
@@ -590,12 +590,12 @@
         "active": 2
       },
       "testing_data": {
-        "tested": 5059,
-        "positive": 302,
-        "negative": 4735,
-        "unconfirmed": 21,
-        "date": "04/06/2020",
-        "source": "https://t.me/indiacovid/6290"
+        "tested": 5121,
+        "positive": 309,
+        "negative": 0,
+        "unconfirmed": 0,
+        "date": "05/06/2020",
+        "source": "http://chdcovid19.in/"
       }
     },
     "LA": {
@@ -624,18 +624,18 @@
     },
     "MN": {
       "name": "Manipur",
-      "confirmed": 124,
-      "active": 86,
+      "confirmed": 132,
+      "active": 94,
       "recovered": 38,
       "dead": 0,
-      "updatedTime": "04/06/2020 20:48:21",
+      "updatedTime": "05/06/2020 19:34:51",
       "note": "",
       "stateCode": "MN",
       "today": {
-        "confirmed": 0,
+        "confirmed": 8,
         "recovered": 0,
         "dead": 0,
-        "active": 0
+        "active": 8
       },
       "testing_data": {
         "tested": 12454,
@@ -880,19 +880,19 @@
     }
   },
   "testing_data": {
-    "tested": 4835599,
-    "positive": 212556,
-    "negative": 3472823,
-    "unconfirmed": 31108
+    "tested": 4845492,
+    "positive": 212613,
+    "negative": 3477781,
+    "unconfirmed": 31087
   },
   "testing_data_imcr": {
     "tested": 4386379,
     "source": "https://t.me/Covid19india_Auxiliary_Test_Data/313"
   },
   "today": {
-    "confirmed": 2918,
-    "recovered": 1477,
-    "dead": 19,
-    "active": 1422
+    "confirmed": 3391,
+    "recovered": 1621,
+    "dead": 30,
+    "active": 1740
   }
 }
