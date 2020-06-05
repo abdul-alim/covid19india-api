@@ -729,14 +729,14 @@
       {
         "district": "Cachar",
         "notes": "",
-        "active": 7,
+        "active": 6,
         "confirmed": 73,
-        "recovered": 66,
+        "recovered": 67,
         "dead": 0,
         "today": {
           "confirmed": 0,
-          "recovered": 0,
-          "active": 0,
+          "recovered": 1,
+          "active": -1,
           "dead": 0
         }
       },
@@ -813,14 +813,14 @@
       {
         "district": "Dibrugarh",
         "notes": "",
-        "active": 41,
+        "active": 38,
         "confirmed": 42,
-        "recovered": 1,
+        "recovered": 4,
         "dead": 0,
         "today": {
           "confirmed": 0,
-          "recovered": 0,
-          "active": 0,
+          "recovered": 3,
+          "active": -3,
           "dead": 0
         }
       },
@@ -855,14 +855,14 @@
       {
         "district": "Golaghat",
         "notes": "",
-        "active": 180,
+        "active": 174,
         "confirmed": 209,
-        "recovered": 29,
+        "recovered": 35,
         "dead": 0,
         "today": {
           "confirmed": 0,
-          "recovered": 0,
-          "active": 0,
+          "recovered": 6,
+          "active": -6,
           "dead": 0
         }
       },
@@ -897,14 +897,14 @@
       {
         "district": "Jorhat",
         "notes": "",
-        "active": 6,
+        "active": 1,
         "confirmed": 27,
-        "recovered": 21,
+        "recovered": 26,
         "dead": 0,
         "today": {
           "confirmed": 0,
-          "recovered": 0,
-          "active": 0,
+          "recovered": 5,
+          "active": -5,
           "dead": 0
         }
       },
@@ -925,14 +925,14 @@
       {
         "district": "Kamrup Metropolitan",
         "notes": "",
-        "active": 138,
+        "active": 125,
         "confirmed": 391,
-        "recovered": 250,
+        "recovered": 263,
         "dead": 3,
         "today": {
           "confirmed": 0,
-          "recovered": 0,
-          "active": 0,
+          "recovered": 13,
+          "active": -13,
           "dead": 0
         }
       },
@@ -1079,14 +1079,14 @@
       {
         "district": "Sonitpur",
         "notes": "",
-        "active": 10,
+        "active": -1,
         "confirmed": 23,
-        "recovered": 13,
+        "recovered": 24,
         "dead": 0,
         "today": {
           "confirmed": 0,
-          "recovered": 0,
-          "active": 0,
+          "recovered": 11,
+          "active": -11,
           "dead": 0
         }
       },
@@ -1149,14 +1149,14 @@
     ],
     "today": {
       "confirmed": 0,
-      "active": 0,
-      "recovered": 0,
+      "active": -39,
+      "recovered": 39,
       "dead": 0
     },
     "confirmed": 2116,
-    "recovered": 460,
+    "recovered": 499,
     "dead": 4,
-    "active": 1649
+    "active": 1610
   },
   "BR": {
     "state": "Bihar",
@@ -7642,8 +7642,8 @@
     },
     "confirmed": 2461,
     "recovered": 2069,
-    "dead": 47,
-    "active": 345
+    "dead": 48,
+    "active": 344
   },
   "PY": {
     "state": "Puducherry",

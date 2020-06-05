@@ -1,9 +1,9 @@
 {
   "confirmed": 229640,
-  "recovered": 109892,
-  "dead": 6381,
-  "active": 113355,
-  "updatedTime": "05/06/2020 18:52:46",
+  "recovered": 109931,
+  "dead": 6382,
+  "active": 113315,
+  "updatedTime": "05/06/2020 19:22:46",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -385,17 +385,17 @@
     "PB": {
       "name": "Punjab",
       "confirmed": 2461,
-      "active": 345,
+      "active": 344,
       "recovered": 2069,
-      "dead": 47,
-      "updatedTime": "05/06/2020 18:52:50",
+      "dead": 48,
+      "updatedTime": "05/06/2020 19:11:48",
       "note": "",
       "stateCode": "PB",
       "today": {
         "confirmed": 46,
         "recovered": 26,
-        "dead": 0,
-        "active": 20
+        "dead": 1,
+        "active": 19
       },
       "testing_data": {
         "tested": 106933,
@@ -409,17 +409,17 @@
     "AS": {
       "name": "Assam",
       "confirmed": 2116,
-      "active": 1649,
-      "recovered": 460,
+      "active": 1610,
+      "recovered": 499,
       "dead": 4,
-      "updatedTime": "05/06/2020 00:37:05",
+      "updatedTime": "05/06/2020 19:22:48",
       "note": "Includes one case from Nagaland\nTotal of three* patients who migrated to other states has been reduced from Active count",
       "stateCode": "AS",
       "today": {
         "confirmed": 0,
-        "recovered": 0,
+        "recovered": 39,
         "dead": 0,
-        "active": 0
+        "active": -39
       },
       "testing_data": {
         "tested": 133029,
@@ -891,8 +891,8 @@
   },
   "today": {
     "confirmed": 2918,
-    "recovered": 1438,
-    "dead": 18,
-    "active": 1462
+    "recovered": 1477,
+    "dead": 19,
+    "active": 1422
   }
 }
