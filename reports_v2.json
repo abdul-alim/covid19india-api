@@ -1,9 +1,9 @@
 {
-  "confirmed": 245670,
-  "recovered": 118048,
-  "dead": 6913,
-  "active": 120696,
-  "updatedTime": "06/06/2020 21:40:46",
+  "confirmed": 245876,
+  "recovered": 118131,
+  "dead": 6933,
+  "active": 120799,
+  "updatedTime": "06/06/2020 21:52:46",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -59,7 +59,7 @@
       "active": 16229,
       "recovered": 10664,
       "dead": 761,
-      "updatedTime": "06/06/2020 21:40:47",
+      "updatedTime": "06/06/2020 21:42:47",
       "note": "[10-May]\nDelhi bulletins in the morning, containing data of the previous day. We will add that data to the date on which the report is released, rather than the previous day.\nAlso, backdated deaths reported are added to the day in which they are announced",
       "stateCode": "DL",
       "today": {
@@ -104,17 +104,17 @@
     "RJ": {
       "name": "Rajasthan",
       "confirmed": 10337,
-      "active": 2734,
+      "active": 2724,
       "recovered": 7384,
-      "dead": 219,
-      "updatedTime": "06/06/2020 21:40:48",
+      "dead": 229,
+      "updatedTime": "06/06/2020 21:52:47",
       "note": "",
       "stateCode": "RJ",
       "today": {
         "confirmed": 253,
         "recovered": 25,
-        "dead": 1,
-        "active": 227
+        "dead": 11,
+        "active": 217
       },
       "testing_data": {
         "tested": 480910,
@@ -155,7 +155,7 @@
       "active": 2721,
       "recovered": 6108,
       "dead": 399,
-      "updatedTime": "06/06/2020 21:40:50",
+      "updatedTime": "06/06/2020 21:42:51",
       "note": "",
       "stateCode": "MP",
       "today": {
@@ -214,30 +214,6 @@
         "source": "https://www.wbhealth.gov.in/uploaded_files/corona/WB_DHFW_Bulletin_5th_JUNE_REPORT_FINAL.pdf"
       }
     },
-    "BR": {
-      "name": "Bihar",
-      "confirmed": 4745,
-      "active": 2483,
-      "recovered": 2233,
-      "dead": 29,
-      "updatedTime": "06/06/2020 15:28:48",
-      "note": "",
-      "stateCode": "BR",
-      "today": {
-        "confirmed": 147,
-        "recovered": 0,
-        "dead": 0,
-        "active": 147
-      },
-      "testing_data": {
-        "tested": 95473,
-        "positive": 4745,
-        "negative": 0,
-        "unconfirmed": 0,
-        "date": "06/06/2020",
-        "source": "https://twitter.com/PIB_Patna/status/1269256716366929921"
-      }
-    },
     "KA": {
       "name": "Karnataka",
       "confirmed": 5213,
@@ -260,6 +236,30 @@
         "unconfirmed": 0,
         "date": "05/06/2020",
         "source": "https://t.me/Karnataka_KoViD19_Broadcast/3840"
+      }
+    },
+    "BR": {
+      "name": "Bihar",
+      "confirmed": 4745,
+      "active": 2483,
+      "recovered": 2233,
+      "dead": 29,
+      "updatedTime": "06/06/2020 15:28:48",
+      "note": "",
+      "stateCode": "BR",
+      "today": {
+        "confirmed": 147,
+        "recovered": 0,
+        "dead": 0,
+        "active": 147
+      },
+      "testing_data": {
+        "tested": 95473,
+        "positive": 4745,
+        "negative": 0,
+        "unconfirmed": 0,
+        "date": "06/06/2020",
+        "source": "https://twitter.com/PIB_Patna/status/1269256716366929921"
       }
     },
     "AP": {
@@ -286,20 +286,44 @@
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/327"
       }
     },
+    "HR": {
+      "name": "Haryana",
+      "confirmed": 3952,
+      "active": 2648,
+      "recovered": 1280,
+      "dead": 24,
+      "updatedTime": "06/06/2020 21:50:48",
+      "note": "",
+      "stateCode": "HR",
+      "today": {
+        "confirmed": 355,
+        "recovered": 71,
+        "dead": 0,
+        "active": 284
+      },
+      "testing_data": {
+        "tested": 137452,
+        "positive": 3597,
+        "negative": 129027,
+        "unconfirmed": 4828,
+        "date": "05/06/2020",
+        "source": "http://www.nhmharyana.gov.in/WriteReadData/userfiles/file/CoronaVirus/Daily%20Bulletin%20of%20COVID%2019%20as%20on%205-06-2020%20Evenning.pdf"
+      }
+    },
     "TG": {
       "name": "Telangana",
-      "confirmed": 3290,
-      "active": 1550,
-      "recovered": 1627,
-      "dead": 113,
-      "updatedTime": "05/06/2020 21:02:47",
+      "confirmed": 3496,
+      "active": 1663,
+      "recovered": 1710,
+      "dead": 123,
+      "updatedTime": "06/06/2020 21:52:49",
       "note": "",
       "stateCode": "TG",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 206,
+        "recovered": 83,
+        "dead": 10,
+        "active": 113
       },
       "testing_data": {
         "tested": 23388,
@@ -332,30 +356,6 @@
         "unconfirmed": 0,
         "date": "05/06/2020",
         "source": "https://twitter.com/diprjk/status/1268920698040455169?s=19"
-      }
-    },
-    "HR": {
-      "name": "Haryana",
-      "confirmed": 3952,
-      "active": 2648,
-      "recovered": 1280,
-      "dead": 24,
-      "updatedTime": "06/06/2020 21:24:51",
-      "note": "",
-      "stateCode": "HR",
-      "today": {
-        "confirmed": 355,
-        "recovered": 71,
-        "dead": 0,
-        "active": 284
-      },
-      "testing_data": {
-        "tested": 137452,
-        "positive": 3597,
-        "negative": 129027,
-        "unconfirmed": 4828,
-        "date": "05/06/2020",
-        "source": "http://www.nhmharyana.gov.in/WriteReadData/userfiles/file/CoronaVirus/Daily%20Bulletin%20of%20COVID%2019%20as%20on%205-06-2020%20Evenning.pdf"
       }
     },
     "OR": {
@@ -598,28 +598,28 @@
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/318"
       }
     },
-    "LA": {
-      "name": "Ladakh",
-      "confirmed": 99,
-      "active": 48,
-      "recovered": 50,
-      "dead": 1,
-      "updatedTime": "06/06/2020 20:33:51",
+    "GA": {
+      "name": "Goa",
+      "confirmed": 267,
+      "active": 202,
+      "recovered": 65,
+      "dead": 0,
+      "updatedTime": "06/06/2020 20:04:50",
       "note": "",
-      "stateCode": "LA",
+      "stateCode": "GA",
       "today": {
-        "confirmed": 2,
-        "recovered": 2,
+        "confirmed": 71,
+        "recovered": 0,
         "dead": 0,
-        "active": 0
+        "active": 71
       },
       "testing_data": {
-        "tested": 9754,
-        "positive": 97,
-        "negative": 7204,
-        "unconfirmed": 2306,
+        "tested": 26208,
+        "positive": 196,
+        "negative": 0,
+        "unconfirmed": 0,
         "date": "05/06/2020",
-        "source": "https://twitter.com/ladags/status/1268845654446673920?s=19"
+        "source": "https://twitter.com/DHS_Goa/status/1268932787312062464?s=19"
       }
     },
     "MN": {
@@ -670,30 +670,6 @@
         "source": "https://covid19dashboard.py.gov.in/LabTestReport"
       }
     },
-    "GA": {
-      "name": "Goa",
-      "confirmed": 267,
-      "active": 202,
-      "recovered": 65,
-      "dead": 0,
-      "updatedTime": "06/06/2020 20:04:50",
-      "note": "",
-      "stateCode": "GA",
-      "today": {
-        "confirmed": 71,
-        "recovered": 0,
-        "dead": 0,
-        "active": 71
-      },
-      "testing_data": {
-        "tested": 26208,
-        "positive": 196,
-        "negative": 0,
-        "unconfirmed": 0,
-        "date": "05/06/2020",
-        "source": "https://twitter.com/DHS_Goa/status/1268932787312062464?s=19"
-      }
-    },
     "NL": {
       "name": "Nagaland",
       "confirmed": 107,
@@ -716,6 +692,54 @@
         "unconfirmed": 0,
         "date": "05/06/2020",
         "source": "https://twitter.com/pangnyu/status/1268747371938287616?s=20"
+      }
+    },
+    "LA": {
+      "name": "Ladakh",
+      "confirmed": 99,
+      "active": 48,
+      "recovered": 50,
+      "dead": 1,
+      "updatedTime": "06/06/2020 20:33:51",
+      "note": "",
+      "stateCode": "LA",
+      "today": {
+        "confirmed": 2,
+        "recovered": 2,
+        "dead": 0,
+        "active": 0
+      },
+      "testing_data": {
+        "tested": 9754,
+        "positive": 97,
+        "negative": 7204,
+        "unconfirmed": 2306,
+        "date": "05/06/2020",
+        "source": "https://twitter.com/ladags/status/1268845654446673920?s=19"
+      }
+    },
+    "AR": {
+      "name": "Arunachal Pradesh",
+      "confirmed": 46,
+      "active": 45,
+      "recovered": 1,
+      "dead": 0,
+      "updatedTime": "06/06/2020 01:20:51",
+      "note": "",
+      "stateCode": "AR",
+      "today": {
+        "confirmed": 0,
+        "recovered": 0,
+        "dead": 0,
+        "active": 0
+      },
+      "testing_data": {
+        "tested": 10790,
+        "positive": 46,
+        "negative": 8877,
+        "unconfirmed": 1755,
+        "date": "05/06/2020",
+        "source": "https://t.me/indiacovid/6443"
       }
     },
     "AN": {
@@ -766,30 +790,6 @@
         "source": "https://corona.meghalayagov.in/"
       }
     },
-    "AR": {
-      "name": "Arunachal Pradesh",
-      "confirmed": 46,
-      "active": 45,
-      "recovered": 1,
-      "dead": 0,
-      "updatedTime": "06/06/2020 01:20:51",
-      "note": "",
-      "stateCode": "AR",
-      "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
-      },
-      "testing_data": {
-        "tested": 10790,
-        "positive": 46,
-        "negative": 8877,
-        "unconfirmed": 1755,
-        "date": "05/06/2020",
-        "source": "https://t.me/indiacovid/6443"
-      }
-    },
     "MZ": {
       "name": "Mizoram",
       "confirmed": 24,
@@ -820,7 +820,7 @@
       "active": 18,
       "recovered": 1,
       "dead": 0,
-      "updatedTime": "06/06/2020 21:40:52",
+      "updatedTime": "06/06/2020 21:42:54",
       "note": "",
       "stateCode": "DN",
       "today": {
@@ -890,9 +890,9 @@
     "source": "https://twitter.com/ICMRDELHI/status/1269111826618302464?s=19"
   },
   "today": {
-    "confirmed": 9569,
-    "recovered": 4843,
-    "dead": 264,
-    "active": 4462
+    "confirmed": 9775,
+    "recovered": 4926,
+    "dead": 284,
+    "active": 4565
   }
 }
