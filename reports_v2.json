@@ -1,9 +1,9 @@
 {
-  "confirmed": 239717,
-  "recovered": 114499,
-  "dead": 6672,
-  "active": 118533,
-  "updatedTime": "06/06/2020 19:22:49",
+  "confirmed": 240283,
+  "recovered": 114843,
+  "dead": 6703,
+  "active": 118724,
+  "updatedTime": "06/06/2020 19:42:46",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -11,7 +11,7 @@
       "active": 42233,
       "recovered": 35147,
       "dead": 2849,
-      "updatedTime": "06/06/2020 19:22:51",
+      "updatedTime": "06/06/2020 19:29:48",
       "note": "",
       "stateCode": "MH",
       "today": {
@@ -79,26 +79,26 @@
     },
     "GJ": {
       "name": "Gujarat",
-      "confirmed": 19119,
-      "active": 4918,
-      "recovered": 13011,
-      "dead": 1190,
-      "updatedTime": "05/06/2020 20:23:48",
+      "confirmed": 19617,
+      "active": 5074,
+      "recovered": 13324,
+      "dead": 1219,
+      "updatedTime": "06/06/2020 19:42:47",
       "note": "",
       "stateCode": "GJ",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 498,
+        "recovered": 313,
+        "dead": 29,
+        "active": 156
       },
       "testing_data": {
-        "tested": 239911,
-        "positive": 19119,
+        "tested": 245606,
+        "positive": 19617,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "05/06/2020",
-        "source": "https://twitter.com/GujHFWDept/status/1268909116447219715/photo/2"
+        "date": "06/06/2020",
+        "source": "https://twitter.com/GujHFWDept/status/1269263806477336577?s=20"
       }
     },
     "RJ": {
@@ -384,18 +384,18 @@
     },
     "PB": {
       "name": "Punjab",
-      "confirmed": 2461,
-      "active": 344,
-      "recovered": 2069,
-      "dead": 48,
-      "updatedTime": "05/06/2020 19:11:48",
+      "confirmed": 2515,
+      "active": 373,
+      "recovered": 2092,
+      "dead": 50,
+      "updatedTime": "06/06/2020 19:42:49",
       "note": "",
       "stateCode": "PB",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 54,
+        "recovered": 23,
+        "dead": 2,
+        "active": 29
       },
       "testing_data": {
         "tested": 113542,
@@ -412,7 +412,7 @@
       "active": 1843,
       "recovered": 548,
       "dead": 4,
-      "updatedTime": "06/06/2020 16:05:50",
+      "updatedTime": "06/06/2020 19:29:51",
       "note": "Includes one case from Nagaland\nTotal of three* patients who migrated to other states has been reduced from Active count",
       "stateCode": "AS",
       "today": {
@@ -624,18 +624,18 @@
     },
     "MN": {
       "name": "Manipur",
-      "confirmed": 143,
-      "active": 91,
+      "confirmed": 157,
+      "active": 105,
       "recovered": 52,
       "dead": 0,
-      "updatedTime": "06/06/2020 16:59:49",
+      "updatedTime": "06/06/2020 19:42:50",
       "note": "",
       "stateCode": "MN",
       "today": {
-        "confirmed": 11,
+        "confirmed": 25,
         "recovered": 14,
         "dead": 0,
-        "active": -3
+        "active": 11
       },
       "testing_data": {
         "tested": 14629,
@@ -697,17 +697,17 @@
     "NL": {
       "name": "Nagaland",
       "confirmed": 107,
-      "active": 107,
-      "recovered": 0,
+      "active": 99,
+      "recovered": 8,
       "dead": 0,
-      "updatedTime": "06/06/2020 19:20:54",
+      "updatedTime": "06/06/2020 19:42:51",
       "note": "",
       "stateCode": "NL",
       "today": {
         "confirmed": 13,
-        "recovered": 0,
+        "recovered": 8,
         "dead": 0,
-        "active": 13
+        "active": 5
       },
       "testing_data": {
         "tested": 3974,
@@ -880,8 +880,8 @@
     }
   },
   "testing_data": {
-    "tested": 5024722,
-    "positive": 226225,
+    "tested": 5030417,
+    "positive": 226723,
     "negative": 3608146,
     "unconfirmed": 30847
   },
@@ -890,9 +890,9 @@
     "source": "https://twitter.com/ICMRDELHI/status/1269111826618302464?s=19"
   },
   "today": {
-    "confirmed": 3616,
-    "recovered": 1300,
-    "dead": 23,
-    "active": 2293
+    "confirmed": 4182,
+    "recovered": 1644,
+    "dead": 54,
+    "active": 2484
   }
 }
