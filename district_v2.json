@@ -83,14 +83,14 @@
       {
         "district": "Foreign Evacuees",
         "notes": "",
-        "active": 127,
+        "active": 126,
         "confirmed": 131,
-        "recovered": 4,
+        "recovered": 5,
         "dead": 0,
         "today": {
           "confirmed": 0,
-          "recovered": 0,
-          "active": 0,
+          "recovered": 1,
+          "active": -1,
           "dead": 0
         }
       },
@@ -181,14 +181,14 @@
       {
         "district": "Other State",
         "notes": "",
-        "active": 467,
-        "confirmed": 741,
-        "recovered": 274,
+        "active": 508,
+        "confirmed": 810,
+        "recovered": 302,
         "dead": 0,
         "today": {
-          "confirmed": 0,
-          "recovered": 0,
-          "active": 0,
+          "confirmed": 69,
+          "recovered": 28,
+          "active": 41,
           "dead": 0
         }
       },
@@ -292,15 +292,15 @@
       }
     ],
     "today": {
-      "confirmed": 130,
-      "active": 128,
-      "recovered": 0,
+      "confirmed": 199,
+      "active": 168,
+      "recovered": 29,
       "dead": 2
     },
-    "confirmed": 4460,
+    "confirmed": 4590,
     "recovered": 2640,
-    "dead": 73,
-    "active": 1747
+    "dead": 75,
+    "active": 1875
   },
   "AR": {
     "state": "Arunachal Pradesh",
