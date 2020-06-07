@@ -1,9 +1,9 @@
 {
-  "confirmed": 255281,
-  "recovered": 123007,
-  "dead": 7123,
-  "active": 125138,
-  "updatedTime": "07/06/2020 21:52:46",
+  "confirmed": 256563,
+  "recovered": 123342,
+  "dead": 7174,
+  "active": 126034,
+  "updatedTime": "07/06/2020 22:02:46",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -55,18 +55,18 @@
     },
     "DL": {
       "name": "Delhi",
-      "confirmed": 27654,
-      "active": 16229,
-      "recovered": 10664,
-      "dead": 761,
-      "updatedTime": "06/06/2020 21:42:47",
+      "confirmed": 28936,
+      "active": 17125,
+      "recovered": 10999,
+      "dead": 812,
+      "updatedTime": "07/06/2020 22:02:47",
       "note": "[10-May]\nDelhi bulletins in the morning, containing data of the previous day. We will add that data to the date on which the report is released, rather than the previous day.\nAlso, backdated deaths reported are added to the day in which they are announced",
       "stateCode": "DL",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 1282,
+        "recovered": 335,
+        "dead": 51,
+        "active": 896
       },
       "testing_data": {
         "tested": 246873,
@@ -292,7 +292,7 @@
       "active": 2946,
       "recovered": 1474,
       "dead": 28,
-      "updatedTime": "07/06/2020 21:52:48",
+      "updatedTime": "07/06/2020 22:01:49",
       "note": "",
       "stateCode": "HR",
       "today": {
@@ -518,12 +518,12 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 89392,
-        "positive": 923,
-        "negative": 84517,
-        "unconfirmed": 3948,
-        "date": "06/06/2020",
-        "source": "https://twitter.com/HealthCgGov/status/1269284060750323715/photo/1"
+        "tested": 88896,
+        "positive": 1071,
+        "negative": 84344,
+        "unconfirmed": 3481,
+        "date": "07/06/2020",
+        "source": "https://twitter.com/HealthCgGov/status/1269656689013166080"
       }
     },
     "TR": {
@@ -880,19 +880,19 @@
     }
   },
   "testing_data": {
-    "tested": 5213548,
-    "positive": 236641,
-    "negative": 3747870,
-    "unconfirmed": 40985
+    "tested": 5213052,
+    "positive": 236789,
+    "negative": 3747697,
+    "unconfirmed": 40518
   },
   "testing_data_imcr": {
     "tested": 4666386,
     "source": "https://t.me/Covid19india_Auxiliary_Test_Data/340"
   },
   "today": {
-    "confirmed": 8659,
-    "recovered": 4350,
-    "dead": 177,
-    "active": 4132
+    "confirmed": 9941,
+    "recovered": 4685,
+    "dead": 228,
+    "active": 5028
   }
 }
