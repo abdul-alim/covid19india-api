@@ -1,9 +1,9 @@
 {
-  "confirmed": 249743,
-  "recovered": 120019,
-  "dead": 6975,
-  "active": 122736,
-  "updatedTime": "07/06/2020 18:42:46",
+  "confirmed": 250285,
+  "recovered": 120203,
+  "dead": 6988,
+  "active": 123081,
+  "updatedTime": "07/06/2020 19:02:46",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -35,7 +35,7 @@
       "active": 14416,
       "recovered": 16999,
       "dead": 272,
-      "updatedTime": "07/06/2020 18:42:47",
+      "updatedTime": "07/06/2020 18:46:47",
       "note": "2 deaths cross notified to other states from Chennai and Coimbatore.\n1 patient died after turning negative for infection in Chengalpattu",
       "stateCode": "TN",
       "today": {
@@ -192,18 +192,18 @@
     },
     "WB": {
       "name": "West Bengal",
-      "confirmed": 7738,
-      "active": 4236,
-      "recovered": 3119,
-      "dead": 383,
-      "updatedTime": "06/06/2020 20:04:48",
+      "confirmed": 8187,
+      "active": 4488,
+      "recovered": 3303,
+      "dead": 396,
+      "updatedTime": "07/06/2020 19:02:48",
       "note": "Deaths due to comorbidities added to total deceased",
       "stateCode": "WB",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 449,
+        "recovered": 184,
+        "dead": 13,
+        "active": 252
       },
       "testing_data": {
         "tested": 261288,
@@ -384,18 +384,18 @@
     },
     "PB": {
       "name": "Punjab",
-      "confirmed": 2515,
-      "active": 373,
+      "confirmed": 2608,
+      "active": 466,
       "recovered": 2092,
       "dead": 50,
-      "updatedTime": "06/06/2020 19:48:49",
+      "updatedTime": "07/06/2020 19:02:50",
       "note": "",
       "stateCode": "PB",
       "today": {
-        "confirmed": 0,
+        "confirmed": 93,
         "recovered": 0,
         "dead": 0,
-        "active": 0
+        "active": 93
       },
       "testing_data": {
         "tested": 115974,
@@ -590,12 +590,12 @@
         "active": 3
       },
       "testing_data": {
-        "tested": 5237,
-        "positive": 309,
-        "negative": 4906,
-        "unconfirmed": 21,
-        "date": "06/06/2020",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/337"
+        "tested": 5312,
+        "positive": 314,
+        "negative": 0,
+        "unconfirmed": 0,
+        "date": "07/06/2020",
+        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/346"
       }
     },
     "GA": {
@@ -880,19 +880,19 @@
     }
   },
   "testing_data": {
-    "tested": 5191816,
-    "positive": 235877,
-    "negative": 3762174,
-    "unconfirmed": 41356
+    "tested": 5191891,
+    "positive": 235882,
+    "negative": 3757268,
+    "unconfirmed": 41335
   },
   "testing_data_imcr": {
     "tested": 4666386,
     "source": "https://t.me/Covid19india_Auxiliary_Test_Data/340"
   },
   "today": {
-    "confirmed": 3121,
-    "recovered": 1362,
-    "dead": 29,
-    "active": 1730
+    "confirmed": 3663,
+    "recovered": 1546,
+    "dead": 42,
+    "active": 2075
   }
 }
