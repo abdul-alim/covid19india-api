@@ -1,9 +1,9 @@
 {
-  "confirmed": 256563,
-  "recovered": 123342,
-  "dead": 7174,
-  "active": 126034,
-  "updatedTime": "07/06/2020 22:02:46",
+  "confirmed": 256736,
+  "recovered": 123565,
+  "dead": 7187,
+  "active": 125971,
+  "updatedTime": "07/06/2020 22:15:48",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -59,7 +59,7 @@
       "active": 17125,
       "recovered": 10999,
       "dead": 812,
-      "updatedTime": "07/06/2020 22:02:47",
+      "updatedTime": "07/06/2020 22:14:47",
       "note": "[10-May]\nDelhi bulletins in the morning, containing data of the previous day. We will add that data to the date on which the report is released, rather than the previous day.\nAlso, backdated deaths reported are added to the day in which they are announced",
       "stateCode": "DL",
       "today": {
@@ -151,18 +151,18 @@
     },
     "MP": {
       "name": "Madhya Pradesh",
-      "confirmed": 9228,
-      "active": 2721,
-      "recovered": 6108,
-      "dead": 399,
-      "updatedTime": "06/06/2020 21:42:51",
+      "confirmed": 9401,
+      "active": 2658,
+      "recovered": 6331,
+      "dead": 412,
+      "updatedTime": "07/06/2020 22:15:50",
       "note": "",
       "stateCode": "MP",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 173,
+        "recovered": 223,
+        "dead": 13,
+        "active": -63
       },
       "testing_data": {
         "tested": 200913,
@@ -302,12 +302,12 @@
         "active": 298
       },
       "testing_data": {
-        "tested": 141688,
-        "positive": 3952,
-        "negative": 132684,
-        "unconfirmed": 5052,
-        "date": "06/06/2020",
-        "source": "http://www.nhmharyana.gov.in/WriteReadData/userfiles/file/CoronaVirus/Daily%20Bulletin%20of%20COVID%2019%20as%20on%206-06-2020%20Evening.pdf"
+        "tested": 145722,
+        "positive": 4448,
+        "negative": 136555,
+        "unconfirmed": 4791,
+        "date": "07/06/2020",
+        "source": "http://www.nhmharyana.gov.in/WriteReadData/userfiles/file/CoronaVirus/Daily%20Bulletin%20of%20COVID%2019%20as%20on%207-06-2020%20Evening.pdf"
       }
     },
     "TG": {
@@ -350,12 +350,12 @@
         "active": 528
       },
       "testing_data": {
-        "tested": 211880,
-        "positive": 3467,
-        "negative": 208413,
+        "tested": 218481,
+        "positive": 4087,
+        "negative": 214394,
         "unconfirmed": 0,
-        "date": "06/06/2020",
-        "source": "https://twitter.com/diprjk/status/1269277728114724865?s=19"
+        "date": "07/06/2020",
+        "source": "https://twitter.com/diprjk/status/1269649914079870976"
       }
     },
     "OR": {
@@ -566,10 +566,10 @@
         "active": -13
       },
       "testing_data": {
-        "tested": 45889,
-        "positive": 407,
-        "negative": 44834,
-        "unconfirmed": 648,
+        "tested": 45888,
+        "positive": 411,
+        "negative": 45254,
+        "unconfirmed": 223,
         "date": "07/06/2020",
         "source": "https://twitter.com/nhm_hp/status/1269610776970563584?s=19"
       }
@@ -880,19 +880,19 @@
     }
   },
   "testing_data": {
-    "tested": 5213052,
-    "positive": 236789,
-    "negative": 3747697,
-    "unconfirmed": 40518
+    "tested": 5223686,
+    "positive": 237909,
+    "negative": 3757969,
+    "unconfirmed": 39832
   },
   "testing_data_imcr": {
     "tested": 4666386,
     "source": "https://t.me/Covid19india_Auxiliary_Test_Data/340"
   },
   "today": {
-    "confirmed": 9941,
-    "recovered": 4685,
-    "dead": 228,
-    "active": 5028
+    "confirmed": 10114,
+    "recovered": 4908,
+    "dead": 241,
+    "active": 4965
   }
 }
