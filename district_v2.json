@@ -687,14 +687,14 @@
       {
         "district": "Barpeta",
         "notes": "",
-        "active": 42,
+        "active": 40,
         "confirmed": 80,
-        "recovered": 38,
+        "recovered": 40,
         "dead": 0,
         "today": {
           "confirmed": 0,
-          "recovered": 0,
-          "active": 0,
+          "recovered": 2,
+          "active": -2,
           "dead": 0
         }
       },
@@ -729,14 +729,14 @@
       {
         "district": "Cachar",
         "notes": "",
-        "active": 17,
+        "active": 4,
         "confirmed": 82,
-        "recovered": 65,
+        "recovered": 78,
         "dead": 0,
         "today": {
           "confirmed": 0,
-          "recovered": 0,
-          "active": 0,
+          "recovered": 13,
+          "active": -13,
           "dead": 0
         }
       },
@@ -813,14 +813,14 @@
       {
         "district": "Dibrugarh",
         "notes": "",
-        "active": 46,
+        "active": 45,
         "confirmed": 50,
-        "recovered": 4,
+        "recovered": 5,
         "dead": 0,
         "today": {
           "confirmed": 0,
-          "recovered": 0,
-          "active": 0,
+          "recovered": 1,
+          "active": -1,
           "dead": 0
         }
       },
@@ -869,14 +869,14 @@
       {
         "district": "Hailakandi",
         "notes": "",
-        "active": 48,
+        "active": 43,
         "confirmed": 49,
-        "recovered": 0,
+        "recovered": 5,
         "dead": 1,
         "today": {
           "confirmed": 0,
-          "recovered": 0,
-          "active": 0,
+          "recovered": 5,
+          "active": -5,
           "dead": 0
         }
       },
@@ -897,14 +897,14 @@
       {
         "district": "Jorhat",
         "notes": "",
-        "active": 1,
+        "active": -1,
         "confirmed": 27,
-        "recovered": 26,
+        "recovered": 28,
         "dead": 0,
         "today": {
           "confirmed": 0,
-          "recovered": 0,
-          "active": 0,
+          "recovered": 2,
+          "active": -2,
           "dead": 0
         }
       },
@@ -939,14 +939,14 @@
       {
         "district": "Karbi Anglong",
         "notes": "",
-        "active": 10,
+        "active": 6,
         "confirmed": 11,
-        "recovered": 1,
+        "recovered": 5,
         "dead": 0,
         "today": {
           "confirmed": 0,
-          "recovered": 0,
-          "active": 0,
+          "recovered": 4,
+          "active": -4,
           "dead": 0
         }
       },
@@ -1149,8 +1149,8 @@
     ],
     "today": {
       "confirmed": 92,
-      "active": 92,
-      "recovered": 0,
+      "active": 65,
+      "recovered": 27,
       "dead": 0
     },
     "confirmed": 2566,
