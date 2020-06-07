@@ -1,9 +1,9 @@
 {
-  "confirmed": 250285,
-  "recovered": 120203,
-  "dead": 6988,
-  "active": 123081,
-  "updatedTime": "07/06/2020 19:02:46",
+  "confirmed": 250319,
+  "recovered": 120218,
+  "dead": 6989,
+  "active": 123099,
+  "updatedTime": "07/06/2020 19:22:46",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -196,7 +196,7 @@
       "active": 4488,
       "recovered": 3303,
       "dead": 396,
-      "updatedTime": "07/06/2020 19:02:48",
+      "updatedTime": "07/06/2020 19:11:47",
       "note": "Deaths due to comorbidities added to total deceased",
       "stateCode": "WB",
       "today": {
@@ -230,12 +230,12 @@
         "active": 78
       },
       "testing_data": {
-        "tested": 372582,
-        "positive": 5213,
-        "negative": 361382,
+        "tested": 384442,
+        "positive": 5452,
+        "negative": 372399,
         "unconfirmed": 0,
-        "date": "06/06/2020",
-        "source": "https://t.me/Karnataka_KoViD19_Broadcast/3864"
+        "date": "07/06/2020",
+        "source": "https://t.me/Karnataka_KoViD19_Broadcast/3889"
       }
     },
     "BR": {
@@ -385,17 +385,17 @@
     "PB": {
       "name": "Punjab",
       "confirmed": 2608,
-      "active": 466,
-      "recovered": 2092,
-      "dead": 50,
-      "updatedTime": "07/06/2020 19:02:50",
+      "active": 451,
+      "recovered": 2106,
+      "dead": 51,
+      "updatedTime": "07/06/2020 19:22:48",
       "note": "",
       "stateCode": "PB",
       "today": {
         "confirmed": 93,
-        "recovered": 0,
-        "dead": 0,
-        "active": 93
+        "recovered": 14,
+        "dead": 1,
+        "active": 78
       },
       "testing_data": {
         "tested": 115974,
@@ -566,12 +566,12 @@
         "active": -13
       },
       "testing_data": {
-        "tested": 44509,
-        "positive": 400,
-        "negative": 43942,
-        "unconfirmed": 167,
-        "date": "06/06/2020",
-        "source": "https://twitter.com/nhm_hp/status/1269298139850313729?s=19"
+        "tested": 45889,
+        "positive": 407,
+        "negative": 44834,
+        "unconfirmed": 648,
+        "date": "07/06/2020",
+        "source": "https://twitter.com/nhm_hp/status/1269610776970563584?s=19"
       }
     },
     "CH": {
@@ -592,34 +592,34 @@
       "testing_data": {
         "tested": 5312,
         "positive": 314,
-        "negative": 0,
-        "unconfirmed": 0,
+        "negative": 4977,
+        "unconfirmed": 20,
         "date": "07/06/2020",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/346"
       }
     },
     "GA": {
       "name": "Goa",
-      "confirmed": 267,
-      "active": 202,
+      "confirmed": 300,
+      "active": 235,
       "recovered": 65,
       "dead": 0,
-      "updatedTime": "06/06/2020 20:04:50",
+      "updatedTime": "07/06/2020 19:22:50",
       "note": "",
       "stateCode": "GA",
       "today": {
-        "confirmed": 0,
+        "confirmed": 33,
         "recovered": 0,
         "dead": 0,
-        "active": 0
+        "active": 33
       },
       "testing_data": {
-        "tested": 27402,
-        "positive": 267,
-        "negative": 26284,
-        "unconfirmed": 851,
-        "date": "06/06/2020",
-        "source": "https://twitter.com/DHS_Goa/status/1269271022483542017/photo/1"
+        "tested": 29739,
+        "positive": 300,
+        "negative": 0,
+        "unconfirmed": 0,
+        "date": "07/06/2020",
+        "source": "https://twitter.com/DHS_Goa/status/1269623215292211201?s=19"
       }
     },
     "MN": {
@@ -742,6 +742,30 @@
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/335"
       }
     },
+    "MZ": {
+      "name": "Mizoram",
+      "confirmed": 34,
+      "active": 33,
+      "recovered": 1,
+      "dead": 0,
+      "updatedTime": "07/06/2020 11:42:49",
+      "note": "",
+      "stateCode": "MZ",
+      "today": {
+        "confirmed": 10,
+        "recovered": 0,
+        "dead": 0,
+        "active": 10
+      },
+      "testing_data": {
+        "tested": 1991,
+        "positive": 24,
+        "negative": 0,
+        "unconfirmed": 0,
+        "date": "06/06/2020",
+        "source": "https://dipr.mizoram.gov.in/post/status-of-state-surveillance-of-covid-19-time-562020-500pm-662020-500-pm"
+      }
+    },
     "AN": {
       "name": "Andaman and Nicobar",
       "confirmed": 33,
@@ -786,46 +810,22 @@
         "positive": 33,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "06/06/2020",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/342"
-      }
-    },
-    "MZ": {
-      "name": "Mizoram",
-      "confirmed": 34,
-      "active": 33,
-      "recovered": 1,
-      "dead": 0,
-      "updatedTime": "07/06/2020 11:42:49",
-      "note": "",
-      "stateCode": "MZ",
-      "today": {
-        "confirmed": 10,
-        "recovered": 0,
-        "dead": 0,
-        "active": 10
-      },
-      "testing_data": {
-        "tested": 1991,
-        "positive": 24,
-        "negative": 0,
-        "unconfirmed": 0,
-        "date": "06/06/2020",
-        "source": "https://dipr.mizoram.gov.in/post/status-of-state-surveillance-of-covid-19-time-562020-500pm-662020-500-pm"
+        "date": "07/06/2020",
+        "source": "https://corona.meghalayagov.in/"
       }
     },
     "DN": {
       "name": "Dadra and Nagar Haveli and Daman and Diu",
-      "confirmed": 19,
+      "confirmed": 20,
       "active": 18,
-      "recovered": 1,
+      "recovered": 2,
       "dead": 0,
       "updatedTime": "06/06/2020 21:42:54",
       "note": "",
       "stateCode": "DN",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 1,
+        "recovered": 1,
         "dead": 0,
         "active": 0
       },
@@ -880,19 +880,19 @@
     }
   },
   "testing_data": {
-    "tested": 5191891,
-    "positive": 235882,
-    "negative": 3757268,
-    "unconfirmed": 41335
+    "tested": 5207468,
+    "positive": 236161,
+    "negative": 3747870,
+    "unconfirmed": 40985
   },
   "testing_data_imcr": {
     "tested": 4666386,
     "source": "https://t.me/Covid19india_Auxiliary_Test_Data/340"
   },
   "today": {
-    "confirmed": 3663,
-    "recovered": 1546,
-    "dead": 42,
-    "active": 2075
+    "confirmed": 3697,
+    "recovered": 1561,
+    "dead": 43,
+    "active": 2093
   }
 }
