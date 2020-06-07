@@ -1,9 +1,9 @@
 {
-  "confirmed": 247178,
-  "recovered": 118800,
+  "confirmed": 247181,
+  "recovered": 118763,
   "dead": 6950,
-  "active": 121415,
-  "updatedTime": "07/06/2020 11:42:47",
+  "active": 121455,
+  "updatedTime": "07/06/2020 12:34:46",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -409,10 +409,10 @@
     "AS": {
       "name": "Assam",
       "confirmed": 2474,
-      "active": 1840,
-      "recovered": 627,
+      "active": 1878,
+      "recovered": 589,
       "dead": 4,
-      "updatedTime": "07/06/2020 01:15:48",
+      "updatedTime": "07/06/2020 12:34:47",
       "note": "Includes one case from Nagaland\nTotal of three* patients who migrated to other states has been reduced from Active count",
       "stateCode": "AS",
       "today": {
@@ -553,17 +553,17 @@
     "HP": {
       "name": "Himachal Pradesh",
       "confirmed": 400,
-      "active": 201,
-      "recovered": 190,
+      "active": 200,
+      "recovered": 191,
       "dead": 6,
-      "updatedTime": "07/06/2020 01:15:50",
+      "updatedTime": "07/06/2020 12:34:49",
       "note": "HP has 4 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed",
       "stateCode": "HP",
       "today": {
         "confirmed": 0,
-        "recovered": 0,
+        "recovered": 1,
         "dead": 0,
-        "active": 0
+        "active": -1
       },
       "testing_data": {
         "tested": 44509,
@@ -576,18 +576,18 @@
     },
     "CH": {
       "name": "Chandigarh",
-      "confirmed": 312,
-      "active": 34,
+      "confirmed": 315,
+      "active": 37,
       "recovered": 273,
       "dead": 5,
-      "updatedTime": "06/06/2020 23:03:53",
+      "updatedTime": "07/06/2020 12:34:50",
       "note": "",
       "stateCode": "CH",
       "today": {
-        "confirmed": 0,
+        "confirmed": 3,
         "recovered": 0,
         "dead": 0,
-        "active": 0
+        "active": 3
       },
       "testing_data": {
         "tested": 5237,
@@ -890,9 +890,9 @@
     "source": "https://t.me/Covid19india_Auxiliary_Test_Data/340"
   },
   "today": {
-    "confirmed": 556,
-    "recovered": 105,
+    "confirmed": 559,
+    "recovered": 106,
     "dead": 4,
-    "active": 447
+    "active": 449
   }
 }
