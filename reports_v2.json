@@ -1,9 +1,9 @@
 {
-  "confirmed": 258090,
-  "recovered": 123852,
-  "dead": 7207,
-  "active": 127018,
-  "updatedTime": "08/06/2020 10:54:46",
+  "confirmed": 258325,
+  "recovered": 123912,
+  "dead": 7208,
+  "active": 127192,
+  "updatedTime": "08/06/2020 12:20:46",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -21,12 +21,12 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 553063,
-        "positive": 82968,
-        "negative": 463723,
+        "tested": 565290,
+        "positive": 85975,
+        "negative": 473588,
         "unconfirmed": 0,
-        "date": "07/06/2020",
-        "source": "https://twitter.com/Maha_MEDD/status/1269505767914307584?s=19"
+        "date": "08/06/2020",
+        "source": "https://twitter.com/Maha_MEDD/status/1269867590207356928?s=19"
       }
     },
     "TN": {
@@ -103,18 +103,18 @@
     },
     "RJ": {
       "name": "Rajasthan",
-      "confirmed": 10599,
-      "active": 2605,
-      "recovered": 7754,
-      "dead": 240,
-      "updatedTime": "07/06/2020 23:21:49",
+      "confirmed": 10696,
+      "active": 2641,
+      "recovered": 7814,
+      "dead": 241,
+      "updatedTime": "08/06/2020 12:20:48",
       "note": "",
       "stateCode": "RJ",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 97,
+        "recovered": 60,
+        "dead": 1,
+        "active": 36
       },
       "testing_data": {
         "tested": 506784,
@@ -360,26 +360,26 @@
     },
     "OR": {
       "name": "Odisha",
-      "confirmed": 2856,
-      "active": 951,
+      "confirmed": 2994,
+      "active": 1089,
       "recovered": 1894,
       "dead": 11,
-      "updatedTime": "07/06/2020 15:38:49",
+      "updatedTime": "08/06/2020 12:20:50",
       "note": "Two non-covid deaths reported in state dashboard are included in the deceased count",
       "stateCode": "OR",
       "today": {
-        "confirmed": 0,
+        "confirmed": 138,
         "recovered": 0,
         "dead": 0,
-        "active": 0
+        "active": 138
       },
       "testing_data": {
-        "tested": 176098,
-        "positive": 2856,
+        "tested": 179415,
+        "positive": 2994,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "07/06/2020",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/344?single"
+        "date": "08/06/2020",
+        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/358?single"
       }
     },
     "PB": {
@@ -422,12 +422,12 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 146605,
-        "positive": 2397,
-        "negative": 136154,
-        "unconfirmed": 8054,
-        "date": "06/06/2020",
-        "source": "https://twitter.com/nhm_assam/status/1269318718305206272/photo/1"
+        "tested": 153326,
+        "positive": 2565,
+        "negative": 142192,
+        "unconfirmed": 0,
+        "date": "07/06/2020",
+        "source": "https://twitter.com/nhm_assam/status/1269669639807741953?s=19"
       }
     },
     "KL": {
@@ -734,12 +734,12 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 11261,
-        "positive": 49,
-        "negative": 9350,
-        "unconfirmed": 1841,
-        "date": "06/06/2020",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/335"
+        "tested": 11516,
+        "positive": 51,
+        "negative": 9921,
+        "unconfirmed": 1520,
+        "date": "07/06/2020",
+        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/356"
       }
     },
     "MZ": {
@@ -880,19 +880,19 @@
     }
   },
   "testing_data": {
-    "tested": 5301549,
-    "positive": 242432,
-    "negative": 3800474,
-    "unconfirmed": 39579
+    "tested": 5324069,
+    "positive": 245747,
+    "negative": 3816948,
+    "unconfirmed": 31204
   },
   "testing_data_imcr": {
     "tested": 4774434,
     "source": "https://t.me/Covid19india_Auxiliary_Test_Data/355"
   },
   "today": {
-    "confirmed": 605,
-    "recovered": 4,
-    "dead": 0,
-    "active": 601
+    "confirmed": 840,
+    "recovered": 64,
+    "dead": 1,
+    "active": 775
   }
 }
