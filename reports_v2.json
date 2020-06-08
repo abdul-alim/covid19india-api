@@ -1,9 +1,9 @@
 {
-  "confirmed": 262646,
-  "recovered": 127302,
-  "dead": 7372,
-  "active": 127957,
-  "updatedTime": "08/06/2020 20:12:46",
+  "confirmed": 264144,
+  "recovered": 127991,
+  "dead": 7449,
+  "active": 128689,
+  "updatedTime": "08/06/2020 20:52:46",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -11,7 +11,7 @@
       "active": 44384,
       "recovered": 40975,
       "dead": 3169,
-      "updatedTime": "08/06/2020 20:12:47",
+      "updatedTime": "08/06/2020 20:37:48",
       "note": "",
       "stateCode": "MH",
       "today": {
@@ -55,18 +55,18 @@
     },
     "DL": {
       "name": "Delhi",
-      "confirmed": 28936,
-      "active": 17125,
-      "recovered": 10999,
-      "dead": 812,
-      "updatedTime": "07/06/2020 22:14:47",
+      "confirmed": 29943,
+      "active": 17712,
+      "recovered": 11357,
+      "dead": 874,
+      "updatedTime": "08/06/2020 20:52:48",
       "note": "[10-May]\nDelhi bulletins in the morning, containing data of the previous day. We will add that data to the date on which the report is released, rather than the previous day.\nAlso, backdated deaths reported are added to the day in which they are announced",
       "stateCode": "DL",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 1007,
+        "recovered": 358,
+        "dead": 62,
+        "active": 587
       },
       "testing_data": {
         "tested": 251915,
@@ -180,7 +180,7 @@
       "recovered": 0,
       "dead": 0,
       "updatedTime": "08/06/2020 13:05:48",
-      "note": "MoHFW website reports that these are the \"cases that are being reassigned to states\"\n[Jun 8] : 1352 cases reduced from total by MoHFW after their morning update",
+      "note": "\"MoHFW website reports that these are the \"\"cases that are being reassigned to states\"\"\n\n[Jun 8] : 519 cases were added to this category today at 9:30 AM. After that, MoHFW reduced 1352 cases. In effect 773 cases were reduced from this category.\"",
       "stateCode": "UN",
       "today": {
         "confirmed": -773,
@@ -268,7 +268,7 @@
       "active": 2018,
       "recovered": 2720,
       "dead": 75,
-      "updatedTime": "08/06/2020 17:28:49",
+      "updatedTime": "08/06/2020 20:18:48",
       "note": "Total includes patients from other states and a new category \"Foreign Evacuees\" which is now reported in AP bulletin.",
       "stateCode": "AP",
       "today": {
@@ -288,18 +288,18 @@
     },
     "HR": {
       "name": "Haryana",
-      "confirmed": 4590,
-      "active": 3083,
-      "recovered": 1479,
-      "dead": 28,
-      "updatedTime": "08/06/2020 15:34:48",
+      "confirmed": 4855,
+      "active": 3116,
+      "recovered": 1700,
+      "dead": 39,
+      "updatedTime": "08/06/2020 20:52:50",
       "note": "",
       "stateCode": "HR",
       "today": {
-        "confirmed": 142,
-        "recovered": 5,
-        "dead": 0,
-        "active": 137
+        "confirmed": 407,
+        "recovered": 226,
+        "dead": 11,
+        "active": 170
       },
       "testing_data": {
         "tested": 145722,
@@ -336,18 +336,18 @@
     },
     "JK": {
       "name": "Jammu and Kashmir",
-      "confirmed": 4087,
-      "active": 2830,
-      "recovered": 1216,
-      "dead": 41,
-      "updatedTime": "07/06/2020 21:34:47",
+      "confirmed": 4285,
+      "active": 2916,
+      "recovered": 1324,
+      "dead": 45,
+      "updatedTime": "08/06/2020 20:52:57",
       "note": "",
       "stateCode": "JK",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 198,
+        "recovered": 108,
+        "dead": 4,
+        "active": 86
       },
       "testing_data": {
         "tested": 218481,
@@ -600,18 +600,18 @@
     },
     "GA": {
       "name": "Goa",
-      "confirmed": 300,
-      "active": 235,
-      "recovered": 65,
+      "confirmed": 330,
+      "active": 263,
+      "recovered": 67,
       "dead": 0,
-      "updatedTime": "08/06/2020 00:36:49",
+      "updatedTime": "08/06/2020 20:52:59",
       "note": "",
       "stateCode": "GA",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 30,
+        "recovered": 2,
         "dead": 0,
-        "active": 0
+        "active": 28
       },
       "testing_data": {
         "tested": 29739,
@@ -672,11 +672,11 @@
     },
     "NL": {
       "name": "Nagaland",
-      "confirmed": 124,
-      "active": 116,
+      "confirmed": 122,
+      "active": 114,
       "recovered": 8,
       "dead": 0,
-      "updatedTime": "08/06/2020 19:44:51",
+      "updatedTime": "08/06/2020 20:53:01",
       "note": "",
       "stateCode": "NL",
       "today": {
@@ -890,9 +890,9 @@
     "source": "https://t.me/Covid19india_Auxiliary_Test_Data/355"
   },
   "today": {
-    "confirmed": 5160,
-    "recovered": 3455,
-    "dead": 165,
-    "active": 1540
+    "confirmed": 6660,
+    "recovered": 4144,
+    "dead": 242,
+    "active": 2274
   }
 }
