@@ -1,9 +1,9 @@
 {
-  "confirmed": 258325,
+  "confirmed": 256987,
   "recovered": 123912,
   "dead": 7208,
-  "active": 127192,
-  "updatedTime": "08/06/2020 12:20:46",
+  "active": 125854,
+  "updatedTime": "08/06/2020 12:52:46",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -107,7 +107,7 @@
       "active": 2641,
       "recovered": 7814,
       "dead": 241,
-      "updatedTime": "08/06/2020 12:20:48",
+      "updatedTime": "08/06/2020 12:32:47",
       "note": "",
       "stateCode": "RJ",
       "today": {
@@ -175,18 +175,18 @@
     },
     "UN": {
       "name": "State Unassigned",
-      "confirmed": 9189,
-      "active": 9189,
+      "confirmed": 7837,
+      "active": 7837,
       "recovered": 0,
       "dead": 0,
-      "updatedTime": "08/06/2020 09:59:49",
+      "updatedTime": "08/06/2020 12:52:48",
       "note": "MoHFW website reports that these are the \"cases that are being reassigned to states\"",
       "stateCode": "UN",
       "today": {
-        "confirmed": 579,
+        "confirmed": -773,
         "recovered": 0,
         "dead": 0,
-        "active": 579
+        "active": -773
       },
       "isUnknown": true
     },
@@ -364,7 +364,7 @@
       "active": 1089,
       "recovered": 1894,
       "dead": 11,
-      "updatedTime": "08/06/2020 12:20:50",
+      "updatedTime": "08/06/2020 12:32:49",
       "note": "Two non-covid deaths reported in state dashboard are included in the deceased count",
       "stateCode": "OR",
       "today": {
@@ -408,18 +408,18 @@
     },
     "AS": {
       "name": "Assam",
-      "confirmed": 2682,
-      "active": 2038,
+      "confirmed": 2694,
+      "active": 2050,
       "recovered": 637,
       "dead": 4,
-      "updatedTime": "08/06/2020 01:35:49",
+      "updatedTime": "08/06/2020 12:38:49",
       "note": "Includes one case from Nagaland\nTotal of three* patients who migrated to other states has been reduced from Active count",
       "stateCode": "AS",
       "today": {
-        "confirmed": 0,
+        "confirmed": 12,
         "recovered": 0,
         "dead": 0,
-        "active": 0
+        "active": 12
       },
       "testing_data": {
         "tested": 153326,
@@ -552,18 +552,18 @@
     },
     "HP": {
       "name": "Himachal Pradesh",
-      "confirmed": 411,
-      "active": 183,
+      "confirmed": 413,
+      "active": 185,
       "recovered": 219,
       "dead": 6,
-      "updatedTime": "07/06/2020 23:14:50",
+      "updatedTime": "08/06/2020 12:38:51",
       "note": "HP has 4 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed",
       "stateCode": "HP",
       "today": {
-        "confirmed": 0,
+        "confirmed": 2,
         "recovered": 0,
         "dead": 0,
-        "active": 0
+        "active": 2
       },
       "testing_data": {
         "tested": 45888,
@@ -890,9 +890,9 @@
     "source": "https://t.me/Covid19india_Auxiliary_Test_Data/355"
   },
   "today": {
-    "confirmed": 840,
+    "confirmed": -498,
     "recovered": 64,
     "dead": 1,
-    "active": 775
+    "active": -563
   }
 }
