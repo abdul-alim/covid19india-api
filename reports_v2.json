@@ -1,9 +1,9 @@
 {
-  "confirmed": 257426,
-  "recovered": 123968,
+  "confirmed": 257451,
+  "recovered": 124103,
   "dead": 7208,
-  "active": 126237,
-  "updatedTime": "08/06/2020 15:22:46",
+  "active": 126125,
+  "updatedTime": "08/06/2020 15:34:46",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -278,12 +278,12 @@
         "active": 103
       },
       "testing_data": {
-        "tested": 454030,
-        "positive": 3718,
-        "negative": 449371,
+        "tested": 468276,
+        "positive": 3843,
+        "negative": 463463,
         "unconfirmed": 0,
-        "date": "07/06/2020",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/345"
+        "date": "08/06/2020",
+        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/359"
       }
     },
     "HR": {
@@ -292,7 +292,7 @@
       "active": 3083,
       "recovered": 1479,
       "dead": 28,
-      "updatedTime": "08/06/2020 15:22:48",
+      "updatedTime": "08/06/2020 15:34:48",
       "note": "",
       "stateCode": "HR",
       "today": {
@@ -456,18 +456,18 @@
     },
     "UT": {
       "name": "Uttarakhand",
-      "confirmed": 1355,
-      "active": 809,
-      "recovered": 528,
+      "confirmed": 1380,
+      "active": 697,
+      "recovered": 663,
       "dead": 13,
-      "updatedTime": "07/06/2020 23:53:52",
+      "updatedTime": "08/06/2020 15:34:50",
       "note": "Four migrated cases reduced from Active count",
       "stateCode": "UT",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 25,
+        "recovered": 135,
         "dead": 0,
-        "active": 0
+        "active": -110
       },
       "testing_data": {
         "tested": 37166,
@@ -880,9 +880,9 @@
     }
   },
   "testing_data": {
-    "tested": 5324069,
-    "positive": 245747,
-    "negative": 3816948,
+    "tested": 5338315,
+    "positive": 245872,
+    "negative": 3831040,
     "unconfirmed": 31204
   },
   "testing_data_imcr": {
@@ -890,9 +890,9 @@
     "source": "https://t.me/Covid19india_Auxiliary_Test_Data/355"
   },
   "today": {
-    "confirmed": -60,
-    "recovered": 120,
+    "confirmed": -35,
+    "recovered": 255,
     "dead": 1,
-    "active": -181
+    "active": -291
   }
 }
