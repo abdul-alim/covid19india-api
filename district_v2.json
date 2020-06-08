@@ -729,14 +729,14 @@
       {
         "district": "Cachar",
         "notes": "",
-        "active": 4,
+        "active": 0,
         "confirmed": 82,
-        "recovered": 78,
+        "recovered": 82,
         "dead": 0,
         "today": {
           "confirmed": 0,
-          "recovered": 0,
-          "active": 0,
+          "recovered": 4,
+          "active": -4,
           "dead": 0
         }
       },
@@ -785,14 +785,14 @@
       {
         "district": "Dhemaji",
         "notes": "",
-        "active": 45,
+        "active": 44,
         "confirmed": 50,
-        "recovered": 5,
+        "recovered": 6,
         "dead": 0,
         "today": {
           "confirmed": 0,
-          "recovered": 0,
-          "active": 0,
+          "recovered": 1,
+          "active": -1,
           "dead": 0
         }
       },
@@ -925,14 +925,14 @@
       {
         "district": "Kamrup Metropolitan",
         "notes": "",
-        "active": 111,
+        "active": 90,
         "confirmed": 404,
-        "recovered": 290,
+        "recovered": 311,
         "dead": 3,
         "today": {
           "confirmed": 0,
-          "recovered": 0,
-          "active": 0,
+          "recovered": 21,
+          "active": -21,
           "dead": 0
         }
       },
@@ -953,14 +953,14 @@
       {
         "district": "Karimganj",
         "notes": "",
-        "active": 64,
+        "active": 61,
         "confirmed": 77,
-        "recovered": 13,
+        "recovered": 16,
         "dead": 0,
         "today": {
           "confirmed": 0,
-          "recovered": 0,
-          "active": 0,
+          "recovered": 3,
+          "active": -3,
           "dead": 0
         }
       },
@@ -1149,14 +1149,14 @@
     ],
     "today": {
       "confirmed": 12,
-      "active": 12,
-      "recovered": 0,
+      "active": -17,
+      "recovered": 29,
       "dead": 0
     },
     "confirmed": 2694,
-    "recovered": 637,
+    "recovered": 666,
     "dead": 4,
-    "active": 2050
+    "active": 2021
   },
   "BR": {
     "state": "Bihar",
