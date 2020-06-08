@@ -1,9 +1,9 @@
 {
-  "confirmed": 257451,
-  "recovered": 124232,
-  "dead": 7208,
-  "active": 125996,
-  "updatedTime": "08/06/2020 17:30:46",
+  "confirmed": 257625,
+  "recovered": 124380,
+  "dead": 7210,
+  "active": 126020,
+  "updatedTime": "08/06/2020 18:22:46",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -241,17 +241,17 @@
     "BR": {
       "name": "Bihar",
       "confirmed": 5175,
-      "active": 2740,
-      "recovered": 2405,
-      "dead": 30,
-      "updatedTime": "08/06/2020 14:03:48",
+      "active": 2602,
+      "recovered": 2542,
+      "dead": 31,
+      "updatedTime": "08/06/2020 18:22:48",
       "note": "",
       "stateCode": "BR",
       "today": {
         "confirmed": 105,
-        "recovered": 0,
-        "dead": 0,
-        "active": 105
+        "recovered": 137,
+        "dead": 1,
+        "active": -33
       },
       "testing_data": {
         "tested": 99108,
@@ -408,18 +408,18 @@
     },
     "AS": {
       "name": "Assam",
-      "confirmed": 2694,
-      "active": 2021,
+      "confirmed": 2777,
+      "active": 2104,
       "recovered": 666,
       "dead": 4,
-      "updatedTime": "08/06/2020 17:30:49",
+      "updatedTime": "08/06/2020 18:19:49",
       "note": "Includes one case from Nagaland\nTotal of three* patients who migrated to other states has been reduced from Active count",
       "stateCode": "AS",
       "today": {
-        "confirmed": 12,
+        "confirmed": 95,
         "recovered": 29,
         "dead": 0,
-        "active": -17
+        "active": 66
       },
       "testing_data": {
         "tested": 153326,
@@ -432,18 +432,18 @@
     },
     "KL": {
       "name": "Kerala",
-      "confirmed": 1915,
-      "active": 1096,
-      "recovered": 803,
-      "dead": 16,
-      "updatedTime": "08/06/2020 15:49:48",
+      "confirmed": 2006,
+      "active": 1175,
+      "recovered": 814,
+      "dead": 17,
+      "updatedTime": "08/06/2020 18:19:51",
       "note": "Mahe native who expired in Kannur included in Kerala's tally",
       "stateCode": "KL",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 91,
+        "recovered": 11,
+        "dead": 1,
+        "active": 79
       },
       "testing_data": {
         "tested": 111930,
@@ -890,9 +890,9 @@
     "source": "https://t.me/Covid19india_Auxiliary_Test_Data/355"
   },
   "today": {
-    "confirmed": -35,
-    "recovered": 384,
-    "dead": 1,
-    "active": -420
+    "confirmed": 139,
+    "recovered": 532,
+    "dead": 3,
+    "active": -396
   }
 }
