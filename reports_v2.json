@@ -1,9 +1,9 @@
 {
-  "confirmed": 269973,
-  "recovered": 130634,
-  "dead": 7508,
-  "active": 131816,
-  "updatedTime": "09/06/2020 19:38:46",
+  "confirmed": 270406,
+  "recovered": 130971,
+  "dead": 7554,
+  "active": 131866,
+  "updatedTime": "09/06/2020 19:52:46",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -80,25 +80,25 @@
     "GJ": {
       "name": "Gujarat",
       "confirmed": 20574,
-      "active": 5330,
+      "active": 5297,
       "recovered": 13964,
-      "dead": 1280,
-      "updatedTime": "08/06/2020 19:48:49",
+      "dead": 1313,
+      "updatedTime": "09/06/2020 19:52:48",
       "note": "",
       "stateCode": "GJ",
       "today": {
         "confirmed": 0,
         "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "dead": 33,
+        "active": -33
       },
       "testing_data": {
-        "tested": 256289,
-        "positive": 20574,
+        "tested": 261587,
+        "positive": 21044,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "08/06/2020",
-        "source": "https://twitter.com/GujHFWDept/status/1269993110874083336"
+        "date": "09/06/2020",
+        "source": ""
       }
     },
     "UP": {
@@ -175,18 +175,18 @@
     },
     "WB": {
       "name": "West Bengal",
-      "confirmed": 8613,
-      "active": 4743,
-      "recovered": 3465,
-      "dead": 405,
-      "updatedTime": "08/06/2020 21:40:52",
+      "confirmed": 8985,
+      "active": 4950,
+      "recovered": 3620,
+      "dead": 415,
+      "updatedTime": "09/06/2020 19:52:52",
       "note": "",
       "stateCode": "WB",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 372,
+        "recovered": 155,
+        "dead": 10,
+        "active": 207
       },
       "testing_data": {
         "tested": 280098,
@@ -312,18 +312,18 @@
     },
     "JK": {
       "name": "Jammu and Kashmir",
-      "confirmed": 4285,
-      "active": 2916,
-      "recovered": 1324,
-      "dead": 45,
-      "updatedTime": "08/06/2020 21:00:55",
+      "confirmed": 4346,
+      "active": 2792,
+      "recovered": 1506,
+      "dead": 48,
+      "updatedTime": "09/06/2020 19:52:55",
       "note": "",
       "stateCode": "JK",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 61,
+        "recovered": 182,
+        "dead": 3,
+        "active": -124
       },
       "testing_data": {
         "tested": 227906,
@@ -880,8 +880,8 @@
     }
   },
   "testing_data": {
-    "tested": 5485455,
-    "positive": 245850,
+    "tested": 5490753,
+    "positive": 246320,
     "negative": 3936313,
     "unconfirmed": 31790
   },
@@ -890,9 +890,9 @@
     "source": "https://t.me/Covid19india_Auxiliary_Test_Data/374"
   },
   "today": {
-    "confirmed": 4045,
-    "recovered": 1615,
-    "dead": 35,
-    "active": 2395
+    "confirmed": 4478,
+    "recovered": 1952,
+    "dead": 81,
+    "active": 2445
   }
 }
