@@ -504,14 +504,14 @@
       {
         "district": "Pakke Kessang",
         "notes": "",
-        "active": 1,
+        "active": 0,
         "confirmed": 1,
-        "recovered": 0,
+        "recovered": 1,
         "dead": 0,
         "today": {
           "confirmed": 0,
-          "recovered": 0,
-          "active": 0,
+          "recovered": 1,
+          "active": -1,
           "dead": 0
         }
       },
@@ -658,14 +658,14 @@
     ],
     "today": {
       "confirmed": 0,
-      "active": 0,
-      "recovered": 0,
+      "active": -1,
+      "recovered": 1,
       "dead": 0
     },
     "confirmed": 57,
-    "recovered": 1,
+    "recovered": 2,
     "dead": 0,
-    "active": 56
+    "active": 55
   },
   "AS": {
     "state": "Assam",

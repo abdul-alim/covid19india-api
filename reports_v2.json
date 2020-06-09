@@ -1,9 +1,9 @@
 {
   "confirmed": 265928,
-  "recovered": 129095,
+  "recovered": 129096,
   "dead": 7473,
-  "active": 129345,
-  "updatedTime": "09/06/2020 01:46:46",
+  "active": 129344,
+  "updatedTime": "09/06/2020 07:34:46",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -676,7 +676,7 @@
       "active": 114,
       "recovered": 8,
       "dead": 0,
-      "updatedTime": "08/06/2020 21:01:01",
+      "updatedTime": "09/06/2020 07:31:48",
       "note": "",
       "stateCode": "NL",
       "today": {
@@ -721,17 +721,17 @@
     "AR": {
       "name": "Arunachal Pradesh",
       "confirmed": 57,
-      "active": 56,
-      "recovered": 1,
+      "active": 55,
+      "recovered": 2,
       "dead": 0,
-      "updatedTime": "08/06/2020 22:19:55",
+      "updatedTime": "09/06/2020 07:34:48",
       "note": "",
       "stateCode": "AR",
       "today": {
         "confirmed": 0,
-        "recovered": 0,
+        "recovered": 1,
         "dead": 0,
-        "active": 0
+        "active": -1
       },
       "testing_data": {
         "tested": 12012,
@@ -891,8 +891,8 @@
   },
   "today": {
     "confirmed": 0,
-    "recovered": 0,
+    "recovered": 1,
     "dead": 0,
-    "active": 0
+    "active": -1
   }
 }
