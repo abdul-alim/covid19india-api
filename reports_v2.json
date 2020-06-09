@@ -1,9 +1,9 @@
 {
-  "confirmed": 274758,
-  "recovered": 134161,
-  "dead": 7719,
-  "active": 132863,
-  "updatedTime": "09/06/2020 23:42:46",
+  "confirmed": 276033,
+  "recovered": 134665,
+  "dead": 7750,
+  "active": 133603,
+  "updatedTime": "09/06/2020 23:52:46",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -55,18 +55,18 @@
     },
     "DL": {
       "name": "Delhi",
-      "confirmed": 29943,
-      "active": 17712,
-      "recovered": 11357,
-      "dead": 874,
+      "confirmed": 31309,
+      "active": 18543,
+      "recovered": 11861,
+      "dead": 905,
       "updatedTime": "08/06/2020 21:00:48",
       "note": "[10-May]\nDelhi bulletins in the morning, containing data of the previous day. We will add that data to the date on which the report is released, rather than the previous day.\nAlso, backdated deaths reported are added to the day in which they are announced",
       "stateCode": "DL",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 1366,
+        "recovered": 504,
+        "dead": 31,
+        "active": 831
       },
       "testing_data": {
         "tested": 255615,
@@ -199,18 +199,18 @@
     },
     "UN": {
       "name": "State Unassigned",
-      "confirmed": 8803,
-      "active": 8803,
+      "confirmed": 8711,
+      "active": 8711,
       "recovered": 0,
       "dead": 0,
       "updatedTime": "09/06/2020 10:04:47",
       "note": "\"MoHFW website reports that these are the \"\"cases that are being reassigned to states\"\"\n\n[Jun 8] : 519 cases were added to this category today at 9:30 AM. After that, MoHFW reduced 1352 cases. In effect 773 cases were reduced from this category.\"",
       "stateCode": "UN",
       "today": {
-        "confirmed": 966,
+        "confirmed": 874,
         "recovered": 0,
         "dead": 0,
-        "active": 966
+        "active": 874
       },
       "isUnknown": true
     },
@@ -532,7 +532,7 @@
       "active": 673,
       "recovered": 192,
       "dead": 1,
-      "updatedTime": "09/06/2020 23:42:48",
+      "updatedTime": "09/06/2020 23:52:48",
       "note": "",
       "stateCode": "TR",
       "today": {
@@ -628,7 +628,7 @@
       "active": 240,
       "recovered": 64,
       "dead": 0,
-      "updatedTime": "09/06/2020 23:42:50",
+      "updatedTime": "09/06/2020 23:52:50",
       "note": "",
       "stateCode": "MN",
       "today": {
@@ -772,7 +772,7 @@
       "active": 29,
       "recovered": 13,
       "dead": 1,
-      "updatedTime": "09/06/2020 23:42:51",
+      "updatedTime": "09/06/2020 23:52:52",
       "note": "",
       "stateCode": "ML",
       "today": {
@@ -792,18 +792,18 @@
     },
     "AN": {
       "name": "Andaman and Nicobar",
-      "confirmed": 33,
-      "active": 0,
+      "confirmed": 34,
+      "active": 1,
       "recovered": 33,
       "dead": 0,
-      "updatedTime": "07/05/2020 22:24:57",
+      "updatedTime": "09/06/2020 23:52:54",
       "note": "",
       "stateCode": "AN",
       "today": {
-        "confirmed": 0,
+        "confirmed": 1,
         "recovered": 0,
         "dead": 0,
-        "active": 0
+        "active": 1
       },
       "testing_data": {
         "tested": 9341,
@@ -890,9 +890,9 @@
     "source": "https://t.me/Covid19india_Auxiliary_Test_Data/374"
   },
   "today": {
-    "confirmed": 8738,
-    "recovered": 5142,
-    "dead": 241,
-    "active": 3355
+    "confirmed": 10013,
+    "recovered": 5646,
+    "dead": 272,
+    "active": 4095
   }
 }
