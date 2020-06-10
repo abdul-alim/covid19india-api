@@ -1,9 +1,9 @@
 {
-  "confirmed": 276779,
-  "recovered": 134669,
-  "dead": 7750,
-  "active": 134345,
-  "updatedTime": "10/06/2020 11:15:46",
+  "confirmed": 276902,
+  "recovered": 134843,
+  "dead": 7751,
+  "active": 134293,
+  "updatedTime": "10/06/2020 11:34:46",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -21,12 +21,12 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 579294,
-        "positive": 88528,
-        "negative": 485144,
+        "tested": 595282,
+        "positive": 90787,
+        "negative": 497990,
         "unconfirmed": 0,
-        "date": "09/06/2020",
-        "source": "https://twitter.com/Maha_MEDD/status/1270228148299300865?s=19"
+        "date": "10/06/2020",
+        "source": "https://twitter.com/Maha_MEDD/status/1270590918236581888?s=19"
       }
     },
     "TN": {
@@ -103,18 +103,18 @@
     },
     "RJ": {
       "name": "Rajasthan",
-      "confirmed": 11245,
-      "active": 2662,
-      "recovered": 8328,
-      "dead": 255,
-      "updatedTime": "09/06/2020 22:41:47",
+      "confirmed": 11368,
+      "active": 2610,
+      "recovered": 8502,
+      "dead": 256,
+      "updatedTime": "10/06/2020 11:34:48",
       "note": "",
       "stateCode": "RJ",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 123,
+        "recovered": 174,
+        "dead": 1,
+        "active": -52
       },
       "testing_data": {
         "tested": 530031,
@@ -880,9 +880,9 @@
     }
   },
   "testing_data": {
-    "tested": 5626792,
-    "positive": 261335,
-    "negative": 4037583,
+    "tested": 5642780,
+    "positive": 263594,
+    "negative": 4050429,
     "unconfirmed": 30725
   },
   "testing_data_imcr": {
@@ -890,9 +890,9 @@
     "source": "https://t.me/Covid19india_Auxiliary_Test_Data/388"
   },
   "today": {
-    "confirmed": 633,
-    "recovered": 0,
-    "dead": 0,
-    "active": 633
+    "confirmed": 756,
+    "recovered": 174,
+    "dead": 1,
+    "active": 581
   }
 }
