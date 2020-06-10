@@ -1,9 +1,9 @@
 {
-  "confirmed": 284754,
-  "recovered": 140033,
-  "dead": 7996,
-  "active": 136710,
-  "updatedTime": "10/06/2020 21:12:46",
+  "confirmed": 286257,
+  "recovered": 140484,
+  "dead": 8078,
+  "active": 137680,
+  "updatedTime": "10/06/2020 21:34:48",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -55,18 +55,18 @@
     },
     "DL": {
       "name": "Delhi",
-      "confirmed": 31309,
-      "active": 18543,
-      "recovered": 11861,
-      "dead": 905,
-      "updatedTime": "10/06/2020 11:15:48",
+      "confirmed": 32810,
+      "active": 19581,
+      "recovered": 12245,
+      "dead": 984,
+      "updatedTime": "10/06/2020 21:34:50",
       "note": "[10-May]\nDelhi bulletins in the morning, containing data of the previous day. We will add that data to the date on which the report is released, rather than the previous day.\nAlso, backdated deaths reported are added to the day in which they are announced",
       "stateCode": "DL",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 1501,
+        "recovered": 384,
+        "dead": 79,
+        "active": 1038
       },
       "testing_data": {
         "tested": 261079,
@@ -104,17 +104,17 @@
     "RJ": {
       "name": "Rajasthan",
       "confirmed": 11600,
-      "active": 2842,
-      "recovered": 8502,
-      "dead": 256,
-      "updatedTime": "10/06/2020 21:12:49",
+      "active": 2772,
+      "recovered": 8569,
+      "dead": 259,
+      "updatedTime": "10/06/2020 21:32:54",
       "note": "",
       "stateCode": "RJ",
       "today": {
         "confirmed": 355,
-        "recovered": 174,
-        "dead": 1,
-        "active": 180
+        "recovered": 241,
+        "dead": 4,
+        "active": 110
       },
       "testing_data": {
         "tested": 530031,
@@ -155,7 +155,7 @@
       "active": 2730,
       "recovered": 6892,
       "dead": 427,
-      "updatedTime": "10/06/2020 21:12:53",
+      "updatedTime": "10/06/2020 21:18:51",
       "note": "",
       "stateCode": "MP",
       "today": {
@@ -456,18 +456,18 @@
     },
     "UT": {
       "name": "Uttarakhand",
-      "confirmed": 1560,
-      "active": 730,
+      "confirmed": 1562,
+      "active": 732,
       "recovered": 808,
       "dead": 15,
-      "updatedTime": "10/06/2020 15:35:49",
+      "updatedTime": "10/06/2020 21:34:52",
       "note": "Four migrated cases reduced from Active count",
       "stateCode": "UT",
       "today": {
-        "confirmed": 23,
+        "confirmed": 25,
         "recovered": 53,
         "dead": 2,
-        "active": -32
+        "active": -30
       },
       "testing_data": {
         "tested": 40264,
@@ -890,9 +890,9 @@
     "source": "https://t.me/Covid19india_Auxiliary_Test_Data/388"
   },
   "today": {
-    "confirmed": 8755,
-    "recovered": 5380,
-    "dead": 246,
-    "active": 3129
+    "confirmed": 10258,
+    "recovered": 5831,
+    "dead": 328,
+    "active": 4099
   }
 }
