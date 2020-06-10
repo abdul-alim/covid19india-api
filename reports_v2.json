@@ -1,9 +1,9 @@
 {
-  "confirmed": 284207,
-  "recovered": 139718,
-  "dead": 7986,
-  "active": 136488,
-  "updatedTime": "10/06/2020 20:34:46",
+  "confirmed": 284322,
+  "recovered": 139870,
+  "dead": 7989,
+  "active": 136448,
+  "updatedTime": "10/06/2020 20:50:46",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -11,7 +11,7 @@
       "active": 46087,
       "recovered": 44516,
       "dead": 3438,
-      "updatedTime": "10/06/2020 20:34:48",
+      "updatedTime": "10/06/2020 20:43:48",
       "note": "",
       "stateCode": "MH",
       "today": {
@@ -240,18 +240,18 @@
     },
     "BR": {
       "name": "Bihar",
-      "confirmed": 5583,
-      "active": 2615,
+      "confirmed": 5698,
+      "active": 2730,
       "recovered": 2934,
       "dead": 34,
-      "updatedTime": "10/06/2020 17:24:48",
+      "updatedTime": "10/06/2020 20:50:48",
       "note": "",
       "stateCode": "BR",
       "today": {
-        "confirmed": 128,
+        "confirmed": 243,
         "recovered": 164,
         "dead": 1,
-        "active": -37
+        "active": 78
       },
       "testing_data": {
         "tested": 109483,
@@ -268,7 +268,7 @@
       "active": 3339,
       "recovered": 2188,
       "dead": 52,
-      "updatedTime": "10/06/2020 20:34:51",
+      "updatedTime": "10/06/2020 20:43:53",
       "note": "",
       "stateCode": "HR",
       "today": {
@@ -313,17 +313,17 @@
     "JK": {
       "name": "Jammu and Kashmir",
       "confirmed": 4507,
-      "active": 2788,
+      "active": 2785,
       "recovered": 1671,
-      "dead": 48,
-      "updatedTime": "10/06/2020 20:34:53",
+      "dead": 51,
+      "updatedTime": "10/06/2020 20:50:50",
       "note": "",
       "stateCode": "JK",
       "today": {
         "confirmed": 161,
         "recovered": 165,
-        "dead": 0,
-        "active": -4
+        "dead": 3,
+        "active": -7
       },
       "testing_data": {
         "tested": 235816,
@@ -385,17 +385,17 @@
     "AS": {
       "name": "Assam",
       "confirmed": 3093,
-      "active": 1988,
-      "recovered": 1097,
+      "active": 1836,
+      "recovered": 1249,
       "dead": 5,
-      "updatedTime": "10/06/2020 12:02:51",
+      "updatedTime": "10/06/2020 20:50:52",
       "note": "Includes one case from Nagaland\nTotal of three* patients who migrated to other states has been reduced from Active count",
       "stateCode": "AS",
       "today": {
         "confirmed": 42,
-        "recovered": 0,
+        "recovered": 152,
         "dead": 0,
-        "active": 42
+        "active": -110
       },
       "testing_data": {
         "tested": 169842,
@@ -890,9 +890,9 @@
     "source": "https://t.me/Covid19india_Auxiliary_Test_Data/388"
   },
   "today": {
-    "confirmed": 8208,
-    "recovered": 5065,
-    "dead": 236,
-    "active": 2907
+    "confirmed": 8323,
+    "recovered": 5217,
+    "dead": 239,
+    "active": 2867
   }
 }
