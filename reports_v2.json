@@ -3,7 +3,7 @@
   "recovered": 146074,
   "dead": 8473,
   "active": 142439,
-  "updatedTime": "11/06/2020 21:02:46",
+  "updatedTime": "11/06/2020 21:04:46",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -11,7 +11,7 @@
       "active": 47980,
       "recovered": 46078,
       "dead": 3590,
-      "updatedTime": "11/06/2020 21:02:48",
+      "updatedTime": "11/06/2020 21:04:48",
       "note": "",
       "stateCode": "MH",
       "today": {
@@ -60,7 +60,7 @@
       "recovered": 12731,
       "dead": 1085,
       "updatedTime": "11/06/2020 20:36:50",
-      "note": "[10-May]\nDelhi bulletins in the morning, containing data of the previous day. We will add that data to the date on which the report is released, rather than the previous day.\nAlso, backdated deaths reported are added to the day in which they are announced",
+      "note": "Delhi bulletins in the morning, containing data of the previous day. We will add that data to the date on which the report is released, rather than the previous day.",
       "stateCode": "DL",
       "today": {
         "confirmed": 1877,
@@ -101,30 +101,6 @@
         "source": "https://twitter.com/GujHFWDept/status/1271081450704531456"
       }
     },
-    "RJ": {
-      "name": "Rajasthan",
-      "confirmed": 11651,
-      "active": 2791,
-      "recovered": 8596,
-      "dead": 264,
-      "updatedTime": "11/06/2020 11:13:49",
-      "note": "",
-      "stateCode": "RJ",
-      "today": {
-        "confirmed": 51,
-        "recovered": 27,
-        "dead": 5,
-        "active": 19
-      },
-      "testing_data": {
-        "tested": 543312,
-        "positive": 11600,
-        "negative": 527864,
-        "unconfirmed": 3848,
-        "date": "10/06/2020",
-        "source": ""
-      }
-    },
     "UP": {
       "name": "Uttar Pradesh",
       "confirmed": 12088,
@@ -147,6 +123,30 @@
         "unconfirmed": 2186,
         "date": "10/06/2020",
         "source": "https://t.me/indiacovid/6913?single"
+      }
+    },
+    "RJ": {
+      "name": "Rajasthan",
+      "confirmed": 11651,
+      "active": 2791,
+      "recovered": 8596,
+      "dead": 264,
+      "updatedTime": "11/06/2020 11:13:49",
+      "note": "",
+      "stateCode": "RJ",
+      "today": {
+        "confirmed": 51,
+        "recovered": 27,
+        "dead": 5,
+        "active": 19
+      },
+      "testing_data": {
+        "tested": 543312,
+        "positive": 11600,
+        "negative": 527864,
+        "unconfirmed": 3848,
+        "date": "10/06/2020",
+        "source": ""
       }
     },
     "MP": {
@@ -204,7 +204,7 @@
       "recovered": 0,
       "dead": 0,
       "updatedTime": "11/06/2020 10:13:48",
-      "note": "\"MoHFW website reports that these are the \"\"cases that are being reassigned to states\"\"\n\n[Jun 8] : 519 cases were added to this category today at 9:30 AM. After that, MoHFW reduced 1352 cases. In effect 773 cases were reduced from this category.\"",
+      "note": "\"MoHFW website reports that these are the \"\"cases that are being reassigned to states\"\"",
       "stateCode": "UN",
       "today": {
         "confirmed": -296,
@@ -598,30 +598,6 @@
         "source": "https://twitter.com/DHS_Goa/status/1270720947784278020?s=19"
       }
     },
-    "CH": {
-      "name": "Chandigarh",
-      "confirmed": 332,
-      "active": 34,
-      "recovered": 293,
-      "dead": 5,
-      "updatedTime": "11/06/2020 15:41:50",
-      "note": "",
-      "stateCode": "CH",
-      "today": {
-        "confirmed": 4,
-        "recovered": 4,
-        "dead": 0,
-        "active": 0
-      },
-      "testing_data": {
-        "tested": 5636,
-        "positive": 332,
-        "negative": 5267,
-        "unconfirmed": 36,
-        "date": "11/06/2020",
-        "source": "https://twitter.com/ANI/status/1271014249989468160?s=19"
-      }
-    },
     "MN": {
       "name": "Manipur",
       "confirmed": 342,
@@ -644,6 +620,30 @@
         "unconfirmed": 0,
         "date": "10/06/2020",
         "source": "https://twitter.com/DiprManipur/status/1270743491769970691?s=19"
+      }
+    },
+    "CH": {
+      "name": "Chandigarh",
+      "confirmed": 332,
+      "active": 34,
+      "recovered": 293,
+      "dead": 5,
+      "updatedTime": "11/06/2020 15:41:50",
+      "note": "",
+      "stateCode": "CH",
+      "today": {
+        "confirmed": 4,
+        "recovered": 4,
+        "dead": 0,
+        "active": 0
+      },
+      "testing_data": {
+        "tested": 5636,
+        "positive": 332,
+        "negative": 5267,
+        "unconfirmed": 36,
+        "date": "11/06/2020",
+        "source": "https://twitter.com/ANI/status/1271014249989468160?s=19"
       }
     },
     "PY": {
@@ -670,30 +670,6 @@
         "source": "https://covid19dashboard.py.gov.in/LabTestReport"
       }
     },
-    "NL": {
-      "name": "Nagaland",
-      "confirmed": 130,
-      "active": 101,
-      "recovered": 29,
-      "dead": 0,
-      "updatedTime": "11/06/2020 17:48:53",
-      "note": "",
-      "stateCode": "NL",
-      "today": {
-        "confirmed": 2,
-        "recovered": 7,
-        "dead": 0,
-        "active": -5
-      },
-      "testing_data": {
-        "tested": 5220,
-        "positive": 128,
-        "negative": 3867,
-        "unconfirmed": 1212,
-        "date": "10/06/2020",
-        "source": "https://twitter.com/MyGovNagaland/status/1270716415624896513/photo/1"
-      }
-    },
     "LA": {
       "name": "Ladakh",
       "confirmed": 135,
@@ -716,6 +692,30 @@
         "unconfirmed": 2453,
         "date": "09/06/2020",
         "source": "https://t.me/indiacovid/6801?single"
+      }
+    },
+    "NL": {
+      "name": "Nagaland",
+      "confirmed": 130,
+      "active": 101,
+      "recovered": 29,
+      "dead": 0,
+      "updatedTime": "11/06/2020 17:48:53",
+      "note": "",
+      "stateCode": "NL",
+      "today": {
+        "confirmed": 2,
+        "recovered": 7,
+        "dead": 0,
+        "active": -5
+      },
+      "testing_data": {
+        "tested": 5220,
+        "positive": 128,
+        "negative": 3867,
+        "unconfirmed": 1212,
+        "date": "10/06/2020",
+        "source": "https://twitter.com/MyGovNagaland/status/1270716415624896513/photo/1"
       }
     },
     "MZ": {
