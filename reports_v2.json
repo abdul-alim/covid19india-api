@@ -1,9 +1,9 @@
 {
-  "confirmed": 287754,
-  "recovered": 141360,
+  "confirmed": 287978,
+  "recovered": 141364,
   "dead": 8116,
-  "active": 138263,
-  "updatedTime": "11/06/2020 17:45:46",
+  "active": 138483,
+  "updatedTime": "11/06/2020 18:02:46",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -216,18 +216,18 @@
     },
     "KA": {
       "name": "Karnataka",
-      "confirmed": 6041,
-      "active": 3108,
+      "confirmed": 6245,
+      "active": 3312,
       "recovered": 2862,
       "dead": 69,
-      "updatedTime": "10/06/2020 18:37:49",
+      "updatedTime": "11/06/2020 18:02:48",
       "note": "Two active cases in KA reduced as these confirmed patients died of non-CoViD19 related reasons",
       "stateCode": "KA",
       "today": {
-        "confirmed": 0,
+        "confirmed": 204,
         "recovered": 0,
         "dead": 0,
-        "active": 0
+        "active": 204
       },
       "testing_data": {
         "tested": 408506,
@@ -244,7 +244,7 @@
       "active": 2687,
       "recovered": 3086,
       "dead": 34,
-      "updatedTime": "11/06/2020 17:45:48",
+      "updatedTime": "11/06/2020 17:48:48",
       "note": "",
       "stateCode": "BR",
       "today": {
@@ -254,12 +254,12 @@
         "active": -43
       },
       "testing_data": {
-        "tested": 109483,
-        "positive": 5583,
+        "tested": 113225,
+        "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "10/06/2020",
-        "source": "https://twitter.com/PIB_Patna/status/1270674704077127680"
+        "date": "11/06/2020",
+        "source": ""
       }
     },
     "HR": {
@@ -676,7 +676,7 @@
       "active": 101,
       "recovered": 29,
       "dead": 0,
-      "updatedTime": "11/06/2020 17:45:51",
+      "updatedTime": "11/06/2020 17:48:53",
       "note": "",
       "stateCode": "NL",
       "today": {
@@ -696,18 +696,18 @@
     },
     "LA": {
       "name": "Ladakh",
-      "confirmed": 115,
-      "active": 64,
-      "recovered": 50,
+      "confirmed": 135,
+      "active": 80,
+      "recovered": 54,
       "dead": 1,
-      "updatedTime": "10/06/2020 17:50:49",
+      "updatedTime": "11/06/2020 18:01:52",
       "note": "",
       "stateCode": "LA",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 20,
+        "recovered": 4,
         "dead": 0,
-        "active": 0
+        "active": 16
       },
       "testing_data": {
         "tested": 10249,
@@ -880,8 +880,8 @@
     }
   },
   "testing_data": {
-    "tested": 5803917,
-    "positive": 273784,
+    "tested": 5807659,
+    "positive": 268201,
     "negative": 4166957,
     "unconfirmed": 24971
   },
@@ -890,9 +890,9 @@
     "source": "https://t.me/Covid19india_Auxiliary_Test_Data/402"
   },
   "today": {
-    "confirmed": 599,
-    "recovered": 381,
+    "confirmed": 823,
+    "recovered": 385,
     "dead": 8,
-    "active": 210
+    "active": 430
   }
 }
