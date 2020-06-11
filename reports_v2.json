@@ -1,9 +1,9 @@
 {
   "confirmed": 287754,
-  "recovered": 141129,
+  "recovered": 141348,
   "dead": 8116,
-  "active": 138494,
-  "updatedTime": "11/06/2020 15:53:47",
+  "active": 138275,
+  "updatedTime": "11/06/2020 17:21:46",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -241,17 +241,17 @@
     "BR": {
       "name": "Bihar",
       "confirmed": 5807,
-      "active": 2839,
-      "recovered": 2934,
+      "active": 2692,
+      "recovered": 3081,
       "dead": 34,
-      "updatedTime": "11/06/2020 13:44:48",
+      "updatedTime": "11/06/2020 17:13:48",
       "note": "",
       "stateCode": "BR",
       "today": {
         "confirmed": 109,
-        "recovered": 0,
+        "recovered": 147,
         "dead": 0,
-        "active": 109
+        "active": -38
       },
       "testing_data": {
         "tested": 109483,
@@ -361,17 +361,17 @@
     "OR": {
       "name": "Odisha",
       "confirmed": 3386,
-      "active": 1092,
-      "recovered": 2282,
+      "active": 1020,
+      "recovered": 2354,
       "dead": 12,
-      "updatedTime": "11/06/2020 11:25:48",
+      "updatedTime": "11/06/2020 17:21:48",
       "note": "Two non-covid deaths reported in state dashboard are included in the deceased count",
       "stateCode": "OR",
       "today": {
         "confirmed": 136,
-        "recovered": 0,
+        "recovered": 72,
         "dead": 1,
-        "active": 135
+        "active": 63
       },
       "testing_data": {
         "tested": 185410,
@@ -891,8 +891,8 @@
   },
   "today": {
     "confirmed": 599,
-    "recovered": 150,
+    "recovered": 369,
     "dead": 8,
-    "active": 441
+    "active": 222
   }
 }
