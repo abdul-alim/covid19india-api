@@ -1,9 +1,9 @@
 {
   "confirmed": 287061,
   "recovered": 141006,
-  "dead": 8112,
-  "active": 137928,
-  "updatedTime": "11/06/2020 11:02:46",
+  "dead": 8113,
+  "active": 137927,
+  "updatedTime": "11/06/2020 11:12:46",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -107,14 +107,14 @@
       "active": 2791,
       "recovered": 8596,
       "dead": 264,
-      "updatedTime": "11/06/2020 11:02:53",
+      "updatedTime": "11/06/2020 11:05:47",
       "note": "",
       "stateCode": "RJ",
       "today": {
-        "confirmed": 20,
-        "recovered": 0,
-        "dead": 0,
-        "active": 20
+        "confirmed": 51,
+        "recovered": 27,
+        "dead": 5,
+        "active": 19
       },
       "testing_data": {
         "tested": 543312,
@@ -361,25 +361,25 @@
     "OR": {
       "name": "Odisha",
       "confirmed": 3386,
-      "active": 1093,
+      "active": 1092,
       "recovered": 2282,
-      "dead": 11,
-      "updatedTime": "11/06/2020 11:02:55",
+      "dead": 12,
+      "updatedTime": "11/06/2020 11:12:48",
       "note": "Two non-covid deaths reported in state dashboard are included in the deceased count",
       "stateCode": "OR",
       "today": {
-        "confirmed": 0,
+        "confirmed": 136,
         "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "dead": 1,
+        "active": 135
       },
       "testing_data": {
-        "tested": 185401,
-        "positive": 3250,
+        "tested": 185410,
+        "positive": 3386,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "10/06/2020",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/390?single"
+        "date": "11/06/2020",
+        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/405?single"
       }
     },
     "AS": {
@@ -880,19 +880,19 @@
     }
   },
   "testing_data": {
-    "tested": 5776694,
-    "positive": 270255,
+    "tested": 5776703,
+    "positive": 270391,
     "negative": 4143452,
     "unconfirmed": 24956
   },
   "testing_data_imcr": {
     "tested": 5213140,
-    "source": ""
+    "source": "https://t.me/Covid19india_Auxiliary_Test_Data/402"
   },
   "today": {
-    "confirmed": -261,
-    "recovered": 0,
-    "dead": 0,
-    "active": -261
+    "confirmed": -94,
+    "recovered": 27,
+    "dead": 6,
+    "active": -127
   }
 }
