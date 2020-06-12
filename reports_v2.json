@@ -1,24 +1,24 @@
 {
-  "confirmed": 301579,
-  "recovered": 149767,
-  "dead": 8553,
-  "active": 143244,
-  "updatedTime": "12/06/2020 19:41:46",
+  "confirmed": 305613,
+  "recovered": 150161,
+  "dead": 8711,
+  "active": 146726,
+  "updatedTime": "12/06/2020 20:02:47",
   "states": {
     "MH": {
       "name": "Maharashtra",
-      "confirmed": 97648,
-      "active": 47980,
+      "confirmed": 101141,
+      "active": 51346,
       "recovered": 46078,
-      "dead": 3590,
+      "dead": 3717,
       "updatedTime": "11/06/2020 21:04:48",
       "note": "",
       "stateCode": "MH",
       "today": {
-        "confirmed": 0,
+        "confirmed": 3493,
         "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "dead": 127,
+        "active": 3366
       },
       "testing_data": {
         "tested": 626521,
@@ -45,12 +45,12 @@
         "active": 622
       },
       "testing_data": {
-        "tested": 655675,
-        "positive": 38716,
-        "negative": 616395,
-        "unconfirmed": 564,
-        "date": "11/06/2020",
-        "source": "https://stopcorona.tn.gov.in/wp-content/uploads/2020/03/Media-Bulletin-11.-06.-20-COVID-19-6-PM.pdf"
+        "tested": 673906,
+        "positive": 40698,
+        "negative": 632656,
+        "unconfirmed": 552,
+        "date": "12/06/2020",
+        "source": "https://stopcorona.tn.gov.in/wp-content/uploads/2020/03/Media-Bulletin-12.06.2020.pdf"
       }
     },
     "DL": {
@@ -79,26 +79,26 @@
     },
     "GJ": {
       "name": "Gujarat",
-      "confirmed": 22067,
-      "active": 5573,
-      "recovered": 15109,
-      "dead": 1385,
-      "updatedTime": "11/06/2020 20:05:47",
+      "confirmed": 22562,
+      "active": 5645,
+      "recovered": 15501,
+      "dead": 1416,
+      "updatedTime": "12/06/2020 20:02:50",
       "note": "",
       "stateCode": "GJ",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 495,
+        "recovered": 392,
+        "dead": 31,
+        "active": 72
       },
       "testing_data": {
-        "tested": 272924,
-        "positive": 22067,
+        "tested": 278137,
+        "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "11/06/2020",
-        "source": "https://twitter.com/GujHFWDept/status/1271081450704531456"
+        "date": "12/06/2020",
+        "source": "https://twitter.com/PIBAhmedabad/status/1271443647255523328"
       }
     },
     "UP": {
@@ -388,7 +388,7 @@
       "active": 1950,
       "recovered": 1538,
       "dead": 8,
-      "updatedTime": "12/06/2020 19:41:49",
+      "updatedTime": "12/06/2020 19:45:49",
       "note": "Includes one case from Nagaland\nTotal of three* patients who migrated to other states has been reduced from Active count",
       "stateCode": "AS",
       "today": {
@@ -471,11 +471,11 @@
       },
       "testing_data": {
         "tested": 42783,
-        "positive": 0,
+        "positive": 1692,
         "negative": 35670,
-        "unconfirmed": 0,
+        "unconfirmed": 4417,
         "date": "12/06/2020",
-        "source": ""
+        "source": "https://health.uk.gov.in/files/2020.06.12_Health_Bulletin.pdf"
       }
     },
     "JH": {
@@ -576,18 +576,18 @@
     },
     "GA": {
       "name": "Goa",
-      "confirmed": 417,
-      "active": 350,
-      "recovered": 67,
+      "confirmed": 463,
+      "active": 394,
+      "recovered": 69,
       "dead": 0,
-      "updatedTime": "11/06/2020 23:38:07",
+      "updatedTime": "12/06/2020 20:01:52",
       "note": "",
       "stateCode": "GA",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 46,
+        "recovered": 2,
         "dead": 0,
-        "active": 0
+        "active": 44
       },
       "testing_data": {
         "tested": 37858,
@@ -676,7 +676,7 @@
       "active": 176,
       "recovered": 62,
       "dead": 1,
-      "updatedTime": "12/06/2020 19:41:52",
+      "updatedTime": "12/06/2020 19:45:52",
       "note": "",
       "stateCode": "LA",
       "today": {
@@ -880,19 +880,19 @@
     }
   },
   "testing_data": {
-    "tested": 5978387,
-    "positive": 284317,
-    "negative": 4285114,
-    "unconfirmed": 24624
+    "tested": 6001831,
+    "positive": 265924,
+    "negative": 4301375,
+    "unconfirmed": 29029
   },
   "testing_data_imcr": {
     "tested": 5363445,
     "source": "https://t.me/Covid19india_Auxiliary_Test_Data/419"
   },
   "today": {
-    "confirmed": 3294,
-    "recovered": 2795,
-    "dead": 51,
-    "active": 448
+    "confirmed": 7328,
+    "recovered": 3189,
+    "dead": 209,
+    "active": 3930
   }
 }
