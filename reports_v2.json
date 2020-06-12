@@ -1,9 +1,9 @@
 {
-  "confirmed": 305948,
-  "recovered": 152398,
+  "confirmed": 306095,
+  "recovered": 152521,
   "dead": 8718,
-  "active": 144817,
-  "updatedTime": "12/06/2020 21:00:46",
+  "active": 144841,
+  "updatedTime": "12/06/2020 21:22:46",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -141,12 +141,12 @@
         "active": 20
       },
       "testing_data": {
-        "tested": 558064,
-        "positive": 11838,
-        "negative": 542256,
-        "unconfirmed": 3970,
-        "date": "11/06/2020",
-        "source": "https://t.me/indiacovid/7011"
+        "tested": 571543,
+        "positive": 12068,
+        "negative": 556040,
+        "unconfirmed": 3435,
+        "date": "12/06/2020",
+        "source": "https://t.me/indiacovid/7099"
       }
     },
     "MP": {
@@ -264,18 +264,18 @@
     },
     "BR": {
       "name": "Bihar",
-      "confirmed": 6043,
-      "active": 2692,
+      "confirmed": 6096,
+      "active": 2745,
       "recovered": 3316,
       "dead": 35,
-      "updatedTime": "12/06/2020 17:04:50",
+      "updatedTime": "12/06/2020 21:22:52",
       "note": "",
       "stateCode": "BR",
       "today": {
-        "confirmed": 95,
+        "confirmed": 148,
         "recovered": 230,
         "dead": 1,
-        "active": -136
+        "active": -83
       },
       "testing_data": {
         "tested": 116671,
@@ -408,18 +408,18 @@
     },
     "PB": {
       "name": "Punjab",
-      "confirmed": 2923,
-      "active": 578,
+      "confirmed": 2986,
+      "active": 641,
       "recovered": 2282,
       "dead": 63,
-      "updatedTime": "12/06/2020 20:58:50",
+      "updatedTime": "12/06/2020 21:20:53",
       "note": "",
       "stateCode": "PB",
       "today": {
-        "confirmed": 36,
+        "confirmed": 99,
         "recovered": 23,
         "dead": 4,
-        "active": 9
+        "active": 72
       },
       "testing_data": {
         "tested": 165548,
@@ -504,18 +504,18 @@
     },
     "CT": {
       "name": "Chhattisgarh",
-      "confirmed": 1398,
-      "active": 971,
-      "recovered": 421,
+      "confirmed": 1429,
+      "active": 879,
+      "recovered": 544,
       "dead": 6,
-      "updatedTime": "11/06/2020 23:45:53",
+      "updatedTime": "12/06/2020 21:20:55",
       "note": "",
       "stateCode": "CT",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 31,
+        "recovered": 123,
         "dead": 0,
-        "active": 0
+        "active": -92
       },
       "testing_data": {
         "tested": 96230,
@@ -590,12 +590,12 @@
         "active": 44
       },
       "testing_data": {
-        "tested": 37858,
-        "positive": 417,
+        "tested": 39298,
+        "positive": 463,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "11/06/2020",
-        "source": "https://twitter.com/DHS_Goa/status/1271113113694158850"
+        "date": "12/06/2020",
+        "source": "https://twitter.com/DHS_Goa/status/1271446730651787265?s=19"
       }
     },
     "MN": {
@@ -638,12 +638,12 @@
         "active": 11
       },
       "testing_data": {
-        "tested": 5636,
-        "positive": 332,
-        "negative": 5267,
-        "unconfirmed": 36,
-        "date": "11/06/2020",
-        "source": "https://twitter.com/ANI/status/1271014249989468160?s=19"
+        "tested": 5708,
+        "positive": 334,
+        "negative": 5342,
+        "unconfirmed": 31,
+        "date": "12/06/2020",
+        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/426"
       }
     },
     "PY": {
@@ -758,12 +758,12 @@
         "active": 13
       },
       "testing_data": {
-        "tested": 13035,
-        "positive": 61,
-        "negative": 11420,
-        "unconfirmed": 1531,
-        "date": "10/06/2020",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/400"
+        "tested": 13479,
+        "positive": 67,
+        "negative": 11754,
+        "unconfirmed": 1627,
+        "date": "11/06/2020",
+        "source": "http://covid19.itanagarsmartcity.in/covidstatus.php"
       }
     },
     "ML": {
@@ -880,19 +880,19 @@
     }
   },
   "testing_data": {
-    "tested": 6057156,
-    "positive": 290215,
-    "negative": 4343984,
-    "unconfirmed": 26997
+    "tested": 6072591,
+    "positive": 290499,
+    "negative": 4358177,
+    "unconfirmed": 26553
   },
   "testing_data_imcr": {
     "tested": 5363445,
     "source": "https://t.me/Covid19india_Auxiliary_Test_Data/419"
   },
   "today": {
-    "confirmed": 7663,
-    "recovered": 5426,
+    "confirmed": 7810,
+    "recovered": 5549,
     "dead": 216,
-    "active": 2021
+    "active": 2045
   }
 }
