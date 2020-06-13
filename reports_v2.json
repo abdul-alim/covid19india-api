@@ -1,24 +1,24 @@
 {
-  "confirmed": 312838,
-  "recovered": 156972,
-  "dead": 8930,
-  "active": 146912,
-  "updatedTime": "13/06/2020 19:52:46",
+  "confirmed": 317237,
+  "recovered": 159269,
+  "dead": 9101,
+  "active": 148843,
+  "updatedTime": "13/06/2020 20:22:46",
   "states": {
     "MH": {
       "name": "Maharashtra",
-      "confirmed": 101141,
-      "active": 49628,
-      "recovered": 47796,
-      "dead": 3717,
-      "updatedTime": "12/06/2020 20:44:48",
+      "confirmed": 104568,
+      "active": 51379,
+      "recovered": 49346,
+      "dead": 3843,
+      "updatedTime": "13/06/2020 20:22:48",
       "note": "",
       "stateCode": "MH",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 3427,
+        "recovered": 1550,
+        "dead": 126,
+        "active": 1751
       },
       "testing_data": {
         "tested": 643057,
@@ -79,26 +79,26 @@
     },
     "GJ": {
       "name": "Gujarat",
-      "confirmed": 22562,
-      "active": 5645,
-      "recovered": 15501,
-      "dead": 1416,
-      "updatedTime": "12/06/2020 20:15:59",
+      "confirmed": 23079,
+      "active": 5739,
+      "recovered": 15891,
+      "dead": 1449,
+      "updatedTime": "13/06/2020 20:15:50",
       "note": "",
       "stateCode": "GJ",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 517,
+        "recovered": 390,
+        "dead": 33,
+        "active": 94
       },
       "testing_data": {
-        "tested": 278137,
-        "positive": 22562,
+        "tested": 283623,
+        "positive": 23079,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "12/06/2020",
-        "source": "https://twitter.com/PIBAhmedabad/status/1271443647255523328"
+        "date": "13/06/2020",
+        "source": "https://twitter.com/PIBAhmedabad/status/1271809807117422593?s=20"
       }
     },
     "UP": {
@@ -175,18 +175,18 @@
     },
     "WB": {
       "name": "West Bengal",
-      "confirmed": 10244,
-      "active": 5587,
-      "recovered": 4206,
-      "dead": 451,
-      "updatedTime": "12/06/2020 19:33:50",
+      "confirmed": 10698,
+      "active": 5693,
+      "recovered": 4542,
+      "dead": 463,
+      "updatedTime": "13/06/2020 20:14:53",
       "note": "",
       "stateCode": "WB",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 454,
+        "recovered": 336,
+        "dead": 12,
+        "active": 106
       },
       "testing_data": {
         "tested": 315699,
@@ -385,17 +385,17 @@
     "AS": {
       "name": "Assam",
       "confirmed": 3719,
-      "active": 1923,
-      "recovered": 1785,
+      "active": 1902,
+      "recovered": 1806,
       "dead": 8,
-      "updatedTime": "13/06/2020 16:33:49",
+      "updatedTime": "13/06/2020 20:22:52",
       "note": "Includes one case from Nagaland.\nTotal of 3 patients who migrated to other states has been reduced from Active count",
       "stateCode": "AS",
       "today": {
         "confirmed": 25,
-        "recovered": 200,
+        "recovered": 221,
         "dead": 0,
-        "active": -175
+        "active": -196
       },
       "testing_data": {
         "tested": 188090,
@@ -412,7 +412,7 @@
       "active": 671,
       "recovered": 2327,
       "dead": 65,
-      "updatedTime": "13/06/2020 19:52:55",
+      "updatedTime": "13/06/2020 20:04:59",
       "note": "",
       "stateCode": "PB",
       "today": {
@@ -628,7 +628,7 @@
       "active": 50,
       "recovered": 295,
       "dead": 5,
-      "updatedTime": "13/06/2020 19:52:57",
+      "updatedTime": "13/06/2020 20:05:03",
       "note": "",
       "stateCode": "CH",
       "today": {
@@ -816,18 +816,18 @@
     },
     "DN": {
       "name": "Dadra and Nagar Haveli and Daman and Diu",
-      "confirmed": 30,
-      "active": 28,
+      "confirmed": 31,
+      "active": 29,
       "recovered": 2,
       "dead": 0,
-      "updatedTime": "12/06/2020 23:44:49",
+      "updatedTime": "13/06/2020 20:15:53",
       "note": "",
       "stateCode": "DN",
       "today": {
-        "confirmed": 0,
+        "confirmed": 1,
         "recovered": 0,
         "dead": 0,
-        "active": 0
+        "active": 1
       },
       "isUnknown": true
     },
@@ -880,8 +880,8 @@
     }
   },
   "testing_data": {
-    "tested": 6130259,
-    "positive": 297122,
+    "tested": 6135745,
+    "positive": 297639,
     "negative": 4398284,
     "unconfirmed": 26491
   },
@@ -890,9 +890,9 @@
     "source": "https://twitter.com/ICMRDELHI/status/1271652968694075393?s=09"
   },
   "today": {
-    "confirmed": 3243,
-    "recovered": 2737,
-    "dead": 40,
-    "active": 466
+    "confirmed": 7642,
+    "recovered": 5034,
+    "dead": 211,
+    "active": 2397
   }
 }
