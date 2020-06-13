@@ -5544,14 +5544,14 @@
       {
         "district": "West Garo Hills",
         "notes": "",
-        "active": 4,
+        "active": 3,
         "confirmed": 5,
-        "recovered": 1,
+        "recovered": 2,
         "dead": 0,
         "today": {
           "confirmed": 0,
-          "recovered": 0,
-          "active": 0,
+          "recovered": 1,
+          "active": -1,
           "dead": 0
         }
       },
@@ -5586,14 +5586,14 @@
     ],
     "today": {
       "confirmed": 0,
-      "active": 0,
-      "recovered": 0,
+      "active": -1,
+      "recovered": 1,
       "dead": 0
     },
     "confirmed": 44,
-    "recovered": 22,
+    "recovered": 23,
     "dead": 1,
-    "active": 21
+    "active": 20
   },
   "MN": {
     "state": "Manipur",
@@ -6766,14 +6766,14 @@
       {
         "district": "Dimapur",
         "notes": "",
-        "active": 12,
+        "active": -15,
         "confirmed": 39,
-        "recovered": 27,
+        "recovered": 54,
         "dead": 0,
         "today": {
           "confirmed": 0,
-          "recovered": 0,
-          "active": 0,
+          "recovered": 27,
+          "active": -27,
           "dead": 0
         }
       },
@@ -6920,14 +6920,14 @@
     ],
     "today": {
       "confirmed": 0,
-      "active": 0,
-      "recovered": 0,
+      "active": -27,
+      "recovered": 27,
       "dead": 0
     },
     "confirmed": 163,
-    "recovered": 57,
+    "recovered": 84,
     "dead": 0,
-    "active": 106
+    "active": 79
   },
   "OR": {
     "state": "Odisha",
