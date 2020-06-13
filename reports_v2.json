@@ -1,9 +1,9 @@
 {
-  "confirmed": 310156,
-  "recovered": 155294,
+  "confirmed": 310367,
+  "recovered": 155290,
   "dead": 8895,
-  "active": 145944,
-  "updatedTime": "13/06/2020 17:35:46",
+  "active": 146159,
+  "updatedTime": "13/06/2020 17:52:46",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -268,7 +268,7 @@
       "active": 2462,
       "recovered": 3686,
       "dead": 35,
-      "updatedTime": "13/06/2020 17:35:48",
+      "updatedTime": "13/06/2020 17:45:48",
       "note": "",
       "stateCode": "BR",
       "today": {
@@ -365,7 +365,7 @@
       "recovered": 2594,
       "dead": 13,
       "updatedTime": "13/06/2020 16:05:52",
-      "note": "Two non-covid deaths reported in state dashboard are included in the deceased count",
+      "note": "Three non-covid deaths reported in state dashboard are included in the deceased count",
       "stateCode": "OR",
       "today": {
         "confirmed": 225,
@@ -389,7 +389,7 @@
       "recovered": 1785,
       "dead": 8,
       "updatedTime": "13/06/2020 16:33:49",
-      "note": "Includes one case from Nagaland\nTotal of three* patients who migrated to other states has been reduced from Active count",
+      "note": "Includes one case from Nagaland.\nTotal of 3 patients who migrated to other states has been reduced from Active count",
       "stateCode": "AS",
       "today": {
         "confirmed": 25,
@@ -557,7 +557,7 @@
       "recovered": 294,
       "dead": 7,
       "updatedTime": "13/06/2020 13:29:48",
-      "note": "HP has 4 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed",
+      "note": "HP has 11 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed",
       "stateCode": "HP",
       "today": {
         "confirmed": 0,
@@ -648,18 +648,18 @@
     },
     "PY": {
       "name": "Puducherry",
-      "confirmed": 163,
-      "active": 84,
+      "confirmed": 176,
+      "active": 97,
       "recovered": 76,
       "dead": 3,
-      "updatedTime": "12/06/2020 12:14:47",
+      "updatedTime": "13/06/2020 17:52:49",
       "note": "",
       "stateCode": "PY",
       "today": {
-        "confirmed": 0,
+        "confirmed": 13,
         "recovered": 0,
         "dead": 0,
-        "active": 0
+        "active": 13
       },
       "testing_data": {
         "tested": 9250,
@@ -672,18 +672,18 @@
     },
     "LA": {
       "name": "Ladakh",
-      "confirmed": 239,
-      "active": 176,
-      "recovered": 62,
+      "confirmed": 437,
+      "active": 378,
+      "recovered": 58,
       "dead": 1,
-      "updatedTime": "12/06/2020 19:45:52",
+      "updatedTime": "13/06/2020 17:52:50",
       "note": "",
       "stateCode": "LA",
       "today": {
-        "confirmed": 0,
+        "confirmed": 198,
         "recovered": 0,
         "dead": 0,
-        "active": 0
+        "active": 198
       },
       "testing_data": {
         "tested": 10986,
@@ -890,9 +890,9 @@
     "source": "https://twitter.com/ICMRDELHI/status/1271652968694075393?s=09"
   },
   "today": {
-    "confirmed": 561,
+    "confirmed": 772,
     "recovered": 1055,
     "dead": 5,
-    "active": -499
+    "active": -288
   }
 }
