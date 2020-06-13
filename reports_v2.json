@@ -1,9 +1,9 @@
 {
-  "confirmed": 310760,
-  "recovered": 155352,
+  "confirmed": 310767,
+  "recovered": 155566,
   "dead": 8895,
-  "active": 146489,
-  "updatedTime": "13/06/2020 18:42:46",
+  "active": 146282,
+  "updatedTime": "13/06/2020 19:02:46",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -217,17 +217,17 @@
     "KA": {
       "name": "Karnataka",
       "confirmed": 6824,
-      "active": 3303,
-      "recovered": 3440,
+      "active": 3094,
+      "recovered": 3649,
       "dead": 79,
-      "updatedTime": "13/06/2020 18:42:48",
+      "updatedTime": "13/06/2020 19:02:48",
       "note": "Two active cases in KA reduced as these confirmed patients died of non-CoViD19 related reasons",
       "stateCode": "KA",
       "today": {
         "confirmed": 308,
-        "recovered": 0,
+        "recovered": 209,
         "dead": 0,
-        "active": 308
+        "active": 99
       },
       "testing_data": {
         "tested": 426341,
@@ -552,18 +552,18 @@
     },
     "HP": {
       "name": "Himachal Pradesh",
-      "confirmed": 486,
-      "active": 175,
-      "recovered": 294,
+      "confirmed": 493,
+      "active": 177,
+      "recovered": 299,
       "dead": 7,
-      "updatedTime": "13/06/2020 13:29:48",
+      "updatedTime": "13/06/2020 19:02:50",
       "note": "HP has 11 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed",
       "stateCode": "HP",
       "today": {
-        "confirmed": 0,
-        "recovered": 1,
+        "confirmed": 7,
+        "recovered": 6,
         "dead": 0,
-        "active": -1
+        "active": 1
       },
       "testing_data": {
         "tested": 51420,
@@ -890,9 +890,9 @@
     "source": "https://twitter.com/ICMRDELHI/status/1271652968694075393?s=09"
   },
   "today": {
-    "confirmed": 1165,
-    "recovered": 1117,
+    "confirmed": 1172,
+    "recovered": 1331,
     "dead": 5,
-    "active": 43
+    "active": -164
   }
 }
