@@ -1,8 +1,8 @@
 {
   "confirmed": 309708,
-  "recovered": 154403,
+  "recovered": 154404,
   "dead": 8893,
-  "active": 146390,
+  "active": 146389,
   "updatedTime": "13/06/2020 12:42:46",
   "states": {
     "MH": {
@@ -553,17 +553,17 @@
     "HP": {
       "name": "Himachal Pradesh",
       "confirmed": 486,
-      "active": 176,
-      "recovered": 293,
+      "active": 175,
+      "recovered": 294,
       "dead": 7,
       "updatedTime": "12/06/2020 21:53:55",
       "note": "HP has 4 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed",
       "stateCode": "HP",
       "today": {
         "confirmed": 0,
-        "recovered": 0,
+        "recovered": 1,
         "dead": 0,
-        "active": 0
+        "active": -1
       },
       "testing_data": {
         "tested": 51420,
@@ -891,8 +891,8 @@
   },
   "today": {
     "confirmed": 113,
-    "recovered": 164,
+    "recovered": 165,
     "dead": 3,
-    "active": -54
+    "active": -55
   }
 }
