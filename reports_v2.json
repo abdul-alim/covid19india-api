@@ -1,9 +1,9 @@
 {
-  "confirmed": 332462,
-  "recovered": 169080,
-  "dead": 9502,
-  "active": 153841,
-  "updatedTime": "14/06/2020 22:02:46",
+  "confirmed": 332736,
+  "recovered": 169464,
+  "dead": 9514,
+  "active": 153719,
+  "updatedTime": "14/06/2020 22:22:46",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -107,7 +107,7 @@
       "active": 4948,
       "recovered": 8268,
       "dead": 399,
-      "updatedTime": "14/06/2020 22:02:47",
+      "updatedTime": "14/06/2020 22:08:48",
       "note": "",
       "stateCode": "UP",
       "today": {
@@ -117,12 +117,12 @@
         "active": 90
       },
       "testing_data": {
-        "tested": 435601,
-        "positive": 12619,
-        "negative": 421499,
-        "unconfirmed": 1486,
-        "date": "12/06/2020",
-        "source": "https://t.me/indiacovid/7094?single"
+        "tested": 467702,
+        "positive": 13615,
+        "negative": 442598,
+        "unconfirmed": 0,
+        "date": "14/06/2020",
+        "source": "https://t.me/indiacovid/7242?single"
       }
     },
     "RJ": {
@@ -151,26 +151,26 @@
     },
     "MP": {
       "name": "Madhya Pradesh",
-      "confirmed": 10641,
-      "active": 2817,
-      "recovered": 7377,
-      "dead": 447,
-      "updatedTime": "13/06/2020 21:46:47",
+      "confirmed": 10802,
+      "active": 2666,
+      "recovered": 7677,
+      "dead": 459,
+      "updatedTime": "14/06/2020 22:22:47",
       "note": "",
       "stateCode": "MP",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 161,
+        "recovered": 300,
+        "dead": 12,
+        "active": -151
       },
       "testing_data": {
-        "tested": 246973,
-        "positive": 10641,
-        "negative": 231123,
+        "tested": 252762,
+        "positive": 10802,
+        "negative": 236649,
         "unconfirmed": 0,
-        "date": "13/06/2020",
-        "source": "https://twitter.com/healthminmp/status/1271804293360701441"
+        "date": "14/06/2020",
+        "source": "https://twitter.com/healthminmp/status/1272195103864414208"
       }
     },
     "WB": {
@@ -340,7 +340,7 @@
       "active": 2412,
       "recovered": 2377,
       "dead": 185,
-      "updatedTime": "14/06/2020 22:01:49",
+      "updatedTime": "14/06/2020 22:03:50",
       "note": "",
       "stateCode": "TG",
       "today": {
@@ -422,12 +422,12 @@
         "active": 46
       },
       "testing_data": {
-        "tested": 176533,
-        "positive": 3063,
+        "tested": 182225,
+        "positive": 3140,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "13/06/2020",
-        "source": "http://pbhealth.gov.in/Media%20Bulletin%20COVID-19%2013-06-2020.pdf"
+        "date": "14/06/2020",
+        "source": ""
       }
     },
     "KL": {
@@ -504,18 +504,18 @@
     },
     "CT": {
       "name": "Chhattisgarh",
-      "confirmed": 1550,
-      "active": 913,
-      "recovered": 631,
+      "confirmed": 1663,
+      "active": 942,
+      "recovered": 715,
       "dead": 6,
-      "updatedTime": "14/06/2020 13:52:49",
+      "updatedTime": "14/06/2020 22:22:50",
       "note": "",
       "stateCode": "CT",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 113,
+        "recovered": 84,
         "dead": 0,
-        "active": 0
+        "active": 29
       },
       "testing_data": {
         "tested": 101554,
@@ -556,7 +556,7 @@
       "active": 174,
       "recovered": 326,
       "dead": 7,
-      "updatedTime": "14/06/2020 22:01:51",
+      "updatedTime": "14/06/2020 22:03:51",
       "note": "HP has 12 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed",
       "stateCode": "HP",
       "today": {
@@ -687,11 +687,11 @@
       },
       "testing_data": {
         "tested": 11135,
-        "positive": 437,
-        "negative": 8814,
-        "unconfirmed": 1681,
-        "date": "13/06/2020",
-        "source": "https://twitter.com/DIPR_Leh/status/1271779779897733120"
+        "positive": 0,
+        "negative": 0,
+        "unconfirmed": 0,
+        "date": "14/06/2020",
+        "source": "https://twitter.com/DIPR_Leh/status/1272185086591422464"
       }
     },
     "NL": {
@@ -880,19 +880,19 @@
     }
   },
   "testing_data": {
-    "tested": 6343669,
-    "positive": 311929,
-    "negative": 4305350,
-    "unconfirmed": 25117
+    "tested": 6387251,
+    "positive": 312726,
+    "negative": 4323161,
+    "unconfirmed": 21950
   },
   "testing_data_imcr": {
     "tested": 5658614,
     "source": "https://t.me/Covid19india_Auxiliary_Test_Data/448"
   },
   "today": {
-    "confirmed": 10832,
-    "recovered": 6753,
-    "dead": 303,
-    "active": 3776
+    "confirmed": 11106,
+    "recovered": 7137,
+    "dead": 315,
+    "active": 3654
   }
 }
