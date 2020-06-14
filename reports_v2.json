@@ -1,9 +1,9 @@
 {
-  "confirmed": 322837,
+  "confirmed": 322465,
   "recovered": 163076,
   "dead": 9209,
-  "active": 150514,
-  "updatedTime": "14/06/2020 18:34:46",
+  "active": 150142,
+  "updatedTime": "14/06/2020 18:52:46",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -199,35 +199,35 @@
     },
     "UN": {
       "name": "State Unassigned",
-      "confirmed": 7984,
-      "active": 7984,
+      "confirmed": 7436,
+      "active": 7436,
       "recovered": 0,
       "dead": 0,
-      "updatedTime": "13/06/2020 10:39:47",
-      "note": "MoHFW website reports that these are the 'cases that are being reassigned to states'. ",
+      "updatedTime": "14/06/2020 18:52:48",
+      "note": "MoHFW website reports that these are the 'cases that are being reassigned to states'. 548 cases were decreased from this category today by MoHFW. We have reduced this cases from total for the day.",
       "stateCode": "UN",
       "today": {
-        "confirmed": 0,
+        "confirmed": -548,
         "recovered": 0,
         "dead": 0,
-        "active": 0
+        "active": -548
       },
       "isUnknown": true
     },
     "KA": {
       "name": "Karnataka",
-      "confirmed": 6824,
-      "active": 3092,
+      "confirmed": 7000,
+      "active": 3268,
       "recovered": 3648,
       "dead": 82,
-      "updatedTime": "13/06/2020 19:31:49",
+      "updatedTime": "14/06/2020 18:52:52",
       "note": "Two active cases in KA reduced as these confirmed patients died of non-CoViD19 related reasons",
       "stateCode": "KA",
       "today": {
-        "confirmed": 0,
+        "confirmed": 176,
         "recovered": 0,
         "dead": 0,
-        "active": 0
+        "active": 176
       },
       "testing_data": {
         "tested": 436518,
@@ -890,9 +890,9 @@
     "source": "https://t.me/Covid19india_Auxiliary_Test_Data/448"
   },
   "today": {
-    "confirmed": 1207,
+    "confirmed": 835,
     "recovered": 749,
     "dead": 10,
-    "active": 448
+    "active": 76
   }
 }
