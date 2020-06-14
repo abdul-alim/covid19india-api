@@ -1,9 +1,9 @@
 {
-  "confirmed": 324482,
-  "recovered": 164530,
-  "dead": 9247,
-  "active": 150667,
-  "updatedTime": "14/06/2020 19:21:46",
+  "confirmed": 324559,
+  "recovered": 164832,
+  "dead": 9254,
+  "active": 150435,
+  "updatedTime": "14/06/2020 19:44:46",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -35,7 +35,7 @@
       "active": 19679,
       "recovered": 24547,
       "dead": 435,
-      "updatedTime": "14/06/2020 19:21:47",
+      "updatedTime": "14/06/2020 19:35:48",
       "note": "2 deaths cross notified to other states from Chennai and Coimbatore.\n1 patient died after turning negative for infection in Chengalpattu",
       "stateCode": "TN",
       "today": {
@@ -217,25 +217,25 @@
     "KA": {
       "name": "Karnataka",
       "confirmed": 7000,
-      "active": 2956,
+      "active": 2951,
       "recovered": 3960,
-      "dead": 82,
-      "updatedTime": "14/06/2020 19:17:47",
+      "dead": 87,
+      "updatedTime": "14/06/2020 19:44:48",
       "note": "Two active cases in KA reduced as these confirmed patients died of non-CoViD19 related reasons",
       "stateCode": "KA",
       "today": {
         "confirmed": 176,
         "recovered": 312,
-        "dead": 0,
-        "active": -136
+        "dead": 5,
+        "active": -141
       },
       "testing_data": {
-        "tested": 436518,
-        "positive": 6824,
-        "negative": 420773,
+        "tested": 443969,
+        "positive": 7000,
+        "negative": 427608,
         "unconfirmed": 0,
-        "date": "13/06/2020",
-        "source": "https://covid19.karnataka.gov.in/storage/pdf-files/Media-Bulletin/13-06-2020%20HMB%20English.pdf"
+        "date": "14/06/2020",
+        "source": "https://covid19.karnataka.gov.in/storage/pdf-files/Media-Bulletin/14-06-2020%20HMB%20English.pdf"
       }
     },
     "HR": {
@@ -385,17 +385,17 @@
     "AS": {
       "name": "Assam",
       "confirmed": 3944,
-      "active": 2127,
-      "recovered": 1806,
+      "active": 1972,
+      "recovered": 1961,
       "dead": 8,
-      "updatedTime": "14/06/2020 12:54:48",
+      "updatedTime": "14/06/2020 19:44:57",
       "note": "Includes one case from Nagaland.\nTotal of 3 patients who migrated to other states has been reduced from Active count",
       "stateCode": "AS",
       "today": {
         "confirmed": 43,
-        "recovered": 0,
+        "recovered": 155,
         "dead": 0,
-        "active": 43
+        "active": -112
       },
       "testing_data": {
         "tested": 188090,
@@ -408,18 +408,18 @@
     },
     "PB": {
       "name": "Punjab",
-      "confirmed": 3063,
-      "active": 671,
-      "recovered": 2327,
-      "dead": 65,
+      "confirmed": 3140,
+      "active": 717,
+      "recovered": 2356,
+      "dead": 67,
       "updatedTime": "13/06/2020 20:04:59",
       "note": "",
       "stateCode": "PB",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 77,
+        "recovered": 29,
+        "dead": 2,
+        "active": 46
       },
       "testing_data": {
         "tested": 176533,
@@ -529,17 +529,17 @@
     "TR": {
       "name": "Tripura",
       "confirmed": 1061,
-      "active": 745,
-      "recovered": 315,
+      "active": 627,
+      "recovered": 433,
       "dead": 1,
-      "updatedTime": "14/06/2020 14:39:49",
+      "updatedTime": "14/06/2020 19:44:59",
       "note": "",
       "stateCode": "TR",
       "today": {
         "confirmed": 15,
-        "recovered": 0,
+        "recovered": 118,
         "dead": 0,
-        "active": 15
+        "active": -103
       },
       "testing_data": {
         "tested": 43972,
@@ -580,7 +580,7 @@
       "active": 490,
       "recovered": 74,
       "dead": 0,
-      "updatedTime": "14/06/2020 19:17:49",
+      "updatedTime": "14/06/2020 19:23:52",
       "note": "",
       "stateCode": "GA",
       "today": {
@@ -604,7 +604,7 @@
       "active": 369,
       "recovered": 89,
       "dead": 0,
-      "updatedTime": "14/06/2020 10:09:48",
+      "updatedTime": "14/06/2020 19:39:55",
       "note": "",
       "stateCode": "MN",
       "today": {
@@ -628,7 +628,7 @@
       "active": 52,
       "recovered": 295,
       "dead": 5,
-      "updatedTime": "14/06/2020 19:21:51",
+      "updatedTime": "14/06/2020 19:35:59",
       "note": "",
       "stateCode": "CH",
       "today": {
@@ -638,12 +638,12 @@
         "active": 2
       },
       "testing_data": {
-        "tested": 5839,
-        "positive": 345,
-        "negative": 5459,
-        "unconfirmed": 34,
-        "date": "13/06/2020",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/438"
+        "tested": 5937,
+        "positive": 350,
+        "negative": 5563,
+        "unconfirmed": 23,
+        "date": "14/06/2020",
+        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/456"
       }
     },
     "PY": {
@@ -734,12 +734,12 @@
         "active": 2
       },
       "testing_data": {
-        "tested": 3727,
-        "positive": 107,
+        "tested": 4327,
+        "positive": 112,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "13/06/2020",
-        "source": "https://dipr.mizoram.gov.in/post/status-of-state-surveillance-of-covid-19-time-1262020-500pm-1362020-500-pm"
+        "date": "14/06/2020",
+        "source": "https://dipr.mizoram.gov.in/post/status-of-state-surveillance-of-covid-19-time-1362020-500pm-1462020-500-pm"
       }
     },
     "AR": {
@@ -880,19 +880,19 @@
     }
   },
   "testing_data": {
-    "tested": 6271581,
-    "positive": 308261,
-    "negative": 4251384,
-    "unconfirmed": 24808
+    "tested": 6279730,
+    "positive": 308447,
+    "negative": 4258323,
+    "unconfirmed": 24797
   },
   "testing_data_imcr": {
     "tested": 5658614,
     "source": "https://t.me/Covid19india_Auxiliary_Test_Data/448"
   },
   "today": {
-    "confirmed": 2852,
-    "recovered": 2203,
-    "dead": 48,
-    "active": 601
+    "confirmed": 2929,
+    "recovered": 2505,
+    "dead": 55,
+    "active": 369
   }
 }
