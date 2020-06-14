@@ -1,9 +1,9 @@
 {
-  "confirmed": 322647,
-  "recovered": 162709,
-  "dead": 9205,
-  "active": 150696,
-  "updatedTime": "14/06/2020 16:52:47",
+  "confirmed": 322759,
+  "recovered": 163010,
+  "dead": 9206,
+  "active": 150506,
+  "updatedTime": "14/06/2020 17:02:47",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -265,25 +265,25 @@
     "BR": {
       "name": "Bihar",
       "confirmed": 6355,
-      "active": 2634,
-      "recovered": 3686,
-      "dead": 35,
-      "updatedTime": "14/06/2020 14:39:47",
+      "active": 2344,
+      "recovered": 3975,
+      "dead": 36,
+      "updatedTime": "14/06/2020 17:02:49",
       "note": "",
       "stateCode": "BR",
       "today": {
         "confirmed": 66,
-        "recovered": 0,
-        "dead": 0,
-        "active": 66
+        "recovered": 289,
+        "dead": 1,
+        "active": -224
       },
       "testing_data": {
-        "tested": 120086,
-        "positive": 6183,
+        "tested": 123629,
+        "positive": 6355,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "13/06/2020",
-        "source": "https://twitter.com/PIB_Patna/status/1271767555422605313"
+        "date": "14/06/2020",
+        "source": "https://twitter.com/PIB_Patna/status/1272122915325046786"
       }
     },
     "AP": {
@@ -672,18 +672,18 @@
     },
     "LA": {
       "name": "Ladakh",
-      "confirmed": 437,
-      "active": 368,
-      "recovered": 68,
+      "confirmed": 549,
+      "active": 468,
+      "recovered": 80,
       "dead": 1,
-      "updatedTime": "13/06/2020 18:07:52",
+      "updatedTime": "14/06/2020 17:02:51",
       "note": "",
       "stateCode": "LA",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 112,
+        "recovered": 12,
         "dead": 0,
-        "active": 0
+        "active": 100
       },
       "testing_data": {
         "tested": 11135,
@@ -820,7 +820,7 @@
       "active": 33,
       "recovered": 2,
       "dead": 0,
-      "updatedTime": "14/06/2020 16:52:49",
+      "updatedTime": "14/06/2020 17:02:53",
       "note": "",
       "stateCode": "DN",
       "today": {
@@ -880,8 +880,8 @@
     }
   },
   "testing_data": {
-    "tested": 6268038,
-    "positive": 308089,
+    "tested": 6271581,
+    "positive": 308261,
     "negative": 4251384,
     "unconfirmed": 24808
   },
@@ -890,9 +890,9 @@
     "source": "https://t.me/Covid19india_Auxiliary_Test_Data/448"
   },
   "today": {
-    "confirmed": 1017,
-    "recovered": 383,
-    "dead": 6,
-    "active": 628
+    "confirmed": 1129,
+    "recovered": 684,
+    "dead": 7,
+    "active": 438
   }
 }
