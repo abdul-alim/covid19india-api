@@ -1,9 +1,9 @@
 {
-  "confirmed": 322783,
-  "recovered": 163020,
-  "dead": 9207,
-  "active": 150518,
-  "updatedTime": "14/06/2020 18:02:46",
+  "confirmed": 322837,
+  "recovered": 163076,
+  "dead": 9209,
+  "active": 150514,
+  "updatedTime": "14/06/2020 18:22:46",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -289,17 +289,17 @@
     "AP": {
       "name": "Andhra Pradesh",
       "confirmed": 6152,
-      "active": 2754,
+      "active": 2752,
       "recovered": 3316,
-      "dead": 82,
-      "updatedTime": "14/06/2020 15:12:47",
+      "dead": 84,
+      "updatedTime": "14/06/2020 18:22:48",
       "note": "Total includes patients from other states and a new category \"Foreign Evacuees\" which is now reported in AP bulletin.",
       "stateCode": "AP",
       "today": {
         "confirmed": 294,
         "recovered": 131,
-        "dead": 0,
-        "active": 163
+        "dead": 2,
+        "active": 161
       },
       "testing_data": {
         "tested": 536570,
@@ -432,18 +432,18 @@
     },
     "KL": {
       "name": "Kerala",
-      "confirmed": 2408,
-      "active": 1342,
-      "recovered": 1045,
+      "confirmed": 2462,
+      "active": 1340,
+      "recovered": 1101,
       "dead": 20,
-      "updatedTime": "13/06/2020 18:21:49",
+      "updatedTime": "14/06/2020 18:22:50",
       "note": "Mahe native who expired in Kannur included in Kerala's tally",
       "stateCode": "KL",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 54,
+        "recovered": 56,
         "dead": 0,
-        "active": 0
+        "active": -2
       },
       "testing_data": {
         "tested": 144842,
@@ -460,7 +460,7 @@
       "active": 705,
       "recovered": 1078,
       "dead": 24,
-      "updatedTime": "14/06/2020 18:02:48",
+      "updatedTime": "14/06/2020 18:14:50",
       "note": "9 Migrated cases reduced from Active count",
       "stateCode": "UT",
       "today": {
@@ -890,9 +890,9 @@
     "source": "https://t.me/Covid19india_Auxiliary_Test_Data/448"
   },
   "today": {
-    "confirmed": 1153,
-    "recovered": 694,
-    "dead": 8,
-    "active": 451
+    "confirmed": 1207,
+    "recovered": 750,
+    "dead": 10,
+    "active": 447
   }
 }
