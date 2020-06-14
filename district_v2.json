@@ -602,14 +602,14 @@
       {
         "district": "Upper Siang",
         "notes": "",
-        "active": 1,
+        "active": 0,
         "confirmed": 1,
-        "recovered": 0,
+        "recovered": 1,
         "dead": 0,
         "today": {
           "confirmed": 0,
-          "recovered": 0,
-          "active": 0,
+          "recovered": 1,
+          "active": -1,
           "dead": 0
         }
       },
@@ -658,14 +658,14 @@
     ],
     "today": {
       "confirmed": 0,
-      "active": 0,
-      "recovered": 0,
+      "active": -1,
+      "recovered": 1,
       "dead": 0
     },
-    "confirmed": 88,
-    "recovered": 6,
+    "confirmed": 91,
+    "recovered": 7,
     "dead": 0,
-    "active": 82
+    "active": 84
   },
   "AS": {
     "state": "Assam",
