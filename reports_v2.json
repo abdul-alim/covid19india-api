@@ -1,9 +1,9 @@
 {
-  "confirmed": 338046,
-  "recovered": 173182,
+  "confirmed": 338119,
+  "recovered": 173314,
   "dead": 9670,
-  "active": 155154,
-  "updatedTime": "15/06/2020 21:21:46",
+  "active": 155095,
+  "updatedTime": "15/06/2020 21:34:49",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -59,7 +59,7 @@
       "active": 25002,
       "recovered": 16427,
       "dead": 1400,
-      "updatedTime": "15/06/2020 21:21:48",
+      "updatedTime": "15/06/2020 21:24:48",
       "note": "Delhi bulletins in the morning, containing data of the previous day. We will add that data to the date on which the report is released, rather than the previous day.",
       "stateCode": "DL",
       "today": {
@@ -504,18 +504,18 @@
     },
     "CT": {
       "name": "Chhattisgarh",
-      "confirmed": 1662,
-      "active": 939,
-      "recovered": 717,
+      "confirmed": 1706,
+      "active": 867,
+      "recovered": 833,
       "dead": 6,
-      "updatedTime": "15/06/2020 06:43:48",
+      "updatedTime": "15/06/2020 21:34:53",
       "note": "",
       "stateCode": "CT",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 44,
+        "recovered": 116,
         "dead": 0,
-        "active": 0
+        "active": -72
       },
       "testing_data": {
         "tested": 103895,
@@ -552,18 +552,18 @@
     },
     "HP": {
       "name": "Himachal Pradesh",
-      "confirmed": 527,
-      "active": 183,
-      "recovered": 326,
+      "confirmed": 556,
+      "active": 196,
+      "recovered": 342,
       "dead": 7,
-      "updatedTime": "15/06/2020 13:34:48",
+      "updatedTime": "15/06/2020 21:34:55",
       "note": "HP has 12 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed",
       "stateCode": "HP",
       "today": {
-        "confirmed": 9,
-        "recovered": 0,
+        "confirmed": 38,
+        "recovered": 16,
         "dead": 0,
-        "active": 9
+        "active": 22
       },
       "testing_data": {
         "tested": 53946,
@@ -890,9 +890,9 @@
     "source": "https://t.me/Covid19india_Auxiliary_Test_Data/472"
   },
   "today": {
-    "confirmed": 5034,
-    "recovered": 3499,
+    "confirmed": 5107,
+    "recovered": 3631,
     "dead": 150,
-    "active": 1385
+    "active": 1326
   }
 }
