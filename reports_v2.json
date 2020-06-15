@@ -1,9 +1,9 @@
 {
-  "confirmed": 333023,
+  "confirmed": 332559,
   "recovered": 169683,
   "dead": 9521,
-  "active": 153780,
-  "updatedTime": "15/06/2020 09:34:46",
+  "active": 153316,
+  "updatedTime": "15/06/2020 09:51:46",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -199,18 +199,18 @@
     },
     "UN": {
       "name": "State Unassigned",
-      "confirmed": 7436,
-      "active": 7436,
+      "confirmed": 6972,
+      "active": 6972,
       "recovered": 0,
       "dead": 0,
-      "updatedTime": "14/06/2020 19:04:49",
-      "note": "MoHFW website reports that these are the 'cases that are being reassigned to states'. ",
+      "updatedTime": "15/06/2020 09:51:47",
+      "note": "MoHFW website reports that these are the 'cases that are being reassigned to states'. 464 cases were decreased from this category today by MoHFW. We have reduced this cases from total for the day.",
       "stateCode": "UN",
       "today": {
-        "confirmed": 0,
+        "confirmed": -464,
         "recovered": 0,
         "dead": 0,
-        "active": 0
+        "active": -464
       },
       "isUnknown": true
     },
@@ -796,7 +796,7 @@
       "active": 8,
       "recovered": 33,
       "dead": 0,
-      "updatedTime": "15/06/2020 09:34:48",
+      "updatedTime": "15/06/2020 09:38:49",
       "note": "",
       "stateCode": "AN",
       "today": {
@@ -890,9 +890,9 @@
     "source": "https://t.me/Covid19india_Auxiliary_Test_Data/448"
   },
   "today": {
-    "confirmed": 16,
+    "confirmed": -448,
     "recovered": -8,
     "dead": 1,
-    "active": 23
+    "active": -441
   }
 }
