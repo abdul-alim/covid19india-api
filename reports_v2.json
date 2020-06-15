@@ -1,9 +1,9 @@
 {
-  "confirmed": 333721,
-  "recovered": 170718,
+  "confirmed": 333776,
+  "recovered": 170935,
   "dead": 9533,
-  "active": 153430,
-  "updatedTime": "15/06/2020 19:22:46",
+  "active": 153268,
+  "updatedTime": "15/06/2020 19:35:46",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -220,7 +220,7 @@
       "active": 2981,
       "recovered": 4140,
       "dead": 89,
-      "updatedTime": "15/06/2020 19:16:48",
+      "updatedTime": "15/06/2020 19:25:59",
       "note": "3 cases are classified as non-covid related deaths in KA bulletin. They have been reduced from active cases",
       "stateCode": "KA",
       "today": {
@@ -268,7 +268,7 @@
       "active": 2317,
       "recovered": 4226,
       "dead": 38,
-      "updatedTime": "15/06/2020 19:22:48",
+      "updatedTime": "15/06/2020 19:35:49",
       "note": "",
       "stateCode": "BR",
       "today": {
@@ -312,26 +312,26 @@
     },
     "JK": {
       "name": "Jammu and Kashmir",
-      "confirmed": 5071,
-      "active": 2405,
+      "confirmed": 5098,
+      "active": 2432,
       "recovered": 2604,
       "dead": 62,
-      "updatedTime": "15/06/2020 18:56:51",
+      "updatedTime": "15/06/2020 19:35:51",
       "note": "",
       "stateCode": "JK",
       "today": {
-        "confirmed": 30,
+        "confirmed": 57,
         "recovered": 215,
         "dead": 3,
-        "active": -188
+        "active": -161
       },
       "testing_data": {
-        "tested": 266163,
-        "positive": 5041,
-        "negative": 261122,
+        "tested": 271294,
+        "positive": 5098,
+        "negative": 266196,
         "unconfirmed": 0,
-        "date": "14/06/2020",
-        "source": "https://twitter.com/diprjk/status/1272178184402792449"
+        "date": "15/06/2020",
+        "source": "https://twitter.com/diprjk/status/1272511800727101446?s=19"
       }
     },
     "TG": {
@@ -385,17 +385,17 @@
     "AS": {
       "name": "Assam",
       "confirmed": 4159,
-      "active": 2187,
-      "recovered": 1961,
+      "active": 1981,
+      "recovered": 2167,
       "dead": 8,
-      "updatedTime": "15/06/2020 12:24:48",
+      "updatedTime": "15/06/2020 19:34:51",
       "note": "Includes one case from Nagaland.\nTotal of 3 patients who migrated to other states has been reduced from Active count",
       "stateCode": "AS",
       "today": {
         "confirmed": 40,
-        "recovered": 0,
+        "recovered": 206,
         "dead": 0,
-        "active": 40
+        "active": -166
       },
       "testing_data": {
         "tested": 188090,
@@ -576,18 +576,18 @@
     },
     "GA": {
       "name": "Goa",
-      "confirmed": 564,
-      "active": 490,
-      "recovered": 74,
+      "confirmed": 592,
+      "active": 507,
+      "recovered": 85,
       "dead": 0,
-      "updatedTime": "14/06/2020 19:23:52",
+      "updatedTime": "15/06/2020 19:34:53",
       "note": "",
       "stateCode": "GA",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 28,
+        "recovered": 11,
         "dead": 0,
-        "active": 0
+        "active": 17
       },
       "testing_data": {
         "tested": 41835,
@@ -880,9 +880,9 @@
     }
   },
   "testing_data": {
-    "tested": 6476482,
-    "positive": 320766,
-    "negative": 4394468,
+    "tested": 6481613,
+    "positive": 320823,
+    "negative": 4399542,
     "unconfirmed": 21041
   },
   "testing_data_imcr": {
@@ -890,9 +890,9 @@
     "source": "https://t.me/Covid19india_Auxiliary_Test_Data/472"
   },
   "today": {
-    "confirmed": 709,
-    "recovered": 1035,
+    "confirmed": 764,
+    "recovered": 1252,
     "dead": 13,
-    "active": -339
+    "active": -501
   }
 }
