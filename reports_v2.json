@@ -1,9 +1,9 @@
 {
-  "confirmed": 344594,
-  "recovered": 180934,
+  "confirmed": 344774,
+  "recovered": 181198,
   "dead": 9927,
-  "active": 153690,
-  "updatedTime": "16/06/2020 17:47:45",
+  "active": 153606,
+  "updatedTime": "16/06/2020 18:12:46",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -385,17 +385,17 @@
     "AS": {
       "name": "Assam",
       "confirmed": 4320,
-      "active": 2103,
-      "recovered": 2206,
+      "active": 1915,
+      "recovered": 2394,
       "dead": 8,
-      "updatedTime": "16/06/2020 15:24:49",
+      "updatedTime": "16/06/2020 18:12:47",
       "note": "Includes one case from Nagaland.\nTotal of 3 patients who migrated to other states has been reduced from Active count",
       "stateCode": "AS",
       "today": {
         "confirmed": 10,
-        "recovered": 0,
+        "recovered": 188,
         "dead": 0,
-        "active": 10
+        "active": -178
       },
       "testing_data": {
         "tested": 217088,
@@ -432,18 +432,18 @@
     },
     "KL": {
       "name": "Kerala",
-      "confirmed": 2544,
-      "active": 1348,
-      "recovered": 1174,
+      "confirmed": 2623,
+      "active": 1367,
+      "recovered": 1234,
       "dead": 21,
-      "updatedTime": "15/06/2020 18:51:56",
+      "updatedTime": "16/06/2020 18:12:48",
       "note": "Mahe native who expired in Kannur included in Kerala's tally",
       "stateCode": "KL",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 79,
+        "recovered": 60,
         "dead": 0,
-        "active": 0
+        "active": 19
       },
       "testing_data": {
         "tested": 151686,
@@ -552,18 +552,18 @@
     },
     "HP": {
       "name": "Himachal Pradesh",
-      "confirmed": 556,
-      "active": 195,
-      "recovered": 343,
+      "confirmed": 559,
+      "active": 185,
+      "recovered": 356,
       "dead": 7,
-      "updatedTime": "16/06/2020 13:34:48",
+      "updatedTime": "16/06/2020 18:12:50",
       "note": "HP has 12 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed",
       "stateCode": "HP",
       "today": {
-        "confirmed": 0,
-        "recovered": 1,
+        "confirmed": 3,
+        "recovered": 14,
         "dead": 0,
-        "active": -1
+        "active": -11
       },
       "testing_data": {
         "tested": 54484,
@@ -672,18 +672,18 @@
     },
     "LA": {
       "name": "Ladakh",
-      "confirmed": 555,
-      "active": 472,
-      "recovered": 82,
+      "confirmed": 649,
+      "active": 563,
+      "recovered": 85,
       "dead": 1,
-      "updatedTime": "15/06/2020 17:52:50",
+      "updatedTime": "16/06/2020 18:12:51",
       "note": "",
       "stateCode": "LA",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 94,
+        "recovered": 3,
         "dead": 0,
-        "active": 0
+        "active": 91
       },
       "testing_data": {
         "tested": 11260,
@@ -833,18 +833,18 @@
     },
     "SK": {
       "name": "Sikkim",
-      "confirmed": 68,
-      "active": 63,
+      "confirmed": 72,
+      "active": 67,
       "recovered": 5,
       "dead": 0,
-      "updatedTime": "14/06/2020 14:39:51",
+      "updatedTime": "16/06/2020 18:12:53",
       "note": "",
       "stateCode": "SK",
       "today": {
-        "confirmed": 0,
+        "confirmed": 4,
         "recovered": 0,
         "dead": 0,
-        "active": 0
+        "active": 4
       },
       "testing_data": {
         "tested": 5762,
@@ -890,9 +890,9 @@
     "source": "https://t.me/Covid19india_Auxiliary_Test_Data/490"
   },
   "today": {
-    "confirmed": 1523,
-    "recovered": 616,
+    "confirmed": 1703,
+    "recovered": 880,
     "dead": 8,
-    "active": 899
+    "active": 815
   }
 }
