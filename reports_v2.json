@@ -1,9 +1,9 @@
 {
-  "confirmed": 350743,
-  "recovered": 186452,
-  "dead": 11443,
-  "active": 152804,
-  "updatedTime": "16/06/2020 22:34:46",
+  "confirmed": 352815,
+  "recovered": 187095,
+  "dead": 11880,
+  "active": 153796,
+  "updatedTime": "16/06/2020 22:43:47",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -55,18 +55,18 @@
     },
     "DL": {
       "name": "Delhi",
-      "confirmed": 42829,
-      "active": 25002,
-      "recovered": 16427,
-      "dead": 1400,
-      "updatedTime": "15/06/2020 21:24:48",
+      "confirmed": 44688,
+      "active": 25904,
+      "recovered": 16947,
+      "dead": 1837,
+      "updatedTime": "16/06/2020 22:42:47",
       "note": "Delhi bulletins in the morning, containing data of the previous day. We will add that data to the date on which the report is released, rather than the previous day.",
       "stateCode": "DL",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 1859,
+        "recovered": 520,
+        "dead": 437,
+        "active": 902
       },
       "testing_data": {
         "tested": 296697,
@@ -165,12 +165,12 @@
         "active": -125
       },
       "testing_data": {
-        "tested": 258040,
-        "positive": 10935,
-        "negative": 242117,
+        "tested": 263983,
+        "positive": 11083,
+        "negative": 247196,
         "unconfirmed": 0,
-        "date": "15/06/2020",
-        "source": "https://twitter.com/healthminmp/status/1272538287186432000?s=09"
+        "date": "16/06/2020",
+        "source": "https://twitter.com/healthminmp/status/1272935787634364416?s=19"
       }
     },
     "WB": {
@@ -220,7 +220,7 @@
       "active": 2974,
       "recovered": 4456,
       "dead": 96,
-      "updatedTime": "16/06/2020 22:34:48",
+      "updatedTime": "16/06/2020 22:42:49",
       "note": "4 cases are classified as non-covid related deaths in KA bulletin. They have been reduced from active cases",
       "stateCode": "KA",
       "today": {
@@ -336,18 +336,18 @@
     },
     "TG": {
       "name": "Telangana",
-      "confirmed": 5193,
-      "active": 2240,
+      "confirmed": 5406,
+      "active": 2453,
       "recovered": 2766,
       "dead": 187,
-      "updatedTime": "15/06/2020 22:27:00",
+      "updatedTime": "16/06/2020 22:42:51",
       "note": "",
       "stateCode": "TG",
       "today": {
-        "confirmed": 0,
+        "confirmed": 213,
         "recovered": 0,
         "dead": 0,
-        "active": 0
+        "active": 213
       },
       "testing_data": {
         "tested": 23388,
@@ -529,17 +529,17 @@
     "TR": {
       "name": "Tripura",
       "confirmed": 1095,
-      "active": 661,
-      "recovered": 433,
+      "active": 538,
+      "recovered": 556,
       "dead": 1,
-      "updatedTime": "16/06/2020 22:34:57",
+      "updatedTime": "16/06/2020 22:42:53",
       "note": "",
       "stateCode": "TR",
       "today": {
         "confirmed": 6,
-        "recovered": 0,
+        "recovered": 123,
         "dead": 0,
-        "active": 6
+        "active": -117
       },
       "testing_data": {
         "tested": 47683,
@@ -686,12 +686,12 @@
         "active": 91
       },
       "testing_data": {
-        "tested": 11260,
-        "positive": 555,
-        "negative": 9456,
-        "unconfirmed": 1004,
-        "date": "15/06/2020",
-        "source": "https://t.me/indiacovid/7313?single"
+        "tested": 11537,
+        "positive": 649,
+        "negative": 9660,
+        "unconfirmed": 983,
+        "date": "16/06/2020",
+        "source": "https://twitter.com/DIPR_Leh/status/1272866815090155521?s=19"
       }
     },
     "NL": {
@@ -710,12 +710,12 @@
         "active": -13
       },
       "testing_data": {
-        "tested": 7132,
-        "positive": 177,
-        "negative": 5642,
-        "unconfirmed": 1294,
-        "date": "15/06/2020",
-        "source": "https://twitter.com/HealthNagaland/status/1272538281616404482/photo/1"
+        "tested": 7835,
+        "positive": 179,
+        "negative": 6232,
+        "unconfirmed": 1405,
+        "date": "16/06/2020",
+        "source": "https://twitter.com/HealthNagaland/status/1272890889338314762/photo/1"
       }
     },
     "MZ": {
@@ -880,19 +880,19 @@
     }
   },
   "testing_data": {
-    "tested": 6673113,
-    "positive": 332240,
-    "negative": 4317135,
-    "unconfirmed": 20685
+    "tested": 6680036,
+    "positive": 332484,
+    "negative": 4323008,
+    "unconfirmed": 20775
   },
   "testing_data_imcr": {
     "tested": 5921069,
     "source": "https://t.me/Covid19india_Auxiliary_Test_Data/490"
   },
   "today": {
-    "confirmed": 7672,
-    "recovered": 6128,
-    "dead": 1524,
-    "active": 20
+    "confirmed": 9744,
+    "recovered": 6771,
+    "dead": 1961,
+    "active": 1012
   }
 }
