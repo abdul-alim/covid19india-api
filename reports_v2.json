@@ -1,9 +1,9 @@
 {
-  "confirmed": 344068,
-  "recovered": 180331,
+  "confirmed": 344142,
+  "recovered": 180332,
   "dead": 9920,
-  "active": 153774,
-  "updatedTime": "16/06/2020 12:40:46",
+  "active": 153847,
+  "updatedTime": "16/06/2020 13:22:46",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -264,18 +264,18 @@
     },
     "BR": {
       "name": "Bihar",
-      "confirmed": 6662,
-      "active": 2398,
+      "confirmed": 6736,
+      "active": 2472,
       "recovered": 4226,
       "dead": 38,
-      "updatedTime": "15/06/2020 21:05:48",
+      "updatedTime": "16/06/2020 13:22:47",
       "note": "",
       "stateCode": "BR",
       "today": {
-        "confirmed": 0,
+        "confirmed": 74,
         "recovered": 0,
         "dead": 0,
-        "active": 0
+        "active": 74
       },
       "testing_data": {
         "tested": 127126,
@@ -553,17 +553,17 @@
     "HP": {
       "name": "Himachal Pradesh",
       "confirmed": 556,
-      "active": 196,
-      "recovered": 342,
+      "active": 195,
+      "recovered": 343,
       "dead": 7,
-      "updatedTime": "15/06/2020 21:40:48",
+      "updatedTime": "16/06/2020 13:22:49",
       "note": "HP has 12 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed",
       "stateCode": "HP",
       "today": {
         "confirmed": 0,
-        "recovered": 0,
+        "recovered": 1,
         "dead": 0,
-        "active": 0
+        "active": -1
       },
       "testing_data": {
         "tested": 54484,
@@ -890,9 +890,9 @@
     "source": "https://t.me/Covid19india_Auxiliary_Test_Data/490"
   },
   "today": {
-    "confirmed": 997,
-    "recovered": 13,
+    "confirmed": 1071,
+    "recovered": 14,
     "dead": 1,
-    "active": 983
+    "active": 1056
   }
 }
