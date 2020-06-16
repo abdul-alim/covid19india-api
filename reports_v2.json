@@ -1,24 +1,24 @@
 {
-  "confirmed": 347984,
-  "recovered": 184651,
-  "dead": 10034,
-  "active": 153256,
-  "updatedTime": "16/06/2020 21:52:46",
+  "confirmed": 350737,
+  "recovered": 186458,
+  "dead": 11443,
+  "active": 152793,
+  "updatedTime": "16/06/2020 22:12:46",
   "states": {
     "MH": {
       "name": "Maharashtra",
-      "confirmed": 110744,
-      "active": 50554,
-      "recovered": 56049,
-      "dead": 4128,
-      "updatedTime": "15/06/2020 22:19:48",
-      "note": "13 cases were marked as non-covid deaths in MH bulletin. These have been reduced from deceased and active counts",
+      "confirmed": 113445,
+      "active": 50044,
+      "recovered": 57851,
+      "dead": 5537,
+      "updatedTime": "16/06/2020 22:08:49",
+      "note": "13 cases were marked as non-covid deaths in MH bulletin. These have been reduced from deceased and active counts\n[June 16] : 1328 deceased cases have been retroactively added to MH bulletin.",
       "stateCode": "MH",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 2701,
+        "recovered": 1802,
+        "dead": 1409,
+        "active": -510
       },
       "testing_data": {
         "tested": 686488,
@@ -36,7 +36,7 @@
       "recovered": 26782,
       "dead": 528,
       "updatedTime": "16/06/2020 19:53:48",
-      "note": "2 deaths cross notified to other states from Chennai and Coimbatore.\n1 patient died after turning negative for infection in Chengalpattu",
+      "note": "2 deaths cross notified to other states from Chennai and Coimbatore.\n1 patient died after turning negative for infection in Chengalpattu.\nThese cases have been added to TN deceased tally",
       "stateCode": "TN",
       "today": {
         "confirmed": 1515,
@@ -155,7 +155,7 @@
       "active": 2442,
       "recovered": 8152,
       "dead": 476,
-      "updatedTime": "16/06/2020 21:52:48",
+      "updatedTime": "16/06/2020 22:05:50",
       "note": "",
       "stateCode": "MP",
       "today": {
@@ -480,18 +480,18 @@
     },
     "JH": {
       "name": "Jharkhand",
-      "confirmed": 1793,
-      "active": 663,
+      "confirmed": 1839,
+      "active": 709,
       "recovered": 1121,
       "dead": 9,
-      "updatedTime": "16/06/2020 21:52:52",
+      "updatedTime": "16/06/2020 22:08:52",
       "note": "",
       "stateCode": "JH",
       "today": {
-        "confirmed": 0,
+        "confirmed": 46,
         "recovered": 121,
         "dead": 0,
-        "active": -121
+        "active": -75
       },
       "testing_data": {
         "tested": 108576,
@@ -513,9 +513,9 @@
       "stateCode": "CT",
       "today": {
         "confirmed": 69,
-        "recovered": 103,
+        "recovered": 91,
         "dead": 0,
-        "active": -34
+        "active": -22
       },
       "testing_data": {
         "tested": 107172,
@@ -552,18 +552,18 @@
     },
     "HP": {
       "name": "Himachal Pradesh",
-      "confirmed": 559,
-      "active": 185,
-      "recovered": 356,
+      "confirmed": 560,
+      "active": 181,
+      "recovered": 361,
       "dead": 7,
-      "updatedTime": "16/06/2020 18:21:50",
+      "updatedTime": "16/06/2020 22:12:50",
       "note": "HP has 12 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed",
       "stateCode": "HP",
       "today": {
-        "confirmed": 3,
-        "recovered": 14,
+        "confirmed": 4,
+        "recovered": 19,
         "dead": 0,
-        "active": -11
+        "active": -15
       },
       "testing_data": {
         "tested": 54484,
@@ -624,18 +624,18 @@
     },
     "CH": {
       "name": "Chandigarh",
-      "confirmed": 364,
-      "active": 57,
+      "confirmed": 365,
+      "active": 58,
       "recovered": 301,
       "dead": 6,
-      "updatedTime": "16/06/2020 19:11:51",
+      "updatedTime": "16/06/2020 22:12:55",
       "note": "",
       "stateCode": "CH",
       "today": {
-        "confirmed": 7,
+        "confirmed": 8,
         "recovered": 0,
         "dead": 0,
-        "active": 7
+        "active": 8
       },
       "testing_data": {
         "tested": 6027,
@@ -744,18 +744,18 @@
     },
     "AR": {
       "name": "Arunachal Pradesh",
-      "confirmed": 95,
-      "active": 88,
+      "confirmed": 99,
+      "active": 92,
       "recovered": 7,
       "dead": 0,
-      "updatedTime": "15/06/2020 23:24:49",
+      "updatedTime": "16/06/2020 22:09:00",
       "note": "",
       "stateCode": "AR",
       "today": {
-        "confirmed": 0,
+        "confirmed": 4,
         "recovered": 0,
         "dead": 0,
-        "active": 0
+        "active": 4
       },
       "testing_data": {
         "tested": 15453,
@@ -820,7 +820,7 @@
       "active": 39,
       "recovered": 9,
       "dead": 0,
-      "updatedTime": "16/06/2020 21:52:55",
+      "updatedTime": "16/06/2020 22:05:55",
       "note": "",
       "stateCode": "DN",
       "today": {
@@ -890,9 +890,9 @@
     "source": "https://t.me/Covid19india_Auxiliary_Test_Data/490"
   },
   "today": {
-    "confirmed": 4913,
-    "recovered": 4333,
-    "dead": 115,
-    "active": 465
+    "confirmed": 7666,
+    "recovered": 6128,
+    "dead": 1524,
+    "active": 14
   }
 }
