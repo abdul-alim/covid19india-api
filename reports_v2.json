@@ -1,9 +1,9 @@
 {
-  "confirmed": 360483,
-  "recovered": 191446,
-  "dead": 12059,
-  "active": 156933,
-  "updatedTime": "17/06/2020 22:02:46",
+  "confirmed": 360687,
+  "recovered": 191574,
+  "dead": 12065,
+  "active": 157003,
+  "updatedTime": "17/06/2020 22:22:46",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -175,18 +175,18 @@
     },
     "MP": {
       "name": "Madhya Pradesh",
-      "confirmed": 11083,
-      "active": 2455,
-      "recovered": 8152,
-      "dead": 476,
-      "updatedTime": "17/06/2020 01:46:48",
+      "confirmed": 11244,
+      "active": 2374,
+      "recovered": 8388,
+      "dead": 482,
+      "updatedTime": "17/06/2020 22:19:48",
       "note": "",
       "stateCode": "MP",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 161,
+        "recovered": 236,
+        "dead": 6,
+        "active": -81
       },
       "testing_data": {
         "tested": 263983,
@@ -313,17 +313,17 @@
     "TG": {
       "name": "Telangana",
       "confirmed": 5675,
-      "active": 2305,
-      "recovered": 3178,
+      "active": 2412,
+      "recovered": 3071,
       "dead": 192,
-      "updatedTime": "17/06/2020 21:46:51",
+      "updatedTime": "17/06/2020 22:22:48",
       "note": "",
       "stateCode": "TG",
       "today": {
         "confirmed": 269,
-        "recovered": 151,
+        "recovered": 44,
         "dead": 1,
-        "active": 117
+        "active": 224
       },
       "testing_data": {
         "tested": 44431,
@@ -460,7 +460,7 @@
       "active": 730,
       "recovered": 1254,
       "dead": 26,
-      "updatedTime": "17/06/2020 22:02:48",
+      "updatedTime": "17/06/2020 22:15:53",
       "note": "13 Migrated cases reduced from Active count",
       "stateCode": "UT",
       "today": {
@@ -470,12 +470,12 @@
         "active": 42
       },
       "testing_data": {
-        "tested": 47870,
-        "positive": 1912,
-        "negative": 39552,
-        "unconfirmed": 4621,
-        "date": "16/06/2020",
-        "source": "https://twitter.com/PIBDehradun/status/1272831747764318208/photo/1"
+        "tested": 49462,
+        "positive": 1985,
+        "negative": 40434,
+        "unconfirmed": 4889,
+        "date": "17/06/2020",
+        "source": "https://twitter.com/PIBDehradun/status/1273187521602760704/photo/1"
       }
     },
     "CT": {
@@ -484,7 +484,7 @@
       "active": 756,
       "recovered": 1099,
       "dead": 9,
-      "updatedTime": "17/06/2020 22:02:50",
+      "updatedTime": "17/06/2020 22:15:54",
       "note": "",
       "stateCode": "CT",
       "today": {
@@ -528,18 +528,18 @@
     },
     "TR": {
       "name": "Tripura",
-      "confirmed": 1090,
-      "active": 533,
+      "confirmed": 1133,
+      "active": 576,
       "recovered": 556,
       "dead": 1,
-      "updatedTime": "17/06/2020 00:32:50",
+      "updatedTime": "17/06/2020 22:22:50",
       "note": "",
       "stateCode": "TR",
       "today": {
-        "confirmed": 0,
+        "confirmed": 43,
         "recovered": 0,
         "dead": 0,
-        "active": 0
+        "active": 43
       },
       "testing_data": {
         "tested": 49208,
@@ -769,10 +769,10 @@
     "SK": {
       "name": "Sikkim",
       "confirmed": 70,
-      "active": 65,
-      "recovered": 5,
+      "active": 66,
+      "recovered": 4,
       "dead": 0,
-      "updatedTime": "17/06/2020 21:15:50",
+      "updatedTime": "17/06/2020 22:19:52",
       "note": "",
       "stateCode": "SK",
       "today": {
@@ -880,19 +880,19 @@
     }
   },
   "testing_data": {
-    "tested": 6826833,
-    "positive": 342836,
-    "negative": 4430995,
-    "unconfirmed": 23434
+    "tested": 6828425,
+    "positive": 342909,
+    "negative": 4431877,
+    "unconfirmed": 23702
   },
   "testing_data_imcr": {
     "tested": 6084256,
     "source": "https://t.me/Covid19india_Auxiliary_Test_Data/509"
   },
   "today": {
-    "confirmed": 6326,
-    "recovered": 3896,
-    "dead": 137,
-    "active": 2293
+    "confirmed": 6530,
+    "recovered": 4025,
+    "dead": 143,
+    "active": 2362
   }
 }
