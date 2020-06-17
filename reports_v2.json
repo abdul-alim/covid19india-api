@@ -1,9 +1,9 @@
 {
-  "confirmed": 360031,
-  "recovered": 191106,
+  "confirmed": 360030,
+  "recovered": 191103,
   "dead": 12057,
-  "active": 156823,
-  "updatedTime": "17/06/2020 20:52:46",
+  "active": 156825,
+  "updatedTime": "17/06/2020 21:15:47",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -83,7 +83,7 @@
       "active": 6149,
       "recovered": 17438,
       "dead": 1561,
-      "updatedTime": "17/06/2020 20:52:48",
+      "updatedTime": "17/06/2020 21:05:49",
       "note": "",
       "stateCode": "GJ",
       "today": {
@@ -446,12 +446,12 @@
         "active": -15
       },
       "testing_data": {
-        "tested": 157117,
-        "positive": 2623,
+        "tested": 161829,
+        "positive": 0,
         "negative": 0,
-        "unconfirmed": 4081,
-        "date": "16/06/2020",
-        "source": "https://dhs.kerala.gov.in/wp-content/uploads/2020/06/Bulletin-HFWD-English-June-16.pdf"
+        "unconfirmed": 3019,
+        "date": "17/06/2020",
+        "source": ""
       }
     },
     "UT": {
@@ -768,18 +768,18 @@
     },
     "ML": {
       "name": "Meghalaya",
-      "confirmed": 44,
-      "active": 14,
+      "confirmed": 43,
+      "active": 13,
       "recovered": 29,
       "dead": 1,
-      "updatedTime": "17/06/2020 20:42:58",
+      "updatedTime": "17/06/2020 21:14:50",
       "note": "",
       "stateCode": "ML",
       "today": {
-        "confirmed": 0,
+        "confirmed": -1,
         "recovered": 1,
         "dead": 0,
-        "active": -1
+        "active": -2
       },
       "testing_data": {
         "tested": 13878,
@@ -820,7 +820,7 @@
       "active": 47,
       "recovered": 12,
       "dead": 0,
-      "updatedTime": "17/06/2020 20:52:51",
+      "updatedTime": "17/06/2020 21:05:57",
       "note": "",
       "stateCode": "DN",
       "today": {
@@ -834,10 +834,10 @@
     "SK": {
       "name": "Sikkim",
       "confirmed": 70,
-      "active": 62,
-      "recovered": 8,
+      "active": 65,
+      "recovered": 5,
       "dead": 0,
-      "updatedTime": "17/06/2020 20:43:04",
+      "updatedTime": "17/06/2020 21:15:50",
       "note": "",
       "stateCode": "SK",
       "today": {
@@ -880,19 +880,19 @@
     }
   },
   "testing_data": {
-    "tested": 6806518,
-    "positive": 342435,
+    "tested": 6811230,
+    "positive": 339812,
     "negative": 4417057,
-    "unconfirmed": 23157
+    "unconfirmed": 22095
   },
   "testing_data_imcr": {
     "tested": 6084256,
     "source": "https://t.me/Covid19india_Auxiliary_Test_Data/509"
   },
   "today": {
-    "confirmed": 5874,
+    "confirmed": 5873,
     "recovered": 3553,
     "dead": 135,
-    "active": 2186
+    "active": 2185
   }
 }
