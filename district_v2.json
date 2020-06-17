@@ -3507,14 +3507,14 @@
       {
         "district": "Chatra",
         "notes": "",
-        "active": 21,
+        "active": 20,
         "confirmed": 41,
-        "recovered": 20,
+        "recovered": 21,
         "dead": 0,
         "today": {
           "confirmed": 0,
-          "recovered": 0,
-          "active": 0,
+          "recovered": 1,
+          "active": -1,
           "dead": 0
         }
       },
@@ -3535,14 +3535,14 @@
       {
         "district": "Dhanbad",
         "notes": "",
-        "active": 14,
+        "active": 6,
         "confirmed": 114,
-        "recovered": 100,
+        "recovered": 108,
         "dead": 0,
         "today": {
           "confirmed": 0,
-          "recovered": 0,
-          "active": 0,
+          "recovered": 8,
+          "active": -8,
           "dead": 0
         }
       },
@@ -3759,15 +3759,15 @@
       {
         "district": "Ranchi",
         "notes": "",
-        "active": 49,
+        "active": 48,
         "confirmed": 185,
         "recovered": 132,
-        "dead": 4,
+        "dead": 5,
         "today": {
           "confirmed": 2,
           "recovered": 0,
-          "active": 2,
-          "dead": 0
+          "active": 1,
+          "dead": 1
         }
       },
       {
@@ -3787,28 +3787,28 @@
       {
         "district": "Saraikela-Kharsawan",
         "notes": "",
-        "active": 23,
+        "active": 19,
         "confirmed": 36,
-        "recovered": 13,
+        "recovered": 17,
         "dead": 0,
         "today": {
           "confirmed": 0,
-          "recovered": 0,
-          "active": 0,
+          "recovered": 4,
+          "active": -4,
           "dead": 0
         }
       },
       {
         "district": "Simdega",
         "notes": "",
-        "active": 109,
+        "active": 92,
         "confirmed": 270,
-        "recovered": 161,
+        "recovered": 178,
         "dead": 0,
         "today": {
           "confirmed": 0,
-          "recovered": 0,
-          "active": 0,
+          "recovered": 17,
+          "active": -17,
           "dead": 0
         }
       },
@@ -3829,14 +3829,14 @@
     ],
     "today": {
       "confirmed": 56,
-      "active": 56,
-      "recovered": 0,
-      "dead": 0
+      "active": 25,
+      "recovered": 30,
+      "dead": 1
     },
-    "confirmed": 1839,
-    "recovered": 1121,
-    "dead": 9,
-    "active": 709
+    "confirmed": 1895,
+    "recovered": 1151,
+    "dead": 10,
+    "active": 734
   },
   "JK": {
     "state": "Jammu and Kashmir",
@@ -5843,10 +5843,10 @@
       "recovered": 0,
       "dead": 0
     },
-    "confirmed": 500,
-    "recovered": 159,
+    "confirmed": 552,
+    "recovered": 192,
     "dead": 0,
-    "active": 341
+    "active": 360
   },
   "MP": {
     "state": "Madhya Pradesh",
