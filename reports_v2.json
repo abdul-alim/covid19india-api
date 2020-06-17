@@ -1,9 +1,9 @@
 {
   "confirmed": 366520,
-  "recovered": 193912,
+  "recovered": 193914,
   "dead": 12247,
-  "active": 160316,
-  "updatedTime": "17/06/2020 23:23:46",
+  "active": 160314,
+  "updatedTime": "17/06/2020 23:35:46",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -11,7 +11,7 @@
       "active": 51922,
       "recovered": 59166,
       "dead": 5651,
-      "updatedTime": "17/06/2020 23:23:48",
+      "updatedTime": "17/06/2020 23:34:48",
       "note": "13 cases were marked as non-covid deaths in MH bulletin. These have been reduced from deceased and active counts\n[June 16] : 1328 deceased cases have been retroactively added to MH bulletin.",
       "stateCode": "MH",
       "today": {
@@ -59,7 +59,7 @@
       "active": 27741,
       "recovered": 17457,
       "dead": 1904,
-      "updatedTime": "17/06/2020 23:22:50",
+      "updatedTime": "17/06/2020 23:26:52",
       "note": "Delhi bulletins in the morning, containing data of the previous day. We will add that data to the date on which the report is released, rather than the previous day.\n[June 16]: 344 deceased cases have been retroactively added to DL bulletin.",
       "stateCode": "DL",
       "today": {
@@ -69,12 +69,12 @@
         "active": 1390
       },
       "testing_data": {
-        "tested": 304483,
-        "positive": 44688,
+        "tested": 312576,
+        "positive": 47102,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "16/06/2020",
-        "source": "https://delhifightscorona.in/wp-content/uploads/2020/06/06-16.pdf"
+        "date": "17/06/2020",
+        "source": ""
       }
     },
     "GJ": {
@@ -213,12 +213,12 @@
         "active": 87
       },
       "testing_data": {
-        "tested": 193421,
-        "positive": 8272,
-        "negative": 180051,
-        "unconfirmed": 5098,
-        "date": "16/06/2020",
-        "source": "http://www.nhmharyana.gov.in/WriteReadData/userfiles/file/CoronaVirus/Daily%20Bulletin%20of%20COVID%2019%20as%20on%2016-06-20%20Evening.pdf"
+        "tested": 197703,
+        "positive": 8832,
+        "negative": 183395,
+        "unconfirmed": 5476,
+        "date": "17/06/2020",
+        "source": "http://www.nhmharyana.gov.in/WriteReadData/userfiles/file/CoronaVirus/Bulletin%20of%20COVID%2019%20as%20on%2017-06-20%20Evening.pdf"
       }
     },
     "UN": {
@@ -494,12 +494,12 @@
         "active": -85
       },
       "testing_data": {
-        "tested": 110062,
-        "positive": 1784,
+        "tested": 113613,
+        "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "16/06/2020",
-        "source": "https://twitter.com/HealthCgGov/status/1272910969770061830?s=19"
+        "date": "17/06/2020",
+        "source": "https://twitter.com/HealthCgGov/status/1273282032429174784?s=19"
       }
     },
     "JH": {
@@ -590,12 +590,12 @@
         "active": 16
       },
       "testing_data": {
-        "tested": 44378,
-        "positive": 629,
+        "tested": 45685,
+        "positive": 656,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "16/06/2020",
-        "source": "https://twitter.com/DHS_Goa/status/1272893664189206535?s=19"
+        "date": "17/06/2020",
+        "source": "https://twitter.com/DHS_Goa/status/1273250203986874369?s=19"
       }
     },
     "HP": {
@@ -748,7 +748,7 @@
       "active": 93,
       "recovered": 10,
       "dead": 0,
-      "updatedTime": "17/06/2020 23:23:51",
+      "updatedTime": "17/06/2020 23:34:51",
       "note": "",
       "stateCode": "AR",
       "today": {
@@ -834,17 +834,17 @@
     "ML": {
       "name": "Meghalaya",
       "confirmed": 43,
-      "active": 13,
-      "recovered": 29,
+      "active": 11,
+      "recovered": 31,
       "dead": 1,
-      "updatedTime": "17/06/2020 21:14:50",
+      "updatedTime": "17/06/2020 23:35:49",
       "note": "[June 17]:\nOne case was identified to be false positive and has been removed from the confirmed cases by ML authorities.",
       "stateCode": "ML",
       "today": {
         "confirmed": -1,
-        "recovered": 1,
+        "recovered": 3,
         "dead": 0,
-        "active": -2
+        "active": -4
       },
       "testing_data": {
         "tested": 14316,
@@ -880,10 +880,10 @@
     }
   },
   "testing_data": {
-    "tested": 6895235,
-    "positive": 346296,
-    "negative": 4472105,
-    "unconfirmed": 22913
+    "tested": 6912468,
+    "positive": 347513,
+    "negative": 4475449,
+    "unconfirmed": 23291
   },
   "testing_data_imcr": {
     "tested": 6084256,
@@ -891,8 +891,8 @@
   },
   "today": {
     "confirmed": 12363,
-    "recovered": 6363,
+    "recovered": 6365,
     "dead": 325,
-    "active": 5675
+    "active": 5673
   }
 }
