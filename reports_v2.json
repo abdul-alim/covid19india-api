@@ -1,9 +1,9 @@
 {
-  "confirmed": 360365,
-  "recovered": 191257,
-  "dead": 12058,
-  "active": 157005,
-  "updatedTime": "17/06/2020 21:49:22",
+  "confirmed": 360483,
+  "recovered": 191446,
+  "dead": 12059,
+  "active": 156933,
+  "updatedTime": "17/06/2020 22:02:46",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -141,12 +141,36 @@
         "active": -42
       },
       "testing_data": {
-        "tested": 622334,
-        "positive": 13216,
-        "negative": 606279,
-        "unconfirmed": 2839,
+        "tested": 637937,
+        "positive": 13542,
+        "negative": 620217,
+        "unconfirmed": 4178,
+        "date": "17/06/2020",
+        "source": ""
+      }
+    },
+    "WB": {
+      "name": "West Bengal",
+      "confirmed": 12300,
+      "active": 5262,
+      "recovered": 6532,
+      "dead": 506,
+      "updatedTime": "17/06/2020 19:45:50",
+      "note": "",
+      "stateCode": "WB",
+      "today": {
+        "confirmed": 391,
+        "recovered": 504,
+        "dead": 11,
+        "active": -124
+      },
+      "testing_data": {
+        "tested": 351754,
+        "positive": 11909,
+        "negative": 0,
+        "unconfirmed": 0,
         "date": "16/06/2020",
-        "source": "https://t.me/indiacovid/7444?single"
+        "source": "https://www.wbhealth.gov.in/uploaded_files/corona/WB_DHFW_Bulletin_16th_JUNE_REPORT_FINAL.pdf"
       }
     },
     "MP": {
@@ -173,28 +197,28 @@
         "source": "https://twitter.com/healthminmp/status/1272935787634364416?s=19"
       }
     },
-    "WB": {
-      "name": "West Bengal",
-      "confirmed": 12300,
-      "active": 5262,
-      "recovered": 6532,
-      "dead": 506,
-      "updatedTime": "17/06/2020 19:45:50",
+    "HR": {
+      "name": "Haryana",
+      "confirmed": 8381,
+      "active": 4493,
+      "recovered": 3770,
+      "dead": 118,
+      "updatedTime": "17/06/2020 15:05:48",
       "note": "",
-      "stateCode": "WB",
+      "stateCode": "HR",
       "today": {
-        "confirmed": 391,
-        "recovered": 504,
-        "dead": 11,
-        "active": -124
+        "confirmed": 109,
+        "recovered": 22,
+        "dead": 0,
+        "active": 87
       },
       "testing_data": {
-        "tested": 351754,
-        "positive": 11909,
-        "negative": 0,
-        "unconfirmed": 0,
+        "tested": 193421,
+        "positive": 8272,
+        "negative": 180051,
+        "unconfirmed": 5098,
         "date": "16/06/2020",
-        "source": "https://www.wbhealth.gov.in/uploaded_files/corona/WB_DHFW_Bulletin_16th_JUNE_REPORT_FINAL.pdf"
+        "source": "http://www.nhmharyana.gov.in/WriteReadData/userfiles/file/CoronaVirus/Daily%20Bulletin%20of%20COVID%2019%20as%20on%2016-06-20%20Evening.pdf"
       }
     },
     "UN": {
@@ -238,28 +262,28 @@
         "source": "https://t.me/Karnataka_KoViD19_Broadcast/4123"
       }
     },
-    "HR": {
-      "name": "Haryana",
-      "confirmed": 8381,
-      "active": 4493,
-      "recovered": 3770,
-      "dead": 118,
-      "updatedTime": "17/06/2020 15:05:48",
-      "note": "",
-      "stateCode": "HR",
+    "AP": {
+      "name": "Andhra Pradesh",
+      "confirmed": 7071,
+      "active": 3340,
+      "recovered": 3641,
+      "dead": 90,
+      "updatedTime": "17/06/2020 15:36:50",
+      "note": "Total includes patients from other states and a new category \"Foreign Evacuees\" which is now reported in AP bulletin.",
+      "stateCode": "AP",
       "today": {
-        "confirmed": 109,
-        "recovered": 22,
-        "dead": 0,
-        "active": 87
+        "confirmed": 351,
+        "recovered": 128,
+        "dead": 2,
+        "active": 221
       },
       "testing_data": {
-        "tested": 193421,
-        "positive": 8272,
-        "negative": 180051,
-        "unconfirmed": 5098,
-        "date": "16/06/2020",
-        "source": "http://www.nhmharyana.gov.in/WriteReadData/userfiles/file/CoronaVirus/Daily%20Bulletin%20of%20COVID%2019%20as%20on%2016-06-20%20Evening.pdf"
+        "tested": 598474,
+        "positive": 5555,
+        "negative": 591403,
+        "unconfirmed": 0,
+        "date": "17/06/2020",
+        "source": "https://twitter.com/ArogyaAndhra/status/1273163879854505985?s=19"
       }
     },
     "BR": {
@@ -286,28 +310,28 @@
         "source": "https://twitter.com/PIB_Patna/status/1273240056443043847"
       }
     },
-    "AP": {
-      "name": "Andhra Pradesh",
-      "confirmed": 7071,
-      "active": 3340,
-      "recovered": 3641,
-      "dead": 90,
-      "updatedTime": "17/06/2020 15:36:50",
-      "note": "Total includes patients from other states and a new category \"Foreign Evacuees\" which is now reported in AP bulletin.",
-      "stateCode": "AP",
+    "TG": {
+      "name": "Telangana",
+      "confirmed": 5675,
+      "active": 2305,
+      "recovered": 3178,
+      "dead": 192,
+      "updatedTime": "17/06/2020 21:46:51",
+      "note": "",
+      "stateCode": "TG",
       "today": {
-        "confirmed": 351,
-        "recovered": 128,
-        "dead": 2,
-        "active": 221
+        "confirmed": 269,
+        "recovered": 151,
+        "dead": 1,
+        "active": 117
       },
       "testing_data": {
-        "tested": 598474,
-        "positive": 5555,
-        "negative": 591403,
+        "tested": 44431,
+        "positive": 5406,
+        "negative": 39025,
         "unconfirmed": 0,
-        "date": "17/06/2020",
-        "source": "https://twitter.com/ArogyaAndhra/status/1273163879854505985?s=19"
+        "date": "16/06/2020",
+        "source": "https://twitter.com/IPRTelangana/status/1272937297919369216?s=19"
       }
     },
     "JK": {
@@ -334,28 +358,28 @@
         "source": "https://twitter.com/diprjk/status/1272872667725459457?s=19"
       }
     },
-    "TG": {
-      "name": "Telangana",
-      "confirmed": 5675,
-      "active": 2305,
-      "recovered": 3178,
-      "dead": 192,
-      "updatedTime": "17/06/2020 21:46:51",
-      "note": "",
-      "stateCode": "TG",
+    "AS": {
+      "name": "Assam",
+      "confirmed": 4606,
+      "active": 1952,
+      "recovered": 2643,
+      "dead": 8,
+      "updatedTime": "17/06/2020 19:14:58",
+      "note": "Includes one case from Nagaland.\nTotal of 3 patients who migrated to other states has been reduced from Active count",
+      "stateCode": "AS",
       "today": {
-        "confirmed": 269,
-        "recovered": 151,
-        "dead": 1,
-        "active": 117
+        "confirmed": 95,
+        "recovered": 231,
+        "dead": 0,
+        "active": -136
       },
       "testing_data": {
-        "tested": 44431,
-        "positive": 5406,
-        "negative": 39025,
+        "tested": 227109,
+        "positive": 4319,
+        "negative": 0,
         "unconfirmed": 0,
         "date": "16/06/2020",
-        "source": "https://twitter.com/IPRTelangana/status/1272937297919369216?s=19"
+        "source": "https://twitter.com/nhm_assam/status/1272930668113100800?s=19"
       }
     },
     "OR": {
@@ -380,30 +404,6 @@
         "unconfirmed": 0,
         "date": "17/06/2020",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/511?single"
-      }
-    },
-    "AS": {
-      "name": "Assam",
-      "confirmed": 4606,
-      "active": 1952,
-      "recovered": 2643,
-      "dead": 8,
-      "updatedTime": "17/06/2020 19:14:58",
-      "note": "Includes one case from Nagaland.\nTotal of 3 patients who migrated to other states has been reduced from Active count",
-      "stateCode": "AS",
-      "today": {
-        "confirmed": 95,
-        "recovered": 231,
-        "dead": 0,
-        "active": -136
-      },
-      "testing_data": {
-        "tested": 227109,
-        "positive": 4319,
-        "negative": 0,
-        "unconfirmed": 0,
-        "date": "16/06/2020",
-        "source": "https://twitter.com/nhm_assam/status/1272930668113100800?s=19"
       }
     },
     "PB": {
@@ -456,18 +456,18 @@
     },
     "UT": {
       "name": "Uttarakhand",
-      "confirmed": 1985,
-      "active": 717,
-      "recovered": 1230,
-      "dead": 25,
-      "updatedTime": "17/06/2020 15:44:49",
+      "confirmed": 2023,
+      "active": 730,
+      "recovered": 1254,
+      "dead": 26,
+      "updatedTime": "17/06/2020 22:02:48",
       "note": "13 Migrated cases reduced from Active count",
       "stateCode": "UT",
       "today": {
-        "confirmed": 43,
-        "recovered": 14,
-        "dead": 0,
-        "active": 29
+        "confirmed": 81,
+        "recovered": 38,
+        "dead": 1,
+        "active": 42
       },
       "testing_data": {
         "tested": 47870,
@@ -478,13 +478,37 @@
         "source": "https://twitter.com/PIBDehradun/status/1272831747764318208/photo/1"
       }
     },
+    "CT": {
+      "name": "Chhattisgarh",
+      "confirmed": 1864,
+      "active": 756,
+      "recovered": 1099,
+      "dead": 9,
+      "updatedTime": "17/06/2020 22:02:50",
+      "note": "",
+      "stateCode": "CT",
+      "today": {
+        "confirmed": 80,
+        "recovered": 165,
+        "dead": 0,
+        "active": -85
+      },
+      "testing_data": {
+        "tested": 110062,
+        "positive": 1784,
+        "negative": 0,
+        "unconfirmed": 0,
+        "date": "16/06/2020",
+        "source": "https://twitter.com/HealthCgGov/status/1272910969770061830?s=19"
+      }
+    },
     "JH": {
       "name": "Jharkhand",
       "confirmed": 1839,
       "active": 709,
       "recovered": 1121,
       "dead": 9,
-      "updatedTime": "16/06/2020 22:15:53",
+      "updatedTime": "17/06/2020 22:01:50",
       "note": "",
       "stateCode": "JH",
       "today": {
@@ -500,30 +524,6 @@
         "unconfirmed": 0,
         "date": "16/06/2020",
         "source": "https://twitter.com/FOBGumla/status/1272925780595470336?s=19"
-      }
-    },
-    "CT": {
-      "name": "Chhattisgarh",
-      "confirmed": 1784,
-      "active": 841,
-      "recovered": 934,
-      "dead": 9,
-      "updatedTime": "16/06/2020 21:05:49",
-      "note": "",
-      "stateCode": "CT",
-      "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
-      },
-      "testing_data": {
-        "tested": 110062,
-        "positive": 1784,
-        "negative": 0,
-        "unconfirmed": 0,
-        "date": "16/06/2020",
-        "source": "https://twitter.com/HealthCgGov/status/1272910969770061830?s=19"
       }
     },
     "TR": {
@@ -550,28 +550,28 @@
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/505"
       }
     },
-    "HP": {
-      "name": "Himachal Pradesh",
-      "confirmed": 585,
-      "active": 199,
-      "recovered": 368,
-      "dead": 7,
-      "updatedTime": "17/06/2020 21:46:54",
-      "note": "HP has 12 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed",
-      "stateCode": "HP",
+    "LA": {
+      "name": "Ladakh",
+      "confirmed": 687,
+      "active": 594,
+      "recovered": 92,
+      "dead": 1,
+      "updatedTime": "17/06/2020 18:33:54",
+      "note": "",
+      "stateCode": "LA",
       "today": {
-        "confirmed": 25,
+        "confirmed": 38,
         "recovered": 7,
         "dead": 0,
-        "active": 18
+        "active": 31
       },
       "testing_data": {
-        "tested": 57478,
-        "positive": 570,
-        "negative": 56126,
-        "unconfirmed": 782,
+        "tested": 11626,
+        "positive": 687,
+        "negative": 9833,
+        "unconfirmed": 856,
         "date": "17/06/2020",
-        "source": "https://twitter.com/nhm_hp/status/1273230273333702657?s=19"
+        "source": "https://m.facebook.com/photo.php?fbid=189849289139315&id=114874993303412&set=pcb.189849505805960&source=48"
       }
     },
     "GA": {
@@ -596,6 +596,30 @@
         "unconfirmed": 0,
         "date": "16/06/2020",
         "source": "https://twitter.com/DHS_Goa/status/1272893664189206535?s=19"
+      }
+    },
+    "HP": {
+      "name": "Himachal Pradesh",
+      "confirmed": 585,
+      "active": 199,
+      "recovered": 368,
+      "dead": 7,
+      "updatedTime": "17/06/2020 21:46:54",
+      "note": "HP has 12 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed",
+      "stateCode": "HP",
+      "today": {
+        "confirmed": 25,
+        "recovered": 7,
+        "dead": 0,
+        "active": 18
+      },
+      "testing_data": {
+        "tested": 57478,
+        "positive": 570,
+        "negative": 56126,
+        "unconfirmed": 782,
+        "date": "17/06/2020",
+        "source": "https://twitter.com/nhm_hp/status/1273230273333702657?s=19"
       }
     },
     "MN": {
@@ -670,30 +694,6 @@
         "source": "https://covid19dashboard.py.gov.in/LabTestReport"
       }
     },
-    "LA": {
-      "name": "Ladakh",
-      "confirmed": 687,
-      "active": 594,
-      "recovered": 92,
-      "dead": 1,
-      "updatedTime": "17/06/2020 18:33:54",
-      "note": "",
-      "stateCode": "LA",
-      "today": {
-        "confirmed": 38,
-        "recovered": 7,
-        "dead": 0,
-        "active": 31
-      },
-      "testing_data": {
-        "tested": 11626,
-        "positive": 687,
-        "negative": 9833,
-        "unconfirmed": 856,
-        "date": "17/06/2020",
-        "source": "https://m.facebook.com/photo.php?fbid=189849289139315&id=114874993303412&set=pcb.189849505805960&source=48"
-      }
-    },
     "NL": {
       "name": "Nagaland",
       "confirmed": 193,
@@ -766,29 +766,46 @@
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/508"
       }
     },
-    "ML": {
-      "name": "Meghalaya",
-      "confirmed": 43,
-      "active": 13,
-      "recovered": 29,
-      "dead": 1,
-      "updatedTime": "17/06/2020 21:14:50",
-      "note": "[June 17]:\nOne case was identified to be false positive and was decreased from the confirmed cases by ML authorities.",
-      "stateCode": "ML",
+    "SK": {
+      "name": "Sikkim",
+      "confirmed": 70,
+      "active": 65,
+      "recovered": 5,
+      "dead": 0,
+      "updatedTime": "17/06/2020 21:15:50",
+      "note": "",
+      "stateCode": "SK",
       "today": {
-        "confirmed": -1,
-        "recovered": 1,
+        "confirmed": 2,
+        "recovered": 0,
         "dead": 0,
-        "active": -2
+        "active": 2
       },
       "testing_data": {
-        "tested": 13878,
-        "positive": 44,
-        "negative": 0,
-        "unconfirmed": 0,
+        "tested": 6192,
+        "positive": 68,
+        "negative": 5715,
+        "unconfirmed": 409,
         "date": "16/06/2020",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/506"
+        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/507"
       }
+    },
+    "DN": {
+      "name": "Dadra and Nagar Haveli and Daman and Diu",
+      "confirmed": 59,
+      "active": 47,
+      "recovered": 12,
+      "dead": 0,
+      "updatedTime": "17/06/2020 21:05:57",
+      "note": "",
+      "stateCode": "DN",
+      "today": {
+        "confirmed": 5,
+        "recovered": 3,
+        "dead": 0,
+        "active": 2
+      },
+      "isUnknown": true
     },
     "AN": {
       "name": "Andaman and Nicobar",
@@ -814,45 +831,28 @@
         "source": "https://dhs.andaman.gov.in/NewEvents/296.pdf"
       }
     },
-    "DN": {
-      "name": "Dadra and Nagar Haveli and Daman and Diu",
-      "confirmed": 59,
-      "active": 47,
-      "recovered": 12,
-      "dead": 0,
-      "updatedTime": "17/06/2020 21:05:57",
-      "note": "",
-      "stateCode": "DN",
+    "ML": {
+      "name": "Meghalaya",
+      "confirmed": 43,
+      "active": 13,
+      "recovered": 29,
+      "dead": 1,
+      "updatedTime": "17/06/2020 21:14:50",
+      "note": "[June 17]:\nOne case was identified to be false positive and has been removed from the confirmed cases by ML authorities.",
+      "stateCode": "ML",
       "today": {
-        "confirmed": 5,
-        "recovered": 3,
+        "confirmed": -1,
+        "recovered": 1,
         "dead": 0,
-        "active": 2
-      },
-      "isUnknown": true
-    },
-    "SK": {
-      "name": "Sikkim",
-      "confirmed": 70,
-      "active": 65,
-      "recovered": 5,
-      "dead": 0,
-      "updatedTime": "17/06/2020 21:15:50",
-      "note": "",
-      "stateCode": "SK",
-      "today": {
-        "confirmed": 2,
-        "recovered": 0,
-        "dead": 0,
-        "active": 2
+        "active": -2
       },
       "testing_data": {
-        "tested": 6192,
-        "positive": 68,
-        "negative": 5715,
-        "unconfirmed": 409,
+        "tested": 13878,
+        "positive": 44,
+        "negative": 0,
+        "unconfirmed": 0,
         "date": "16/06/2020",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/507"
+        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/506"
       }
     },
     "LD": {
@@ -880,19 +880,19 @@
     }
   },
   "testing_data": {
-    "tested": 6811230,
-    "positive": 342510,
-    "negative": 4417057,
-    "unconfirmed": 22095
+    "tested": 6826833,
+    "positive": 342836,
+    "negative": 4430995,
+    "unconfirmed": 23434
   },
   "testing_data_imcr": {
     "tested": 6084256,
     "source": "https://t.me/Covid19india_Auxiliary_Test_Data/509"
   },
   "today": {
-    "confirmed": 6208,
-    "recovered": 3707,
-    "dead": 136,
-    "active": 2365
+    "confirmed": 6326,
+    "recovered": 3896,
+    "dead": 137,
+    "active": 2293
   }
 }
