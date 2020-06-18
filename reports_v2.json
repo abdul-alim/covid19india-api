@@ -1,9 +1,9 @@
 {
-  "confirmed": 369314,
-  "recovered": 195542,
-  "dead": 12304,
-  "active": 161423,
-  "updatedTime": "18/06/2020 19:01:47",
+  "confirmed": 369496,
+  "recovered": 195786,
+  "dead": 12308,
+  "active": 161357,
+  "updatedTime": "18/06/2020 19:16:46",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -117,12 +117,12 @@
         "active": 182
       },
       "testing_data": {
-        "tested": 467702,
-        "positive": 13615,
-        "negative": 442598,
+        "tested": 515280,
+        "positive": 15785,
+        "negative": 0,
         "unconfirmed": 0,
-        "date": "14/06/2020",
-        "source": "https://t.me/indiacovid/7242?single"
+        "date": "18/06/2020",
+        "source": "https://twitter.com/ANINewsUP/status/1273558369979133953?s=19"
       }
     },
     "RJ": {
@@ -175,18 +175,18 @@
     },
     "MP": {
       "name": "Madhya Pradesh",
-      "confirmed": 11244,
-      "active": 2374,
-      "recovered": 8388,
-      "dead": 482,
-      "updatedTime": "17/06/2020 22:25:48",
+      "confirmed": 11426,
+      "active": 2308,
+      "recovered": 8632,
+      "dead": 486,
+      "updatedTime": "18/06/2020 19:16:49",
       "note": "",
       "stateCode": "MP",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 182,
+        "recovered": 244,
+        "dead": 4,
+        "active": -66
       },
       "testing_data": {
         "tested": 271205,
@@ -880,9 +880,9 @@
     }
   },
   "testing_data": {
-    "tested": 6982546,
-    "positive": 354613,
-    "negative": 4513345,
+    "tested": 7030124,
+    "positive": 356783,
+    "negative": 4070747,
     "unconfirmed": 16039
   },
   "testing_data_imcr": {
@@ -890,9 +890,9 @@
     "source": "https://t.me/Covid19india_Auxiliary_Test_Data/525"
   },
   "today": {
-    "confirmed": 2050,
-    "recovered": 1104,
-    "dead": 41,
-    "active": 905
+    "confirmed": 2232,
+    "recovered": 1348,
+    "dead": 45,
+    "active": 839
   }
 }
