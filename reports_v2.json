@@ -1,9 +1,9 @@
 {
-  "confirmed": 368442,
-  "recovered": 194697,
+  "confirmed": 368557,
+  "recovered": 194843,
   "dead": 12275,
-  "active": 161425,
-  "updatedTime": "18/06/2020 14:02:46",
+  "active": 161394,
+  "updatedTime": "18/06/2020 14:22:46",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -199,18 +199,18 @@
     },
     "HR": {
       "name": "Haryana",
-      "confirmed": 8832,
-      "active": 4750,
-      "recovered": 3952,
+      "confirmed": 8946,
+      "active": 4718,
+      "recovered": 4098,
       "dead": 130,
-      "updatedTime": "18/06/2020 00:45:48",
+      "updatedTime": "18/06/2020 14:22:47",
       "note": "",
       "stateCode": "HR",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 114,
+        "recovered": 146,
         "dead": 0,
-        "active": 0
+        "active": -32
       },
       "testing_data": {
         "tested": 197703,
@@ -292,7 +292,7 @@
       "active": 2178,
       "recovered": 4776,
       "dead": 39,
-      "updatedTime": "18/06/2020 14:02:48",
+      "updatedTime": "18/06/2020 14:12:49",
       "note": "",
       "stateCode": "BR",
       "today": {
@@ -600,18 +600,18 @@
     },
     "HP": {
       "name": "Himachal Pradesh",
-      "confirmed": 585,
-      "active": 199,
+      "confirmed": 586,
+      "active": 200,
       "recovered": 368,
       "dead": 7,
-      "updatedTime": "17/06/2020 21:46:54",
+      "updatedTime": "18/06/2020 14:21:50",
       "note": "HP has 12 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed",
       "stateCode": "HP",
       "today": {
-        "confirmed": 0,
+        "confirmed": 1,
         "recovered": 0,
         "dead": 0,
-        "active": 0
+        "active": 1
       },
       "testing_data": {
         "tested": 57479,
@@ -837,7 +837,7 @@
       "active": 10,
       "recovered": 32,
       "dead": 1,
-      "updatedTime": "18/06/2020 14:02:51",
+      "updatedTime": "18/06/2020 14:12:54",
       "note": "[June 17]:\nOne case was identified to be false positive and has been removed from the confirmed cases by ML authorities.",
       "stateCode": "ML",
       "today": {
@@ -890,9 +890,9 @@
     "source": "https://t.me/Covid19india_Auxiliary_Test_Data/525"
   },
   "today": {
-    "confirmed": 1178,
-    "recovered": 259,
+    "confirmed": 1293,
+    "recovered": 405,
     "dead": 12,
-    "active": 907
+    "active": 876
   }
 }
