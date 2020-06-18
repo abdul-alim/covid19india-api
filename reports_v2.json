@@ -1,9 +1,9 @@
 {
-  "confirmed": 378171,
-  "recovered": 201297,
+  "confirmed": 378214,
+  "recovered": 201298,
   "dead": 12540,
-  "active": 164288,
-  "updatedTime": "18/06/2020 23:05:48",
+  "active": 164330,
+  "updatedTime": "19/06/2020 00:00:46",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -360,18 +360,18 @@
     },
     "AS": {
       "name": "Assam",
-      "confirmed": 4861,
-      "active": 2000,
+      "confirmed": 4904,
+      "active": 2043,
       "recovered": 2849,
       "dead": 9,
-      "updatedTime": "18/06/2020 21:40:35",
+      "updatedTime": "19/06/2020 00:00:50",
       "note": "Includes one case from Nagaland.\nTotal of 3 patients who migrated to other states has been reduced from Active count",
       "stateCode": "AS",
       "today": {
-        "confirmed": 166,
+        "confirmed": 209,
         "recovered": 206,
         "dead": 1,
-        "active": -41
+        "active": 2
       },
       "testing_data": {
         "tested": 246590,
@@ -745,17 +745,17 @@
     "AR": {
       "name": "Arunachal Pradesh",
       "confirmed": 103,
-      "active": 93,
-      "recovered": 10,
+      "active": 92,
+      "recovered": 11,
       "dead": 0,
-      "updatedTime": "17/06/2020 23:34:51",
+      "updatedTime": "19/06/2020 00:00:53",
       "note": "",
       "stateCode": "AR",
       "today": {
         "confirmed": 0,
-        "recovered": 0,
+        "recovered": 1,
         "dead": 0,
-        "active": 0
+        "active": -1
       },
       "testing_data": {
         "tested": 16630,
@@ -890,9 +890,9 @@
     "source": "https://t.me/Covid19india_Auxiliary_Test_Data/525"
   },
   "today": {
-    "confirmed": 10906,
-    "recovered": 6858,
+    "confirmed": 10949,
+    "recovered": 6859,
     "dead": 277,
-    "active": 3771
+    "active": 3813
   }
 }
