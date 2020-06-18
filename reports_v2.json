@@ -1,9 +1,9 @@
 {
-  "confirmed": 367705,
-  "recovered": 194438,
-  "dead": 12263,
-  "active": 160959,
-  "updatedTime": "18/06/2020 09:45:46",
+  "confirmed": 367963,
+  "recovered": 194553,
+  "dead": 12273,
+  "active": 161092,
+  "updatedTime": "18/06/2020 11:03:46",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -127,18 +127,18 @@
     },
     "RJ": {
       "name": "Rajasthan",
-      "confirmed": 13542,
-      "active": 2762,
-      "recovered": 10467,
-      "dead": 313,
-      "updatedTime": "18/06/2020 00:22:52",
+      "confirmed": 13626,
+      "active": 2721,
+      "recovered": 10582,
+      "dead": 323,
+      "updatedTime": "18/06/2020 11:02:47",
       "note": "",
       "stateCode": "RJ",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 84,
+        "recovered": 115,
+        "dead": 10,
+        "active": -41
       },
       "testing_data": {
         "tested": 637937,
@@ -384,18 +384,18 @@
     },
     "OR": {
       "name": "Odisha",
-      "confirmed": 4338,
-      "active": 1277,
+      "confirmed": 4512,
+      "active": 1451,
       "recovered": 3047,
       "dead": 14,
-      "updatedTime": "17/06/2020 16:54:48",
+      "updatedTime": "18/06/2020 11:02:49",
       "note": "Three non-covid deaths reported in state dashboard are included in the deceased count",
       "stateCode": "OR",
       "today": {
-        "confirmed": 0,
+        "confirmed": 174,
         "recovered": 0,
         "dead": 0,
-        "active": 0
+        "active": 174
       },
       "testing_data": {
         "tested": 208472,
@@ -886,13 +886,13 @@
     "unconfirmed": 23291
   },
   "testing_data_imcr": {
-    "tested": 6084256,
-    "source": "https://t.me/Covid19india_Auxiliary_Test_Data/509"
+    "tested": 6249668,
+    "source": "https://t.me/Covid19india_Auxiliary_Test_Data/525"
   },
   "today": {
-    "confirmed": 441,
-    "recovered": 0,
-    "dead": 0,
-    "active": 441
+    "confirmed": 699,
+    "recovered": 115,
+    "dead": 10,
+    "active": 574
   }
 }
