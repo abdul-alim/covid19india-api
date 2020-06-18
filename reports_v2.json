@@ -1,9 +1,9 @@
 {
-  "confirmed": 372685,
-  "recovered": 197596,
-  "dead": 12390,
-  "active": 162654,
-  "updatedTime": "18/06/2020 21:07:46",
+  "confirmed": 373092,
+  "recovered": 198224,
+  "dead": 12398,
+  "active": 162425,
+  "updatedTime": "18/06/2020 21:36:00",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -127,18 +127,18 @@
     },
     "RJ": {
       "name": "Rajasthan",
-      "confirmed": 13626,
-      "active": 2721,
-      "recovered": 10582,
-      "dead": 323,
-      "updatedTime": "18/06/2020 11:11:47",
+      "confirmed": 13857,
+      "active": 2785,
+      "recovered": 10742,
+      "dead": 330,
+      "updatedTime": "18/06/2020 21:36:09",
       "note": "",
       "stateCode": "RJ",
       "today": {
-        "confirmed": 84,
-        "recovered": 115,
-        "dead": 10,
-        "active": -41
+        "confirmed": 315,
+        "recovered": 275,
+        "dead": 17,
+        "active": 23
       },
       "testing_data": {
         "tested": 637937,
@@ -288,18 +288,18 @@
     },
     "BR": {
       "name": "Bihar",
-      "confirmed": 6993,
-      "active": 1988,
+      "confirmed": 7040,
+      "active": 2035,
       "recovered": 4961,
       "dead": 44,
-      "updatedTime": "18/06/2020 17:00:49",
+      "updatedTime": "18/06/2020 21:36:16",
       "note": "",
       "stateCode": "BR",
       "today": {
-        "confirmed": 53,
+        "confirmed": 100,
         "recovered": 185,
         "dead": 5,
-        "active": -137
+        "active": -90
       },
       "testing_data": {
         "tested": 139584,
@@ -361,17 +361,17 @@
     "AS": {
       "name": "Assam",
       "confirmed": 4861,
-      "active": 2194,
-      "recovered": 2655,
+      "active": 2000,
+      "recovered": 2849,
       "dead": 9,
-      "updatedTime": "18/06/2020 21:05:51",
+      "updatedTime": "18/06/2020 21:34:00",
       "note": "Includes one case from Nagaland.\nTotal of 3 patients who migrated to other states has been reduced from Active count",
       "stateCode": "AS",
       "today": {
         "confirmed": 166,
-        "recovered": 12,
+        "recovered": 206,
         "dead": 1,
-        "active": 153
+        "active": -41
       },
       "testing_data": {
         "tested": 235214,
@@ -446,28 +446,28 @@
         "active": 7
       },
       "testing_data": {
-        "tested": 161829,
-        "positive": 2698,
+        "tested": 169035,
+        "positive": 2795,
         "negative": 0,
-        "unconfirmed": 3019,
-        "date": "17/06/2020",
-        "source": "https://dhs.kerala.gov.in/wp-content/uploads/2020/06/5.Bulletin-HFWD-English-June-17.pdf"
+        "unconfirmed": 3194,
+        "date": "18/06/2020",
+        "source": "https://dhs.kerala.gov.in/wp-content/uploads/2020/06/Bulletin-HFWD-English-June-18.pdf"
       }
     },
     "UT": {
       "name": "Uttarakhand",
-      "confirmed": 2080,
-      "active": 779,
-      "recovered": 1262,
+      "confirmed": 2103,
+      "active": 678,
+      "recovered": 1386,
       "dead": 26,
-      "updatedTime": "18/06/2020 16:35:49",
+      "updatedTime": "18/06/2020 21:36:20",
       "note": "13 Migrated cases reduced from Active count",
       "stateCode": "UT",
       "today": {
-        "confirmed": 57,
-        "recovered": 8,
+        "confirmed": 80,
+        "recovered": 132,
         "dead": 0,
-        "active": 49
+        "active": -52
       },
       "testing_data": {
         "tested": 50796,
@@ -480,18 +480,18 @@
     },
     "CT": {
       "name": "Chhattisgarh",
-      "confirmed": 1864,
-      "active": 756,
-      "recovered": 1099,
+      "confirmed": 1946,
+      "active": 735,
+      "recovered": 1202,
       "dead": 9,
-      "updatedTime": "17/06/2020 22:15:54",
+      "updatedTime": "18/06/2020 21:34:13",
       "note": "",
       "stateCode": "CT",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 82,
+        "recovered": 103,
         "dead": 0,
-        "active": 0
+        "active": -21
       },
       "testing_data": {
         "tested": 113613,
@@ -504,18 +504,18 @@
     },
     "JH": {
       "name": "Jharkhand",
-      "confirmed": 1895,
-      "active": 734,
-      "recovered": 1151,
-      "dead": 10,
-      "updatedTime": "17/06/2020 22:55:49",
+      "confirmed": 1919,
+      "active": 710,
+      "recovered": 1198,
+      "dead": 11,
+      "updatedTime": "18/06/2020 21:36:26",
       "note": "",
       "stateCode": "JH",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 23,
+        "recovered": 47,
+        "dead": 1,
+        "active": -25
       },
       "testing_data": {
         "tested": 113004,
@@ -580,7 +580,7 @@
       "active": 596,
       "recovered": 109,
       "dead": 0,
-      "updatedTime": "18/06/2020 21:07:49",
+      "updatedTime": "18/06/2020 21:15:53",
       "note": "",
       "stateCode": "GA",
       "today": {
@@ -880,19 +880,19 @@
     }
   },
   "testing_data": {
-    "tested": 7084244,
-    "positive": 359887,
+    "tested": 7091450,
+    "positive": 359984,
     "negative": 4110754,
-    "unconfirmed": 16404
+    "unconfirmed": 16579
   },
   "testing_data_imcr": {
     "tested": 6249668,
     "source": "https://t.me/Covid19india_Auxiliary_Test_Data/525"
   },
   "today": {
-    "confirmed": 5421,
-    "recovered": 3055,
-    "dead": 75,
-    "active": 2291
+    "confirmed": 5827,
+    "recovered": 3683,
+    "dead": 83,
+    "active": 2061
   }
 }
