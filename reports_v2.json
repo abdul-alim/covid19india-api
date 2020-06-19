@@ -1,9 +1,9 @@
 {
-  "confirmed": 392544,
-  "recovered": 211970,
-  "dead": 12905,
-  "active": 167619,
-  "updatedTime": "19/06/2020 23:21:46",
+  "confirmed": 395697,
+  "recovered": 214206,
+  "dead": 12971,
+  "active": 168470,
+  "updatedTime": "19/06/2020 23:49:46",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -55,18 +55,18 @@
     },
     "DL": {
       "name": "Delhi",
-      "confirmed": 49979,
-      "active": 26669,
-      "recovered": 21341,
-      "dead": 1969,
-      "updatedTime": "19/06/2020 00:45:49",
+      "confirmed": 53116,
+      "active": 27512,
+      "recovered": 23569,
+      "dead": 2035,
+      "updatedTime": "19/06/2020 23:49:53",
       "note": "Delhi bulletins in the morning, containing data of the previous day. We will add that data to the date on which the report is released, rather than the previous day.\n[June 16]: 344 deceased cases have been retroactively added to DL bulletin.",
       "stateCode": "DL",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 3137,
+        "recovered": 2228,
+        "dead": 66,
+        "active": 843
       },
       "testing_data": {
         "tested": 321302,
@@ -532,7 +532,7 @@
       "active": 523,
       "recovered": 657,
       "dead": 1,
-      "updatedTime": "19/06/2020 23:21:50",
+      "updatedTime": "19/06/2020 23:24:50",
       "note": "",
       "stateCode": "TR",
       "today": {
@@ -609,9 +609,9 @@
       "stateCode": "HP",
       "today": {
         "confirmed": 32,
-        "recovered": 4,
+        "recovered": 12,
         "dead": 0,
-        "active": 28
+        "active": 20
       },
       "testing_data": {
         "tested": 60814,
@@ -648,18 +648,18 @@
     },
     "CH": {
       "name": "Chandigarh",
-      "confirmed": 375,
-      "active": 62,
-      "recovered": 307,
+      "confirmed": 381,
+      "active": 60,
+      "recovered": 315,
       "dead": 6,
-      "updatedTime": "18/06/2020 20:56:06",
+      "updatedTime": "19/06/2020 23:49:59",
       "note": "",
       "stateCode": "CH",
       "today": {
-        "confirmed": 1,
-        "recovered": 1,
+        "confirmed": 7,
+        "recovered": 9,
         "dead": 0,
-        "active": 0
+        "active": -2
       },
       "testing_data": {
         "tested": 6438,
@@ -792,18 +792,18 @@
     },
     "DN": {
       "name": "Dadra and Nagar Haveli and Daman and Diu",
-      "confirmed": 64,
-      "active": 50,
+      "confirmed": 74,
+      "active": 60,
       "recovered": 14,
       "dead": 0,
-      "updatedTime": "19/06/2020 19:55:50",
+      "updatedTime": "19/06/2020 23:44:53",
       "note": "",
       "stateCode": "DN",
       "today": {
-        "confirmed": 4,
+        "confirmed": 14,
         "recovered": 0,
         "dead": 0,
-        "active": 4
+        "active": 14
       },
       "isUnknown": true
     },
@@ -890,9 +890,9 @@
     "source": "https://t.me/Covid19india_Auxiliary_Test_Data/543"
   },
   "today": {
-    "confirmed": 11453,
-    "recovered": 6782,
-    "dead": 299,
-    "active": 4372
+    "confirmed": 14606,
+    "recovered": 9026,
+    "dead": 365,
+    "active": 5215
   }
 }
