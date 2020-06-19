@@ -1,9 +1,9 @@
 {
-  "confirmed": 381091,
+  "confirmed": 381320,
   "recovered": 205182,
   "dead": 12606,
-  "active": 163257,
-  "updatedTime": "19/06/2020 08:43:46",
+  "active": 163486,
+  "updatedTime": "19/06/2020 09:41:46",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -223,18 +223,18 @@
     },
     "UN": {
       "name": "State Unassigned",
-      "confirmed": 8703,
-      "active": 8703,
+      "confirmed": 8927,
+      "active": 8927,
       "recovered": 0,
       "dead": 0,
-      "updatedTime": "18/06/2020 09:45:47",
-      "note": "MoHFW website reports that these are the 'cases that are being reassigned to states'. ",
+      "updatedTime": "19/06/2020 09:40:48",
+      "note": "MoHFW website reports that these are the 'cases that are being reassigned to states'. 224 cases were increased in this category today by MoHFW. We have included these cases to this category",
       "stateCode": "UN",
       "today": {
-        "confirmed": 0,
+        "confirmed": 224,
         "recovered": 0,
         "dead": 0,
-        "active": 0
+        "active": 224
       },
       "isUnknown": true
     },
@@ -696,18 +696,18 @@
     },
     "NL": {
       "name": "Nagaland",
-      "confirmed": 193,
-      "active": 84,
+      "confirmed": 198,
+      "active": 89,
       "recovered": 109,
       "dead": 0,
-      "updatedTime": "18/06/2020 16:53:54",
+      "updatedTime": "19/06/2020 09:41:51",
       "note": "",
       "stateCode": "NL",
       "today": {
-        "confirmed": 0,
+        "confirmed": 5,
         "recovered": 0,
         "dead": 0,
-        "active": 0
+        "active": 5
       },
       "testing_data": {
         "tested": 8387,
@@ -890,9 +890,9 @@
     "source": "https://t.me/Covid19india_Auxiliary_Test_Data/525"
   },
   "today": {
-    "confirmed": 0,
+    "confirmed": 229,
     "recovered": 0,
     "dead": 0,
-    "active": 0
+    "active": 229
   }
 }
