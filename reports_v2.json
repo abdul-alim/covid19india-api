@@ -1,9 +1,9 @@
 {
-  "confirmed": 382834,
-  "recovered": 206074,
-  "dead": 12617,
-  "active": 164093,
-  "updatedTime": "19/06/2020 19:22:46",
+  "confirmed": 384949,
+  "recovered": 207895,
+  "dead": 12668,
+  "active": 164336,
+  "updatedTime": "19/06/2020 19:34:46",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -31,18 +31,18 @@
     },
     "TN": {
       "name": "Tamil Nadu",
-      "confirmed": 52334,
-      "active": 23068,
-      "recovered": 28641,
-      "dead": 625,
-      "updatedTime": "18/06/2020 22:26:51",
+      "confirmed": 54449,
+      "active": 23512,
+      "recovered": 30271,
+      "dead": 666,
+      "updatedTime": "19/06/2020 19:34:48",
       "note": "2 deaths cross notified to other states from Chennai and Coimbatore.\n1 patient died after turning negative for infection in Chengalpattu.\nThese cases have been added to TN deceased tally",
       "stateCode": "TN",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 2115,
+        "recovered": 1630,
+        "dead": 41,
+        "active": 444
       },
       "testing_data": {
         "tested": 800443,
@@ -241,17 +241,17 @@
     "KA": {
       "name": "Karnataka",
       "confirmed": 8281,
-      "active": 2949,
+      "active": 2939,
       "recovered": 5213,
-      "dead": 115,
-      "updatedTime": "19/06/2020 19:22:47",
+      "dead": 125,
+      "updatedTime": "19/06/2020 19:34:50",
       "note": "4 cases are classified as non-covid related deaths in KA bulletin. They have been reduced from active cases",
       "stateCode": "KA",
       "today": {
         "confirmed": 337,
         "recovered": 230,
-        "dead": 0,
-        "active": 107
+        "dead": 10,
+        "active": 97
       },
       "testing_data": {
         "tested": 473507,
@@ -361,17 +361,17 @@
     "AS": {
       "name": "Assam",
       "confirmed": 4904,
-      "active": 2043,
-      "recovered": 2849,
+      "active": 1852,
+      "recovered": 3040,
       "dead": 9,
-      "updatedTime": "19/06/2020 00:00:50",
+      "updatedTime": "19/06/2020 19:34:51",
       "note": "Includes one case from Nagaland.\nTotal of 3 patients who migrated to other states has been reduced from Active count",
       "stateCode": "AS",
       "today": {
         "confirmed": 0,
-        "recovered": 0,
+        "recovered": 191,
         "dead": 0,
-        "active": 0
+        "active": -191
       },
       "testing_data": {
         "tested": 258797,
@@ -890,9 +890,9 @@
     "source": "https://t.me/Covid19india_Auxiliary_Test_Data/543"
   },
   "today": {
-    "confirmed": 1743,
-    "recovered": 891,
-    "dead": 11,
-    "active": 841
+    "confirmed": 3858,
+    "recovered": 2712,
+    "dead": 62,
+    "active": 1084
   }
 }
