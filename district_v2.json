@@ -7327,15 +7327,15 @@
       {
         "district": "Puri",
         "notes": "",
-        "active": 103,
+        "active": 102,
         "confirmed": 211,
         "recovered": 108,
-        "dead": 0,
+        "dead": 1,
         "today": {
           "confirmed": 0,
           "recovered": 0,
-          "active": 0,
-          "dead": 0
+          "active": -1,
+          "dead": 1
         }
       },
       {
@@ -7397,14 +7397,14 @@
     ],
     "today": {
       "confirmed": 179,
-      "active": 179,
+      "active": 178,
       "recovered": 0,
-      "dead": 0
+      "dead": 1
     },
     "confirmed": 4856,
     "recovered": 3297,
-    "dead": 14,
-    "active": 1545
+    "dead": 15,
+    "active": 1544
   },
   "PB": {
     "state": "Punjab",
