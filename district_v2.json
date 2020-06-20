@@ -434,14 +434,14 @@
       {
         "district": "Longding",
         "notes": "",
-        "active": 1,
+        "active": 0,
         "confirmed": 1,
-        "recovered": 0,
+        "recovered": 1,
         "dead": 0,
         "today": {
           "confirmed": 0,
-          "recovered": 0,
-          "active": 0,
+          "recovered": 1,
+          "active": -1,
           "dead": 0
         }
       },
@@ -658,14 +658,14 @@
     ],
     "today": {
       "confirmed": 0,
-      "active": 0,
-      "recovered": 0,
+      "active": -1,
+      "recovered": 1,
       "dead": 0
     },
     "confirmed": 135,
-    "recovered": 14,
+    "recovered": 15,
     "dead": 0,
-    "active": 121
+    "active": 120
   },
   "AS": {
     "state": "Assam",
@@ -2333,10 +2333,10 @@
       "recovered": 0,
       "dead": 0
     },
-    "confirmed": 53116,
-    "recovered": 23569,
-    "dead": 2035,
-    "active": 27512
+    "confirmed": 56746,
+    "recovered": 31294,
+    "dead": 2112,
+    "active": 23340
   },
   "DN": {
     "state": "Dadra and Nagar Haveli and Daman and Diu",
