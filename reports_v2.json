@@ -1,9 +1,9 @@
 {
-  "confirmed": 400560,
-  "recovered": 216347,
-  "dead": 13022,
-  "active": 171141,
-  "updatedTime": "20/06/2020 18:52:46",
+  "confirmed": 400566,
+  "recovered": 216528,
+  "dead": 13031,
+  "active": 170957,
+  "updatedTime": "20/06/2020 19:02:48",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -241,17 +241,17 @@
     "KA": {
       "name": "Karnataka",
       "confirmed": 8697,
-      "active": 3358,
-      "recovered": 5210,
-      "dead": 125,
-      "updatedTime": "20/06/2020 18:52:47",
+      "active": 3168,
+      "recovered": 5391,
+      "dead": 134,
+      "updatedTime": "20/06/2020 19:02:51",
       "note": "4 cases are classified as non-covid related deaths in KA bulletin. They have been reduced from active cases",
       "stateCode": "KA",
       "today": {
         "confirmed": 416,
-        "recovered": 0,
-        "dead": 0,
-        "active": 416
+        "recovered": 181,
+        "dead": 9,
+        "active": 226
       },
       "testing_data": {
         "tested": 484060,
@@ -268,7 +268,7 @@
       "active": 4240,
       "recovered": 4111,
       "dead": 101,
-      "updatedTime": "20/06/2020 18:52:49",
+      "updatedTime": "20/06/2020 19:01:59",
       "note": "Total includes patients from other states and a new category \"Foreign Evacuees\" which is now reported in AP bulletin.",
       "stateCode": "AP",
       "today": {
@@ -715,7 +715,7 @@
         "negative": 0,
         "unconfirmed": 0,
         "date": "20/06/2020",
-        "source": ""
+        "source": "https://twitter.com/MyGovNagaland/status/1274329669039296512?s=19"
       }
     },
     "MZ": {
@@ -792,18 +792,18 @@
     },
     "DN": {
       "name": "Dadra and Nagar Haveli and Daman and Diu",
-      "confirmed": 77,
-      "active": 63,
+      "confirmed": 83,
+      "active": 69,
       "recovered": 14,
       "dead": 0,
-      "updatedTime": "20/06/2020 14:59:49",
+      "updatedTime": "20/06/2020 19:02:56",
       "note": "",
       "stateCode": "DN",
       "today": {
-        "confirmed": 0,
+        "confirmed": 6,
         "recovered": 0,
         "dead": 0,
-        "active": 0
+        "active": 6
       },
       "isUnknown": true
     },
@@ -880,19 +880,19 @@
     }
   },
   "testing_data": {
-    "tested": 7445361,
-    "positive": 388099,
-    "negative": 4421638,
-    "unconfirmed": 25090
+    "tested": 7451964,
+    "positive": 388094,
+    "negative": 4427611,
+    "unconfirmed": 26292
   },
   "testing_data_imcr": {
     "tested": 6616496,
     "source": "https://t.me/Covid19india_Auxiliary_Test_Data/562"
   },
   "today": {
-    "confirmed": 4726,
-    "recovered": 2138,
-    "dead": 51,
-    "active": 2537
+    "confirmed": 4732,
+    "recovered": 2319,
+    "dead": 60,
+    "active": 2353
   }
 }
