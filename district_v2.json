@@ -7285,15 +7285,15 @@
       {
         "district": "Nabarangapur",
         "notes": "",
-        "active": 11,
+        "active": 10,
         "confirmed": 13,
         "recovered": 2,
-        "dead": 0,
+        "dead": 1,
         "today": {
           "confirmed": 0,
           "recovered": 0,
-          "active": 0,
-          "dead": 0
+          "active": -1,
+          "dead": 1
         }
       },
       {
@@ -7327,15 +7327,15 @@
       {
         "district": "Puri",
         "notes": "",
-        "active": 98,
+        "active": 97,
         "confirmed": 214,
         "recovered": 115,
-        "dead": 1,
+        "dead": 2,
         "today": {
           "confirmed": 3,
           "recovered": 0,
-          "active": 3,
-          "dead": 0
+          "active": 2,
+          "dead": 1
         }
       },
       {
@@ -7397,14 +7397,14 @@
     ],
     "today": {
       "confirmed": 304,
-      "active": 302,
+      "active": 300,
       "recovered": 0,
-      "dead": 2
+      "dead": 4
     },
     "confirmed": 5160,
     "recovered": 3534,
-    "dead": 17,
-    "active": 1609
+    "dead": 19,
+    "active": 1607
   },
   "PB": {
     "state": "Punjab",
