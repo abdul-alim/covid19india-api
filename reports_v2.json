@@ -1,9 +1,9 @@
 {
-  "confirmed": 411757,
-  "recovered": 228181,
+  "confirmed": 411619,
+  "recovered": 228186,
   "dead": 13278,
-  "active": 170248,
-  "updatedTime": "21/06/2020 09:53:13",
+  "active": 170105,
+  "updatedTime": "21/06/2020 10:07:13",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -223,18 +223,18 @@
     },
     "UN": {
       "name": "State Unassigned",
-      "confirmed": 9265,
-      "active": 9265,
+      "confirmed": 9127,
+      "active": 9127,
       "recovered": 0,
       "dead": 0,
-      "updatedTime": "20/06/2020 10:05:48",
-      "note": "MoHFW website reports that these are the 'cases that are being reassigned to states'. ",
+      "updatedTime": "21/06/2020 10:07:15",
+      "note": "MoHFW website reports that these are the 'cases that are being reassigned to states'. 138 cases were decreased in this category today by MoHFW. We have removed these casesfrom this category",
       "stateCode": "UN",
       "today": {
-        "confirmed": 0,
+        "confirmed": -138,
         "recovered": 0,
         "dead": 0,
-        "active": 0
+        "active": -138
       },
       "isUnknown": true
     },
@@ -652,7 +652,7 @@
       "active": 82,
       "recovered": 316,
       "dead": 6,
-      "updatedTime": "21/06/2020 09:53:15",
+      "updatedTime": "21/06/2020 10:06:17",
       "note": "",
       "stateCode": "CH",
       "today": {
@@ -700,7 +700,7 @@
       "active": 73,
       "recovered": 138,
       "dead": 0,
-      "updatedTime": "21/06/2020 09:53:16",
+      "updatedTime": "21/06/2020 10:06:19",
       "note": "",
       "stateCode": "NL",
       "today": {
@@ -834,17 +834,17 @@
     "ML": {
       "name": "Meghalaya",
       "confirmed": 43,
-      "active": 10,
-      "recovered": 32,
+      "active": 5,
+      "recovered": 37,
       "dead": 1,
       "updatedTime": "18/06/2020 14:12:54",
       "note": "[June 17]:\nOne case was identified to be false positive and has been removed from the confirmed cases by ML authorities.",
       "stateCode": "ML",
       "today": {
         "confirmed": 0,
-        "recovered": 0,
+        "recovered": 5,
         "dead": 0,
-        "active": 0
+        "active": -5
       },
       "testing_data": {
         "tested": 15346,
@@ -890,9 +890,9 @@
     "source": "https://t.me/Covid19india_Auxiliary_Test_Data/577"
   },
   "today": {
-    "confirmed": 11,
-    "recovered": 0,
+    "confirmed": -127,
+    "recovered": 5,
     "dead": 0,
-    "active": 11
+    "active": -132
   }
 }
