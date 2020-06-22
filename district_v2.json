@@ -7271,15 +7271,15 @@
       {
         "district": "Mayurbhanj",
         "notes": "",
-        "active": 47,
+        "active": 46,
         "confirmed": 145,
         "recovered": 98,
-        "dead": 0,
+        "dead": 1,
         "today": {
           "confirmed": 0,
           "recovered": 0,
-          "active": 0,
-          "dead": 0
+          "active": -1,
+          "dead": 1
         }
       },
       {
@@ -7397,9 +7397,9 @@
     ],
     "today": {
       "confirmed": 143,
-      "active": 142,
+      "active": 141,
       "recovered": 0,
-      "dead": 1
+      "dead": 2
     },
     "confirmed": 5303,
     "recovered": 3720,
@@ -7735,14 +7735,14 @@
       {
         "district": "Karaikal",
         "notes": "",
-        "active": 8,
+        "active": 7,
         "confirmed": 10,
-        "recovered": 2,
+        "recovered": 3,
         "dead": 0,
         "today": {
           "confirmed": 0,
-          "recovered": 0,
-          "active": 0,
+          "recovered": 1,
+          "active": -1,
           "dead": 0
         }
       },
@@ -7791,8 +7791,8 @@
     ],
     "today": {
       "confirmed": 17,
-      "active": 9,
-      "recovered": 8,
+      "active": 8,
+      "recovered": 9,
       "dead": 0
     },
     "confirmed": 383,
