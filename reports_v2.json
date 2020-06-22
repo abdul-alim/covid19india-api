@@ -1,9 +1,9 @@
 {
-  "confirmed": 430708,
-  "recovered": 240289,
-  "dead": 13780,
-  "active": 176588,
-  "updatedTime": "22/06/2020 20:03:13",
+  "confirmed": 431317,
+  "recovered": 240866,
+  "dead": 13801,
+  "active": 176599,
+  "updatedTime": "22/06/2020 20:23:13",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -35,7 +35,7 @@
       "active": 27181,
       "recovered": 34112,
       "dead": 794,
-      "updatedTime": "22/06/2020 20:02:15",
+      "updatedTime": "22/06/2020 20:05:18",
       "note": "2 deaths cross notified to other states from Chennai and Coimbatore.\n1 patient died after turning negative for infection in Chengalpattu.\nThese cases have been added to TN deceased tally",
       "stateCode": "TN",
       "today": {
@@ -79,18 +79,18 @@
     },
     "GJ": {
       "name": "Gujarat",
-      "confirmed": 27317,
-      "active": 6296,
-      "recovered": 19357,
-      "dead": 1664,
-      "updatedTime": "21/06/2020 20:25:15",
+      "confirmed": 27880,
+      "active": 6278,
+      "recovered": 19917,
+      "dead": 1685,
+      "updatedTime": "22/06/2020 20:23:15",
       "note": "",
       "stateCode": "GJ",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 563,
+        "recovered": 560,
+        "dead": 21,
+        "active": -18
       },
       "testing_data": {
         "tested": 324874,
@@ -155,7 +155,7 @@
       "active": 5102,
       "recovered": 8687,
       "dead": 569,
-      "updatedTime": "22/06/2020 20:03:16",
+      "updatedTime": "22/06/2020 20:15:15",
       "note": "",
       "stateCode": "WB",
       "today": {
@@ -179,7 +179,7 @@
       "active": 2342,
       "recovered": 9215,
       "dead": 521,
-      "updatedTime": "22/06/2020 20:03:18",
+      "updatedTime": "22/06/2020 20:15:17",
       "note": "",
       "stateCode": "MP",
       "today": {
@@ -340,7 +340,7 @@
       "active": 2472,
       "recovered": 3531,
       "dead": 85,
-      "updatedTime": "22/06/2020 20:03:20",
+      "updatedTime": "22/06/2020 20:15:20",
       "note": "",
       "stateCode": "JK",
       "today": {
@@ -494,12 +494,12 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 126246,
-        "positive": 2273,
-        "negative": 121044,
-        "unconfirmed": 2929,
-        "date": "21/06/2020",
-        "source": "https://twitter.com/TS_SinghDeo/status/1274728518639706115?s=20"
+        "tested": 129731,
+        "positive": 2302,
+        "negative": 0,
+        "unconfirmed": 0,
+        "date": "22/06/2020",
+        "source": ""
       }
     },
     "JH": {
@@ -576,18 +576,18 @@
     },
     "GA": {
       "name": "Goa",
-      "confirmed": 818,
-      "active": 682,
-      "recovered": 135,
+      "confirmed": 864,
+      "active": 711,
+      "recovered": 152,
       "dead": 1,
-      "updatedTime": "22/06/2020 09:34:16",
+      "updatedTime": "22/06/2020 20:23:17",
       "note": "",
       "stateCode": "GA",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 46,
+        "recovered": 17,
         "dead": 1,
-        "active": -1
+        "active": 28
       },
       "testing_data": {
         "tested": 52301,
@@ -880,19 +880,19 @@
     }
   },
   "testing_data": {
-    "tested": 7854985,
-    "positive": 415957,
-    "negative": 4662278,
-    "unconfirmed": 24537
+    "tested": 7858470,
+    "positive": 415986,
+    "negative": 4541234,
+    "unconfirmed": 21608
   },
   "testing_data_imcr": {
     "tested": 6950493,
     "source": "https://t.me/Covid19india_Auxiliary_Test_Data/594"
   },
   "today": {
-    "confirmed": 3815,
-    "recovered": 3036,
-    "dead": 77,
-    "active": 702
+    "confirmed": 4424,
+    "recovered": 3613,
+    "dead": 98,
+    "active": 713
   }
 }
