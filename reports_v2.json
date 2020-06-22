@@ -1,9 +1,9 @@
 {
-  "confirmed": 426639,
-  "recovered": 237603,
+  "confirmed": 426645,
+  "recovered": 237727,
   "dead": 13712,
-  "active": 175273,
-  "updatedTime": "22/06/2020 17:23:13",
+  "active": 175155,
+  "updatedTime": "22/06/2020 17:53:13",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -361,17 +361,17 @@
     "AS": {
       "name": "Assam",
       "confirmed": 5586,
-      "active": 2169,
-      "recovered": 3405,
+      "active": 2052,
+      "recovered": 3522,
       "dead": 9,
-      "updatedTime": "22/06/2020 00:13:15",
+      "updatedTime": "22/06/2020 17:53:15",
       "note": "Includes one case from Nagaland.\nTotal of 3 patients who migrated to other states has been reduced from Active count",
       "stateCode": "AS",
       "today": {
         "confirmed": 0,
-        "recovered": 0,
+        "recovered": 117,
         "dead": 0,
-        "active": 0
+        "active": -117
       },
       "testing_data": {
         "tested": 288306,
@@ -648,18 +648,18 @@
     },
     "CH": {
       "name": "Chandigarh",
-      "confirmed": 406,
-      "active": 84,
-      "recovered": 316,
+      "confirmed": 410,
+      "active": 82,
+      "recovered": 322,
       "dead": 6,
-      "updatedTime": "21/06/2020 19:55:19",
+      "updatedTime": "22/06/2020 17:53:18",
       "note": "",
       "stateCode": "CH",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 4,
+        "recovered": 6,
         "dead": 0,
-        "active": 0
+        "active": -2
       },
       "testing_data": {
         "tested": 6677,
@@ -792,11 +792,11 @@
     },
     "DN": {
       "name": "Dadra and Nagar Haveli and Daman and Diu",
-      "confirmed": 97,
-      "active": 71,
-      "recovered": 26,
+      "confirmed": 99,
+      "active": 72,
+      "recovered": 27,
       "dead": 0,
-      "updatedTime": "22/06/2020 17:23:21",
+      "updatedTime": "22/06/2020 17:53:19",
       "note": "",
       "stateCode": "DN",
       "today": {
@@ -890,9 +890,9 @@
     "source": "https://t.me/Covid19india_Auxiliary_Test_Data/594"
   },
   "today": {
-    "confirmed": -252,
-    "recovered": 351,
+    "confirmed": -248,
+    "recovered": 474,
     "dead": 9,
-    "active": -612
+    "active": -731
   }
 }
