@@ -1,9 +1,9 @@
 {
-  "confirmed": 426911,
+  "confirmed": 426980,
   "recovered": 237252,
-  "dead": 13704,
-  "active": 175904,
-  "updatedTime": "22/06/2020 09:03:13",
+  "dead": 13705,
+  "active": 175972,
+  "updatedTime": "22/06/2020 09:23:13",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -577,17 +577,17 @@
     "GA": {
       "name": "Goa",
       "confirmed": 818,
-      "active": 683,
+      "active": 682,
       "recovered": 135,
-      "dead": 0,
-      "updatedTime": "21/06/2020 19:45:19",
+      "dead": 1,
+      "updatedTime": "22/06/2020 09:23:16",
       "note": "",
       "stateCode": "GA",
       "today": {
         "confirmed": 0,
         "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "dead": 1,
+        "active": -1
       },
       "testing_data": {
         "tested": 52301,
@@ -696,18 +696,18 @@
     },
     "NL": {
       "name": "Nagaland",
-      "confirmed": 211,
-      "active": 70,
+      "confirmed": 280,
+      "active": 139,
       "recovered": 141,
       "dead": 0,
-      "updatedTime": "21/06/2020 16:56:16",
+      "updatedTime": "22/06/2020 09:23:19",
       "note": "",
       "stateCode": "NL",
       "today": {
-        "confirmed": 0,
+        "confirmed": 69,
         "recovered": 0,
         "dead": 0,
-        "active": 0
+        "active": 69
       },
       "testing_data": {
         "tested": 9971,
@@ -724,7 +724,7 @@
       "active": 133,
       "recovered": 9,
       "dead": 0,
-      "updatedTime": "22/06/2020 09:03:16",
+      "updatedTime": "22/06/2020 09:13:16",
       "note": "",
       "stateCode": "MZ",
       "today": {
@@ -890,9 +890,9 @@
     "source": "https://t.me/Covid19india_Auxiliary_Test_Data/577"
   },
   "today": {
-    "confirmed": 1,
+    "confirmed": 70,
     "recovered": 0,
-    "dead": 0,
-    "active": 1
+    "dead": 1,
+    "active": 69
   }
 }

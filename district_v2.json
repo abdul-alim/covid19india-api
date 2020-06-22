@@ -2425,15 +2425,15 @@
       {
         "district": "North Goa",
         "notes": "",
-        "active": 0,
+        "active": -1,
         "confirmed": 6,
         "recovered": 6,
-        "dead": 0,
+        "dead": 1,
         "today": {
           "confirmed": 0,
           "recovered": 0,
-          "active": 0,
-          "dead": 0
+          "active": -1,
+          "dead": 1
         }
       },
       {
@@ -2453,14 +2453,14 @@
     ],
     "today": {
       "confirmed": 0,
-      "active": 0,
+      "active": -1,
       "recovered": 0,
-      "dead": 0
+      "dead": 1
     },
     "confirmed": 818,
     "recovered": 135,
-    "dead": 0,
-    "active": 683
+    "dead": 1,
+    "active": 682
   },
   "GJ": {
     "state": "Gujarat",
@@ -6952,10 +6952,10 @@
       "recovered": 0,
       "dead": 0
     },
-    "confirmed": 211,
+    "confirmed": 280,
     "recovered": 141,
     "dead": 0,
-    "active": 70
+    "active": 139
   },
   "OR": {
     "state": "Odisha",
