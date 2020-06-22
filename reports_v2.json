@@ -1,9 +1,9 @@
 {
-  "confirmed": 426980,
+  "confirmed": 425667,
   "recovered": 237252,
   "dead": 13705,
-  "active": 175972,
-  "updatedTime": "22/06/2020 09:23:13",
+  "active": 174659,
+  "updatedTime": "22/06/2020 09:43:13",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -223,18 +223,18 @@
     },
     "UN": {
       "name": "State Unassigned",
-      "confirmed": 9127,
-      "active": 9127,
+      "confirmed": 7832,
+      "active": 7832,
       "recovered": 0,
       "dead": 0,
-      "updatedTime": "21/06/2020 10:07:15",
-      "note": "MoHFW website reports that these are the 'cases that are being reassigned to states'. ",
+      "updatedTime": "22/06/2020 09:43:15",
+      "note": "MoHFW website reports that these are the 'cases that are being reassigned to states'. 1295 cases were decreased in this category today by MoHFW. We have removed these casesfrom this category",
       "stateCode": "UN",
       "today": {
-        "confirmed": 0,
+        "confirmed": -1295,
         "recovered": 0,
         "dead": 0,
-        "active": 0
+        "active": -1295
       },
       "isUnknown": true
     },
@@ -480,11 +480,11 @@
     },
     "CT": {
       "name": "Chhattisgarh",
-      "confirmed": 2273,
-      "active": 841,
+      "confirmed": 2255,
+      "active": 823,
       "recovered": 1421,
       "dead": 11,
-      "updatedTime": "21/06/2020 21:05:18",
+      "updatedTime": "22/06/2020 09:43:17",
       "note": "",
       "stateCode": "CT",
       "today": {
@@ -580,7 +580,7 @@
       "active": 682,
       "recovered": 135,
       "dead": 1,
-      "updatedTime": "22/06/2020 09:23:16",
+      "updatedTime": "22/06/2020 09:34:16",
       "note": "",
       "stateCode": "GA",
       "today": {
@@ -700,7 +700,7 @@
       "active": 139,
       "recovered": 141,
       "dead": 0,
-      "updatedTime": "22/06/2020 09:23:19",
+      "updatedTime": "22/06/2020 09:38:17",
       "note": "",
       "stateCode": "NL",
       "today": {
@@ -886,13 +886,13 @@
     "unconfirmed": 25946
   },
   "testing_data_imcr": {
-    "tested": 6807226,
-    "source": "https://t.me/Covid19india_Auxiliary_Test_Data/577"
+    "tested": 6950493,
+    "source": "https://twitter.com/ICMRDELHI/status/1274913260559577090?s=19"
   },
   "today": {
-    "confirmed": 70,
+    "confirmed": -1225,
     "recovered": 0,
     "dead": 1,
-    "active": 69
+    "active": -1226
   }
 }
