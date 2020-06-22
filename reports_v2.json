@@ -1,9 +1,9 @@
 {
-  "confirmed": 440183,
-  "recovered": 248129,
+  "confirmed": 440450,
+  "recovered": 248137,
   "dead": 14015,
-  "active": 177988,
-  "updatedTime": "22/06/2020 23:36:42",
+  "active": 178247,
+  "updatedTime": "23/06/2020 00:11:17",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -45,12 +45,12 @@
         "active": 1315
       },
       "testing_data": {
-        "tested": 892612,
-        "positive": 59377,
-        "negative": 832720,
-        "unconfirmed": 515,
-        "date": "21/06/2020",
-        "source": "https://stopcorona.tn.gov.in/wp-content/uploads/2020/03/Media-Bulletin-21-06-20-COVID-19-6-PM.pdf"
+        "tested": 919204,
+        "positive": 62087,
+        "negative": 856475,
+        "unconfirmed": 0,
+        "date": "22/06/2020",
+        "source": "https://stopcorona.tn.gov.in/wp-content/uploads/2020/06/Media-Bulletin-22.06.2020-18-Pages-English-412.6-KB.pdf"
       }
     },
     "DL": {
@@ -146,7 +146,7 @@
         "negative": 691507,
         "unconfirmed": 2853,
         "date": "22/06/2020",
-        "source": ""
+        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/600"
       }
     },
     "WB": {
@@ -360,18 +360,18 @@
     },
     "AS": {
       "name": "Assam",
-      "confirmed": 5586,
-      "active": 2008,
+      "confirmed": 5853,
+      "active": 2275,
       "recovered": 3566,
       "dead": 9,
-      "updatedTime": "22/06/2020 22:15:20",
+      "updatedTime": "23/06/2020 00:11:27",
       "note": "Includes one case from Nagaland.\nTotal of 3 patients who migrated to other states has been reduced from Active count",
       "stateCode": "AS",
       "today": {
-        "confirmed": 0,
+        "confirmed": 267,
         "recovered": 161,
         "dead": 0,
-        "active": -161
+        "active": 106
       },
       "testing_data": {
         "tested": 301557,
@@ -542,12 +542,12 @@
         "active": -7
       },
       "testing_data": {
-        "tested": 54983,
-        "positive": 1224,
-        "negative": 53759,
+        "tested": 56035,
+        "positive": 1240,
+        "negative": 54795,
         "unconfirmed": 0,
-        "date": "21/06/2020",
-        "source": ""
+        "date": "22/06/2020",
+        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/605"
       }
     },
     "LA": {
@@ -769,17 +769,17 @@
     "SK": {
       "name": "Sikkim",
       "confirmed": 78,
-      "active": 57,
-      "recovered": 21,
+      "active": 49,
+      "recovered": 29,
       "dead": 0,
-      "updatedTime": "21/06/2020 22:35:22",
+      "updatedTime": "23/06/2020 00:11:38",
       "note": "",
       "stateCode": "SK",
       "today": {
         "confirmed": 0,
-        "recovered": 0,
+        "recovered": 4,
         "dead": 0,
-        "active": 0
+        "active": -4
       },
       "testing_data": {
         "tested": 9449,
@@ -880,19 +880,19 @@
     }
   },
   "testing_data": {
-    "tested": 7929639,
-    "positive": 421162,
-    "negative": 4679189,
-    "unconfirmed": 22193
+    "tested": 7957283,
+    "positive": 423888,
+    "negative": 4703980,
+    "unconfirmed": 21678
   },
   "testing_data_imcr": {
     "tested": 6950493,
     "source": "https://t.me/Covid19india_Auxiliary_Test_Data/594"
   },
   "today": {
-    "confirmed": 13281,
-    "recovered": 10875,
+    "confirmed": 13548,
+    "recovered": 10879,
     "dead": 312,
-    "active": 2094
+    "active": 2357
   }
 }
