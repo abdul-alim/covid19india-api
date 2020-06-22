@@ -1,9 +1,9 @@
 {
-  "confirmed": 425667,
-  "recovered": 237252,
-  "dead": 13705,
-  "active": 174659,
-  "updatedTime": "22/06/2020 09:53:13",
+  "confirmed": 425827,
+  "recovered": 237260,
+  "dead": 13706,
+  "active": 174810,
+  "updatedTime": "22/06/2020 11:23:16",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -227,7 +227,7 @@
       "active": 7832,
       "recovered": 0,
       "dead": 0,
-      "updatedTime": "22/06/2020 09:53:15",
+      "updatedTime": "22/06/2020 09:56:15",
       "note": "MoHFW website reports that these are the 'cases that are being reassigned to states'. 1295 cases were decreased in this category today by MoHFW. We have removed these casesfrom this category",
       "stateCode": "UN",
       "today": {
@@ -384,18 +384,18 @@
     },
     "OR": {
       "name": "Odisha",
-      "confirmed": 5160,
-      "active": 1421,
+      "confirmed": 5303,
+      "active": 1563,
       "recovered": 3720,
-      "dead": 19,
-      "updatedTime": "21/06/2020 17:26:15",
+      "dead": 20,
+      "updatedTime": "22/06/2020 11:23:25",
       "note": "Three non-covid deaths reported in state dashboard are included in the deceased count",
       "stateCode": "OR",
       "today": {
-        "confirmed": 0,
+        "confirmed": 143,
         "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "dead": 1,
+        "active": 142
       },
       "testing_data": {
         "tested": 224402,
@@ -484,7 +484,7 @@
       "active": 823,
       "recovered": 1421,
       "dead": 11,
-      "updatedTime": "22/06/2020 09:53:17",
+      "updatedTime": "22/06/2020 09:56:17",
       "note": "",
       "stateCode": "CT",
       "today": {
@@ -672,18 +672,18 @@
     },
     "PY": {
       "name": "Puducherry",
-      "confirmed": 366,
-      "active": 218,
-      "recovered": 140,
+      "confirmed": 383,
+      "active": 227,
+      "recovered": 148,
       "dead": 8,
       "updatedTime": "21/06/2020 14:47:16",
       "note": "",
       "stateCode": "PY",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 17,
+        "recovered": 8,
         "dead": 0,
-        "active": 0
+        "active": 9
       },
       "testing_data": {
         "tested": 12409,
@@ -700,7 +700,7 @@
       "active": 139,
       "recovered": 141,
       "dead": 0,
-      "updatedTime": "22/06/2020 09:53:19",
+      "updatedTime": "22/06/2020 09:56:19",
       "note": "",
       "stateCode": "NL",
       "today": {
@@ -890,9 +890,9 @@
     "source": "https://t.me/Covid19india_Auxiliary_Test_Data/594"
   },
   "today": {
-    "confirmed": -1225,
-    "recovered": 0,
-    "dead": 1,
-    "active": -1226
+    "confirmed": -1065,
+    "recovered": 8,
+    "dead": 2,
+    "active": -1075
   }
 }
