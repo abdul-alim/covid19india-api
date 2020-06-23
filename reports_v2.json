@@ -1,9 +1,9 @@
 {
-  "confirmed": 444871,
-  "recovered": 250402,
-  "dead": 14077,
-  "active": 180340,
-  "updatedTime": "23/06/2020 19:00:13",
+  "confirmed": 445012,
+  "recovered": 250659,
+  "dead": 14078,
+  "active": 180223,
+  "updatedTime": "23/06/2020 19:22:13",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -244,7 +244,7 @@
       "active": 3563,
       "recovered": 6004,
       "dead": 150,
-      "updatedTime": "23/06/2020 19:00:14",
+      "updatedTime": "23/06/2020 19:06:15",
       "note": "4 cases are classified as non-covid related deaths in KA bulletin. They have been reduced from active cases",
       "stateCode": "KA",
       "today": {
@@ -361,17 +361,17 @@
     "AS": {
       "name": "Assam",
       "confirmed": 5853,
-      "active": 2275,
-      "recovered": 3566,
+      "active": 2078,
+      "recovered": 3763,
       "dead": 9,
-      "updatedTime": "23/06/2020 00:11:27",
+      "updatedTime": "23/06/2020 19:22:14",
       "note": "Includes one case from Nagaland.\nTotal of 3 patients who migrated to other states has been reduced from Active count",
       "stateCode": "AS",
       "today": {
         "confirmed": 0,
-        "recovered": 0,
+        "recovered": 197,
         "dead": 0,
-        "active": 0
+        "active": -197
       },
       "testing_data": {
         "tested": 301557,
@@ -432,18 +432,18 @@
     },
     "KL": {
       "name": "Kerala",
-      "confirmed": 3311,
-      "active": 1540,
-      "recovered": 1747,
-      "dead": 22,
-      "updatedTime": "22/06/2020 18:22:17",
+      "confirmed": 3452,
+      "active": 1620,
+      "recovered": 1807,
+      "dead": 23,
+      "updatedTime": "23/06/2020 19:22:16",
       "note": "Mahe native who expired in Kannur included in Kerala's tally.\nOne patient who absconded from Palakkad to TN and one patient who returned back to Maharashtra has been reduced from active count",
       "stateCode": "KL",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 141,
+        "recovered": 60,
+        "dead": 1,
+        "active": 80
       },
       "testing_data": {
         "tested": 185903,
@@ -890,9 +890,9 @@
     "source": "https://t.me/Covid19india_Auxiliary_Test_Data/610"
   },
   "today": {
-    "confirmed": 4409,
-    "recovered": 2265,
-    "dead": 62,
-    "active": 2082
+    "confirmed": 4550,
+    "recovered": 2522,
+    "dead": 63,
+    "active": 1965
   }
 }
