@@ -1,9 +1,9 @@
 {
-  "confirmed": 441936,
+  "confirmed": 441942,
   "recovered": 248889,
   "dead": 14030,
-  "active": 178966,
-  "updatedTime": "23/06/2020 17:23:13",
+  "active": 178972,
+  "updatedTime": "23/06/2020 17:53:15",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -292,14 +292,14 @@
       "active": 1893,
       "recovered": 6027,
       "dead": 54,
-      "updatedTime": "23/06/2020 17:23:15",
+      "updatedTime": "23/06/2020 17:39:15",
       "note": "",
       "stateCode": "BR",
       "today": {
         "confirmed": 81,
-        "recovered": 0,
-        "dead": 0,
-        "active": 81
+        "recovered": 260,
+        "dead": 2,
+        "active": -181
       },
       "testing_data": {
         "tested": 163476,
@@ -388,8 +388,8 @@
       "active": 1458,
       "recovered": 3988,
       "dead": 24,
-      "updatedTime": "23/06/2020 16:43:15",
-      "note": "Three non-covid deaths reported in state dashboard are included in the deceased count",
+      "updatedTime": "23/06/2020 17:36:16",
+      "note": "Three non-covid deaths reported in state dashboard are included in the deceased count\n[June 22nd]: NDRF/ODRF cases have been redistributed to districts based on state dashboard",
       "stateCode": "OR",
       "today": {
         "confirmed": 167,
@@ -792,18 +792,18 @@
     },
     "DN": {
       "name": "Dadra and Nagar Haveli and Daman and Diu",
-      "confirmed": 115,
-      "active": 88,
+      "confirmed": 121,
+      "active": 94,
       "recovered": 27,
       "dead": 0,
-      "updatedTime": "23/06/2020 17:16:16",
+      "updatedTime": "23/06/2020 17:53:21",
       "note": "",
       "stateCode": "DN",
       "today": {
-        "confirmed": 1,
+        "confirmed": 7,
         "recovered": 0,
         "dead": 0,
-        "active": 1
+        "active": 7
       },
       "isUnknown": true
     },
@@ -890,9 +890,9 @@
     "source": "https://t.me/Covid19india_Auxiliary_Test_Data/610"
   },
   "today": {
-    "confirmed": 1474,
-    "recovered": 492,
-    "dead": 13,
-    "active": 969
+    "confirmed": 1480,
+    "recovered": 752,
+    "dead": 15,
+    "active": 713
   }
 }
