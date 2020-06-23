@@ -1,9 +1,9 @@
 {
-  "confirmed": 445589,
-  "recovered": 251445,
-  "dead": 14094,
-  "active": 179998,
-  "updatedTime": "23/06/2020 19:43:13",
+  "confirmed": 449613,
+  "recovered": 254204,
+  "dead": 14162,
+  "active": 181195,
+  "updatedTime": "23/06/2020 19:53:13",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -55,18 +55,18 @@
     },
     "DL": {
       "name": "Delhi",
-      "confirmed": 62655,
-      "active": 23820,
-      "recovered": 36602,
-      "dead": 2233,
-      "updatedTime": "22/06/2020 21:59:15",
+      "confirmed": 66602,
+      "active": 24988,
+      "recovered": 39313,
+      "dead": 2301,
+      "updatedTime": "23/06/2020 19:53:15",
       "note": "Delhi bulletins in the morning, containing data of the previous day. We will add that data to the date on which the report is released, rather than the previous day.\n[June 16]: 344 deceased cases have been retroactively added to DL bulletin.",
       "stateCode": "DL",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 3947,
+        "recovered": 2711,
+        "dead": 68,
+        "active": 1168
       },
       "testing_data": {
         "tested": 384696,
@@ -155,7 +155,7 @@
       "active": 4930,
       "recovered": 9218,
       "dead": 580,
-      "updatedTime": "23/06/2020 19:43:15",
+      "updatedTime": "23/06/2020 19:46:14",
       "note": "",
       "stateCode": "WB",
       "today": {
@@ -254,12 +254,12 @@
         "active": 40
       },
       "testing_data": {
-        "tested": 515969,
-        "positive": 9399,
-        "negative": 493921,
+        "tested": 526538,
+        "positive": 9721,
+        "negative": 503734,
         "unconfirmed": 0,
-        "date": "22/06/2020",
-        "source": "https://covid19.karnataka.gov.in/storage/pdf-files/Media-Bulletin/22-06-2020%20HMB%20English.pdf"
+        "date": "23/06/2020",
+        "source": ""
       }
     },
     "AP": {
@@ -412,7 +412,7 @@
       "active": 1245,
       "recovered": 3047,
       "dead": 105,
-      "updatedTime": "23/06/2020 19:43:16",
+      "updatedTime": "23/06/2020 19:46:17",
       "note": "",
       "stateCode": "PB",
       "today": {
@@ -480,18 +480,18 @@
     },
     "CT": {
       "name": "Chhattisgarh",
-      "confirmed": 2302,
-      "active": 803,
-      "recovered": 1487,
+      "confirmed": 2356,
+      "active": 817,
+      "recovered": 1527,
       "dead": 12,
-      "updatedTime": "22/06/2020 22:37:17",
+      "updatedTime": "23/06/2020 19:53:19",
       "note": "",
       "stateCode": "CT",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 54,
+        "recovered": 40,
         "dead": 0,
-        "active": 0
+        "active": 14
       },
       "testing_data": {
         "tested": 129731,
@@ -580,7 +580,7 @@
       "active": 722,
       "recovered": 185,
       "dead": 2,
-      "updatedTime": "23/06/2020 19:43:18",
+      "updatedTime": "23/06/2020 19:46:23",
       "note": "",
       "stateCode": "GA",
       "today": {
@@ -624,18 +624,18 @@
     },
     "MN": {
       "name": "Manipur",
-      "confirmed": 898,
-      "active": 648,
-      "recovered": 250,
+      "confirmed": 921,
+      "active": 663,
+      "recovered": 258,
       "dead": 0,
-      "updatedTime": "22/06/2020 19:54:24",
+      "updatedTime": "23/06/2020 19:53:21",
       "note": "",
       "stateCode": "MN",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 23,
+        "recovered": 8,
         "dead": 0,
-        "active": 0
+        "active": 15
       },
       "testing_data": {
         "tested": 38286,
@@ -880,9 +880,9 @@
     }
   },
   "testing_data": {
-    "tested": 8011090,
-    "positive": 428111,
-    "negative": 4737961,
+    "tested": 8021659,
+    "positive": 428433,
+    "negative": 4747774,
     "unconfirmed": 20880
   },
   "testing_data_imcr": {
@@ -890,9 +890,9 @@
     "source": "https://t.me/Covid19india_Auxiliary_Test_Data/610"
   },
   "today": {
-    "confirmed": 5127,
-    "recovered": 3308,
-    "dead": 79,
-    "active": 1740
+    "confirmed": 9151,
+    "recovered": 6067,
+    "dead": 147,
+    "active": 2937
   }
 }
