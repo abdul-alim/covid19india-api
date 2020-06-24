@@ -1,9 +1,9 @@
 {
-  "confirmed": 465139,
-  "recovered": 264334,
+  "confirmed": 465366,
+  "recovered": 264404,
   "dead": 14625,
-  "active": 186125,
-  "updatedTime": "24/06/2020 19:23:13",
+  "active": 186282,
+  "updatedTime": "24/06/2020 19:43:13",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -35,7 +35,7 @@
       "active": 28839,
       "recovered": 37763,
       "dead": 866,
-      "updatedTime": "24/06/2020 19:20:15",
+      "updatedTime": "24/06/2020 19:27:14",
       "note": "2 deaths cross notified to other states from Chennai and Coimbatore.\n1 patient died after turning negative for infection in Chengalpattu.\nThese cases have been added to TN deceased tally",
       "stateCode": "TN",
       "today": {
@@ -45,12 +45,12 @@
         "active": 408
       },
       "testing_data": {
-        "tested": 944352,
-        "positive": 64603,
-        "negative": 879176,
-        "unconfirmed": 573,
-        "date": "23/06/2020",
-        "source": "https://stopcorona.tn.gov.in/wp-content/uploads/2020/06/Media-Bulletin-23.06.2020-17-Pages-English-419.2-KB.pdf"
+        "tested": 976431,
+        "positive": 67468,
+        "negative": 908292,
+        "unconfirmed": 671,
+        "date": "24/06/2020",
+        "source": ""
       }
     },
     "DL": {
@@ -244,7 +244,7 @@
       "active": 3797,
       "recovered": 6153,
       "dead": 164,
-      "updatedTime": "24/06/2020 19:23:17",
+      "updatedTime": "24/06/2020 19:38:15",
       "note": "4 cases are classified as non-covid related deaths in KA bulletin. They have been reduced from active cases",
       "stateCode": "KA",
       "today": {
@@ -292,7 +292,7 @@
       "active": 2019,
       "recovered": 6106,
       "dead": 55,
-      "updatedTime": "24/06/2020 13:48:20",
+      "updatedTime": "24/06/2020 19:38:16",
       "note": "",
       "stateCode": "BR",
       "today": {
@@ -360,18 +360,18 @@
     },
     "AS": {
       "name": "Assam",
-      "confirmed": 6056,
-      "active": 2281,
+      "confirmed": 6283,
+      "active": 2508,
       "recovered": 3763,
       "dead": 9,
-      "updatedTime": "24/06/2020 00:05:15",
+      "updatedTime": "24/06/2020 19:42:16",
       "note": "Includes one case from Nagaland.\nTotal of 3 patients who migrated to other states has been reduced from Active count",
       "stateCode": "AS",
       "today": {
-        "confirmed": 0,
+        "confirmed": 226,
         "recovered": 0,
         "dead": 0,
-        "active": 0
+        "active": 226
       },
       "testing_data": {
         "tested": 323258,
@@ -436,7 +436,7 @@
       "active": 1691,
       "recovered": 1888,
       "dead": 23,
-      "updatedTime": "24/06/2020 19:20:19",
+      "updatedTime": "24/06/2020 19:38:20",
       "note": "Mahe native who expired in Kannur included in Kerala's tally.\nOne patient who absconded from Palakkad to TN and one patient who returned back to Maharashtra has been reduced from active count",
       "stateCode": "KL",
       "today": {
@@ -625,17 +625,17 @@
     "MN": {
       "name": "Manipur",
       "confirmed": 970,
-      "active": 712,
-      "recovered": 258,
+      "active": 642,
+      "recovered": 328,
       "dead": 0,
-      "updatedTime": "24/06/2020 19:22:18",
+      "updatedTime": "24/06/2020 19:43:17",
       "note": "",
       "stateCode": "MN",
       "today": {
         "confirmed": 49,
-        "recovered": 0,
+        "recovered": 70,
         "dead": 0,
-        "active": 49
+        "active": -21
       },
       "testing_data": {
         "tested": 40829,
@@ -880,19 +880,19 @@
     }
   },
   "testing_data": {
-    "tested": 8309114,
-    "positive": 456732,
-    "negative": 4891148,
-    "unconfirmed": 24625
+    "tested": 8341193,
+    "positive": 459597,
+    "negative": 4920264,
+    "unconfirmed": 24723
   },
   "testing_data_imcr": {
     "tested": 7352911,
     "source": "https://twitter.com/ICMRDELHI/status/1275632600481067008/photo/1"
   },
   "today": {
-    "confirmed": 9023,
-    "recovered": 5735,
+    "confirmed": 9249,
+    "recovered": 5805,
     "dead": 142,
-    "active": 3146
+    "active": 3302
   }
 }
