@@ -1,9 +1,9 @@
 {
-  "confirmed": 456793,
-  "recovered": 258822,
+  "confirmed": 456796,
+  "recovered": 258827,
   "dead": 14490,
-  "active": 183426,
-  "updatedTime": "24/06/2020 12:13:13",
+  "active": 183424,
+  "updatedTime": "24/06/2020 12:36:13",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -23,10 +23,10 @@
       "testing_data": {
         "tested": 826139,
         "positive": 146811,
-        "negative": 0,
+        "negative": 679328,
         "unconfirmed": 0,
         "date": "24/06/2020",
-        "source": "https://twitter.com/Maha_MEDD/status/1275671147372318721?s=20"
+        "source": "https://t.co/A4mIFHwgFD?amp=1"
       }
     },
     "TN": {
@@ -131,7 +131,7 @@
       "active": 3013,
       "recovered": 12424,
       "dead": 372,
-      "updatedTime": "24/06/2020 12:13:15",
+      "updatedTime": "24/06/2020 12:26:16",
       "note": "",
       "stateCode": "RJ",
       "today": {
@@ -600,18 +600,18 @@
     },
     "HP": {
       "name": "Himachal Pradesh",
-      "confirmed": 775,
-      "active": 323,
-      "recovered": 432,
+      "confirmed": 778,
+      "active": 321,
+      "recovered": 437,
       "dead": 7,
-      "updatedTime": "23/06/2020 22:07:21",
+      "updatedTime": "24/06/2020 12:36:17",
       "note": "HP has 14 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed",
       "stateCode": "HP",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 3,
+        "recovered": 5,
         "dead": 0,
-        "active": 0
+        "active": -2
       },
       "testing_data": {
         "tested": 67020,
@@ -676,7 +676,7 @@
       "active": 276,
       "recovered": 176,
       "dead": 9,
-      "updatedTime": "24/06/2020 12:13:18",
+      "updatedTime": "24/06/2020 12:26:23",
       "note": "",
       "stateCode": "PY",
       "today": {
@@ -686,11 +686,11 @@
         "active": 48
       },
       "testing_data": {
-        "tested": 13037,
-        "positive": 407,
-        "negative": 12526,
-        "unconfirmed": 104,
-        "date": "22/06/2020",
+        "tested": 13435,
+        "positive": 426,
+        "negative": 12835,
+        "unconfirmed": 174,
+        "date": "23/06/2020",
         "source": "https://covid19dashboard.py.gov.in/LabTestReport"
       }
     },
@@ -880,19 +880,19 @@
     }
   },
   "testing_data": {
-    "tested": 8228987,
-    "positive": 455275,
-    "negative": 4161700,
-    "unconfirmed": 23677
+    "tested": 8229385,
+    "positive": 455294,
+    "negative": 4841337,
+    "unconfirmed": 23747
   },
   "testing_data_imcr": {
     "tested": 7352911,
     "source": "https://twitter.com/ICMRDELHI/status/1275632600481067008/photo/1"
   },
   "today": {
-    "confirmed": 677,
-    "recovered": 223,
+    "confirmed": 680,
+    "recovered": 228,
     "dead": 7,
-    "active": 447
+    "active": 445
   }
 }
