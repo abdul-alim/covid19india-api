@@ -1,9 +1,9 @@
 {
   "confirmed": 457656,
-  "recovered": 259285,
+  "recovered": 259421,
   "dead": 14505,
-  "active": 183811,
-  "updatedTime": "24/06/2020 17:36:13",
+  "active": 183675,
+  "updatedTime": "24/06/2020 17:47:13",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -388,7 +388,7 @@
       "active": 1605,
       "recovered": 4123,
       "dead": 24,
-      "updatedTime": "24/06/2020 17:36:15",
+      "updatedTime": "24/06/2020 17:47:16",
       "note": "Three non-covid deaths reported in state dashboard are included in the deceased count\n[June 22nd]: NDRF/ODRF cases have been redistributed to districts based on state dashboard",
       "stateCode": "OR",
       "today": {
@@ -553,17 +553,17 @@
     "LA": {
       "name": "Ladakh",
       "confirmed": 932,
-      "active": 783,
-      "recovered": 148,
+      "active": 657,
+      "recovered": 274,
       "dead": 1,
-      "updatedTime": "23/06/2020 18:49:18",
+      "updatedTime": "24/06/2020 17:47:19",
       "note": "",
       "stateCode": "LA",
       "today": {
         "confirmed": 0,
-        "recovered": 0,
+        "recovered": 126,
         "dead": 0,
-        "active": 0
+        "active": -126
       },
       "testing_data": {
         "tested": 13118,
@@ -769,17 +769,17 @@
     "SK": {
       "name": "Sikkim",
       "confirmed": 83,
-      "active": 54,
-      "recovered": 29,
+      "active": 44,
+      "recovered": 39,
       "dead": 0,
-      "updatedTime": "24/06/2020 11:26:15",
+      "updatedTime": "24/06/2020 17:47:22",
       "note": "",
       "stateCode": "SK",
       "today": {
         "confirmed": 4,
-        "recovered": 0,
+        "recovered": 10,
         "dead": 0,
-        "active": 4
+        "active": -6
       },
       "testing_data": {
         "tested": 9594,
@@ -891,8 +891,8 @@
   },
   "today": {
     "confirmed": 1540,
-    "recovered": 686,
+    "recovered": 822,
     "dead": 22,
-    "active": 832
+    "active": 696
   }
 }
