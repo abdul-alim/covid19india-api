@@ -1,9 +1,9 @@
 {
-  "confirmed": 464693,
-  "recovered": 264347,
-  "dead": 14610,
-  "active": 185681,
-  "updatedTime": "24/06/2020 19:13:13",
+  "confirmed": 465139,
+  "recovered": 264334,
+  "dead": 14625,
+  "active": 186125,
+  "updatedTime": "24/06/2020 19:23:13",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -35,7 +35,7 @@
       "active": 28839,
       "recovered": 37763,
       "dead": 866,
-      "updatedTime": "24/06/2020 19:13:17",
+      "updatedTime": "24/06/2020 19:20:15",
       "note": "2 deaths cross notified to other states from Chennai and Coimbatore.\n1 patient died after turning negative for infection in Chengalpattu.\nThese cases have been added to TN deceased tally",
       "stateCode": "TN",
       "today": {
@@ -240,25 +240,25 @@
     },
     "KA": {
       "name": "Karnataka",
-      "confirmed": 9721,
-      "active": 3414,
+      "confirmed": 10118,
+      "active": 3797,
       "recovered": 6153,
-      "dead": 150,
-      "updatedTime": "24/06/2020 19:13:19",
+      "dead": 164,
+      "updatedTime": "24/06/2020 19:23:17",
       "note": "4 cases are classified as non-covid related deaths in KA bulletin. They have been reduced from active cases",
       "stateCode": "KA",
       "today": {
-        "confirmed": 0,
+        "confirmed": 397,
         "recovered": 149,
-        "dead": 0,
-        "active": -149
+        "dead": 14,
+        "active": 234
       },
       "testing_data": {
-        "tested": 526538,
-        "positive": 9721,
-        "negative": 503734,
+        "tested": 539247,
+        "positive": 10118,
+        "negative": 515388,
         "unconfirmed": 0,
-        "date": "23/06/2020",
+        "date": "24/06/2020",
         "source": ""
       }
     },
@@ -289,25 +289,25 @@
     "BR": {
       "name": "Bihar",
       "confirmed": 8180,
-      "active": 2099,
-      "recovered": 6027,
-      "dead": 54,
+      "active": 2019,
+      "recovered": 6106,
+      "dead": 55,
       "updatedTime": "24/06/2020 13:48:20",
       "note": "",
       "stateCode": "BR",
       "today": {
         "confirmed": 130,
-        "recovered": 0,
-        "dead": 0,
-        "active": 130
+        "recovered": 79,
+        "dead": 1,
+        "active": 50
       },
       "testing_data": {
-        "tested": 169401,
-        "positive": 7974,
+        "tested": 175103,
+        "positive": 8180,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "23/06/2020",
-        "source": "https://twitter.com/PIB_Patna/status/1275394867682631680"
+        "date": "24/06/2020",
+        "source": "https://twitter.com/PIB_Patna/status/1275787406814445576"
       }
     },
     "TG": {
@@ -433,17 +433,17 @@
     "KL": {
       "name": "Kerala",
       "confirmed": 3604,
-      "active": 1599,
-      "recovered": 1980,
+      "active": 1691,
+      "recovered": 1888,
       "dead": 23,
-      "updatedTime": "24/06/2020 19:13:24",
+      "updatedTime": "24/06/2020 19:20:19",
       "note": "Mahe native who expired in Kannur included in Kerala's tally.\nOne patient who absconded from Palakkad to TN and one patient who returned back to Maharashtra has been reduced from active count",
       "stateCode": "KL",
       "today": {
         "confirmed": 152,
-        "recovered": 173,
+        "recovered": 81,
         "dead": 0,
-        "active": -21
+        "active": 71
       },
       "testing_data": {
         "tested": 192059,
@@ -619,23 +619,23 @@
         "negative": 66536,
         "unconfirmed": 1662,
         "date": "24/06/2020",
-        "source": ""
+        "source": "https://twitter.com/nhm_hp/status/1275777028088725504?s=20"
       }
     },
     "MN": {
       "name": "Manipur",
-      "confirmed": 921,
-      "active": 663,
+      "confirmed": 970,
+      "active": 712,
       "recovered": 258,
       "dead": 0,
-      "updatedTime": "23/06/2020 20:04:17",
+      "updatedTime": "24/06/2020 19:22:18",
       "note": "",
       "stateCode": "MN",
       "today": {
-        "confirmed": 0,
+        "confirmed": 49,
         "recovered": 0,
         "dead": 0,
-        "active": 0
+        "active": 49
       },
       "testing_data": {
         "tested": 40829,
@@ -880,9 +880,9 @@
     }
   },
   "testing_data": {
-    "tested": 8290703,
-    "positive": 456129,
-    "negative": 4879494,
+    "tested": 8309114,
+    "positive": 456732,
+    "negative": 4891148,
     "unconfirmed": 24625
   },
   "testing_data_imcr": {
@@ -890,9 +890,9 @@
     "source": "https://twitter.com/ICMRDELHI/status/1275632600481067008/photo/1"
   },
   "today": {
-    "confirmed": 8577,
-    "recovered": 5748,
-    "dead": 127,
-    "active": 2702
+    "confirmed": 9023,
+    "recovered": 5735,
+    "dead": 142,
+    "active": 3146
   }
 }
