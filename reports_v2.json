@@ -1,9 +1,9 @@
 {
-  "confirmed": 489877,
-  "recovered": 285170,
+  "confirmed": 489960,
+  "recovered": 285211,
   "dead": 15303,
-  "active": 189349,
-  "updatedTime": "25/06/2020 21:53:13",
+  "active": 189391,
+  "updatedTime": "25/06/2020 22:22:13",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -11,7 +11,7 @@
       "active": 63342,
       "recovered": 77453,
       "dead": 6931,
-      "updatedTime": "25/06/2020 21:53:14",
+      "updatedTime": "25/06/2020 21:56:14",
       "note": "15 cases were marked as non-covid deaths in MH bulletin. These have been reduced from deceased and active counts\n[June 16] : 1328 deceased cases have been retroactively added to MH bulletin.\n[June 20]: 69 deceased cases have been reduced based on state bulletin.\n",
       "stateCode": "MH",
       "today": {
@@ -141,12 +141,12 @@
         "active": 54
       },
       "testing_data": {
-        "tested": 740855,
-        "positive": 16009,
-        "negative": 721511,
-        "unconfirmed": 3335,
-        "date": "24/06/2020",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/640"
+        "tested": 757137,
+        "positive": 16296,
+        "negative": 0,
+        "unconfirmed": 0,
+        "date": "25/06/2020",
+        "source": ""
       }
     },
     "WB": {
@@ -364,7 +364,7 @@
       "active": 2325,
       "recovered": 4034,
       "dead": 9,
-      "updatedTime": "25/06/2020 21:53:16",
+      "updatedTime": "25/06/2020 22:06:15",
       "note": "Includes one case from Nagaland.\nTotal of 3 patients who migrated to other states has been reduced from Active count",
       "stateCode": "AS",
       "today": {
@@ -460,7 +460,7 @@
       "active": 880,
       "recovered": 1758,
       "dead": 36,
-      "updatedTime": "25/06/2020 21:53:17",
+      "updatedTime": "25/06/2020 22:06:16",
       "note": "17 Migrated cases reduced from Active count",
       "stateCode": "UT",
       "today": {
@@ -504,18 +504,18 @@
     },
     "JH": {
       "name": "Jharkhand",
-      "confirmed": 2219,
-      "active": 632,
-      "recovered": 1575,
+      "confirmed": 2261,
+      "active": 644,
+      "recovered": 1605,
       "dead": 12,
-      "updatedTime": "24/06/2020 23:23:15",
+      "updatedTime": "25/06/2020 22:16:15",
       "note": "",
       "stateCode": "JH",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 42,
+        "recovered": 30,
         "dead": 0,
-        "active": 0
+        "active": 12
       },
       "testing_data": {
         "tested": 128214,
@@ -604,7 +604,7 @@
       "active": 344,
       "recovered": 474,
       "dead": 8,
-      "updatedTime": "25/06/2020 21:53:19",
+      "updatedTime": "25/06/2020 22:06:19",
       "note": "HP has 14 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed",
       "stateCode": "HP",
       "today": {
@@ -672,18 +672,18 @@
     },
     "PY": {
       "name": "Puducherry",
-      "confirmed": 461,
-      "active": 276,
-      "recovered": 176,
+      "confirmed": 502,
+      "active": 306,
+      "recovered": 187,
       "dead": 9,
-      "updatedTime": "24/06/2020 12:26:23",
+      "updatedTime": "25/06/2020 22:22:16",
       "note": "",
       "stateCode": "PY",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 41,
+        "recovered": 11,
         "dead": 0,
-        "active": 0
+        "active": 30
       },
       "testing_data": {
         "tested": 13861,
@@ -880,19 +880,19 @@
     }
   },
   "testing_data": {
-    "tested": 8611764,
-    "positive": 480350,
-    "negative": 5057498,
-    "unconfirmed": 23424
+    "tested": 8628046,
+    "positive": 480637,
+    "negative": 4335987,
+    "unconfirmed": 20089
   },
   "testing_data_imcr": {
     "tested": 7560782,
     "source": "https://twitter.com/ICMRDELHI/status/1275995927824588802?s=19"
   },
   "today": {
-    "confirmed": 16892,
-    "recovered": 13482,
+    "confirmed": 16975,
+    "recovered": 13523,
     "dead": 396,
-    "active": 3014
+    "active": 3056
   }
 }
