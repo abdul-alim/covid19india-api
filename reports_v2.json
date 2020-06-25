@@ -1,24 +1,24 @@
 {
-  "confirmed": 489726,
-  "recovered": 284948,
-  "dead": 15302,
-  "active": 189421,
-  "updatedTime": "25/06/2020 21:24:13",
+  "confirmed": 489877,
+  "recovered": 285170,
+  "dead": 15303,
+  "active": 189349,
+  "updatedTime": "25/06/2020 21:53:13",
   "states": {
     "MH": {
       "name": "Maharashtra",
-      "confirmed": 147740,
-      "active": 63341,
+      "confirmed": 147741,
+      "active": 63342,
       "recovered": 77453,
       "dead": 6931,
-      "updatedTime": "25/06/2020 21:24:14",
+      "updatedTime": "25/06/2020 21:53:14",
       "note": "15 cases were marked as non-covid deaths in MH bulletin. These have been reduced from deceased and active counts\n[June 16] : 1328 deceased cases have been retroactively added to MH bulletin.\n[June 20]: 69 deceased cases have been reduced based on state bulletin.\n",
       "stateCode": "MH",
       "today": {
-        "confirmed": 4841,
+        "confirmed": 4842,
         "recovered": 3661,
         "dead": 192,
-        "active": 988
+        "active": 989
       },
       "testing_data": {
         "tested": 850410,
@@ -59,7 +59,7 @@
       "active": 26586,
       "recovered": 44765,
       "dead": 2429,
-      "updatedTime": "25/06/2020 21:24:15",
+      "updatedTime": "25/06/2020 21:34:15",
       "note": "Delhi bulletins in the morning, containing data of the previous day. We will add that data to the date on which the report is released, rather than the previous day.\n[June 16]: 344 deceased cases have been retroactively added to DL bulletin.",
       "stateCode": "DL",
       "today": {
@@ -131,7 +131,7 @@
       "active": 3077,
       "recovered": 12840,
       "dead": 379,
-      "updatedTime": "25/06/2020 21:24:17",
+      "updatedTime": "25/06/2020 21:34:17",
       "note": "",
       "stateCode": "RJ",
       "today": {
@@ -292,7 +292,7 @@
       "active": 1952,
       "recovered": 6480,
       "dead": 56,
-      "updatedTime": "25/06/2020 21:24:19",
+      "updatedTime": "25/06/2020 21:34:20",
       "note": "",
       "stateCode": "BR",
       "today": {
@@ -361,17 +361,17 @@
     "AS": {
       "name": "Assam",
       "confirmed": 6371,
-      "active": 2400,
-      "recovered": 3959,
+      "active": 2325,
+      "recovered": 4034,
       "dead": 9,
-      "updatedTime": "25/06/2020 10:25:16",
+      "updatedTime": "25/06/2020 21:53:16",
       "note": "Includes one case from Nagaland.\nTotal of 3 patients who migrated to other states has been reduced from Active count",
       "stateCode": "AS",
       "today": {
         "confirmed": 88,
-        "recovered": 0,
+        "recovered": 75,
         "dead": 0,
-        "active": 88
+        "active": 13
       },
       "testing_data": {
         "tested": 336091,
@@ -456,18 +456,18 @@
     },
     "UT": {
       "name": "Uttarakhand",
-      "confirmed": 2642,
-      "active": 845,
-      "recovered": 1745,
-      "dead": 35,
-      "updatedTime": "25/06/2020 15:37:15",
+      "confirmed": 2691,
+      "active": 880,
+      "recovered": 1758,
+      "dead": 36,
+      "updatedTime": "25/06/2020 21:53:17",
       "note": "17 Migrated cases reduced from Active count",
       "stateCode": "UT",
       "today": {
-        "confirmed": 19,
-        "recovered": 24,
-        "dead": 0,
-        "active": -5
+        "confirmed": 68,
+        "recovered": 37,
+        "dead": 1,
+        "active": 30
       },
       "testing_data": {
         "tested": 61165,
@@ -480,18 +480,18 @@
     },
     "CT": {
       "name": "Chhattisgarh",
-      "confirmed": 2419,
-      "active": 806,
-      "recovered": 1601,
+      "confirmed": 2456,
+      "active": 715,
+      "recovered": 1729,
       "dead": 12,
-      "updatedTime": "24/06/2020 22:25:23",
+      "updatedTime": "25/06/2020 21:45:19",
       "note": "",
       "stateCode": "CT",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 37,
+        "recovered": 128,
         "dead": 0,
-        "active": 0
+        "active": -91
       },
       "testing_data": {
         "tested": 137400,
@@ -528,18 +528,18 @@
     },
     "TR": {
       "name": "Tripura",
-      "confirmed": 1263,
-      "active": 358,
+      "confirmed": 1295,
+      "active": 390,
       "recovered": 904,
       "dead": 1,
-      "updatedTime": "24/06/2020 20:36:27",
+      "updatedTime": "25/06/2020 21:45:21",
       "note": "",
       "stateCode": "TR",
       "today": {
-        "confirmed": 0,
+        "confirmed": 32,
         "recovered": 0,
         "dead": 0,
-        "active": 0
+        "active": 32
       },
       "testing_data": {
         "tested": 57753,
@@ -600,18 +600,18 @@
     },
     "HP": {
       "name": "Himachal Pradesh",
-      "confirmed": 807,
-      "active": 318,
-      "recovered": 468,
+      "confirmed": 839,
+      "active": 344,
+      "recovered": 474,
       "dead": 8,
-      "updatedTime": "25/06/2020 12:34:15",
+      "updatedTime": "25/06/2020 21:53:19",
       "note": "HP has 14 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed",
       "stateCode": "HP",
       "today": {
-        "confirmed": 1,
-        "recovered": 2,
+        "confirmed": 33,
+        "recovered": 8,
         "dead": 1,
-        "active": -2
+        "active": 24
       },
       "testing_data": {
         "tested": 68899,
@@ -890,9 +890,9 @@
     "source": "https://twitter.com/ICMRDELHI/status/1275995927824588802?s=19"
   },
   "today": {
-    "confirmed": 16741,
-    "recovered": 13260,
-    "dead": 395,
-    "active": 3086
+    "confirmed": 16892,
+    "recovered": 13482,
+    "dead": 396,
+    "active": 3014
   }
 }
