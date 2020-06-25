@@ -2987,29 +2987,29 @@
       {
         "district": "Hamirpur",
         "notes": "",
-        "active": 106,
-        "confirmed": 221,
+        "active": 107,
+        "confirmed": 222,
         "recovered": 114,
         "dead": 1,
         "today": {
-          "confirmed": 0,
+          "confirmed": 1,
           "recovered": 0,
-          "active": 0,
+          "active": 1,
           "dead": 0
         }
       },
       {
         "district": "Kangra",
         "notes": "Death of Tibetan refugee on March 22 included in Kangra district's tally",
-        "active": 87,
+        "active": 86,
         "confirmed": 211,
         "recovered": 122,
-        "dead": 2,
+        "dead": 3,
         "today": {
           "confirmed": 0,
           "recovered": 0,
-          "active": 0,
-          "dead": 0
+          "active": -1,
+          "dead": 1
         }
       },
       {
@@ -3126,10 +3126,10 @@
       }
     ],
     "today": {
-      "confirmed": 0,
+      "confirmed": 1,
       "active": -2,
       "recovered": 2,
-      "dead": 0
+      "dead": 1
     },
     "confirmed": 806,
     "recovered": 468,
