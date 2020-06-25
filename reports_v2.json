@@ -1,9 +1,9 @@
 {
-  "confirmed": 474710,
-  "recovered": 272636,
-  "dead": 14915,
-  "active": 187104,
-  "updatedTime": "25/06/2020 18:43:13",
+  "confirmed": 474711,
+  "recovered": 272689,
+  "dead": 14916,
+  "active": 187051,
+  "updatedTime": "25/06/2020 19:13:13",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -254,12 +254,12 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 539247,
-        "positive": 10118,
-        "negative": 515388,
+        "tested": 553325,
+        "positive": 10560,
+        "negative": 527731,
         "unconfirmed": 0,
-        "date": "24/06/2020",
-        "source": "https://covid19.karnataka.gov.in/storage/pdf-files/Media-Bulletin/24-06-2020%20HMB%20English.pdf"
+        "date": "25/06/2020",
+        "source": "https://covid19.karnataka.gov.in/storage/pdf-files/Media-Bulletin/25-06-2020%20HMB%20English.pdf"
       }
     },
     "AP": {
@@ -433,17 +433,17 @@
     "KL": {
       "name": "Kerala",
       "confirmed": 3727,
-      "active": 1814,
-      "recovered": 1888,
+      "active": 1761,
+      "recovered": 1941,
       "dead": 23,
-      "updatedTime": "25/06/2020 18:43:15",
+      "updatedTime": "25/06/2020 19:13:17",
       "note": "Mahe native who expired in Kannur included in Kerala's tally.\nOne patient who absconded from Palakkad to TN and one patient who returned back to Maharashtra has been reduced from active count",
       "stateCode": "KL",
       "today": {
         "confirmed": 123,
-        "recovered": 0,
+        "recovered": 53,
         "dead": 0,
-        "active": 123
+        "active": 70
       },
       "testing_data": {
         "tested": 197567,
@@ -600,24 +600,24 @@
     },
     "HP": {
       "name": "Himachal Pradesh",
-      "confirmed": 806,
+      "confirmed": 807,
       "active": 318,
       "recovered": 468,
-      "dead": 7,
+      "dead": 8,
       "updatedTime": "25/06/2020 12:34:15",
       "note": "HP has 14 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed",
       "stateCode": "HP",
       "today": {
-        "confirmed": 0,
+        "confirmed": 1,
         "recovered": 2,
-        "dead": 0,
+        "dead": 1,
         "active": -2
       },
       "testing_data": {
-        "tested": 68976,
-        "positive": 778,
-        "negative": 66536,
-        "unconfirmed": 1662,
+        "tested": 68899,
+        "positive": 806,
+        "negative": 67420,
+        "unconfirmed": 673,
         "date": "24/06/2020",
         "source": "https://twitter.com/nhm_hp/status/1275777028088725504?s=20"
       }
@@ -880,19 +880,19 @@
     }
   },
   "testing_data": {
-    "tested": 8523523,
-    "positive": 474434,
-    "negative": 5004329,
-    "unconfirmed": 23620
+    "tested": 8537524,
+    "positive": 474904,
+    "negative": 5017556,
+    "unconfirmed": 22631
   },
   "testing_data_imcr": {
     "tested": 7560782,
     "source": "https://twitter.com/ICMRDELHI/status/1275995927824588802?s=19"
   },
   "today": {
-    "confirmed": 1725,
-    "recovered": 948,
-    "dead": 8,
-    "active": 769
+    "confirmed": 1726,
+    "recovered": 1001,
+    "dead": 9,
+    "active": 716
   }
 }
