@@ -1,24 +1,24 @@
 {
-  "confirmed": 481177,
-  "recovered": 277765,
-  "dead": 15042,
-  "active": 188315,
-  "updatedTime": "25/06/2020 20:43:13",
+  "confirmed": 489726,
+  "recovered": 284948,
+  "dead": 15302,
+  "active": 189421,
+  "updatedTime": "25/06/2020 21:24:13",
   "states": {
     "MH": {
       "name": "Maharashtra",
-      "confirmed": 142899,
-      "active": 62353,
-      "recovered": 73792,
-      "dead": 6739,
-      "updatedTime": "24/06/2020 23:16:15",
+      "confirmed": 147740,
+      "active": 63341,
+      "recovered": 77453,
+      "dead": 6931,
+      "updatedTime": "25/06/2020 21:24:14",
       "note": "15 cases were marked as non-covid deaths in MH bulletin. These have been reduced from deceased and active counts\n[June 16] : 1328 deceased cases have been retroactively added to MH bulletin.\n[June 20]: 69 deceased cases have been reduced based on state bulletin.\n",
       "stateCode": "MH",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 4841,
+        "recovered": 3661,
+        "dead": 192,
+        "active": 988
       },
       "testing_data": {
         "tested": 850410,
@@ -45,28 +45,28 @@
         "active": 1228
       },
       "testing_data": {
-        "tested": 976431,
-        "positive": 67468,
-        "negative": 908292,
-        "unconfirmed": 671,
-        "date": "24/06/2020",
-        "source": "https://stopcorona.tn.gov.in/wp-content/uploads/2020/06/Media-Bulletin-24.-06.2020-18-Pages-English-412.7-KB.pdf"
+        "tested": 1008974,
+        "positive": 70977,
+        "negative": 937412,
+        "unconfirmed": 585,
+        "date": "25/06/2020",
+        "source": "https://stopcorona.tn.gov.in/wp-content/uploads/2020/06/Media-Bulletin-25.06.2020-20-Pages-English-429.8-KB.pdf"
       }
     },
     "DL": {
       "name": "Delhi",
-      "confirmed": 70390,
-      "active": 26588,
-      "recovered": 41437,
-      "dead": 2365,
-      "updatedTime": "24/06/2020 18:26:15",
+      "confirmed": 73780,
+      "active": 26586,
+      "recovered": 44765,
+      "dead": 2429,
+      "updatedTime": "25/06/2020 21:24:15",
       "note": "Delhi bulletins in the morning, containing data of the previous day. We will add that data to the date on which the report is released, rather than the previous day.\n[June 16]: 344 deceased cases have been retroactively added to DL bulletin.",
       "stateCode": "DL",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 3390,
+        "recovered": 3328,
+        "dead": 64,
+        "active": -2
       },
       "testing_data": {
         "tested": 420707,
@@ -127,18 +127,18 @@
     },
     "RJ": {
       "name": "Rajasthan",
-      "confirmed": 16085,
-      "active": 3064,
-      "recovered": 12646,
-      "dead": 375,
-      "updatedTime": "25/06/2020 11:00:15",
+      "confirmed": 16296,
+      "active": 3077,
+      "recovered": 12840,
+      "dead": 379,
+      "updatedTime": "25/06/2020 21:24:17",
       "note": "",
       "stateCode": "RJ",
       "today": {
-        "confirmed": 76,
-        "recovered": 35,
-        "dead": 0,
-        "active": 41
+        "confirmed": 287,
+        "recovered": 229,
+        "dead": 4,
+        "active": 54
       },
       "testing_data": {
         "tested": 740855,
@@ -165,12 +165,12 @@
         "active": -28
       },
       "testing_data": {
-        "tested": 429766,
-        "positive": 15173,
+        "tested": 439258,
+        "positive": 15648,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "24/06/2020",
-        "source": "https://www.wbhealth.gov.in/uploaded_files/corona/WB_DHFW_Bulletin_24th_JUNE_REPORT_FINAL.pdf"
+        "date": "25/06/2020",
+        "source": "https://www.wbhealth.gov.in/uploaded_files/corona/WB_DHFW_Bulletin_25th_JUNE_REPORT_FINAL.pdf"
       }
     },
     "MP": {
@@ -194,7 +194,7 @@
         "negative": 305182,
         "unconfirmed": 0,
         "date": "25/06/2020",
-        "source": ""
+        "source": "https://twitter.com/healthminmp/status/1276148036507521024?s=20"
       }
     },
     "HR": {
@@ -203,7 +203,7 @@
       "active": 4885,
       "recovered": 7380,
       "dead": 198,
-      "updatedTime": "25/06/2020 20:43:15",
+      "updatedTime": "25/06/2020 20:44:14",
       "note": "",
       "stateCode": "HR",
       "today": {
@@ -288,18 +288,18 @@
     },
     "BR": {
       "name": "Bihar",
-      "confirmed": 8381,
-      "active": 1845,
+      "confirmed": 8488,
+      "active": 1952,
       "recovered": 6480,
       "dead": 56,
-      "updatedTime": "25/06/2020 17:26:15",
+      "updatedTime": "25/06/2020 21:24:19",
       "note": "",
       "stateCode": "BR",
       "today": {
-        "confirmed": 108,
+        "confirmed": 215,
         "recovered": 374,
         "dead": 1,
-        "active": -267
+        "active": -160
       },
       "testing_data": {
         "tested": 181737,
@@ -880,19 +880,19 @@
     }
   },
   "testing_data": {
-    "tested": 8569729,
-    "positive": 476366,
-    "negative": 5028378,
-    "unconfirmed": 23510
+    "tested": 8611764,
+    "positive": 480350,
+    "negative": 5057498,
+    "unconfirmed": 23424
   },
   "testing_data_imcr": {
     "tested": 7560782,
     "source": "https://twitter.com/ICMRDELHI/status/1275995927824588802?s=19"
   },
   "today": {
-    "confirmed": 8192,
-    "recovered": 6077,
-    "dead": 135,
-    "active": 1980
+    "confirmed": 16741,
+    "recovered": 13260,
+    "dead": 395,
+    "active": 3086
   }
 }
