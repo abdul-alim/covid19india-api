@@ -1,9 +1,9 @@
 {
   "confirmed": 474585,
-  "recovered": 272008,
-  "dead": 14914,
-  "active": 187608,
-  "updatedTime": "25/06/2020 16:53:13",
+  "recovered": 272552,
+  "dead": 14915,
+  "active": 187063,
+  "updatedTime": "25/06/2020 17:23:13",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -289,17 +289,17 @@
     "BR": {
       "name": "Bihar",
       "confirmed": 8381,
-      "active": 2220,
-      "recovered": 6106,
-      "dead": 55,
-      "updatedTime": "25/06/2020 14:37:14",
+      "active": 1845,
+      "recovered": 6480,
+      "dead": 56,
+      "updatedTime": "25/06/2020 17:23:15",
       "note": "",
       "stateCode": "BR",
       "today": {
         "confirmed": 108,
-        "recovered": 0,
-        "dead": 0,
-        "active": 108
+        "recovered": 374,
+        "dead": 1,
+        "active": -267
       },
       "testing_data": {
         "tested": 175103,
@@ -385,17 +385,17 @@
     "OR": {
       "name": "Odisha",
       "confirmed": 5962,
-      "active": 1815,
-      "recovered": 4123,
+      "active": 1647,
+      "recovered": 4291,
       "dead": 24,
-      "updatedTime": "25/06/2020 10:35:16",
+      "updatedTime": "25/06/2020 17:23:16",
       "note": "Three non-covid deaths reported in state dashboard are included in the deceased count\n[June 22nd]: NDRF/ODRF cases have been redistributed to districts based on state dashboard",
       "stateCode": "OR",
       "today": {
         "confirmed": 210,
-        "recovered": 0,
+        "recovered": 168,
         "dead": 0,
-        "active": 210
+        "active": 42
       },
       "testing_data": {
         "tested": 235627,
@@ -700,7 +700,7 @@
       "active": 195,
       "recovered": 160,
       "dead": 0,
-      "updatedTime": "25/06/2020 16:53:16",
+      "updatedTime": "25/06/2020 17:07:16",
       "note": "",
       "stateCode": "NL",
       "today": {
@@ -724,7 +724,7 @@
       "active": 115,
       "recovered": 30,
       "dead": 0,
-      "updatedTime": "25/06/2020 16:49:15",
+      "updatedTime": "25/06/2020 16:54:19",
       "note": "",
       "stateCode": "MZ",
       "today": {
@@ -793,17 +793,17 @@
     "DN": {
       "name": "Dadra and Nagar Haveli and Daman and Diu",
       "confirmed": 145,
-      "active": 114,
-      "recovered": 30,
+      "active": 112,
+      "recovered": 32,
       "dead": 0,
-      "updatedTime": "25/06/2020 14:45:17",
+      "updatedTime": "25/06/2020 17:23:18",
       "note": "",
       "stateCode": "DN",
       "today": {
         "confirmed": 11,
-        "recovered": 0,
+        "recovered": 2,
         "dead": 0,
-        "active": 11
+        "active": 9
       },
       "isUnknown": true
     },
@@ -891,8 +891,8 @@
   },
   "today": {
     "confirmed": 1600,
-    "recovered": 320,
-    "dead": 7,
-    "active": 1273
+    "recovered": 864,
+    "dead": 8,
+    "active": 728
   }
 }
