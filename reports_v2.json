@@ -1,9 +1,9 @@
 {
-  "confirmed": 508185,
-  "recovered": 295839,
-  "dead": 15682,
-  "active": 196608,
-  "updatedTime": "26/06/2020 22:23:13",
+  "confirmed": 509170,
+  "recovered": 295917,
+  "dead": 15689,
+  "active": 197508,
+  "updatedTime": "26/06/2020 22:46:13",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -292,27 +292,28 @@
         "active": 1
       },
       "testing_data": {
-        "tested": 0,
-        "positive": 0,
+        "tested": 189643,
+        "positive": 8611,
         "negative": 0,
         "unconfirmed": 0,
-        "updated": false
+        "date": "26/06/2020",
+        "source": "https://twitter.com/PIB_Patna/status/1276504797948989440"
       }
     },
     "TG": {
       "name": "Telangana",
-      "confirmed": 11364,
-      "active": 6446,
-      "recovered": 4688,
-      "dead": 230,
-      "updatedTime": "25/06/2020 22:55:15",
+      "confirmed": 12349,
+      "active": 7346,
+      "recovered": 4766,
+      "dead": 237,
+      "updatedTime": "26/06/2020 22:46:15",
       "note": "",
       "stateCode": "TG",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 985,
+        "recovered": 78,
+        "dead": 7,
+        "active": 900
       },
       "testing_data": {
         "tested": 0,
@@ -361,12 +362,12 @@
         "active": -214
       },
       "testing_data": {
-        "tested": 351753,
-        "positive": 6647,
+        "tested": 362713,
+        "positive": 6646,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "25/06/2020",
-        "source": "https://twitter.com/himantabiswa/status/1276176117481656321?s=20"
+        "date": "26/06/2020",
+        "source": "https://twitter.com/himantabiswa/status/1276546006226579457?s=20"
       }
     },
     "OR": {
@@ -477,11 +478,12 @@
         "active": -68
       },
       "testing_data": {
-        "tested": 0,
-        "positive": 0,
+        "tested": 142090,
+        "positive": 2456,
         "negative": 0,
         "unconfirmed": 0,
-        "updated": false
+        "date": "25/06/2020",
+        "source": "https://twitter.com/HealthCgGov/status/1276180813780930562?s=20"
       }
     },
     "JH": {
@@ -638,11 +640,12 @@
         "active": -4
       },
       "testing_data": {
-        "tested": 0,
-        "positive": 0,
-        "negative": 0,
-        "unconfirmed": 0,
-        "updated": false
+        "tested": 7201,
+        "positive": 424,
+        "negative": 6746,
+        "unconfirmed": 29,
+        "date": "26/06/2020",
+        "source": "http://chdcovid19.in/"
       }
     },
     "PY": {
@@ -651,7 +654,7 @@
       "active": 322,
       "recovered": 203,
       "dead": 9,
-      "updatedTime": "26/06/2020 22:23:17",
+      "updatedTime": "26/06/2020 22:26:17",
       "note": "",
       "stateCode": "PY",
       "today": {
@@ -850,19 +853,19 @@
     }
   },
   "testing_data": {
-    "tested": 1179544,
-    "positive": 18369,
-    "negative": 800012,
-    "unconfirmed": 1638
+    "tested": 1529438,
+    "positive": 29859,
+    "negative": 806758,
+    "unconfirmed": 1667
   },
   "testing_data_imcr": {
     "tested": 7776228,
     "source": "https://twitter.com/ICMRDELHI/status/1276356899642859520"
   },
   "today": {
-    "confirmed": 16995,
-    "recovered": 10168,
-    "dead": 374,
-    "active": 6453
+    "confirmed": 17980,
+    "recovered": 10246,
+    "dead": 381,
+    "active": 7353
   }
 }
