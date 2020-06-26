@@ -1,9 +1,9 @@
 {
-  "confirmed": 498404,
-  "recovered": 290300,
-  "dead": 15424,
-  "active": 192625,
-  "updatedTime": "26/06/2020 20:23:13",
+  "confirmed": 501864,
+  "recovered": 292626,
+  "dead": 15487,
+  "active": 193696,
+  "updatedTime": "26/06/2020 20:54:13",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -55,18 +55,18 @@
     },
     "DL": {
       "name": "Delhi",
-      "confirmed": 73780,
-      "active": 26586,
-      "recovered": 44765,
-      "dead": 2429,
-      "updatedTime": "25/06/2020 21:34:15",
+      "confirmed": 77240,
+      "active": 27657,
+      "recovered": 47091,
+      "dead": 2492,
+      "updatedTime": "26/06/2020 20:54:15",
       "note": "Delhi bulletins in the morning, containing data of the previous day. We will add that data to the date on which the report is released, rather than the previous day.\n[June 16]: 344 deceased cases have been retroactively added to DL bulletin.",
       "stateCode": "DL",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 3460,
+        "recovered": 2326,
+        "dead": 63,
+        "active": 1071
       },
       "testing_data": {
         "tested": 438012,
@@ -83,7 +83,7 @@
       "active": 6348,
       "recovered": 22038,
       "dead": 1772,
-      "updatedTime": "26/06/2020 20:23:15",
+      "updatedTime": "26/06/2020 20:37:15",
       "note": "",
       "stateCode": "GJ",
       "today": {
@@ -350,12 +350,12 @@
         "active": 99
       },
       "testing_data": {
-        "tested": 332445,
-        "positive": 6549,
-        "negative": 325896,
+        "tested": 338903,
+        "positive": 6762,
+        "negative": 332141,
         "unconfirmed": 0,
-        "date": "25/06/2020",
-        "source": "https://twitter.com/diprjk/status/1276162464208564227?s=20"
+        "date": "26/06/2020",
+        "source": "https://twitter.com/diprjk/status/1276515374687649794?s=20"
       }
     },
     "AS": {
@@ -422,12 +422,12 @@
         "active": 177
       },
       "testing_data": {
-        "tested": 269037,
-        "positive": 4769,
+        "tested": 276919,
+        "positive": 4957,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "25/06/2020",
-        "source": "http://pbhealth.gov.in/Media%20Bulletin%20COVID-19%2025-06-2020.pdf"
+        "date": "26/06/2020",
+        "source": "http://pbhealth.gov.in/"
       }
     },
     "KL": {
@@ -595,7 +595,7 @@
         "negative": 0,
         "unconfirmed": 0,
         "date": "26/06/2020",
-        "source": ""
+        "source": "https://twitter.com/DHS_Goa/status/1276523629358886915?s=20"
       }
     },
     "HP": {
@@ -734,11 +734,11 @@
         "active": -15
       },
       "testing_data": {
-        "tested": 11672,
-        "positive": 145,
+        "tested": 12753,
+        "positive": 147,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "25/06/2020",
+        "date": "26/06/2020",
         "source": "https://dipr.mizoram.gov.in/post/status-of-state-surveillance-of-covid-19-time-2462020-500pm-2562020-500-pm"
       }
     },
@@ -880,19 +880,19 @@
     }
   },
   "testing_data": {
-    "tested": 8842527,
-    "positive": 497627,
-    "negative": 5055031,
-    "unconfirmed": 19890
+    "tested": 8859410,
+    "positive": 498063,
+    "negative": 5062176,
+    "unconfirmed": 20889
   },
   "testing_data_imcr": {
     "tested": 7776228,
     "source": "https://twitter.com/ICMRDELHI/status/1276356899642859520"
   },
   "today": {
-    "confirmed": 7216,
-    "recovered": 4629,
-    "dead": 116,
-    "active": 2471
+    "confirmed": 10676,
+    "recovered": 6955,
+    "dead": 179,
+    "active": 3542
   }
 }
