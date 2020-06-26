@@ -1,9 +1,9 @@
 {
-  "confirmed": 496853,
-  "recovered": 288565,
+  "confirmed": 496872,
+  "recovered": 288793,
   "dead": 15390,
-  "active": 192843,
-  "updatedTime": "26/06/2020 19:03:13",
+  "active": 192634,
+  "updatedTime": "26/06/2020 19:23:13",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -35,7 +35,7 @@
       "active": 32308,
       "recovered": 41357,
       "dead": 957,
-      "updatedTime": "26/06/2020 19:03:14",
+      "updatedTime": "26/06/2020 19:06:15",
       "note": "2 deaths cross notified to other states from Chennai and Coimbatore.\n1 patient died after turning negative for infection in Chengalpattu.\nThese cases have been added to TN deceased tally",
       "stateCode": "TN",
       "today": {
@@ -203,7 +203,7 @@
       "active": 4657,
       "recovered": 8016,
       "dead": 211,
-      "updatedTime": "26/06/2020 19:03:18",
+      "updatedTime": "26/06/2020 19:15:15",
       "note": "",
       "stateCode": "HR",
       "today": {
@@ -278,36 +278,36 @@
         "active": 387
       },
       "testing_data": {
-        "tested": 769319,
-        "positive": 10884,
-        "negative": 758435,
+        "tested": 791624,
+        "positive": 0,
+        "negative": 780135,
         "unconfirmed": 0,
-        "date": "25/06/2020",
-        "source": "https://twitter.com/ArogyaAndhra/status/1276048820845940736?s=20"
+        "date": "26/06/2020",
+        "source": ""
       }
     },
     "BR": {
       "name": "Bihar",
       "confirmed": 8611,
-      "active": 2075,
-      "recovered": 6480,
+      "active": 1886,
+      "recovered": 6669,
       "dead": 56,
-      "updatedTime": "26/06/2020 15:36:15",
+      "updatedTime": "26/06/2020 19:23:26",
       "note": "",
       "stateCode": "BR",
       "today": {
         "confirmed": 123,
-        "recovered": 0,
+        "recovered": 189,
         "dead": 0,
-        "active": 123
+        "active": -66
       },
       "testing_data": {
-        "tested": 181737,
-        "positive": 8381,
+        "tested": 189643,
+        "positive": 8611,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "25/06/2020",
-        "source": "https://twitter.com/PIB_Patna/status/1276107290639126529"
+        "date": "26/06/2020",
+        "source": "https://twitter.com/PIB_Patna/status/1276504797948989440"
       }
     },
     "TG": {
@@ -412,7 +412,7 @@
       "active": 1634,
       "recovered": 3201,
       "dead": 122,
-      "updatedTime": "26/06/2020 19:03:20",
+      "updatedTime": "26/06/2020 19:06:18",
       "note": "",
       "stateCode": "PB",
       "today": {
@@ -604,7 +604,7 @@
       "active": 338,
       "recovered": 491,
       "dead": 8,
-      "updatedTime": "26/06/2020 19:03:22",
+      "updatedTime": "26/06/2020 19:06:20",
       "note": "HP has 14 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed",
       "stateCode": "HP",
       "today": {
@@ -624,18 +624,18 @@
     },
     "MN": {
       "name": "Manipur",
-      "confirmed": 1056,
-      "active": 702,
-      "recovered": 354,
+      "confirmed": 1075,
+      "active": 682,
+      "recovered": 393,
       "dead": 0,
-      "updatedTime": "25/06/2020 20:26:21",
+      "updatedTime": "26/06/2020 19:23:33",
       "note": "",
       "stateCode": "MN",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 19,
+        "recovered": 39,
         "dead": 0,
-        "active": 0
+        "active": -20
       },
       "testing_data": {
         "tested": 45253,
@@ -813,7 +813,7 @@
       "active": 29,
       "recovered": 43,
       "dead": 0,
-      "updatedTime": "26/06/2020 19:03:23",
+      "updatedTime": "26/06/2020 19:15:20",
       "note": "",
       "stateCode": "AN",
       "today": {
@@ -880,9 +880,9 @@
     }
   },
   "testing_data": {
-    "tested": 8732617,
-    "positive": 491253,
-    "negative": 4975432,
+    "tested": 8762828,
+    "positive": 480599,
+    "negative": 4997132,
     "unconfirmed": 20242
   },
   "testing_data_imcr": {
@@ -890,9 +890,9 @@
     "source": "https://twitter.com/ICMRDELHI/status/1276356899642859520"
   },
   "today": {
-    "confirmed": 5665,
-    "recovered": 2894,
+    "confirmed": 5684,
+    "recovered": 3122,
     "dead": 82,
-    "active": 2689
+    "active": 2480
   }
 }
