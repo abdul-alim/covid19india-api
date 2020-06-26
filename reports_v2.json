@@ -1,9 +1,9 @@
 {
-  "confirmed": 490827,
+  "confirmed": 491045,
   "recovered": 285671,
   "dead": 15308,
-  "active": 189793,
-  "updatedTime": "26/06/2020 10:53:13",
+  "active": 190011,
+  "updatedTime": "26/06/2020 11:11:13",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -384,18 +384,18 @@
     },
     "OR": {
       "name": "Odisha",
-      "confirmed": 5962,
-      "active": 1647,
+      "confirmed": 6180,
+      "active": 1865,
       "recovered": 4291,
       "dead": 24,
-      "updatedTime": "25/06/2020 17:36:15",
+      "updatedTime": "26/06/2020 11:11:15",
       "note": "Three non-covid deaths reported in state dashboard are included in the deceased count\n[June 22nd]: NDRF/ODRF cases have been redistributed to districts based on state dashboard",
       "stateCode": "OR",
       "today": {
-        "confirmed": 0,
+        "confirmed": 218,
         "recovered": 0,
         "dead": 0,
-        "active": 0
+        "active": 218
       },
       "testing_data": {
         "tested": 239815,
@@ -667,7 +667,7 @@
         "negative": 6618,
         "unconfirmed": 29,
         "date": "25/06/2020",
-        "source": ""
+        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/654"
       }
     },
     "PY": {
@@ -796,7 +796,7 @@
       "active": 115,
       "recovered": 38,
       "dead": 0,
-      "updatedTime": "26/06/2020 10:53:16",
+      "updatedTime": "26/06/2020 10:55:16",
       "note": "",
       "stateCode": "DN",
       "today": {
@@ -823,12 +823,12 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 13994,
-        "positive": 56,
+        "tested": 14277,
+        "positive": 59,
         "negative": 0,
-        "unconfirmed": 265,
-        "date": "24/06/2020",
-        "source": "https://dhs.andaman.gov.in/NewEvents/305.pdf"
+        "unconfirmed": 223,
+        "date": "25/06/2020",
+        "source": "https://dhs.andaman.gov.in/NewEvents/306.pdf"
       }
     },
     "ML": {
@@ -880,19 +880,19 @@
     }
   },
   "testing_data": {
-    "tested": 8709174,
-    "positive": 486616,
+    "tested": 8709457,
+    "positive": 486619,
     "negative": 4956906,
-    "unconfirmed": 20284
+    "unconfirmed": 20242
   },
   "testing_data_imcr": {
     "tested": 7776228,
     "source": "https://twitter.com/ICMRDELHI/status/1276356899642859520"
   },
   "today": {
-    "confirmed": -352,
+    "confirmed": -134,
     "recovered": 0,
     "dead": 0,
-    "active": -352
+    "active": -134
   }
 }
