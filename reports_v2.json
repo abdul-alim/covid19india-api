@@ -1,9 +1,9 @@
 {
-  "confirmed": 515922,
-  "recovered": 300648,
-  "dead": 15814,
-  "active": 199402,
-  "updatedTime": "27/06/2020 18:46:16",
+  "confirmed": 518936,
+  "recovered": 302945,
+  "dead": 15880,
+  "active": 200053,
+  "updatedTime": "27/06/2020 19:22:13",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -55,18 +55,18 @@
     },
     "DL": {
       "name": "Delhi",
-      "confirmed": 77240,
-      "active": 27657,
-      "recovered": 47091,
-      "dead": 2492,
-      "updatedTime": "26/06/2020 21:06:15",
+      "confirmed": 80188,
+      "active": 28329,
+      "recovered": 49301,
+      "dead": 2558,
+      "updatedTime": "27/06/2020 19:21:15",
       "note": "Delhi bulletins in the morning, containing data of the previous day. We will add that data to the date on which the report is released, rather than the previous day.\n[June 16]: 344 deceased cases have been retroactively added to DL bulletin.",
       "stateCode": "DL",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 2948,
+        "recovered": 2210,
+        "dead": 66,
+        "active": 672
       },
       "testing_data": {
         "tested": 459156,
@@ -165,12 +165,12 @@
         "active": 254
       },
       "testing_data": {
-        "tested": 448795,
-        "positive": 16190,
+        "tested": 458343,
+        "positive": 16711,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "26/06/2020",
-        "source": "https://www.wbhealth.gov.in/uploaded_files/corona/WB_DHFW_Bulletin_26th_JUNE_REPORT_FINAL.pdf"
+        "date": "27/06/2020",
+        "source": "https://www.wbhealth.gov.in/uploaded_files/corona/WB_DHFW_Bulletin_27th_JUNE_REPORT_FINAL.pdf"
       }
     },
     "MP": {
@@ -278,12 +278,12 @@
         "active": 501
       },
       "testing_data": {
-        "tested": 791624,
-        "positive": 11489,
-        "negative": 780135,
+        "tested": 816082,
+        "positive": 12285,
+        "negative": 803797,
         "unconfirmed": 0,
-        "date": "26/06/2020",
-        "source": "https://twitter.com/ArogyaAndhra/status/1276423313644908544?s=20"
+        "date": "27/06/2020",
+        "source": "https://twitter.com/ArogyaAndhra/status/1276792776168898561?s=20"
       }
     },
     "BR": {
@@ -302,12 +302,12 @@
         "active": -82
       },
       "testing_data": {
-        "tested": 189643,
-        "positive": 8611,
+        "tested": 198385,
+        "positive": 8859,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "26/06/2020",
-        "source": "https://twitter.com/PIB_Patna/status/1276504797948989440"
+        "date": "27/06/2020",
+        "source": "https://twitter.com/PIB_Patna/status/1276845287353364488?s=20"
       }
     },
     "TG": {
@@ -446,28 +446,28 @@
         "active": 93
       },
       "testing_data": {
-        "tested": 209456,
-        "positive": 3877,
+        "tested": 215243,
+        "positive": 0,
         "negative": 0,
-        "unconfirmed": 4510,
-        "date": "26/06/2020",
-        "source": "https://dhs.kerala.gov.in/wp-content/uploads/2020/06/Bulletin-HFWD-English-June-26-1.pdf"
+        "unconfirmed": 0,
+        "date": "27/06/2020",
+        "source": ""
       }
     },
     "UT": {
       "name": "Uttarakhand",
-      "confirmed": 2725,
-      "active": 848,
-      "recovered": 1822,
+      "confirmed": 2791,
+      "active": 827,
+      "recovered": 1909,
       "dead": 37,
-      "updatedTime": "26/06/2020 21:55:22",
+      "updatedTime": "27/06/2020 19:22:15",
       "note": "18 Migrated cases reduced from Active count",
       "stateCode": "UT",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 66,
+        "recovered": 87,
         "dead": 0,
-        "active": 0
+        "active": -21
       },
       "testing_data": {
         "tested": 62500,
@@ -880,19 +880,19 @@
     }
   },
   "testing_data": {
-    "tested": 8978942,
-    "positive": 510392,
-    "negative": 5426974,
-    "unconfirmed": 19429
+    "tested": 9027477,
+    "positive": 508080,
+    "negative": 5450636,
+    "unconfirmed": 14919
   },
   "testing_data_imcr": {
     "tested": 7996707,
     "source": "https://twitter.com/ICMRDELHI/status/1276720050066452481?s=20"
   },
   "today": {
-    "confirmed": 6476,
-    "recovered": 4731,
-    "dead": 125,
-    "active": 1620
+    "confirmed": 9490,
+    "recovered": 7028,
+    "dead": 191,
+    "active": 2271
   }
 }
