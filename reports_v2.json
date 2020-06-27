@@ -1,31 +1,32 @@
 {
-  "confirmed": 519578,
-  "recovered": 303526,
-  "dead": 15888,
-  "active": 200106,
-  "updatedTime": "27/06/2020 20:03:13",
+  "confirmed": 526113,
+  "recovered": 308123,
+  "dead": 16059,
+  "active": 201873,
+  "updatedTime": "27/06/2020 20:23:13",
   "states": {
     "MH": {
       "name": "Maharashtra",
-      "confirmed": 152765,
-      "active": 65829,
-      "recovered": 79815,
-      "dead": 7106,
-      "updatedTime": "26/06/2020 21:26:15",
+      "confirmed": 159133,
+      "active": 67600,
+      "recovered": 84245,
+      "dead": 7273,
+      "updatedTime": "27/06/2020 20:23:14",
       "note": "15 cases were marked as non-covid deaths in MH bulletin. These have been reduced from deceased and active counts\n[June 16] : 1328 deceased cases have been retroactively added to MH bulletin.\n[June 20]: 69 deceased cases have been reduced based on state bulletin.\n",
       "stateCode": "MH",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 6368,
+        "recovered": 4430,
+        "dead": 167,
+        "active": 1771
       },
       "testing_data": {
-        "tested": 0,
-        "positive": 0,
-        "negative": 0,
+        "tested": 900423,
+        "positive": 162168,
+        "negative": 738255,
         "unconfirmed": 0,
-        "updated": false
+        "date": "27/06/2020",
+        "source": "https://twitter.com/Maha_MEDD/status/1276754793164201985?s=20"
       }
     },
     "TN": {
@@ -44,11 +45,12 @@
         "active": 908
       },
       "testing_data": {
-        "tested": 0,
-        "positive": 0,
-        "negative": 0,
-        "unconfirmed": 0,
-        "updated": false
+        "tested": 1077454,
+        "positive": 78335,
+        "negative": 998543,
+        "unconfirmed": 546,
+        "date": "27/06/2020",
+        "source": "https://stopcorona.tn.gov.in/wp-content/uploads/2020/06/Media-Bulletin-27.06.2020-23-Pages-English-441-KB.pdf"
       }
     },
     "DL": {
@@ -115,11 +117,12 @@
         "active": -45
       },
       "testing_data": {
-        "tested": 0,
-        "positive": 0,
+        "tested": 663096,
+        "positive": 21549,
         "negative": 0,
         "unconfirmed": 0,
-        "updated": false
+        "date": "27/06/2020",
+        "source": "https://twitter.com/UPGovt/status/1276847643361021954?s=20"
       }
     },
     "RJ": {
@@ -138,11 +141,12 @@
         "active": 25
       },
       "testing_data": {
-        "tested": 0,
-        "positive": 0,
-        "negative": 0,
-        "unconfirmed": 0,
-        "updated": false
+        "tested": 770174,
+        "positive": 16660,
+        "negative": 750535,
+        "unconfirmed": 2979,
+        "date": "26/06/2020",
+        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/684"
       }
     },
     "WB": {
@@ -161,34 +165,36 @@
         "active": 254
       },
       "testing_data": {
-        "tested": 0,
-        "positive": 0,
+        "tested": 458343,
+        "positive": 16711,
         "negative": 0,
         "unconfirmed": 0,
-        "updated": false
+        "date": "27/06/2020",
+        "source": "https://www.wbhealth.gov.in/uploaded_files/corona/WB_DHFW_Bulletin_27th_JUNE_REPORT_FINAL.pdf"
       }
     },
     "MP": {
       "name": "Madhya Pradesh",
-      "confirmed": 12798,
-      "active": 2448,
-      "recovered": 9804,
-      "dead": 546,
-      "updatedTime": "26/06/2020 20:23:17",
+      "confirmed": 12965,
+      "active": 2444,
+      "recovered": 9971,
+      "dead": 550,
+      "updatedTime": "27/06/2020 20:21:16",
       "note": "",
       "stateCode": "MP",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 167,
+        "recovered": 167,
+        "dead": 4,
+        "active": -4
       },
       "testing_data": {
-        "tested": 0,
-        "positive": 0,
-        "negative": 0,
+        "tested": 329079,
+        "positive": 12798,
+        "negative": 312463,
         "unconfirmed": 0,
-        "updated": false
+        "date": "26/06/2020",
+        "source": "https://twitter.com/healthminmp/status/1276520347655761925?s=20"
       }
     },
     "HR": {
@@ -197,7 +203,7 @@
       "active": 4737,
       "recovered": 8472,
       "dead": 218,
-      "updatedTime": "27/06/2020 20:03:15",
+      "updatedTime": "27/06/2020 20:15:20",
       "note": "",
       "stateCode": "HR",
       "today": {
@@ -212,7 +218,7 @@
         "negative": 228275,
         "unconfirmed": 5437,
         "date": "27/06/2020",
-        "source": ""
+        "source": "http://www.nhmharyana.gov.in/WriteReadData/userfiles/file/CoronaVirus/Daily%20Bulletin%20of%20COVID%2019%20as%20on%2027-06-20%20Evening.pdf"
       }
     },
     "UN": {
@@ -320,11 +326,12 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 0,
-        "positive": 0,
-        "negative": 0,
+        "tested": 75308,
+        "positive": 12349,
+        "negative": 62959,
         "unconfirmed": 0,
-        "updated": false
+        "date": "26/06/2020",
+        "source": "https://twitter.com/Eatala_Rajender/status/1276560765541998593?s=20"
       }
     },
     "JK": {
@@ -333,7 +340,7 @@
       "active": 2648,
       "recovered": 4225,
       "dead": 93,
-      "updatedTime": "27/06/2020 20:03:18",
+      "updatedTime": "27/06/2020 20:15:22",
       "note": "",
       "stateCode": "JK",
       "today": {
@@ -391,11 +398,12 @@
         "active": -15
       },
       "testing_data": {
-        "tested": 0,
-        "positive": 0,
+        "tested": 249902,
+        "positive": 6350,
         "negative": 0,
         "unconfirmed": 0,
-        "updated": false
+        "date": "27/06/2020",
+        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/689"
       }
     },
     "PB": {
@@ -414,11 +422,12 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 0,
-        "positive": 0,
+        "tested": 284431,
+        "positive": 5056,
         "negative": 0,
         "unconfirmed": 0,
-        "updated": false
+        "date": "27/06/2020",
+        "source": "http://pbhealth.gov.in/"
       }
     },
     "KL": {
@@ -461,11 +470,12 @@
         "active": -21
       },
       "testing_data": {
-        "tested": 0,
-        "positive": 0,
-        "negative": 0,
-        "unconfirmed": 0,
-        "updated": false
+        "tested": 62500,
+        "positive": 2725,
+        "negative": 54007,
+        "unconfirmed": 3292,
+        "date": "26/06/2020",
+        "source": "https://twitter.com/PIBDehradun/status/1276514328678592517?s=20"
       }
     },
     "CT": {
@@ -532,11 +542,12 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 0,
-        "positive": 0,
-        "negative": 0,
+        "tested": 60199,
+        "positive": 1330,
+        "negative": 58869,
         "unconfirmed": 0,
-        "updated": false
+        "date": "26/06/2020",
+        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/676"
       }
     },
     "LA": {
@@ -555,12 +566,12 @@
         "active": -73
       },
       "testing_data": {
-        "tested": 13636,
-        "positive": 946,
-        "negative": 11563,
-        "unconfirmed": 435,
-        "date": "26/06/2020",
-        "source": "https://www.facebook.com/114874993303412/photos/pcb.192529798871264/192529685537942/?type=3&__tn__=HH-R&eid=ARDJ4qqD28K9wEMi5apHUkHcxrOw1bjLBtJRgffkraL-qZ5vuPwqVOhw6SsmCfpyONSzhjQTLxf4QHsf&__xts__%5B0%5D=68.ARBh4MJ9LTHH2C2AdgrAqmpT-YANMYluj9w2ziI6-CkXXQKgT-V4LH_xxrDCvNR56uYlnObc-7ztuSerWiA23PeehFx_snal4K6fM_ow6XVt_-A-OaolCnbK9Dkstpm7jR9ly-m7x9r51ATIYMSG0s4GLK4e9aO8sq9JBiyRz2p_KutwX3fUO_2ebffhcWYIEMi7a5U3fAWWdxBrc4tMmWc4ZP76WzfLFmEeabncSOIm662HqgBftAbeuah3fcRGuUdQz4dsSKodOz-hNNwjpvWXxLFzy7JD5b9D0lGUepOUKaujU6_fk-noYgm8ASbZHe-WmVOPIkvSkeEXa8WwYOM"
+        "tested": 13717,
+        "positive": 960,
+        "negative": 11775,
+        "unconfirmed": 269,
+        "date": "27/06/2020",
+        "source": "https://www.facebook.com/114874993303412/photos/pcb.192785895512321/192785738845670/?type=3&__tn__=HH-R&eid=ARBSQHVxwNtUqr8oxqz0kSjrNkfR0k_sOg0g4wnT7mZrvNMn-wJIyzFXL3Xac47LaNRfbdV-BQwjdppg&__xts__%5B0%5D=68.ARBht_JYDEZbXPAJmC7SbIKg5SPJxALIbWU4O-QIMBvOpc5tw6EUee0PaJIFAb4TjMSH-7LHXkKRZYs2CInmSxPzTMXIcBX_FnBCH0_e7biM5Y7IOt4Zu34Df9OLG1IL1mU4tjqFbjGOoOjm9i5R_qXTxkrhALNIVgEnAgct6mSlElLh8vjBCNhje5AOnSbVRcegji_ep-PCRSR3Z_bSonLtdqlhO4x3MwxVlUoUBIygj8CiUN2vanUQJXXhdAMvaMFK7E1qBujLgGCV3HmKxmlyxRyw2G0vELRylbgSSetUTrwZqvt5BJThNMSCVi2KxT4FJkThvvU8jfor009i1FU"
       }
     },
     "GA": {
@@ -627,11 +638,12 @@
         "active": -22
       },
       "testing_data": {
-        "tested": 0,
-        "positive": 0,
+        "tested": 45253,
+        "positive": 1056,
         "negative": 0,
         "unconfirmed": 0,
-        "updated": false
+        "date": "25/06/2020",
+        "source": "https://twitter.com/DiprManipur/status/1276183415172276225?s=20"
       }
     },
     "CH": {
@@ -674,11 +686,12 @@
         "active": 68
       },
       "testing_data": {
-        "tested": 0,
-        "positive": 0,
-        "negative": 0,
-        "unconfirmed": 0,
-        "updated": false
+        "tested": 15225,
+        "positive": 654,
+        "negative": 14380,
+        "unconfirmed": 191,
+        "date": "27/06/2020",
+        "source": "https://covid19dashboard.py.gov.in/LabTestReport"
       }
     },
     "NL": {
@@ -697,11 +710,12 @@
         "active": 14
       },
       "testing_data": {
-        "tested": 0,
-        "positive": 0,
+        "tested": 14217,
+        "positive": 387,
         "negative": 0,
         "unconfirmed": 0,
-        "updated": false
+        "date": "27/06/2020",
+        "source": "https://twitter.com/MyGovNagaland/status/1276851882221121536?s=20"
       }
     },
     "MZ": {
@@ -720,11 +734,12 @@
         "active": -7
       },
       "testing_data": {
-        "tested": 0,
-        "positive": 0,
+        "tested": 12753,
+        "positive": 147,
         "negative": 0,
         "unconfirmed": 0,
-        "updated": false
+        "date": "26/06/2020",
+        "source": "https://dipr.mizoram.gov.in/post/status-of-state-surveillance-of-covid-19-time-2562020-500pm-2662020-500-pm"
       }
     },
     "AR": {
@@ -767,11 +782,12 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 0,
-        "positive": 0,
+        "tested": 10212,
+        "positive": 86,
         "negative": 0,
         "unconfirmed": 0,
-        "updated": false
+        "date": "26/06/2020",
+        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/683"
       }
     },
     "DN": {
@@ -831,11 +847,12 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 0,
-        "positive": 0,
+        "tested": 17784,
+        "positive": 46,
         "negative": 0,
         "unconfirmed": 0,
-        "updated": false
+        "date": "26/06/2020",
+        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/673"
       }
     },
     "LD": {
@@ -863,19 +880,19 @@
     }
   },
   "testing_data": {
-    "tested": 4077212,
-    "positive": 181942,
-    "negative": 2497286,
-    "unconfirmed": 13581
+    "tested": 9123646,
+    "positive": 520363,
+    "negative": 5487509,
+    "unconfirmed": 20423
   },
   "testing_data_imcr": {
     "tested": 7996707,
     "source": "https://twitter.com/ICMRDELHI/status/1276720050066452481?s=20"
   },
   "today": {
-    "confirmed": 10132,
-    "recovered": 7609,
-    "dead": 199,
-    "active": 2324
+    "confirmed": 16667,
+    "recovered": 12206,
+    "dead": 370,
+    "active": 4091
   }
 }
