@@ -1,9 +1,9 @@
 {
-  "confirmed": 509447,
+  "confirmed": 509347,
   "recovered": 295917,
   "dead": 15689,
-  "active": 197785,
-  "updatedTime": "27/06/2020 09:13:13",
+  "active": 197685,
+  "updatedTime": "27/06/2020 09:41:13",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -223,18 +223,18 @@
     },
     "UN": {
       "name": "State Unassigned",
-      "confirmed": 8123,
-      "active": 8123,
+      "confirmed": 8023,
+      "active": 8023,
       "recovered": 0,
       "dead": 0,
-      "updatedTime": "26/06/2020 09:44:16",
-      "note": "MoHFW website reports that these are the 'cases that are being reassigned to states'. ",
+      "updatedTime": "27/06/2020 09:41:15",
+      "note": "MoHFW website reports that these are the 'cases that are being reassigned to states'. 100 cases were decreased in this category today by MoHFW. We have removed these cases from this category",
       "stateCode": "UN",
       "today": {
-        "confirmed": 0,
+        "confirmed": -100,
         "recovered": 0,
         "dead": 0,
-        "active": 0
+        "active": -100
       },
       "isUnknown": true
     },
@@ -724,7 +724,7 @@
       "active": 101,
       "recovered": 47,
       "dead": 0,
-      "updatedTime": "27/06/2020 09:13:17",
+      "updatedTime": "27/06/2020 09:16:16",
       "note": "",
       "stateCode": "MZ",
       "today": {
@@ -890,9 +890,9 @@
     "source": "https://twitter.com/ICMRDELHI/status/1276356899642859520"
   },
   "today": {
-    "confirmed": 1,
+    "confirmed": -99,
     "recovered": 0,
     "dead": 0,
-    "active": 1
+    "active": -99
   }
 }
