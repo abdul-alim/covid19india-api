@@ -1,9 +1,9 @@
 {
   "confirmed": 529331,
   "recovered": 310146,
-  "dead": 16102,
-  "active": 203027,
-  "updatedTime": "27/06/2020 23:23:13",
+  "dead": 16103,
+  "active": 203026,
+  "updatedTime": "27/06/2020 23:40:13",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -93,12 +93,12 @@
         "active": 216
       },
       "testing_data": {
-        "tested": 351179,
-        "positive": 30158,
-        "negative": 321021,
+        "tested": 357148,
+        "positive": 30773,
+        "negative": 0,
         "unconfirmed": 0,
-        "date": "26/06/2020",
-        "source": "https://twitter.com/PIBAhmedabad/status/1276512497063858178?s=20"
+        "date": "27/06/2020",
+        "source": "https://twitter.com/PIBAhmedabad/status/1276893503428136964?s=20"
       }
     },
     "UP": {
@@ -361,17 +361,17 @@
     "AS": {
       "name": "Assam",
       "confirmed": 6920,
-      "active": 2093,
+      "active": 2092,
       "recovered": 4815,
-      "dead": 9,
-      "updatedTime": "27/06/2020 22:04:17",
+      "dead": 10,
+      "updatedTime": "27/06/2020 23:40:15",
       "note": "Includes one case from Nagaland.\nTotal of 3 patients who migrated to other states has been reduced from Active count",
       "stateCode": "AS",
       "today": {
         "confirmed": 0,
         "recovered": 567,
-        "dead": 0,
-        "active": -567
+        "dead": 1,
+        "active": -568
       },
       "testing_data": {
         "tested": 374519,
@@ -494,12 +494,12 @@
         "active": 5
       },
       "testing_data": {
-        "tested": 144828,
-        "positive": 2545,
+        "tested": 152874,
+        "positive": 2602,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "26/06/2020",
-        "source": "https://twitter.com/HealthCgGov/status/1276540681649942528?s=20"
+        "date": "27/06/2020",
+        "source": ""
       }
     },
     "JH": {
@@ -532,7 +532,7 @@
       "active": 260,
       "recovered": 1078,
       "dead": 1,
-      "updatedTime": "27/06/2020 23:23:18",
+      "updatedTime": "27/06/2020 23:26:18",
       "note": "",
       "stateCode": "TR",
       "today": {
@@ -614,12 +614,12 @@
         "active": 23
       },
       "testing_data": {
-        "tested": 74695,
-        "positive": 874,
-        "negative": 71813,
-        "unconfirmed": 2008,
+        "tested": 74764,
+        "positive": 894,
+        "negative": 73722,
+        "unconfirmed": 148,
         "date": "27/06/2020",
-        "source": "https://twitter.com/nhm_hp/status/1276880246713827328?s=20"
+        "source": "https://twitter.com/nhm_hp/status/1276908964265881600?s=20"
       }
     },
     "MN": {
@@ -772,7 +772,7 @@
       "active": 38,
       "recovered": 49,
       "dead": 0,
-      "updatedTime": "27/06/2020 23:23:20",
+      "updatedTime": "27/06/2020 23:32:18",
       "note": "",
       "stateCode": "SK",
       "today": {
@@ -880,10 +880,10 @@
     }
   },
   "testing_data": {
-    "tested": 9192105,
-    "positive": 523548,
-    "negative": 5553556,
-    "unconfirmed": 21420
+    "tested": 9206189,
+    "positive": 524240,
+    "negative": 5234444,
+    "unconfirmed": 19560
   },
   "testing_data_imcr": {
     "tested": 7996707,
@@ -892,7 +892,7 @@
   "today": {
     "confirmed": 19886,
     "recovered": 14229,
-    "dead": 413,
-    "active": 5244
+    "dead": 414,
+    "active": 5243
   }
 }

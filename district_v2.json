@@ -1169,8 +1169,8 @@
     },
     "confirmed": 6920,
     "recovered": 4815,
-    "dead": 9,
-    "active": 2093
+    "dead": 10,
+    "active": 2092
   },
   "BR": {
     "state": "Bihar",
@@ -9490,14 +9490,14 @@
       {
         "district": "Dhalai",
         "notes": "",
-        "active": 10,
+        "active": 12,
         "confirmed": 213,
-        "recovered": 203,
+        "recovered": 201,
         "dead": 0,
         "today": {
           "confirmed": 2,
-          "recovered": 1,
-          "active": 1,
+          "recovered": -1,
+          "active": 3,
           "dead": 0
         }
       },
@@ -9602,8 +9602,8 @@
     ],
     "today": {
       "confirmed": 9,
-      "active": -9,
-      "recovered": 18,
+      "active": -7,
+      "recovered": 16,
       "dead": 0
     },
     "confirmed": 1339,
