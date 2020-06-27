@@ -1,9 +1,9 @@
 {
   "confirmed": 529331,
-  "recovered": 310136,
+  "recovered": 310146,
   "dead": 16102,
-  "active": 203037,
-  "updatedTime": "27/06/2020 23:13:14",
+  "active": 203027,
+  "updatedTime": "27/06/2020 23:23:13",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -142,11 +142,11 @@
       },
       "testing_data": {
         "tested": 784803,
-        "positive": 0,
-        "negative": 0,
-        "unconfirmed": 0,
+        "positive": 16944,
+        "negative": 764966,
+        "unconfirmed": 2893,
         "date": "27/06/2020",
-        "source": ""
+        "source": "http://rajswasthya.nic.in/"
       }
     },
     "WB": {
@@ -326,12 +326,12 @@
         "active": 919
       },
       "testing_data": {
-        "tested": 75308,
-        "positive": 12349,
-        "negative": 62959,
+        "tested": 79231,
+        "positive": 13436,
+        "negative": 65795,
         "unconfirmed": 0,
-        "date": "26/06/2020",
-        "source": "https://twitter.com/Eatala_Rajender/status/1276560765541998593?s=20"
+        "date": "27/06/2020",
+        "source": "https://twitter.com/Eatala_Rajender/status/1276920940027236353?s=20"
       }
     },
     "JK": {
@@ -484,7 +484,7 @@
       "active": 652,
       "recovered": 1937,
       "dead": 13,
-      "updatedTime": "27/06/2020 23:10:17",
+      "updatedTime": "27/06/2020 23:16:16",
       "note": "",
       "stateCode": "CT",
       "today": {
@@ -532,7 +532,7 @@
       "active": 260,
       "recovered": 1078,
       "dead": 1,
-      "updatedTime": "27/06/2020 23:13:17",
+      "updatedTime": "27/06/2020 23:23:18",
       "note": "",
       "stateCode": "TR",
       "today": {
@@ -542,12 +542,12 @@
         "active": -7
       },
       "testing_data": {
-        "tested": 60199,
-        "positive": 1330,
-        "negative": 58869,
+        "tested": 61194,
+        "positive": 1339,
+        "negative": 59855,
         "unconfirmed": 0,
-        "date": "26/06/2020",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/676"
+        "date": "27/06/2020",
+        "source": "https://covid19.tripura.gov.in/Visitor/ViewStatus.aspx"
       }
     },
     "LA": {
@@ -769,17 +769,17 @@
     "SK": {
       "name": "Sikkim",
       "confirmed": 87,
-      "active": 48,
-      "recovered": 39,
+      "active": 38,
+      "recovered": 49,
       "dead": 0,
-      "updatedTime": "27/06/2020 00:02:17",
+      "updatedTime": "27/06/2020 23:23:20",
       "note": "",
       "stateCode": "SK",
       "today": {
         "confirmed": 0,
-        "recovered": 0,
+        "recovered": 10,
         "dead": 0,
-        "active": 0
+        "active": -10
       },
       "testing_data": {
         "tested": 10219,
@@ -880,10 +880,10 @@
     }
   },
   "testing_data": {
-    "tested": 9187187,
-    "positive": 505508,
-    "negative": 4784768,
-    "unconfirmed": 18527
+    "tested": 9192105,
+    "positive": 523548,
+    "negative": 5553556,
+    "unconfirmed": 21420
   },
   "testing_data_imcr": {
     "tested": 7996707,
@@ -891,8 +891,8 @@
   },
   "today": {
     "confirmed": 19886,
-    "recovered": 14219,
+    "recovered": 14229,
     "dead": 413,
-    "active": 5254
+    "active": 5244
   }
 }
