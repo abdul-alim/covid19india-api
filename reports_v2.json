@@ -1,9 +1,9 @@
 {
-  "confirmed": 529580,
+  "confirmed": 529421,
   "recovered": 310146,
   "dead": 16103,
-  "active": 203275,
-  "updatedTime": "28/06/2020 09:53:13",
+  "active": 203116,
+  "updatedTime": "28/06/2020 10:03:13",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -223,18 +223,18 @@
     },
     "UN": {
       "name": "State Unassigned",
-      "confirmed": 8023,
-      "active": 8023,
+      "confirmed": 7839,
+      "active": 7839,
       "recovered": 0,
       "dead": 0,
-      "updatedTime": "27/06/2020 09:41:15",
-      "note": "MoHFW website reports that these are the 'cases that are being reassigned to states'. ",
+      "updatedTime": "28/06/2020 10:03:15",
+      "note": "MoHFW website reports that these are the 'cases that are being reassigned to states'. 184 cases were decreased in this category today by MoHFW. We have removed these cases from this category",
       "stateCode": "UN",
       "today": {
-        "confirmed": 0,
+        "confirmed": -184,
         "recovered": 0,
         "dead": 0,
-        "active": 0
+        "active": -184
       },
       "isUnknown": true
     },
@@ -696,18 +696,18 @@
     },
     "NL": {
       "name": "Nagaland",
-      "confirmed": 387,
-      "active": 223,
+      "confirmed": 412,
+      "active": 248,
       "recovered": 164,
       "dead": 0,
-      "updatedTime": "27/06/2020 17:57:15",
+      "updatedTime": "28/06/2020 10:03:18",
       "note": "",
       "stateCode": "NL",
       "today": {
-        "confirmed": 0,
+        "confirmed": 25,
         "recovered": 0,
         "dead": 0,
-        "active": 0
+        "active": 25
       },
       "testing_data": {
         "tested": 14217,
@@ -890,9 +890,9 @@
     "source": "https://twitter.com/ICMRDELHI/status/1277084645016797190"
   },
   "today": {
-    "confirmed": 1,
+    "confirmed": -158,
     "recovered": 0,
     "dead": 0,
-    "active": 1
+    "active": -158
   }
 }
