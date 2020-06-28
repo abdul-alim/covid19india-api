@@ -939,15 +939,15 @@
       {
         "district": "Kamrup Metropolitan",
         "notes": "",
-        "active": 530,
+        "active": 529,
         "confirmed": 917,
         "recovered": 383,
-        "dead": 4,
+        "dead": 5,
         "today": {
           "confirmed": 0,
           "recovered": 0,
-          "active": 0,
-          "dead": 0
+          "active": -1,
+          "dead": 1
         }
       },
       {
@@ -1163,14 +1163,14 @@
     ],
     "today": {
       "confirmed": 0,
-      "active": 0,
+      "active": -1,
       "recovered": 0,
-      "dead": 0
+      "dead": 1
     },
     "confirmed": 7166,
     "recovered": 5089,
-    "dead": 10,
-    "active": 2064
+    "dead": 11,
+    "active": 2063
   },
   "BR": {
     "state": "Bihar",
@@ -9504,28 +9504,28 @@
       {
         "district": "Gomati",
         "notes": "",
-        "active": 39,
-        "confirmed": 137,
+        "active": 40,
+        "confirmed": 138,
         "recovered": 98,
         "dead": 0,
         "today": {
-          "confirmed": 0,
+          "confirmed": 1,
           "recovered": 0,
-          "active": 0,
+          "active": 1,
           "dead": 0
         }
       },
       {
         "district": "Khowai",
         "notes": "",
-        "active": 31,
-        "confirmed": 61,
+        "active": 34,
+        "confirmed": 64,
         "recovered": 30,
         "dead": 0,
         "today": {
-          "confirmed": 0,
+          "confirmed": 3,
           "recovered": 0,
-          "active": 0,
+          "active": 3,
           "dead": 0
         }
       },
@@ -9546,14 +9546,14 @@
       {
         "district": "Sipahijala",
         "notes": "",
-        "active": 44,
-        "confirmed": 552,
+        "active": 52,
+        "confirmed": 560,
         "recovered": 508,
         "dead": 0,
         "today": {
-          "confirmed": 0,
+          "confirmed": 8,
           "recovered": 0,
-          "active": 0,
+          "active": 8,
           "dead": 0
         }
       },
@@ -9601,15 +9601,15 @@
       }
     ],
     "today": {
-      "confirmed": 0,
-      "active": 0,
+      "confirmed": 12,
+      "active": 12,
       "recovered": 0,
       "dead": 0
     },
-    "confirmed": 1339,
+    "confirmed": 1351,
     "recovered": 1078,
     "dead": 1,
-    "active": 260
+    "active": 272
   },
   "UP": {
     "state": "Uttar Pradesh",
