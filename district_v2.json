@@ -323,12 +323,12 @@
         "district": "Changlang",
         "notes": "",
         "active": 52,
-        "confirmed": 77,
-        "recovered": 25,
+        "confirmed": 78,
+        "recovered": 26,
         "dead": 0,
         "today": {
-          "confirmed": 0,
-          "recovered": 0,
+          "confirmed": 1,
+          "recovered": 1,
           "active": 0,
           "dead": 0
         }
@@ -350,14 +350,14 @@
       {
         "district": "East Siang",
         "notes": "",
-        "active": 5,
+        "active": 0,
         "confirmed": 10,
-        "recovered": 5,
+        "recovered": 10,
         "dead": 0,
         "today": {
           "confirmed": 0,
-          "recovered": 0,
-          "active": 0,
+          "recovered": 5,
+          "active": -5,
           "dead": 0
         }
       },
@@ -490,14 +490,14 @@
       {
         "district": "Namsai",
         "notes": "",
-        "active": 7,
-        "confirmed": 10,
+        "active": 8,
+        "confirmed": 11,
         "recovered": 3,
         "dead": 0,
         "today": {
-          "confirmed": 0,
+          "confirmed": 1,
           "recovered": 0,
-          "active": 0,
+          "active": 1,
           "dead": 0
         }
       },
@@ -518,14 +518,14 @@
       {
         "district": "Papum Pare",
         "notes": "",
-        "active": 35,
-        "confirmed": 43,
+        "active": 38,
+        "confirmed": 46,
         "recovered": 8,
         "dead": 0,
         "today": {
-          "confirmed": 0,
+          "confirmed": 3,
           "recovered": 0,
-          "active": 0,
+          "active": 3,
           "dead": 0
         }
       },
@@ -657,15 +657,15 @@
       }
     ],
     "today": {
-      "confirmed": 0,
-      "active": 0,
-      "recovered": 0,
+      "confirmed": 5,
+      "active": -1,
+      "recovered": 6,
       "dead": 0
     },
-    "confirmed": 177,
-    "recovered": 54,
+    "confirmed": 182,
+    "recovered": 60,
     "dead": 1,
-    "active": 122
+    "active": 121
   },
   "AS": {
     "state": "Assam",
