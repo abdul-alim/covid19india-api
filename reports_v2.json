@@ -1,9 +1,9 @@
 {
-  "confirmed": 535066,
-  "recovered": 312901,
-  "dead": 16182,
-  "active": 205924,
-  "updatedTime": "28/06/2020 18:23:14",
+  "confirmed": 537957,
+  "recovered": 316213,
+  "dead": 16247,
+  "active": 205441,
+  "updatedTime": "28/06/2020 18:53:13",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -32,11 +32,11 @@
     "TN": {
       "name": "Tamil Nadu",
       "confirmed": 82275,
-      "active": 35656,
+      "active": 35659,
       "recovered": 45537,
       "dead": 1079,
-      "updatedTime": "28/06/2020 18:23:16",
-      "note": "2 deaths cross notified to other states from Chennai and Coimbatore.\n1 patient died after turning negative for infection in Chengalpattu.\nThese cases have been reduced from active and deceased counts for Chennai",
+      "updatedTime": "28/06/2020 18:42:16",
+      "note": "2 deaths cross notified to other states from Chennai and Coimbatore.\n1 patient died after turning negative for infection in Chengalpattu.\nThese cases have been added to TN deceased tally",
       "stateCode": "TN",
       "today": {
         "confirmed": 3940,
@@ -55,18 +55,18 @@
     },
     "DL": {
       "name": "Delhi",
-      "confirmed": 80188,
-      "active": 28329,
-      "recovered": 49301,
-      "dead": 2558,
-      "updatedTime": "27/06/2020 19:25:15",
+      "confirmed": 83077,
+      "active": 27847,
+      "recovered": 52607,
+      "dead": 2623,
+      "updatedTime": "28/06/2020 18:42:21",
       "note": "Delhi bulletins in the morning, containing data of the previous day. We will add that data to the date on which the report is released, rather than the previous day.\n[June 16]: 344 deceased cases have been retroactively added to DL bulletin.",
       "stateCode": "DL",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 2889,
+        "recovered": 3306,
+        "dead": 65,
+        "active": -482
       },
       "testing_data": {
         "tested": 478336,
@@ -436,7 +436,7 @@
       "active": 2015,
       "recovered": 2150,
       "dead": 23,
-      "updatedTime": "28/06/2020 18:23:20",
+      "updatedTime": "28/06/2020 18:36:23",
       "note": "Mahe native who expired in Kannur included in Kerala's tally.\nOne patient who absconded from Palakkad to TN and one patient who returned back to Maharashtra has been reduced from active count",
       "stateCode": "KL",
       "today": {
@@ -792,33 +792,33 @@
     },
     "DN": {
       "name": "Dadra and Nagar Haveli and Daman and Diu",
-      "confirmed": 187,
-      "active": 122,
-      "recovered": 64,
+      "confirmed": 188,
+      "active": 118,
+      "recovered": 69,
       "dead": 0,
-      "updatedTime": "28/06/2020 18:16:24",
+      "updatedTime": "28/06/2020 18:53:17",
       "note": "",
       "stateCode": "DN",
       "today": {
-        "confirmed": 3,
-        "recovered": 8,
+        "confirmed": 4,
+        "recovered": 13,
         "dead": 0,
-        "active": -5
+        "active": -9
       },
       "isUnknown": true
     },
     "AN": {
       "name": "Andaman and Nicobar",
-      "confirmed": 75,
+      "confirmed": 76,
       "active": 32,
-      "recovered": 43,
+      "recovered": 44,
       "dead": 0,
       "updatedTime": "28/06/2020 15:54:16",
       "note": "",
       "stateCode": "AN",
       "today": {
-        "confirmed": 3,
-        "recovered": 0,
+        "confirmed": 4,
+        "recovered": 1,
         "dead": 0,
         "active": 3
       },
@@ -890,9 +890,9 @@
     "source": "https://twitter.com/ICMRDELHI/status/1277084645016797190"
   },
   "today": {
-    "confirmed": 5479,
-    "recovered": 2755,
-    "dead": 79,
-    "active": 2645
+    "confirmed": 8370,
+    "recovered": 6067,
+    "dead": 144,
+    "active": 2159
   }
 }
