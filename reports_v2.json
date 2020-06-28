@@ -1,9 +1,9 @@
 {
-  "confirmed": 530997,
-  "recovered": 311364,
+  "confirmed": 531007,
+  "recovered": 311415,
   "dead": 16128,
-  "active": 203449,
-  "updatedTime": "28/06/2020 17:48:13",
+  "active": 203408,
+  "updatedTime": "28/06/2020 18:03:13",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -552,18 +552,18 @@
     },
     "LA": {
       "name": "Ladakh",
-      "confirmed": 960,
-      "active": 405,
-      "recovered": 554,
+      "confirmed": 963,
+      "active": 376,
+      "recovered": 586,
       "dead": 1,
-      "updatedTime": "27/06/2020 18:27:16",
+      "updatedTime": "28/06/2020 18:03:17",
       "note": "",
       "stateCode": "LA",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 3,
+        "recovered": 32,
         "dead": 0,
-        "active": 0
+        "active": -29
       },
       "testing_data": {
         "tested": 13717,
@@ -600,18 +600,18 @@
     },
     "HP": {
       "name": "Himachal Pradesh",
-      "confirmed": 898,
-      "active": 373,
-      "recovered": 504,
+      "confirmed": 902,
+      "active": 366,
+      "recovered": 515,
       "dead": 8,
-      "updatedTime": "28/06/2020 12:55:18",
+      "updatedTime": "28/06/2020 18:03:24",
       "note": "HP has 14 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed",
       "stateCode": "HP",
       "today": {
-        "confirmed": 4,
-        "recovered": 3,
+        "confirmed": 8,
+        "recovered": 14,
         "dead": 0,
-        "active": 1
+        "active": -6
       },
       "testing_data": {
         "tested": 74764,
@@ -792,18 +792,18 @@
     },
     "DN": {
       "name": "Dadra and Nagar Haveli and Daman and Diu",
-      "confirmed": 184,
-      "active": 127,
-      "recovered": 56,
+      "confirmed": 187,
+      "active": 122,
+      "recovered": 64,
       "dead": 0,
-      "updatedTime": "27/06/2020 15:26:17",
+      "updatedTime": "28/06/2020 18:03:32",
       "note": "",
       "stateCode": "DN",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 3,
+        "recovered": 8,
         "dead": 0,
-        "active": 0
+        "active": -5
       },
       "isUnknown": true
     },
@@ -890,9 +890,9 @@
     "source": "https://twitter.com/ICMRDELHI/status/1277084645016797190"
   },
   "today": {
-    "confirmed": 1410,
-    "recovered": 1218,
+    "confirmed": 1420,
+    "recovered": 1269,
     "dead": 25,
-    "active": 167
+    "active": 126
   }
 }
