@@ -1,9 +1,9 @@
 {
-  "confirmed": 549991,
-  "recovered": 322370,
+  "confirmed": 549992,
+  "recovered": 322402,
   "dead": 16504,
-  "active": 211061,
-  "updatedTime": "29/06/2020 17:26:13",
+  "active": 211030,
+  "updatedTime": "29/06/2020 18:03:14",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -552,18 +552,18 @@
     },
     "LA": {
       "name": "Ladakh",
-      "confirmed": 963,
-      "active": 376,
-      "recovered": 586,
+      "confirmed": 964,
+      "active": 347,
+      "recovered": 616,
       "dead": 1,
-      "updatedTime": "28/06/2020 18:16:19",
+      "updatedTime": "29/06/2020 18:03:17",
       "note": "",
       "stateCode": "LA",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 1,
+        "recovered": 30,
         "dead": 0,
-        "active": 0
+        "active": -29
       },
       "testing_data": {
         "tested": 13717,
@@ -601,17 +601,17 @@
     "HP": {
       "name": "Himachal Pradesh",
       "confirmed": 919,
-      "active": 364,
-      "recovered": 534,
+      "active": 362,
+      "recovered": 536,
       "dead": 8,
-      "updatedTime": "29/06/2020 13:46:15",
+      "updatedTime": "29/06/2020 18:03:19",
       "note": "HP has 14 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed",
       "stateCode": "HP",
       "today": {
         "confirmed": 3,
-        "recovered": 16,
+        "recovered": 18,
         "dead": 0,
-        "active": -13
+        "active": -15
       },
       "testing_data": {
         "tested": 76556,
@@ -890,9 +890,9 @@
     "source": "https://twitter.com/ICMRDELHI/status/1277441381988921344?s=20"
   },
   "today": {
-    "confirmed": 794,
-    "recovered": 596,
+    "confirmed": 795,
+    "recovered": 628,
     "dead": 17,
-    "active": 181
+    "active": 150
   }
 }
