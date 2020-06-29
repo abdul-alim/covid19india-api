@@ -1,9 +1,9 @@
 {
-  "confirmed": 567199,
-  "recovered": 335210,
-  "dead": 16902,
-  "active": 215027,
-  "updatedTime": "29/06/2020 23:02:13",
+  "confirmed": 567233,
+  "recovered": 335271,
+  "dead": 16904,
+  "active": 214998,
+  "updatedTime": "29/06/2020 23:23:13",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -131,7 +131,7 @@
       "active": 3334,
       "recovered": 13921,
       "dead": 405,
-      "updatedTime": "29/06/2020 23:02:14",
+      "updatedTime": "29/06/2020 23:06:18",
       "note": "",
       "stateCode": "RJ",
       "today": {
@@ -480,18 +480,18 @@
     },
     "CT": {
       "name": "Chhattisgarh",
-      "confirmed": 2761,
-      "active": 598,
+      "confirmed": 2795,
+      "active": 632,
       "recovered": 2150,
       "dead": 13,
-      "updatedTime": "29/06/2020 21:06:24",
+      "updatedTime": "29/06/2020 23:21:15",
       "note": "",
       "stateCode": "CT",
       "today": {
-        "confirmed": 67,
+        "confirmed": 101,
         "recovered": 88,
         "dead": 0,
-        "active": -21
+        "active": 13
       },
       "testing_data": {
         "tested": 156386,
@@ -505,17 +505,17 @@
     "JH": {
       "name": "Jharkhand",
       "confirmed": 2426,
-      "active": 620,
-      "recovered": 1793,
-      "dead": 13,
-      "updatedTime": "29/06/2020 22:46:16",
+      "active": 562,
+      "recovered": 1849,
+      "dead": 15,
+      "updatedTime": "29/06/2020 23:21:17",
       "note": "",
       "stateCode": "JH",
       "today": {
         "confirmed": 62,
-        "recovered": 0,
-        "dead": 1,
-        "active": 61
+        "recovered": 56,
+        "dead": 3,
+        "active": 3
       },
       "testing_data": {
         "tested": 139907,
@@ -529,17 +529,17 @@
     "TR": {
       "name": "Tripura",
       "confirmed": 1385,
-      "active": 298,
-      "recovered": 1086,
+      "active": 292,
+      "recovered": 1092,
       "dead": 1,
-      "updatedTime": "29/06/2020 22:36:16",
+      "updatedTime": "29/06/2020 23:21:18",
       "note": "",
       "stateCode": "TR",
       "today": {
         "confirmed": 34,
-        "recovered": 0,
+        "recovered": 6,
         "dead": 0,
-        "active": 34
+        "active": 28
       },
       "testing_data": {
         "tested": 62278,
@@ -673,17 +673,17 @@
     "PY": {
       "name": "Puducherry",
       "confirmed": 690,
-      "active": 416,
-      "recovered": 263,
+      "active": 417,
+      "recovered": 262,
       "dead": 11,
-      "updatedTime": "29/06/2020 19:16:20",
+      "updatedTime": "29/06/2020 23:23:15",
       "note": "",
       "stateCode": "PY",
       "today": {
         "confirmed": 42,
-        "recovered": 11,
+        "recovered": 10,
         "dead": 0,
-        "active": 31
+        "active": 32
       },
       "testing_data": {
         "tested": 16479,
@@ -734,12 +734,12 @@
         "active": -6
       },
       "testing_data": {
-        "tested": 13012,
-        "positive": 156,
+        "tested": 13072,
+        "positive": 151,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "28/06/2020",
-        "source": "https://dipr.mizoram.gov.in/uploads/attachments/0a672dd112405baab592d32f566686b0/2862020-covid-19-bulletin-hfw-gom-eng.pdf"
+        "date": "29/06/2020",
+        "source": "https://dipr.mizoram.gov.in/uploads/attachments/92ea9abdce2c81fa34cad2b43749d59b/2962020-covid-19-bulletin-hfw-gom-mz.pdf"
       }
     },
     "AR": {
@@ -847,12 +847,12 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 18037,
-        "positive": 50,
-        "negative": 17741,
-        "unconfirmed": 250,
-        "date": "28/06/2020",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/727"
+        "tested": 18707,
+        "positive": 51,
+        "negative": 18651,
+        "unconfirmed": 6,
+        "date": "29/06/2020",
+        "source": "http://meghalayaonline.gov.in/covid"
       }
     },
     "LD": {
@@ -880,19 +880,19 @@
     }
   },
   "testing_data": {
-    "tested": 9673205,
-    "positive": 540268,
-    "negative": 5484560,
-    "unconfirmed": 16705
+    "tested": 9673935,
+    "positive": 540264,
+    "negative": 5485470,
+    "unconfirmed": 16461
   },
   "testing_data_imcr": {
     "tested": 8398362,
     "source": "https://twitter.com/ICMRDELHI/status/1277441381988921344?s=20"
   },
   "today": {
-    "confirmed": 18002,
-    "recovered": 13436,
-    "dead": 415,
-    "active": 4151
+    "confirmed": 18036,
+    "recovered": 13497,
+    "dead": 417,
+    "active": 4122
   }
 }
