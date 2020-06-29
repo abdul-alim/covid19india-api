@@ -1,24 +1,24 @@
 {
-  "confirmed": 554587,
-  "recovered": 325037,
-  "dead": 16575,
-  "active": 212919,
-  "updatedTime": "29/06/2020 19:13:13",
+  "confirmed": 560349,
+  "recovered": 328069,
+  "dead": 16771,
+  "active": 215449,
+  "updatedTime": "29/06/2020 19:53:13",
   "states": {
     "MH": {
       "name": "Maharashtra",
-      "confirmed": 164626,
-      "active": 70607,
-      "recovered": 86575,
-      "dead": 7429,
-      "updatedTime": "28/06/2020 20:38:15",
+      "confirmed": 169883,
+      "active": 73298,
+      "recovered": 88960,
+      "dead": 7610,
+      "updatedTime": "29/06/2020 19:52:15",
       "note": "15 cases were marked as non-covid deaths in MH bulletin. These have been reduced from deceased and active counts\n[June 16] : 1328 deceased cases have been retroactively added to MH bulletin.\n[June 20]: 69 deceased cases have been reduced based on state bulletin.\n",
       "stateCode": "MH",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 5257,
+        "recovered": 2385,
+        "dead": 181,
+        "active": 2691
       },
       "testing_data": {
         "tested": 946518,
@@ -45,12 +45,12 @@
         "active": 1675
       },
       "testing_data": {
-        "tested": 1110402,
-        "positive": 82275,
-        "negative": 1028127,
+        "tested": 1140441,
+        "positive": 8624,
+        "negative": 1054217,
         "unconfirmed": 0,
-        "date": "28/06/2020",
-        "source": "https://stopcorona.tn.gov.in/wp-content/uploads/2020/06/Media-Bulletin-28.06.2020-21-Pages-English-438-KB.pdf"
+        "date": "29/06/2020",
+        "source": "https://covid19.karnataka.gov.in/storage/pdf-files/COVID%20Report%2027062020_0500PM_English.pdf"
       }
     },
     "DL": {
@@ -151,18 +151,18 @@
     },
     "WB": {
       "name": "West Bengal",
-      "confirmed": 17283,
-      "active": 5451,
-      "recovered": 11193,
-      "dead": 639,
+      "confirmed": 17727,
+      "active": 5373,
+      "recovered": 11701,
+      "dead": 653,
       "updatedTime": "28/06/2020 19:13:16",
       "note": "",
       "stateCode": "WB",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 444,
+        "recovered": 508,
+        "dead": 14,
+        "active": -78
       },
       "testing_data": {
         "tested": 468906,
@@ -179,7 +179,7 @@
       "active": 2607,
       "recovered": 10199,
       "dead": 564,
-      "updatedTime": "29/06/2020 19:13:16",
+      "updatedTime": "29/06/2020 19:16:17",
       "note": "",
       "stateCode": "MP",
       "today": {
@@ -259,7 +259,7 @@
         "negative": 566543,
         "unconfirmed": 0,
         "date": "28/06/2020",
-        "source": ""
+        "source": "https://covid19.karnataka.gov.in/storage/pdf-files/COVID%20Report%2027062020_0500PM_English.pdf"
       }
     },
     "AP": {
@@ -456,18 +456,18 @@
     },
     "UT": {
       "name": "Uttarakhand",
-      "confirmed": 2823,
-      "active": 752,
-      "recovered": 2015,
-      "dead": 38,
-      "updatedTime": "28/06/2020 19:34:21",
-      "note": "18 Migrated cases reduced from Active count",
+      "confirmed": 2831,
+      "active": 662,
+      "recovered": 2108,
+      "dead": 39,
+      "updatedTime": "29/06/2020 19:52:17",
+      "note": "22 Migrated cases reduced from Active count",
       "stateCode": "UT",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 8,
+        "recovered": 93,
+        "dead": 1,
+        "active": -86
       },
       "testing_data": {
         "tested": 64984,
@@ -576,18 +576,18 @@
     },
     "GA": {
       "name": "Goa",
-      "confirmed": 1198,
-      "active": 717,
-      "recovered": 478,
+      "confirmed": 1251,
+      "active": 724,
+      "recovered": 524,
       "dead": 3,
-      "updatedTime": "28/06/2020 23:53:15",
+      "updatedTime": "29/06/2020 19:53:16",
       "note": "",
       "stateCode": "GA",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 53,
+        "recovered": 46,
         "dead": 0,
-        "active": 0
+        "active": 7
       },
       "testing_data": {
         "tested": 62945,
@@ -676,7 +676,7 @@
       "active": 416,
       "recovered": 263,
       "dead": 11,
-      "updatedTime": "29/06/2020 19:13:19",
+      "updatedTime": "29/06/2020 19:16:20",
       "note": "",
       "stateCode": "PY",
       "today": {
@@ -700,7 +700,7 @@
       "active": 283,
       "recovered": 168,
       "dead": 0,
-      "updatedTime": "29/06/2020 19:13:21",
+      "updatedTime": "29/06/2020 19:16:23",
       "note": "",
       "stateCode": "NL",
       "today": {
@@ -880,9 +880,9 @@
     }
   },
   "testing_data": {
-    "tested": 9467613,
-    "positive": 549435,
-    "negative": 5380088,
+    "tested": 9497652,
+    "positive": 475784,
+    "negative": 5406178,
     "unconfirmed": 18523
   },
   "testing_data_imcr": {
@@ -890,9 +890,9 @@
     "source": "https://twitter.com/ICMRDELHI/status/1277441381988921344?s=20"
   },
   "today": {
-    "confirmed": 5390,
-    "recovered": 3263,
-    "dead": 88,
-    "active": 2039
+    "confirmed": 11152,
+    "recovered": 6295,
+    "dead": 284,
+    "active": 4573
   }
 }
