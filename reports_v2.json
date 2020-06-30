@@ -1,9 +1,9 @@
 {
-  "confirmed": 574925,
-  "recovered": 339463,
-  "dead": 17034,
-  "active": 218368,
-  "updatedTime": "30/06/2020 20:03:15",
+  "confirmed": 574926,
+  "recovered": 340225,
+  "dead": 17038,
+  "active": 217603,
+  "updatedTime": "30/06/2020 20:13:18",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -199,26 +199,26 @@
     },
     "HR": {
       "name": "Haryana",
-      "confirmed": 14547,
-      "active": 4791,
-      "recovered": 9524,
-      "dead": 232,
-      "updatedTime": "30/06/2020 20:03:17",
+      "confirmed": 14548,
+      "active": 4340,
+      "recovered": 9972,
+      "dead": 236,
+      "updatedTime": "30/06/2020 20:13:22",
       "note": "",
       "stateCode": "HR",
       "today": {
-        "confirmed": 337,
-        "recovered": 22,
-        "dead": 0,
-        "active": 315
+        "confirmed": 338,
+        "recovered": 470,
+        "dead": 4,
+        "active": -136
       },
       "testing_data": {
-        "tested": 260341,
-        "positive": 14210,
-        "negative": 241356,
-        "unconfirmed": 4775,
-        "date": "29/06/2020",
-        "source": "http://www.nhmharyana.gov.in/WriteReadData/userfiles/file/CoronaVirus/Daily%20bulletin%20of%20COVID%2019%20as%20on%2029-06-20%20Evening.pdf"
+        "tested": 264203,
+        "positive": 14548,
+        "negative": 244000,
+        "unconfirmed": 5655,
+        "date": "30/06/2020",
+        "source": "http://www.nhmharyana.gov.in/WriteReadData/userfiles/file/CoronaVirus/Media%20Bulletin%20of%20COVID%2019%20as%20on%2030-06-20%20Evening.pdf"
       }
     },
     "UN": {
@@ -244,7 +244,7 @@
       "active": 7072,
       "recovered": 7920,
       "dead": 246,
-      "updatedTime": "30/06/2020 20:03:19",
+      "updatedTime": "30/06/2020 20:13:24",
       "note": "4 cases are classified as non-covid related deaths in KA bulletin. They have been reduced from active cases",
       "stateCode": "KA",
       "today": {
@@ -361,17 +361,17 @@
     "AS": {
       "name": "Assam",
       "confirmed": 7836,
-      "active": 2487,
-      "recovered": 5334,
+      "active": 2173,
+      "recovered": 5648,
       "dead": 12,
-      "updatedTime": "30/06/2020 14:03:16",
+      "updatedTime": "30/06/2020 20:13:33",
       "note": "Includes one case from Nagaland.\nTotal of 3 patients who migrated to other states has been reduced from Active count",
       "stateCode": "AS",
       "today": {
         "confirmed": 41,
-        "recovered": 0,
+        "recovered": 314,
         "dead": 1,
-        "active": 40
+        "active": -274
       },
       "testing_data": {
         "tested": 399393,
@@ -412,7 +412,7 @@
       "active": 1557,
       "recovered": 3867,
       "dead": 144,
-      "updatedTime": "30/06/2020 20:02:21",
+      "updatedTime": "30/06/2020 20:06:22",
       "note": "",
       "stateCode": "PB",
       "today": {
@@ -451,7 +451,7 @@
         "negative": 0,
         "unconfirmed": 3872,
         "date": "30/06/2020",
-        "source": ""
+        "source": "https://dhs.kerala.gov.in/wp-content/uploads/2020/06/Bulletin-HFWD-English-June-30.pdf"
       }
     },
     "UT": {
@@ -686,12 +686,12 @@
         "active": 13
       },
       "testing_data": {
-        "tested": 16479,
-        "positive": 690,
-        "negative": 15596,
-        "unconfirmed": 154,
-        "date": "29/06/2020",
-        "source": "https://covid19dashboard.py.gov.in/LabTestReport"
+        "tested": 17281,
+        "positive": 714,
+        "negative": 16180,
+        "unconfirmed": 329,
+        "date": "30/06/2020",
+        "source": ""
       }
     },
     "NL": {
@@ -880,19 +880,19 @@
     }
   },
   "testing_data": {
-    "tested": 9795405,
-    "positive": 574228,
-    "negative": 5573228,
-    "unconfirmed": 17558
+    "tested": 9800069,
+    "positive": 574590,
+    "negative": 5576456,
+    "unconfirmed": 18613
   },
   "testing_data_imcr": {
     "tested": 8608654,
     "source": "https://twitter.com/ICMRDELHI/status/1277811671281446913?s=20"
   },
   "today": {
-    "confirmed": 7389,
-    "recovered": 4192,
-    "dead": 130,
-    "active": 3067
+    "confirmed": 7390,
+    "recovered": 4954,
+    "dead": 134,
+    "active": 2302
   }
 }
