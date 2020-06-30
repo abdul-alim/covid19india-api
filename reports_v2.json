@@ -1,9 +1,9 @@
 {
-  "confirmed": 574926,
-  "recovered": 340225,
-  "dead": 17038,
-  "active": 217603,
-  "updatedTime": "30/06/2020 20:13:18",
+  "confirmed": 575863,
+  "recovered": 340963,
+  "dead": 17066,
+  "active": 217769,
+  "updatedTime": "30/06/2020 20:48:13",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -79,18 +79,18 @@
     },
     "GJ": {
       "name": "Gujarat",
-      "confirmed": 32023,
-      "active": 6947,
-      "recovered": 23248,
-      "dead": 1828,
-      "updatedTime": "29/06/2020 20:26:16",
+      "confirmed": 32643,
+      "active": 7125,
+      "recovered": 23670,
+      "dead": 1848,
+      "updatedTime": "30/06/2020 20:48:15",
       "note": "",
       "stateCode": "GJ",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 620,
+        "recovered": 422,
+        "dead": 20,
+        "active": 178
       },
       "testing_data": {
         "tested": 367739,
@@ -207,10 +207,10 @@
       "note": "",
       "stateCode": "HR",
       "today": {
-        "confirmed": 338,
-        "recovered": 470,
+        "confirmed": 324,
+        "recovered": 471,
         "dead": 4,
-        "active": -136
+        "active": -151
       },
       "testing_data": {
         "tested": 264203,
@@ -218,7 +218,7 @@
         "negative": 244000,
         "unconfirmed": 5655,
         "date": "30/06/2020",
-        "source": "http://www.nhmharyana.gov.in/WriteReadData/userfiles/file/CoronaVirus/Media%20Bulletin%20of%20COVID%2019%20as%20on%2030-06-20%20Evening.pdf"
+        "source": ""
       }
     },
     "UN": {
@@ -248,10 +248,10 @@
       "note": "4 cases are classified as non-covid related deaths in KA bulletin. They have been reduced from active cases",
       "stateCode": "KA",
       "today": {
-        "confirmed": 947,
+        "confirmed": 941,
         "recovered": 235,
-        "dead": 20,
-        "active": 692
+        "dead": 17,
+        "active": 689
       },
       "testing_data": {
         "tested": 620747,
@@ -336,18 +336,18 @@
     },
     "JK": {
       "name": "Jammu and Kashmir",
-      "confirmed": 7237,
-      "active": 2557,
-      "recovered": 4585,
-      "dead": 95,
-      "updatedTime": "29/06/2020 21:15:10",
+      "confirmed": 7497,
+      "active": 2674,
+      "recovered": 4722,
+      "dead": 101,
+      "updatedTime": "30/06/2020 20:48:18",
       "note": "",
       "stateCode": "JK",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 260,
+        "recovered": 137,
+        "dead": 6,
+        "active": 117
       },
       "testing_data": {
         "tested": 358530,
@@ -364,7 +364,7 @@
       "active": 2173,
       "recovered": 5648,
       "dead": 12,
-      "updatedTime": "30/06/2020 20:13:33",
+      "updatedTime": "30/06/2020 20:37:15",
       "note": "Includes one case from Nagaland.\nTotal of 3 patients who migrated to other states has been reduced from Active count",
       "stateCode": "AS",
       "today": {
@@ -456,18 +456,18 @@
     },
     "UT": {
       "name": "Uttarakhand",
-      "confirmed": 2831,
-      "active": 662,
-      "recovered": 2108,
-      "dead": 39,
-      "updatedTime": "29/06/2020 19:54:18",
-      "note": "22 Migrated cases reduced from Active count",
+      "confirmed": 2881,
+      "active": 585,
+      "recovered": 2228,
+      "dead": 41,
+      "updatedTime": "30/06/2020 20:48:21",
+      "note": "27 Migrated cases reduced from Active count",
       "stateCode": "UT",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 50,
+        "recovered": 120,
+        "dead": 2,
+        "active": -72
       },
       "testing_data": {
         "tested": 66396,
@@ -624,18 +624,18 @@
     },
     "MN": {
       "name": "Manipur",
-      "confirmed": 1227,
-      "active": 733,
-      "recovered": 494,
+      "confirmed": 1234,
+      "active": 681,
+      "recovered": 553,
       "dead": 0,
-      "updatedTime": "29/06/2020 21:55:17",
+      "updatedTime": "30/06/2020 20:48:23",
       "note": "",
       "stateCode": "MN",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 7,
+        "recovered": 59,
         "dead": 0,
-        "active": 0
+        "active": -52
       },
       "testing_data": {
         "tested": 49882,
@@ -686,12 +686,12 @@
         "active": 13
       },
       "testing_data": {
-        "tested": 17281,
-        "positive": 714,
-        "negative": 16180,
-        "unconfirmed": 329,
-        "date": "30/06/2020",
-        "source": ""
+        "tested": 16479,
+        "positive": 690,
+        "negative": 15596,
+        "unconfirmed": 154,
+        "date": "29/06/2020",
+        "source": "https://covid19dashboard.py.gov.in/LabTestReport"
       }
     },
     "NL": {
@@ -880,19 +880,19 @@
     }
   },
   "testing_data": {
-    "tested": 9800069,
-    "positive": 574590,
-    "negative": 5576456,
-    "unconfirmed": 18613
+    "tested": 9799267,
+    "positive": 574566,
+    "negative": 5575872,
+    "unconfirmed": 18438
   },
   "testing_data_imcr": {
     "tested": 8608654,
     "source": "https://twitter.com/ICMRDELHI/status/1277811671281446913?s=20"
   },
   "today": {
-    "confirmed": 7390,
-    "recovered": 4954,
-    "dead": 134,
-    "active": 2302
+    "confirmed": 8307,
+    "recovered": 5693,
+    "dead": 159,
+    "active": 2455
   }
 }
