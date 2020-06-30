@@ -1,9 +1,9 @@
 {
   "confirmed": 568315,
-  "recovered": 335577,
-  "dead": 16917,
-  "active": 215761,
-  "updatedTime": "30/06/2020 12:56:13",
+  "recovered": 335638,
+  "dead": 16918,
+  "active": 215699,
+  "updatedTime": "30/06/2020 13:53:16",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -361,17 +361,17 @@
     "AS": {
       "name": "Assam",
       "confirmed": 7836,
-      "active": 2488,
+      "active": 2487,
       "recovered": 5334,
-      "dead": 11,
-      "updatedTime": "30/06/2020 12:46:17",
+      "dead": 12,
+      "updatedTime": "30/06/2020 13:53:21",
       "note": "Includes one case from Nagaland.\nTotal of 3 patients who migrated to other states has been reduced from Active count",
       "stateCode": "AS",
       "today": {
         "confirmed": 41,
         "recovered": 0,
-        "dead": 0,
-        "active": 41
+        "dead": 1,
+        "active": 40
       },
       "testing_data": {
         "tested": 399393,
@@ -721,17 +721,17 @@
     "MZ": {
       "name": "Mizoram",
       "confirmed": 151,
-      "active": 90,
-      "recovered": 61,
+      "active": 29,
+      "recovered": 122,
       "dead": 0,
-      "updatedTime": "29/06/2020 17:26:16",
+      "updatedTime": "30/06/2020 13:53:24",
       "note": "",
       "stateCode": "MZ",
       "today": {
         "confirmed": 0,
-        "recovered": 0,
+        "recovered": 61,
         "dead": 0,
-        "active": 0
+        "active": -61
       },
       "testing_data": {
         "tested": 13072,
@@ -891,8 +891,8 @@
   },
   "today": {
     "confirmed": 779,
-    "recovered": 306,
-    "dead": 13,
-    "active": 460
+    "recovered": 367,
+    "dead": 14,
+    "active": 398
   }
 }
