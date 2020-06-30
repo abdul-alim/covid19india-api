@@ -1,9 +1,9 @@
 {
-  "confirmed": 585201,
-  "recovered": 347804,
+  "confirmed": 585210,
+  "recovered": 347836,
   "dead": 17410,
-  "active": 219921,
-  "updatedTime": "30/06/2020 22:53:13",
+  "active": 219898,
+  "updatedTime": "30/06/2020 23:15:14",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -508,7 +508,7 @@
       "active": 591,
       "recovered": 1884,
       "dead": 15,
-      "updatedTime": "30/06/2020 22:52:17",
+      "updatedTime": "30/06/2020 22:55:20",
       "note": "",
       "stateCode": "JH",
       "today": {
@@ -552,18 +552,18 @@
     },
     "LA": {
       "name": "Ladakh",
-      "confirmed": 964,
-      "active": 347,
-      "recovered": 616,
+      "confirmed": 973,
+      "active": 324,
+      "recovered": 648,
       "dead": 1,
-      "updatedTime": "30/06/2020 20:57:54",
+      "updatedTime": "30/06/2020 23:15:23",
       "note": "",
       "stateCode": "LA",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 9,
+        "recovered": 32,
         "dead": 0,
-        "active": 0
+        "active": -23
       },
       "testing_data": {
         "tested": 13886,
@@ -734,12 +734,12 @@
         "active": -61
       },
       "testing_data": {
-        "tested": 13072,
+        "tested": 13746,
         "positive": 151,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "29/06/2020",
-        "source": "https://dipr.mizoram.gov.in/uploads/attachments/92ea9abdce2c81fa34cad2b43749d59b/2962020-covid-19-bulletin-hfw-gom-mz.pdf"
+        "date": "30/06/2020",
+        "source": "https://dipr.mizoram.gov.in/post/status-of-state-surveillance-of-covid-19-time-2962020-500pm-3062020-500-pm"
       }
     },
     "AR": {
@@ -748,7 +748,7 @@
       "active": 128,
       "recovered": 62,
       "dead": 1,
-      "updatedTime": "30/06/2020 22:53:16",
+      "updatedTime": "30/06/2020 23:06:20",
       "note": "",
       "stateCode": "AR",
       "today": {
@@ -772,7 +772,7 @@
       "active": 38,
       "recovered": 50,
       "dead": 0,
-      "updatedTime": "30/06/2020 22:53:17",
+      "updatedTime": "30/06/2020 23:06:21",
       "note": "",
       "stateCode": "SK",
       "today": {
@@ -847,12 +847,12 @@
         "active": 1
       },
       "testing_data": {
-        "tested": 18707,
-        "positive": 51,
-        "negative": 18651,
-        "unconfirmed": 6,
-        "date": "29/06/2020",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/764"
+        "tested": 19294,
+        "positive": 52,
+        "negative": 0,
+        "unconfirmed": 0,
+        "date": "30/06/2020",
+        "source": "https://corona.meghalayagov.in/"
       }
     },
     "LD": {
@@ -880,19 +880,19 @@
     }
   },
   "testing_data": {
-    "tested": 9842561,
-    "positive": 577879,
-    "negative": 5577377,
-    "unconfirmed": 19941
+    "tested": 9843822,
+    "positive": 577880,
+    "negative": 5558726,
+    "unconfirmed": 19935
   },
   "testing_data_imcr": {
     "tested": 8608654,
     "source": "https://twitter.com/ICMRDELHI/status/1277811671281446913?s=20"
   },
   "today": {
-    "confirmed": 17645,
-    "recovered": 12534,
+    "confirmed": 17654,
+    "recovered": 12566,
     "dead": 503,
-    "active": 4608
+    "active": 4585
   }
 }
