@@ -1,9 +1,9 @@
 {
-  "confirmed": 591152,
-  "recovered": 351911,
-  "dead": 17486,
-  "active": 221689,
-  "updatedTime": "01/07/2020 18:54:25",
+  "confirmed": 591420,
+  "recovered": 352171,
+  "dead": 17495,
+  "active": 221688,
+  "updatedTime": "01/07/2020 19:13:25",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -35,7 +35,7 @@
       "active": 39859,
       "recovered": 52926,
       "dead": 1264,
-      "updatedTime": "01/07/2020 18:54:26",
+      "updatedTime": "01/07/2020 18:56:26",
       "note": "2 deaths cross notified to other states from Chennai and Coimbatore.\n1 patient died after turning negative for infection in Chengalpattu.\nThese cases have been added to TN deceased tally",
       "stateCode": "TN",
       "today": {
@@ -175,18 +175,18 @@
     },
     "MP": {
       "name": "Madhya Pradesh",
-      "confirmed": 13593,
-      "active": 2626,
-      "recovered": 10395,
-      "dead": 572,
-      "updatedTime": "30/06/2020 19:13:15",
+      "confirmed": 13861,
+      "active": 2625,
+      "recovered": 10655,
+      "dead": 581,
+      "updatedTime": "01/07/2020 19:13:27",
       "note": "",
       "stateCode": "MP",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 268,
+        "recovered": 260,
+        "dead": 9,
+        "active": -1
       },
       "testing_data": {
         "tested": 365467,
@@ -436,7 +436,7 @@
       "active": 2130,
       "recovered": 2436,
       "dead": 26,
-      "updatedTime": "01/07/2020 18:54:28",
+      "updatedTime": "01/07/2020 19:06:27",
       "note": "Mahe native who expired in Kannur included in Kerala's tally.\nOne patient who absconded from Palakkad to TN and one patient who returned back to Maharashtra has been reduced from active count",
       "stateCode": "KL",
       "today": {
@@ -686,12 +686,12 @@
         "active": -4
       },
       "testing_data": {
-        "tested": 17281,
-        "positive": 714,
-        "negative": 16180,
-        "unconfirmed": 329,
-        "date": "30/06/2020",
-        "source": "https://covid19dashboard.py.gov.in/LabTestReport"
+        "tested": 18092,
+        "positive": 809,
+        "negative": 16984,
+        "unconfirmed": 307,
+        "date": "01/07/2020",
+        "source": "https://health.py.gov.in/sites/default/files/NEET-PDF/01.07.2020%20bulletin.pdf"
       }
     },
     "NL": {
@@ -880,19 +880,19 @@
     }
   },
   "testing_data": {
-    "tested": 10014040,
-    "positive": 591996,
-    "negative": 4555744,
-    "unconfirmed": 20804
+    "tested": 10014851,
+    "positive": 592091,
+    "negative": 4556548,
+    "unconfirmed": 20782
   },
   "testing_data_imcr": {
     "tested": 8826585,
     "source": "https://twitter.com/ICMRDELHI/status/1278172186612609025?s=20)"
   },
   "today": {
-    "confirmed": 5354,
-    "recovered": 4072,
-    "dead": 73,
-    "active": 1209
+    "confirmed": 5622,
+    "recovered": 4332,
+    "dead": 82,
+    "active": 1208
   }
 }
