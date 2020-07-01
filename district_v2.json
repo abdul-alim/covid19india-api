@@ -9509,9 +9509,9 @@
         "recovered": 101,
         "dead": 0,
         "today": {
-          "confirmed": 1,
+          "confirmed": 2,
           "recovered": 0,
-          "active": 1,
+          "active": 2,
           "dead": 0
         }
       },
@@ -9538,8 +9538,8 @@
         "dead": 0,
         "today": {
           "confirmed": 1,
-          "recovered": 0,
-          "active": 1,
+          "recovered": 2,
+          "active": -1,
           "dead": 0
         }
       },
@@ -9551,9 +9551,9 @@
         "recovered": 521,
         "dead": 0,
         "today": {
-          "confirmed": 1,
-          "recovered": 0,
-          "active": 1,
+          "confirmed": 0,
+          "recovered": 4,
+          "active": -4,
           "dead": 0
         }
       },
@@ -9566,8 +9566,8 @@
         "dead": 0,
         "today": {
           "confirmed": 1,
-          "recovered": 0,
-          "active": 1,
+          "recovered": 1,
+          "active": 0,
           "dead": 0
         }
       },
@@ -9594,22 +9594,22 @@
         "dead": 1,
         "today": {
           "confirmed": 3,
-          "recovered": 0,
-          "active": 3,
+          "recovered": 1,
+          "active": 2,
           "dead": 0
         }
       }
     ],
     "today": {
       "confirmed": 8,
-      "active": 8,
-      "recovered": 0,
+      "active": 0,
+      "recovered": 8,
       "dead": 0
     },
     "confirmed": 1401,
-    "recovered": 1100,
+    "recovered": 1093,
     "dead": 1,
-    "active": 300
+    "active": 307
   },
   "UP": {
     "state": "Uttar Pradesh",
