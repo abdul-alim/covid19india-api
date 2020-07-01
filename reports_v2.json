@@ -1,24 +1,24 @@
 {
-  "confirmed": 596415,
-  "recovered": 355185,
-  "dead": 17587,
-  "active": 223577,
-  "updatedTime": "01/07/2020 20:23:25",
+  "confirmed": 601952,
+  "recovered": 357612,
+  "dead": 17785,
+  "active": 226489,
+  "updatedTime": "01/07/2020 20:51:25",
   "states": {
     "MH": {
       "name": "Maharashtra",
-      "confirmed": 174761,
-      "active": 75979,
-      "recovered": 90911,
-      "dead": 7855,
-      "updatedTime": "30/06/2020 21:25:14",
+      "confirmed": 180298,
+      "active": 79075,
+      "recovered": 93154,
+      "dead": 8053,
+      "updatedTime": "01/07/2020 20:48:26",
       "note": "16 cases were marked as non-covid deaths in MH bulletin. These have been reduced from deceased and active counts\n[June 16] : 1328 deceased cases have been retroactively added to MH bulletin.\n[June 20]: 69 deceased cases have been reduced based on state bulletin.\n",
       "stateCode": "MH",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 5537,
+        "recovered": 2243,
+        "dead": 198,
+        "active": 3096
       },
       "testing_data": {
         "tested": 995343,
@@ -59,7 +59,7 @@
       "active": 27007,
       "recovered": 59992,
       "dead": 2803,
-      "updatedTime": "01/07/2020 20:23:26",
+      "updatedTime": "01/07/2020 20:38:27",
       "note": "Delhi bulletins in the morning, containing data of the previous day. We will add that data to the date on which the report is released, rather than the previous day.\n[June 16]: 344 deceased cases have been retroactively added to DL bulletin.",
       "stateCode": "DL",
       "today": {
@@ -93,12 +93,12 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 373613,
-        "positive": 32643,
+        "tested": 380640,
+        "positive": 33318,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "30/06/2020",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/808?single"
+        "date": "01/07/2020",
+        "source": "https://twitter.com/DDNewsGujarati/status/1278342417788223494?s=20"
       }
     },
     "UP": {
@@ -213,12 +213,12 @@
         "active": -138
       },
       "testing_data": {
-        "tested": 264203,
-        "positive": 14548,
-        "negative": 244000,
-        "unconfirmed": 5655,
-        "date": "30/06/2020",
-        "source": "http://www.nhmharyana.gov.in/WriteReadData/userfiles/file/CoronaVirus/Media%20Bulletin%20of%20COVID%2019%20as%20on%2030-06-20%20Evening.pdf"
+        "tested": 269726,
+        "positive": 14941,
+        "negative": 249453,
+        "unconfirmed": 5332,
+        "date": "01/07/2020",
+        "source": ""
       }
     },
     "UN": {
@@ -340,7 +340,7 @@
       "active": 2734,
       "recovered": 4856,
       "dead": 105,
-      "updatedTime": "30/06/2020 21:03:19",
+      "updatedTime": "01/07/2020 20:38:29",
       "note": "",
       "stateCode": "JK",
       "today": {
@@ -361,17 +361,17 @@
     "AS": {
       "name": "Assam",
       "confirmed": 8548,
-      "active": 2885,
-      "recovered": 5648,
+      "active": 2701,
+      "recovered": 5832,
       "dead": 12,
-      "updatedTime": "01/07/2020 00:25:15",
+      "updatedTime": "01/07/2020 20:51:27",
       "note": "Includes one case from Nagaland.\nTotal of 3 patients who migrated to other states has been reduced from Active count",
       "stateCode": "AS",
       "today": {
         "confirmed": 140,
-        "recovered": 0,
+        "recovered": 184,
         "dead": 0,
-        "active": 140
+        "active": -44
       },
       "testing_data": {
         "tested": 412214,
@@ -460,7 +460,7 @@
       "active": 562,
       "recovered": 2317,
       "dead": 41,
-      "updatedTime": "01/07/2020 20:22:30",
+      "updatedTime": "01/07/2020 20:26:30",
       "note": "27 Migrated cases reduced from Active count",
       "stateCode": "UT",
       "today": {
@@ -580,7 +580,7 @@
       "active": 713,
       "recovered": 670,
       "dead": 4,
-      "updatedTime": "01/07/2020 20:23:28",
+      "updatedTime": "01/07/2020 20:38:30",
       "note": "",
       "stateCode": "GA",
       "today": {
@@ -880,19 +880,19 @@
     }
   },
   "testing_data": {
-    "tested": 10064953,
-    "positive": 594563,
-    "negative": 4575293,
-    "unconfirmed": 20320
+    "tested": 10077503,
+    "positive": 595631,
+    "negative": 4580746,
+    "unconfirmed": 19997
   },
   "testing_data_imcr": {
     "tested": 8826585,
     "source": "https://twitter.com/ICMRDELHI/status/1278172186612609025?s=20)"
   },
   "today": {
-    "confirmed": 10623,
-    "recovered": 7346,
-    "dead": 177,
-    "active": 3100
+    "confirmed": 16160,
+    "recovered": 9773,
+    "dead": 375,
+    "active": 6012
   }
 }
