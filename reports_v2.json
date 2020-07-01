@@ -1,9 +1,9 @@
 {
-  "confirmed": 591420,
-  "recovered": 352171,
+  "confirmed": 591441,
+  "recovered": 352239,
   "dead": 17495,
-  "active": 221688,
-  "updatedTime": "01/07/2020 19:13:25",
+  "active": 221641,
+  "updatedTime": "01/07/2020 19:36:25",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -179,7 +179,7 @@
       "active": 2625,
       "recovered": 10655,
       "dead": 581,
-      "updatedTime": "01/07/2020 19:13:27",
+      "updatedTime": "01/07/2020 19:23:27",
       "note": "",
       "stateCode": "MP",
       "today": {
@@ -446,12 +446,12 @@
         "active": 18
       },
       "testing_data": {
-        "tested": 231570,
-        "positive": 4442,
+        "tested": 239017,
+        "positive": 4593,
         "negative": 0,
-        "unconfirmed": 3872,
-        "date": "30/06/2020",
-        "source": "https://dhs.kerala.gov.in/wp-content/uploads/2020/06/Bulletin-HFWD-English-June-30.pdf"
+        "unconfirmed": 0,
+        "date": "01/07/2020",
+        "source": ""
       }
     },
     "UT": {
@@ -552,18 +552,18 @@
     },
     "LA": {
       "name": "Ladakh",
-      "confirmed": 973,
-      "active": 324,
-      "recovered": 648,
+      "confirmed": 990,
+      "active": 295,
+      "recovered": 694,
       "dead": 1,
-      "updatedTime": "30/06/2020 23:15:23",
+      "updatedTime": "01/07/2020 19:36:28",
       "note": "",
       "stateCode": "LA",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 17,
+        "recovered": 46,
         "dead": 0,
-        "active": 0
+        "active": -29
       },
       "testing_data": {
         "tested": 13886,
@@ -600,18 +600,18 @@
     },
     "HP": {
       "name": "Himachal Pradesh",
-      "confirmed": 956,
-      "active": 353,
-      "recovered": 581,
+      "confirmed": 960,
+      "active": 335,
+      "recovered": 603,
       "dead": 9,
-      "updatedTime": "01/07/2020 14:41:27",
+      "updatedTime": "01/07/2020 19:36:29",
       "note": "HP has 14 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed",
       "stateCode": "HP",
       "today": {
-        "confirmed": 3,
-        "recovered": 6,
+        "confirmed": 7,
+        "recovered": 28,
         "dead": 0,
-        "active": -3
+        "active": -21
       },
       "testing_data": {
         "tested": 79499,
@@ -748,7 +748,7 @@
       "active": 128,
       "recovered": 62,
       "dead": 1,
-      "updatedTime": "30/06/2020 23:06:20",
+      "updatedTime": "01/07/2020 19:18:29",
       "note": "",
       "stateCode": "AR",
       "today": {
@@ -880,19 +880,19 @@
     }
   },
   "testing_data": {
-    "tested": 10014851,
-    "positive": 592091,
+    "tested": 10022298,
+    "positive": 592242,
     "negative": 4556548,
-    "unconfirmed": 20782
+    "unconfirmed": 16910
   },
   "testing_data_imcr": {
     "tested": 8826585,
     "source": "https://twitter.com/ICMRDELHI/status/1278172186612609025?s=20)"
   },
   "today": {
-    "confirmed": 5622,
-    "recovered": 4332,
+    "confirmed": 5643,
+    "recovered": 4400,
     "dead": 82,
-    "active": 1208
+    "active": 1161
   }
 }
