@@ -1,9 +1,9 @@
 {
-  "confirmed": 593703,
-  "recovered": 353333,
-  "dead": 17521,
-  "active": 222783,
-  "updatedTime": "01/07/2020 20:10:25",
+  "confirmed": 596415,
+  "recovered": 355185,
+  "dead": 17587,
+  "active": 223577,
+  "updatedTime": "01/07/2020 20:23:25",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -55,18 +55,18 @@
     },
     "DL": {
       "name": "Delhi",
-      "confirmed": 87360,
-      "active": 26270,
-      "recovered": 58348,
-      "dead": 2742,
-      "updatedTime": "30/06/2020 22:43:15",
+      "confirmed": 89802,
+      "active": 27007,
+      "recovered": 59992,
+      "dead": 2803,
+      "updatedTime": "01/07/2020 20:23:26",
       "note": "Delhi bulletins in the morning, containing data of the previous day. We will add that data to the date on which the report is released, rather than the previous day.\n[June 16]: 344 deceased cases have been retroactively added to DL bulletin.",
       "stateCode": "DL",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 2442,
+        "recovered": 1644,
+        "dead": 61,
+        "active": 737
       },
       "testing_data": {
         "tested": 531752,
@@ -155,7 +155,7 @@
       "active": 5959,
       "recovered": 12528,
       "dead": 683,
-      "updatedTime": "01/07/2020 20:10:27",
+      "updatedTime": "01/07/2020 20:17:29",
       "note": "",
       "stateCode": "WB",
       "today": {
@@ -259,7 +259,7 @@
         "negative": 604822,
         "unconfirmed": 0,
         "date": "01/07/2020",
-        "source": ""
+        "source": "https://drive.google.com/file/d/1SMiDsxwGys05AizWPaDV7HXWZxA5E0eN/view"
       }
     },
     "AP": {
@@ -336,18 +336,18 @@
     },
     "JK": {
       "name": "Jammu and Kashmir",
-      "confirmed": 7497,
-      "active": 2674,
-      "recovered": 4722,
-      "dead": 101,
+      "confirmed": 7695,
+      "active": 2734,
+      "recovered": 4856,
+      "dead": 105,
       "updatedTime": "30/06/2020 21:03:19",
       "note": "",
       "stateCode": "JK",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 198,
+        "recovered": 134,
+        "dead": 4,
+        "active": 60
       },
       "testing_data": {
         "tested": 365058,
@@ -460,7 +460,7 @@
       "active": 562,
       "recovered": 2317,
       "dead": 41,
-      "updatedTime": "01/07/2020 20:10:29",
+      "updatedTime": "01/07/2020 20:22:30",
       "note": "27 Migrated cases reduced from Active count",
       "stateCode": "UT",
       "today": {
@@ -576,18 +576,18 @@
     },
     "GA": {
       "name": "Goa",
-      "confirmed": 1315,
-      "active": 716,
-      "recovered": 596,
-      "dead": 3,
-      "updatedTime": "30/06/2020 21:15:22",
+      "confirmed": 1387,
+      "active": 713,
+      "recovered": 670,
+      "dead": 4,
+      "updatedTime": "01/07/2020 20:23:28",
       "note": "",
       "stateCode": "GA",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 72,
+        "recovered": 74,
+        "dead": 1,
+        "active": -3
       },
       "testing_data": {
         "tested": 66491,
@@ -662,12 +662,12 @@
         "active": 3
       },
       "testing_data": {
-        "tested": 7689,
-        "positive": 440,
-        "negative": 7219,
-        "unconfirmed": 28,
-        "date": "30/06/2020",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/775"
+        "tested": 7792,
+        "positive": 446,
+        "negative": 0,
+        "unconfirmed": 0,
+        "date": "01/07/2020",
+        "source": ""
       }
     },
     "PY": {
@@ -880,19 +880,19 @@
     }
   },
   "testing_data": {
-    "tested": 10064850,
-    "positive": 594557,
-    "negative": 4582512,
-    "unconfirmed": 20348
+    "tested": 10064953,
+    "positive": 594563,
+    "negative": 4575293,
+    "unconfirmed": 20320
   },
   "testing_data_imcr": {
     "tested": 8826585,
     "source": "https://twitter.com/ICMRDELHI/status/1278172186612609025?s=20)"
   },
   "today": {
-    "confirmed": 7911,
-    "recovered": 5494,
-    "dead": 111,
-    "active": 2306
+    "confirmed": 10623,
+    "recovered": 7346,
+    "dead": 177,
+    "active": 3100
   }
 }
