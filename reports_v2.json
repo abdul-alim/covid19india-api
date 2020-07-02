@@ -1,9 +1,9 @@
 {
-  "confirmed": 607344,
-  "recovered": 361398,
-  "dead": 17875,
-  "active": 228005,
-  "updatedTime": "02/07/2020 19:24:25",
+  "confirmed": 608417,
+  "recovered": 362534,
+  "dead": 17900,
+  "active": 227917,
+  "updatedTime": "02/07/2020 19:44:25",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -151,18 +151,18 @@
     },
     "WB": {
       "name": "West Bengal",
-      "confirmed": 19170,
-      "active": 5959,
-      "recovered": 12528,
-      "dead": 683,
-      "updatedTime": "01/07/2020 20:17:29",
+      "confirmed": 19819,
+      "active": 6088,
+      "recovered": 13037,
+      "dead": 694,
+      "updatedTime": "02/07/2020 19:44:27",
       "note": "",
       "stateCode": "WB",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 649,
+        "recovered": 509,
+        "dead": 11,
+        "active": 129
       },
       "testing_data": {
         "tested": 508001,
@@ -199,18 +199,18 @@
     },
     "HR": {
       "name": "Haryana",
-      "confirmed": 15201,
-      "active": 4414,
-      "recovered": 10547,
-      "dead": 240,
-      "updatedTime": "02/07/2020 14:52:29",
+      "confirmed": 15509,
+      "active": 4239,
+      "recovered": 11019,
+      "dead": 251,
+      "updatedTime": "02/07/2020 19:44:28",
       "note": "",
       "stateCode": "HR",
       "today": {
-        "confirmed": 260,
-        "recovered": 48,
-        "dead": 0,
-        "active": 212
+        "confirmed": 568,
+        "recovered": 520,
+        "dead": 11,
+        "active": 37
       },
       "testing_data": {
         "tested": 277031,
@@ -218,7 +218,7 @@
         "negative": 256053,
         "unconfirmed": 5469,
         "date": "02/07/2020",
-        "source": ""
+        "source": "http://www.nhmharyana.gov.in/WriteReadData/userfiles/file/CoronaVirus/Daily%20Bulletin%20of%20COVID%2019%20as%20on%2002-07-20%20Evening.pdf"
       }
     },
     "UN": {
@@ -350,12 +350,12 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 371486,
-        "positive": 7695,
-        "negative": 363791,
+        "tested": 377961,
+        "positive": 7849,
+        "negative": 370112,
         "unconfirmed": 0,
-        "date": "01/07/2020",
-        "source": "https://twitter.com/diprjk/status/1278329793386176512?s=20"
+        "date": "02/07/2020",
+        "source": ""
       }
     },
     "AS": {
@@ -364,7 +364,7 @@
       "active": 2832,
       "recovered": 6107,
       "dead": 14,
-      "updatedTime": "02/07/2020 19:24:28",
+      "updatedTime": "02/07/2020 19:37:31",
       "note": "Includes one case from Nagaland.\nTotal of 3 patients who migrated to other states has been reduced from Active count",
       "stateCode": "AS",
       "today": {
@@ -408,18 +408,18 @@
     },
     "PB": {
       "name": "Punjab",
-      "confirmed": 5668,
-      "active": 1530,
-      "recovered": 3989,
-      "dead": 149,
-      "updatedTime": "01/07/2020 22:16:28",
+      "confirmed": 5784,
+      "active": 1488,
+      "recovered": 4144,
+      "dead": 152,
+      "updatedTime": "02/07/2020 19:44:30",
       "note": "",
       "stateCode": "PB",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 116,
+        "recovered": 155,
+        "dead": 3,
+        "active": -42
       },
       "testing_data": {
         "tested": 308998,
@@ -662,12 +662,12 @@
         "active": -20
       },
       "testing_data": {
-        "tested": 7792,
-        "positive": 446,
-        "negative": 0,
-        "unconfirmed": 0,
-        "date": "01/07/2020",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/814"
+        "tested": 7938,
+        "positive": 450,
+        "negative": 7457,
+        "unconfirmed": 29,
+        "date": "02/07/2020",
+        "source": "http://chdcovid19.in/"
       }
     },
     "PY": {
@@ -700,7 +700,7 @@
       "active": 338,
       "recovered": 197,
       "dead": 0,
-      "updatedTime": "02/07/2020 19:24:31",
+      "updatedTime": "02/07/2020 19:37:35",
       "note": "",
       "stateCode": "NL",
       "today": {
@@ -880,19 +880,19 @@
     }
   },
   "testing_data": {
-    "tested": 10258370,
-    "positive": 610384,
-    "negative": 4662185,
-    "unconfirmed": 20566
+    "tested": 10264991,
+    "positive": 610542,
+    "negative": 4675963,
+    "unconfirmed": 20595
   },
   "testing_data_imcr": {
     "tested": 9056173,
     "source": "https://twitter.com/ICMRDELHI/status/1278529927797551104?s=20)"
   },
   "today": {
-    "confirmed": 2123,
-    "recovered": 1495,
-    "dead": 27,
-    "active": 601
+    "confirmed": 3196,
+    "recovered": 2631,
+    "dead": 52,
+    "active": 513
   }
 }
