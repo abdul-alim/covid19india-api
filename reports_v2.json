@@ -1,9 +1,9 @@
 {
-  "confirmed": 608417,
-  "recovered": 362534,
-  "dead": 17900,
-  "active": 227917,
-  "updatedTime": "02/07/2020 19:44:25",
+  "confirmed": 608420,
+  "recovered": 362806,
+  "dead": 17897,
+  "active": 227651,
+  "updatedTime": "02/07/2020 19:53:25",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -152,17 +152,17 @@
     "WB": {
       "name": "West Bengal",
       "confirmed": 19819,
-      "active": 6088,
+      "active": 6091,
       "recovered": 13037,
-      "dead": 694,
-      "updatedTime": "02/07/2020 19:44:27",
+      "dead": 691,
+      "updatedTime": "02/07/2020 19:50:26",
       "note": "",
       "stateCode": "WB",
       "today": {
         "confirmed": 649,
         "recovered": 509,
-        "dead": 11,
-        "active": 129
+        "dead": 8,
+        "active": 132
       },
       "testing_data": {
         "tested": 508001,
@@ -203,7 +203,7 @@
       "active": 4239,
       "recovered": 11019,
       "dead": 251,
-      "updatedTime": "02/07/2020 19:44:28",
+      "updatedTime": "02/07/2020 19:47:30",
       "note": "",
       "stateCode": "HR",
       "today": {
@@ -241,25 +241,25 @@
     "KA": {
       "name": "Karnataka",
       "confirmed": 16514,
-      "active": 8192,
-      "recovered": 8065,
+      "active": 7921,
+      "recovered": 8336,
       "dead": 253,
-      "updatedTime": "01/07/2020 19:57:33",
+      "updatedTime": "02/07/2020 19:53:27",
       "note": "4 cases are classified as non-covid related deaths in KA bulletin. They have been reduced from active cases",
       "stateCode": "KA",
       "today": {
         "confirmed": 0,
-        "recovered": 0,
+        "recovered": 271,
         "dead": 0,
-        "active": 0
+        "active": -271
       },
       "testing_data": {
-        "tested": 637417,
-        "positive": 16514,
-        "negative": 604822,
+        "tested": 653627,
+        "positive": 18016,
+        "negative": 619292,
         "unconfirmed": 0,
-        "date": "01/07/2020",
-        "source": "https://drive.google.com/file/d/1SMiDsxwGys05AizWPaDV7HXWZxA5E0eN/view"
+        "date": "02/07/2020",
+        "source": "https://twitter.com/DHFWKA/status/1278691238544158720?s=20"
       }
     },
     "AP": {
@@ -355,7 +355,7 @@
         "negative": 370112,
         "unconfirmed": 0,
         "date": "02/07/2020",
-        "source": ""
+        "source": "https://twitter.com/diprjk/status/1278693587635458048?s=20"
       }
     },
     "AS": {
@@ -412,7 +412,7 @@
       "active": 1488,
       "recovered": 4144,
       "dead": 152,
-      "updatedTime": "02/07/2020 19:44:30",
+      "updatedTime": "02/07/2020 19:47:33",
       "note": "",
       "stateCode": "PB",
       "today": {
@@ -422,11 +422,11 @@
         "active": -42
       },
       "testing_data": {
-        "tested": 308998,
-        "positive": 5668,
+        "tested": 317802,
+        "positive": 5784,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "01/07/2020",
+        "date": "02/07/2020",
         "source": "http://pbhealth.gov.in/media-bulletin_July.htm"
       }
     },
@@ -648,18 +648,18 @@
     },
     "CH": {
       "name": "Chandigarh",
-      "confirmed": 447,
-      "active": 53,
-      "recovered": 388,
+      "confirmed": 450,
+      "active": 55,
+      "recovered": 389,
       "dead": 6,
-      "updatedTime": "02/07/2020 19:06:31",
+      "updatedTime": "02/07/2020 19:53:29",
       "note": "",
       "stateCode": "CH",
       "today": {
-        "confirmed": 1,
-        "recovered": 21,
+        "confirmed": 4,
+        "recovered": 22,
         "dead": 0,
-        "active": -20
+        "active": -18
       },
       "testing_data": {
         "tested": 7938,
@@ -880,9 +880,9 @@
     }
   },
   "testing_data": {
-    "tested": 10264991,
-    "positive": 610542,
-    "negative": 4675963,
+    "tested": 10290005,
+    "positive": 612160,
+    "negative": 4690433,
     "unconfirmed": 20595
   },
   "testing_data_imcr": {
@@ -890,9 +890,9 @@
     "source": "https://twitter.com/ICMRDELHI/status/1278529927797551104?s=20)"
   },
   "today": {
-    "confirmed": 3196,
-    "recovered": 2631,
-    "dead": 52,
-    "active": 513
+    "confirmed": 3199,
+    "recovered": 2903,
+    "dead": 49,
+    "active": 247
   }
 }
