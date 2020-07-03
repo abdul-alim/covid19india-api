@@ -1,9 +1,9 @@
 {
-  "confirmed": 638002,
-  "recovered": 386489,
+  "confirmed": 638039,
+  "recovered": 386512,
   "dead": 18399,
-  "active": 233048,
-  "updatedTime": "03/07/2020 20:23:25",
+  "active": 233062,
+  "updatedTime": "03/07/2020 20:36:25",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -21,11 +21,12 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 0,
-        "positive": 0,
-        "negative": 0,
+        "tested": 1052643,
+        "positive": 196405,
+        "negative": 856238,
         "unconfirmed": 0,
-        "updated": false
+        "date": "03/07/2020",
+        "source": "https://twitter.com/Maha_MEDD/status/1278925889950978053?s=20"
       }
     },
     "TN": {
@@ -81,7 +82,7 @@
       "active": 7840,
       "recovered": 24941,
       "dead": 1905,
-      "updatedTime": "03/07/2020 20:23:26",
+      "updatedTime": "03/07/2020 20:36:27",
       "note": "",
       "stateCode": "GJ",
       "today": {
@@ -184,12 +185,12 @@
         "active": -47
       },
       "testing_data": {
-        "tested": 380655,
-        "positive": 14106,
-        "negative": 362735,
+        "tested": 389180,
+        "positive": 14297,
+        "negative": 371069,
         "unconfirmed": 0,
-        "date": "02/07/2020",
-        "source": "https://twitter.com/healthminmp/status/1278674577334218753?s=20"
+        "date": "03/07/2020",
+        "source": "https://twitter.com/healthminmp/status/1279045394119315456?s=20"
       }
     },
     "HR": {
@@ -198,7 +199,7 @@
       "active": 4057,
       "recovered": 11691,
       "dead": 255,
-      "updatedTime": "03/07/2020 20:23:29",
+      "updatedTime": "03/07/2020 20:36:29",
       "note": "",
       "stateCode": "HR",
       "today": {
@@ -239,7 +240,7 @@
       "active": 10606,
       "recovered": 8807,
       "dead": 293,
-      "updatedTime": "03/07/2020 20:23:31",
+      "updatedTime": "03/07/2020 20:36:31",
       "note": "4 cases are classified as non-covid related deaths in KA bulletin. They have been reduced from active cases",
       "stateCode": "KA",
       "today": {
@@ -452,7 +453,7 @@
       "active": 498,
       "recovered": 2481,
       "dead": 42,
-      "updatedTime": "03/07/2020 20:23:33",
+      "updatedTime": "03/07/2020 20:36:33",
       "note": "27 Migrated cases reduced from Active count",
       "stateCode": "UT",
       "today": {
@@ -570,7 +571,7 @@
       "active": 800,
       "recovered": 772,
       "dead": 4,
-      "updatedTime": "03/07/2020 20:23:35",
+      "updatedTime": "03/07/2020 20:36:35",
       "note": "",
       "stateCode": "GA",
       "today": {
@@ -614,25 +615,26 @@
     },
     "MN": {
       "name": "Manipur",
-      "confirmed": 1279,
-      "active": 663,
-      "recovered": 616,
+      "confirmed": 1316,
+      "active": 677,
+      "recovered": 639,
       "dead": 0,
-      "updatedTime": "02/07/2020 20:47:31",
+      "updatedTime": "03/07/2020 20:36:37",
       "note": "",
       "stateCode": "MN",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 37,
+        "recovered": 23,
         "dead": 0,
-        "active": 0
+        "active": 14
       },
       "testing_data": {
-        "tested": 0,
-        "positive": 0,
+        "tested": 53030,
+        "positive": 1279,
         "negative": 0,
         "unconfirmed": 0,
-        "updated": false
+        "date": "02/07/2020",
+        "source": "https://twitter.com/DiprManipur/status/1278704336055332864?s=20"
       }
     },
     "CH": {
@@ -698,11 +700,12 @@
         "active": -27
       },
       "testing_data": {
-        "tested": 0,
-        "positive": 0,
+        "tested": 17887,
+        "positive": 535,
         "negative": 0,
         "unconfirmed": 0,
-        "updated": false
+        "date": "02/07/2020",
+        "source": "https://twitter.com/MyGovNagaland/status/1278679710243807232?s=20"
       }
     },
     "MZ": {
@@ -721,11 +724,12 @@
         "active": -1
       },
       "testing_data": {
-        "tested": 0,
-        "positive": 0,
+        "tested": 14370,
+        "positive": 162,
         "negative": 0,
         "unconfirmed": 0,
-        "updated": false
+        "date": "03/07/2020",
+        "source": "https://dipr.mizoram.gov.in/post/status-of-state-surveillance-of-covid-19-time-272020-500pm-372020-500-pm"
       }
     },
     "AR": {
@@ -832,11 +836,12 @@
         "active": 4
       },
       "testing_data": {
-        "tested": 0,
-        "positive": 0,
+        "tested": 19732,
+        "positive": 55,
         "negative": 0,
         "unconfirmed": 0,
-        "updated": false
+        "date": "02/07/2020",
+        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/861"
       }
     },
     "LD": {
@@ -864,9 +869,9 @@
     }
   },
   "testing_data": {
-    "tested": 5112900,
-    "positive": 233553,
-    "negative": 2866504,
+    "tested": 6279087,
+    "positive": 432180,
+    "negative": 3731076,
     "unconfirmed": 12560
   },
   "testing_data_imcr": {
@@ -874,9 +879,9 @@
     "source": "https://twitter.com/ICMRDELHI/status/1278893457470222337?s=20"
   },
   "today": {
-    "confirmed": 10834,
-    "recovered": 6587,
+    "confirmed": 10871,
+    "recovered": 6610,
     "dead": 174,
-    "active": 4073
+    "active": 4087
   }
 }
