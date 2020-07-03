@@ -1,9 +1,9 @@
 {
-  "confirmed": 649492,
-  "recovered": 394298,
+  "confirmed": 649504,
+  "recovered": 394315,
   "dead": 18669,
-  "active": 236459,
-  "updatedTime": "03/07/2020 23:23:25",
+  "active": 236454,
+  "updatedTime": "03/07/2020 23:53:25",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -141,12 +141,12 @@
         "active": 47
       },
       "testing_data": {
-        "tested": 854274,
-        "positive": 18662,
-        "negative": 832738,
-        "unconfirmed": 2874,
-        "date": "02/07/2020",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/851"
+        "tested": 869602,
+        "positive": 19052,
+        "negative": 846953,
+        "unconfirmed": 3597,
+        "date": "03/07/2020",
+        "source": ""
       }
     },
     "WB": {
@@ -316,7 +316,7 @@
       "active": 9984,
       "recovered": 10195,
       "dead": 283,
-      "updatedTime": "03/07/2020 23:23:26",
+      "updatedTime": "03/07/2020 23:25:27",
       "note": "",
       "stateCode": "TG",
       "today": {
@@ -398,12 +398,12 @@
         "active": 356
       },
       "testing_data": {
-        "tested": 274672,
-        "positive": 7545,
+        "tested": 281523,
+        "positive": 8106,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "02/07/2020",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/860?single"
+        "date": "03/07/2020",
+        "source": "https://statedashboard.odisha.gov.in/"
       }
     },
     "PB": {
@@ -532,7 +532,7 @@
       "active": 333,
       "recovered": 1199,
       "dead": 1,
-      "updatedTime": "03/07/2020 23:23:28",
+      "updatedTime": "03/07/2020 23:37:27",
       "note": "",
       "stateCode": "TR",
       "today": {
@@ -600,18 +600,18 @@
     },
     "HP": {
       "name": "Himachal Pradesh",
-      "confirmed": 1021,
-      "active": 345,
-      "recovered": 654,
+      "confirmed": 1033,
+      "active": 340,
+      "recovered": 671,
       "dead": 9,
-      "updatedTime": "03/07/2020 17:52:31",
+      "updatedTime": "03/07/2020 23:53:26",
       "note": "HP has 14 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed",
       "stateCode": "HP",
       "today": {
-        "confirmed": 7,
-        "recovered": 22,
+        "confirmed": 19,
+        "recovered": 39,
         "dead": 0,
-        "active": -15
+        "active": -20
       },
       "testing_data": {
         "tested": 85116,
@@ -880,19 +880,19 @@
     }
   },
   "testing_data": {
-    "tested": 10670665,
-    "positive": 642656,
-    "negative": 5190288,
-    "unconfirmed": 21315
+    "tested": 10692844,
+    "positive": 643607,
+    "negative": 5204503,
+    "unconfirmed": 22038
   },
   "testing_data_imcr": {
     "tested": 9297749,
     "source": "https://twitter.com/ICMRDELHI/status/1278893457470222337?s=20"
   },
   "today": {
-    "confirmed": 22324,
-    "recovered": 14396,
+    "confirmed": 22336,
+    "recovered": 14413,
     "dead": 444,
-    "active": 7484
+    "active": 7479
   }
 }
