@@ -1,9 +1,9 @@
 {
-  "confirmed": 651046,
-  "recovered": 395126,
+  "confirmed": 651065,
+  "recovered": 395128,
   "dead": 18695,
-  "active": 237159,
-  "updatedTime": "04/07/2020 17:19:25",
+  "active": 237176,
+  "updatedTime": "04/07/2020 17:49:25",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -279,7 +279,7 @@
       },
       "testing_data": {
         "tested": 996573,
-        "positive": 0,
+        "positive": 17699,
         "negative": 978874,
         "unconfirmed": 0,
         "date": "04/07/2020",
@@ -292,7 +292,7 @@
       "active": 2881,
       "recovered": 8488,
       "dead": 88,
-      "updatedTime": "04/07/2020 17:23:25",
+      "updatedTime": "04/07/2020 17:35:28",
       "note": "",
       "stateCode": "BR",
       "today": {
@@ -648,18 +648,18 @@
     },
     "CH": {
       "name": "Chandigarh",
-      "confirmed": 454,
-      "active": 55,
-      "recovered": 393,
+      "confirmed": 459,
+      "active": 58,
+      "recovered": 395,
       "dead": 6,
-      "updatedTime": "02/07/2020 20:06:50",
+      "updatedTime": "04/07/2020 17:49:28",
       "note": "",
       "stateCode": "CH",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 5,
+        "recovered": 2,
         "dead": 0,
-        "active": 0
+        "active": 3
       },
       "testing_data": {
         "tested": 8074,
@@ -792,18 +792,18 @@
     },
     "DN": {
       "name": "Dadra and Nagar Haveli and Daman and Diu",
-      "confirmed": 327,
-      "active": 184,
+      "confirmed": 341,
+      "active": 198,
       "recovered": 142,
       "dead": 0,
-      "updatedTime": "04/07/2020 15:16:30",
+      "updatedTime": "04/07/2020 17:48:31",
       "note": "",
       "stateCode": "DN",
       "today": {
-        "confirmed": 23,
+        "confirmed": 37,
         "recovered": 9,
         "dead": 0,
-        "active": 14
+        "active": 28
       },
       "isUnknown": true
     },
@@ -837,7 +837,7 @@
       "active": 25,
       "recovered": 43,
       "dead": 1,
-      "updatedTime": "04/07/2020 17:23:28",
+      "updatedTime": "04/07/2020 17:35:33",
       "note": "[June 17]:\nOne case was identified to be false positive and has been removed from the confirmed cases by ML authorities.",
       "stateCode": "ML",
       "today": {
@@ -881,7 +881,7 @@
   },
   "testing_data": {
     "tested": 10795922,
-    "positive": 637752,
+    "positive": 655451,
     "negative": 5260841,
     "unconfirmed": 22177
   },
@@ -890,9 +890,9 @@
     "source": "https://twitter.com/ICMRDELHI/status/1279256992754790405?s=20)"
   },
   "today": {
-    "confirmed": 1160,
-    "recovered": 807,
+    "confirmed": 1179,
+    "recovered": 809,
     "dead": 26,
-    "active": 327
+    "active": 344
   }
 }
