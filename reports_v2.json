@@ -1,9 +1,9 @@
 {
-  "confirmed": 656072,
-  "recovered": 398062,
-  "dead": 18770,
-  "active": 239174,
-  "updatedTime": "04/07/2020 19:23:25",
+  "confirmed": 658591,
+  "recovered": 400699,
+  "dead": 18851,
+  "active": 238975,
+  "updatedTime": "04/07/2020 19:36:25",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -55,26 +55,26 @@
     },
     "DL": {
       "name": "Delhi",
-      "confirmed": 94695,
-      "active": 26148,
-      "recovered": 65624,
-      "dead": 2923,
-      "updatedTime": "03/07/2020 21:49:28",
+      "confirmed": 97200,
+      "active": 25940,
+      "recovered": 68256,
+      "dead": 3004,
+      "updatedTime": "04/07/2020 19:36:27",
       "note": "Delhi bulletins in the morning, containing data of the previous day. We will add that data to the date on which the report is released, rather than the previous day.\n[June 16]: 344 deceased cases have been retroactively added to DL bulletin.",
       "stateCode": "DL",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 2505,
+        "recovered": 2632,
+        "dead": 81,
+        "active": -208
       },
       "testing_data": {
-        "tested": 596695,
-        "positive": 94695,
+        "tested": 620368,
+        "positive": 97200,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "03/07/2020",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/879"
+        "date": "04/07/2020",
+        "source": "https://twitter.com/CMODelhi/status/1279413660561977346"
       }
     },
     "GJ": {
@@ -175,18 +175,18 @@
     },
     "MP": {
       "name": "Madhya Pradesh",
-      "confirmed": 14598,
-      "active": 2770,
-      "recovered": 11230,
+      "confirmed": 14604,
+      "active": 2772,
+      "recovered": 11234,
       "dead": 598,
-      "updatedTime": "04/07/2020 19:23:27",
+      "updatedTime": "04/07/2020 19:36:29",
       "note": "",
       "stateCode": "MP",
       "today": {
-        "confirmed": 301,
-        "recovered": 181,
+        "confirmed": 307,
+        "recovered": 185,
         "dead": 5,
-        "active": 115
+        "active": 117
       },
       "testing_data": {
         "tested": 398329,
@@ -412,7 +412,7 @@
       "active": 1641,
       "recovered": 4306,
       "dead": 162,
-      "updatedTime": "04/07/2020 19:23:28",
+      "updatedTime": "04/07/2020 19:25:29",
       "note": "",
       "stateCode": "PB",
       "today": {
@@ -447,11 +447,11 @@
       },
       "testing_data": {
         "tested": 260011,
-        "positive": 0,
+        "positive": 5205,
         "negative": 0,
-        "unconfirmed": 0,
+        "unconfirmed": 5092,
         "date": "04/07/2020",
-        "source": ""
+        "source": "https://dhs.kerala.gov.in/wp-content/uploads/2020/07/Bulletin-HFWD-English-July-4.pdf"
       }
     },
     "UT": {
@@ -480,18 +480,18 @@
     },
     "CT": {
       "name": "Chhattisgarh",
-      "confirmed": 3065,
-      "active": 637,
+      "confirmed": 3074,
+      "active": 646,
       "recovered": 2414,
       "dead": 14,
       "updatedTime": "02/07/2020 22:21:33",
       "note": "",
       "stateCode": "CT",
       "today": {
-        "confirmed": 0,
+        "confirmed": 9,
         "recovered": 0,
         "dead": 0,
-        "active": 0
+        "active": 9
       },
       "testing_data": {
         "tested": 177554,
@@ -552,18 +552,18 @@
     },
     "LA": {
       "name": "Ladakh",
-      "confirmed": 1006,
-      "active": 180,
-      "recovered": 825,
+      "confirmed": 1005,
+      "active": 178,
+      "recovered": 826,
       "dead": 1,
-      "updatedTime": "04/07/2020 19:13:31",
+      "updatedTime": "04/07/2020 19:36:31",
       "note": "",
       "stateCode": "LA",
       "today": {
-        "confirmed": 4,
-        "recovered": 49,
+        "confirmed": 3,
+        "recovered": 50,
         "dead": 0,
-        "active": -45
+        "active": -47
       },
       "testing_data": {
         "tested": 14537,
@@ -710,12 +710,12 @@
         "active": 23
       },
       "testing_data": {
-        "tested": 18635,
-        "positive": 539,
+        "tested": 19263,
+        "positive": 563,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "03/07/2020",
-        "source": "https://twitter.com/MyGovNagaland/status/1279047412707819521?s=20"
+        "date": "04/07/2020",
+        "source": "https://twitter.com/MyGovNagaland/status/1279391067880648704?s=20"
       }
     },
     "MZ": {
@@ -880,19 +880,19 @@
     }
   },
   "testing_data": {
-    "tested": 10856476,
-    "positive": 655629,
+    "tested": 10880777,
+    "positive": 663363,
     "negative": 5269839,
-    "unconfirmed": 17473
+    "unconfirmed": 22565
   },
   "testing_data_imcr": {
     "tested": 9540132,
     "source": "https://twitter.com/ICMRDELHI/status/1279256992754790405?s=20)"
   },
   "today": {
-    "confirmed": 6186,
-    "recovered": 3743,
-    "dead": 101,
-    "active": 2342
+    "confirmed": 8705,
+    "recovered": 6380,
+    "dead": 182,
+    "active": 2143
   }
 }
