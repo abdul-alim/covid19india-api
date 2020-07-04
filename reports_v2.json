@@ -1,9 +1,9 @@
 {
-  "confirmed": 658591,
-  "recovered": 400699,
+  "confirmed": 658650,
+  "recovered": 400813,
   "dead": 18851,
-  "active": 238975,
-  "updatedTime": "04/07/2020 19:36:25",
+  "active": 238920,
+  "updatedTime": "04/07/2020 19:45:25",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -59,7 +59,7 @@
       "active": 25940,
       "recovered": 68256,
       "dead": 3004,
-      "updatedTime": "04/07/2020 19:36:27",
+      "updatedTime": "04/07/2020 19:41:26",
       "note": "Delhi bulletins in the morning, containing data of the previous day. We will add that data to the date on which the report is released, rather than the previous day.\n[June 16]: 344 deceased cases have been retroactively added to DL bulletin.",
       "stateCode": "DL",
       "today": {
@@ -179,7 +179,7 @@
       "active": 2772,
       "recovered": 11234,
       "dead": 598,
-      "updatedTime": "04/07/2020 19:36:29",
+      "updatedTime": "04/07/2020 19:41:28",
       "note": "",
       "stateCode": "MP",
       "today": {
@@ -422,12 +422,12 @@
         "active": 127
       },
       "testing_data": {
-        "tested": 324054,
-        "positive": 5937,
+        "tested": 331585,
+        "positive": 6109,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "03/07/2020",
-        "source": "http://pbhealth.gov.in/Media%20Bulletin%20COVID-19%2003-07-2020.pdf"
+        "date": "04/07/2020",
+        "source": ""
       }
     },
     "KL": {
@@ -480,18 +480,18 @@
     },
     "CT": {
       "name": "Chhattisgarh",
-      "confirmed": 3074,
-      "active": 646,
-      "recovered": 2414,
+      "confirmed": 3133,
+      "active": 593,
+      "recovered": 2526,
       "dead": 14,
-      "updatedTime": "02/07/2020 22:21:33",
+      "updatedTime": "04/07/2020 19:45:27",
       "note": "",
       "stateCode": "CT",
       "today": {
-        "confirmed": 9,
-        "recovered": 0,
+        "confirmed": 68,
+        "recovered": 112,
         "dead": 0,
-        "active": 9
+        "active": -44
       },
       "testing_data": {
         "tested": 177554,
@@ -556,7 +556,7 @@
       "active": 178,
       "recovered": 826,
       "dead": 1,
-      "updatedTime": "04/07/2020 19:36:31",
+      "updatedTime": "04/07/2020 19:41:31",
       "note": "",
       "stateCode": "LA",
       "today": {
@@ -734,12 +734,12 @@
         "active": -1
       },
       "testing_data": {
-        "tested": 14370,
-        "positive": 162,
+        "tested": 14509,
+        "positive": 164,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "03/07/2020",
-        "source": "https://dipr.mizoram.gov.in/post/status-of-state-surveillance-of-covid-19-time-272020-500pm-372020-500-pm"
+        "date": "04/07/2020",
+        "source": "https://dipr.mizoram.gov.in/post/status-of-state-surveillance-of-covid-19-time-372020-500pm-472020-500-pm"
       }
     },
     "AR": {
@@ -810,17 +810,17 @@
     "AN": {
       "name": "Andaman and Nicobar",
       "confirmed": 119,
-      "active": 65,
-      "recovered": 54,
+      "active": 63,
+      "recovered": 56,
       "dead": 0,
-      "updatedTime": "04/07/2020 09:44:28",
+      "updatedTime": "04/07/2020 19:45:28",
       "note": "",
       "stateCode": "AN",
       "today": {
         "confirmed": 3,
-        "recovered": 0,
+        "recovered": 2,
         "dead": 0,
-        "active": 3
+        "active": 1
       },
       "testing_data": {
         "tested": 16626,
@@ -880,8 +880,8 @@
     }
   },
   "testing_data": {
-    "tested": 10880777,
-    "positive": 663363,
+    "tested": 10888447,
+    "positive": 663537,
     "negative": 5269839,
     "unconfirmed": 22565
   },
@@ -890,9 +890,9 @@
     "source": "https://twitter.com/ICMRDELHI/status/1279256992754790405?s=20)"
   },
   "today": {
-    "confirmed": 8705,
-    "recovered": 6380,
+    "confirmed": 8764,
+    "recovered": 6494,
     "dead": 182,
-    "active": 2143
+    "active": 2088
   }
 }
