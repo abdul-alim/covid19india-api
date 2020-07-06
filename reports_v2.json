@@ -1,24 +1,24 @@
 {
-  "confirmed": 705161,
-  "recovered": 430260,
-  "dead": 19793,
-  "active": 255025,
-  "updatedTime": "06/07/2020 19:17:26",
+  "confirmed": 711997,
+  "recovered": 434734,
+  "dead": 20045,
+  "active": 257135,
+  "updatedTime": "06/07/2020 19:46:25",
   "states": {
     "MH": {
       "name": "Maharashtra",
-      "confirmed": 206619,
-      "active": 86040,
-      "recovered": 111740,
-      "dead": 8822,
-      "updatedTime": "05/07/2020 21:06:27",
+      "confirmed": 211987,
+      "active": 87682,
+      "recovered": 115262,
+      "dead": 9026,
+      "updatedTime": "06/07/2020 19:46:27",
       "note": "17 cases were marked as non-covid deaths in MH bulletin. These have been reduced from deceased and active counts\n[June 16] : 1328 deceased cases have been retroactively added to MH bulletin.\n[June 20]: 69 deceased cases have been reduced based on state bulletin.\n",
       "stateCode": "MH",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 5368,
+        "recovered": 3522,
+        "dead": 204,
+        "active": 1642
       },
       "testing_data": {
         "tested": 1138706,
@@ -55,18 +55,18 @@
     },
     "DL": {
       "name": "Delhi",
-      "confirmed": 99444,
-      "active": 25038,
-      "recovered": 71339,
-      "dead": 3067,
-      "updatedTime": "05/07/2020 19:06:27",
+      "confirmed": 100823,
+      "active": 25620,
+      "recovered": 72088,
+      "dead": 3115,
+      "updatedTime": "06/07/2020 19:46:29",
       "note": "Delhi bulletins in the morning, containing data of the previous day. We will add that data to the date on which the report is released, rather than the previous day.\n[June 16]: 344 deceased cases have been retroactively added to DL bulletin.",
       "stateCode": "DL",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 1379,
+        "recovered": 749,
+        "dead": 48,
+        "active": 582
       },
       "testing_data": {
         "tested": 643504,
@@ -446,28 +446,28 @@
         "active": 24
       },
       "testing_data": {
-        "tested": 268218,
-        "positive": 5430,
+        "tested": 275823,
+        "positive": 5623,
         "negative": 0,
-        "unconfirmed": 5881,
-        "date": "05/07/2020",
-        "source": "https://dhs.kerala.gov.in/wp-content/uploads/2020/07/Bulletin-HFWD-English-July-5.pdf"
+        "unconfirmed": 4179,
+        "date": "06/07/2020",
+        "source": ""
       }
     },
     "UT": {
       "name": "Uttarakhand",
-      "confirmed": 3124,
-      "active": 530,
-      "recovered": 2524,
+      "confirmed": 3161,
+      "active": 505,
+      "recovered": 2586,
       "dead": 42,
-      "updatedTime": "05/07/2020 19:49:36",
+      "updatedTime": "06/07/2020 19:46:37",
       "note": "28 Migrated cases reduced from Active count",
       "stateCode": "UT",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 37,
+        "recovered": 62,
         "dead": 0,
-        "active": 0
+        "active": -25
       },
       "testing_data": {
         "tested": 78306,
@@ -576,18 +576,18 @@
     },
     "GA": {
       "name": "Goa",
-      "confirmed": 1761,
-      "active": 818,
-      "recovered": 936,
+      "confirmed": 1813,
+      "active": 745,
+      "recovered": 1061,
       "dead": 7,
-      "updatedTime": "05/07/2020 23:15:48",
+      "updatedTime": "06/07/2020 19:46:40",
       "note": "",
       "stateCode": "GA",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 52,
+        "recovered": 125,
         "dead": 0,
-        "active": 0
+        "active": -73
       },
       "testing_data": {
         "tested": 75791,
@@ -697,17 +697,17 @@
     "NL": {
       "name": "Nagaland",
       "confirmed": 625,
-      "active": 394,
-      "recovered": 231,
+      "active": 382,
+      "recovered": 243,
       "dead": 0,
-      "updatedTime": "06/07/2020 17:55:37",
+      "updatedTime": "06/07/2020 19:46:42",
       "note": "",
       "stateCode": "NL",
       "today": {
         "confirmed": 35,
-        "recovered": 0,
+        "recovered": 12,
         "dead": 0,
-        "active": 35
+        "active": 23
       },
       "testing_data": {
         "tested": 19867,
@@ -769,17 +769,17 @@
     "SK": {
       "name": "Sikkim",
       "confirmed": 125,
-      "active": 51,
-      "recovered": 61,
+      "active": 47,
+      "recovered": 65,
       "dead": 0,
-      "updatedTime": "05/07/2020 21:17:37",
+      "updatedTime": "06/07/2020 19:46:45",
       "note": "13 Migrated cases reduced from Active count",
       "stateCode": "SK",
       "today": {
         "confirmed": 0,
-        "recovered": 0,
+        "recovered": 4,
         "dead": 0,
-        "active": 0
+        "active": -4
       },
       "testing_data": {
         "tested": 11387,
@@ -880,19 +880,19 @@
     }
   },
   "testing_data": {
-    "tested": 11333273,
-    "positive": 703245,
+    "tested": 11340878,
+    "positive": 703438,
     "negative": 5494403,
-    "unconfirmed": 24896
+    "unconfirmed": 23194
   },
   "testing_data_imcr": {
     "tested": 9969662,
     "source": "https://twitter.com/ICMRDELHI/status/1279980092995694592?s=20"
   },
   "today": {
-    "confirmed": 7316,
-    "recovered": 5366,
-    "dead": 92,
-    "active": 1858
+    "confirmed": 14152,
+    "recovered": 9840,
+    "dead": 344,
+    "active": 3968
   }
 }
