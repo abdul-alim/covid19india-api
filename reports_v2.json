@@ -1,9 +1,9 @@
 {
   "confirmed": 705161,
-  "recovered": 430250,
+  "recovered": 430260,
   "dead": 19793,
-  "active": 255035,
-  "updatedTime": "06/07/2020 18:46:27",
+  "active": 255025,
+  "updatedTime": "06/07/2020 19:12:25",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -117,12 +117,12 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 78306,
-        "positive": 3124,
-        "negative": 66407,
-        "unconfirmed": 6171,
+        "tested": 864068,
+        "positive": 27707,
+        "negative": 0,
+        "unconfirmed": 0,
         "date": "05/07/2020",
-        "source": "https://twitter.com/PIBDehradun/status/1279785858426494978?s=20"
+        "source": "https://twitter.com/UPGovt/status/1279767787922059265?s=20"
       }
     },
     "RJ": {
@@ -179,7 +179,7 @@
       "active": 3088,
       "recovered": 11579,
       "dead": 617,
-      "updatedTime": "06/07/2020 18:46:30",
+      "updatedTime": "06/07/2020 19:04:28",
       "note": "",
       "stateCode": "MP",
       "today": {
@@ -436,7 +436,7 @@
       "active": 2252,
       "recovered": 3341,
       "dead": 28,
-      "updatedTime": "06/07/2020 18:46:34",
+      "updatedTime": "06/07/2020 18:52:33",
       "note": "Mahe native who expired in Kannur included in Kerala's tally.\nOne patient who absconded from Palakkad to TN and one patient who returned back to Maharashtra has been reduced from active count",
       "stateCode": "KL",
       "today": {
@@ -470,12 +470,12 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 76878,
-        "positive": 3093,
-        "negative": 64801,
-        "unconfirmed": 6384,
-        "date": "04/07/2020",
-        "source": "https://twitter.com/PIBDehradun/status/1279428072748400647?s=20"
+        "tested": 78306,
+        "positive": 3124,
+        "negative": 66407,
+        "unconfirmed": 6171,
+        "date": "05/07/2020",
+        "source": "https://twitter.com/PIBDehradun/status/1279785858426494978?s=20"
       }
     },
     "CT": {
@@ -553,17 +553,17 @@
     "LA": {
       "name": "Ladakh",
       "confirmed": 1005,
-      "active": 178,
-      "recovered": 826,
+      "active": 168,
+      "recovered": 836,
       "dead": 1,
-      "updatedTime": "04/07/2020 19:49:30",
+      "updatedTime": "06/07/2020 19:12:31",
       "note": "",
       "stateCode": "LA",
       "today": {
         "confirmed": 0,
-        "recovered": 0,
+        "recovered": 10,
         "dead": 0,
-        "active": 0
+        "active": -10
       },
       "testing_data": {
         "tested": 14537,
@@ -796,7 +796,7 @@
       "active": 223,
       "recovered": 174,
       "dead": 0,
-      "updatedTime": "06/07/2020 18:46:37",
+      "updatedTime": "06/07/2020 18:52:47",
       "note": "3 cases are migrated to different states which are reduced from active count.",
       "stateCode": "DN",
       "today": {
@@ -880,10 +880,10 @@
     }
   },
   "testing_data": {
-    "tested": 10546083,
-    "positive": 678631,
-    "negative": 5559204,
-    "unconfirmed": 31280
+    "tested": 11333273,
+    "positive": 703245,
+    "negative": 5494403,
+    "unconfirmed": 24896
   },
   "testing_data_imcr": {
     "tested": 9969662,
@@ -891,8 +891,8 @@
   },
   "today": {
     "confirmed": 7316,
-    "recovered": 5356,
+    "recovered": 5366,
     "dead": 92,
-    "active": 1868
+    "active": 1858
   }
 }
