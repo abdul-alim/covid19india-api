@@ -322,14 +322,14 @@
       {
         "district": "Changlang",
         "notes": "",
-        "active": 54,
+        "active": 40,
         "confirmed": 91,
-        "recovered": 37,
+        "recovered": 51,
         "dead": 0,
         "today": {
           "confirmed": 0,
-          "recovered": 0,
-          "active": 0,
+          "recovered": 14,
+          "active": -14,
           "dead": 0
         }
       },
@@ -518,14 +518,14 @@
       {
         "district": "Papum Pare",
         "notes": "",
-        "active": 83,
-        "confirmed": 93,
+        "active": 84,
+        "confirmed": 94,
         "recovered": 10,
         "dead": 0,
         "today": {
-          "confirmed": 0,
+          "confirmed": 1,
           "recovered": 0,
-          "active": 0,
+          "active": 1,
           "dead": 0
         }
       },
@@ -630,15 +630,15 @@
       {
         "district": "West Kameng",
         "notes": "",
-        "active": 20,
+        "active": 19,
         "confirmed": 27,
         "recovered": 6,
-        "dead": 1,
+        "dead": 2,
         "today": {
           "confirmed": 0,
           "recovered": 0,
-          "active": 0,
-          "dead": 0
+          "active": -1,
+          "dead": 1
         }
       },
       {
@@ -657,15 +657,15 @@
       }
     ],
     "today": {
-      "confirmed": 0,
-      "active": 0,
-      "recovered": 0,
-      "dead": 0
+      "confirmed": 1,
+      "active": -14,
+      "recovered": 14,
+      "dead": 1
     },
-    "confirmed": 269,
-    "recovered": 78,
-    "dead": 1,
-    "active": 190
+    "confirmed": 270,
+    "recovered": 92,
+    "dead": 2,
+    "active": 176
   },
   "AS": {
     "state": "Assam",
