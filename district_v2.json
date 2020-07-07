@@ -2425,15 +2425,15 @@
       {
         "district": "North Goa",
         "notes": "",
-        "active": 206,
+        "active": 205,
         "confirmed": 309,
         "recovered": 101,
-        "dead": 2,
+        "dead": 3,
         "today": {
           "confirmed": 0,
           "recovered": 0,
-          "active": 0,
-          "dead": 0
+          "active": -1,
+          "dead": 1
         }
       },
       {
@@ -2453,14 +2453,14 @@
     ],
     "today": {
       "confirmed": 0,
-      "active": 0,
+      "active": -1,
       "recovered": 0,
-      "dead": 0
+      "dead": 1
     },
     "confirmed": 1903,
     "recovered": 1156,
-    "dead": 7,
-    "active": 740
+    "dead": 8,
+    "active": 739
   },
   "GJ": {
     "state": "Gujarat",
@@ -10682,14 +10682,14 @@
       {
         "district": "Almora",
         "notes": "",
-        "active": 29,
+        "active": 21,
         "confirmed": 198,
-        "recovered": 167,
+        "recovered": 175,
         "dead": 2,
         "today": {
           "confirmed": 2,
-          "recovered": 2,
-          "active": 0,
+          "recovered": 10,
+          "active": -8,
           "dead": 0
         }
       },
@@ -10850,28 +10850,28 @@
       {
         "district": "Uttarkashi",
         "notes": "",
-        "active": 21,
-        "confirmed": 85,
+        "active": 23,
+        "confirmed": 87,
         "recovered": 63,
         "dead": 1,
         "today": {
-          "confirmed": 1,
+          "confirmed": 3,
           "recovered": 3,
-          "active": -2,
+          "active": 0,
           "dead": 0
         }
       }
     ],
     "today": {
-      "confirmed": 67,
-      "active": 39,
-      "recovered": 27,
+      "confirmed": 69,
+      "active": 33,
+      "recovered": 35,
       "dead": 1
     },
-    "confirmed": 3228,
-    "recovered": 2613,
+    "confirmed": 3230,
+    "recovered": 2621,
     "dead": 43,
-    "active": 544
+    "active": 538
   },
   "WB": {
     "state": "West Bengal",
