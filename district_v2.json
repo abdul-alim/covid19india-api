@@ -5474,15 +5474,15 @@
       {
         "district": "East Khasi Hills",
         "notes": "",
-        "active": 31,
+        "active": 30,
         "confirmed": 49,
         "recovered": 17,
-        "dead": 1,
+        "dead": 2,
         "today": {
           "confirmed": 0,
           "recovered": 0,
-          "active": 0,
-          "dead": 0
+          "active": -1,
+          "dead": 1
         }
       },
       {
@@ -5600,9 +5600,9 @@
     ],
     "today": {
       "confirmed": 0,
-      "active": 0,
+      "active": -1,
       "recovered": 0,
-      "dead": 0
+      "dead": 1
     },
     "confirmed": 88,
     "recovered": 43,
