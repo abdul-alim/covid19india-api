@@ -1,9 +1,9 @@
 {
-  "confirmed": 721310,
+  "confirmed": 721344,
   "recovered": 440229,
   "dead": 20184,
-  "active": 260801,
-  "updatedTime": "07/07/2020 11:35:25",
+  "active": 260835,
+  "updatedTime": "07/07/2020 12:13:26",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -165,12 +165,11 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 552007,
-        "positive": 22987,
+        "tested": 0,
+        "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "06/07/2020",
-        "source": "https://www.wbhealth.gov.in/uploaded_files/corona/WB_DHFW_Bulletin_6th_JULY_REPORT_FINAL.pdf"
+        "updated": false
       }
     },
     "MP": {
@@ -504,18 +503,18 @@
     },
     "JH": {
       "name": "Jharkhand",
-      "confirmed": 2854,
-      "active": 766,
+      "confirmed": 2877,
+      "active": 789,
       "recovered": 2068,
       "dead": 20,
-      "updatedTime": "06/07/2020 22:39:32",
+      "updatedTime": "07/07/2020 12:13:31",
       "note": "",
       "stateCode": "JH",
       "today": {
-        "confirmed": 0,
+        "confirmed": 23,
         "recovered": 0,
         "dead": 0,
-        "active": 0
+        "active": 23
       },
       "testing_data": {
         "tested": 159176,
@@ -642,7 +641,7 @@
         "positive": 1390,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "05/07/2020",
+        "date": "06/07/2020",
         "source": "https://twitter.com/DiprManipur/status/1280187544085229569?s=20"
       }
     },
@@ -696,18 +695,18 @@
     },
     "NL": {
       "name": "Nagaland",
-      "confirmed": 625,
-      "active": 382,
+      "confirmed": 636,
+      "active": 393,
       "recovered": 243,
       "dead": 0,
-      "updatedTime": "06/07/2020 19:50:36",
+      "updatedTime": "07/07/2020 12:13:35",
       "note": "",
       "stateCode": "NL",
       "today": {
-        "confirmed": 0,
+        "confirmed": 11,
         "recovered": 0,
         "dead": 0,
-        "active": 0
+        "active": 11
       },
       "testing_data": {
         "tested": 20484,
@@ -880,8 +879,8 @@
     }
   },
   "testing_data": {
-    "tested": 11533872,
-    "positive": 718655,
+    "tested": 10981865,
+    "positive": 695668,
     "negative": 5560888,
     "unconfirmed": 22465
   },
@@ -890,9 +889,9 @@
     "source": "https://twitter.com/ICMRDELHI/status/1280347767114629120?s=20"
   },
   "today": {
-    "confirmed": 964,
+    "confirmed": 998,
     "recovered": 79,
     "dead": 10,
-    "active": 875
+    "active": 909
   }
 }
