@@ -1,9 +1,9 @@
 {
-  "confirmed": 721278,
-  "recovered": 440192,
-  "dead": 20178,
-  "active": 260812,
-  "updatedTime": "07/07/2020 11:13:25",
+  "confirmed": 721310,
+  "recovered": 440229,
+  "dead": 20184,
+  "active": 260801,
+  "updatedTime": "07/07/2020 11:23:26",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -385,17 +385,17 @@
     "OR": {
       "name": "Odisha",
       "confirmed": 10097,
-      "active": 3563,
+      "active": 3557,
       "recovered": 6486,
-      "dead": 48,
-      "updatedTime": "07/07/2020 11:13:28",
+      "dead": 54,
+      "updatedTime": "07/07/2020 11:23:29",
       "note": "Three non-covid deaths reported in state dashboard are included in the deceased count\n[June 22nd]: NDRF/ODRF cases have been redistributed to districts based on state dashboard",
       "stateCode": "OR",
       "today": {
         "confirmed": 571,
         "recovered": 0,
-        "dead": 0,
-        "active": 571
+        "dead": 6,
+        "active": 565
       },
       "testing_data": {
         "tested": 297234,
@@ -672,18 +672,18 @@
     },
     "PY": {
       "name": "Puducherry",
-      "confirmed": 1011,
-      "active": 517,
-      "recovered": 480,
+      "confirmed": 1043,
+      "active": 512,
+      "recovered": 517,
       "dead": 14,
       "updatedTime": "06/07/2020 11:27:32",
       "note": "",
       "stateCode": "PY",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 32,
+        "recovered": 37,
         "dead": 0,
-        "active": 0
+        "active": -5
       },
       "testing_data": {
         "tested": 21382,
@@ -823,12 +823,12 @@
         "active": 6
       },
       "testing_data": {
-        "tested": 16909,
-        "positive": 125,
+        "tested": 17095,
+        "positive": 141,
         "negative": 0,
-        "unconfirmed": 77,
-        "date": "05/07/2020",
-        "source": "https://dhs.andaman.gov.in/NewEvents/320.pdf"
+        "unconfirmed": 105,
+        "date": "06/07/2020",
+        "source": "https://dhs.andaman.gov.in/NewEvents/321.pdf"
       }
     },
     "ML": {
@@ -880,19 +880,19 @@
     }
   },
   "testing_data": {
-    "tested": 11533686,
-    "positive": 718639,
+    "tested": 11533872,
+    "positive": 718655,
     "negative": 5560888,
-    "unconfirmed": 22437
+    "unconfirmed": 22465
   },
   "testing_data_imcr": {
     "tested": 10211092,
     "source": "https://twitter.com/ICMRDELHI/status/1280347767114629120?s=20"
   },
   "today": {
-    "confirmed": 932,
-    "recovered": 42,
-    "dead": 4,
-    "active": 886
+    "confirmed": 964,
+    "recovered": 79,
+    "dead": 10,
+    "active": 875
   }
 }
