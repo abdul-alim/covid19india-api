@@ -925,15 +925,15 @@
       {
         "district": "Kamrup",
         "notes": "",
-        "active": 194,
+        "active": 193,
         "confirmed": 215,
         "recovered": 21,
-        "dead": 0,
+        "dead": 1,
         "today": {
           "confirmed": 0,
           "recovered": 0,
-          "active": 0,
-          "dead": 0
+          "active": -1,
+          "dead": 1
         }
       },
       {
@@ -1163,14 +1163,14 @@
     ],
     "today": {
       "confirmed": 0,
-      "active": -1,
+      "active": -2,
       "recovered": 0,
-      "dead": 1
+      "dead": 2
     },
     "confirmed": 12523,
     "recovered": 8330,
-    "dead": 15,
-    "active": 4175
+    "dead": 16,
+    "active": 4174
   },
   "BR": {
     "state": "Bihar",
@@ -5438,7 +5438,7 @@
     "confirmed": 217121,
     "recovered": 118558,
     "dead": 9250,
-    "active": 89296
+    "active": 89294
   },
   "ML": {
     "state": "Meghalaya",
@@ -9490,28 +9490,28 @@
       {
         "district": "Dhalai",
         "notes": "",
-        "active": 44,
-        "confirmed": 248,
+        "active": 45,
+        "confirmed": 249,
         "recovered": 204,
         "dead": 0,
         "today": {
-          "confirmed": 0,
+          "confirmed": 1,
           "recovered": 0,
-          "active": 0,
+          "active": 1,
           "dead": 0
         }
       },
       {
         "district": "Gomati",
         "notes": "",
-        "active": 108,
-        "confirmed": 223,
+        "active": 113,
+        "confirmed": 228,
         "recovered": 115,
         "dead": 0,
         "today": {
-          "confirmed": 0,
+          "confirmed": 5,
           "recovered": 0,
-          "active": 0,
+          "active": 5,
           "dead": 0
         }
       },
@@ -9532,14 +9532,14 @@
       {
         "district": "North Tripura",
         "notes": "",
-        "active": 38,
-        "confirmed": 56,
+        "active": 45,
+        "confirmed": 63,
         "recovered": 18,
         "dead": 0,
         "today": {
-          "confirmed": 0,
+          "confirmed": 7,
           "recovered": 0,
-          "active": 0,
+          "active": 7,
           "dead": 0
         }
       },
@@ -9574,42 +9574,42 @@
       {
         "district": "Unokoti",
         "notes": "",
-        "active": 8,
-        "confirmed": 74,
+        "active": 13,
+        "confirmed": 79,
         "recovered": 66,
         "dead": 0,
         "today": {
-          "confirmed": 0,
+          "confirmed": 5,
           "recovered": 0,
-          "active": 0,
+          "active": 5,
           "dead": 0
         }
       },
       {
         "district": "West Tripura",
         "notes": "",
-        "active": 77,
-        "confirmed": 224,
+        "active": 83,
+        "confirmed": 230,
         "recovered": 146,
         "dead": 1,
         "today": {
-          "confirmed": 0,
+          "confirmed": 6,
           "recovered": 0,
-          "active": 0,
+          "active": 6,
           "dead": 0
         }
       }
     ],
     "today": {
-      "confirmed": 0,
-      "active": 0,
+      "confirmed": 24,
+      "active": 24,
       "recovered": 0,
       "dead": 0
     },
-    "confirmed": 1692,
+    "confirmed": 1716,
     "recovered": 1219,
     "dead": 1,
-    "active": 459
+    "active": 483
   },
   "UP": {
     "state": "Uttar Pradesh",
