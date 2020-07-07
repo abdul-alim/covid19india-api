@@ -1,9 +1,9 @@
 {
-  "confirmed": 723185,
-  "recovered": 441436,
+  "confirmed": 723186,
+  "recovered": 441659,
   "dead": 20199,
-  "active": 261454,
-  "updatedTime": "07/07/2020 17:23:26",
+  "active": 261232,
+  "updatedTime": "07/07/2020 17:38:26",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -292,7 +292,7 @@
       "active": 3089,
       "recovered": 9338,
       "dead": 98,
-      "updatedTime": "07/07/2020 17:23:30",
+      "updatedTime": "07/07/2020 17:38:36",
       "note": "",
       "stateCode": "BR",
       "today": {
@@ -385,17 +385,17 @@
     "OR": {
       "name": "Odisha",
       "confirmed": 10097,
-      "active": 3557,
-      "recovered": 6486,
+      "active": 3340,
+      "recovered": 6703,
       "dead": 54,
-      "updatedTime": "07/07/2020 11:35:28",
+      "updatedTime": "07/07/2020 17:38:43",
       "note": "Three non-covid deaths reported in state dashboard are included in the deceased count\n[June 22nd]: NDRF/ODRF cases have been redistributed to districts based on state dashboard",
       "stateCode": "OR",
       "today": {
         "confirmed": 571,
-        "recovered": 0,
+        "recovered": 217,
         "dead": 6,
-        "active": 565
+        "active": 348
       },
       "testing_data": {
         "tested": 297234,
@@ -721,17 +721,17 @@
     "MZ": {
       "name": "Mizoram",
       "confirmed": 197,
-      "active": 64,
-      "recovered": 133,
+      "active": 58,
+      "recovered": 139,
       "dead": 0,
-      "updatedTime": "06/07/2020 22:39:36",
+      "updatedTime": "07/07/2020 17:38:49",
       "note": "",
       "stateCode": "MZ",
       "today": {
         "confirmed": 0,
-        "recovered": 0,
+        "recovered": 6,
         "dead": 0,
-        "active": 0
+        "active": -6
       },
       "testing_data": {
         "tested": 15006,
@@ -792,18 +792,18 @@
     },
     "DN": {
       "name": "Dadra and Nagar Haveli and Daman and Diu",
-      "confirmed": 407,
-      "active": 229,
+      "confirmed": 408,
+      "active": 230,
       "recovered": 175,
       "dead": 0,
-      "updatedTime": "07/07/2020 12:49:41",
+      "updatedTime": "07/07/2020 17:37:50",
       "note": "3 cases are migrated to different states which are reduced from active count.",
       "stateCode": "DN",
       "today": {
-        "confirmed": 7,
+        "confirmed": 8,
         "recovered": 0,
         "dead": 0,
-        "active": 7
+        "active": 8
       },
       "isUnknown": true
     },
@@ -890,9 +890,9 @@
     "source": "https://twitter.com/ICMRDELHI/status/1280347767114629120?s=20"
   },
   "today": {
-    "confirmed": 2839,
-    "recovered": 1286,
+    "confirmed": 2840,
+    "recovered": 1509,
     "dead": 25,
-    "active": 1528
+    "active": 1306
   }
 }
