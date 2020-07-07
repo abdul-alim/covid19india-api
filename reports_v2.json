@@ -1,9 +1,9 @@
 {
-  "confirmed": 723194,
-  "recovered": 441659,
-  "dead": 20199,
-  "active": 261240,
-  "updatedTime": "07/07/2020 17:50:27",
+  "confirmed": 723195,
+  "recovered": 441733,
+  "dead": 20201,
+  "active": 261165,
+  "updatedTime": "07/07/2020 18:14:25",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -361,17 +361,17 @@
     "AS": {
       "name": "Assam",
       "confirmed": 12523,
-      "active": 4623,
+      "active": 4622,
       "recovered": 7883,
-      "dead": 14,
-      "updatedTime": "07/07/2020 00:07:27",
+      "dead": 15,
+      "updatedTime": "07/07/2020 18:14:26",
       "note": "Includes one case from Nagaland.\nTotal of 3 patients who migrated to other states has been reduced from Active count",
       "stateCode": "AS",
       "today": {
         "confirmed": 0,
         "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "dead": 1,
+        "active": -1
       },
       "testing_data": {
         "tested": 471221,
@@ -388,7 +388,7 @@
       "active": 3340,
       "recovered": 6703,
       "dead": 54,
-      "updatedTime": "07/07/2020 17:50:30",
+      "updatedTime": "07/07/2020 17:54:28",
       "note": "Three non-covid deaths reported in state dashboard are included in the deceased count\n[June 22nd]: NDRF/ODRF cases have been redistributed to districts based on state dashboard",
       "stateCode": "OR",
       "today": {
@@ -600,18 +600,18 @@
     },
     "HP": {
       "name": "Himachal Pradesh",
-      "confirmed": 1077,
-      "active": 304,
-      "recovered": 750,
+      "confirmed": 1078,
+      "active": 291,
+      "recovered": 764,
       "dead": 10,
-      "updatedTime": "06/07/2020 22:28:45",
+      "updatedTime": "07/07/2020 18:14:28",
       "note": "HP has 14 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed",
       "stateCode": "HP",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 1,
+        "recovered": 14,
         "dead": 0,
-        "active": 0
+        "active": -13
       },
       "testing_data": {
         "tested": 89305,
@@ -697,17 +697,17 @@
     "NL": {
       "name": "Nagaland",
       "confirmed": 644,
-      "active": 401,
-      "recovered": 243,
+      "active": 341,
+      "recovered": 303,
       "dead": 0,
-      "updatedTime": "07/07/2020 17:50:33",
+      "updatedTime": "07/07/2020 18:14:30",
       "note": "",
       "stateCode": "NL",
       "today": {
-        "confirmed": 11,
-        "recovered": 0,
+        "confirmed": 19,
+        "recovered": 60,
         "dead": 0,
-        "active": 11
+        "active": -41
       },
       "testing_data": {
         "tested": 20484,
@@ -724,7 +724,7 @@
       "active": 58,
       "recovered": 139,
       "dead": 0,
-      "updatedTime": "07/07/2020 17:50:36",
+      "updatedTime": "07/07/2020 17:54:33",
       "note": "",
       "stateCode": "MZ",
       "today": {
@@ -796,7 +796,7 @@
       "active": 230,
       "recovered": 175,
       "dead": 0,
-      "updatedTime": "07/07/2020 17:50:38",
+      "updatedTime": "07/07/2020 17:54:35",
       "note": "3 cases are migrated to different states which are reduced from active count.",
       "stateCode": "DN",
       "today": {
@@ -834,17 +834,17 @@
     "ML": {
       "name": "Meghalaya",
       "confirmed": 88,
-      "active": 44,
+      "active": 43,
       "recovered": 43,
-      "dead": 1,
-      "updatedTime": "06/07/2020 21:50:40",
+      "dead": 2,
+      "updatedTime": "07/07/2020 18:14:32",
       "note": "[June 17]:\nOne case was identified to be false positive and has been removed from the confirmed cases by ML authorities.",
       "stateCode": "ML",
       "today": {
         "confirmed": 0,
         "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "dead": 1,
+        "active": -1
       },
       "testing_data": {
         "tested": 21237,
@@ -890,9 +890,9 @@
     "source": "https://twitter.com/ICMRDELHI/status/1280347767114629120?s=20"
   },
   "today": {
-    "confirmed": 2840,
-    "recovered": 1509,
-    "dead": 25,
-    "active": 1306
+    "confirmed": 2849,
+    "recovered": 1583,
+    "dead": 27,
+    "active": 1239
   }
 }
