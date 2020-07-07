@@ -322,14 +322,14 @@
       {
         "district": "Changlang",
         "notes": "",
-        "active": 40,
+        "active": 30,
         "confirmed": 91,
-        "recovered": 51,
+        "recovered": 61,
         "dead": 0,
         "today": {
           "confirmed": 0,
-          "recovered": 0,
-          "active": 0,
+          "recovered": 10,
+          "active": -10,
           "dead": 0
         }
       },
@@ -406,14 +406,14 @@
       {
         "district": "Lepa Rada",
         "notes": "",
-        "active": 1,
+        "active": 0,
         "confirmed": 1,
-        "recovered": 0,
+        "recovered": 1,
         "dead": 0,
         "today": {
           "confirmed": 0,
-          "recovered": 0,
-          "active": 0,
+          "recovered": 1,
+          "active": -1,
           "dead": 0
         }
       },
@@ -490,14 +490,14 @@
       {
         "district": "Namsai",
         "notes": "",
-        "active": 13,
+        "active": 12,
         "confirmed": 16,
-        "recovered": 3,
+        "recovered": 4,
         "dead": 0,
         "today": {
           "confirmed": 1,
-          "recovered": 0,
-          "active": 1,
+          "recovered": 1,
+          "active": 0,
           "dead": 0
         }
       },
@@ -630,14 +630,14 @@
       {
         "district": "West Kameng",
         "notes": "",
-        "active": 19,
+        "active": 18,
         "confirmed": 27,
-        "recovered": 6,
+        "recovered": 7,
         "dead": 2,
         "today": {
           "confirmed": 0,
-          "recovered": 0,
-          "active": 0,
+          "recovered": 1,
+          "active": -1,
           "dead": 0
         }
       },
@@ -658,14 +658,14 @@
     ],
     "today": {
       "confirmed": 6,
-      "active": 6,
-      "recovered": 0,
+      "active": -7,
+      "recovered": 13,
       "dead": 0
     },
     "confirmed": 276,
-    "recovered": 92,
+    "recovered": 105,
     "dead": 2,
-    "active": 182
+    "active": 169
   },
   "AS": {
     "state": "Assam",
@@ -7145,9 +7145,9 @@
       {
         "district": "Jajpur",
         "notes": "",
-        "active": 220,
+        "active": 228,
         "confirmed": 639,
-        "recovered": 418,
+        "recovered": 410,
         "dead": 1,
         "today": {
           "confirmed": 16,
@@ -9490,70 +9490,70 @@
       {
         "district": "Dhalai",
         "notes": "",
-        "active": 45,
+        "active": 40,
         "confirmed": 249,
-        "recovered": 204,
+        "recovered": 209,
         "dead": 0,
         "today": {
           "confirmed": 1,
-          "recovered": 0,
-          "active": 1,
+          "recovered": 5,
+          "active": -4,
           "dead": 0
         }
       },
       {
         "district": "Gomati",
         "notes": "",
-        "active": 113,
+        "active": 112,
         "confirmed": 228,
-        "recovered": 115,
+        "recovered": 116,
         "dead": 0,
         "today": {
           "confirmed": 5,
-          "recovered": 0,
-          "active": 5,
+          "recovered": 1,
+          "active": 4,
           "dead": 0
         }
       },
       {
         "district": "Khowai",
         "notes": "",
-        "active": 89,
+        "active": 83,
         "confirmed": 126,
-        "recovered": 37,
+        "recovered": 43,
         "dead": 0,
         "today": {
           "confirmed": 0,
-          "recovered": 0,
-          "active": 0,
+          "recovered": 6,
+          "active": -6,
           "dead": 0
         }
       },
       {
         "district": "North Tripura",
         "notes": "",
-        "active": 45,
+        "active": 43,
         "confirmed": 63,
-        "recovered": 18,
+        "recovered": 20,
         "dead": 0,
         "today": {
           "confirmed": 7,
-          "recovered": 0,
-          "active": 7,
+          "recovered": 2,
+          "active": 5,
           "dead": 0
         }
       },
       {
         "district": "Sipahijala",
         "notes": "",
-        "active": 66,
+        "active": 54,
         "confirmed": 599,
-        "recovered": 533,
+        "recovered": 545,
         "dead": 0,
         "today": {
           "confirmed": 0,
-          "recovered": 0,
-          "active": 0,
+          "recovered": 12,
+          "active": -12,
           "dead": 0
         }
       },
@@ -9574,14 +9574,14 @@
       {
         "district": "Unokoti",
         "notes": "",
-        "active": 13,
+        "active": 10,
         "confirmed": 79,
-        "recovered": 66,
+        "recovered": 69,
         "dead": 0,
         "today": {
           "confirmed": 5,
-          "recovered": 0,
-          "active": 5,
+          "recovered": 3,
+          "active": 2,
           "dead": 0
         }
       },
@@ -9602,8 +9602,8 @@
     ],
     "today": {
       "confirmed": 24,
-      "active": 24,
-      "recovered": 0,
+      "active": -5,
+      "recovered": 29,
       "dead": 0
     },
     "confirmed": 1716,
