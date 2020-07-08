@@ -1,9 +1,9 @@
 {
-  "confirmed": 746505,
-  "recovered": 458618,
-  "dead": 20683,
-  "active": 267104,
-  "updatedTime": "08/07/2020 16:59:26",
+  "confirmed": 746514,
+  "recovered": 458844,
+  "dead": 20685,
+  "active": 266885,
+  "updatedTime": "08/07/2020 17:24:25",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -289,17 +289,17 @@
     "BR": {
       "name": "Bihar",
       "confirmed": 13274,
-      "active": 3838,
-      "recovered": 9338,
-      "dead": 98,
-      "updatedTime": "08/07/2020 14:50:29",
+      "active": 3642,
+      "recovered": 9532,
+      "dead": 100,
+      "updatedTime": "08/07/2020 17:24:35",
       "note": "",
       "stateCode": "BR",
       "today": {
         "confirmed": 749,
-        "recovered": 0,
-        "dead": 0,
-        "active": 749
+        "recovered": 194,
+        "dead": 2,
+        "active": 553
       },
       "testing_data": {
         "tested": 269277,
@@ -552,18 +552,18 @@
     },
     "LA": {
       "name": "Ladakh",
-      "confirmed": 1041,
-      "active": 180,
-      "recovered": 860,
+      "confirmed": 1047,
+      "active": 158,
+      "recovered": 888,
       "dead": 1,
-      "updatedTime": "07/07/2020 19:02:28",
+      "updatedTime": "08/07/2020 17:24:37",
       "note": "",
       "stateCode": "LA",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 6,
+        "recovered": 28,
         "dead": 0,
-        "active": 0
+        "active": -22
       },
       "testing_data": {
         "tested": 14833,
@@ -720,18 +720,18 @@
     },
     "MZ": {
       "name": "Mizoram",
-      "confirmed": 198,
-      "active": 59,
-      "recovered": 139,
+      "confirmed": 201,
+      "active": 58,
+      "recovered": 143,
       "dead": 0,
-      "updatedTime": "07/07/2020 22:29:39",
+      "updatedTime": "08/07/2020 17:24:40",
       "note": "",
       "stateCode": "MZ",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 3,
+        "recovered": 4,
         "dead": 0,
-        "active": 0
+        "active": -1
       },
       "testing_data": {
         "tested": 15058,
@@ -837,7 +837,7 @@
       "active": 52,
       "recovered": 45,
       "dead": 1,
-      "updatedTime": "08/07/2020 16:59:30",
+      "updatedTime": "08/07/2020 17:16:39",
       "note": "[June 17]:\nOne case was identified to be false positive and has been removed from the confirmed cases by ML authorities.",
       "stateCode": "ML",
       "today": {
@@ -847,12 +847,12 @@
         "active": 2
       },
       "testing_data": {
-        "tested": 21847,
-        "positive": 90,
+        "tested": 22000,
+        "positive": 99,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "07/07/2020",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/995"
+        "date": "08/07/2020",
+        "source": "https://corona.meghalayagov.in/"
       }
     },
     "LD": {
@@ -880,8 +880,8 @@
     }
   },
   "testing_data": {
-    "tested": 11880227,
-    "positive": 749752,
+    "tested": 11880380,
+    "positive": 749761,
     "negative": 5724894,
     "unconfirmed": 23740
   },
@@ -890,9 +890,9 @@
     "source": "https://twitter.com/ICMRDELHI/status/1280707600015749120?s=20"
   },
   "today": {
-    "confirmed": 3012,
-    "recovered": 1558,
-    "dead": 30,
-    "active": 1424
+    "confirmed": 3021,
+    "recovered": 1784,
+    "dead": 32,
+    "active": 1205
   }
 }
