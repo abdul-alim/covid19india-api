@@ -1,9 +1,9 @@
 {
-  "confirmed": 763993,
-  "recovered": 470943,
-  "dead": 21085,
-  "active": 271865,
-  "updatedTime": "08/07/2020 21:23:27",
+  "confirmed": 766273,
+  "recovered": 475480,
+  "dead": 21133,
+  "active": 269560,
+  "updatedTime": "08/07/2020 21:46:25",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -55,26 +55,26 @@
     },
     "DL": {
       "name": "Delhi",
-      "confirmed": 102831,
-      "active": 25449,
-      "recovered": 74217,
-      "dead": 3165,
-      "updatedTime": "07/07/2020 19:47:44",
+      "confirmed": 104864,
+      "active": 23452,
+      "recovered": 78199,
+      "dead": 3213,
+      "updatedTime": "08/07/2020 21:46:27",
       "note": "Delhi bulletins in the morning, containing data of the previous day. We will add that data to the date on which the report is released, rather than the previous day.\n[June 16]: 344 deceased cases have been retroactively added to DL bulletin.",
       "stateCode": "DL",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 2033,
+        "recovered": 3982,
+        "dead": 48,
+        "active": -1997
       },
       "testing_data": {
-        "tested": 679831,
-        "positive": 102831,
+        "tested": 701859,
+        "positive": 104864,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "07/07/2020",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/989?single"
+        "date": "08/07/2020",
+        "source": "https://delhifightscorona.in/"
       }
     },
     "GJ": {
@@ -131,7 +131,7 @@
       "active": 4715,
       "recovered": 16866,
       "dead": 482,
-      "updatedTime": "08/07/2020 21:23:32",
+      "updatedTime": "08/07/2020 21:38:31",
       "note": "",
       "stateCode": "RJ",
       "today": {
@@ -203,7 +203,7 @@
       "active": 4302,
       "recovered": 14106,
       "dead": 282,
-      "updatedTime": "08/07/2020 21:23:37",
+      "updatedTime": "08/07/2020 21:38:33",
       "note": "",
       "stateCode": "HR",
       "today": {
@@ -340,7 +340,7 @@
       "active": 3545,
       "recovered": 5567,
       "dead": 149,
-      "updatedTime": "07/07/2020 21:26:29",
+      "updatedTime": "08/07/2020 21:38:35",
       "note": "",
       "stateCode": "JK",
       "today": {
@@ -350,28 +350,28 @@
         "active": 156
       },
       "testing_data": {
-        "tested": 413358,
-        "positive": 8931,
-        "negative": 404427,
+        "tested": 421571,
+        "positive": 9261,
+        "negative": 412310,
         "unconfirmed": 0,
-        "date": "07/07/2020",
-        "source": "https://twitter.com/diprjk/status/1280523447773233153?s=20"
+        "date": "08/07/2020",
+        "source": "https://twitter.com/diprjk/status/1280891260572561409?s=20"
       }
     },
     "AS": {
       "name": "Assam",
       "confirmed": 13337,
-      "active": 4982,
-      "recovered": 8330,
+      "active": 4585,
+      "recovered": 8727,
       "dead": 22,
-      "updatedTime": "08/07/2020 20:03:33",
+      "updatedTime": "08/07/2020 21:46:33",
       "note": "Includes one case from Nagaland.\nTotal of 3 patients who migrated to other states has been reduced from Active count",
       "stateCode": "AS",
       "today": {
         "confirmed": 0,
-        "recovered": 0,
+        "recovered": 397,
         "dead": 6,
-        "active": -6
+        "active": -403
       },
       "testing_data": {
         "tested": 485156,
@@ -436,7 +436,7 @@
       "active": 2604,
       "recovered": 3560,
       "dead": 28,
-      "updatedTime": "08/07/2020 21:22:32",
+      "updatedTime": "08/07/2020 21:24:33",
       "note": "Mahe native who expired in Kannur included in Kerala's tally.\nOne patient who absconded from Palakkad to TN and one patient who returned back to Maharashtra has been reduced from active count",
       "stateCode": "KL",
       "today": {
@@ -480,18 +480,18 @@
     },
     "CT": {
       "name": "Chhattisgarh",
-      "confirmed": 3415,
-      "active": 673,
-      "recovered": 2728,
+      "confirmed": 3526,
+      "active": 677,
+      "recovered": 2835,
       "dead": 14,
-      "updatedTime": "07/07/2020 20:19:48",
+      "updatedTime": "08/07/2020 21:46:35",
       "note": "",
       "stateCode": "CT",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 111,
+        "recovered": 107,
         "dead": 0,
-        "active": 0
+        "active": 4
       },
       "testing_data": {
         "tested": 191938,
@@ -576,26 +576,26 @@
     },
     "GA": {
       "name": "Goa",
-      "confirmed": 1903,
-      "active": 739,
-      "recovered": 1156,
+      "confirmed": 2039,
+      "active": 824,
+      "recovered": 1207,
       "dead": 8,
-      "updatedTime": "07/07/2020 20:51:41",
+      "updatedTime": "08/07/2020 21:46:37",
       "note": "",
       "stateCode": "GA",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 136,
+        "recovered": 51,
         "dead": 0,
-        "active": 0
+        "active": 85
       },
       "testing_data": {
-        "tested": 79864,
-        "positive": 1903,
+        "tested": 82555,
+        "positive": 2039,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "07/07/2020",
-        "source": "https://www.goa.gov.in/wp-content/uploads/2020/07/Media-Bulletin-07th-July-2020.pdf"
+        "date": "08/07/2020",
+        "source": "https://www.goa.gov.in/"
       }
     },
     "HP": {
@@ -880,9 +880,9 @@
     }
   },
   "testing_data": {
-    "tested": 12028458,
-    "positive": 760577,
-    "negative": 5791789,
+    "tested": 12061390,
+    "positive": 763076,
+    "negative": 5799672,
     "unconfirmed": 23954
   },
   "testing_data_imcr": {
@@ -890,9 +890,9 @@
     "source": "https://twitter.com/ICMRDELHI/status/1280707600015749120?s=20"
   },
   "today": {
-    "confirmed": 20500,
-    "recovered": 13898,
-    "dead": 432,
-    "active": 6170
+    "confirmed": 22780,
+    "recovered": 18435,
+    "dead": 480,
+    "active": 3865
   }
 }
