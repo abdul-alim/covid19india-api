@@ -1,9 +1,9 @@
 {
   "confirmed": 760761,
-  "recovered": 469375,
+  "recovered": 469366,
   "dead": 21018,
-  "active": 270268,
-  "updatedTime": "08/07/2020 20:13:25",
+  "active": 270277,
+  "updatedTime": "08/07/2020 20:23:25",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -11,7 +11,7 @@
       "active": 91065,
       "recovered": 123192,
       "dead": 9448,
-      "updatedTime": "08/07/2020 20:13:26",
+      "updatedTime": "08/07/2020 20:23:27",
       "note": "19 cases were marked as non-covid deaths in MH bulletin. These have been reduced from deceased and active counts\n[June 16] : 1328 deceased cases have been retroactively added to MH bulletin.\n[June 20]: 69 deceased cases have been reduced based on state bulletin.\n",
       "stateCode": "MH",
       "today": {
@@ -83,7 +83,7 @@
       "active": 9112,
       "recovered": 27313,
       "dead": 1994,
-      "updatedTime": "08/07/2020 20:13:28",
+      "updatedTime": "08/07/2020 20:15:30",
       "note": "",
       "stateCode": "GJ",
       "today": {
@@ -422,12 +422,12 @@
         "active": -119
       },
       "testing_data": {
-        "tested": 352363,
-        "positive": 6749,
+        "tested": 360189,
+        "positive": 6907,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "07/07/2020",
-        "source": "http://pbhealth.gov.in/Media%20Bulletin%20COVID-19%2007-07-2020.pdf"
+        "date": "08/07/2020",
+        "source": "http://pbhealth.gov.in/media-bulletin_July.htm"
       }
     },
     "KL": {
@@ -652,7 +652,7 @@
       "active": 98,
       "recovered": 402,
       "dead": 7,
-      "updatedTime": "08/07/2020 20:13:31",
+      "updatedTime": "08/07/2020 20:15:34",
       "note": "",
       "stateCode": "CH",
       "today": {
@@ -734,12 +734,12 @@
         "active": -1
       },
       "testing_data": {
-        "tested": 15058,
-        "positive": 197,
+        "tested": 15183,
+        "positive": 201,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "07/07/2020",
-        "source": "https://dipr.mizoram.gov.in/post/status-of-state-surveillance-of-covid-19-time-672020-500pm-772020-500-pm"
+        "date": "08/07/2020",
+        "source": "https://dipr.mizoram.gov.in/post/status-of-state-surveillance-of-covid-19-time-772020-500pm-872020-500-pm"
       }
     },
     "AR": {
@@ -769,25 +769,25 @@
     "SK": {
       "name": "Sikkim",
       "confirmed": 133,
-      "active": 40,
-      "recovered": 80,
+      "active": 49,
+      "recovered": 71,
       "dead": 0,
-      "updatedTime": "08/07/2020 20:13:33",
+      "updatedTime": "08/07/2020 20:23:32",
       "note": "13 Migrated cases reduced from Active count",
       "stateCode": "SK",
       "today": {
         "confirmed": 6,
-        "recovered": 0,
+        "recovered": 7,
         "dead": 0,
-        "active": 6
+        "active": -1
       },
       "testing_data": {
-        "tested": 11581,
-        "positive": 125,
+        "tested": 11820,
+        "positive": 129,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "07/07/2020",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/996"
+        "date": "08/07/2020",
+        "source": "https://covid19sikkim.org/"
       }
     },
     "DN": {
@@ -880,8 +880,8 @@
     }
   },
   "testing_data": {
-    "tested": 11977461,
-    "positive": 758187,
+    "tested": 11985651,
+    "positive": 758353,
     "negative": 5755575,
     "unconfirmed": 22409
   },
@@ -891,8 +891,8 @@
   },
   "today": {
     "confirmed": 17268,
-    "recovered": 12315,
+    "recovered": 12322,
     "dead": 365,
-    "active": 4588
+    "active": 4581
   }
 }
