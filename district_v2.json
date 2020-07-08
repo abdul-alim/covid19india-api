@@ -701,15 +701,15 @@
       {
         "district": "Barpeta",
         "notes": "",
-        "active": 95,
+        "active": 94,
         "confirmed": 150,
         "recovered": 55,
-        "dead": 0,
+        "dead": 1,
         "today": {
           "confirmed": 0,
           "recovered": 0,
-          "active": 0,
-          "dead": 0
+          "active": -1,
+          "dead": 1
         }
       },
       {
@@ -939,15 +939,15 @@
       {
         "district": "Kamrup Metropolitan",
         "notes": "",
-        "active": 4545,
+        "active": 4544,
         "confirmed": 4934,
         "recovered": 383,
-        "dead": 6,
+        "dead": 7,
         "today": {
           "confirmed": 0,
           "recovered": 0,
-          "active": 0,
-          "dead": 0
+          "active": -1,
+          "dead": 1
         }
       },
       {
@@ -1163,14 +1163,14 @@
     ],
     "today": {
       "confirmed": 0,
-      "active": 0,
+      "active": -2,
       "recovered": 0,
-      "dead": 0
+      "dead": 2
     },
     "confirmed": 13337,
     "recovered": 8330,
-    "dead": 16,
-    "active": 4988
+    "dead": 20,
+    "active": 4984
   },
   "BR": {
     "state": "Bihar",
@@ -7117,15 +7117,15 @@
       {
         "district": "Ganjam",
         "notes": "",
-        "active": 1324,
+        "active": 1321,
         "confirmed": 2836,
         "recovered": 1487,
-        "dead": 25,
+        "dead": 28,
         "today": {
           "confirmed": 215,
           "recovered": 0,
-          "active": 215,
-          "dead": 0
+          "active": 212,
+          "dead": 3
         }
       },
       {
@@ -7201,15 +7201,15 @@
       {
         "district": "Kendrapara",
         "notes": "",
-        "active": 40,
+        "active": 39,
         "confirmed": 282,
         "recovered": 242,
-        "dead": 0,
+        "dead": 1,
         "today": {
           "confirmed": 5,
           "recovered": 0,
-          "active": 5,
-          "dead": 0
+          "active": 4,
+          "dead": 1
         }
       },
       {
@@ -7229,15 +7229,15 @@
       {
         "district": "Khordha",
         "notes": "",
-        "active": 297,
+        "active": 296,
         "confirmed": 1079,
         "recovered": 773,
-        "dead": 9,
+        "dead": 10,
         "today": {
           "confirmed": 50,
           "recovered": 0,
-          "active": 50,
-          "dead": 0
+          "active": 49,
+          "dead": 1
         }
       },
       {
@@ -7341,15 +7341,15 @@
       {
         "district": "Rayagada",
         "notes": "",
-        "active": 101,
+        "active": 100,
         "confirmed": 139,
         "recovered": 38,
-        "dead": 0,
+        "dead": 1,
         "today": {
           "confirmed": 1,
           "recovered": 0,
-          "active": 1,
-          "dead": 0
+          "active": 0,
+          "dead": 1
         }
       },
       {
@@ -7397,9 +7397,9 @@
     ],
     "today": {
       "confirmed": 527,
-      "active": 527,
+      "active": 521,
       "recovered": 0,
-      "dead": 0
+      "dead": 6
     },
     "confirmed": 10624,
     "recovered": 6703,
@@ -7735,70 +7735,70 @@
       {
         "district": "Karaikal",
         "notes": "",
-        "active": 9,
-        "confirmed": 46,
+        "active": 34,
+        "confirmed": 71,
         "recovered": 37,
         "dead": 0,
         "today": {
-          "confirmed": 0,
+          "confirmed": 25,
           "recovered": 0,
-          "active": 0,
+          "active": 25,
           "dead": 0
         }
       },
       {
         "district": "Mahe",
         "notes": "",
-        "active": 9,
+        "active": 7,
         "confirmed": 20,
-        "recovered": 11,
+        "recovered": 13,
         "dead": 0,
         "today": {
           "confirmed": 0,
-          "recovered": 0,
-          "active": 0,
+          "recovered": 2,
+          "active": -2,
           "dead": 0
         }
       },
       {
         "district": "Puducherry",
-        "notes": "19 cases(18 of TN & 1 of AP) have been transferred,so have been reduced from the total count",
-        "active": 479,
-        "confirmed": 962,
-        "recovered": 469,
+        "notes": "21 cases(20 of TN & 1 of AP) have been transferred,so have been reduced from the total count",
+        "active": 491,
+        "confirmed": 1039,
+        "recovered": 534,
         "dead": 14,
         "today": {
-          "confirmed": 0,
-          "recovered": 0,
-          "active": 0,
+          "confirmed": 77,
+          "recovered": 65,
+          "active": 12,
           "dead": 0
         }
       },
       {
         "district": "Yanam",
-        "notes": "",
-        "active": 15,
-        "confirmed": 15,
+        "notes": "2 cases of  AP have been transferred,so have been reduced from the total count",
+        "active": 21,
+        "confirmed": 21,
         "recovered": 0,
         "dead": 0,
         "today": {
-          "confirmed": 0,
+          "confirmed": 6,
           "recovered": 0,
-          "active": 0,
+          "active": 6,
           "dead": 0
         }
       }
     ],
     "today": {
-      "confirmed": 0,
-      "active": 0,
-      "recovered": 0,
+      "confirmed": 108,
+      "active": 41,
+      "recovered": 67,
       "dead": 0
     },
-    "confirmed": 1043,
-    "recovered": 517,
+    "confirmed": 1151,
+    "recovered": 584,
     "dead": 14,
-    "active": 512
+    "active": 553
   },
   "RJ": {
     "state": "Rajasthan",

@@ -1,9 +1,9 @@
 {
-  "confirmed": 744010,
-  "recovered": 457058,
-  "dead": 20659,
-  "active": 266193,
-  "updatedTime": "08/07/2020 11:03:26",
+  "confirmed": 744118,
+  "recovered": 457125,
+  "dead": 20663,
+  "active": 266230,
+  "updatedTime": "08/07/2020 11:13:27",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -361,17 +361,17 @@
     "AS": {
       "name": "Assam",
       "confirmed": 13337,
-      "active": 4988,
+      "active": 4984,
       "recovered": 8330,
-      "dead": 16,
+      "dead": 20,
       "updatedTime": "07/07/2020 23:56:29",
       "note": "Includes one case from Nagaland.\nTotal of 3 patients who migrated to other states has been reduced from Active count",
       "stateCode": "AS",
       "today": {
         "confirmed": 0,
         "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "dead": 4,
+        "active": -4
       },
       "testing_data": {
         "tested": 485156,
@@ -388,7 +388,7 @@
       "active": 3861,
       "recovered": 6703,
       "dead": 60,
-      "updatedTime": "08/07/2020 11:03:31",
+      "updatedTime": "08/07/2020 11:13:39",
       "note": "Three non-covid deaths reported in state dashboard are included in the deceased count\n[June 22nd]: NDRF/ODRF cases have been redistributed to districts based on state dashboard",
       "stateCode": "OR",
       "today": {
@@ -672,18 +672,18 @@
     },
     "PY": {
       "name": "Puducherry",
-      "confirmed": 1043,
-      "active": 512,
-      "recovered": 517,
+      "confirmed": 1151,
+      "active": 553,
+      "recovered": 584,
       "dead": 14,
-      "updatedTime": "07/07/2020 11:35:30",
+      "updatedTime": "08/07/2020 11:13:55",
       "note": "",
       "stateCode": "PY",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 108,
+        "recovered": 67,
         "dead": 0,
-        "active": 0
+        "active": 41
       },
       "testing_data": {
         "tested": 22055,
@@ -837,7 +837,7 @@
       "active": 53,
       "recovered": 43,
       "dead": 2,
-      "updatedTime": "08/07/2020 11:03:36",
+      "updatedTime": "08/07/2020 11:07:56",
       "note": "[June 17]:\nOne case was identified to be false positive and has been removed from the confirmed cases by ML authorities.",
       "stateCode": "ML",
       "today": {
@@ -890,9 +890,9 @@
     "source": "https://twitter.com/ICMRDELHI/status/1280707600015749120?s=20"
   },
   "today": {
-    "confirmed": 529,
-    "recovered": 0,
-    "dead": 6,
-    "active": 523
+    "confirmed": 637,
+    "recovered": 67,
+    "dead": 10,
+    "active": 560
   }
 }
