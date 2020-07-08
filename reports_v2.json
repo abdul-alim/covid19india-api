@@ -1,9 +1,9 @@
 {
-  "confirmed": 743481,
+  "confirmed": 743479,
   "recovered": 457058,
   "dead": 20653,
-  "active": 265670,
-  "updatedTime": "08/07/2020 00:17:25",
+  "active": 265668,
+  "updatedTime": "08/07/2020 09:46:25",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -223,18 +223,18 @@
     },
     "UN": {
       "name": "State Unassigned",
-      "confirmed": 5034,
-      "active": 5034,
+      "confirmed": 5018,
+      "active": 5018,
       "recovered": 0,
       "dead": 0,
-      "updatedTime": "07/07/2020 10:15:28",
-      "note": "MoHFW website reports that these are the 'cases that are being reassigned to states'. ",
+      "updatedTime": "08/07/2020 09:46:28",
+      "note": "MoHFW website reports that these are the 'cases that are being reassigned to states'. 16 cases were decreased in this category today by MoHFW. We have removed these cases from this category",
       "stateCode": "UN",
       "today": {
-        "confirmed": 0,
+        "confirmed": -16,
         "recovered": 0,
         "dead": 0,
-        "active": 0
+        "active": -16
       },
       "isUnknown": true
     },
@@ -696,18 +696,18 @@
     },
     "NL": {
       "name": "Nagaland",
-      "confirmed": 644,
-      "active": 341,
+      "confirmed": 656,
+      "active": 353,
       "recovered": 303,
       "dead": 0,
-      "updatedTime": "07/07/2020 18:27:34",
+      "updatedTime": "08/07/2020 09:46:32",
       "note": "",
       "stateCode": "NL",
       "today": {
-        "confirmed": 0,
+        "confirmed": 12,
         "recovered": 0,
         "dead": 0,
-        "active": 0
+        "active": 12
       },
       "testing_data": {
         "tested": 21209,
@@ -809,18 +809,18 @@
     },
     "AN": {
       "name": "Andaman and Nicobar",
-      "confirmed": 147,
-      "active": 73,
+      "confirmed": 149,
+      "active": 75,
       "recovered": 74,
       "dead": 0,
-      "updatedTime": "07/07/2020 10:15:31",
+      "updatedTime": "08/07/2020 09:46:35",
       "note": "",
       "stateCode": "AN",
       "today": {
-        "confirmed": 0,
+        "confirmed": 2,
         "recovered": 0,
         "dead": 0,
-        "active": 0
+        "active": 2
       },
       "testing_data": {
         "tested": 17095,
@@ -890,9 +890,9 @@
     "source": "https://twitter.com/ICMRDELHI/status/1280707600015749120?s=20"
   },
   "today": {
-    "confirmed": 0,
+    "confirmed": -2,
     "recovered": 0,
     "dead": 0,
-    "active": 0
+    "active": -2
   }
 }
