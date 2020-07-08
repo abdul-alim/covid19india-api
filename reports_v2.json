@@ -1,9 +1,9 @@
 {
   "confirmed": 760761,
-  "recovered": 469366,
-  "dead": 21018,
-  "active": 270277,
-  "updatedTime": "08/07/2020 20:23:25",
+  "recovered": 470144,
+  "dead": 21072,
+  "active": 269445,
+  "updatedTime": "08/07/2020 20:36:25",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -11,7 +11,7 @@
       "active": 91065,
       "recovered": 123192,
       "dead": 9448,
-      "updatedTime": "08/07/2020 20:23:27",
+      "updatedTime": "08/07/2020 20:28:27",
       "note": "19 cases were marked as non-covid deaths in MH bulletin. These have been reduced from deceased and active counts\n[June 16] : 1328 deceased cases have been retroactively added to MH bulletin.\n[June 20]: 69 deceased cases have been reduced based on state bulletin.\n",
       "stateCode": "MH",
       "today": {
@@ -241,17 +241,17 @@
     "KA": {
       "name": "Karnataka",
       "confirmed": 26815,
-      "active": 15294,
-      "recovered": 11100,
-      "dead": 417,
-      "updatedTime": "07/07/2020 20:39:43",
+      "active": 14462,
+      "recovered": 11878,
+      "dead": 471,
+      "updatedTime": "08/07/2020 20:36:27",
       "note": "4 cases are classified as non-covid related deaths in KA bulletin. They have been reduced from active cases",
       "stateCode": "KA",
       "today": {
         "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "recovered": 778,
+        "dead": 54,
+        "active": -832
       },
       "testing_data": {
         "tested": 759181,
@@ -772,14 +772,14 @@
       "active": 49,
       "recovered": 71,
       "dead": 0,
-      "updatedTime": "08/07/2020 20:23:32",
+      "updatedTime": "08/07/2020 20:36:31",
       "note": "13 Migrated cases reduced from Active count",
       "stateCode": "SK",
       "today": {
         "confirmed": 6,
-        "recovered": 7,
+        "recovered": 6,
         "dead": 0,
-        "active": -1
+        "active": 0
       },
       "testing_data": {
         "tested": 11820,
@@ -891,8 +891,8 @@
   },
   "today": {
     "confirmed": 17268,
-    "recovered": 12322,
-    "dead": 365,
-    "active": 4581
+    "recovered": 13099,
+    "dead": 419,
+    "active": 3750
   }
 }
