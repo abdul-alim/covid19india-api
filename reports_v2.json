@@ -1,9 +1,9 @@
 {
-  "confirmed": 753191,
-  "recovered": 463875,
-  "dead": 20800,
-  "active": 268416,
-  "updatedTime": "08/07/2020 19:25:25",
+  "confirmed": 753354,
+  "recovered": 464171,
+  "dead": 20803,
+  "active": 268280,
+  "updatedTime": "08/07/2020 19:37:25",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -155,7 +155,7 @@
       "active": 7705,
       "recovered": 16291,
       "dead": 827,
-      "updatedTime": "08/07/2020 19:25:30",
+      "updatedTime": "08/07/2020 19:35:29",
       "note": "",
       "stateCode": "WB",
       "today": {
@@ -179,7 +179,7 @@
       "active": 3420,
       "recovered": 11987,
       "dead": 629,
-      "updatedTime": "08/07/2020 19:25:33",
+      "updatedTime": "08/07/2020 19:35:31",
       "note": "",
       "stateCode": "MP",
       "today": {
@@ -408,18 +408,18 @@
     },
     "PB": {
       "name": "Punjab",
-      "confirmed": 6749,
-      "active": 2020,
-      "recovered": 4554,
-      "dead": 175,
-      "updatedTime": "07/07/2020 20:19:43",
+      "confirmed": 6907,
+      "active": 1901,
+      "recovered": 4828,
+      "dead": 178,
+      "updatedTime": "08/07/2020 19:37:31",
       "note": "",
       "stateCode": "PB",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 158,
+        "recovered": 274,
+        "dead": 3,
+        "active": -119
       },
       "testing_data": {
         "tested": 352363,
@@ -460,7 +460,7 @@
       "active": 534,
       "recovered": 2650,
       "dead": 46,
-      "updatedTime": "08/07/2020 19:25:36",
+      "updatedTime": "08/07/2020 19:35:38",
       "note": "28 Migrated cases reduced from Active count",
       "stateCode": "UT",
       "today": {
@@ -624,18 +624,18 @@
     },
     "MN": {
       "name": "Manipur",
-      "confirmed": 1430,
-      "active": 659,
-      "recovered": 771,
+      "confirmed": 1435,
+      "active": 642,
+      "recovered": 793,
       "dead": 0,
-      "updatedTime": "07/07/2020 19:48:01",
+      "updatedTime": "08/07/2020 19:37:36",
       "note": "",
       "stateCode": "MN",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 5,
+        "recovered": 22,
         "dead": 0,
-        "active": 0
+        "active": -17
       },
       "testing_data": {
         "tested": 57769,
@@ -890,9 +890,9 @@
     "source": "https://twitter.com/ICMRDELHI/status/1280707600015749120?s=20"
   },
   "today": {
-    "confirmed": 9698,
-    "recovered": 6815,
-    "dead": 147,
-    "active": 2736
+    "confirmed": 9861,
+    "recovered": 7111,
+    "dead": 150,
+    "active": 2600
   }
 }
