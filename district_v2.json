@@ -1135,15 +1135,15 @@
       {
         "district": "Udalguri",
         "notes": "",
-        "active": 103,
+        "active": 102,
         "confirmed": 105,
         "recovered": 2,
-        "dead": 0,
+        "dead": 1,
         "today": {
           "confirmed": 0,
           "recovered": 0,
-          "active": 0,
-          "dead": 0
+          "active": -1,
+          "dead": 1
         }
       },
       {
@@ -1163,14 +1163,14 @@
     ],
     "today": {
       "confirmed": 0,
-      "active": -4,
+      "active": -5,
       "recovered": 0,
-      "dead": 4
+      "dead": 5
     },
     "confirmed": 13337,
     "recovered": 8330,
-    "dead": 20,
-    "active": 4984
+    "dead": 21,
+    "active": 4983
   },
   "BR": {
     "state": "Bihar",
