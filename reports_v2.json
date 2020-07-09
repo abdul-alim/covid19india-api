@@ -1,9 +1,9 @@
 {
-  "confirmed": 772242,
-  "recovered": 478744,
-  "dead": 21188,
-  "active": 272210,
-  "updatedTime": "09/07/2020 19:14:06",
+  "confirmed": 772826,
+  "recovered": 479014,
+  "dead": 21193,
+  "active": 272519,
+  "updatedTime": "09/07/2020 19:24:06",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -251,7 +251,7 @@
       "active": 4572,
       "recovered": 14505,
       "dead": 287,
-      "updatedTime": "09/07/2020 19:14:11",
+      "updatedTime": "09/07/2020 19:24:08",
       "note": "",
       "stateCode": "HR",
       "today": {
@@ -391,18 +391,18 @@
     },
     "PB": {
       "name": "Punjab",
-      "confirmed": 6907,
-      "active": 1901,
-      "recovered": 4828,
-      "dead": 178,
-      "updatedTime": "08/07/2020 19:52:30",
+      "confirmed": 7140,
+      "active": 2012,
+      "recovered": 4945,
+      "dead": 183,
+      "updatedTime": "09/07/2020 19:23:08",
       "note": "",
       "stateCode": "PB",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 233,
+        "recovered": 117,
+        "dead": 5,
+        "active": 111
       },
       "testing_data": {
         "tested": 360189,
@@ -415,18 +415,18 @@
     },
     "KL": {
       "name": "Kerala",
-      "confirmed": 6196,
-      "active": 2605,
-      "recovered": 3559,
+      "confirmed": 6535,
+      "active": 2795,
+      "recovered": 3708,
       "dead": 28,
-      "updatedTime": "09/07/2020 18:18:11",
+      "updatedTime": "09/07/2020 19:23:09",
       "note": "Mahe native who expired in Kannur included in Kerala's tally.\nOne patient who absconded from Palakkad to TN and one patient who returned back to Maharashtra has been reduced from active count",
       "stateCode": "KL",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 339,
+        "recovered": 149,
         "dead": 0,
-        "active": 0
+        "active": 190
       },
       "testing_data": {
         "tested": 296183,
@@ -715,23 +715,23 @@
         "negative": 8518,
         "unconfirmed": 53,
         "date": "09/07/2020",
-        "source": ""
+        "source": "http://chdcovid19.in/"
       }
     },
     "DN": {
       "name": "Dadra and Nagar Haveli and Daman and Diu",
-      "confirmed": 445,
-      "active": 240,
-      "recovered": 201,
+      "confirmed": 456,
+      "active": 247,
+      "recovered": 205,
       "dead": 1,
-      "updatedTime": "09/07/2020 17:54:14",
+      "updatedTime": "09/07/2020 19:23:12",
       "note": "3 cases are migrated to different states which are reduced from active count.",
       "stateCode": "DN",
       "today": {
-        "confirmed": 3,
-        "recovered": 5,
+        "confirmed": 14,
+        "recovered": 9,
         "dead": 0,
-        "active": -2
+        "active": 5
       },
       "isUnknown": true
     },
@@ -833,18 +833,18 @@
     },
     "ML": {
       "name": "Meghalaya",
-      "confirmed": 112,
-      "active": 66,
+      "confirmed": 113,
+      "active": 67,
       "recovered": 45,
       "dead": 1,
       "updatedTime": "09/07/2020 16:46:09",
       "note": "[June 17]:\nOne case was identified to be false positive and has been removed from the confirmed cases by ML authorities.",
       "stateCode": "ML",
       "today": {
-        "confirmed": 12,
+        "confirmed": 13,
         "recovered": 0,
         "dead": 0,
-        "active": 12
+        "active": 13
       },
       "testing_data": {
         "tested": 22000,
@@ -890,9 +890,9 @@
     "source": "https://twitter.com/ICMRDELHI/status/1281068228542738432?s=20"
   },
   "today": {
-    "confirmed": 3190,
-    "recovered": 2191,
-    "dead": 44,
-    "active": 955
+    "confirmed": 3774,
+    "recovered": 2461,
+    "dead": 49,
+    "active": 1264
   }
 }
