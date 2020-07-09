@@ -1,9 +1,9 @@
 {
-  "confirmed": 787601,
-  "recovered": 488834,
-  "dead": 21526,
-  "active": 277140,
-  "updatedTime": "09/07/2020 20:24:06",
+  "confirmed": 790649,
+  "recovered": 493290,
+  "dead": 21586,
+  "active": 275672,
+  "updatedTime": "09/07/2020 20:47:06",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -35,7 +35,7 @@
       "active": 46655,
       "recovered": 78161,
       "dead": 1765,
-      "updatedTime": "09/07/2020 20:24:09",
+      "updatedTime": "09/07/2020 20:28:08",
       "note": "2 deaths cross notified to other states from Chennai and Coimbatore.\n1 patient died after turning negative for infection in Chengalpattu.\nThese cases have been added to TN deceased tally",
       "stateCode": "TN",
       "today": {
@@ -55,18 +55,18 @@
     },
     "DL": {
       "name": "Delhi",
-      "confirmed": 104864,
-      "active": 23452,
-      "recovered": 78199,
-      "dead": 3213,
-      "updatedTime": "08/07/2020 21:51:27",
+      "confirmed": 107051,
+      "active": 21567,
+      "recovered": 82226,
+      "dead": 3258,
+      "updatedTime": "09/07/2020 20:47:10",
       "note": "Delhi bulletins in the morning, containing data of the previous day. We will add that data to the date on which the report is released, rather than the previous day.\n[June 16]: 344 deceased cases have been retroactively added to DL bulletin.",
       "stateCode": "DL",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 2187,
+        "recovered": 4027,
+        "dead": 45,
+        "active": -1885
       },
       "testing_data": {
         "tested": 701859,
@@ -79,18 +79,18 @@
     },
     "GJ": {
       "name": "Gujarat",
-      "confirmed": 38419,
-      "active": 9112,
-      "recovered": 27313,
-      "dead": 1994,
-      "updatedTime": "08/07/2020 20:15:30",
+      "confirmed": 39280,
+      "active": 9529,
+      "recovered": 27742,
+      "dead": 2009,
+      "updatedTime": "09/07/2020 20:47:13",
       "note": "",
       "stateCode": "GJ",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 861,
+        "recovered": 429,
+        "dead": 15,
+        "active": 417
       },
       "testing_data": {
         "tested": 433864,
@@ -117,12 +117,12 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 956134,
-        "positive": 31156,
+        "tested": 988960,
+        "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "08/07/2020",
-        "source": "https://twitter.com/UPGovt/status/1280892881381650432?s=20"
+        "date": "09/07/2020",
+        "source": ""
       }
     },
     "KA": {
@@ -131,7 +131,7 @@
       "active": 17778,
       "recovered": 12835,
       "dead": 488,
-      "updatedTime": "09/07/2020 20:24:12",
+      "updatedTime": "09/07/2020 20:38:16",
       "note": "4 cases are classified as non-covid related deaths in KA bulletin. They have been reduced from active cases",
       "stateCode": "KA",
       "today": {
@@ -194,7 +194,7 @@
         "negative": 0,
         "unconfirmed": 0,
         "date": "09/07/2020",
-        "source": "https://www.wbhealth.gov.in/pages/corona/bulletin"
+        "source": "https://www.wbhealth.gov.in/uploaded_files/corona/WB_DHFW_Bulletin_9th_JULY_REPORT_FINAL.pdf"
       }
     },
     "AP": {
@@ -880,19 +880,19 @@
     }
   },
   "testing_data": {
-    "tested": 12281146,
-    "positive": 784955,
-    "negative": 5882214,
-    "unconfirmed": 24412
+    "tested": 12314762,
+    "positive": 753841,
+    "negative": 5882949,
+    "unconfirmed": 24425
   },
   "testing_data_imcr": {
     "tested": 10740832,
     "source": "https://twitter.com/ICMRDELHI/status/1281068228542738432?s=20"
   },
   "today": {
-    "confirmed": 18549,
-    "recovered": 12281,
-    "dead": 382,
-    "active": 5886
+    "confirmed": 21597,
+    "recovered": 16737,
+    "dead": 442,
+    "active": 4418
   }
 }
