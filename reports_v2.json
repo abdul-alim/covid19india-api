@@ -1,9 +1,9 @@
 {
   "confirmed": 771842,
-  "recovered": 477685,
+  "recovered": 477688,
   "dead": 21174,
-  "active": 272883,
-  "updatedTime": "09/07/2020 16:46:05",
+  "active": 272880,
+  "updatedTime": "09/07/2020 17:14:36",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -23,7 +23,7 @@
       "testing_data": {
         "tested": 1225831,
         "positive": 234853,
-        "negative": 0,
+        "negative": 990978,
         "unconfirmed": 0,
         "date": "09/07/2020",
         "source": "https://t.co/9RNBuXRB3w?amp=1"
@@ -786,17 +786,17 @@
     "AN": {
       "name": "Andaman and Nicobar",
       "confirmed": 151,
-      "active": 77,
-      "recovered": 74,
+      "active": 74,
+      "recovered": 77,
       "dead": 0,
-      "updatedTime": "09/07/2020 09:49:13",
+      "updatedTime": "09/07/2020 17:14:39",
       "note": "",
       "stateCode": "AN",
       "today": {
         "confirmed": 2,
-        "recovered": 0,
+        "recovered": 3,
         "dead": 0,
-        "active": 2
+        "active": -1
       },
       "testing_data": {
         "tested": 17381,
@@ -882,7 +882,7 @@
   "testing_data": {
     "tested": 12156689,
     "positive": 775114,
-    "negative": 4859015,
+    "negative": 5849993,
     "unconfirmed": 23985
   },
   "testing_data_imcr": {
@@ -891,8 +891,8 @@
   },
   "today": {
     "confirmed": 2790,
-    "recovered": 1131,
+    "recovered": 1134,
     "dead": 30,
-    "active": 1629
+    "active": 1626
   }
 }
