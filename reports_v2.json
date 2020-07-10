@@ -1,9 +1,9 @@
 {
-  "confirmed": 798577,
-  "recovered": 498367,
-  "dead": 21656,
-  "active": 278453,
-  "updatedTime": "10/07/2020 19:24:06",
+  "confirmed": 804861,
+  "recovered": 503746,
+  "dead": 21776,
+  "active": 279238,
+  "updatedTime": "10/07/2020 19:47:06",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -31,18 +31,18 @@
     },
     "TN": {
       "name": "Tamil Nadu",
-      "confirmed": 126581,
-      "active": 46655,
-      "recovered": 78161,
-      "dead": 1765,
-      "updatedTime": "09/07/2020 20:28:08",
+      "confirmed": 130261,
+      "active": 46108,
+      "recovered": 82324,
+      "dead": 1829,
+      "updatedTime": "10/07/2020 19:47:07",
       "note": "2 deaths cross notified to other states from Chennai and Coimbatore.\n1 patient died after turning negative for infection in Chengalpattu.\nThese cases have been added to TN deceased tally",
       "stateCode": "TN",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 3680,
+        "recovered": 4163,
+        "dead": 64,
+        "active": -547
       },
       "testing_data": {
         "tested": 1491783,
@@ -103,18 +103,18 @@
     },
     "UP": {
       "name": "Uttar Pradesh",
-      "confirmed": 32362,
-      "active": 10373,
-      "recovered": 21127,
-      "dead": 862,
-      "updatedTime": "09/07/2020 22:24:09",
+      "confirmed": 33700,
+      "active": 11024,
+      "recovered": 21787,
+      "dead": 889,
+      "updatedTime": "10/07/2020 19:47:18",
       "note": "",
       "stateCode": "UP",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 1338,
+        "recovered": 660,
+        "dead": 27,
+        "active": 651
       },
       "testing_data": {
         "tested": 988960,
@@ -175,18 +175,18 @@
     },
     "WB": {
       "name": "West Bengal",
-      "confirmed": 25911,
-      "active": 8231,
-      "recovered": 16826,
-      "dead": 854,
-      "updatedTime": "09/07/2020 20:17:14",
+      "confirmed": 27109,
+      "active": 8881,
+      "recovered": 17348,
+      "dead": 880,
+      "updatedTime": "10/07/2020 19:47:20",
       "note": "",
       "stateCode": "WB",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 1198,
+        "recovered": 522,
+        "dead": 26,
+        "active": 650
       },
       "testing_data": {
         "tested": 583328,
@@ -296,17 +296,17 @@
     "AS": {
       "name": "Assam",
       "confirmed": 14601,
-      "active": 5418,
+      "active": 5415,
       "recovered": 9148,
-      "dead": 32,
-      "updatedTime": "10/07/2020 13:58:08",
+      "dead": 35,
+      "updatedTime": "10/07/2020 19:47:22",
       "note": "Includes one case from Nagaland.\nTotal of 3 patients who migrated to other states has been reduced from Active count",
       "stateCode": "AS",
       "today": {
         "confirmed": 0,
         "recovered": 0,
-        "dead": 5,
-        "active": -5
+        "dead": 8,
+        "active": -8
       },
       "testing_data": {
         "tested": 508973,
@@ -419,7 +419,7 @@
       "active": 3099,
       "recovered": 3820,
       "dead": 28,
-      "updatedTime": "10/07/2020 19:24:09",
+      "updatedTime": "10/07/2020 19:28:11",
       "note": "Mahe native who expired in Kannur included in Kerala's tally.\nOne patient who absconded from Palakkad to TN and one patient who returned back to Maharashtra has been reduced from active count",
       "stateCode": "KL",
       "today": {
@@ -480,18 +480,18 @@
     },
     "UT": {
       "name": "Uttarakhand",
-      "confirmed": 3305,
-      "active": 558,
-      "recovered": 2672,
+      "confirmed": 3373,
+      "active": 592,
+      "recovered": 2706,
       "dead": 46,
-      "updatedTime": "09/07/2020 19:55:13",
+      "updatedTime": "10/07/2020 19:47:24",
       "note": "29 Migrated cases reduced from Active count",
       "stateCode": "UT",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 68,
+        "recovered": 34,
         "dead": 0,
-        "active": 0
+        "active": 34
       },
       "testing_data": {
         "tested": 86458,
@@ -890,9 +890,9 @@
     "source": "https://twitter.com/ICMRDELHI/status/1281436467487629312?s=20"
   },
   "today": {
-    "confirmed": 3735,
-    "recovered": 2407,
-    "dead": 33,
-    "active": 1295
+    "confirmed": 10019,
+    "recovered": 7786,
+    "dead": 153,
+    "active": 2080
   }
 }
