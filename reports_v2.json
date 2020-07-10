@@ -1,9 +1,9 @@
 {
-  "confirmed": 798141,
-  "recovered": 497198,
-  "dead": 21654,
-  "active": 279188,
-  "updatedTime": "10/07/2020 16:50:06",
+  "confirmed": 798152,
+  "recovered": 497688,
+  "dead": 21656,
+  "active": 278707,
+  "updatedTime": "10/07/2020 17:40:07",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -320,17 +320,17 @@
     "BR": {
       "name": "Bihar",
       "confirmed": 14330,
-      "active": 4429,
-      "recovered": 9792,
-      "dead": 109,
-      "updatedTime": "10/07/2020 14:58:10",
+      "active": 3968,
+      "recovered": 10251,
+      "dead": 111,
+      "updatedTime": "10/07/2020 17:40:10",
       "note": "",
       "stateCode": "BR",
       "today": {
         "confirmed": 352,
-        "recovered": 0,
-        "dead": 0,
-        "active": 352
+        "recovered": 459,
+        "dead": 2,
+        "active": -109
       },
       "testing_data": {
         "tested": 284059,
@@ -624,18 +624,18 @@
     },
     "HP": {
       "name": "Himachal Pradesh",
-      "confirmed": 1141,
-      "active": 285,
-      "recovered": 833,
+      "confirmed": 1143,
+      "active": 269,
+      "recovered": 851,
       "dead": 10,
-      "updatedTime": "10/07/2020 13:17:09",
+      "updatedTime": "10/07/2020 17:40:12",
       "note": "HP has 14 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed",
       "stateCode": "HP",
       "today": {
-        "confirmed": 1,
-        "recovered": 0,
+        "confirmed": 3,
+        "recovered": 18,
         "dead": 0,
-        "active": 1
+        "active": -15
       },
       "testing_data": {
         "tested": 94720,
@@ -715,23 +715,23 @@
         "negative": 8672,
         "unconfirmed": 43,
         "date": "10/07/2020",
-        "source": "http://chdcovid19.in/"
+        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/1051"
       }
     },
     "DN": {
       "name": "Dadra and Nagar Haveli and Daman and Diu",
-      "confirmed": 461,
-      "active": 246,
-      "recovered": 211,
+      "confirmed": 470,
+      "active": 242,
+      "recovered": 224,
       "dead": 1,
-      "updatedTime": "10/07/2020 14:58:12",
+      "updatedTime": "10/07/2020 17:40:14",
       "note": "3 cases are migrated to different states which are reduced from active count.",
       "stateCode": "DN",
       "today": {
-        "confirmed": 5,
-        "recovered": 6,
+        "confirmed": 14,
+        "recovered": 19,
         "dead": 0,
-        "active": -1
+        "active": -5
       },
       "isUnknown": true
     },
@@ -890,9 +890,9 @@
     "source": "https://twitter.com/ICMRDELHI/status/1281436467487629312?s=20"
   },
   "today": {
-    "confirmed": 3299,
-    "recovered": 1238,
-    "dead": 31,
-    "active": 2030
+    "confirmed": 3310,
+    "recovered": 1728,
+    "dead": 33,
+    "active": 1549
   }
 }
