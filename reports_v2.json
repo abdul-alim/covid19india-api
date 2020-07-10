@@ -1,9 +1,9 @@
 {
-  "confirmed": 819599,
-  "recovered": 514357,
-  "dead": 22130,
-  "active": 282715,
-  "updatedTime": "10/07/2020 21:24:06",
+  "confirmed": 819986,
+  "recovered": 514457,
+  "dead": 22135,
+  "active": 282997,
+  "updatedTime": "10/07/2020 21:47:06",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -11,7 +11,7 @@
       "active": 95628,
       "recovered": 132625,
       "dead": 9893,
-      "updatedTime": "10/07/2020 21:24:08",
+      "updatedTime": "10/07/2020 21:39:08",
       "note": "315 cases were marked as non-covid deaths in MH bulletin. These have been reduced from active count\n[June 16] : 1328 deceased cases have been retroactively added to MH bulletin.\n[June 20]: 69 deceased cases have been reduced based on state bulletin.\n",
       "stateCode": "MH",
       "today": {
@@ -93,12 +93,12 @@
         "active": 420
       },
       "testing_data": {
-        "tested": 441692,
-        "positive": 39280,
-        "negative": 402412,
+        "tested": 449349,
+        "positive": 40155,
+        "negative": 409194,
         "unconfirmed": 0,
-        "date": "09/07/2020",
-        "source": "https://twitter.com/DDNewsGujarati/status/1281241944543293440?s=20"
+        "date": "10/07/2020",
+        "source": "http://gujcovid19.gujarat.gov.in/"
       }
     },
     "UP": {
@@ -227,7 +227,7 @@
       "active": 5057,
       "recovered": 17620,
       "dead": 497,
-      "updatedTime": "10/07/2020 21:24:10",
+      "updatedTime": "10/07/2020 21:39:11",
       "note": "",
       "stateCode": "RJ",
       "today": {
@@ -275,7 +275,7 @@
       "active": 3538,
       "recovered": 12481,
       "dead": 638,
-      "updatedTime": "10/07/2020 21:24:12",
+      "updatedTime": "10/07/2020 21:39:13",
       "note": "",
       "stateCode": "MP",
       "today": {
@@ -367,18 +367,18 @@
     },
     "JK": {
       "name": "Jammu and Kashmir",
-      "confirmed": 9501,
-      "active": 3652,
-      "recovered": 5695,
-      "dead": 154,
-      "updatedTime": "09/07/2020 21:16:10",
+      "confirmed": 9888,
+      "active": 3943,
+      "recovered": 5786,
+      "dead": 159,
+      "updatedTime": "10/07/2020 21:47:10",
       "note": "",
       "stateCode": "JK",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 387,
+        "recovered": 91,
+        "dead": 5,
+        "active": 291
       },
       "testing_data": {
         "tested": 429787,
@@ -460,7 +460,7 @@
       "active": 761,
       "recovered": 3028,
       "dead": 17,
-      "updatedTime": "10/07/2020 21:24:15",
+      "updatedTime": "10/07/2020 21:39:15",
       "note": "",
       "stateCode": "CT",
       "today": {
@@ -810,17 +810,17 @@
     "SK": {
       "name": "Sikkim",
       "confirmed": 134,
-      "active": 50,
-      "recovered": 71,
+      "active": 41,
+      "recovered": 80,
       "dead": 0,
-      "updatedTime": "09/07/2020 19:55:20",
+      "updatedTime": "10/07/2020 21:47:13",
       "note": "13 Migrated cases reduced from Active count",
       "stateCode": "SK",
       "today": {
         "confirmed": 0,
-        "recovered": 0,
+        "recovered": 9,
         "dead": 0,
-        "active": 0
+        "active": -9
       },
       "testing_data": {
         "tested": 12119,
@@ -880,9 +880,9 @@
     }
   },
   "testing_data": {
-    "tested": 12596936,
-    "positive": 811555,
-    "negative": 6009782,
+    "tested": 12604593,
+    "positive": 812430,
+    "negative": 6016564,
     "unconfirmed": 23580
   },
   "testing_data_imcr": {
@@ -890,9 +890,9 @@
     "source": "https://twitter.com/ICMRDELHI/status/1281436467487629312?s=20"
   },
   "today": {
-    "confirmed": 24757,
-    "recovered": 18397,
-    "dead": 507,
-    "active": 5853
+    "confirmed": 25144,
+    "recovered": 18497,
+    "dead": 512,
+    "active": 6135
   }
 }
