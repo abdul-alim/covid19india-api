@@ -1,9 +1,9 @@
 {
-  "confirmed": 795728,
+  "confirmed": 795729,
   "recovered": 496048,
-  "dead": 21634,
-  "active": 277945,
-  "updatedTime": "10/07/2020 12:05:06",
+  "dead": 21638,
+  "active": 277942,
+  "updatedTime": "10/07/2020 13:13:06",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -296,17 +296,17 @@
     "AS": {
       "name": "Assam",
       "confirmed": 14601,
-      "active": 5423,
+      "active": 5419,
       "recovered": 9148,
-      "dead": 27,
-      "updatedTime": "10/07/2020 00:02:09",
+      "dead": 31,
+      "updatedTime": "10/07/2020 13:13:08",
       "note": "Includes one case from Nagaland.\nTotal of 3 patients who migrated to other states has been reduced from Active count",
       "stateCode": "AS",
       "today": {
         "confirmed": 0,
         "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "dead": 4,
+        "active": -4
       },
       "testing_data": {
         "tested": 508973,
@@ -624,18 +624,18 @@
     },
     "HP": {
       "name": "Himachal Pradesh",
-      "confirmed": 1140,
-      "active": 284,
+      "confirmed": 1141,
+      "active": 285,
       "recovered": 833,
       "dead": 10,
-      "updatedTime": "09/07/2020 21:53:19",
+      "updatedTime": "10/07/2020 13:13:09",
       "note": "HP has 14 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed",
       "stateCode": "HP",
       "today": {
-        "confirmed": 0,
+        "confirmed": 1,
         "recovered": 0,
         "dead": 0,
-        "active": 0
+        "active": 1
       },
       "testing_data": {
         "tested": 94720,
@@ -890,9 +890,9 @@
     "source": "https://twitter.com/ICMRDELHI/status/1281436467487629312?s=20"
   },
   "today": {
-    "confirmed": 886,
+    "confirmed": 887,
     "recovered": 88,
-    "dead": 11,
-    "active": 787
+    "dead": 15,
+    "active": 784
   }
 }
