@@ -1,9 +1,9 @@
 {
-  "confirmed": 794864,
+  "confirmed": 794663,
   "recovered": 495960,
   "dead": 21623,
-  "active": 277180,
-  "updatedTime": "10/07/2020 07:39:07",
+  "active": 276979,
+  "updatedTime": "10/07/2020 09:37:06",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -439,18 +439,18 @@
     },
     "UN": {
       "name": "State Unassigned",
-      "confirmed": 4385,
-      "active": 4385,
+      "confirmed": 4161,
+      "active": 4161,
       "recovered": 0,
       "dead": 0,
-      "updatedTime": "09/07/2020 09:57:13",
-      "note": "MoHFW website reports that these are the 'cases that are being reassigned to states'. ",
+      "updatedTime": "10/07/2020 09:37:08",
+      "note": "MoHFW website reports that these are the 'cases that are being reassigned to states'. 224 cases were decreased in this category today by MoHFW. We have removed these cases from this category",
       "stateCode": "UN",
       "today": {
-        "confirmed": 0,
+        "confirmed": -224,
         "recovered": 0,
         "dead": 0,
-        "active": 0
+        "active": -224
       },
       "isUnknown": true
     },
@@ -672,18 +672,18 @@
     },
     "NL": {
       "name": "Nagaland",
-      "confirmed": 673,
-      "active": 369,
+      "confirmed": 696,
+      "active": 392,
       "recovered": 304,
       "dead": 0,
-      "updatedTime": "09/07/2020 18:08:13",
+      "updatedTime": "10/07/2020 09:37:09",
       "note": "",
       "stateCode": "NL",
       "today": {
-        "confirmed": 0,
+        "confirmed": 23,
         "recovered": 0,
         "dead": 0,
-        "active": 0
+        "active": 23
       },
       "testing_data": {
         "tested": 22697,
@@ -886,13 +886,13 @@
     "unconfirmed": 23958
   },
   "testing_data_imcr": {
-    "tested": 10740832,
-    "source": "https://twitter.com/ICMRDELHI/status/1281068228542738432?s=20"
+    "tested": 11024491,
+    "source": "https://twitter.com/ICMRDELHI/status/1281436467487629312?s=20"
   },
   "today": {
-    "confirmed": 22,
+    "confirmed": -179,
     "recovered": 0,
     "dead": 0,
-    "active": 22
+    "active": -179
   }
 }
