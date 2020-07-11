@@ -1,9 +1,9 @@
 {
-  "confirmed": 830763,
-  "recovered": 522631,
-  "dead": 22256,
-  "active": 285497,
-  "updatedTime": "11/07/2020 19:30:06",
+  "confirmed": 832544,
+  "recovered": 525629,
+  "dead": 22290,
+  "active": 284246,
+  "updatedTime": "11/07/2020 19:37:06",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -55,18 +55,18 @@
     },
     "DL": {
       "name": "Delhi",
-      "confirmed": 109140,
-      "active": 21146,
-      "recovered": 84694,
-      "dead": 3300,
-      "updatedTime": "10/07/2020 20:40:13",
+      "confirmed": 110921,
+      "active": 19895,
+      "recovered": 87692,
+      "dead": 3334,
+      "updatedTime": "11/07/2020 19:37:08",
       "note": "Delhi bulletins in the morning, containing data of the previous day. We will add that data to the date on which the report is released, rather than the previous day.\n[June 16]: 344 deceased cases have been retroactively added to DL bulletin.",
       "stateCode": "DL",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 1781,
+        "recovered": 2998,
+        "dead": 34,
+        "active": -1251
       },
       "testing_data": {
         "tested": 747109,
@@ -434,7 +434,7 @@
         "negative": 0,
         "unconfirmed": 6449,
         "date": "11/07/2020",
-        "source": ""
+        "source": "https://dhs.kerala.gov.in/wp-content/uploads/2020/07/Bulletin-HFWD-English-July-11.pdf"
       }
     },
     "UN": {
@@ -662,12 +662,12 @@
         "active": 2
       },
       "testing_data": {
-        "tested": 15186,
-        "positive": 1064,
-        "negative": 12869,
-        "unconfirmed": 344,
-        "date": "10/07/2020",
-        "source": "https://www.facebook.com/114874993303412/photos/pcb.196555325135378/196555231802054/?type=3&__tn__=HH-R&eid=ARBpEXYksPTP54JvO_78tZUqiSkfttCw1ORzA5vak6i58dGS9n5YOfWjki82RwVRmc_PwYKdkhEG7Bsk&__xts__%5B0%5D=68.ARDSbEMlH7Yasn9fMg4ki026c21_G4Y_kto3_4aGxpaZonJb9oFSC0IYm4Hp7tLZxDx0cDoFrrS828eEIwtddlrp0Ydmf8b3P_wTzDB_RLAvNZG9167QC11komP8CYHNla-HMP6POQozjwE3vZSFE_Eo7UM_cdi8Xi6MTAtz_bvBTUJFePsJlV0WKEOAYIoNCb5mWgSQYYkKJ9sHNbtiWOZoeu-WHNwowfv0HDHYaS2jXvFIi6SNFw8C7AKPe_80ZW4FTl4uCC0vVWwHcz1ggTh2U-Qsz2UqEytY6pJFRocxdEwtZ91PNeeAj8LUzrF1YA0C9C_Ozf_FLl7GddErCq0"
+        "tested": 15293,
+        "positive": 1077,
+        "negative": 12940,
+        "unconfirmed": 354,
+        "date": "11/07/2020",
+        "source": ""
       }
     },
     "NL": {
@@ -700,7 +700,7 @@
       "active": 128,
       "recovered": 413,
       "dead": 8,
-      "updatedTime": "11/07/2020 19:30:09",
+      "updatedTime": "11/07/2020 19:33:11",
       "note": "",
       "stateCode": "CH",
       "today": {
@@ -880,19 +880,19 @@
     }
   },
   "testing_data": {
-    "tested": 12835346,
-    "positive": 833511,
-    "negative": 6124018,
-    "unconfirmed": 24320
+    "tested": 12835453,
+    "positive": 833524,
+    "negative": 6124089,
+    "unconfirmed": 24330
   },
   "testing_data_imcr": {
     "tested": 11307002,
     "source": "https://twitter.com/ICMRDELHI/status/1281794800195301376"
   },
   "today": {
-    "confirmed": 8159,
-    "recovered": 6381,
-    "dead": 112,
-    "active": 1666
+    "confirmed": 9940,
+    "recovered": 9379,
+    "dead": 146,
+    "active": 415
   }
 }
