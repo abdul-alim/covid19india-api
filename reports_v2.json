@@ -1,9 +1,9 @@
 {
-  "confirmed": 843433,
-  "recovered": 531921,
-  "dead": 22563,
-  "active": 288569,
-  "updatedTime": "11/07/2020 20:24:06",
+  "confirmed": 844777,
+  "recovered": 532532,
+  "dead": 22659,
+  "active": 289206,
+  "updatedTime": "11/07/2020 20:46:06",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -11,7 +11,7 @@
       "active": 99203,
       "recovered": 136985,
       "dead": 10116,
-      "updatedTime": "11/07/2020 20:24:08",
+      "updatedTime": "11/07/2020 20:39:07",
       "note": "296 cases were marked as non-covid deaths in MH bulletin. These have been reduced from active count\n[June 16] : 1328 deceased cases have been retroactively added to MH bulletin.\n[June 20]: 69 deceased cases have been reduced based on state bulletin.\n",
       "stateCode": "MH",
       "today": {
@@ -93,12 +93,12 @@
         "active": 360
       },
       "testing_data": {
-        "tested": 449349,
-        "positive": 40155,
-        "negative": 409194,
+        "tested": 457066,
+        "positive": 41027,
+        "negative": 416039,
         "unconfirmed": 0,
-        "date": "10/07/2020",
-        "source": "https://twitter.com/DDNewsGujarati/status/1281591445460148231?s=20"
+        "date": "11/07/2020",
+        "source": "https://twitter.com/PIBAhmedabad/status/1281951049834782725"
       }
     },
     "UP": {
@@ -128,17 +128,17 @@
     "KA": {
       "name": "Karnataka",
       "confirmed": 33418,
-      "active": 19031,
+      "active": 18961,
       "recovered": 13838,
-      "dead": 545,
-      "updatedTime": "10/07/2020 20:51:09",
+      "dead": 615,
+      "updatedTime": "11/07/2020 20:46:09",
       "note": "4 cases are classified as non-covid related deaths in KA bulletin. They have been reduced from active cases",
       "stateCode": "KA",
       "today": {
         "confirmed": 0,
         "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "dead": 70,
+        "active": -70
       },
       "testing_data": {
         "tested": 798437,
@@ -175,18 +175,18 @@
     },
     "WB": {
       "name": "West Bengal",
-      "confirmed": 27109,
-      "active": 8881,
-      "recovered": 17348,
-      "dead": 880,
-      "updatedTime": "10/07/2020 19:56:13",
+      "confirmed": 28453,
+      "active": 9588,
+      "recovered": 17959,
+      "dead": 906,
+      "updatedTime": "11/07/2020 20:45:09",
       "note": "",
       "stateCode": "WB",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 1344,
+        "recovered": 611,
+        "dead": 26,
+        "active": 707
       },
       "testing_data": {
         "tested": 593967,
@@ -299,7 +299,7 @@
       "active": 5648,
       "recovered": 9849,
       "dead": 37,
-      "updatedTime": "11/07/2020 20:24:10",
+      "updatedTime": "11/07/2020 20:28:11",
       "note": "Includes one case from Nagaland.\nTotal of 3 patients who migrated to other states has been reduced from Active count",
       "stateCode": "AS",
       "today": {
@@ -357,12 +357,12 @@
         "active": 176
       },
       "testing_data": {
-        "tested": 321443,
-        "positive": 11956,
+        "tested": 327288,
+        "positive": 12526,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "10/07/2020",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/1049"
+        "date": "11/07/2020",
+        "source": ""
       }
     },
     "JK": {
@@ -775,12 +775,12 @@
         "active": -7
       },
       "testing_data": {
-        "tested": 15868,
+        "tested": 16396,
         "positive": 226,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "10/07/2020",
-        "source": "https://dipr.mizoram.gov.in/post/status-of-state-surveillance-of-covid-19-time-972020-500pm-1072020-500-pm"
+        "date": "11/07/2020",
+        "source": "https://dipr.mizoram.gov.in/post/status-of-state-surveillance-of-covid-19-time-1072020-500pm-1172020-500-pm"
       }
     },
     "AN": {
@@ -848,11 +848,11 @@
       },
       "testing_data": {
         "tested": 22517,
-        "positive": 168,
+        "positive": 262,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "10/07/2020",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/1063"
+        "date": "11/07/2020",
+        "source": "https://corona.meghalayagov.in/"
       }
     },
     "LD": {
@@ -880,9 +880,9 @@
     }
   },
   "testing_data": {
-    "tested": 12849636,
-    "positive": 834084,
-    "negative": 6137065,
+    "tested": 12863726,
+    "positive": 835620,
+    "negative": 6143910,
     "unconfirmed": 24330
   },
   "testing_data_imcr": {
@@ -890,9 +890,9 @@
     "source": "https://twitter.com/ICMRDELHI/status/1281794800195301376"
   },
   "today": {
-    "confirmed": 20829,
-    "recovered": 15671,
-    "dead": 419,
-    "active": 4739
+    "confirmed": 22173,
+    "recovered": 16282,
+    "dead": 515,
+    "active": 5376
   }
 }
