@@ -1,9 +1,9 @@
 {
-  "confirmed": 823471,
-  "recovered": 516330,
-  "dead": 22152,
-  "active": 284610,
-  "updatedTime": "11/07/2020 14:50:06",
+  "confirmed": 823918,
+  "recovered": 516338,
+  "dead": 22153,
+  "active": 285048,
+  "updatedTime": "11/07/2020 15:14:06",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -247,18 +247,18 @@
     },
     "HR": {
       "name": "Haryana",
-      "confirmed": 19934,
-      "active": 4740,
-      "recovered": 14904,
+      "confirmed": 20381,
+      "active": 5179,
+      "recovered": 14912,
       "dead": 290,
-      "updatedTime": "10/07/2020 20:57:10",
+      "updatedTime": "11/07/2020 15:14:07",
       "note": "",
       "stateCode": "HR",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 447,
+        "recovered": 8,
         "dead": 0,
-        "active": 0
+        "active": 439
       },
       "testing_data": {
         "tested": 352343,
@@ -296,17 +296,17 @@
     "AS": {
       "name": "Assam",
       "confirmed": 15537,
-      "active": 5650,
+      "active": 5649,
       "recovered": 9849,
-      "dead": 35,
-      "updatedTime": "11/07/2020 00:47:07",
+      "dead": 36,
+      "updatedTime": "11/07/2020 15:14:09",
       "note": "Includes one case from Nagaland.\nTotal of 3 patients who migrated to other states has been reduced from Active count",
       "stateCode": "AS",
       "today": {
         "confirmed": 0,
         "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "dead": 1,
+        "active": -1
       },
       "testing_data": {
         "tested": 525485,
@@ -890,9 +890,9 @@
     "source": "https://twitter.com/ICMRDELHI/status/1281794800195301376"
   },
   "today": {
-    "confirmed": 867,
-    "recovered": 80,
-    "dead": 8,
-    "active": 779
+    "confirmed": 1314,
+    "recovered": 88,
+    "dead": 9,
+    "active": 1217
   }
 }
