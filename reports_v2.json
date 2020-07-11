@@ -1,9 +1,9 @@
 {
-  "confirmed": 847869,
-  "recovered": 532641,
-  "dead": 22669,
-  "active": 292179,
-  "updatedTime": "11/07/2020 21:37:06",
+  "confirmed": 849054,
+  "recovered": 535255,
+  "dead": 22678,
+  "active": 290741,
+  "updatedTime": "11/07/2020 21:54:06",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -128,17 +128,17 @@
     "KA": {
       "name": "Karnataka",
       "confirmed": 36216,
-      "active": 21759,
-      "recovered": 13838,
+      "active": 20879,
+      "recovered": 14718,
       "dead": 615,
-      "updatedTime": "11/07/2020 21:13:08",
+      "updatedTime": "11/07/2020 21:54:08",
       "note": "4 cases are classified as non-covid related deaths in KA bulletin. They have been reduced from active cases",
       "stateCode": "KA",
       "today": {
         "confirmed": 2798,
-        "recovered": 0,
+        "recovered": 880,
         "dead": 70,
-        "active": 2728
+        "active": 1848
       },
       "testing_data": {
         "tested": 798437,
@@ -151,26 +151,26 @@
     },
     "TG": {
       "name": "Telangana",
-      "confirmed": 32224,
-      "active": 12680,
-      "recovered": 19205,
-      "dead": 339,
-      "updatedTime": "10/07/2020 22:39:09",
+      "confirmed": 33402,
+      "active": 12135,
+      "recovered": 20919,
+      "dead": 348,
+      "updatedTime": "11/07/2020 21:54:10",
       "note": "",
       "stateCode": "TG",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 1178,
+        "recovered": 1714,
+        "dead": 9,
+        "active": -545
       },
       "testing_data": {
-        "tested": 151109,
-        "positive": 32224,
-        "negative": 118885,
+        "tested": 162171,
+        "positive": 33402,
+        "negative": 128769,
         "unconfirmed": 0,
-        "date": "10/07/2020",
-        "source": "https://twitter.com/Eatala_Rajender/status/1281630006242799616?s=20"
+        "date": "11/07/2020",
+        "source": "https://twitter.com/Eatala_Rajender/status/1281983011848740866?s=20"
       }
     },
     "WB": {
@@ -309,12 +309,12 @@
         "active": -2
       },
       "testing_data": {
-        "tested": 525485,
-        "positive": 14600,
+        "tested": 5,
+        "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "10/07/2020",
-        "source": "https://twitter.com/nhm_assam/status/1281634677107814401?s=20"
+        "date": "11/07/2020",
+        "source": ""
       }
     },
     "BR": {
@@ -371,7 +371,7 @@
       "active": 4092,
       "recovered": 5895,
       "dead": 169,
-      "updatedTime": "11/07/2020 21:37:09",
+      "updatedTime": "11/07/2020 21:48:14",
       "note": "",
       "stateCode": "JK",
       "today": {
@@ -624,18 +624,18 @@
     },
     "HP": {
       "name": "Himachal Pradesh",
-      "confirmed": 1175,
-      "active": 277,
-      "recovered": 875,
+      "confirmed": 1182,
+      "active": 264,
+      "recovered": 895,
       "dead": 10,
-      "updatedTime": "11/07/2020 18:39:10",
+      "updatedTime": "11/07/2020 21:54:13",
       "note": "HP has 14 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed",
       "stateCode": "HP",
       "today": {
-        "confirmed": 4,
-        "recovered": 3,
+        "confirmed": 11,
+        "recovered": 23,
         "dead": 0,
-        "active": 1
+        "active": -12
       },
       "testing_data": {
         "tested": 96268,
@@ -813,7 +813,7 @@
       "active": 67,
       "recovered": 80,
       "dead": 0,
-      "updatedTime": "11/07/2020 21:37:11",
+      "updatedTime": "11/07/2020 21:48:24",
       "note": "13 Migrated cases reduced from Active count",
       "stateCode": "SK",
       "today": {
@@ -880,9 +880,9 @@
     }
   },
   "testing_data": {
-    "tested": 12926422,
-    "positive": 841203,
-    "negative": 6147239,
+    "tested": 12412004,
+    "positive": 827781,
+    "negative": 6157123,
     "unconfirmed": 23972
   },
   "testing_data_imcr": {
@@ -890,9 +890,9 @@
     "source": "https://twitter.com/ICMRDELHI/status/1281794800195301376"
   },
   "today": {
-    "confirmed": 25265,
-    "recovered": 16391,
-    "dead": 525,
-    "active": 8349
+    "confirmed": 26450,
+    "recovered": 19005,
+    "dead": 534,
+    "active": 6911
   }
 }
