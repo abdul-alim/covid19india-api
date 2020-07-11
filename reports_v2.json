@@ -1,9 +1,9 @@
 {
-  "confirmed": 822674,
-  "recovered": 516318,
+  "confirmed": 822762,
+  "recovered": 516330,
   "dead": 22152,
-  "active": 283825,
-  "updatedTime": "11/07/2020 13:24:06",
+  "active": 283901,
+  "updatedTime": "11/07/2020 13:47:06",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -720,16 +720,16 @@
     },
     "DN": {
       "name": "Dadra and Nagar Haveli and Daman and Diu",
-      "confirmed": 470,
+      "confirmed": 482,
       "active": 240,
-      "recovered": 225,
+      "recovered": 237,
       "dead": 1,
-      "updatedTime": "11/07/2020 12:17:09",
+      "updatedTime": "11/07/2020 13:44:09",
       "note": "3 cases are migrated to different states which are reduced from active count.",
       "stateCode": "DN",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 12,
+        "recovered": 12,
         "dead": 0,
         "active": 0
       },
@@ -789,7 +789,7 @@
       "active": 64,
       "recovered": 92,
       "dead": 0,
-      "updatedTime": "11/07/2020 13:24:09",
+      "updatedTime": "11/07/2020 13:39:10",
       "note": "",
       "stateCode": "AN",
       "today": {
@@ -833,18 +833,18 @@
     },
     "ML": {
       "name": "Meghalaya",
-      "confirmed": 186,
-      "active": 139,
+      "confirmed": 262,
+      "active": 215,
       "recovered": 45,
       "dead": 2,
-      "updatedTime": "10/07/2020 23:25:10",
+      "updatedTime": "11/07/2020 13:47:10",
       "note": "[June 17]:\nOne case was identified to be false positive and has been removed from the confirmed cases by ML authorities.",
       "stateCode": "ML",
       "today": {
-        "confirmed": 0,
+        "confirmed": 76,
         "recovered": 0,
         "dead": 0,
-        "active": 0
+        "active": 76
       },
       "testing_data": {
         "tested": 22517,
@@ -887,12 +887,12 @@
   },
   "testing_data_imcr": {
     "tested": 11307002,
-    "source": "https://twitter.com/ICMRDELHI/status/1281794800195301376?s=20"
+    "source": "https://twitter.com/ICMRDELHI/status/1281794800195301376"
   },
   "today": {
-    "confirmed": 70,
-    "recovered": 68,
+    "confirmed": 158,
+    "recovered": 80,
     "dead": 8,
-    "active": -6
+    "active": 70
   }
 }
