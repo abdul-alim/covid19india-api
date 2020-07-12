@@ -1,9 +1,9 @@
 {
-  "confirmed": 850358,
-  "recovered": 536231,
+  "confirmed": 849974,
+  "recovered": 536232,
   "dead": 22687,
-  "active": 291058,
-  "updatedTime": "12/07/2020 08:57:06",
+  "active": 290673,
+  "updatedTime": "12/07/2020 09:47:06",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -439,18 +439,18 @@
     },
     "UN": {
       "name": "State Unassigned",
-      "confirmed": 3416,
-      "active": 3416,
+      "confirmed": 3024,
+      "active": 3024,
       "recovered": 0,
       "dead": 0,
-      "updatedTime": "11/07/2020 10:08:08",
-      "note": "MoHFW website reports that these are the 'cases that are being reassigned to states'. ",
+      "updatedTime": "12/07/2020 09:47:15",
+      "note": "MoHFW website reports that these are the 'cases that are being reassigned to states'. 392 cases were decreased in this category today by MoHFW. We have removed these cases from this category",
       "stateCode": "UN",
       "today": {
-        "confirmed": 0,
+        "confirmed": -392,
         "recovered": 0,
         "dead": 0,
-        "active": 0
+        "active": -392
       },
       "isUnknown": true
     },
@@ -761,11 +761,11 @@
     },
     "MZ": {
       "name": "Mizoram",
-      "confirmed": 227,
-      "active": 77,
+      "confirmed": 228,
+      "active": 78,
       "recovered": 150,
       "dead": 0,
-      "updatedTime": "12/07/2020 08:57:08",
+      "updatedTime": "12/07/2020 09:47:18",
       "note": "",
       "stateCode": "MZ",
       "today": {
@@ -785,11 +785,11 @@
     },
     "AN": {
       "name": "Andaman and Nicobar",
-      "confirmed": 156,
-      "active": 64,
-      "recovered": 92,
+      "confirmed": 163,
+      "active": 70,
+      "recovered": 93,
       "dead": 0,
-      "updatedTime": "11/07/2020 13:39:10",
+      "updatedTime": "12/07/2020 09:47:20",
       "note": "",
       "stateCode": "AN",
       "today": {
@@ -886,13 +886,13 @@
     "unconfirmed": 25164
   },
   "testing_data_imcr": {
-    "tested": 11307002,
-    "source": "https://twitter.com/ICMRDELHI/status/1281794800195301376"
+    "tested": 11587153,
+    "source": "https://twitter.com/ICMRDELHI/status/1282160902507130881?s=20"
   },
   "today": {
-    "confirmed": 0,
+    "confirmed": -392,
     "recovered": 0,
     "dead": 0,
-    "active": 0
+    "active": -392
   }
 }
