@@ -1,9 +1,9 @@
 {
-  "confirmed": 854480,
-  "recovered": 537599,
-  "dead": 22718,
-  "active": 293781,
-  "updatedTime": "12/07/2020 17:01:06",
+  "confirmed": 856062,
+  "recovered": 541227,
+  "dead": 22762,
+  "active": 291691,
+  "updatedTime": "12/07/2020 18:22:06",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -55,18 +55,18 @@
     },
     "DL": {
       "name": "Delhi",
-      "confirmed": 110921,
-      "active": 19895,
-      "recovered": 87692,
-      "dead": 3334,
-      "updatedTime": "11/07/2020 19:50:08",
+      "confirmed": 112494,
+      "active": 19155,
+      "recovered": 89968,
+      "dead": 3371,
+      "updatedTime": "12/07/2020 18:22:07",
       "note": "Delhi bulletins contain the counts for the previous day. We will add that data to the date on which the report is released, rather than the previous day.\n[June 16]: 344 deceased cases have been retroactively added to DL bulletin.",
       "stateCode": "DL",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 1573,
+        "recovered": 2276,
+        "dead": 37,
+        "active": -740
       },
       "testing_data": {
         "tested": 768617,
@@ -320,17 +320,17 @@
     "BR": {
       "name": "Bihar",
       "confirmed": 16305,
-      "active": 5196,
-      "recovered": 10991,
-      "dead": 118,
-      "updatedTime": "12/07/2020 17:01:08",
+      "active": 4227,
+      "recovered": 11953,
+      "dead": 125,
+      "updatedTime": "12/07/2020 18:22:10",
       "note": "",
       "stateCode": "BR",
       "today": {
         "confirmed": 1266,
-        "recovered": 0,
-        "dead": 0,
-        "active": 1266
+        "recovered": 962,
+        "dead": 7,
+        "active": 297
       },
       "testing_data": {
         "tested": 310013,
@@ -344,17 +344,17 @@
     "OR": {
       "name": "Odisha",
       "confirmed": 13121,
-      "active": 4677,
-      "recovered": 8360,
+      "active": 4287,
+      "recovered": 8750,
       "dead": 84,
-      "updatedTime": "12/07/2020 11:59:14",
+      "updatedTime": "12/07/2020 18:22:11",
       "note": "[July 12th] 20 non-covid deaths reported in state dashboard are included in the deceased count\n[June 22nd]: NDRF/ODRF cases have been redistributed to districts based on state dashboard",
       "stateCode": "OR",
       "today": {
         "confirmed": 595,
-        "recovered": 0,
+        "recovered": 390,
         "dead": 5,
-        "active": 590
+        "active": 200
       },
       "testing_data": {
         "tested": 334527,
@@ -362,7 +362,7 @@
         "negative": 0,
         "unconfirmed": 0,
         "date": "12/07/2020",
-        "source": ""
+        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/1092"
       }
     },
     "JK": {
@@ -648,18 +648,18 @@
     },
     "LA": {
       "name": "Ladakh",
-      "confirmed": 1077,
-      "active": 148,
+      "confirmed": 1086,
+      "active": 157,
       "recovered": 928,
       "dead": 1,
-      "updatedTime": "11/07/2020 18:39:12",
+      "updatedTime": "12/07/2020 18:22:14",
       "note": "",
       "stateCode": "LA",
       "today": {
-        "confirmed": 0,
+        "confirmed": 9,
         "recovered": 0,
         "dead": 0,
-        "active": 0
+        "active": 9
       },
       "testing_data": {
         "tested": 15293,
@@ -890,9 +890,9 @@
     "source": "https://twitter.com/ICMRDELHI/status/1282160902507130881?s=20"
   },
   "today": {
-    "confirmed": 4121,
-    "recovered": 1368,
-    "dead": 31,
-    "active": 2722
+    "confirmed": 5703,
+    "recovered": 4996,
+    "dead": 75,
+    "active": 632
   }
 }
