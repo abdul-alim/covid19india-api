@@ -911,15 +911,15 @@
       {
         "district": "Jorhat",
         "notes": "",
-        "active": 91,
+        "active": 90,
         "confirmed": 145,
         "recovered": 54,
-        "dead": 0,
+        "dead": 1,
         "today": {
           "confirmed": 0,
           "recovered": 0,
-          "active": 0,
-          "dead": 0
+          "active": -1,
+          "dead": 1
         }
       },
       {
@@ -1163,14 +1163,14 @@
     ],
     "today": {
       "confirmed": 0,
-      "active": -3,
+      "active": -4,
       "recovered": 0,
-      "dead": 3
+      "dead": 4
     },
     "confirmed": 16072,
-    "recovered": 10427,
-    "dead": 40,
-    "active": 5602
+    "recovered": 10895,
+    "dead": 41,
+    "active": 5133
   },
   "BR": {
     "state": "Bihar",
@@ -3833,10 +3833,10 @@
       "recovered": 52,
       "dead": 7
     },
-    "confirmed": 3680,
-    "recovered": 2263,
-    "dead": 24,
-    "active": 1393
+    "confirmed": 3760,
+    "recovered": 2308,
+    "dead": 31,
+    "active": 1421
   },
   "JK": {
     "state": "Jammu and Kashmir",
@@ -8339,14 +8339,14 @@
       {
         "district": "East Sikkim",
         "notes": "",
-        "active": 58,
-        "confirmed": 100,
+        "active": 62,
+        "confirmed": 104,
         "recovered": 42,
         "dead": 0,
         "today": {
-          "confirmed": 0,
+          "confirmed": 4,
           "recovered": 0,
-          "active": 0,
+          "active": 4,
           "dead": 0
         }
       },
@@ -8394,15 +8394,15 @@
       }
     ],
     "today": {
-      "confirmed": 0,
-      "active": 0,
+      "confirmed": 4,
+      "active": 4,
       "recovered": 0,
       "dead": 0
     },
-    "confirmed": 160,
-    "recovered": 80,
+    "confirmed": 164,
+    "recovered": 81,
     "dead": 0,
-    "active": 67
+    "active": 70
   },
   "TG": {
     "state": "Telangana",
