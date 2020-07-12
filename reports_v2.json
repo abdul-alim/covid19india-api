@@ -1,9 +1,9 @@
 {
   "confirmed": 851261,
   "recovered": 536544,
-  "dead": 22696,
-  "active": 291639,
-  "updatedTime": "12/07/2020 14:03:50",
+  "dead": 22699,
+  "active": 291636,
+  "updatedTime": "12/07/2020 14:23:06",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -251,7 +251,7 @@
       "active": 5054,
       "recovered": 15614,
       "dead": 297,
-      "updatedTime": "12/07/2020 14:03:53",
+      "updatedTime": "12/07/2020 14:08:08",
       "note": "",
       "stateCode": "HR",
       "today": {
@@ -296,17 +296,17 @@
     "AS": {
       "name": "Assam",
       "confirmed": 16072,
-      "active": 5605,
+      "active": 5602,
       "recovered": 10427,
-      "dead": 37,
-      "updatedTime": "12/07/2020 00:17:08",
+      "dead": 40,
+      "updatedTime": "12/07/2020 14:23:08",
       "note": "Includes one case from Nagaland.\nTotal of 3 patients who migrated to other states has been reduced from Active count",
       "stateCode": "AS",
       "today": {
         "confirmed": 0,
         "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "dead": 3,
+        "active": -3
       },
       "testing_data": {
         "tested": 537831,
@@ -892,7 +892,7 @@
   "today": {
     "confirmed": 902,
     "recovered": 313,
-    "dead": 9,
-    "active": 580
+    "dead": 12,
+    "active": 577
   }
 }
