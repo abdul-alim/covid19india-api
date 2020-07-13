@@ -869,15 +869,15 @@
       {
         "district": "Golaghat",
         "notes": "",
-        "active": 184,
+        "active": 183,
         "confirmed": 272,
         "recovered": 88,
-        "dead": 0,
+        "dead": 1,
         "today": {
           "confirmed": 0,
           "recovered": 0,
-          "active": 0,
-          "dead": 0
+          "active": -1,
+          "dead": 1
         }
       },
       {
@@ -939,15 +939,15 @@
       {
         "district": "Kamrup Metropolitan",
         "notes": "",
-        "active": 6645,
+        "active": 6644,
         "confirmed": 7043,
         "recovered": 386,
-        "dead": 12,
+        "dead": 13,
         "today": {
           "confirmed": 0,
           "recovered": 0,
-          "active": 0,
-          "dead": 0
+          "active": -1,
+          "dead": 1
         }
       },
       {
@@ -1163,14 +1163,14 @@
     ],
     "today": {
       "confirmed": 0,
-      "active": 0,
+      "active": -2,
       "recovered": 0,
-      "dead": 0
+      "dead": 2
     },
     "confirmed": 16807,
     "recovered": 10895,
-    "dead": 41,
-    "active": 5868
+    "dead": 45,
+    "active": 5864
   },
   "BR": {
     "state": "Bihar",
@@ -2372,14 +2372,14 @@
       {
         "district": "Daman",
         "notes": "",
-        "active": 124,
-        "confirmed": 253,
-        "recovered": 128,
+        "active": 113,
+        "confirmed": 265,
+        "recovered": 151,
         "dead": 1,
         "today": {
-          "confirmed": 0,
-          "recovered": 0,
-          "active": 0,
+          "confirmed": 12,
+          "recovered": 23,
+          "active": -11,
           "dead": 0
         }
       },
@@ -2399,9 +2399,9 @@
       }
     ],
     "today": {
-      "confirmed": 13,
-      "active": -6,
-      "recovered": 19,
+      "confirmed": 25,
+      "active": -17,
+      "recovered": 42,
       "dead": 0
     }
   },
