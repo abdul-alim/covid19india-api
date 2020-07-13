@@ -1,9 +1,9 @@
 {
-  "confirmed": 906615,
+  "confirmed": 906617,
   "recovered": 571578,
   "dead": 23727,
-  "active": 310926,
-  "updatedTime": "13/07/2020 22:53:07",
+  "active": 310928,
+  "updatedTime": "13/07/2020 23:03:07",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -263,10 +263,10 @@
       "testing_data": {
         "tested": 381420,
         "positive": 21929,
-        "negative": 0,
-        "unconfirmed": 0,
+        "negative": 353885,
+        "unconfirmed": 5606,
         "date": "13/07/2020",
-        "source": ""
+        "source": "http://www.nhmharyana.gov.in/WriteReadData/userfiles/file/CoronaVirus/Daily%20Bulletin%20of%20COVID%2019%20as%20on%2013-07-20%20Evening.pdf"
       }
     },
     "MP": {
@@ -508,7 +508,7 @@
       "active": 1579,
       "recovered": 2351,
       "dead": 33,
-      "updatedTime": "13/07/2020 22:52:11",
+      "updatedTime": "13/07/2020 22:55:11",
       "note": "",
       "stateCode": "JH",
       "today": {
@@ -638,12 +638,12 @@
         "active": 19
       },
       "testing_data": {
-        "tested": 100315,
-        "positive": 1213,
-        "negative": 98802,
-        "unconfirmed": 300,
-        "date": "12/07/2020",
-        "source": "https://twitter.com/nhm_hp/status/1282344259517943810?s=20"
+        "tested": 101200,
+        "positive": 1243,
+        "negative": 99695,
+        "unconfirmed": 262,
+        "date": "13/07/2020",
+        "source": "https://twitter.com/nhm_hp/status/1282707917897007104?s=20"
       }
     },
     "LA": {
@@ -761,18 +761,18 @@
     },
     "MZ": {
       "name": "Mizoram",
-      "confirmed": 231,
-      "active": 80,
+      "confirmed": 233,
+      "active": 82,
       "recovered": 151,
       "dead": 0,
-      "updatedTime": "13/07/2020 17:17:18",
+      "updatedTime": "13/07/2020 23:03:10",
       "note": "",
       "stateCode": "MZ",
       "today": {
-        "confirmed": 0,
+        "confirmed": 2,
         "recovered": 1,
         "dead": 0,
-        "active": -1
+        "active": 1
       },
       "testing_data": {
         "tested": 16696,
@@ -789,7 +789,7 @@
       "active": 57,
       "recovered": 109,
       "dead": 0,
-      "updatedTime": "13/07/2020 22:53:11",
+      "updatedTime": "13/07/2020 22:57:21",
       "note": "",
       "stateCode": "AN",
       "today": {
@@ -880,19 +880,19 @@
     }
   },
   "testing_data": {
-    "tested": 13665377,
-    "positive": 902331,
-    "negative": 6096524,
-    "unconfirmed": 17336
+    "tested": 13666262,
+    "positive": 902361,
+    "negative": 6451302,
+    "unconfirmed": 22904
   },
   "testing_data_imcr": {
     "tested": 11806256,
     "source": "https://twitter.com/ICMRDELHI/status/1282518284718358528"
   },
   "today": {
-    "confirmed": 27148,
+    "confirmed": 27150,
     "recovered": 17149,
     "dead": 540,
-    "active": 9459
+    "active": 9461
   }
 }
