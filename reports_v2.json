@@ -1,9 +1,9 @@
 {
-  "confirmed": 906612,
-  "recovered": 571526,
+  "confirmed": 906615,
+  "recovered": 571578,
   "dead": 23727,
-  "active": 310975,
-  "updatedTime": "13/07/2020 22:36:07",
+  "active": 310926,
+  "updatedTime": "13/07/2020 22:53:07",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -261,12 +261,12 @@
         "active": 28
       },
       "testing_data": {
-        "tested": 372621,
-        "positive": 21240,
-        "negative": 345903,
-        "unconfirmed": 5478,
-        "date": "12/07/2020",
-        "source": "http://www.nhmharyana.gov.in/WriteReadData/userfiles/file/CoronaVirus/Daily%20Bulletin%20of%20COVID%2019%20as%20on%2012-07-20%20Evening.pdf"
+        "tested": 381420,
+        "positive": 21929,
+        "negative": 0,
+        "unconfirmed": 0,
+        "date": "13/07/2020",
+        "source": ""
       }
     },
     "MP": {
@@ -475,7 +475,7 @@
         "negative": 0,
         "unconfirmed": 0,
         "date": "13/07/2020",
-        "source": ""
+        "source": "https://twitter.com/HealthCgGov/status/1282691696833093634/photo/1"
       }
     },
     "UT": {
@@ -505,17 +505,17 @@
     "JH": {
       "name": "Jharkhand",
       "confirmed": 3963,
-      "active": 1622,
-      "recovered": 2308,
+      "active": 1579,
+      "recovered": 2351,
       "dead": 33,
-      "updatedTime": "13/07/2020 22:36:14",
+      "updatedTime": "13/07/2020 22:52:11",
       "note": "",
       "stateCode": "JH",
       "today": {
         "confirmed": 203,
-        "recovered": 0,
+        "recovered": 43,
         "dead": 2,
-        "active": 201
+        "active": 158
       },
       "testing_data": {
         "tested": 180439,
@@ -542,12 +542,12 @@
         "active": 74
       },
       "testing_data": {
-        "tested": 92191,
-        "positive": 2453,
+        "tested": 93968,
+        "positive": 2583,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "12/07/2020",
-        "source": "https://twitter.com/DHS_Goa/status/1282321205542842368?s=20"
+        "date": "13/07/2020",
+        "source": "https://twitter.com/DHS_Goa/status/1282708739099725826?s=20"
       }
     },
     "TR": {
@@ -785,18 +785,18 @@
     },
     "AN": {
       "name": "Andaman and Nicobar",
-      "confirmed": 163,
-      "active": 63,
-      "recovered": 100,
+      "confirmed": 166,
+      "active": 57,
+      "recovered": 109,
       "dead": 0,
-      "updatedTime": "12/07/2020 21:07:14",
+      "updatedTime": "13/07/2020 22:53:11",
       "note": "",
       "stateCode": "AN",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 3,
+        "recovered": 9,
         "dead": 0,
-        "active": 0
+        "active": -6
       },
       "testing_data": {
         "tested": 18447,
@@ -880,19 +880,19 @@
     }
   },
   "testing_data": {
-    "tested": 13654801,
-    "positive": 901512,
-    "negative": 6442427,
-    "unconfirmed": 22814
+    "tested": 13665377,
+    "positive": 902331,
+    "negative": 6096524,
+    "unconfirmed": 17336
   },
   "testing_data_imcr": {
     "tested": 11806256,
     "source": "https://twitter.com/ICMRDELHI/status/1282518284718358528"
   },
   "today": {
-    "confirmed": 27145,
-    "recovered": 17097,
+    "confirmed": 27148,
+    "recovered": 17149,
     "dead": 540,
-    "active": 9508
+    "active": 9459
   }
 }
