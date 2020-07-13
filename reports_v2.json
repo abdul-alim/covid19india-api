@@ -1,9 +1,9 @@
 {
-  "confirmed": 879487,
-  "recovered": 554429,
-  "dead": 23194,
-  "active": 301482,
-  "updatedTime": "13/07/2020 10:39:06",
+  "confirmed": 879888,
+  "recovered": 554888,
+  "dead": 23200,
+  "active": 301418,
+  "updatedTime": "13/07/2020 13:49:06",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -21,12 +21,12 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 1321715,
-        "positive": 259037,
-        "negative": 1062678,
+        "tested": 1345128,
+        "positive": 265724,
+        "negative": 1079404,
         "unconfirmed": 0,
-        "date": "12/07/2020",
-        "source": "https://twitter.com/Maha_MEDD/status/1282183848617373696?s=20"
+        "date": "13/07/2020",
+        "source": "https://t.co/J1UjqDnzwT?amp=1"
       }
     },
     "TN": {
@@ -50,7 +50,7 @@
         "negative": 0,
         "unconfirmed": 0,
         "date": "12/07/2020",
-        "source": "https://stopcorona.tn.gov.in/daily-bulletin/"
+        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/1106"
       }
     },
     "DL": {
@@ -74,7 +74,7 @@
         "negative": 0,
         "unconfirmed": 0,
         "date": "12/07/2020",
-        "source": "https://delhifightscorona.in/"
+        "source": "https://delhifightscorona.in/wp-content/themes/gocoronago/health-bulletin-pdfs/07-12.pdf"
       }
     },
     "GJ": {
@@ -223,18 +223,18 @@
     },
     "RJ": {
       "name": "Rajasthan",
-      "confirmed": 24392,
-      "active": 5779,
-      "recovered": 18103,
-      "dead": 510,
-      "updatedTime": "12/07/2020 21:50:09",
+      "confirmed": 24487,
+      "active": 5737,
+      "recovered": 18236,
+      "dead": 514,
+      "updatedTime": "13/07/2020 13:49:08",
       "note": "",
       "stateCode": "RJ",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 95,
+        "recovered": 133,
+        "dead": 4,
+        "active": -42
       },
       "testing_data": {
         "tested": 1054080,
@@ -242,23 +242,23 @@
         "negative": 1025295,
         "unconfirmed": 4393,
         "date": "12/07/2020",
-        "source": "http://rajswasthya.nic.in/"
+        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/1100"
       }
     },
     "HR": {
       "name": "Haryana",
-      "confirmed": 21240,
-      "active": 4956,
-      "recovered": 15983,
+      "confirmed": 21482,
+      "active": 4925,
+      "recovered": 16256,
       "dead": 301,
-      "updatedTime": "12/07/2020 21:07:11",
+      "updatedTime": "13/07/2020 13:49:10",
       "note": "",
       "stateCode": "HR",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 242,
+        "recovered": 273,
         "dead": 0,
-        "active": 0
+        "active": -31
       },
       "testing_data": {
         "tested": 372621,
@@ -347,7 +347,7 @@
       "active": 4896,
       "recovered": 8750,
       "dead": 91,
-      "updatedTime": "13/07/2020 10:39:08",
+      "updatedTime": "13/07/2020 10:43:08",
       "note": "[July 12th] 20 non-covid deaths reported in state dashboard are included in the deceased count\n[June 22nd]: NDRF/ODRF cases have been redistributed to districts based on state dashboard",
       "stateCode": "OR",
       "today": {
@@ -504,18 +504,18 @@
     },
     "JH": {
       "name": "Jharkhand",
-      "confirmed": 3760,
-      "active": 1421,
+      "confirmed": 3774,
+      "active": 1433,
       "recovered": 2308,
-      "dead": 31,
-      "updatedTime": "12/07/2020 22:41:10",
+      "dead": 33,
+      "updatedTime": "13/07/2020 13:49:12",
       "note": "",
       "stateCode": "JH",
       "today": {
-        "confirmed": 0,
+        "confirmed": 14,
         "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "dead": 2,
+        "active": 12
       },
       "testing_data": {
         "tested": 180439,
@@ -571,7 +571,7 @@
         "negative": 81286,
         "unconfirmed": 0,
         "date": "12/07/2020",
-        "source": ""
+        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/1107"
       }
     },
     "MN": {
@@ -600,18 +600,18 @@
     },
     "PY": {
       "name": "Puducherry",
-      "confirmed": 1418,
-      "active": 661,
-      "recovered": 739,
+      "confirmed": 1468,
+      "active": 665,
+      "recovered": 785,
       "dead": 18,
-      "updatedTime": "12/07/2020 11:28:09",
+      "updatedTime": "13/07/2020 13:49:15",
       "note": "",
       "stateCode": "PY",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 50,
+        "recovered": 46,
         "dead": 0,
-        "active": 0
+        "active": 4
       },
       "testing_data": {
         "tested": 26208,
@@ -625,17 +625,17 @@
     "HP": {
       "name": "Himachal Pradesh",
       "confirmed": 1213,
-      "active": 274,
-      "recovered": 916,
+      "active": 267,
+      "recovered": 923,
       "dead": 10,
-      "updatedTime": "12/07/2020 22:27:09",
+      "updatedTime": "13/07/2020 13:49:17",
       "note": "HP has 14 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed",
       "stateCode": "HP",
       "today": {
         "confirmed": 0,
-        "recovered": 0,
+        "recovered": 7,
         "dead": 0,
-        "active": 0
+        "active": -7
       },
       "testing_data": {
         "tested": 100315,
@@ -676,7 +676,7 @@
       "active": 518,
       "recovered": 327,
       "dead": 0,
-      "updatedTime": "13/07/2020 10:39:11",
+      "updatedTime": "13/07/2020 10:43:11",
       "note": "",
       "stateCode": "NL",
       "today": {
@@ -715,7 +715,7 @@
         "negative": 8966,
         "unconfirmed": 44,
         "date": "12/07/2020",
-        "source": "http://chdcovid19.in/"
+        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/1093"
       }
     },
     "DN": {
@@ -799,12 +799,12 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 18046,
-        "positive": 156,
+        "tested": 18447,
+        "positive": 163,
         "negative": 0,
-        "unconfirmed": 145,
-        "date": "10/07/2020",
-        "source": "https://dhs.andaman.gov.in/NewEvents/325.pdf"
+        "unconfirmed": 132,
+        "date": "12/07/2020",
+        "source": "https://dhs.andaman.gov.in/NewEvents/327.pdf"
       }
     },
     "SK": {
@@ -828,7 +828,7 @@
         "negative": 0,
         "unconfirmed": 0,
         "date": "12/07/2020",
-        "source": "https://covid19sikkim.org/"
+        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/1105"
       }
     },
     "ML": {
@@ -848,11 +848,11 @@
       },
       "testing_data": {
         "tested": 22517,
-        "positive": 262,
+        "positive": 295,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "11/07/2020",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/1082"
+        "date": "12/07/2020",
+        "source": "https://corona.meghalayagov.in/"
       }
     },
     "LD": {
@@ -880,19 +880,19 @@
     }
   },
   "testing_data": {
-    "tested": 13416470,
-    "positive": 880213,
-    "negative": 6353955,
-    "unconfirmed": 23654
+    "tested": 13440284,
+    "positive": 886940,
+    "negative": 6370681,
+    "unconfirmed": 23641
   },
   "testing_data_imcr": {
     "tested": 11806256,
     "source": "https://twitter.com/ICMRDELHI/status/1282518284718358528"
   },
   "today": {
-    "confirmed": 21,
-    "recovered": 0,
-    "dead": 7,
-    "active": 14
+    "confirmed": 422,
+    "recovered": 459,
+    "dead": 13,
+    "active": -50
   }
 }
