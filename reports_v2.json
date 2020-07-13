@@ -1,9 +1,9 @@
 {
-  "confirmed": 898680,
-  "recovered": 566664,
-  "dead": 23569,
-  "active": 308063,
-  "updatedTime": "13/07/2020 20:03:09",
+  "confirmed": 898709,
+  "recovered": 567508,
+  "dead": 23642,
+  "active": 307175,
+  "updatedTime": "13/07/2020 20:24:11",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -128,17 +128,17 @@
     "KA": {
       "name": "Karnataka",
       "confirmed": 38843,
-      "active": 22742,
-      "recovered": 15411,
-      "dead": 686,
-      "updatedTime": "12/07/2020 20:40:07",
+      "active": 21831,
+      "recovered": 16249,
+      "dead": 759,
+      "updatedTime": "13/07/2020 20:23:11",
       "note": "4 cases are classified as non-covid related deaths in KA bulletin. They have been reduced from active cases",
       "stateCode": "KA",
       "today": {
         "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "recovered": 838,
+        "dead": 73,
+        "active": -911
       },
       "testing_data": {
         "tested": 839074,
@@ -179,7 +179,7 @@
       "active": 11279,
       "recovered": 19213,
       "dead": 956,
-      "updatedTime": "13/07/2020 20:03:15",
+      "updatedTime": "13/07/2020 20:07:10",
       "note": "",
       "stateCode": "WB",
       "today": {
@@ -189,12 +189,12 @@
         "active": 779
       },
       "testing_data": {
-        "tested": 617079,
-        "positive": 30013,
+        "tested": 627438,
+        "positive": 31448,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "12/07/2020",
-        "source": "https://www.wbhealth.gov.in/uploaded_files/corona/WB_DHFW_Bulletin_12th_JULY_REPORT_FINAL.pdf"
+        "date": "13/07/2020",
+        "source": "https://www.wbhealth.gov.in/pages/corona/bulletin"
       }
     },
     "AP": {
@@ -494,12 +494,12 @@
         "active": -1
       },
       "testing_data": {
-        "tested": 94121,
-        "positive": 3537,
-        "negative": 83089,
-        "unconfirmed": 4887,
-        "date": "12/07/2020",
-        "source": "https://twitter.com/PIBDehradun/status/1282320722589700096?s=20"
+        "tested": 96123,
+        "positive": 3608,
+        "negative": 84912,
+        "unconfirmed": 4995,
+        "date": "13/07/2020",
+        "source": "https://twitter.com/DDnews_dehradun/status/1282686188973785088/photo/1"
       }
     },
     "JH": {
@@ -696,18 +696,18 @@
     },
     "CH": {
       "name": "Chandigarh",
-      "confirmed": 559,
-      "active": 134,
-      "recovered": 417,
+      "confirmed": 588,
+      "active": 157,
+      "recovered": 423,
       "dead": 8,
-      "updatedTime": "12/07/2020 15:28:11",
+      "updatedTime": "13/07/2020 20:23:21",
       "note": "",
       "stateCode": "CH",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 29,
+        "recovered": 6,
         "dead": 0,
-        "active": 0
+        "active": 23
       },
       "testing_data": {
         "tested": 9571,
@@ -837,7 +837,7 @@
       "active": 268,
       "recovered": 46,
       "dead": 2,
-      "updatedTime": "13/07/2020 20:03:20",
+      "updatedTime": "13/07/2020 20:07:14",
       "note": "[June 17]:\nOne case was identified to be false positive and has been removed from the confirmed cases by ML authorities.",
       "stateCode": "ML",
       "today": {
@@ -880,19 +880,19 @@
     }
   },
   "testing_data": {
-    "tested": 13551443,
-    "positive": 892065,
-    "negative": 6394202,
-    "unconfirmed": 22712
+    "tested": 13563804,
+    "positive": 893571,
+    "negative": 6396025,
+    "unconfirmed": 22820
   },
   "testing_data_imcr": {
     "tested": 11806256,
     "source": "https://twitter.com/ICMRDELHI/status/1282518284718358528"
   },
   "today": {
-    "confirmed": 19213,
-    "recovered": 12235,
-    "dead": 382,
-    "active": 6596
+    "confirmed": 19242,
+    "recovered": 13079,
+    "dead": 455,
+    "active": 5708
   }
 }
