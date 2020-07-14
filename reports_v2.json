@@ -1,9 +1,9 @@
 {
-  "confirmed": 911624,
-  "recovered": 573283,
-  "dead": 23779,
-  "active": 314178,
-  "updatedTime": "14/07/2020 16:07:06",
+  "confirmed": 911629,
+  "recovered": 573953,
+  "dead": 23788,
+  "active": 313504,
+  "updatedTime": "14/07/2020 16:45:16",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -320,17 +320,17 @@
     "BR": {
       "name": "Bihar",
       "confirmed": 18853,
-      "active": 6355,
-      "recovered": 12364,
-      "dead": 134,
-      "updatedTime": "14/07/2020 15:07:08",
+      "active": 5691,
+      "recovered": 13019,
+      "dead": 143,
+      "updatedTime": "14/07/2020 16:45:25",
       "note": "",
       "stateCode": "BR",
       "today": {
         "confirmed": 1432,
-        "recovered": 0,
-        "dead": 0,
-        "active": 1432
+        "recovered": 655,
+        "dead": 9,
+        "active": 768
       },
       "testing_data": {
         "tested": 319142,
@@ -720,18 +720,18 @@
     },
     "DN": {
       "name": "Dadra and Nagar Haveli and Daman and Diu",
-      "confirmed": 525,
-      "active": 210,
-      "recovered": 310,
+      "confirmed": 530,
+      "active": 200,
+      "recovered": 325,
       "dead": 1,
-      "updatedTime": "13/07/2020 21:29:15",
+      "updatedTime": "14/07/2020 16:45:30",
       "note": "3 cases are migrated to different states which are reduced from active count.",
       "stateCode": "DN",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 5,
+        "recovered": 15,
         "dead": 0,
-        "active": 0
+        "active": -10
       },
       "isUnknown": true
     },
@@ -890,9 +890,9 @@
     "source": "https://twitter.com/ICMRDELHI/status/1282888590230319104?s=20"
   },
   "today": {
-    "confirmed": 3979,
-    "recovered": 1171,
-    "dead": 51,
-    "active": 2757
+    "confirmed": 3984,
+    "recovered": 1841,
+    "dead": 60,
+    "active": 2083
   }
 }
