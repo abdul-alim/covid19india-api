@@ -1,9 +1,9 @@
 {
   "confirmed": 934565,
-  "recovered": 590993,
-  "dead": 24295,
-  "active": 318888,
-  "updatedTime": "14/07/2020 21:36:58",
+  "recovered": 591750,
+  "dead": 24301,
+  "active": 318125,
+  "updatedTime": "14/07/2020 21:52:58",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -227,7 +227,7 @@
       "active": 5878,
       "recovered": 19169,
       "dead": 524,
-      "updatedTime": "14/07/2020 21:36:59",
+      "updatedTime": "14/07/2020 21:41:00",
       "note": "",
       "stateCode": "RJ",
       "today": {
@@ -320,17 +320,17 @@
     "AS": {
       "name": "Assam",
       "confirmed": 17808,
-      "active": 6343,
-      "recovered": 11417,
-      "dead": 45,
-      "updatedTime": "14/07/2020 12:00:08",
+      "active": 5580,
+      "recovered": 12174,
+      "dead": 51,
+      "updatedTime": "14/07/2020 21:53:00",
       "note": "Includes one case from Nagaland.\nTotal of 3 patients who migrated to other states has been reduced from Active count",
       "stateCode": "AS",
       "today": {
         "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "recovered": 757,
+        "dead": 6,
+        "active": -763
       },
       "testing_data": {
         "tested": 563482,
@@ -443,7 +443,7 @@
       "active": 1084,
       "recovered": 3275,
       "dead": 20,
-      "updatedTime": "14/07/2020 21:37:00",
+      "updatedTime": "14/07/2020 21:41:01",
       "note": "",
       "stateCode": "CT",
       "today": {
@@ -580,7 +580,7 @@
       "active": 652,
       "recovered": 1020,
       "dead": 0,
-      "updatedTime": "14/07/2020 21:37:02",
+      "updatedTime": "14/07/2020 21:41:02",
       "note": "",
       "stateCode": "MN",
       "today": {
@@ -638,12 +638,12 @@
         "active": 53
       },
       "testing_data": {
-        "tested": 101200,
-        "positive": 1243,
-        "negative": 99695,
-        "unconfirmed": 262,
-        "date": "13/07/2020",
-        "source": "https://twitter.com/nhm_hp/status/1282707917897007104?s=20"
+        "tested": 103521,
+        "positive": 1309,
+        "negative": 101677,
+        "unconfirmed": 535,
+        "date": "14/07/2020",
+        "source": "https://twitter.com/nhm_hp/status/1283071858431209473?s=20"
       }
     },
     "LA": {
@@ -715,7 +715,7 @@
         "negative": 9192,
         "unconfirmed": 40,
         "date": "14/07/2020",
-        "source": "https://t.me/c/1248471072/47637"
+        "source": "http://chdcovid19.in/"
       }
     },
     "DN": {
@@ -880,10 +880,10 @@
     }
   },
   "testing_data": {
-    "tested": 13896217,
-    "positive": 933567,
-    "negative": 6589943,
-    "unconfirmed": 25699
+    "tested": 13898538,
+    "positive": 933633,
+    "negative": 6591925,
+    "unconfirmed": 25972
   },
   "testing_data_imcr": {
     "tested": 12092503,
@@ -891,8 +891,8 @@
   },
   "today": {
     "confirmed": 26920,
-    "recovered": 18881,
-    "dead": 567,
-    "active": 7472
+    "recovered": 19638,
+    "dead": 573,
+    "active": 6709
   }
 }
