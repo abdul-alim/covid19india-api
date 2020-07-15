@@ -1,9 +1,9 @@
 {
-  "confirmed": 937562,
+  "confirmed": 936926,
   "recovered": 593088,
   "dead": 24315,
-  "active": 319770,
-  "updatedTime": "15/07/2020 06:16:58",
+  "active": 319134,
+  "updatedTime": "15/07/2020 09:46:57",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -242,7 +242,7 @@
         "negative": 1065910,
         "unconfirmed": 5215,
         "date": "14/07/2020",
-        "source": "http://rajswasthya.nic.in/"
+        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/1151"
       }
     },
     "HR": {
@@ -535,18 +535,18 @@
     },
     "UN": {
       "name": "State Unassigned",
-      "confirmed": 2179,
-      "active": 2179,
+      "confirmed": 1524,
+      "active": 1524,
       "recovered": 0,
       "dead": 0,
-      "updatedTime": "14/07/2020 09:58:09",
-      "note": "MoHFW website reports that these are the 'cases that are being reassigned to states'. ",
+      "updatedTime": "15/07/2020 09:44:01",
+      "note": "MoHFW website reports that these are the 'cases that are being reassigned to states'. 655 cases were decreased in this category today by MoHFW. We have removed these cases from this category",
       "stateCode": "UN",
       "today": {
-        "confirmed": 0,
+        "confirmed": -655,
         "recovered": 0,
         "dead": 0,
-        "active": 0
+        "active": -655
       },
       "isUnknown": true
     },
@@ -571,7 +571,7 @@
         "negative": 86494,
         "unconfirmed": 0,
         "date": "14/07/2020",
-        "source": "https://covid19.tripura.gov.in/Visitor/ViewStatus.aspx"
+        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/1155"
       }
     },
     "MN": {
@@ -761,18 +761,18 @@
     },
     "ML": {
       "name": "Meghalaya",
-      "confirmed": 318,
-      "active": 270,
+      "confirmed": 337,
+      "active": 289,
       "recovered": 46,
       "dead": 2,
-      "updatedTime": "14/07/2020 20:12:02",
+      "updatedTime": "15/07/2020 09:46:59",
       "note": "[June 17]:\nOne case was identified to be false positive and has been removed from the confirmed cases by ML authorities.",
       "stateCode": "ML",
       "today": {
-        "confirmed": 0,
+        "confirmed": 19,
         "recovered": 0,
         "dead": 0,
-        "active": 0
+        "active": 19
       },
       "testing_data": {
         "tested": 24517,
@@ -780,7 +780,7 @@
         "negative": 0,
         "unconfirmed": 0,
         "date": "14/07/2020",
-        "source": "https://corona.meghalayagov.in/"
+        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/1154"
       }
     },
     "MZ": {
@@ -852,7 +852,7 @@
         "negative": 0,
         "unconfirmed": 0,
         "date": "14/07/2020",
-        "source": "https://covid19sikkim.org/"
+        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/1156"
       }
     },
     "LD": {
@@ -890,9 +890,9 @@
     "source": "https://twitter.com/ICMRDELHI/status/1283242773781467136"
   },
   "today": {
-    "confirmed": 0,
+    "confirmed": -636,
     "recovered": 0,
     "dead": 0,
-    "active": 0
+    "active": -636
   }
 }
