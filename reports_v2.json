@@ -1,8 +1,8 @@
 {
-  "confirmed": 976815,
-  "recovered": 616445,
+  "confirmed": 976826,
+  "recovered": 616452,
   "dead": 25020,
-  "active": 334961,
+  "active": 334965,
   "updatedTime": "16/07/2020 17:42:58",
   "states": {
     "MH": {
@@ -141,12 +141,12 @@
         "active": 1092
       },
       "testing_data": {
-        "tested": 1184927,
-        "positive": 39724,
+        "tested": 1277241,
+        "positive": 41383,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "14/07/2020",
-        "source": "https://twitter.com/UPGovt/status/1283049273383411712?s=20"
+        "date": "15/07/2020",
+        "source": ""
       }
     },
     "TG": {
@@ -624,18 +624,18 @@
     },
     "HP": {
       "name": "Himachal Pradesh",
-      "confirmed": 1343,
-      "active": 351,
-      "recovered": 969,
+      "confirmed": 1349,
+      "active": 356,
+      "recovered": 970,
       "dead": 10,
       "updatedTime": "16/07/2020 12:40:01",
       "note": "HP has 14 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed",
       "stateCode": "HP",
       "today": {
-        "confirmed": 2,
-        "recovered": 3,
+        "confirmed": 8,
+        "recovered": 4,
         "dead": 0,
-        "active": -1
+        "active": 4
       },
       "testing_data": {
         "tested": 105734,
@@ -648,18 +648,18 @@
     },
     "LA": {
       "name": "Ladakh",
-      "confirmed": 1142,
-      "active": 177,
-      "recovered": 964,
+      "confirmed": 1147,
+      "active": 176,
+      "recovered": 970,
       "dead": 1,
       "updatedTime": "15/07/2020 20:54:28",
       "note": "",
       "stateCode": "LA",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 5,
+        "recovered": 6,
         "dead": 0,
-        "active": 0
+        "active": -1
       },
       "testing_data": {
         "tested": 15603,
@@ -880,8 +880,8 @@
     }
   },
   "testing_data": {
-    "tested": 14352738,
-    "positive": 972144,
+    "tested": 14445052,
+    "positive": 973803,
     "negative": 6713775,
     "unconfirmed": 28824
   },
@@ -890,9 +890,9 @@
     "source": "https://twitter.com/ICMRDELHI/status/1283601928279080960/photo/1"
   },
   "today": {
-    "confirmed": 6646,
-    "recovered": 2710,
+    "confirmed": 6657,
+    "recovered": 2717,
     "dead": 91,
-    "active": 3845
+    "active": 3849
   }
 }
