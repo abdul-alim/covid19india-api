@@ -1,9 +1,9 @@
 {
-  "confirmed": 1004383,
-  "recovered": 636541,
-  "dead": 25605,
-  "active": 341847,
-  "updatedTime": "16/07/2020 22:45:01",
+  "confirmed": 1004590,
+  "recovered": 636569,
+  "dead": 25609,
+  "active": 342022,
+  "updatedTime": "16/07/2020 23:02:58",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -238,11 +238,11 @@
       },
       "testing_data": {
         "tested": 1151952,
-        "positive": 0,
-        "negative": 0,
-        "unconfirmed": 0,
+        "positive": 27174,
+        "negative": 1119188,
+        "unconfirmed": 5590,
         "date": "16/07/2020",
-        "source": ""
+        "source": "http://rajswasthya.nic.in/"
       }
     },
     "HR": {
@@ -405,12 +405,12 @@
         "active": -124
       },
       "testing_data": {
-        "tested": 421593,
-        "positive": 8799,
+        "tested": 429832,
+        "positive": 9094,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "15/07/2020",
-        "source": "http://diprpunjab.gov.in/sites/default/files/Media%20Bulletin%2015-07-2020.pdf"
+        "date": "16/07/2020",
+        "source": "http://diprpunjab.gov.in/sites/default/files/Media%20Bulletin%2016-07-2020_0.pdf"
       }
     },
     "KL": {
@@ -463,26 +463,26 @@
     },
     "JH": {
       "name": "Jharkhand",
-      "confirmed": 4576,
-      "active": 2053,
-      "recovered": 2485,
-      "dead": 38,
-      "updatedTime": "16/07/2020 13:51:03",
+      "confirmed": 4783,
+      "active": 2228,
+      "recovered": 2513,
+      "dead": 42,
+      "updatedTime": "16/07/2020 23:03:01",
       "note": "",
       "stateCode": "JH",
       "today": {
-        "confirmed": 14,
-        "recovered": 0,
-        "dead": 0,
-        "active": 14
+        "confirmed": 221,
+        "recovered": 28,
+        "dead": 4,
+        "active": 189
       },
       "testing_data": {
-        "tested": 196070,
-        "positive": 4562,
-        "negative": 191508,
+        "tested": 203279,
+        "positive": 4783,
+        "negative": 198496,
         "unconfirmed": 0,
-        "date": "15/07/2020",
-        "source": "https://twitter.com/FOBGumla/status/1283451699248545793?s=20"
+        "date": "16/07/2020",
+        "source": ""
       }
     },
     "UT": {
@@ -880,19 +880,19 @@
     }
   },
   "testing_data": {
-    "tested": 14724878,
-    "positive": 972375,
-    "negative": 5593742,
-    "unconfirmed": 24752
+    "tested": 14740326,
+    "positive": 1000065,
+    "negative": 6719918,
+    "unconfirmed": 30342
   },
   "testing_data_imcr": {
     "tested": 12739490,
     "source": "https://twitter.com/ICMRDELHI/status/1283601928279080960/photo/1"
   },
   "today": {
-    "confirmed": 34214,
-    "recovered": 22806,
-    "dead": 676,
-    "active": 10732
+    "confirmed": 34421,
+    "recovered": 22834,
+    "dead": 680,
+    "active": 10907
   }
 }
