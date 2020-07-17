@@ -1,9 +1,9 @@
 {
-  "confirmed": 1039045,
+  "confirmed": 1039163,
   "recovered": 654056,
   "dead": 26285,
-  "active": 358311,
-  "updatedTime": "17/07/2020 23:16:43",
+  "active": 358429,
+  "updatedTime": "17/07/2020 23:49:44",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -552,26 +552,26 @@
     },
     "TR": {
       "name": "Tripura",
-      "confirmed": 2379,
-      "active": 678,
+      "confirmed": 2497,
+      "active": 796,
       "recovered": 1684,
       "dead": 3,
-      "updatedTime": "17/07/2020 21:27:03",
+      "updatedTime": "17/07/2020 23:49:48",
       "note": "",
       "stateCode": "TR",
       "today": {
-        "confirmed": 0,
+        "confirmed": 118,
         "recovered": 47,
         "dead": 0,
-        "active": -47
+        "active": 71
       },
       "testing_data": {
-        "tested": 95328,
-        "positive": 2379,
-        "negative": 0,
+        "tested": 97471,
+        "positive": 2497,
+        "negative": 95092,
         "unconfirmed": 0,
-        "date": "16/07/2020",
-        "source": "https://twitter.com/BjpBiplab/status/1283831554603532290?s=20"
+        "date": "17/07/2020",
+        "source": "https://covid19.tripura.gov.in/Visitor/ViewStatus.aspx"
       }
     },
     "MN": {
@@ -880,9 +880,9 @@
     }
   },
   "testing_data": {
-    "tested": 15207749,
-    "positive": 997441,
-    "negative": 6869841,
+    "tested": 15209892,
+    "positive": 997559,
+    "negative": 6964933,
     "unconfirmed": 31419
   },
   "testing_data_imcr": {
@@ -890,9 +890,9 @@
     "source": "https://twitter.com/ICMRDELHI/status/1283977904246845442"
   },
   "today": {
-    "confirmed": 33408,
+    "confirmed": 33526,
     "recovered": 17454,
     "dead": 676,
-    "active": 15278
+    "active": 15396
   }
 }
