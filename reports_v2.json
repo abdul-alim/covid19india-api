@@ -1,9 +1,9 @@
 {
-  "confirmed": 1037233,
-  "recovered": 652566,
+  "confirmed": 1037249,
+  "recovered": 652582,
   "dead": 26273,
-  "active": 358002,
-  "updatedTime": "17/07/2020 21:46:59",
+  "active": 358001,
+  "updatedTime": "17/07/2020 22:02:59",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -227,7 +227,7 @@
       "active": 6617,
       "recovered": 20626,
       "dead": 546,
-      "updatedTime": "17/07/2020 21:47:03",
+      "updatedTime": "17/07/2020 21:52:01",
       "note": "",
       "stateCode": "RJ",
       "today": {
@@ -624,18 +624,18 @@
     },
     "HP": {
       "name": "Himachal Pradesh",
-      "confirmed": 1402,
-      "active": 384,
-      "recovered": 995,
+      "confirmed": 1417,
+      "active": 383,
+      "recovered": 1011,
       "dead": 10,
-      "updatedTime": "17/07/2020 18:27:02",
+      "updatedTime": "17/07/2020 22:03:03",
       "note": "HP has 14 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed",
       "stateCode": "HP",
       "today": {
-        "confirmed": 25,
-        "recovered": 24,
+        "confirmed": 40,
+        "recovered": 40,
         "dead": 0,
-        "active": 1
+        "active": 0
       },
       "testing_data": {
         "tested": 108157,
@@ -720,18 +720,18 @@
     },
     "DN": {
       "name": "Dadra and Nagar Haveli and Daman and Diu",
-      "confirmed": 607,
+      "confirmed": 608,
       "active": 184,
       "recovered": 414,
       "dead": 2,
-      "updatedTime": "17/07/2020 19:41:06",
+      "updatedTime": "17/07/2020 21:53:01",
       "note": "3 cases are migrated to different states which are reduced from active count.",
       "stateCode": "DN",
       "today": {
-        "confirmed": 31,
+        "confirmed": 32,
         "recovered": 22,
         "dead": 0,
-        "active": 9
+        "active": 10
       },
       "isUnknown": true
     },
@@ -765,7 +765,7 @@
       "active": 352,
       "recovered": 49,
       "dead": 2,
-      "updatedTime": "17/07/2020 21:47:08",
+      "updatedTime": "17/07/2020 21:52:07",
       "note": "[June 17]:\nOne case was identified to be false positive and has been removed from the confirmed cases by ML authorities.",
       "stateCode": "ML",
       "today": {
@@ -890,8 +890,8 @@
     "source": "https://twitter.com/ICMRDELHI/status/1283977904246845442"
   },
   "today": {
-    "confirmed": 31596,
-    "recovered": 15964,
+    "confirmed": 31612,
+    "recovered": 15980,
     "dead": 664,
     "active": 14968
   }
