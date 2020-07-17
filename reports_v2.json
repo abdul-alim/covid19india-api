@@ -1,9 +1,9 @@
 {
-  "confirmed": 1039018,
+  "confirmed": 1039045,
   "recovered": 654056,
   "dead": 26285,
-  "active": 358284,
-  "updatedTime": "17/07/2020 23:02:43",
+  "active": 358311,
+  "updatedTime": "17/07/2020 23:16:43",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -12,7 +12,7 @@
       "recovered": 160357,
       "dead": 11452,
       "updatedTime": "17/07/2020 20:49:00",
-      "note": "300 cases were marked as non-covid deaths in MH bulletin. These have been reduced from active count\n[June 16] : 1328 deceased cases have been retroactively added to MH bulletin.\n[June 20]: 69 deceased cases have been reduced based on state bulletin.\n",
+      "note": "300 cases are marked as non-covid deaths in MH bulletin. These have been reduced from active count\n[June 16] : 1328 deceased cases have been retroactively added to MH bulletin.\n[June 20]: 69 deceased cases have been reduced based on state bulletin.\n",
       "stateCode": "MH",
       "today": {
         "confirmed": 8308,
@@ -237,12 +237,12 @@
         "active": -49
       },
       "testing_data": {
-        "tested": 1151952,
-        "positive": 27174,
-        "negative": 1119188,
-        "unconfirmed": 5590,
-        "date": "16/07/2020",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/1186"
+        "tested": 1175379,
+        "positive": 27789,
+        "negative": 1142148,
+        "unconfirmed": 5442,
+        "date": "17/07/2020",
+        "source": "http://rajswasthya.nic.in/"
       }
     },
     "HR": {
@@ -430,7 +430,7 @@
       },
       "testing_data": {
         "tested": 489395,
-        "positive": 11066,
+        "positive": 11067,
         "negative": 0,
         "unconfirmed": 7610,
         "date": "17/07/2020",
@@ -439,18 +439,18 @@
     },
     "CT": {
       "name": "Chhattisgarh",
-      "confirmed": 4976,
-      "active": 1440,
+      "confirmed": 5003,
+      "active": 1467,
       "recovered": 3512,
       "dead": 24,
-      "updatedTime": "17/07/2020 22:40:02",
+      "updatedTime": "17/07/2020 23:16:47",
       "note": "",
       "stateCode": "CT",
       "today": {
-        "confirmed": 222,
+        "confirmed": 249,
         "recovered": 61,
         "dead": 3,
-        "active": 158
+        "active": 185
       },
       "testing_data": {
         "tested": 232873,
@@ -467,22 +467,22 @@
       "active": 2473,
       "recovered": 2577,
       "dead": 46,
-      "updatedTime": "17/07/2020 23:02:46",
+      "updatedTime": "17/07/2020 23:06:46",
       "note": "",
       "stateCode": "JH",
       "today": {
         "confirmed": 313,
-        "recovered": 11,
-        "dead": 0,
-        "active": 302
+        "recovered": 64,
+        "dead": 4,
+        "active": 245
       },
       "testing_data": {
-        "tested": 203279,
-        "positive": 4783,
-        "negative": 198496,
+        "tested": 208492,
+        "positive": 5096,
+        "negative": 203396,
         "unconfirmed": 0,
-        "date": "16/07/2020",
-        "source": "https://twitter.com/FOBGumla/status/1283814695686664197?s=20"
+        "date": "17/07/2020",
+        "source": "https://twitter.com/FOBGumla/status/1284174034364624897?s=20"
       }
     },
     "UT": {
@@ -880,19 +880,19 @@
     }
   },
   "testing_data": {
-    "tested": 15165751,
-    "positive": 995620,
-    "negative": 6841981,
-    "unconfirmed": 31567
+    "tested": 15194391,
+    "positive": 996549,
+    "negative": 6869841,
+    "unconfirmed": 31419
   },
   "testing_data_imcr": {
     "tested": 13072718,
     "source": "https://twitter.com/ICMRDELHI/status/1283977904246845442"
   },
   "today": {
-    "confirmed": 33381,
-    "recovered": 17401,
-    "dead": 672,
-    "active": 15308
+    "confirmed": 33408,
+    "recovered": 17454,
+    "dead": 676,
+    "active": 15278
   }
 }
