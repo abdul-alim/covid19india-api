@@ -1,9 +1,9 @@
 {
-  "confirmed": 1017911,
-  "recovered": 644705,
-  "dead": 25782,
-  "active": 347034,
-  "updatedTime": "17/07/2020 19:22:59",
+  "confirmed": 1018630,
+  "recovered": 645099,
+  "dead": 25791,
+  "active": 347350,
+  "updatedTime": "17/07/2020 19:46:58",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -11,7 +11,7 @@
       "active": 114648,
       "recovered": 158140,
       "dead": 11194,
-      "updatedTime": "16/07/2020 20:16:59",
+      "updatedTime": "17/07/2020 19:47:00",
       "note": "299 cases were marked as non-covid deaths in MH bulletin. These have been reduced from active count\n[June 16] : 1328 deceased cases have been retroactively added to MH bulletin.\n[June 20]: 69 deceased cases have been reduced based on state bulletin.\n",
       "stateCode": "MH",
       "today": {
@@ -213,12 +213,12 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 663108,
-        "positive": 36117,
+        "tested": 676348,
+        "positive": 38011,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "16/07/2020",
-        "source": "https://www.wbhealth.gov.in/uploaded_files/corona/WB_DHFW_Bulletin_16th_JULY_REPORT_FINAL.pdf"
+        "date": "17/07/2020",
+        "source": "https://www.wbhealth.gov.in/uploaded_files/corona/WB_DHFW_Bulletin_17th_JULY_REPORT_FINAL.pdf"
       }
     },
     "RJ": {
@@ -251,7 +251,7 @@
       "active": 5752,
       "recovered": 18718,
       "dead": 327,
-      "updatedTime": "17/07/2020 19:23:02",
+      "updatedTime": "17/07/2020 19:27:04",
       "note": "",
       "stateCode": "HR",
       "today": {
@@ -295,18 +295,18 @@
     },
     "MP": {
       "name": "Madhya Pradesh",
-      "confirmed": 20378,
-      "active": 5562,
-      "recovered": 14127,
-      "dead": 689,
-      "updatedTime": "16/07/2020 19:17:02",
+      "confirmed": 21082,
+      "active": 5870,
+      "recovered": 14514,
+      "dead": 698,
+      "updatedTime": "17/07/2020 19:41:02",
       "note": "",
       "stateCode": "MP",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 704,
+        "recovered": 387,
+        "dead": 9,
+        "active": 308
       },
       "testing_data": {
         "tested": 567364,
@@ -362,7 +362,7 @@
         "negative": 0,
         "unconfirmed": 0,
         "date": "17/07/2020",
-        "source": ""
+        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/1197"
       }
     },
     "JK": {
@@ -501,12 +501,12 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 109784,
-        "positive": 3982,
-        "negative": 95745,
-        "unconfirmed": 7449,
-        "date": "16/07/2020",
-        "source": "https://twitter.com/PIBDehradun/status/1283790534813736960?s=20"
+        "tested": 113846,
+        "positive": 4102,
+        "negative": 98551,
+        "unconfirmed": 8585,
+        "date": "17/07/2020",
+        "source": ""
       }
     },
     "GA": {
@@ -614,12 +614,12 @@
         "active": 19
       },
       "testing_data": {
-        "tested": 28995,
-        "positive": 1743,
-        "negative": 26781,
-        "unconfirmed": 313,
-        "date": "16/07/2020",
-        "source": "https://health.py.gov.in/sites/default/files/NEET-PDF/16.07.2020%20bulletin.pdf"
+        "tested": 29851,
+        "positive": 1832,
+        "negative": 27542,
+        "unconfirmed": 302,
+        "date": "17/07/2020",
+        "source": "https://health.py.gov.in/sites/default/files/NEET-PDF/17.07.2020%20bulletin_0.pdf"
       }
     },
     "HP": {
@@ -686,12 +686,12 @@
         "active": 26
       },
       "testing_data": {
-        "tested": 28020,
-        "positive": 916,
+        "tested": 28472,
+        "positive": 956,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "16/07/2020",
-        "source": "https://twitter.com/MyGovNagaland/status/1283760972373475331?s=20"
+        "date": "17/07/2020",
+        "source": "https://covid19.nagaland.gov.in/health-main"
       }
     },
     "CH": {
@@ -720,18 +720,18 @@
     },
     "DN": {
       "name": "Dadra and Nagar Haveli and Daman and Diu",
-      "confirmed": 592,
-      "active": 176,
-      "recovered": 407,
+      "confirmed": 607,
+      "active": 184,
+      "recovered": 414,
       "dead": 2,
-      "updatedTime": "17/07/2020 18:41:04",
+      "updatedTime": "17/07/2020 19:41:06",
       "note": "3 cases are migrated to different states which are reduced from active count.",
       "stateCode": "DN",
       "today": {
-        "confirmed": 16,
-        "recovered": 15,
+        "confirmed": 31,
+        "recovered": 22,
         "dead": 0,
-        "active": 1
+        "active": 9
       },
       "isUnknown": true
     },
@@ -880,19 +880,19 @@
     }
   },
   "testing_data": {
-    "tested": 15061947,
-    "positive": 985800,
-    "negative": 6795505,
-    "unconfirmed": 30617
+    "tested": 15080557,
+    "positive": 987943,
+    "negative": 6799072,
+    "unconfirmed": 31742
   },
   "testing_data_imcr": {
     "tested": 13072718,
     "source": "https://twitter.com/ICMRDELHI/status/1283977904246845442"
   },
   "today": {
-    "confirmed": 12274,
-    "recovered": 8103,
-    "dead": 173,
-    "active": 3998
+    "confirmed": 12993,
+    "recovered": 8497,
+    "dead": 182,
+    "active": 4314
   }
 }
