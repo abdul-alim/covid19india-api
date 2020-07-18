@@ -1,9 +1,9 @@
 {
-  "confirmed": 1047238,
-  "recovered": 656668,
-  "dead": 26353,
-  "active": 363824,
-  "updatedTime": "18/07/2020 18:22:59",
+  "confirmed": 1053551,
+  "recovered": 661695,
+  "dead": 26468,
+  "active": 364995,
+  "updatedTime": "18/07/2020 18:52:59",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -21,28 +21,28 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 1487738,
-        "positive": 296780,
-        "negative": 1190958,
+        "tested": 1526037,
+        "positive": 305541,
+        "negative": 1220496,
         "unconfirmed": 0,
-        "date": "17/07/2020",
-        "source": "https://t.co/bJdmU2guaP?amp=1"
+        "date": "18/07/2020",
+        "source": "https://t.co/vhTyJVy3Y5?amp=1"
       }
     },
     "TN": {
       "name": "Tamil Nadu",
-      "confirmed": 160907,
-      "active": 47785,
-      "recovered": 110807,
-      "dead": 2315,
-      "updatedTime": "17/07/2020 19:07:10",
+      "confirmed": 165714,
+      "active": 49455,
+      "recovered": 113856,
+      "dead": 2403,
+      "updatedTime": "18/07/2020 18:49:01",
       "note": "2 deaths cross notified to other states from Chennai and Coimbatore.\n1 patient died after turning negative for infection in Chengalpattu.\nThese cases have been added to TN deceased tally",
       "stateCode": "TN",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 4807,
+        "recovered": 3049,
+        "dead": 88,
+        "active": 1670
       },
       "testing_data": {
         "tested": 1831304,
@@ -55,26 +55,26 @@
     },
     "DL": {
       "name": "Delhi",
-      "confirmed": 120107,
-      "active": 17235,
-      "recovered": 99301,
-      "dead": 3571,
-      "updatedTime": "17/07/2020 18:41:01",
+      "confirmed": 121582,
+      "active": 16711,
+      "recovered": 101274,
+      "dead": 3597,
+      "updatedTime": "18/07/2020 18:40:00",
       "note": "[July 14]: Value for the total tests conducted has been reduced by 97008 in the state bulletin. Reason given : \"Reconciled with ICMR figures\". We have made the same change.\n[June 16]: 344 deceased cases have been retroactively added to DL bulletin.",
       "stateCode": "DL",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 1475,
+        "recovered": 1973,
+        "dead": 26,
+        "active": -524
       },
       "testing_data": {
-        "tested": 777125,
-        "positive": 120107,
+        "tested": 798783,
+        "positive": 121582,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "17/07/2020",
-        "source": "https://twitter.com/ANI/status/1284109155628769283/photo/1"
+        "date": "18/07/2020",
+        "source": "https://twitter.com/ANI/status/1284473451156140034?s=20"
       }
     },
     "GJ": {
@@ -419,7 +419,7 @@
       "active": 6417,
       "recovered": 5198,
       "dead": 41,
-      "updatedTime": "18/07/2020 18:23:00",
+      "updatedTime": "18/07/2020 18:26:01",
       "note": "Mahe native who expired in Kannur included in Kerala's tally.\nOne patient who absconded from Palakkad to TN and one patient who returned back to Maharashtra has been reduced from active count",
       "stateCode": "KL",
       "today": {
@@ -696,26 +696,26 @@
     },
     "CH": {
       "name": "Chandigarh",
-      "confirmed": 660,
-      "active": 169,
-      "recovered": 480,
-      "dead": 11,
-      "updatedTime": "17/07/2020 16:57:02",
+      "confirmed": 691,
+      "active": 194,
+      "recovered": 485,
+      "dead": 12,
+      "updatedTime": "18/07/2020 18:53:03",
       "note": "",
       "stateCode": "CH",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 31,
+        "recovered": 5,
+        "dead": 1,
+        "active": 25
       },
       "testing_data": {
-        "tested": 10457,
-        "positive": 660,
-        "negative": 9744,
-        "unconfirmed": 51,
-        "date": "17/07/2020",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/1196"
+        "tested": 10773,
+        "positive": 691,
+        "negative": 10024,
+        "unconfirmed": 56,
+        "date": "18/07/2020",
+        "source": ""
       }
     },
     "DN": {
@@ -880,19 +880,19 @@
     }
   },
   "testing_data": {
-    "tested": 15293452,
-    "positive": 1003339,
-    "negative": 6986332,
-    "unconfirmed": 31573
+    "tested": 15353725,
+    "positive": 1013606,
+    "negative": 7016150,
+    "unconfirmed": 31578
   },
   "testing_data_imcr": {
     "tested": 13433742,
     "source": "https://twitter.com/ICMRDELHI/status/1284329467804966912?s=20)"
   },
   "today": {
-    "confirmed": 6781,
-    "recovered": 2590,
-    "dead": 68,
-    "active": 4123
+    "confirmed": 13094,
+    "recovered": 7617,
+    "dead": 183,
+    "active": 5294
   }
 }
