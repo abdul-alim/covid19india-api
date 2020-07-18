@@ -1,9 +1,9 @@
 {
   "confirmed": 1066757,
   "recovered": 671176,
-  "dead": 26679,
-  "active": 368508,
-  "updatedTime": "18/07/2020 21:02:59",
+  "dead": 26681,
+  "active": 368506,
+  "updatedTime": "18/07/2020 21:16:59",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -11,7 +11,7 @@
       "active": 123378,
       "recovered": 165663,
       "dead": 11596,
-      "updatedTime": "18/07/2020 21:03:00",
+      "updatedTime": "18/07/2020 21:07:01",
       "note": "300 cases are marked as non-covid deaths in MH bulletin. These have been reduced from active count\n[June 16] : 1328 deceased cases have been retroactively added to MH bulletin.\n[June 20]: 69 deceased cases have been reduced based on state bulletin.\n",
       "stateCode": "MH",
       "today": {
@@ -117,12 +117,12 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 950177,
-        "positive": 55115,
-        "negative": 870466,
+        "tested": 984996,
+        "positive": 59652,
+        "negative": 899016,
         "unconfirmed": 0,
-        "date": "17/07/2020",
-        "source": "https://twitter.com/DHFWKA/status/1284128020555427841?s=20"
+        "date": "18/07/2020",
+        "source": ""
       }
     },
     "UP": {
@@ -320,17 +320,17 @@
     "AS": {
       "name": "Assam",
       "confirmed": 21865,
-      "active": 7700,
+      "active": 7698,
       "recovered": 14106,
-      "dead": 56,
-      "updatedTime": "18/07/2020 00:15:46",
+      "dead": 58,
+      "updatedTime": "18/07/2020 21:17:01",
       "note": "Includes one case from Nagaland.\nTotal of 3 patients who migrated to other states has been reduced from Active count",
       "stateCode": "AS",
       "today": {
         "confirmed": 0,
         "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "dead": 2,
+        "active": -2
       },
       "testing_data": {
         "tested": 614743,
@@ -434,7 +434,7 @@
         "negative": 0,
         "unconfirmed": 7016,
         "date": "18/07/2020",
-        "source": "https://dhs.kerala.gov.in/%e0%b4%a1%e0%b5%86%e0%b4%af%e0%b4%bf%e0%b4%b2%e0%b4%bf-%e0%b4%ac%e0%b5%81%e0%b4%b3%e0%b5%8d%e0%b4%b3%e0%b4%b1%e0%b5%8d%e0%b4%b1%e0%b4%bf%e0%b4%a8%e0%b5%8d%e2%80%8d/"
+        "source": "https://dhs.kerala.gov.in/wp-content/uploads/2020/07/Bulletin-HFWD-English-July-18.pdf"
       }
     },
     "CT": {
@@ -880,9 +880,9 @@
     }
   },
   "testing_data": {
-    "tested": 15491073,
-    "positive": 1069420,
-    "negative": 7065702,
+    "tested": 15525892,
+    "positive": 1073957,
+    "negative": 7094252,
     "unconfirmed": 30673
   },
   "testing_data_imcr": {
@@ -892,7 +892,7 @@
   "today": {
     "confirmed": 26300,
     "recovered": 17098,
-    "dead": 394,
-    "active": 8808
+    "dead": 396,
+    "active": 8806
   }
 }
