@@ -7103,29 +7103,29 @@
       {
         "district": "Gajapati",
         "notes": "",
-        "active": 131,
+        "active": 130,
         "confirmed": 664,
         "recovered": 531,
-        "dead": 2,
+        "dead": 3,
         "today": {
           "confirmed": 0,
           "recovered": 0,
-          "active": 0,
-          "dead": 0
+          "active": -1,
+          "dead": 1
         }
       },
       {
         "district": "Ganjam",
         "notes": "",
-        "active": 1952,
+        "active": 1950,
         "confirmed": 5280,
         "recovered": 3275,
-        "dead": 53,
+        "dead": 55,
         "today": {
           "confirmed": 182,
           "recovered": 0,
-          "active": 182,
-          "dead": 0
+          "active": 180,
+          "dead": 2
         }
       },
       {
@@ -7397,14 +7397,14 @@
     ],
     "today": {
       "confirmed": 591,
-      "active": 591,
+      "active": 588,
       "recovered": 0,
-      "dead": 0
+      "dead": 3
     },
     "confirmed": 16701,
     "recovered": 11330,
-    "dead": 109,
-    "active": 5262
+    "dead": 112,
+    "active": 5259
   },
   "PB": {
     "state": "Punjab",
@@ -7763,42 +7763,42 @@
       {
         "district": "Puducherry",
         "notes": "25 cases(20 of TN, 1 of AP & 4 other) have been transferred,so have been reduced from the total count",
-        "active": 684,
-        "confirmed": 1636,
-        "recovered": 930,
-        "dead": 22,
+        "active": 692,
+        "confirmed": 1695,
+        "recovered": 978,
+        "dead": 25,
         "today": {
-          "confirmed": 0,
-          "recovered": 0,
-          "active": 0,
-          "dead": 0
+          "confirmed": 59,
+          "recovered": 48,
+          "active": 8,
+          "dead": 3
         }
       },
       {
         "district": "Yanam",
         "notes": "2 cases of AP have been transferred,so have been reduced from the total count",
-        "active": 35,
-        "confirmed": 55,
-        "recovered": 19,
+        "active": 38,
+        "confirmed": 62,
+        "recovered": 23,
         "dead": 1,
         "today": {
-          "confirmed": 0,
-          "recovered": 0,
-          "active": 0,
+          "confirmed": 7,
+          "recovered": 4,
+          "active": 3,
           "dead": 0
         }
       }
     ],
     "today": {
-      "confirmed": 0,
-      "active": 0,
-      "recovered": 0,
-      "dead": 0
+      "confirmed": 66,
+      "active": 11,
+      "recovered": 52,
+      "dead": 3
     },
-    "confirmed": 1832,
-    "recovered": 1014,
-    "dead": 25,
-    "active": 793
+    "confirmed": 1898,
+    "recovered": 1066,
+    "dead": 28,
+    "active": 804
   },
   "RJ": {
     "state": "Rajasthan",
