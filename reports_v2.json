@@ -1,9 +1,9 @@
 {
-  "confirmed": 1077864,
-  "recovered": 677630,
+  "confirmed": 1077719,
+  "recovered": 677642,
   "dead": 26828,
-  "active": 373007,
-  "updatedTime": "19/07/2020 00:39:59",
+  "active": 372849,
+  "updatedTime": "19/07/2020 09:36:59",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -535,18 +535,18 @@
     },
     "UN": {
       "name": "State Unassigned",
-      "confirmed": 163,
-      "active": 163,
+      "confirmed": 0,
+      "active": 0,
       "recovered": 0,
       "dead": 0,
-      "updatedTime": "18/07/2020 09:57:46",
-      "note": "MoHFW website reports that these are the 'cases that are being reassigned to states'. ",
+      "updatedTime": "19/07/2020 09:37:01",
+      "note": "MoHFW website reports that these are the 'cases that are being reassigned to states'. 163 cases were decreased in this category today by MoHFW. We have removed these cases from this category",
       "stateCode": "UN",
       "today": {
-        "confirmed": 0,
+        "confirmed": -163,
         "recovered": 0,
         "dead": 0,
-        "active": 0
+        "active": -163
       },
       "isUnknown": true
     },
@@ -809,18 +809,18 @@
     },
     "AN": {
       "name": "Andaman and Nicobar",
-      "confirmed": 180,
-      "active": 47,
-      "recovered": 133,
+      "confirmed": 198,
+      "active": 52,
+      "recovered": 145,
       "dead": 0,
-      "updatedTime": "16/07/2020 20:52:11",
+      "updatedTime": "19/07/2020 09:37:06",
       "note": "",
       "stateCode": "AN",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 18,
+        "recovered": 12,
         "dead": 0,
-        "active": 0
+        "active": 6
       },
       "testing_data": {
         "tested": 19227,
@@ -890,9 +890,9 @@
     "source": "https://twitter.com/ICMRDELHI/status/1284689929360928771"
   },
   "today": {
-    "confirmed": 0,
-    "recovered": 0,
+    "confirmed": -145,
+    "recovered": 12,
     "dead": 0,
-    "active": 0
+    "active": -157
   }
 }
