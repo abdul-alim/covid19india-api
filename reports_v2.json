@@ -1,9 +1,9 @@
 {
-  "confirmed": 1113400,
-  "recovered": 696073,
-  "dead": 27472,
-  "active": 389453,
-  "updatedTime": "19/07/2020 21:15:59",
+  "confirmed": 1115648,
+  "recovered": 699428,
+  "dead": 27482,
+  "active": 388336,
+  "updatedTime": "19/07/2020 21:52:59",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -151,18 +151,18 @@
     },
     "TG": {
       "name": "Telangana",
-      "confirmed": 43780,
-      "active": 12764,
-      "recovered": 30607,
-      "dead": 409,
-      "updatedTime": "19/07/2020 10:36:10",
+      "confirmed": 45076,
+      "active": 12223,
+      "recovered": 32438,
+      "dead": 415,
+      "updatedTime": "19/07/2020 21:53:01",
       "note": "",
       "stateCode": "TG",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 1296,
+        "recovered": 1831,
+        "dead": 6,
+        "active": -541
       },
       "testing_data": {
         "tested": 252700,
@@ -213,28 +213,28 @@
         "active": 898
       },
       "testing_data": {
-        "tested": 689813,
-        "positive": 40209,
+        "tested": 703284,
+        "positive": 42487,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "18/07/2020",
-        "source": "https://www.wbhealth.gov.in/uploaded_files/corona/WB_DHFW_Bulletin_18th_JULY_REPORT_FINAL.pdf"
+        "date": "19/07/2020",
+        "source": ""
       }
     },
     "RJ": {
       "name": "Rajasthan",
-      "confirmed": 28693,
-      "active": 6871,
-      "recovered": 21266,
-      "dead": 556,
-      "updatedTime": "19/07/2020 11:51:01",
+      "confirmed": 29434,
+      "active": 7145,
+      "recovered": 21730,
+      "dead": 559,
+      "updatedTime": "19/07/2020 21:53:02",
       "note": "",
       "stateCode": "RJ",
       "today": {
-        "confirmed": 193,
-        "recovered": 122,
-        "dead": 3,
-        "active": 68
+        "confirmed": 934,
+        "recovered": 586,
+        "dead": 6,
+        "active": 342
       },
       "testing_data": {
         "tested": 1204676,
@@ -320,17 +320,17 @@
     "AS": {
       "name": "Assam",
       "confirmed": 22982,
-      "active": 7751,
-      "recovered": 15166,
+      "active": 6893,
+      "recovered": 16024,
       "dead": 62,
-      "updatedTime": "19/07/2020 20:06:02",
+      "updatedTime": "19/07/2020 21:53:04",
       "note": "Includes one case from Nagaland.\nTotal of 3 patients who migrated to other states has been reduced from Active count",
       "stateCode": "AS",
       "today": {
         "confirmed": 0,
-        "recovered": 0,
+        "recovered": 858,
         "dead": 4,
-        "active": -4
+        "active": -862
       },
       "testing_data": {
         "tested": 632372,
@@ -511,18 +511,18 @@
     },
     "GA": {
       "name": "Goa",
-      "confirmed": 3484,
-      "active": 1425,
-      "recovered": 2038,
-      "dead": 21,
-      "updatedTime": "18/07/2020 20:56:01",
+      "confirmed": 3657,
+      "active": 1417,
+      "recovered": 2218,
+      "dead": 22,
+      "updatedTime": "19/07/2020 21:53:07",
       "note": "",
       "stateCode": "GA",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 173,
+        "recovered": 180,
+        "dead": 1,
+        "active": -8
       },
       "testing_data": {
         "tested": 105731,
@@ -595,7 +595,7 @@
         "negative": 0,
         "unconfirmed": 0,
         "date": "19/07/2020",
-        "source": "http://nrhmmanipur.org/"
+        "source": "https://twitter.com/DiprManipur/status/1284862147009249280?s=20"
       }
     },
     "PY": {
@@ -624,18 +624,18 @@
     },
     "HP": {
       "name": "Himachal Pradesh",
-      "confirmed": 1483,
-      "active": 421,
-      "recovered": 1037,
+      "confirmed": 1521,
+      "active": 437,
+      "recovered": 1059,
       "dead": 10,
-      "updatedTime": "19/07/2020 17:54:02",
+      "updatedTime": "19/07/2020 21:53:09",
       "note": "HP has 16 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed",
       "stateCode": "HP",
       "today": {
-        "confirmed": 26,
-        "recovered": 7,
+        "confirmed": 64,
+        "recovered": 29,
         "dead": 0,
-        "active": 19
+        "active": 35
       },
       "testing_data": {
         "tested": 113129,
@@ -776,11 +776,11 @@
       },
       "testing_data": {
         "tested": 26940,
-        "positive": 418,
+        "positive": 450,
         "negative": 26000,
-        "unconfirmed": 522,
-        "date": "18/07/2020",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/1214"
+        "unconfirmed": 490,
+        "date": "19/07/2020",
+        "source": "https://corona.meghalayagov.in/"
       }
     },
     "MZ": {
@@ -880,19 +880,19 @@
     }
   },
   "testing_data": {
-    "tested": 15822318,
-    "positive": 1105045,
+    "tested": 15835789,
+    "positive": 1107355,
     "negative": 7250464,
-    "unconfirmed": 30549
+    "unconfirmed": 30517
   },
   "testing_data_imcr": {
     "tested": 13791869,
     "source": "https://twitter.com/ICMRDELHI/status/1284689929360928771"
   },
   "today": {
-    "confirmed": 35536,
-    "recovered": 18416,
-    "dead": 644,
-    "active": 16476
+    "confirmed": 37784,
+    "recovered": 21771,
+    "dead": 654,
+    "active": 15359
   }
 }
