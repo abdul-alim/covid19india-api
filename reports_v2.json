@@ -1,9 +1,9 @@
 {
-  "confirmed": 1095722,
-  "recovered": 687673,
-  "dead": 27070,
-  "active": 380579,
-  "updatedTime": "19/07/2020 19:53:58",
+  "confirmed": 1095741,
+  "recovered": 687691,
+  "dead": 27074,
+  "active": 380576,
+  "updatedTime": "19/07/2020 20:03:00",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -320,17 +320,17 @@
     "AS": {
       "name": "Assam",
       "confirmed": 22982,
-      "active": 7755,
+      "active": 7751,
       "recovered": 15166,
-      "dead": 58,
-      "updatedTime": "19/07/2020 00:40:01",
+      "dead": 62,
+      "updatedTime": "19/07/2020 20:03:01",
       "note": "Includes one case from Nagaland.\nTotal of 3 patients who migrated to other states has been reduced from Active count",
       "stateCode": "AS",
       "today": {
         "confirmed": 0,
         "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "dead": 4,
+        "active": -4
       },
       "testing_data": {
         "tested": 632372,
@@ -648,18 +648,18 @@
     },
     "LA": {
       "name": "Ladakh",
-      "confirmed": 1159,
-      "active": 172,
-      "recovered": 985,
+      "confirmed": 1178,
+      "active": 173,
+      "recovered": 1003,
       "dead": 2,
-      "updatedTime": "18/07/2020 20:54:05",
+      "updatedTime": "19/07/2020 20:03:03",
       "note": "",
       "stateCode": "LA",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 19,
+        "recovered": 18,
         "dead": 0,
-        "active": 0
+        "active": 1
       },
       "testing_data": {
         "tested": 16192,
@@ -724,7 +724,7 @@
       "active": 228,
       "recovered": 450,
       "dead": 2,
-      "updatedTime": "19/07/2020 19:54:01",
+      "updatedTime": "19/07/2020 19:58:02",
       "note": "3 cases are migrated to different states which are reduced from active count.",
       "stateCode": "DN",
       "today": {
@@ -890,9 +890,9 @@
     "source": "https://twitter.com/ICMRDELHI/status/1284689929360928771"
   },
   "today": {
-    "confirmed": 17858,
-    "recovered": 10016,
-    "dead": 242,
-    "active": 7600
+    "confirmed": 17877,
+    "recovered": 10034,
+    "dead": 246,
+    "active": 7597
   }
 }
