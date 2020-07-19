@@ -1,24 +1,24 @@
 {
-  "confirmed": 1106093,
-  "recovered": 692147,
-  "dead": 27337,
-  "active": 386208,
-  "updatedTime": "19/07/2020 20:22:59",
+  "confirmed": 1110421,
+  "recovered": 694083,
+  "dead": 27428,
+  "active": 388508,
+  "updatedTime": "19/07/2020 20:52:59",
   "states": {
     "MH": {
       "name": "Maharashtra",
-      "confirmed": 310413,
-      "active": 128702,
-      "recovered": 169556,
+      "confirmed": 310455,
+      "active": 128730,
+      "recovered": 169569,
       "dead": 11854,
-      "updatedTime": "19/07/2020 10:36:01",
-      "note": "301 cases are marked as non-covid deaths in MH bulletin. These have been reduced from active count\n[June 16] : 1328 deceased cases have been retroactively added to MH bulletin.\n[June 20]: 69 deceased cases have been reduced based on state bulletin.\n",
+      "updatedTime": "19/07/2020 20:40:03",
+      "note": "302 cases are marked as non-covid deaths in MH bulletin. These have been reduced from active count\n[June 16] : 1328 deceased cases have been retroactively added to MH bulletin.\n[June 20]: 69 deceased cases have been reduced based on state bulletin.\n",
       "stateCode": "MH",
       "today": {
-        "confirmed": 9304,
-        "recovered": 3052,
-        "dead": 196,
-        "active": 6056
+        "confirmed": 9518,
+        "recovered": 3906,
+        "dead": 258,
+        "active": 5354
       },
       "testing_data": {
         "tested": 1526037,
@@ -103,18 +103,18 @@
     },
     "KA": {
       "name": "Karnataka",
-      "confirmed": 59652,
-      "active": 36627,
-      "recovered": 21776,
-      "dead": 1245,
-      "updatedTime": "19/07/2020 10:36:07",
+      "confirmed": 63772,
+      "active": 39366,
+      "recovered": 23066,
+      "dead": 1336,
+      "updatedTime": "19/07/2020 20:53:02",
       "note": "4 cases are classified as non-covid related deaths in KA bulletin. They have been reduced from active cases",
       "stateCode": "KA",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 4120,
+        "recovered": 1290,
+        "dead": 91,
+        "active": 2739
       },
       "testing_data": {
         "tested": 1020830,
@@ -122,7 +122,7 @@
         "negative": 927945,
         "unconfirmed": 0,
         "date": "19/07/2020",
-        "source": ""
+        "source": "https://t.co/SSTVGQWvam?amp=1"
       }
     },
     "UP": {
@@ -344,17 +344,17 @@
     "OR": {
       "name": "Odisha",
       "confirmed": 17437,
-      "active": 5381,
-      "recovered": 11937,
+      "active": 4865,
+      "recovered": 12453,
       "dead": 119,
-      "updatedTime": "19/07/2020 11:40:03",
+      "updatedTime": "19/07/2020 20:49:01",
       "note": "[July 12th] 20 non-covid deaths reported in state dashboard are included in the deceased count\n[June 22nd]: NDRF/ODRF cases have been redistributed to districts based on state dashboard",
       "stateCode": "OR",
       "today": {
         "confirmed": 736,
-        "recovered": 0,
+        "recovered": 516,
         "dead": 7,
-        "active": 729
+        "active": 213
       },
       "testing_data": {
         "tested": 377893,
@@ -429,28 +429,28 @@
         "active": 647
       },
       "testing_data": {
-        "tested": 514140,
-        "positive": 11660,
+        "tested": 532505,
+        "positive": 12481,
         "negative": 0,
-        "unconfirmed": 7016,
-        "date": "18/07/2020",
-        "source": "https://dhs.kerala.gov.in/wp-content/uploads/2020/07/Bulletin-HFWD-English-July-18.pdf"
+        "unconfirmed": 5060,
+        "date": "19/07/2020",
+        "source": "https://dhs.kerala.gov.in/wp-content/uploads/2020/07/Bulletin-HFWD-English-July-19.pdf"
       }
     },
     "CT": {
       "name": "Chhattisgarh",
-      "confirmed": 5246,
-      "active": 1564,
-      "recovered": 3658,
+      "confirmed": 5407,
+      "active": 1608,
+      "recovered": 3775,
       "dead": 24,
-      "updatedTime": "18/07/2020 21:40:09",
+      "updatedTime": "19/07/2020 20:49:04",
       "note": "",
       "stateCode": "CT",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 161,
+        "recovered": 117,
         "dead": 0,
-        "active": 0
+        "active": 44
       },
       "testing_data": {
         "tested": 238890,
@@ -580,7 +580,7 @@
       "active": 676,
       "recovered": 1235,
       "dead": 0,
-      "updatedTime": "19/07/2020 20:23:04",
+      "updatedTime": "19/07/2020 20:27:03",
       "note": "",
       "stateCode": "MN",
       "today": {
@@ -809,18 +809,18 @@
     },
     "AN": {
       "name": "Andaman and Nicobar",
-      "confirmed": 198,
-      "active": 52,
+      "confirmed": 203,
+      "active": 57,
       "recovered": 145,
       "dead": 0,
-      "updatedTime": "19/07/2020 09:40:03",
+      "updatedTime": "19/07/2020 20:49:13",
       "note": "",
       "stateCode": "AN",
       "today": {
-        "confirmed": 18,
+        "confirmed": 23,
         "recovered": 12,
         "dead": 0,
-        "active": 6
+        "active": 11
       },
       "testing_data": {
         "tested": 19227,
@@ -880,19 +880,19 @@
     }
   },
   "testing_data": {
-    "tested": 15744922,
-    "positive": 1093502,
+    "tested": 15763287,
+    "positive": 1094323,
     "negative": 7202781,
-    "unconfirmed": 32682
+    "unconfirmed": 30726
   },
   "testing_data_imcr": {
     "tested": 13791869,
     "source": "https://twitter.com/ICMRDELHI/status/1284689929360928771"
   },
   "today": {
-    "confirmed": 28057,
-    "recovered": 13649,
-    "dead": 447,
-    "active": 13961
+    "confirmed": 32557,
+    "recovered": 16426,
+    "dead": 600,
+    "active": 15531
   }
 }
