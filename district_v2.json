@@ -981,15 +981,15 @@
       {
         "district": "Kokrajhar",
         "notes": "",
-        "active": 66,
+        "active": 65,
         "confirmed": 185,
         "recovered": 119,
-        "dead": 0,
+        "dead": 1,
         "today": {
           "confirmed": 0,
           "recovered": 0,
-          "active": 0,
-          "dead": 0
+          "active": -1,
+          "dead": 1
         }
       },
       {
@@ -1163,14 +1163,14 @@
     ],
     "today": {
       "confirmed": 0,
-      "active": 0,
+      "active": -1,
       "recovered": 0,
-      "dead": 0
+      "dead": 1
     },
     "confirmed": 24000,
     "recovered": 17096,
-    "dead": 62,
-    "active": 6839
+    "dead": 63,
+    "active": 6838
   },
   "BR": {
     "state": "Bihar",
@@ -6611,14 +6611,14 @@
       {
         "district": "Aizawl",
         "notes": "",
-        "active": 77,
-        "confirmed": 116,
+        "active": 90,
+        "confirmed": 129,
         "recovered": 39,
         "dead": 0,
         "today": {
-          "confirmed": 0,
+          "confirmed": 13,
           "recovered": 0,
-          "active": 0,
+          "active": 13,
           "dead": 0
         }
       },
@@ -6764,15 +6764,15 @@
       }
     ],
     "today": {
-      "confirmed": 0,
-      "active": -1,
+      "confirmed": 13,
+      "active": 12,
       "recovered": 1,
       "dead": 0
     },
-    "confirmed": 284,
+    "confirmed": 297,
     "recovered": 168,
     "dead": 0,
-    "active": 116
+    "active": 129
   },
   "NL": {
     "state": "Nagaland",
@@ -9608,8 +9608,8 @@
     },
     "confirmed": 3093,
     "recovered": 1845,
-    "dead": 5,
-    "active": 1229
+    "dead": 7,
+    "active": 1227
   },
   "UP": {
     "state": "Uttar Pradesh",

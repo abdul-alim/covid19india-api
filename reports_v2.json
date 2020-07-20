@@ -1,9 +1,9 @@
 {
-  "confirmed": 1153811,
+  "confirmed": 1153824,
   "recovered": 724702,
-  "dead": 28096,
-  "active": 400609,
-  "updatedTime": "20/07/2020 22:52:35",
+  "dead": 28099,
+  "active": 400619,
+  "updatedTime": "20/07/2020 23:23:35",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -45,12 +45,12 @@
         "active": 1054
       },
       "testing_data": {
-        "tested": 1932492,
-        "positive": 170693,
+        "tested": 1984579,
+        "positive": 175678,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "19/07/2020",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/1235"
+        "date": "20/07/2020",
+        "source": "https://stopcorona.tn.gov.in/daily-bulletin/"
       }
     },
     "DL": {
@@ -320,17 +320,17 @@
     "AS": {
       "name": "Assam",
       "confirmed": 24000,
-      "active": 6839,
+      "active": 6838,
       "recovered": 17096,
-      "dead": 62,
-      "updatedTime": "20/07/2020 21:01:40",
+      "dead": 63,
+      "updatedTime": "20/07/2020 23:16:38",
       "note": "Includes one case from Nagaland.\nTotal of 3 patients who migrated to other states has been reduced from Active count",
       "stateCode": "AS",
       "today": {
         "confirmed": 0,
         "recovered": 1072,
-        "dead": 0,
-        "active": -1072
+        "dead": 1,
+        "active": -1073
       },
       "testing_data": {
         "tested": 651179,
@@ -553,17 +553,17 @@
     "TR": {
       "name": "Tripura",
       "confirmed": 3093,
-      "active": 1229,
+      "active": 1227,
       "recovered": 1845,
-      "dead": 5,
-      "updatedTime": "20/07/2020 22:27:38",
+      "dead": 7,
+      "updatedTime": "20/07/2020 23:16:41",
       "note": "",
       "stateCode": "TR",
       "today": {
         "confirmed": 202,
         "recovered": 86,
-        "dead": 0,
-        "active": 116
+        "dead": 2,
+        "active": 114
       },
       "testing_data": {
         "tested": 109290,
@@ -741,7 +741,7 @@
       "active": 502,
       "recovered": 285,
       "dead": 3,
-      "updatedTime": "20/07/2020 22:52:38",
+      "updatedTime": "20/07/2020 23:04:42",
       "note": "",
       "stateCode": "AR",
       "today": {
@@ -785,18 +785,18 @@
     },
     "MZ": {
       "name": "Mizoram",
-      "confirmed": 284,
-      "active": 116,
+      "confirmed": 297,
+      "active": 129,
       "recovered": 168,
       "dead": 0,
-      "updatedTime": "20/07/2020 18:50:19",
+      "updatedTime": "20/07/2020 23:23:42",
       "note": "",
       "stateCode": "MZ",
       "today": {
-        "confirmed": 0,
+        "confirmed": 13,
         "recovered": 1,
         "dead": 0,
-        "active": -1
+        "active": 12
       },
       "testing_data": {
         "tested": 18147,
@@ -880,8 +880,8 @@
     }
   },
   "testing_data": {
-    "tested": 16263863,
-    "positive": 1146112,
+    "tested": 16315950,
+    "positive": 1151097,
     "negative": 7448563,
     "unconfirmed": 30188
   },
@@ -890,9 +890,9 @@
     "source": "https://twitter.com/ICMRDELHI/status/1285050262583865355"
   },
   "today": {
-    "confirmed": 35704,
+    "confirmed": 35717,
     "recovered": 24303,
-    "dead": 593,
-    "active": 10808
+    "dead": 596,
+    "active": 10818
   }
 }
