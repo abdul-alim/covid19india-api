@@ -1,9 +1,9 @@
 {
-  "confirmed": 1143832,
-  "recovered": 718643,
-  "dead": 27917,
-  "active": 396869,
-  "updatedTime": "20/07/2020 20:45:35",
+  "confirmed": 1145743,
+  "recovered": 721431,
+  "dead": 28035,
+  "active": 395874,
+  "updatedTime": "20/07/2020 20:56:36",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -104,41 +104,41 @@
     "KA": {
       "name": "Karnataka",
       "confirmed": 63772,
-      "active": 39366,
-      "recovered": 23066,
-      "dead": 1336,
-      "updatedTime": "19/07/2020 20:56:01",
+      "active": 38564,
+      "recovered": 23796,
+      "dead": 1408,
+      "updatedTime": "20/07/2020 20:56:37",
       "note": "4 cases are classified as non-covid related deaths in KA bulletin. They have been reduced from active cases",
       "stateCode": "KA",
       "today": {
         "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "recovered": 730,
+        "dead": 72,
+        "active": -802
       },
       "testing_data": {
-        "tested": 1020830,
-        "positive": 63772,
-        "negative": 927945,
+        "tested": 1057303,
+        "positive": 67420,
+        "negative": 958311,
         "unconfirmed": 0,
-        "date": "19/07/2020",
-        "source": "https://t.co/SSTVGQWvam?amp=1"
+        "date": "20/07/2020",
+        "source": "https://t.co/sVPqLKa89E?amp=1"
       }
     },
     "UP": {
       "name": "Uttar Pradesh",
-      "confirmed": 49247,
-      "active": 18256,
-      "recovered": 29845,
-      "dead": 1146,
-      "updatedTime": "19/07/2020 19:16:00",
+      "confirmed": 51160,
+      "active": 19137,
+      "recovered": 30831,
+      "dead": 1192,
+      "updatedTime": "20/07/2020 20:56:39",
       "note": "",
       "stateCode": "UP",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 1913,
+        "recovered": 986,
+        "dead": 46,
+        "active": 881
       },
       "testing_data": {
         "tested": 1470426,
@@ -155,7 +155,7 @@
       "active": 11529,
       "recovered": 34323,
       "dead": 422,
-      "updatedTime": "20/07/2020 20:45:42",
+      "updatedTime": "20/07/2020 20:50:37",
       "note": "",
       "stateCode": "TG",
       "today": {
@@ -314,23 +314,23 @@
         "negative": 588491,
         "unconfirmed": 0,
         "date": "20/07/2020",
-        "source": ""
+        "source": "https://twitter.com/healthminmp/status/1285209936536825856?s=20"
       }
     },
     "AS": {
       "name": "Assam",
       "confirmed": 24000,
-      "active": 7911,
-      "recovered": 16024,
+      "active": 6839,
+      "recovered": 17096,
       "dead": 62,
-      "updatedTime": "20/07/2020 00:16:01",
+      "updatedTime": "20/07/2020 20:56:40",
       "note": "Includes one case from Nagaland.\nTotal of 3 patients who migrated to other states has been reduced from Active count",
       "stateCode": "AS",
       "today": {
         "confirmed": 0,
-        "recovered": 0,
+        "recovered": 1072,
         "dead": 0,
-        "active": 0
+        "active": -1072
       },
       "testing_data": {
         "tested": 651179,
@@ -676,7 +676,7 @@
       "active": 537,
       "recovered": 484,
       "dead": 0,
-      "updatedTime": "20/07/2020 20:44:56",
+      "updatedTime": "20/07/2020 20:46:13",
       "note": "",
       "stateCode": "NL",
       "today": {
@@ -696,18 +696,18 @@
     },
     "CH": {
       "name": "Chandigarh",
-      "confirmed": 739,
-      "active": 209,
+      "confirmed": 737,
+      "active": 207,
       "recovered": 518,
       "dead": 12,
-      "updatedTime": "20/07/2020 18:50:14",
+      "updatedTime": "20/07/2020 20:56:42",
       "note": "",
       "stateCode": "CH",
       "today": {
-        "confirmed": 22,
+        "confirmed": 20,
         "recovered": 30,
         "dead": 0,
-        "active": -8
+        "active": -10
       },
       "testing_data": {
         "tested": 11075,
@@ -880,9 +880,9 @@
     }
   },
   "testing_data": {
-    "tested": 16161509,
-    "positive": 1131225,
-    "negative": 7377754,
+    "tested": 16197982,
+    "positive": 1134873,
+    "negative": 7408120,
     "unconfirmed": 30886
   },
   "testing_data_imcr": {
@@ -890,9 +890,9 @@
     "source": "https://twitter.com/ICMRDELHI/status/1285050262583865355"
   },
   "today": {
-    "confirmed": 25725,
-    "recovered": 18244,
-    "dead": 414,
-    "active": 7067
+    "confirmed": 27636,
+    "recovered": 21032,
+    "dead": 532,
+    "active": 6072
   }
 }
