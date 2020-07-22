@@ -1,9 +1,9 @@
 {
-  "confirmed": 1201727,
-  "recovered": 759168,
-  "dead": 28846,
-  "active": 413308,
-  "updatedTime": "22/07/2020 17:55:10",
+  "confirmed": 1203992,
+  "recovered": 760807,
+  "dead": 28875,
+  "active": 413905,
+  "updatedTime": "22/07/2020 18:36:57",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -55,18 +55,18 @@
     },
     "DL": {
       "name": "Delhi",
-      "confirmed": 125096,
-      "active": 15288,
-      "recovered": 106118,
-      "dead": 3690,
-      "updatedTime": "21/07/2020 18:50:40",
+      "confirmed": 126323,
+      "active": 14954,
+      "recovered": 107650,
+      "dead": 3719,
+      "updatedTime": "22/07/2020 18:37:00",
       "note": "[July 14]: Value for the total tests conducted has been reduced by 97008 in the state bulletin. Reason given : \"Reconciled with ICMR figures\". We have made the same change.\n[June 16]: 344 deceased cases have been retroactively added to DL bulletin.",
       "stateCode": "DL",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 1227,
+        "recovered": 1532,
+        "dead": 29,
+        "active": -334
       },
       "testing_data": {
         "tested": 851311,
@@ -415,18 +415,18 @@
     },
     "KL": {
       "name": "Kerala",
-      "confirmed": 13995,
-      "active": 8056,
+      "confirmed": 15033,
+      "active": 9094,
       "recovered": 5890,
       "dead": 45,
-      "updatedTime": "21/07/2020 19:40:55",
+      "updatedTime": "22/07/2020 18:37:03",
       "note": "Mahe native who expired in Kannur included in Kerala's tally.\nOne patient who absconded from Palakkad to TN and one patient who returned back to Maharashtra has been reduced from active count",
       "stateCode": "KL",
       "today": {
-        "confirmed": 0,
+        "confirmed": 1038,
         "recovered": 0,
         "dead": 0,
-        "active": 0
+        "active": 1038
       },
       "testing_data": {
         "tested": 567278,
@@ -553,17 +553,17 @@
     "TR": {
       "name": "Tripura",
       "confirmed": 3345,
-      "active": 1397,
-      "recovered": 1926,
+      "active": 1290,
+      "recovered": 2033,
       "dead": 8,
-      "updatedTime": "22/07/2020 14:16:07",
+      "updatedTime": "22/07/2020 18:37:06",
       "note": "",
       "stateCode": "TR",
       "today": {
         "confirmed": 0,
-        "recovered": 0,
+        "recovered": 107,
         "dead": 0,
-        "active": 0
+        "active": -107
       },
       "testing_data": {
         "tested": 119046,
@@ -890,9 +890,9 @@
     "source": "https://twitter.com/ICMRDELHI/status/1285783025494581249"
   },
   "today": {
-    "confirmed": 7644,
-    "recovered": 6775,
-    "dead": 76,
-    "active": 793
+    "confirmed": 9909,
+    "recovered": 8414,
+    "dead": 105,
+    "active": 1390
   }
 }
