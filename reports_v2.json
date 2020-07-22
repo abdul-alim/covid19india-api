@@ -1,9 +1,9 @@
 {
-  "confirmed": 1237574,
-  "recovered": 782780,
-  "dead": 29887,
-  "active": 424497,
-  "updatedTime": "22/07/2020 22:37:01",
+  "confirmed": 1238464,
+  "recovered": 782938,
+  "dead": 29894,
+  "active": 425222,
+  "updatedTime": "22/07/2020 22:53:00",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -320,17 +320,17 @@
     "AS": {
       "name": "Assam",
       "confirmed": 26773,
-      "active": 8667,
+      "active": 8665,
       "recovered": 18034,
-      "dead": 69,
-      "updatedTime": "22/07/2020 00:48:56",
+      "dead": 71,
+      "updatedTime": "22/07/2020 22:53:06",
       "note": "Includes one case from Nagaland.\nTotal of 3 patients who migrated to other states has been reduced from Active count",
       "stateCode": "AS",
       "today": {
         "confirmed": 0,
         "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "dead": 2,
+        "active": -2
       },
       "testing_data": {
         "tested": 689343,
@@ -405,12 +405,12 @@
         "active": 154
       },
       "testing_data": {
-        "tested": 478421,
-        "positive": 10889,
+        "tested": 489836,
+        "positive": 11301,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "21/07/2020",
-        "source": "http://diprpunjab.gov.in/sites/default/files/Media%20Bulletin%2021-07-2020.pdf"
+        "date": "22/07/2020",
+        "source": "http://diprpunjab.gov.in/sites/default/files/Covid%20Media%20Bulletin%20--%2022-07-2020.pdf"
       }
     },
     "KL": {
@@ -463,18 +463,18 @@
     },
     "JH": {
       "name": "Jharkhand",
-      "confirmed": 6243,
-      "active": 3240,
-      "recovered": 2942,
-      "dead": 61,
-      "updatedTime": "22/07/2020 11:52:26",
+      "confirmed": 6682,
+      "active": 3570,
+      "recovered": 3048,
+      "dead": 64,
+      "updatedTime": "22/07/2020 22:53:11",
       "note": "",
       "stateCode": "JH",
       "today": {
-        "confirmed": 48,
-        "recovered": 0,
-        "dead": 0,
-        "active": 48
+        "confirmed": 487,
+        "recovered": 106,
+        "dead": 3,
+        "active": 378
       },
       "testing_data": {
         "tested": 230535,
@@ -487,18 +487,18 @@
     },
     "UT": {
       "name": "Uttarakhand",
-      "confirmed": 4849,
-      "active": 1459,
-      "recovered": 3297,
-      "dead": 55,
-      "updatedTime": "21/07/2020 21:18:00",
+      "confirmed": 5300,
+      "active": 1856,
+      "recovered": 3349,
+      "dead": 57,
+      "updatedTime": "22/07/2020 22:53:14",
       "note": "38 Migrated cases reduced from Active count",
       "stateCode": "UT",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 451,
+        "recovered": 52,
+        "dead": 2,
+        "active": 397
       },
       "testing_data": {
         "tested": 127098,
@@ -614,12 +614,12 @@
         "active": 69
       },
       "testing_data": {
-        "tested": 32468,
-        "positive": 2183,
-        "negative": 29675,
-        "unconfirmed": 375,
-        "date": "21/07/2020",
-        "source": "https://health.py.gov.in/sites/default/files/NEET-PDF/21.07.2020%20bulletin-pdf.pdf"
+        "tested": 33096,
+        "positive": 2300,
+        "negative": 30260,
+        "unconfirmed": 280,
+        "date": "22/07/2020",
+        "source": "https://health.py.gov.in/sites/default/files/NEET-PDF/22.07.2020%20bulletin.pdf"
       }
     },
     "HP": {
@@ -676,7 +676,7 @@
       "active": 598,
       "recovered": 486,
       "dead": 0,
-      "updatedTime": "22/07/2020 22:37:06",
+      "updatedTime": "22/07/2020 22:39:05",
       "note": "",
       "stateCode": "NL",
       "today": {
@@ -880,19 +880,19 @@
     }
   },
   "testing_data": {
-    "tested": 17167256,
-    "positive": 1181443,
-    "negative": 7778300,
-    "unconfirmed": 35334
+    "tested": 17179299,
+    "positive": 1181972,
+    "negative": 7778885,
+    "unconfirmed": 35239
   },
   "testing_data_imcr": {
     "tested": 14724546,
     "source": "https://twitter.com/ICMRDELHI/status/1285783025494581249"
   },
   "today": {
-    "confirmed": 43491,
-    "recovered": 30388,
-    "dead": 1122,
-    "active": 11981
+    "confirmed": 44381,
+    "recovered": 30546,
+    "dead": 1129,
+    "active": 12706
   }
 }
