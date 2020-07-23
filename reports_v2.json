@@ -1,9 +1,9 @@
 {
-  "confirmed": 1286314,
-  "recovered": 815969,
-  "dead": 30635,
-  "active": 439293,
-  "updatedTime": "23/07/2020 22:26:20",
+  "confirmed": 1286430,
+  "recovered": 815979,
+  "dead": 30643,
+  "active": 439391,
+  "updatedTime": "23/07/2020 22:53:21",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -296,17 +296,17 @@
     "AS": {
       "name": "Assam",
       "confirmed": 27745,
-      "active": 8325,
+      "active": 8321,
       "recovered": 19351,
-      "dead": 66,
-      "updatedTime": "23/07/2020 00:40:07",
+      "dead": 70,
+      "updatedTime": "23/07/2020 22:52:06",
       "note": "Includes one case from Nagaland.\nTotal of 3 patients who migrated to other states has been reduced from Active count",
       "stateCode": "AS",
       "today": {
         "confirmed": 0,
         "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "dead": 4,
+        "active": -4
       },
       "testing_data": {
         "tested": 703374,
@@ -463,18 +463,18 @@
     },
     "CT": {
       "name": "Chhattisgarh",
-      "confirmed": 6254,
-      "active": 1847,
-      "recovered": 4377,
-      "dead": 30,
-      "updatedTime": "23/07/2020 20:09:26",
+      "confirmed": 6370,
+      "active": 1949,
+      "recovered": 4387,
+      "dead": 34,
+      "updatedTime": "23/07/2020 22:53:23",
       "note": "",
       "stateCode": "CT",
       "today": {
-        "confirmed": 255,
-        "recovered": 147,
-        "dead": 1,
-        "active": 107
+        "confirmed": 371,
+        "recovered": 157,
+        "dead": 5,
+        "active": 209
       },
       "testing_data": {
         "tested": 268285,
@@ -890,9 +890,9 @@
     "source": "https://twitter.com/ICMRDELHI/status/1286141514586836993"
   },
   "today": {
-    "confirmed": 46630,
-    "recovered": 31702,
-    "dead": 745,
-    "active": 14183
+    "confirmed": 46746,
+    "recovered": 31712,
+    "dead": 753,
+    "active": 14281
   }
 }
