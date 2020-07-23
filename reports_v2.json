@@ -1,9 +1,9 @@
 {
-  "confirmed": 1284638,
-  "recovered": 814912,
-  "dead": 30601,
-  "active": 438708,
-  "updatedTime": "23/07/2020 21:16:21",
+  "confirmed": 1285236,
+  "recovered": 815251,
+  "dead": 30607,
+  "active": 438961,
+  "updatedTime": "23/07/2020 21:42:22",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -70,7 +70,7 @@
       },
       "testing_data": {
         "tested": 889597,
-        "positive": 0,
+        "positive": 127364,
         "negative": 0,
         "unconfirmed": 0,
         "date": "23/07/2020",
@@ -213,28 +213,28 @@
         "active": -103
       },
       "testing_data": {
-        "tested": 308959,
-        "positive": 49259,
+        "tested": 322326,
+        "positive": 50826,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "22/07/2020",
-        "source": "https://twitter.com/Eatala_Rajender/status/1285973960123768832?s=20"
+        "date": "23/07/2020",
+        "source": "https://twitter.com/Eatala_Rajender/status/1286327602295140352?s=20"
       }
     },
     "RJ": {
       "name": "Rajasthan",
-      "confirmed": 32673,
-      "active": 8587,
-      "recovered": 23498,
-      "dead": 588,
-      "updatedTime": "23/07/2020 12:06:20",
+      "confirmed": 33220,
+      "active": 8811,
+      "recovered": 23815,
+      "dead": 594,
+      "updatedTime": "23/07/2020 21:42:24",
       "note": "",
       "stateCode": "RJ",
       "today": {
-        "confirmed": 339,
-        "recovered": 134,
-        "dead": 5,
-        "active": 200
+        "confirmed": 886,
+        "recovered": 451,
+        "dead": 11,
+        "active": 424
       },
       "testing_data": {
         "tested": 1298218,
@@ -607,26 +607,26 @@
     },
     "HP": {
       "name": "Himachal Pradesh",
-      "confirmed": 1783,
-      "active": 639,
-      "recovered": 1118,
+      "confirmed": 1834,
+      "active": 672,
+      "recovered": 1136,
       "dead": 11,
-      "updatedTime": "23/07/2020 19:01:22",
+      "updatedTime": "23/07/2020 21:42:25",
       "note": "HP has 16 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed",
       "stateCode": "HP",
       "today": {
-        "confirmed": 58,
-        "recovered": 13,
+        "confirmed": 109,
+        "recovered": 31,
         "dead": 0,
-        "active": 45
+        "active": 78
       },
       "testing_data": {
-        "tested": 121688,
-        "positive": 1725,
-        "negative": 119350,
-        "unconfirmed": 613,
-        "date": "22/07/2020",
-        "source": "https://twitter.com/nhm_hp/status/1285974014196805632?s=20"
+        "tested": 124683,
+        "positive": 0,
+        "negative": 121543,
+        "unconfirmed": 1306,
+        "date": "23/07/2020",
+        "source": ""
       }
     },
     "LA": {
@@ -745,17 +745,17 @@
     "ML": {
       "name": "Meghalaya",
       "confirmed": 534,
-      "active": 452,
-      "recovered": 78,
+      "active": 448,
+      "recovered": 82,
       "dead": 4,
-      "updatedTime": "23/07/2020 13:41:25",
+      "updatedTime": "23/07/2020 21:42:27",
       "note": "[June 17]:\nOne case was identified to be false positive and has been removed from the confirmed cases by ML authorities.",
       "stateCode": "ML",
       "today": {
         "confirmed": 20,
-        "recovered": 1,
+        "recovered": 5,
         "dead": 0,
-        "active": 19
+        "active": 15
       },
       "testing_data": {
         "tested": 30571,
@@ -880,19 +880,19 @@
     }
   },
   "testing_data": {
-    "tested": 17647493,
-    "positive": 1154598,
-    "negative": 7957390,
-    "unconfirmed": 34185
+    "tested": 17663855,
+    "positive": 1281804,
+    "negative": 7959583,
+    "unconfirmed": 34878
   },
   "testing_data_imcr": {
     "tested": 15075369,
     "source": "https://twitter.com/ICMRDELHI/status/1286141514586836993"
   },
   "today": {
-    "confirmed": 44954,
-    "recovered": 30645,
-    "dead": 711,
-    "active": 13598
+    "confirmed": 45552,
+    "recovered": 30984,
+    "dead": 717,
+    "active": 13851
   }
 }
