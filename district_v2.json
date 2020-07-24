@@ -322,14 +322,14 @@
       {
         "district": "Changlang",
         "notes": "",
-        "active": 30,
+        "active": 20,
         "confirmed": 115,
-        "recovered": 85,
+        "recovered": 95,
         "dead": 0,
         "today": {
           "confirmed": 0,
-          "recovered": 0,
-          "active": 0,
+          "recovered": 10,
+          "active": -10,
           "dead": 0
         }
       },
@@ -420,14 +420,14 @@
       {
         "district": "Lohit",
         "notes": "",
-        "active": 0,
-        "confirmed": 4,
+        "active": 3,
+        "confirmed": 7,
         "recovered": 4,
         "dead": 0,
         "today": {
-          "confirmed": 0,
+          "confirmed": 3,
           "recovered": 0,
-          "active": 0,
+          "active": 3,
           "dead": 0
         }
       },
@@ -448,14 +448,14 @@
       {
         "district": "Lower Dibang Valley",
         "notes": "",
-        "active": 9,
-        "confirmed": 14,
+        "active": 11,
+        "confirmed": 16,
         "recovered": 5,
         "dead": 0,
         "today": {
-          "confirmed": 0,
+          "confirmed": 2,
           "recovered": 0,
-          "active": 0,
+          "active": 2,
           "dead": 0
         }
       },
@@ -476,14 +476,14 @@
       {
         "district": "Lower Subansiri",
         "notes": "",
-        "active": 21,
+        "active": 19,
         "confirmed": 25,
-        "recovered": 4,
+        "recovered": 6,
         "dead": 0,
         "today": {
           "confirmed": 0,
-          "recovered": 0,
-          "active": 0,
+          "recovered": 2,
+          "active": -2,
           "dead": 0
         }
       },
@@ -491,12 +491,12 @@
         "district": "Namsai",
         "notes": "",
         "active": 42,
-        "confirmed": 58,
-        "recovered": 16,
+        "confirmed": 59,
+        "recovered": 17,
         "dead": 0,
         "today": {
-          "confirmed": 0,
-          "recovered": 0,
+          "confirmed": 1,
+          "recovered": 1,
           "active": 0,
           "dead": 0
         }
@@ -518,14 +518,14 @@
       {
         "district": "Papum Pare",
         "notes": "",
-        "active": 423,
-        "confirmed": 586,
-        "recovered": 162,
+        "active": 431,
+        "confirmed": 639,
+        "recovered": 207,
         "dead": 1,
         "today": {
-          "confirmed": 0,
-          "recovered": 0,
-          "active": 0,
+          "confirmed": 53,
+          "recovered": 45,
+          "active": 8,
           "dead": 0
         }
       },
@@ -574,14 +574,14 @@
       {
         "district": "Tirap",
         "notes": "",
-        "active": 13,
-        "confirmed": 19,
+        "active": 18,
+        "confirmed": 24,
         "recovered": 6,
         "dead": 0,
         "today": {
-          "confirmed": 0,
+          "confirmed": 5,
           "recovered": 0,
-          "active": 0,
+          "active": 5,
           "dead": 0
         }
       },
@@ -630,14 +630,14 @@
       {
         "district": "West Kameng",
         "notes": "",
-        "active": 3,
-        "confirmed": 32,
+        "active": 4,
+        "confirmed": 33,
         "recovered": 27,
         "dead": 2,
         "today": {
-          "confirmed": 0,
+          "confirmed": 1,
           "recovered": 0,
-          "active": 0,
+          "active": 1,
           "dead": 0
         }
       },
@@ -657,15 +657,15 @@
       }
     ],
     "today": {
-      "confirmed": 0,
-      "active": 0,
-      "recovered": 0,
+      "confirmed": 65,
+      "active": 7,
+      "recovered": 58,
       "dead": 0
     },
-    "confirmed": 991,
-    "recovered": 334,
+    "confirmed": 1056,
+    "recovered": 392,
     "dead": 3,
-    "active": 654
+    "active": 661
   },
   "AS": {
     "state": "Assam",
@@ -5474,14 +5474,14 @@
       {
         "district": "East Khasi Hills",
         "notes": "",
-        "active": 394,
-        "confirmed": 447,
+        "active": 416,
+        "confirmed": 469,
         "recovered": 49,
         "dead": 4,
         "today": {
-          "confirmed": 22,
+          "confirmed": 44,
           "recovered": 3,
-          "active": 19,
+          "active": 41,
           "dead": 0
         }
       },
@@ -5572,14 +5572,14 @@
       {
         "district": "West Jaintia Hills",
         "notes": "",
-        "active": 5,
-        "confirmed": 10,
+        "active": 8,
+        "confirmed": 13,
         "recovered": 5,
         "dead": 0,
         "today": {
-          "confirmed": 0,
+          "confirmed": 3,
           "recovered": 0,
-          "active": 0,
+          "active": 3,
           "dead": 0
         }
       },
@@ -5599,8 +5599,8 @@
       }
     ],
     "today": {
-      "confirmed": 24,
-      "active": 19,
+      "confirmed": 49,
+      "active": 44,
       "recovered": 5,
       "dead": 0
     },
