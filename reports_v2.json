@@ -1,9 +1,9 @@
 {
-  "confirmed": 1384259,
-  "recovered": 884826,
+  "confirmed": 1385494,
+  "recovered": 886235,
   "dead": 32096,
-  "active": 466917,
-  "updatedTime": "25/07/2020 23:23:25",
+  "active": 466743,
+  "updatedTime": "25/07/2020 23:55:04",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -295,26 +295,26 @@
     },
     "AS": {
       "name": "Assam",
-      "confirmed": 29922,
-      "active": 8080,
-      "recovered": 21762,
+      "confirmed": 31087,
+      "active": 7951,
+      "recovered": 23056,
       "dead": 77,
-      "updatedTime": "25/07/2020 19:27:23",
+      "updatedTime": "25/07/2020 23:51:53",
       "note": "Includes one case from Nagaland.\nTotal of 3 patients who migrated to other states has been reduced from Active count",
       "stateCode": "AS",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 1165,
+        "recovered": 1294,
         "dead": 1,
-        "active": -1
+        "active": -130
       },
       "testing_data": {
-        "tested": 739465,
-        "positive": 29921,
+        "tested": 753939,
+        "positive": 31086,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "24/07/2020",
-        "source": "https://twitter.com/nhm_assam/status/1286723522773975040?s=20"
+        "date": "25/07/2020",
+        "source": "https://twitter.com/nhm_assam/status/1287088618352324610?s=20"
       }
     },
     "MP": {
@@ -443,7 +443,7 @@
       "active": 4237,
       "recovered": 3521,
       "dead": 83,
-      "updatedTime": "25/07/2020 23:23:27",
+      "updatedTime": "25/07/2020 23:26:29",
       "note": "",
       "stateCode": "JH",
       "today": {
@@ -536,25 +536,25 @@
     "TR": {
       "name": "Tripura",
       "confirmed": 3882,
-      "active": 1722,
-      "recovered": 2131,
+      "active": 1643,
+      "recovered": 2210,
       "dead": 11,
-      "updatedTime": "25/07/2020 23:16:28",
+      "updatedTime": "25/07/2020 23:55:10",
       "note": "18 cases are marked as migrated in Tripura dashboard.",
       "stateCode": "TR",
       "today": {
         "confirmed": 105,
-        "recovered": 0,
+        "recovered": 79,
         "dead": 0,
-        "active": 105
+        "active": 26
       },
       "testing_data": {
-        "tested": 131485,
-        "positive": 3777,
-        "negative": 127708,
+        "tested": 135436,
+        "positive": 3882,
+        "negative": 131554,
         "unconfirmed": 0,
-        "date": "24/07/2020",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/1359"
+        "date": "25/07/2020",
+        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/1371"
       }
     },
     "PY": {
@@ -679,26 +679,26 @@
     },
     "AR": {
       "name": "Arunachal Pradesh",
-      "confirmed": 1056,
-      "active": 661,
-      "recovered": 392,
+      "confirmed": 1126,
+      "active": 695,
+      "recovered": 428,
       "dead": 3,
-      "updatedTime": "24/07/2020 22:40:25",
+      "updatedTime": "25/07/2020 23:51:56",
       "note": "[July 25]: All numbers corresponding to Papum Pare and Captial Complex are tracked under Papum Pare district.",
       "stateCode": "AR",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 70,
+        "recovered": 36,
         "dead": 0,
-        "active": 0
+        "active": 34
       },
       "testing_data": {
-        "tested": 53335,
-        "positive": 1056,
-        "negative": 51033,
-        "unconfirmed": 935,
-        "date": "24/07/2020",
-        "source": "https://twitter.com/DirectorateofHS/status/1286707445721477125?s=20"
+        "tested": 57861,
+        "positive": 1126,
+        "negative": 55574,
+        "unconfirmed": 847,
+        "date": "25/07/2020",
+        "source": "https://twitter.com/DirectorateofHS/status/1287087060302442496?s=20"
       }
     },
     "CH": {
@@ -880,19 +880,19 @@
     }
   },
   "testing_data": {
-    "tested": 18698953,
-    "positive": 1384064,
-    "negative": 7406252,
-    "unconfirmed": 29406
+    "tested": 18721904,
+    "positive": 1385404,
+    "negative": 7414639,
+    "unconfirmed": 29318
   },
   "testing_data_imcr": {
     "tested": 15849068,
     "source": "https://twitter.com/ICMRDELHI/status/1286867899387281408"
   },
   "today": {
-    "confirmed": 47244,
-    "recovered": 34718,
+    "confirmed": 48479,
+    "recovered": 36127,
     "dead": 692,
-    "active": 11834
+    "active": 11660
   }
 }
