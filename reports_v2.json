@@ -1,9 +1,9 @@
 {
-  "confirmed": 1435213,
-  "recovered": 917234,
-  "dead": 32809,
-  "active": 484750,
-  "updatedTime": "26/07/2020 22:12:27",
+  "confirmed": 1435711,
+  "recovered": 917626,
+  "dead": 32810,
+  "active": 484854,
+  "updatedTime": "26/07/2020 22:37:28",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -392,10 +392,10 @@
     "KL": {
       "name": "Kerala",
       "confirmed": 19026,
-      "active": 9656,
+      "active": 9655,
       "recovered": 9300,
       "dead": 62,
-      "updatedTime": "26/07/2020 18:26:32",
+      "updatedTime": "26/07/2020 22:26:30",
       "note": "Mahe native who expired in Kannur included in Kerala's tally.\nOne patient who absconded from Palakkad to TN and one patient who returned back to Maharashtra has been reduced from active count",
       "stateCode": "KL",
       "today": {
@@ -439,26 +439,26 @@
     },
     "JH": {
       "name": "Jharkhand",
-      "confirmed": 7892,
-      "active": 4288,
-      "recovered": 3521,
+      "confirmed": 8349,
+      "active": 4562,
+      "recovered": 3704,
       "dead": 83,
-      "updatedTime": "26/07/2020 13:51:27",
+      "updatedTime": "26/07/2020 22:26:33",
       "note": "",
       "stateCode": "JH",
       "today": {
-        "confirmed": 51,
-        "recovered": 0,
+        "confirmed": 508,
+        "recovered": 183,
         "dead": 0,
-        "active": 51
+        "active": 325
       },
       "testing_data": {
-        "tested": 253411,
-        "positive": 7841,
-        "negative": 245570,
+        "tested": 259096,
+        "positive": 8349,
+        "negative": 250747,
         "unconfirmed": 0,
-        "date": "25/07/2020",
-        "source": "https://twitter.com/FOBGumla/status/1287084054831960064?s=20"
+        "date": "26/07/2020",
+        "source": ""
       }
     },
     "CT": {
@@ -536,17 +536,17 @@
     "TR": {
       "name": "Tripura",
       "confirmed": 3919,
-      "active": 1678,
-      "recovered": 2210,
+      "active": 1552,
+      "recovered": 2336,
       "dead": 13,
-      "updatedTime": "26/07/2020 22:06:33",
+      "updatedTime": "26/07/2020 22:26:35",
       "note": "18 cases are marked as migrated in Tripura dashboard.",
       "stateCode": "TR",
       "today": {
         "confirmed": 37,
-        "recovered": 0,
+        "recovered": 126,
         "dead": 2,
-        "active": 35
+        "active": -91
       },
       "testing_data": {
         "tested": 135436,
@@ -611,7 +611,7 @@
       "active": 950,
       "recovered": 1198,
       "dead": 13,
-      "updatedTime": "26/07/2020 22:12:29",
+      "updatedTime": "26/07/2020 22:16:28",
       "note": "HP has 16 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed",
       "stateCode": "HP",
       "today": {
@@ -623,26 +623,26 @@
       "testing_data": {
         "tested": 132703,
         "positive": 2176,
-        "negative": 0,
-        "unconfirmed": 0,
+        "negative": 129501,
+        "unconfirmed": 1026,
         "date": "26/07/2020",
-        "source": ""
+        "source": "https://twitter.com/nhm_hp/status/1287426582978543616?s=20"
       }
     },
     "LA": {
       "name": "Ladakh",
-      "confirmed": 1276,
-      "active": 216,
-      "recovered": 1057,
-      "dead": 3,
-      "updatedTime": "25/07/2020 21:50:25",
+      "confirmed": 1285,
+      "active": 218,
+      "recovered": 1063,
+      "dead": 4,
+      "updatedTime": "26/07/2020 22:26:38",
       "note": "",
       "stateCode": "LA",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 9,
+        "recovered": 6,
+        "dead": 1,
+        "active": 2
       },
       "testing_data": {
         "tested": 17626,
@@ -679,18 +679,18 @@
     },
     "AR": {
       "name": "Arunachal Pradesh",
-      "confirmed": 1126,
-      "active": 695,
-      "recovered": 428,
+      "confirmed": 1158,
+      "active": 650,
+      "recovered": 505,
       "dead": 3,
-      "updatedTime": "25/07/2020 23:51:56",
+      "updatedTime": "26/07/2020 22:36:31",
       "note": "[July 25]: All numbers corresponding to Papum Pare and Captial Complex are tracked under Papum Pare district.",
       "stateCode": "AR",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 32,
+        "recovered": 77,
         "dead": 0,
-        "active": 0
+        "active": -45
       },
       "testing_data": {
         "tested": 57861,
@@ -880,19 +880,19 @@
     }
   },
   "testing_data": {
-    "tested": 19184308,
-    "positive": 1438895,
-    "negative": 6815666,
-    "unconfirmed": 25526
+    "tested": 19189993,
+    "positive": 1439403,
+    "negative": 6950344,
+    "unconfirmed": 26552
   },
   "testing_data_imcr": {
     "tested": 16291331,
     "source": "https://twitter.com/ICMRDELHI/status/1287231590263734273"
   },
   "today": {
-    "confirmed": 48126,
-    "recovered": 30001,
-    "dead": 701,
-    "active": 17424
+    "confirmed": 48624,
+    "recovered": 30393,
+    "dead": 702,
+    "active": 17529
   }
 }
