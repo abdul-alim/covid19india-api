@@ -1,9 +1,9 @@
 {
   "confirmed": 1436018,
-  "recovered": 918708,
+  "recovered": 918734,
   "dead": 32810,
-  "active": 484079,
-  "updatedTime": "26/07/2020 23:40:27",
+  "active": 484053,
+  "updatedTime": "27/07/2020 00:03:27",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -536,25 +536,25 @@
     "TR": {
       "name": "Tripura",
       "confirmed": 3919,
-      "active": 1552,
-      "recovered": 2336,
+      "active": 1526,
+      "recovered": 2362,
       "dead": 13,
-      "updatedTime": "26/07/2020 22:26:35",
+      "updatedTime": "27/07/2020 00:03:30",
       "note": "18 cases are marked as migrated in Tripura dashboard.",
       "stateCode": "TR",
       "today": {
         "confirmed": 37,
-        "recovered": 126,
+        "recovered": 152,
         "dead": 2,
-        "active": -91
+        "active": -117
       },
       "testing_data": {
         "tested": 138100,
         "positive": 3919,
-        "negative": 0,
+        "negative": 134181,
         "unconfirmed": 0,
         "date": "26/07/2020",
-        "source": ""
+        "source": "https://covid19.tripura.gov.in/Visitor/ViewStatus.aspx"
       }
     },
     "PY": {
@@ -882,7 +882,7 @@
   "testing_data": {
     "tested": 19223211,
     "positive": 1441285,
-    "negative": 6820972,
+    "negative": 6955153,
     "unconfirmed": 26245
   },
   "testing_data_imcr": {
@@ -891,8 +891,8 @@
   },
   "today": {
     "confirmed": 48931,
-    "recovered": 31475,
+    "recovered": 31501,
     "dead": 702,
-    "active": 16754
+    "active": 16728
   }
 }
