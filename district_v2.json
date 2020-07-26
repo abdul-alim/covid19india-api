@@ -8310,21 +8310,21 @@
       {
         "district": "Udaipur",
         "notes": "",
-        "active": 175,
-        "confirmed": 1110,
+        "active": 185,
+        "confirmed": 1120,
         "recovered": 923,
         "dead": 12,
         "today": {
-          "confirmed": 23,
+          "confirmed": 33,
           "recovered": 0,
-          "active": 23,
+          "active": 33,
           "dead": 0
         }
       }
     ],
     "today": {
-      "confirmed": 1122,
-      "active": 463,
+      "confirmed": 1132,
+      "active": 473,
       "recovered": 648,
       "dead": 11
     },
@@ -8339,15 +8339,15 @@
       {
         "district": "East Sikkim",
         "notes": "13 migrated cases have been reduced from active count",
-        "active": 285,
+        "active": 284,
         "confirmed": 359,
         "recovered": 74,
-        "dead": 0,
+        "dead": 1,
         "today": {
           "confirmed": 0,
           "recovered": 0,
-          "active": 0,
-          "dead": 0
+          "active": -1,
+          "dead": 1
         }
       },
       {
@@ -8395,14 +8395,14 @@
     ],
     "today": {
       "confirmed": 0,
-      "active": 0,
+      "active": -1,
       "recovered": 0,
-      "dead": 0
+      "dead": 1
     },
-    "confirmed": 512,
-    "recovered": 142,
-    "dead": 0,
-    "active": 357
+    "confirmed": 557,
+    "recovered": 146,
+    "dead": 1,
+    "active": 397
   },
   "TG": {
     "state": "Telangana",
