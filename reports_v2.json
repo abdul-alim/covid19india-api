@@ -1,9 +1,9 @@
 {
-  "confirmed": 1482158,
-  "recovered": 951665,
+  "confirmed": 1482386,
+  "recovered": 953096,
   "dead": 33448,
-  "active": 496622,
-  "updatedTime": "27/07/2020 22:28:24",
+  "active": 495419,
+  "updatedTime": "27/07/2020 23:06:26",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -296,17 +296,17 @@
     "AS": {
       "name": "Assam",
       "confirmed": 33577,
-      "active": 9447,
-      "recovered": 24041,
+      "active": 8085,
+      "recovered": 25403,
       "dead": 86,
-      "updatedTime": "27/07/2020 22:28:25",
+      "updatedTime": "27/07/2020 23:06:28",
       "note": "Includes one case from Nagaland.\nTotal of 3 patients who migrated to other states has been reduced from Active count",
       "stateCode": "AS",
       "today": {
         "confirmed": 1348,
-        "recovered": 0,
+        "recovered": 1362,
         "dead": 7,
-        "active": 1341
+        "active": -21
       },
       "testing_data": {
         "tested": 774484,
@@ -535,18 +535,18 @@
     },
     "TR": {
       "name": "Tripura",
-      "confirmed": 3919,
-      "active": 1526,
+      "confirmed": 4066,
+      "active": 1673,
       "recovered": 2362,
       "dead": 13,
-      "updatedTime": "27/07/2020 00:06:32",
+      "updatedTime": "27/07/2020 23:05:26",
       "note": "18 cases are marked as migrated in Tripura dashboard.",
       "stateCode": "TR",
       "today": {
-        "confirmed": 0,
+        "confirmed": 147,
         "recovered": 0,
         "dead": 0,
-        "active": 0
+        "active": 147
       },
       "testing_data": {
         "tested": 138100,
@@ -679,26 +679,26 @@
     },
     "AR": {
       "name": "Arunachal Pradesh",
-      "confirmed": 1158,
-      "active": 650,
-      "recovered": 505,
+      "confirmed": 1239,
+      "active": 662,
+      "recovered": 574,
       "dead": 3,
-      "updatedTime": "26/07/2020 22:40:39",
+      "updatedTime": "27/07/2020 23:05:28",
       "note": "[July 25]: All numbers corresponding to Papum Pare and Captial Complex are tracked under Papum Pare district.",
       "stateCode": "AR",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 81,
+        "recovered": 69,
         "dead": 0,
-        "active": 0
+        "active": 12
       },
       "testing_data": {
-        "tested": 59558,
-        "positive": 1158,
-        "negative": 57541,
-        "unconfirmed": 540,
-        "date": "26/07/2020",
-        "source": "https://twitter.com/DirectorateofHS/status/1287431868774674432?s=20"
+        "tested": 63784,
+        "positive": 1239,
+        "negative": 61629,
+        "unconfirmed": 593,
+        "date": "27/07/2020",
+        "source": "https://twitter.com/DirectorateofHS/status/1287801040071356416?s=20"
       }
     },
     "CH": {
@@ -880,19 +880,19 @@
     }
   },
   "testing_data": {
-    "tested": 19690721,
-    "positive": 1486875,
-    "negative": 7724743,
-    "unconfirmed": 23982
+    "tested": 19694947,
+    "positive": 1486956,
+    "negative": 7728831,
+    "unconfirmed": 24035
   },
   "testing_data_imcr": {
     "tested": 16806803,
     "source": "http://twitter.com/ICMRDELHI/status/1287592304845320192"
   },
   "today": {
-    "confirmed": 46139,
-    "recovered": 32920,
+    "confirmed": 46367,
+    "recovered": 34351,
     "dead": 636,
-    "active": 12583
+    "active": 11380
   }
 }
