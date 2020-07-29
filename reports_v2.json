@@ -1,9 +1,9 @@
 {
-  "confirmed": 1535335,
-  "recovered": 989878,
+  "confirmed": 1535463,
+  "recovered": 989918,
   "dead": 34252,
-  "active": 510781,
-  "updatedTime": "29/07/2020 12:01:27",
+  "active": 510869,
+  "updatedTime": "29/07/2020 15:13:26",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -439,18 +439,18 @@
     },
     "JH": {
       "name": "Jharkhand",
-      "confirmed": 9563,
-      "active": 5485,
+      "confirmed": 9668,
+      "active": 5590,
       "recovered": 3984,
       "dead": 94,
-      "updatedTime": "28/07/2020 22:18:32",
+      "updatedTime": "29/07/2020 15:13:28",
       "note": "",
       "stateCode": "JH",
       "today": {
-        "confirmed": 0,
+        "confirmed": 105,
         "recovered": 0,
         "dead": 0,
-        "active": 0
+        "active": 105
       },
       "testing_data": {
         "tested": 272713,
@@ -607,18 +607,18 @@
     },
     "HP": {
       "name": "Himachal Pradesh",
-      "confirmed": 2330,
-      "active": 1068,
-      "recovered": 1234,
+      "confirmed": 2334,
+      "active": 1044,
+      "recovered": 1262,
       "dead": 13,
-      "updatedTime": "28/07/2020 22:28:33",
+      "updatedTime": "29/07/2020 15:13:29",
       "note": "HP has 16 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed",
       "stateCode": "HP",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 4,
+        "recovered": 28,
         "dead": 0,
-        "active": 0
+        "active": -24
       },
       "testing_data": {
         "tested": 137251,
@@ -727,18 +727,18 @@
     },
     "DN": {
       "name": "Dadra and Nagar Haveli and Daman and Diu",
-      "confirmed": 1030,
-      "active": 369,
-      "recovered": 648,
+      "confirmed": 1049,
+      "active": 376,
+      "recovered": 660,
       "dead": 2,
-      "updatedTime": "28/07/2020 23:59:32",
+      "updatedTime": "29/07/2020 15:13:31",
       "note": "11 Migrated cases reduced from Active count",
       "stateCode": "DN",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 19,
+        "recovered": 12,
         "dead": 0,
-        "active": 0
+        "active": 7
       },
       "isUnknown": true
     },
@@ -830,12 +830,12 @@
         "active": 27
       },
       "testing_data": {
-        "tested": 22548,
-        "positive": 338,
+        "tested": 22925,
+        "positive": 363,
         "negative": 0,
-        "unconfirmed": 411,
-        "date": "27/07/2020",
-        "source": "https://dhs.andaman.gov.in/NewEvents/343.pdf"
+        "unconfirmed": 378,
+        "date": "28/07/2020",
+        "source": "https://dhs.andaman.gov.in/NewEvents/345.pdf"
       }
     },
     "UN": {
@@ -880,19 +880,19 @@
     }
   },
   "testing_data": {
-    "tested": 20324038,
-    "positive": 1550193,
+    "tested": 20324415,
+    "positive": 1550218,
     "negative": 8106796,
-    "unconfirmed": 32850
+    "unconfirmed": 32817
   },
   "testing_data_imcr": {
     "tested": 17743740,
     "source": "http://twitter.com/ICMRDELHI/status/1288314973576245249"
   },
   "today": {
-    "confirmed": 3201,
-    "recovered": 1096,
+    "confirmed": 3329,
+    "recovered": 1136,
     "dead": 24,
-    "active": 2081
+    "active": 2169
   }
 }
