@@ -1,9 +1,9 @@
 {
-  "confirmed": 1557382,
-  "recovered": 998131,
-  "dead": 34459,
-  "active": 524368,
-  "updatedTime": "29/07/2020 18:13:35",
+  "confirmed": 1558447,
+  "recovered": 999318,
+  "dead": 34485,
+  "active": 524220,
+  "updatedTime": "29/07/2020 18:24:28",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -55,18 +55,18 @@
     },
     "DL": {
       "name": "Delhi",
-      "confirmed": 132275,
-      "active": 10887,
-      "recovered": 117507,
-      "dead": 3881,
-      "updatedTime": "28/07/2020 18:18:30",
+      "confirmed": 133310,
+      "active": 10770,
+      "recovered": 118633,
+      "dead": 3907,
+      "updatedTime": "29/07/2020 18:24:32",
       "note": "[July 14]: Value for the total tests conducted has been reduced by 97008 in the state bulletin. Reason given : \"Reconciled with ICMR figures\". We have made the same change.\n[June 16]: 344 deceased cases have been retroactively added to DL bulletin.",
       "stateCode": "DL",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 1035,
+        "recovered": 1126,
+        "dead": 26,
+        "active": -117
       },
       "testing_data": {
         "tested": 976827,
@@ -83,7 +83,7 @@
       "active": 67447,
       "recovered": 42901,
       "dead": 2147,
-      "updatedTime": "29/07/2020 18:13:37",
+      "updatedTime": "29/07/2020 18:24:33",
       "note": "9 cases are classified as non-covid related deaths in KA bulletin. They have been reduced from active cases",
       "stateCode": "KA",
       "today": {
@@ -107,7 +107,7 @@
       "active": 63771,
       "recovered": 55406,
       "dead": 1213,
-      "updatedTime": "29/07/2020 18:13:39",
+      "updatedTime": "29/07/2020 18:24:35",
       "note": "Total includes patients from other states and a new category \"Foreign Evacuees\" which is now reported in AP bulletin.",
       "stateCode": "AP",
       "today": {
@@ -371,7 +371,7 @@
       "active": 7749,
       "recovered": 11322,
       "dead": 348,
-      "updatedTime": "29/07/2020 18:13:41",
+      "updatedTime": "29/07/2020 18:23:37",
       "note": "",
       "stateCode": "JK",
       "today": {
@@ -607,18 +607,18 @@
     },
     "HP": {
       "name": "Himachal Pradesh",
-      "confirmed": 2334,
-      "active": 1044,
-      "recovered": 1262,
+      "confirmed": 2364,
+      "active": 1013,
+      "recovered": 1323,
       "dead": 13,
-      "updatedTime": "29/07/2020 15:21:50",
+      "updatedTime": "29/07/2020 18:23:39",
       "note": "HP has 16 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed",
       "stateCode": "HP",
       "today": {
-        "confirmed": 4,
-        "recovered": 28,
+        "confirmed": 34,
+        "recovered": 89,
         "dead": 0,
-        "active": -24
+        "active": -55
       },
       "testing_data": {
         "tested": 137251,
@@ -890,9 +890,9 @@
     "source": "http://twitter.com/ICMRDELHI/status/1288314973576245249"
   },
   "today": {
-    "confirmed": 25248,
-    "recovered": 9349,
-    "dead": 231,
-    "active": 15668
+    "confirmed": 26313,
+    "recovered": 10536,
+    "dead": 257,
+    "active": 15520
   }
 }
