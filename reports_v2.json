@@ -1,9 +1,9 @@
 {
   "confirmed": 1577528,
-  "recovered": 1015082,
+  "recovered": 1015960,
   "dead": 34899,
-  "active": 527119,
-  "updatedTime": "29/07/2020 20:25:30",
+  "active": 526241,
+  "updatedTime": "29/07/2020 20:48:29",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -11,7 +11,7 @@
       "active": 146129,
       "recovered": 239755,
       "dead": 14463,
-      "updatedTime": "29/07/2020 20:25:32",
+      "updatedTime": "29/07/2020 20:39:33",
       "note": "304 cases are marked as non-covid deaths in MH bulletin. These have been reduced from active count\n[June 16] : 1328 deceased cases have been retroactively added to MH bulletin.\n[June 20]: 69 deceased cases have been reduced based on state bulletin.\n",
       "stateCode": "MH",
       "today": {
@@ -344,17 +344,17 @@
     "OR": {
       "name": "Odisha",
       "confirmed": 29175,
-      "active": 10919,
-      "recovered": 18061,
+      "active": 10041,
+      "recovered": 18939,
       "dead": 195,
-      "updatedTime": "29/07/2020 11:18:28",
+      "updatedTime": "29/07/2020 20:48:32",
       "note": "[July 12th] 20 non-covid deaths reported in state dashboard are included in the deceased count\n[June 22nd]: NDRF/ODRF cases have been redistributed to districts based on state dashboard",
       "stateCode": "OR",
       "today": {
         "confirmed": 1068,
-        "recovered": 0,
+        "recovered": 878,
         "dead": 6,
-        "active": 1062
+        "active": 184
       },
       "testing_data": {
         "tested": 476560,
@@ -491,7 +491,7 @@
       "active": 2945,
       "recovered": 3811,
       "dead": 72,
-      "updatedTime": "29/07/2020 20:25:35",
+      "updatedTime": "29/07/2020 20:39:36",
       "note": "38 Migrated cases reduced from Active count",
       "stateCode": "UT",
       "today": {
@@ -635,7 +635,7 @@
       "active": 261,
       "recovered": 1080,
       "dead": 6,
-      "updatedTime": "29/07/2020 20:25:38",
+      "updatedTime": "29/07/2020 20:39:39",
       "note": "",
       "stateCode": "LA",
       "today": {
@@ -717,12 +717,12 @@
         "active": 32
       },
       "testing_data": {
-        "tested": 13069,
-        "positive": 934,
-        "negative": 12076,
-        "unconfirmed": 56,
-        "date": "28/07/2020",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/1419"
+        "tested": 13327,
+        "positive": 978,
+        "negative": 12284,
+        "unconfirmed": 62,
+        "date": "29/07/2020",
+        "source": "http://chdcovid19.in/"
       }
     },
     "DN": {
@@ -772,7 +772,7 @@
       "active": 397,
       "recovered": 198,
       "dead": 1,
-      "updatedTime": "29/07/2020 20:25:40",
+      "updatedTime": "29/07/2020 20:39:42",
       "note": "13 Migrated cases reduced from Active count",
       "stateCode": "SK",
       "today": {
@@ -880,10 +880,10 @@
     }
   },
   "testing_data": {
-    "tested": 20430185,
-    "positive": 1563674,
-    "negative": 8167287,
-    "unconfirmed": 32817
+    "tested": 20430443,
+    "positive": 1563718,
+    "negative": 8167495,
+    "unconfirmed": 32823
   },
   "testing_data_imcr": {
     "tested": 17743740,
@@ -891,8 +891,8 @@
   },
   "today": {
     "confirmed": 45394,
-    "recovered": 26300,
+    "recovered": 27178,
     "dead": 671,
-    "active": 18423
+    "active": 17545
   }
 }
