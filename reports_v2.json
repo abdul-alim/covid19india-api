@@ -1,9 +1,9 @@
 {
-  "confirmed": 1639092,
-  "recovered": 1057395,
+  "confirmed": 1639184,
+  "recovered": 1058659,
   "dead": 35786,
-  "active": 545488,
-  "updatedTime": "30/07/2020 22:17:34",
+  "active": 544316,
+  "updatedTime": "30/07/2020 22:41:32",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -296,25 +296,25 @@
     "AS": {
       "name": "Assam",
       "confirmed": 38408,
-      "active": 10478,
-      "recovered": 27833,
+      "active": 9230,
+      "recovered": 29081,
       "dead": 94,
-      "updatedTime": "30/07/2020 22:07:47",
+      "updatedTime": "30/07/2020 22:41:36",
       "note": "Includes one case from Nagaland.\nTotal of 3 patients who migrated to other states has been reduced from Active count",
       "stateCode": "AS",
       "today": {
         "confirmed": 2112,
-        "recovered": 0,
+        "recovered": 1248,
         "dead": 2,
-        "active": 2110
+        "active": 862
       },
       "testing_data": {
-        "tested": 838043,
-        "positive": 36295,
+        "tested": 879071,
+        "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "29/07/2020",
-        "source": "https://twitter.com/nhm_assam/status/1288545054466899968?s=20"
+        "date": "30/07/2020",
+        "source": "https://twitter.com/himantabiswa/status/1288868137387978752?s=20"
       }
     },
     "MP": {
@@ -607,26 +607,26 @@
     },
     "HP": {
       "name": "Himachal Pradesh",
-      "confirmed": 2414,
-      "active": 1013,
-      "recovered": 1371,
+      "confirmed": 2506,
+      "active": 1089,
+      "recovered": 1387,
       "dead": 13,
-      "updatedTime": "30/07/2020 13:31:35",
+      "updatedTime": "30/07/2020 22:41:38",
       "note": "HP has 18 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed",
       "stateCode": "HP",
       "today": {
-        "confirmed": 11,
-        "recovered": 39,
+        "confirmed": 103,
+        "recovered": 55,
         "dead": 0,
-        "active": -28
+        "active": 48
       },
       "testing_data": {
-        "tested": 139955,
-        "positive": 2403,
-        "negative": 136536,
-        "unconfirmed": 1016,
-        "date": "29/07/2020",
-        "source": "https://twitter.com/nhm_hp/status/1288509418099769344?s=20"
+        "tested": 142618,
+        "positive": 2506,
+        "negative": 138881,
+        "unconfirmed": 1231,
+        "date": "30/07/2020",
+        "source": "https://twitter.com/nhm_hp/status/1288874086576222209?s=20"
       }
     },
     "LA": {
@@ -880,19 +880,19 @@
     }
   },
   "testing_data": {
-    "tested": 21389276,
-    "positive": 1643864,
-    "negative": 8367603,
-    "unconfirmed": 27838
+    "tested": 21432967,
+    "positive": 1607672,
+    "negative": 8369948,
+    "unconfirmed": 28053
   },
   "testing_data_imcr": {
     "tested": 18190382,
     "source": "http://twitter.com/ICMRDELHI/status/1288670449858048002"
   },
   "today": {
-    "confirmed": 54492,
-    "recovered": 35727,
+    "confirmed": 54584,
+    "recovered": 36991,
     "dead": 783,
-    "active": 17982
+    "active": 16810
   }
 }
