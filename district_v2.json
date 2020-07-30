@@ -308,28 +308,28 @@
       {
         "district": "Anjaw",
         "notes": "",
-        "active": 4,
+        "active": 0,
         "confirmed": 4,
-        "recovered": 0,
+        "recovered": 4,
         "dead": 0,
         "today": {
           "confirmed": 0,
-          "recovered": 0,
-          "active": 0,
+          "recovered": 4,
+          "active": -4,
           "dead": 0
         }
       },
       {
         "district": "Changlang",
         "notes": "",
-        "active": 68,
+        "active": 65,
         "confirmed": 180,
-        "recovered": 112,
+        "recovered": 115,
         "dead": 0,
         "today": {
           "confirmed": 0,
-          "recovered": 0,
-          "active": 0,
+          "recovered": 3,
+          "active": -3,
           "dead": 0
         }
       },
@@ -350,14 +350,14 @@
       {
         "district": "East Siang",
         "notes": "",
-        "active": 26,
+        "active": 24,
         "confirmed": 56,
-        "recovered": 30,
+        "recovered": 32,
         "dead": 0,
         "today": {
           "confirmed": 0,
-          "recovered": 0,
-          "active": 0,
+          "recovered": 2,
+          "active": -2,
           "dead": 0
         }
       },
@@ -476,28 +476,28 @@
       {
         "district": "Lower Subansiri",
         "notes": "",
-        "active": 9,
+        "active": 1,
         "confirmed": 26,
-        "recovered": 17,
+        "recovered": 25,
         "dead": 0,
         "today": {
           "confirmed": 0,
-          "recovered": 0,
-          "active": 0,
+          "recovered": 8,
+          "active": -8,
           "dead": 0
         }
       },
       {
         "district": "Namsai",
         "notes": "",
-        "active": 44,
+        "active": 19,
         "confirmed": 67,
-        "recovered": 23,
+        "recovered": 48,
         "dead": 0,
         "today": {
           "confirmed": 0,
-          "recovered": 0,
-          "active": 0,
+          "recovered": 25,
+          "active": -25,
           "dead": 0
         }
       },
@@ -518,14 +518,14 @@
       {
         "district": "Papum Pare",
         "notes": "Cases from Capital Complex are included in Papum Pare district",
-        "active": 381,
+        "active": 296,
         "confirmed": 785,
-        "recovered": 403,
+        "recovered": 488,
         "dead": 1,
         "today": {
           "confirmed": 0,
-          "recovered": 0,
-          "active": 0,
+          "recovered": 85,
+          "active": -85,
           "dead": 0
         }
       },
@@ -546,28 +546,28 @@
       {
         "district": "Siang",
         "notes": "",
-        "active": 2,
+        "active": 1,
         "confirmed": 2,
-        "recovered": 0,
+        "recovered": 1,
         "dead": 0,
         "today": {
           "confirmed": 0,
-          "recovered": 0,
-          "active": 0,
+          "recovered": 1,
+          "active": -1,
           "dead": 0
         }
       },
       {
         "district": "Tawang",
         "notes": "",
-        "active": 32,
+        "active": 22,
         "confirmed": 33,
-        "recovered": 1,
+        "recovered": 11,
         "dead": 0,
         "today": {
           "confirmed": 0,
-          "recovered": 0,
-          "active": 0,
+          "recovered": 10,
+          "active": -10,
           "dead": 0
         }
       },
@@ -602,14 +602,14 @@
       {
         "district": "Upper Siang",
         "notes": "",
-        "active": 23,
+        "active": 16,
         "confirmed": 24,
-        "recovered": 1,
+        "recovered": 8,
         "dead": 0,
         "today": {
           "confirmed": 0,
-          "recovered": 0,
-          "active": 0,
+          "recovered": 7,
+          "active": -7,
           "dead": 0
         }
       },
@@ -630,42 +630,42 @@
       {
         "district": "West Kameng",
         "notes": "",
-        "active": 9,
+        "active": 7,
         "confirmed": 41,
-        "recovered": 30,
+        "recovered": 32,
         "dead": 2,
         "today": {
           "confirmed": 0,
-          "recovered": 0,
-          "active": 0,
+          "recovered": 2,
+          "active": -2,
           "dead": 0
         }
       },
       {
         "district": "West Siang",
         "notes": "",
-        "active": 30,
+        "active": 27,
         "confirmed": 32,
-        "recovered": 2,
+        "recovered": 5,
         "dead": 0,
         "today": {
           "confirmed": 0,
-          "recovered": 0,
-          "active": 0,
+          "recovered": 3,
+          "active": -3,
           "dead": 0
         }
       }
     ],
     "today": {
       "confirmed": 0,
-      "active": 0,
-      "recovered": 0,
+      "active": -150,
+      "recovered": 150,
       "dead": 0
     },
     "confirmed": 1410,
-    "recovered": 677,
+    "recovered": 827,
     "dead": 3,
-    "active": 730
+    "active": 580
   },
   "AS": {
     "state": "Assam",
@@ -9607,9 +9607,9 @@
       "dead": 0
     },
     "confirmed": 4503,
-    "recovered": 2678,
+    "recovered": 2962,
     "dead": 21,
-    "active": 1786
+    "active": 1502
   },
   "UP": {
     "state": "Uttar Pradesh",
