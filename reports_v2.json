@@ -1,9 +1,9 @@
 {
-  "confirmed": 1590883,
-  "recovered": 1024439,
-  "dead": 35066,
-  "active": 530960,
-  "updatedTime": "30/07/2020 18:14:27",
+  "confirmed": 1601070,
+  "recovered": 1029069,
+  "dead": 35134,
+  "active": 536449,
+  "updatedTime": "30/07/2020 18:37:30",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -103,26 +103,26 @@
     },
     "AP": {
       "name": "Andhra Pradesh",
-      "confirmed": 120390,
-      "active": 63771,
-      "recovered": 55406,
-      "dead": 1213,
-      "updatedTime": "29/07/2020 18:28:32",
+      "confirmed": 130557,
+      "active": 69252,
+      "recovered": 60024,
+      "dead": 1281,
+      "updatedTime": "30/07/2020 18:37:32",
       "note": "Total includes patients from other states and a new category \"Foreign Evacuees\" which is now reported in AP bulletin.",
       "stateCode": "AP",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 10167,
+        "recovered": 4618,
+        "dead": 68,
+        "active": 5481
       },
       "testing_data": {
-        "tested": 1820009,
-        "positive": 120390,
-        "negative": 1699619,
+        "tested": 1890077,
+        "positive": 130557,
+        "negative": 1759520,
         "unconfirmed": 0,
-        "date": "29/07/2020",
-        "source": "https://twitter.com/ArogyaAndhra/status/1288443618844270593?s=20"
+        "date": "30/07/2020",
+        "source": "https://twitter.com/ArogyaAndhra/status/1288818199895539713?s=20"
       }
     },
     "UP": {
@@ -371,7 +371,7 @@
       "active": 7662,
       "recovered": 11842,
       "dead": 365,
-      "updatedTime": "30/07/2020 18:13:29",
+      "updatedTime": "30/07/2020 18:27:30",
       "note": "",
       "stateCode": "JK",
       "today": {
@@ -381,12 +381,12 @@
         "active": -87
       },
       "testing_data": {
-        "tested": 615380,
-        "positive": 19419,
-        "negative": 595961,
+        "tested": 627387,
+        "positive": 19869,
+        "negative": 607518,
         "unconfirmed": 0,
-        "date": "29/07/2020",
-        "source": "https://twitter.com/diprjk/status/1288449593919672320?s=20"
+        "date": "30/07/2020",
+        "source": ""
       }
     },
     "KL": {
@@ -717,28 +717,28 @@
         "active": 2
       },
       "testing_data": {
-        "tested": 13327,
-        "positive": 978,
-        "negative": 12284,
-        "unconfirmed": 62,
-        "date": "29/07/2020",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/1434"
+        "tested": 13683,
+        "positive": 1016,
+        "negative": 12601,
+        "unconfirmed": 63,
+        "date": "30/07/2020",
+        "source": "https://twitter.com/DDnewschd/status/1288790893995073541?s=20"
       }
     },
     "DN": {
       "name": "Dadra and Nagar Haveli and Daman and Diu",
-      "confirmed": 1083,
-      "active": 398,
-      "recovered": 672,
+      "confirmed": 1103,
+      "active": 406,
+      "recovered": 684,
       "dead": 2,
-      "updatedTime": "30/07/2020 18:13:31",
+      "updatedTime": "30/07/2020 18:37:35",
       "note": "11 Migrated cases reduced from Active count",
       "stateCode": "DN",
       "today": {
-        "confirmed": 15,
-        "recovered": 5,
+        "confirmed": 35,
+        "recovered": 17,
         "dead": 0,
-        "active": 10
+        "active": 18
       },
       "isUnknown": true
     },
@@ -880,19 +880,19 @@
     }
   },
   "testing_data": {
-    "tested": 20857629,
-    "positive": 1593043,
-    "negative": 8141625,
-    "unconfirmed": 27633
+    "tested": 20940060,
+    "positive": 1603698,
+    "negative": 8213400,
+    "unconfirmed": 27634
   },
   "testing_data_imcr": {
     "tested": 18190382,
     "source": "http://twitter.com/ICMRDELHI/status/1288670449858048002"
   },
   "today": {
-    "confirmed": 6283,
-    "recovered": 2771,
-    "dead": 63,
-    "active": 3449
+    "confirmed": 16470,
+    "recovered": 7401,
+    "dead": 131,
+    "active": 8938
   }
 }
