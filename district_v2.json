@@ -5446,9 +5446,9 @@
       {
         "district": "East Garo Hills",
         "notes": "",
-        "active": 1,
+        "active": 0,
         "confirmed": 1,
-        "recovered": 0,
+        "recovered": 1,
         "dead": 0,
         "today": {
           "confirmed": 0,
@@ -5474,23 +5474,23 @@
       {
         "district": "East Khasi Hills",
         "notes": "",
-        "active": 479,
-        "confirmed": 614,
-        "recovered": 133,
+        "active": 478,
+        "confirmed": 615,
+        "recovered": 135,
         "dead": 2,
         "today": {
-          "confirmed": 0,
-          "recovered": 0,
-          "active": 0,
+          "confirmed": 1,
+          "recovered": 2,
+          "active": -1,
           "dead": 0
         }
       },
       {
         "district": "North Garo Hills",
         "notes": "",
-        "active": 1,
+        "active": 0,
         "confirmed": 2,
-        "recovered": 1,
+        "recovered": 2,
         "dead": 0,
         "today": {
           "confirmed": 0,
@@ -5502,9 +5502,9 @@
       {
         "district": "Ribhoi",
         "notes": "",
-        "active": 53,
+        "active": 44,
         "confirmed": 89,
-        "recovered": 33,
+        "recovered": 42,
         "dead": 3,
         "today": {
           "confirmed": 0,
@@ -5572,14 +5572,14 @@
       {
         "district": "West Jaintia Hills",
         "notes": "",
-        "active": 13,
-        "confirmed": 18,
+        "active": 14,
+        "confirmed": 19,
         "recovered": 5,
         "dead": 0,
         "today": {
-          "confirmed": 0,
+          "confirmed": 1,
           "recovered": 0,
-          "active": 0,
+          "active": 1,
           "dead": 0
         }
       },
@@ -5599,13 +5599,13 @@
       }
     ],
     "today": {
-      "confirmed": 0,
+      "confirmed": 2,
       "active": 0,
-      "recovered": 0,
+      "recovered": 2,
       "dead": 0
     },
-    "confirmed": 784,
-    "recovered": 207,
+    "confirmed": 786,
+    "recovered": 209,
     "dead": 5,
     "active": 572
   },
