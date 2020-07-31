@@ -1,9 +1,9 @@
 {
-  "confirmed": 1690590,
-  "recovered": 1091047,
+  "confirmed": 1690598,
+  "recovered": 1091089,
   "dead": 36497,
-  "active": 562620,
-  "updatedTime": "31/07/2020 21:37:36",
+  "active": 562586,
+  "updatedTime": "31/07/2020 21:48:34",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -237,12 +237,12 @@
         "active": 281
       },
       "testing_data": {
-        "tested": 1500693,
-        "positive": 40936,
-        "negative": 1455427,
-        "unconfirmed": 4330,
-        "date": "30/07/2020",
-        "source": "https://twitter.com/airnews_jaipur/status/1288896544310276103?s=20"
+        "tested": 1526962,
+        "positive": 42083,
+        "negative": 1481949,
+        "unconfirmed": 2930,
+        "date": "31/07/2020",
+        "source": "https://twitter.com/ANI/status/1289230408794533891?s=20"
       }
     },
     "BR": {
@@ -607,18 +607,18 @@
     },
     "HP": {
       "name": "Himachal Pradesh",
-      "confirmed": 2556,
-      "active": 1109,
-      "recovered": 1417,
+      "confirmed": 2564,
+      "active": 1075,
+      "recovered": 1459,
       "dead": 13,
-      "updatedTime": "31/07/2020 21:37:39",
+      "updatedTime": "31/07/2020 21:48:41",
       "note": "HP has 18 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed",
       "stateCode": "HP",
       "today": {
-        "confirmed": 50,
-        "recovered": 30,
+        "confirmed": 58,
+        "recovered": 72,
         "dead": 0,
-        "active": 20
+        "active": -14
       },
       "testing_data": {
         "tested": 145154,
@@ -626,7 +626,7 @@
         "negative": 141682,
         "unconfirmed": 908,
         "date": "31/07/2020",
-        "source": ""
+        "source": "https://twitter.com/nhm_hp/status/1289229557870940164?s=20"
       }
     },
     "LA": {
@@ -880,19 +880,19 @@
     }
   },
   "testing_data": {
-    "tested": 21998793,
-    "positive": 1477933,
-    "negative": 8557656,
-    "unconfirmed": 30259
+    "tested": 22025062,
+    "positive": 1479080,
+    "negative": 8584178,
+    "unconfirmed": 28859
   },
   "testing_data_imcr": {
     "tested": 18832970,
     "source": "http://twitter.com/ICMRDELHI/status/1289043276205457410"
   },
   "today": {
-    "confirmed": 51022,
-    "recovered": 31954,
+    "confirmed": 51030,
+    "recovered": 31996,
     "dead": 710,
-    "active": 18358
+    "active": 18324
   }
 }
