@@ -1,9 +1,9 @@
 {
-  "confirmed": 1663383,
-  "recovered": 1069663,
-  "dead": 35982,
-  "active": 557315,
-  "updatedTime": "31/07/2020 18:37:30",
+  "confirmed": 1669264,
+  "recovered": 1075441,
+  "dead": 36076,
+  "active": 557324,
+  "updatedTime": "31/07/2020 18:46:30",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -31,18 +31,18 @@
     },
     "TN": {
       "name": "Tamil Nadu",
-      "confirmed": 239978,
-      "active": 57959,
-      "recovered": 178178,
-      "dead": 3841,
-      "updatedTime": "30/07/2020 19:30:32",
+      "confirmed": 245859,
+      "active": 57968,
+      "recovered": 183956,
+      "dead": 3935,
+      "updatedTime": "31/07/2020 18:46:32",
       "note": "[July 22]: 444 backdated deceased entries added to Chennai in TN bulletin.\n2 deaths cross notified to other states from Chennai and Coimbatore.\n1 patient died after turning negative for infection in Chengalpattu.\nThese cases have been added to TN deceased tally",
       "stateCode": "TN",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 5881,
+        "recovered": 5778,
+        "dead": 94,
+        "active": 9
       },
       "testing_data": {
         "tested": 2597862,
@@ -93,12 +93,12 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 1313856,
-        "positive": 118632,
+        "tested": 1350792,
+        "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "30/07/2020",
-        "source": "https://drive.google.com/file/d/1ZbiWJ9ZrWmpc_bR7rC1Ng9rlIgU64iMK/view"
+        "date": "31/07/2020",
+        "source": ""
       }
     },
     "AP": {
@@ -405,12 +405,12 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 753485,
-        "positive": 22304,
+        "tested": 776268,
+        "positive": 23614,
         "negative": 0,
-        "unconfirmed": 5529,
-        "date": "30/07/2020",
-        "source": "https://dhs.kerala.gov.in/wp-content/uploads/2020/07/Bulletin-HFWD-English-July-30.pdf"
+        "unconfirmed": 0,
+        "date": "31/07/2020",
+        "source": ""
       }
     },
     "PB": {
@@ -563,7 +563,7 @@
       "active": 1323,
       "recovered": 2100,
       "dead": 49,
-      "updatedTime": "31/07/2020 18:37:32",
+      "updatedTime": "31/07/2020 18:42:32",
       "note": "",
       "stateCode": "PY",
       "today": {
@@ -717,12 +717,12 @@
         "active": 14
       },
       "testing_data": {
-        "tested": 13683,
-        "positive": 1016,
-        "negative": 12601,
-        "unconfirmed": 63,
-        "date": "30/07/2020",
-        "source": "https://twitter.com/DDnewschd/status/1288790893995073541?s=20"
+        "tested": 13959,
+        "positive": 1051,
+        "negative": 12838,
+        "unconfirmed": 67,
+        "date": "31/07/2020",
+        "source": "http://chdcovid19.in/"
       }
     },
     "DN": {
@@ -880,19 +880,19 @@
     }
   },
   "testing_data": {
-    "tested": 21594581,
-    "positive": 1668589,
-    "negative": 8489862,
-    "unconfirmed": 28209
+    "tested": 21654576,
+    "positive": 1551302,
+    "negative": 8490099,
+    "unconfirmed": 22684
   },
   "testing_data_imcr": {
     "tested": 18832970,
     "source": "http://twitter.com/ICMRDELHI/status/1289043276205457410"
   },
   "today": {
-    "confirmed": 23814,
-    "recovered": 10570,
-    "dead": 196,
-    "active": 13048
+    "confirmed": 29695,
+    "recovered": 16348,
+    "dead": 290,
+    "active": 13057
   }
 }
