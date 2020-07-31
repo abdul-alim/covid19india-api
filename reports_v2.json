@@ -1,9 +1,9 @@
 {
-  "confirmed": 1675611,
-  "recovered": 1079166,
-  "dead": 36171,
-  "active": 559852,
-  "updatedTime": "31/07/2020 19:24:46",
+  "confirmed": 1677037,
+  "recovered": 1080047,
+  "dead": 36179,
+  "active": 560385,
+  "updatedTime": "31/07/2020 19:37:39",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -69,12 +69,12 @@
         "active": -38
       },
       "testing_data": {
-        "tested": 1013694,
-        "positive": 134403,
+        "tested": 1032785,
+        "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "30/07/2020",
-        "source": "https://twitter.com/ANI/status/1288842899241627650/photo/1"
+        "date": "31/07/2020",
+        "source": "https://twitter.com/ANI/status/1289170092530364416?s=20"
       }
     },
     "KA": {
@@ -83,7 +83,7 @@
       "active": 72004,
       "recovered": 49788,
       "dead": 2314,
-      "updatedTime": "31/07/2020 19:24:49",
+      "updatedTime": "31/07/2020 19:30:10",
       "note": "9 cases are classified as non-covid related deaths in KA bulletin. They have been reduced from active cases",
       "stateCode": "KA",
       "today": {
@@ -296,17 +296,17 @@
     "AS": {
       "name": "Assam",
       "confirmed": 38408,
-      "active": 9230,
+      "active": 9226,
       "recovered": 29081,
-      "dead": 94,
-      "updatedTime": "30/07/2020 22:41:36",
+      "dead": 98,
+      "updatedTime": "31/07/2020 19:37:43",
       "note": "Includes one case from Nagaland.\nTotal of 3 patients who migrated to other states has been reduced from Active count",
       "stateCode": "AS",
       "today": {
         "confirmed": 0,
         "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "dead": 4,
+        "active": -4
       },
       "testing_data": {
         "tested": 879071,
@@ -323,7 +323,7 @@
       "active": 8668,
       "recovered": 22271,
       "dead": 867,
-      "updatedTime": "30/07/2020 20:30:32",
+      "updatedTime": "31/07/2020 19:31:22",
       "note": "",
       "stateCode": "MP",
       "today": {
@@ -391,18 +391,18 @@
     },
     "KL": {
       "name": "Kerala",
-      "confirmed": 22304,
-      "active": 10056,
-      "recovered": 12159,
-      "dead": 71,
-      "updatedTime": "30/07/2020 20:30:47",
-      "note": "Mahe native who expired in Kannur included in Kerala's deceased tally.\nOne patient absconded from Palakkad to TN and one patient returned back to Maharashtra. Some non-covid deaths (accident,cancer etc.) have also been reported in the bulletin.\nIn total 18 such cases have been reduced from active count",
+      "confirmed": 23614,
+      "active": 10495,
+      "recovered": 13023,
+      "dead": 74,
+      "updatedTime": "31/07/2020 19:37:46",
+      "note": "Mahe native who expired in Kannur included in Kerala's deceased tally.\nOne patient absconded from Palakkad to TN and one patient returned back to Maharashtra. Some non-covid deaths (accident,cancer etc.) have also been reported in the bulletin.\nIn total 22 such cases have been reduced from active count",
       "stateCode": "KL",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 1310,
+        "recovered": 864,
+        "dead": 3,
+        "active": 443
       },
       "testing_data": {
         "tested": 776268,
@@ -583,18 +583,18 @@
     },
     "MN": {
       "name": "Manipur",
-      "confirmed": 2505,
-      "active": 829,
-      "recovered": 1672,
-      "dead": 4,
-      "updatedTime": "30/07/2020 21:24:41",
+      "confirmed": 2621,
+      "active": 927,
+      "recovered": 1689,
+      "dead": 5,
+      "updatedTime": "31/07/2020 19:37:48",
       "note": "",
       "stateCode": "MN",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 116,
+        "recovered": 17,
+        "dead": 1,
+        "active": 98
       },
       "testing_data": {
         "tested": 83111,
@@ -635,7 +635,7 @@
       "active": 277,
       "recovered": 1094,
       "dead": 7,
-      "updatedTime": "31/07/2020 19:20:44",
+      "updatedTime": "31/07/2020 19:29:43",
       "note": "",
       "stateCode": "LA",
       "today": {
@@ -731,7 +731,7 @@
       "active": 412,
       "recovered": 725,
       "dead": 2,
-      "updatedTime": "31/07/2020 19:24:53",
+      "updatedTime": "31/07/2020 19:33:09",
       "note": "",
       "stateCode": "DN",
       "today": {
@@ -772,7 +772,7 @@
       "active": 407,
       "recovered": 231,
       "dead": 1,
-      "updatedTime": "31/07/2020 19:20:49",
+      "updatedTime": "31/07/2020 19:30:18",
       "note": "",
       "stateCode": "SK",
       "today": {
@@ -880,8 +880,8 @@
     }
   },
   "testing_data": {
-    "tested": 21854185,
-    "positive": 1479304,
+    "tested": 21873276,
+    "positive": 1344901,
     "negative": 8490838,
     "unconfirmed": 25370
   },
@@ -890,9 +890,9 @@
     "source": "http://twitter.com/ICMRDELHI/status/1289043276205457410"
   },
   "today": {
-    "confirmed": 36042,
-    "recovered": 20073,
-    "dead": 384,
-    "active": 15585
+    "confirmed": 37468,
+    "recovered": 20954,
+    "dead": 392,
+    "active": 16122
   }
 }
