@@ -1,24 +1,24 @@
 {
-  "confirmed": 1738422,
-  "recovered": 1132531,
-  "dead": 37065,
-  "active": 568396,
-  "updatedTime": "01/08/2020 20:47:33",
+  "confirmed": 1748034,
+  "recovered": 1144050,
+  "dead": 37387,
+  "active": 566165,
+  "updatedTime": "01/08/2020 21:03:41",
   "states": {
     "MH": {
       "name": "Maharashtra",
-      "confirmed": 422118,
-      "active": 150662,
-      "recovered": 256158,
-      "dead": 14994,
-      "updatedTime": "31/07/2020 20:43:39",
-      "note": "304 cases are marked as non-covid deaths in MH bulletin. These have been reduced from active count\n[June 16] : 1328 deceased cases have been retroactively added to MH bulletin.\n[June 20]: 69 deceased cases have been reduced based on state bulletin.\n",
+      "confirmed": 431719,
+      "active": 149214,
+      "recovered": 266883,
+      "dead": 15316,
+      "updatedTime": "01/08/2020 21:03:44",
+      "note": "306 cases are marked as non-covid deaths in MH bulletin. These have been reduced from active count\n[June 16] : 1328 deceased cases have been retroactively added to MH bulletin.\n[June 20]: 69 deceased cases have been reduced based on state bulletin.\n",
       "stateCode": "MH",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 9601,
+        "recovered": 10725,
+        "dead": 322,
+        "active": -1446
       },
       "testing_data": {
         "tested": 2198423,
@@ -179,7 +179,7 @@
       "active": 20631,
       "recovered": 50517,
       "dead": 1629,
-      "updatedTime": "01/08/2020 20:47:36",
+      "updatedTime": "01/08/2020 20:52:36",
       "note": "",
       "stateCode": "WB",
       "today": {
@@ -344,17 +344,17 @@
     "OR": {
       "name": "Odisha",
       "confirmed": 33479,
-      "active": 12736,
-      "recovered": 20518,
+      "active": 11980,
+      "recovered": 21274,
       "dead": 225,
-      "updatedTime": "01/08/2020 11:17:38",
+      "updatedTime": "01/08/2020 21:02:42",
       "note": "[July 12th] 20 non-covid deaths reported in state dashboard are included in the deceased count\n[June 22nd]: NDRF/ODRF cases have been redistributed to districts based on state dashboard",
       "stateCode": "OR",
       "today": {
         "confirmed": 1602,
-        "recovered": 0,
+        "recovered": 756,
         "dead": 11,
-        "active": 1591
+        "active": 835
       },
       "testing_data": {
         "tested": 528708,
@@ -525,12 +525,12 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 131318,
-        "positive": 5913,
+        "tested": 132830,
+        "positive": 6193,
         "negative": 0,
-        "unconfirmed": 4019,
-        "date": "31/07/2020",
-        "source": "https://twitter.com/ANI/status/1289218764748201984?s=20"
+        "unconfirmed": 2960,
+        "date": "01/08/2020",
+        "source": ""
       }
     },
     "TR": {
@@ -768,26 +768,26 @@
     },
     "SK": {
       "name": "Sikkim",
-      "confirmed": 639,
-      "active": 407,
-      "recovered": 231,
+      "confirmed": 650,
+      "active": 380,
+      "recovered": 269,
       "dead": 1,
-      "updatedTime": "31/07/2020 19:30:18",
+      "updatedTime": "01/08/2020 20:59:42",
       "note": "",
       "stateCode": "SK",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 11,
+        "recovered": 38,
         "dead": 0,
-        "active": 0
+        "active": -27
       },
       "testing_data": {
-        "tested": 24939,
-        "positive": 639,
-        "negative": 22220,
+        "tested": 25916,
+        "positive": 650,
+        "negative": 23282,
         "unconfirmed": 0,
-        "date": "31/07/2020",
-        "source": "https://twitter.com/sikkimgovt/status/1289191697868439557?s=20"
+        "date": "01/08/2020",
+        "source": "https://twitter.com/sikkimgovt/status/1289582487543279622?s=20"
       }
     },
     "MZ": {
@@ -820,7 +820,7 @@
       "active": 402,
       "recovered": 226,
       "dead": 7,
-      "updatedTime": "01/08/2020 20:47:39",
+      "updatedTime": "01/08/2020 20:52:39",
       "note": "",
       "stateCode": "AN",
       "today": {
@@ -880,19 +880,19 @@
     }
   },
   "testing_data": {
-    "tested": 22604538,
-    "positive": 1754410,
-    "negative": 8742257,
-    "unconfirmed": 31507
+    "tested": 22607027,
+    "positive": 1754701,
+    "negative": 8743319,
+    "unconfirmed": 30448
   },
   "testing_data_imcr": {
     "tested": 19358659,
     "source": "https://twitter.com/ICMRDELHI/status/1289405341722001408?s=20)"
   },
   "today": {
-    "confirmed": 41368,
-    "recovered": 36884,
-    "dead": 514,
-    "active": 3970
+    "confirmed": 50980,
+    "recovered": 48403,
+    "dead": 836,
+    "active": 1741
   }
 }
