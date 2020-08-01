@@ -1,9 +1,9 @@
 {
-  "confirmed": 1750561,
-  "recovered": 1145348,
-  "dead": 37395,
-  "active": 567386,
-  "updatedTime": "01/08/2020 21:42:37",
+  "confirmed": 1750792,
+  "recovered": 1145411,
+  "dead": 37396,
+  "active": 567553,
+  "updatedTime": "01/08/2020 22:00:36",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -583,18 +583,18 @@
     },
     "MN": {
       "name": "Manipur",
-      "confirmed": 2621,
-      "active": 927,
-      "recovered": 1689,
-      "dead": 5,
-      "updatedTime": "31/07/2020 19:52:10",
+      "confirmed": 2756,
+      "active": 1051,
+      "recovered": 1699,
+      "dead": 6,
+      "updatedTime": "01/08/2020 22:00:39",
       "note": "",
       "stateCode": "MN",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 135,
+        "recovered": 10,
+        "dead": 1,
+        "active": 124
       },
       "testing_data": {
         "tested": 85441,
@@ -607,18 +607,18 @@
     },
     "HP": {
       "name": "Himachal Pradesh",
-      "confirmed": 2596,
-      "active": 1104,
-      "recovered": 1462,
+      "confirmed": 2634,
+      "active": 1102,
+      "recovered": 1502,
       "dead": 13,
       "updatedTime": "01/08/2020 18:52:37",
       "note": "HP has 18 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed",
       "stateCode": "HP",
       "today": {
-        "confirmed": 32,
-        "recovered": 3,
+        "confirmed": 70,
+        "recovered": 43,
         "dead": 0,
-        "active": 29
+        "active": 27
       },
       "testing_data": {
         "tested": 145154,
@@ -631,26 +631,26 @@
     },
     "LA": {
       "name": "Ladakh",
-      "confirmed": 1404,
-      "active": 302,
-      "recovered": 1095,
+      "confirmed": 1462,
+      "active": 347,
+      "recovered": 1108,
       "dead": 7,
-      "updatedTime": "31/07/2020 20:00:19",
+      "updatedTime": "01/08/2020 22:00:41",
       "note": "",
       "stateCode": "LA",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 58,
+        "recovered": 13,
         "dead": 0,
-        "active": 0
+        "active": 45
       },
       "testing_data": {
-        "tested": 19465,
-        "positive": 1404,
-        "negative": 15471,
-        "unconfirmed": 1321,
-        "date": "31/07/2020",
-        "source": "http://covid.ladakh.gov.in/Upload/getfileN/ce91e44d-e05e-4ae8-9e9e-ff991264b425_Covid-Ladakh%2031-July.pdf"
+        "tested": 19833,
+        "positive": 1462,
+        "negative": 15816,
+        "unconfirmed": 1233,
+        "date": "01/08/2020",
+        "source": "http://covid.ladakh.gov.in/"
       }
     },
     "NL": {
@@ -880,19 +880,19 @@
     }
   },
   "testing_data": {
-    "tested": 22641572,
-    "positive": 1756160,
-    "negative": 8768888,
-    "unconfirmed": 30699
+    "tested": 22641940,
+    "positive": 1756218,
+    "negative": 8769233,
+    "unconfirmed": 30611
   },
   "testing_data_imcr": {
     "tested": 19358659,
     "source": "https://twitter.com/ICMRDELHI/status/1289405341722001408?s=20)"
   },
   "today": {
-    "confirmed": 53507,
-    "recovered": 49701,
-    "dead": 844,
-    "active": 2962
+    "confirmed": 53738,
+    "recovered": 49764,
+    "dead": 845,
+    "active": 3129
   }
 }
