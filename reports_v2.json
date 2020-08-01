@@ -1,9 +1,9 @@
 {
-  "confirmed": 1729343,
-  "recovered": 1126482,
-  "dead": 36850,
-  "active": 565583,
-  "updatedTime": "01/08/2020 19:23:32",
+  "confirmed": 1730287,
+  "recovered": 1126820,
+  "dead": 36872,
+  "active": 566167,
+  "updatedTime": "01/08/2020 19:37:33",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -83,7 +83,7 @@
       "active": 73316,
       "recovered": 53648,
       "dead": 2314,
-      "updatedTime": "01/08/2020 19:23:35",
+      "updatedTime": "01/08/2020 19:25:37",
       "note": "9 cases are classified as non-covid related deaths in KA bulletin. They have been reduced from active cases",
       "stateCode": "KA",
       "today": {
@@ -299,7 +299,7 @@
       "active": 9808,
       "recovered": 30358,
       "dead": 101,
-      "updatedTime": "01/08/2020 19:23:43",
+      "updatedTime": "01/08/2020 19:25:42",
       "note": "Includes one case from Nagaland.\nTotal of 3 patients who migrated to other states has been reduced from Active count",
       "stateCode": "AS",
       "today": {
@@ -323,7 +323,7 @@
       "active": 8769,
       "recovered": 22969,
       "dead": 876,
-      "updatedTime": "01/08/2020 19:23:46",
+      "updatedTime": "01/08/2020 19:27:36",
       "note": "",
       "stateCode": "MP",
       "today": {
@@ -415,26 +415,26 @@
     },
     "PB": {
       "name": "Punjab",
-      "confirmed": 16119,
-      "active": 4999,
-      "recovered": 10734,
-      "dead": 386,
-      "updatedTime": "31/07/2020 20:58:34",
+      "confirmed": 17063,
+      "active": 5583,
+      "recovered": 11075,
+      "dead": 405,
+      "updatedTime": "01/08/2020 19:37:35",
       "note": "",
       "stateCode": "PB",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 944,
+        "recovered": 341,
+        "dead": 19,
+        "active": 584
       },
       "testing_data": {
-        "tested": 582573,
-        "positive": 16119,
+        "tested": 592392,
+        "positive": 17063,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "31/07/2020",
-        "source": "http://diprpunjab.gov.in/sites/default/files/Media%20Bulletin%2031-07-2020.pdf"
+        "date": "01/08/2020",
+        "source": "http://diprpunjab.gov.in/"
       }
     },
     "JH": {
@@ -705,15 +705,15 @@
       "name": "Chandigarh",
       "confirmed": 1079,
       "active": 378,
-      "recovered": 686,
-      "dead": 15,
-      "updatedTime": "01/08/2020 19:23:50",
+      "recovered": 683,
+      "dead": 18,
+      "updatedTime": "01/08/2020 19:27:39",
       "note": "",
       "stateCode": "CH",
       "today": {
         "confirmed": 28,
-        "recovered": 19,
-        "dead": 0,
+        "recovered": 16,
+        "dead": 3,
         "active": 9
       },
       "testing_data": {
@@ -758,12 +758,12 @@
         "active": -4
       },
       "testing_data": {
-        "tested": 35572,
-        "positive": 818,
-        "negative": 34657,
-        "unconfirmed": 97,
-        "date": "31/07/2020",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/1470"
+        "tested": 36341,
+        "positive": 856,
+        "negative": 0,
+        "unconfirmed": 0,
+        "date": "01/08/2020",
+        "source": "https://corona.meghalayagov.in/"
       }
     },
     "SK": {
@@ -880,19 +880,19 @@
     }
   },
   "testing_data": {
-    "tested": 22497360,
-    "positive": 1744959,
-    "negative": 8731864,
-    "unconfirmed": 31787
+    "tested": 22507948,
+    "positive": 1745941,
+    "negative": 8697207,
+    "unconfirmed": 31690
   },
   "testing_data_imcr": {
     "tested": 19358659,
     "source": "https://twitter.com/ICMRDELHI/status/1289405341722001408?s=20)"
   },
   "today": {
-    "confirmed": 32289,
-    "recovered": 30835,
-    "dead": 299,
-    "active": 1155
+    "confirmed": 33233,
+    "recovered": 31173,
+    "dead": 321,
+    "active": 1739
   }
 }
