@@ -1,9 +1,9 @@
 {
   "confirmed": 1780268,
   "recovered": 1165447,
-  "dead": 37690,
-  "active": 576697,
-  "updatedTime": "02/08/2020 19:48:30",
+  "dead": 37694,
+  "active": 576693,
+  "updatedTime": "02/08/2020 19:56:30",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -296,17 +296,17 @@
     "AS": {
       "name": "Assam",
       "confirmed": 41727,
-      "active": 10180,
+      "active": 10176,
       "recovered": 31443,
-      "dead": 101,
-      "updatedTime": "01/08/2020 22:27:35",
+      "dead": 105,
+      "updatedTime": "02/08/2020 19:56:32",
       "note": "Includes one case from Nagaland.\nTotal of 3 patients who migrated to other states has been reduced from Active count",
       "stateCode": "AS",
       "today": {
         "confirmed": 0,
         "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "dead": 4,
+        "active": -4
       },
       "testing_data": {
         "tested": 917395,
@@ -429,12 +429,12 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 592392,
-        "positive": 17063,
+        "tested": 599651,
+        "positive": 17853,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "01/08/2020",
-        "source": "https://twitter.com/ANI/status/1289563237231366153?s=20"
+        "date": "02/08/2020",
+        "source": "http://twitter.com/ANI/status/1289926859094765569"
       }
     },
     "JH": {
@@ -674,7 +674,7 @@
         "negative": 0,
         "unconfirmed": 0,
         "date": "02/08/2020",
-        "source": "https://covid19.nagaland.gov.in/health-main"
+        "source": "https://twitter.com/MyGovNagaland/status/1289910285071822854?s=20"
       }
     },
     "AR": {
@@ -796,7 +796,7 @@
       "active": 209,
       "recovered": 258,
       "dead": 0,
-      "updatedTime": "02/08/2020 19:48:34",
+      "updatedTime": "02/08/2020 19:56:34",
       "note": "",
       "stateCode": "MZ",
       "today": {
@@ -880,8 +880,8 @@
     }
   },
   "testing_data": {
-    "tested": 23102150,
-    "positive": 1706840,
+    "tested": 23109409,
+    "positive": 1707630,
     "negative": 8897664,
     "unconfirmed": 30033
   },
@@ -892,7 +892,7 @@
   "today": {
     "confirmed": 28097,
     "recovered": 18432,
-    "dead": 285,
-    "active": 9380
+    "dead": 289,
+    "active": 9376
   }
 }
