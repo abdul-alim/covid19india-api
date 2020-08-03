@@ -1,9 +1,9 @@
 {
-  "confirmed": 1822112,
-  "recovered": 1200303,
-  "dead": 38400,
-  "active": 582973,
-  "updatedTime": "03/08/2020 18:47:41",
+  "confirmed": 1830949,
+  "recovered": 1206769,
+  "dead": 38485,
+  "active": 585259,
+  "updatedTime": "03/08/2020 19:23:54",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -103,18 +103,18 @@
     },
     "AP": {
       "name": "Andhra Pradesh",
-      "confirmed": 158764,
-      "active": 74404,
-      "recovered": 82886,
-      "dead": 1474,
-      "updatedTime": "02/08/2020 19:22:32",
+      "confirmed": 166586,
+      "active": 76377,
+      "recovered": 88672,
+      "dead": 1537,
+      "updatedTime": "03/08/2020 19:23:57",
       "note": "Total includes patients from other states and a new category \"Foreign Evacuees\" which is now reported in AP bulletin.",
       "stateCode": "AP",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 7822,
+        "recovered": 5786,
+        "dead": 63,
+        "active": 1973
       },
       "testing_data": {
         "tested": 2065407,
@@ -266,7 +266,7 @@
         "negative": 0,
         "unconfirmed": 0,
         "date": "03/08/2020",
-        "source": ""
+        "source": "https://twitter.com/PIB_Patna/status/1290272326429204484"
       }
     },
     "HR": {
@@ -296,17 +296,17 @@
     "AS": {
       "name": "Assam",
       "confirmed": 42905,
-      "active": 10412,
+      "active": 10408,
       "recovered": 32385,
-      "dead": 105,
-      "updatedTime": "02/08/2020 21:57:38",
+      "dead": 109,
+      "updatedTime": "03/08/2020 19:24:00",
       "note": "Includes 1 case from Nagaland",
       "stateCode": "AS",
       "today": {
         "confirmed": 0,
         "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "dead": 4,
+        "active": -4
       },
       "testing_data": {
         "tested": 964499,
@@ -319,18 +319,18 @@
     },
     "MP": {
       "name": "Madhya Pradesh",
-      "confirmed": 33535,
-      "active": 9099,
-      "recovered": 23550,
-      "dead": 886,
-      "updatedTime": "02/08/2020 20:39:35",
+      "confirmed": 34285,
+      "active": 9286,
+      "recovered": 24099,
+      "dead": 900,
+      "updatedTime": "03/08/2020 19:24:03",
       "note": "",
       "stateCode": "MP",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 750,
+        "recovered": 549,
+        "dead": 14,
+        "active": 187
       },
       "testing_data": {
         "tested": 799500,
@@ -371,7 +371,7 @@
       "active": 7567,
       "recovered": 14032,
       "dead": 407,
-      "updatedTime": "03/08/2020 18:47:54",
+      "updatedTime": "03/08/2020 18:53:57",
       "note": "",
       "stateCode": "JK",
       "today": {
@@ -405,12 +405,12 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 817078,
-        "positive": 25912,
+        "tested": 834215,
+        "positive": 26874,
         "negative": 0,
-        "unconfirmed": 5215,
-        "date": "02/08/2020",
-        "source": "https://dhs.kerala.gov.in/wp-content/uploads/2020/08/Bulletin-HFWD-English-August-02.pdf"
+        "unconfirmed": 3926,
+        "date": "03/08/2020",
+        "source": "https://dhs.kerala.gov.in/wp-content/uploads/2020/08/Bulletin-HFWD-English-August-03.pdf"
       }
     },
     "PB": {
@@ -559,18 +559,18 @@
     },
     "PY": {
       "name": "Puducherry",
-      "confirmed": 3806,
-      "active": 1445,
-      "recovered": 2309,
-      "dead": 52,
-      "updatedTime": "02/08/2020 14:59:33",
+      "confirmed": 3982,
+      "active": 1515,
+      "recovered": 2411,
+      "dead": 56,
+      "updatedTime": "03/08/2020 19:24:08",
       "note": "",
       "stateCode": "PY",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 176,
+        "recovered": 102,
+        "dead": 4,
+        "active": 70
       },
       "testing_data": {
         "tested": 41540,
@@ -583,18 +583,18 @@
     },
     "MN": {
       "name": "Manipur",
-      "confirmed": 2831,
-      "active": 1087,
-      "recovered": 1737,
+      "confirmed": 2920,
+      "active": 1147,
+      "recovered": 1766,
       "dead": 7,
-      "updatedTime": "02/08/2020 20:28:44",
+      "updatedTime": "03/08/2020 19:24:10",
       "note": "",
       "stateCode": "MN",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 89,
+        "recovered": 29,
         "dead": 0,
-        "active": 0
+        "active": 60
       },
       "testing_data": {
         "tested": 85441,
@@ -880,19 +880,19 @@
     }
   },
   "testing_data": {
-    "tested": 23475193,
-    "positive": 1732547,
+    "tested": 23492330,
+    "positive": 1733509,
     "negative": 9023029,
-    "unconfirmed": 27608
+    "unconfirmed": 26319
   },
   "testing_data_imcr": {
     "tested": 20202858,
     "source": "https://twitter.com/ICMRDELHI/status/1290136251295657986"
   },
   "today": {
-    "confirmed": 17269,
-    "recovered": 12933,
-    "dead": 235,
-    "active": 4101
+    "confirmed": 26106,
+    "recovered": 19399,
+    "dead": 320,
+    "active": 6387
   }
 }
