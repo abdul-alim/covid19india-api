@@ -1,9 +1,9 @@
 {
-  "confirmed": 1858689,
-  "recovered": 1231682,
-  "dead": 39002,
-  "active": 587568,
-  "updatedTime": "04/08/2020 11:28:33",
+  "confirmed": 1861821,
+  "recovered": 1233589,
+  "dead": 39044,
+  "active": 588751,
+  "updatedTime": "04/08/2020 15:04:31",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -127,18 +127,18 @@
     },
     "UP": {
       "name": "Uttar Pradesh",
-      "confirmed": 97362,
-      "active": 40191,
-      "recovered": 55393,
-      "dead": 1778,
-      "updatedTime": "03/08/2020 17:31:44",
+      "confirmed": 100310,
+      "active": 41222,
+      "recovered": 57271,
+      "dead": 1817,
+      "updatedTime": "04/08/2020 15:03:34",
       "note": "",
       "stateCode": "UP",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 2948,
+        "recovered": 1878,
+        "dead": 39,
+        "active": 1031
       },
       "testing_data": {
         "tested": 2623260,
@@ -439,18 +439,18 @@
     },
     "JH": {
       "name": "Jharkhand",
-      "confirmed": 13500,
-      "active": 8581,
-      "recovered": 4794,
-      "dead": 125,
-      "updatedTime": "03/08/2020 22:45:42",
+      "confirmed": 13671,
+      "active": 8727,
+      "recovered": 4816,
+      "dead": 128,
+      "updatedTime": "04/08/2020 15:03:36",
       "note": "",
       "stateCode": "JH",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 171,
+        "recovered": 22,
+        "dead": 3,
+        "active": 146
       },
       "testing_data": {
         "tested": 339560,
@@ -607,18 +607,18 @@
     },
     "HP": {
       "name": "Himachal Pradesh",
-      "confirmed": 2818,
-      "active": 1127,
-      "recovered": 1658,
+      "confirmed": 2831,
+      "active": 1133,
+      "recovered": 1665,
       "dead": 13,
-      "updatedTime": "03/08/2020 22:29:39",
+      "updatedTime": "04/08/2020 15:04:34",
       "note": "HP has 21 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed",
       "stateCode": "HP",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 13,
+        "recovered": 7,
         "dead": 0,
-        "active": 0
+        "active": 6
       },
       "testing_data": {
         "tested": 151574,
@@ -797,7 +797,7 @@
       "recovered": 266,
       "dead": 0,
       "updatedTime": "04/08/2020 09:17:36",
-      "note": "",
+      "note": "\"Other\" case in MZ is a patient who 'migrated-in'. Although state bulletin consider this case only in the  'Active' count, we have added this in both Confirmed and Active count",
       "stateCode": "MZ",
       "today": {
         "confirmed": 6,
@@ -890,9 +890,9 @@
     "source": "http://twitter.com/ICMRDELHI/status/1290484131848024066"
   },
   "today": {
-    "confirmed": 3358,
-    "recovered": 1242,
-    "dead": 31,
-    "active": 2085
+    "confirmed": 6490,
+    "recovered": 3149,
+    "dead": 73,
+    "active": 3268
   }
 }
