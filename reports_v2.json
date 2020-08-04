@@ -1,9 +1,9 @@
 {
-  "confirmed": 1865947,
-  "recovered": 1237885,
-  "dead": 39081,
-  "active": 588536,
-  "updatedTime": "04/08/2020 18:37:36",
+  "confirmed": 1866206,
+  "recovered": 1238123,
+  "dead": 39085,
+  "active": 588553,
+  "updatedTime": "04/08/2020 18:46:39",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -45,12 +45,12 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 2837273,
-        "positive": 263222,
+        "tested": 2892395,
+        "positive": 268285,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "03/08/2020",
-        "source": "https://stopcorona.tn.gov.in/wp-content/uploads/2020/03/Media-Bulletin-03-08-20-COVID-19-6-PM.pdf"
+        "date": "04/08/2020",
+        "source": "https://stopcorona.tn.gov.in/daily-bulletin/"
       }
     },
     "DL": {
@@ -59,7 +59,7 @@
       "active": 9897,
       "recovered": 125226,
       "dead": 4033,
-      "updatedTime": "04/08/2020 18:37:39",
+      "updatedTime": "04/08/2020 18:46:44",
       "note": "[July 14]: Value for the total tests conducted has been reduced by 97008 in the state bulletin. Reason given : \"Reconciled with ICMR figures\". We have made the same change.\n[June 16]: 344 deceased cases have been retroactively added to DL bulletin.",
       "stateCode": "DL",
       "today": {
@@ -371,7 +371,7 @@
       "active": 7123,
       "recovered": 14856,
       "dead": 417,
-      "updatedTime": "04/08/2020 18:37:41",
+      "updatedTime": "04/08/2020 18:46:47",
       "note": "",
       "stateCode": "JK",
       "today": {
@@ -511,18 +511,18 @@
     },
     "GA": {
       "name": "Goa",
-      "confirmed": 6816,
-      "active": 1884,
-      "recovered": 4876,
-      "dead": 56,
-      "updatedTime": "03/08/2020 23:11:39",
+      "confirmed": 7075,
+      "active": 1901,
+      "recovered": 5114,
+      "dead": 60,
+      "updatedTime": "04/08/2020 18:46:51",
       "note": "",
       "stateCode": "GA",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 259,
+        "recovered": 238,
+        "dead": 4,
+        "active": 17
       },
       "testing_data": {
         "tested": 135692,
@@ -563,7 +563,7 @@
       "active": 1552,
       "recovered": 2537,
       "dead": 58,
-      "updatedTime": "04/08/2020 18:37:43",
+      "updatedTime": "04/08/2020 18:46:53",
       "note": "",
       "stateCode": "PY",
       "today": {
@@ -587,7 +587,7 @@
       "active": 1197,
       "recovered": 1814,
       "dead": 7,
-      "updatedTime": "04/08/2020 18:37:46",
+      "updatedTime": "04/08/2020 18:46:55",
       "note": "",
       "stateCode": "MN",
       "today": {
@@ -611,7 +611,7 @@
       "active": 1137,
       "recovered": 1669,
       "dead": 13,
-      "updatedTime": "04/08/2020 18:37:48",
+      "updatedTime": "04/08/2020 18:46:57",
       "note": "HP has 29 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed",
       "stateCode": "HP",
       "today": {
@@ -731,7 +731,7 @@
       "active": 395,
       "recovered": 920,
       "dead": 2,
-      "updatedTime": "04/08/2020 18:37:51",
+      "updatedTime": "04/08/2020 18:46:59",
       "note": "",
       "stateCode": "DN",
       "today": {
@@ -880,19 +880,19 @@
     }
   },
   "testing_data": {
-    "tested": 23901868,
-    "positive": 1869288,
-    "negative": 9203895,
-    "unconfirmed": 24134
+    "tested": 23957198,
+    "positive": 1874384,
+    "negative": 9204165,
+    "unconfirmed": 24038
   },
   "testing_data_imcr": {
     "tested": 20864750,
     "source": "http://twitter.com/ICMRDELHI/status/1290484131848024066"
   },
   "today": {
-    "confirmed": 10616,
-    "recovered": 7445,
-    "dead": 110,
-    "active": 3061
+    "confirmed": 10875,
+    "recovered": 7683,
+    "dead": 114,
+    "active": 3078
   }
 }
