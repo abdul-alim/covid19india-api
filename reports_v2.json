@@ -1,9 +1,9 @@
 {
-  "confirmed": 1901542,
-  "recovered": 1278393,
-  "dead": 39792,
-  "active": 582908,
-  "updatedTime": "04/08/2020 21:14:42",
+  "confirmed": 1902503,
+  "recovered": 1279524,
+  "dead": 39814,
+  "active": 582716,
+  "updatedTime": "04/08/2020 21:49:37",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -271,18 +271,18 @@
     },
     "HR": {
       "name": "Haryana",
-      "confirmed": 37173,
-      "active": 6263,
-      "recovered": 30470,
-      "dead": 440,
-      "updatedTime": "03/08/2020 21:53:43",
+      "confirmed": 37796,
+      "active": 6122,
+      "recovered": 31226,
+      "dead": 448,
+      "updatedTime": "04/08/2020 21:49:40",
       "note": "[Aug 2]: 21 Foreign Evacuees have been merged to Panchkula and 14 Italian tourists have been merged to Gurugram in HR bulletin.",
       "stateCode": "HR",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 623,
+        "recovered": 756,
+        "dead": 8,
+        "active": -141
       },
       "testing_data": {
         "tested": 671064,
@@ -296,25 +296,25 @@
     "AS": {
       "name": "Assam",
       "confirmed": 45276,
-      "active": 11735,
+      "active": 11729,
       "recovered": 33429,
-      "dead": 109,
-      "updatedTime": "03/08/2020 23:11:36",
+      "dead": 115,
+      "updatedTime": "04/08/2020 21:48:52",
       "note": "Includes 1 case from Nagaland",
       "stateCode": "AS",
       "today": {
         "confirmed": 0,
         "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "dead": 6,
+        "active": -6
       },
       "testing_data": {
-        "tested": 1006457,
-        "positive": 45275,
+        "tested": 1065521,
+        "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "03/08/2020",
-        "source": "https://twitter.com/himantabiswa/status/1290325905458356224?s=20"
+        "date": "04/08/2020",
+        "source": "https://twitter.com/himantabiswa/status/1290673414483501057?s=20"
       }
     },
     "MP": {
@@ -463,26 +463,26 @@
     },
     "CT": {
       "name": "Chhattisgarh",
-      "confirmed": 9820,
-      "active": 2503,
-      "recovered": 7256,
-      "dead": 61,
-      "updatedTime": "03/08/2020 23:11:38",
+      "confirmed": 10109,
+      "active": 2427,
+      "recovered": 7613,
+      "dead": 69,
+      "updatedTime": "04/08/2020 21:48:57",
       "note": "",
       "stateCode": "CT",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 289,
+        "recovered": 357,
+        "dead": 8,
+        "active": -76
       },
       "testing_data": {
-        "tested": 334709,
-        "positive": 9800,
+        "tested": 340043,
+        "positive": 10109,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "03/08/2020",
-        "source": "https://twitter.com/HealthCgGov/status/1290301460886896643"
+        "date": "04/08/2020",
+        "source": "https://twitter.com/HealthCgGov/status/1290675630384717828?s=20"
       }
     },
     "UT": {
@@ -491,7 +491,7 @@
       "active": 3028,
       "recovered": 4847,
       "dead": 95,
-      "updatedTime": "04/08/2020 21:14:45",
+      "updatedTime": "04/08/2020 21:19:41",
       "note": "",
       "stateCode": "UT",
       "today": {
@@ -631,18 +631,18 @@
     },
     "LA": {
       "name": "Ladakh",
-      "confirmed": 1485,
-      "active": 369,
-      "recovered": 1109,
+      "confirmed": 1534,
+      "active": 400,
+      "recovered": 1127,
       "dead": 7,
-      "updatedTime": "03/08/2020 21:53:50",
+      "updatedTime": "04/08/2020 21:48:59",
       "note": "",
       "stateCode": "LA",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 49,
+        "recovered": 18,
         "dead": 0,
-        "active": 0
+        "active": 31
       },
       "testing_data": {
         "tested": 20240,
@@ -880,8 +880,8 @@
     }
   },
   "testing_data": {
-    "tested": 24294185,
-    "positive": 1909694,
+    "tested": 24358583,
+    "positive": 1864728,
     "negative": 9351300,
     "unconfirmed": 27367
   },
@@ -890,9 +890,9 @@
     "source": "http://twitter.com/ICMRDELHI/status/1290484131848024066"
   },
   "today": {
-    "confirmed": 46211,
-    "recovered": 47953,
-    "dead": 821,
-    "active": -2563
+    "confirmed": 47172,
+    "recovered": 49084,
+    "dead": 843,
+    "active": -2755
   }
 }
