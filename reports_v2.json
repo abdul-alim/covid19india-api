@@ -1,9 +1,9 @@
 {
-  "confirmed": 1864561,
-  "recovered": 1235857,
-  "dead": 39057,
-  "active": 589202,
-  "updatedTime": "04/08/2020 17:18:38",
+  "confirmed": 1865947,
+  "recovered": 1237885,
+  "dead": 39081,
+  "active": 588536,
+  "updatedTime": "04/08/2020 18:37:36",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -55,26 +55,26 @@
     },
     "DL": {
       "name": "Delhi",
-      "confirmed": 138482,
-      "active": 10207,
-      "recovered": 124254,
-      "dead": 4021,
-      "updatedTime": "03/08/2020 18:17:42",
+      "confirmed": 139156,
+      "active": 9897,
+      "recovered": 125226,
+      "dead": 4033,
+      "updatedTime": "04/08/2020 18:37:39",
       "note": "[July 14]: Value for the total tests conducted has been reduced by 97008 in the state bulletin. Reason given : \"Reconciled with ICMR figures\". We have made the same change.\n[June 16]: 344 deceased cases have been retroactively added to DL bulletin.",
       "stateCode": "DL",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 674,
+        "recovered": 972,
+        "dead": 12,
+        "active": -310
       },
       "testing_data": {
-        "tested": 1073802,
-        "positive": 138482,
+        "tested": 1083097,
+        "positive": 139156,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "03/08/2020",
-        "source": "https://twitter.com/ANI/status/1290266607458033664?s=20"
+        "date": "04/08/2020",
+        "source": "https://twitter.com/diprjk/status/1290630446816956416"
       }
     },
     "KA": {
@@ -261,12 +261,12 @@
         "active": 199
       },
       "testing_data": {
-        "tested": 648939,
-        "positive": 59567,
+        "tested": 687154,
+        "positive": 62301,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "03/08/2020",
-        "source": "https://twitter.com/PIB_Patna/status/1290272326429204484"
+        "date": "04/08/2020",
+        "source": "https://twitter.com/PIB_Patna/status/1290608337097113600"
       }
     },
     "HR": {
@@ -367,26 +367,26 @@
     },
     "JK": {
       "name": "Jammu and Kashmir",
-      "confirmed": 22006,
-      "active": 7567,
-      "recovered": 14032,
-      "dead": 407,
-      "updatedTime": "03/08/2020 18:53:57",
+      "confirmed": 22396,
+      "active": 7123,
+      "recovered": 14856,
+      "dead": 417,
+      "updatedTime": "04/08/2020 18:37:41",
       "note": "",
       "stateCode": "JK",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 390,
+        "recovered": 824,
+        "dead": 10,
+        "active": -444
       },
       "testing_data": {
-        "tested": 662941,
-        "positive": 22006,
-        "negative": 640935,
+        "tested": 671413,
+        "positive": 22396,
+        "negative": 649017,
         "unconfirmed": 0,
-        "date": "03/08/2020",
-        "source": "https://twitter.com/diprjk/status/1290272388873990145?s=20"
+        "date": "04/08/2020",
+        "source": "https://twitter.com/diprjk/status/1290630446816956416"
       }
     },
     "KL": {
@@ -559,42 +559,42 @@
     },
     "PY": {
       "name": "Puducherry",
-      "confirmed": 3982,
-      "active": 1515,
-      "recovered": 2411,
-      "dead": 56,
-      "updatedTime": "03/08/2020 19:36:55",
+      "confirmed": 4147,
+      "active": 1552,
+      "recovered": 2537,
+      "dead": 58,
+      "updatedTime": "04/08/2020 18:37:43",
       "note": "",
       "stateCode": "PY",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 165,
+        "recovered": 126,
+        "dead": 2,
+        "active": 37
       },
       "testing_data": {
-        "tested": 41485,
-        "positive": 3982,
-        "negative": 37000,
-        "unconfirmed": 127,
-        "date": "03/08/2020",
-        "source": "https://health.py.gov.in/sites/default/files/3.08.2020-bulletin-revised.pdf"
+        "tested": 43134,
+        "positive": 4147,
+        "negative": 38073,
+        "unconfirmed": 402,
+        "date": "04/08/2020",
+        "source": "https://health.py.gov.in/sites/default/files/4.08.2020-bulletin.pdf"
       }
     },
     "MN": {
       "name": "Manipur",
-      "confirmed": 2920,
-      "active": 1147,
-      "recovered": 1766,
+      "confirmed": 3018,
+      "active": 1197,
+      "recovered": 1814,
       "dead": 7,
-      "updatedTime": "03/08/2020 19:36:58",
+      "updatedTime": "04/08/2020 18:37:46",
       "note": "",
       "stateCode": "MN",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 98,
+        "recovered": 48,
         "dead": 0,
-        "active": 0
+        "active": 50
       },
       "testing_data": {
         "tested": 89403,
@@ -607,18 +607,18 @@
     },
     "HP": {
       "name": "Himachal Pradesh",
-      "confirmed": 2831,
-      "active": 1125,
-      "recovered": 1665,
+      "confirmed": 2847,
+      "active": 1137,
+      "recovered": 1669,
       "dead": 13,
-      "updatedTime": "04/08/2020 15:46:37",
+      "updatedTime": "04/08/2020 18:37:48",
       "note": "HP has 29 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed",
       "stateCode": "HP",
       "today": {
-        "confirmed": 13,
-        "recovered": 7,
+        "confirmed": 29,
+        "recovered": 11,
         "dead": 0,
-        "active": 6
+        "active": 18
       },
       "testing_data": {
         "tested": 151574,
@@ -727,18 +727,18 @@
     },
     "DN": {
       "name": "Dadra and Nagar Haveli and Daman and Diu",
-      "confirmed": 1284,
-      "active": 406,
-      "recovered": 866,
+      "confirmed": 1327,
+      "active": 395,
+      "recovered": 920,
       "dead": 2,
-      "updatedTime": "03/08/2020 18:42:58",
+      "updatedTime": "04/08/2020 18:37:51",
       "note": "",
       "stateCode": "DN",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 43,
+        "recovered": 54,
         "dead": 0,
-        "active": 0
+        "active": -11
       },
       "isUnknown": true
     },
@@ -880,19 +880,19 @@
     }
   },
   "testing_data": {
-    "tested": 23844237,
-    "positive": 1865325,
-    "negative": 9194740,
-    "unconfirmed": 23859
+    "tested": 23901868,
+    "positive": 1869288,
+    "negative": 9203895,
+    "unconfirmed": 24134
   },
   "testing_data_imcr": {
     "tested": 20864750,
     "source": "http://twitter.com/ICMRDELHI/status/1290484131848024066"
   },
   "today": {
-    "confirmed": 9230,
-    "recovered": 5417,
-    "dead": 86,
-    "active": 3727
+    "confirmed": 10616,
+    "recovered": 7445,
+    "dead": 110,
+    "active": 3061
   }
 }
