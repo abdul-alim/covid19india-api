@@ -1,9 +1,9 @@
 {
   "confirmed": 1864561,
-  "recovered": 1235841,
+  "recovered": 1235857,
   "dead": 39057,
-  "active": 589218,
-  "updatedTime": "04/08/2020 16:49:59",
+  "active": 589202,
+  "updatedTime": "04/08/2020 17:18:38",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -251,7 +251,7 @@
       "active": 20921,
       "recovered": 40760,
       "dead": 349,
-      "updatedTime": "04/08/2020 16:50:05",
+      "updatedTime": "04/08/2020 16:56:06",
       "note": "",
       "stateCode": "BR",
       "today": {
@@ -793,17 +793,17 @@
     "MZ": {
       "name": "Mizoram",
       "confirmed": 502,
-      "active": 235,
-      "recovered": 266,
+      "active": 219,
+      "recovered": 282,
       "dead": 0,
-      "updatedTime": "04/08/2020 09:17:36",
+      "updatedTime": "04/08/2020 17:18:43",
       "note": "\"Other\" case in MZ is a patient who 'migrated-in'. Although state bulletin consider this case only in the  'Active' count, we have added this in both Confirmed and Active count",
       "stateCode": "MZ",
       "today": {
         "confirmed": 6,
-        "recovered": 0,
+        "recovered": 16,
         "dead": 0,
-        "active": 6
+        "active": -10
       },
       "testing_data": {
         "tested": 21583,
@@ -891,8 +891,8 @@
   },
   "today": {
     "confirmed": 9230,
-    "recovered": 5401,
+    "recovered": 5417,
     "dead": 86,
-    "active": 3743
+    "active": 3727
   }
 }
