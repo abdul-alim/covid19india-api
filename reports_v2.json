@@ -1,18 +1,18 @@
 {
-  "confirmed": 1939617,
-  "recovered": 1306925,
-  "dead": 40480,
-  "active": 591761,
-  "updatedTime": "05/08/2020 20:13:43",
+  "confirmed": 1945236,
+  "recovered": 1312150,
+  "dead": 40575,
+  "active": 592061,
+  "updatedTime": "05/08/2020 20:25:39",
   "states": {
     "MH": {
       "name": "Maharashtra",
       "confirmed": 468265,
-      "active": 145960,
+      "active": 145961,
       "recovered": 305521,
       "dead": 16476,
-      "updatedTime": "05/08/2020 20:13:46",
-      "note": "308 cases are marked as non-covid deaths in MH bulletin. These have been reduced from active count\n[June 16] : 1328 deceased cases have been retroactively added to MH bulletin.\n[June 20]: 69 deceased cases have been reduced based on state bulletin.\n",
+      "updatedTime": "05/08/2020 20:25:41",
+      "note": "307 cases are marked as non-covid deaths in MH bulletin. These have been reduced from active count\n[June 16] : 1328 deceased cases have been retroactively added to MH bulletin.\n[June 20]: 69 deceased cases have been reduced based on state bulletin.\n",
       "stateCode": "MH",
       "today": {
         "confirmed": 10309,
@@ -79,18 +79,18 @@
     },
     "KA": {
       "name": "Karnataka",
-      "confirmed": 145830,
-      "active": 73845,
-      "recovered": 69272,
-      "dead": 2704,
-      "updatedTime": "04/08/2020 20:55:53",
+      "confirmed": 151449,
+      "active": 74144,
+      "recovered": 74497,
+      "dead": 2799,
+      "updatedTime": "05/08/2020 20:25:43",
       "note": "9 cases are classified as non-covid related deaths in KA bulletin. They have been reduced from active cases",
       "stateCode": "KA",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 5619,
+        "recovered": 5225,
+        "dead": 95,
+        "active": 299
       },
       "testing_data": {
         "tested": 1532654,
@@ -117,12 +117,12 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 2175070,
-        "positive": 176333,
-        "negative": 1998737,
+        "tested": 2235646,
+        "positive": 0,
+        "negative": 2049185,
         "unconfirmed": 0,
-        "date": "04/08/2020",
-        "source": "https://twitter.com/ArogyaAndhra/status/1290651823695638528?s=20"
+        "date": "05/08/2020",
+        "source": ""
       }
     },
     "UP": {
@@ -155,7 +155,7 @@
       "active": 14618,
       "recovered": 49607,
       "dead": 2552,
-      "updatedTime": "05/08/2020 20:13:51",
+      "updatedTime": "05/08/2020 20:18:53",
       "note": "",
       "stateCode": "GJ",
       "today": {
@@ -275,7 +275,7 @@
       "active": 6133,
       "recovered": 31960,
       "dead": 455,
-      "updatedTime": "05/08/2020 20:13:56",
+      "updatedTime": "05/08/2020 20:19:01",
       "note": "[Aug 2]: 21 Foreign Evacuees have been merged to Panchkula and 14 Italian tourists have been merged to Gurugram in HR bulletin.",
       "stateCode": "HR",
       "today": {
@@ -299,7 +299,7 @@
       "active": 13616,
       "recovered": 34422,
       "dead": 121,
-      "updatedTime": "05/08/2020 20:14:00",
+      "updatedTime": "05/08/2020 20:19:04",
       "note": "Includes 1 case from Nagaland",
       "stateCode": "AS",
       "today": {
@@ -419,7 +419,7 @@
       "active": 6422,
       "recovered": 12943,
       "dead": 491,
-      "updatedTime": "05/08/2020 20:14:06",
+      "updatedTime": "05/08/2020 20:19:08",
       "note": "",
       "stateCode": "PB",
       "today": {
@@ -880,9 +880,9 @@
     }
   },
   "testing_data": {
-    "tested": 24753899,
-    "positive": 1949389,
-    "negative": 9485267,
+    "tested": 24814475,
+    "positive": 1773056,
+    "negative": 9535715,
     "unconfirmed": 27160
   },
   "testing_data_imcr": {
@@ -890,9 +890,9 @@
     "source": "http://twitter.com/ICMRDELHI/status/1290849286985404417"
   },
   "today": {
-    "confirmed": 33004,
-    "recovered": 25265,
-    "dead": 660,
-    "active": 7079
+    "confirmed": 38623,
+    "recovered": 30490,
+    "dead": 755,
+    "active": 7378
   }
 }
