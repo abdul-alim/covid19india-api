@@ -1,9 +1,9 @@
 {
-  "confirmed": 1997233,
-  "recovered": 1352667,
+  "confirmed": 1997236,
+  "recovered": 1352680,
   "dead": 41101,
-  "active": 603011,
-  "updatedTime": "06/08/2020 20:13:46",
+  "active": 603001,
+  "updatedTime": "06/08/2020 20:23:47",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -165,12 +165,12 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 879213,
-        "positive": 66777,
-        "negative": 812436,
+        "tested": 903782,
+        "positive": 67811,
+        "negative": 0,
         "unconfirmed": 0,
-        "date": "05/08/2020",
-        "source": "https://twitter.com/DDNewsGujarati/status/1291012147778969600"
+        "date": "06/08/2020",
+        "source": "https://twitter.com/DDNewsGujarati/status/1291378524532510726?s=20"
       }
     },
     "WB": {
@@ -275,7 +275,7 @@
       "active": 6205,
       "recovered": 32640,
       "dead": 458,
-      "updatedTime": "06/08/2020 20:13:49",
+      "updatedTime": "06/08/2020 20:21:58",
       "note": "[Aug 2]: 21 Foreign Evacuees have been merged to Panchkula and 14 Italian tourists have been merged to Gurugram in HR bulletin.",
       "stateCode": "HR",
       "today": {
@@ -631,18 +631,18 @@
     },
     "LA": {
       "name": "Ladakh",
-      "confirmed": 1592,
-      "active": 421,
-      "recovered": 1164,
+      "confirmed": 1595,
+      "active": 411,
+      "recovered": 1177,
       "dead": 7,
-      "updatedTime": "05/08/2020 22:20:43",
+      "updatedTime": "06/08/2020 20:23:59",
       "note": "",
       "stateCode": "LA",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 3,
+        "recovered": 13,
         "dead": 0,
-        "active": 0
+        "active": -10
       },
       "testing_data": {
         "tested": 21383,
@@ -650,7 +650,7 @@
         "negative": 16774,
         "unconfirmed": 1255,
         "date": "06/08/2020",
-        "source": "http://covid.ladakh.gov.in/"
+        "source": "https://www.facebook.com/Department-of-Information-Public-Relations-Leh-Ladakh-114874993303412/photos/pcb.204031524387758/204031461054431"
       }
     },
     "NL": {
@@ -880,9 +880,9 @@
     }
   },
   "testing_data": {
-    "tested": 25503415,
-    "positive": 2024070,
-    "negative": 9692793,
+    "tested": 25527984,
+    "positive": 2025104,
+    "negative": 8880357,
     "unconfirmed": 31512
   },
   "testing_data_imcr": {
@@ -890,9 +890,9 @@
     "source": "http://twitter.com/ICMRDELHI/status/1291210644855730176"
   },
   "today": {
-    "confirmed": 33994,
-    "recovered": 25424,
+    "confirmed": 33997,
+    "recovered": 25437,
     "dead": 362,
-    "active": 8208
+    "active": 8198
   }
 }
