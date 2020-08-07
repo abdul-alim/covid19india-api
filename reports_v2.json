@@ -1,9 +1,9 @@
 {
-  "confirmed": 2030015,
-  "recovered": 1378674,
+  "confirmed": 2030093,
+  "recovered": 1378681,
   "dead": 41673,
-  "active": 609214,
-  "updatedTime": "07/08/2020 15:18:27",
+  "active": 609285,
+  "updatedTime": "07/08/2020 15:50:30",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -655,18 +655,18 @@
     },
     "NL": {
       "name": "Nagaland",
-      "confirmed": 2580,
-      "active": 1752,
+      "confirmed": 2657,
+      "active": 1829,
       "recovered": 819,
       "dead": 6,
-      "updatedTime": "06/08/2020 18:39:49",
+      "updatedTime": "07/08/2020 15:50:32",
       "note": "",
       "stateCode": "NL",
       "today": {
-        "confirmed": 0,
+        "confirmed": 77,
         "recovered": 0,
         "dead": 0,
-        "active": 0
+        "active": 77
       },
       "testing_data": {
         "tested": 42900,
@@ -727,18 +727,18 @@
     },
     "DN": {
       "name": "Dadra and Nagar Haveli and Daman and Diu",
-      "confirmed": 1415,
-      "active": 406,
-      "recovered": 997,
+      "confirmed": 1416,
+      "active": 400,
+      "recovered": 1004,
       "dead": 2,
-      "updatedTime": "06/08/2020 20:07:54",
+      "updatedTime": "07/08/2020 15:50:34",
       "note": "",
       "stateCode": "DN",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 1,
+        "recovered": 7,
         "dead": 0,
-        "active": 0
+        "active": -6
       },
       "isUnknown": true
     },
@@ -890,9 +890,9 @@
     "source": "http://twitter.com/ICMRDELHI/status/1291581826817908737"
   },
   "today": {
-    "confirmed": 4606,
-    "recovered": 1290,
+    "confirmed": 4684,
+    "recovered": 1297,
     "dead": 35,
-    "active": 3281
+    "active": 3352
   }
 }
