@@ -1,9 +1,9 @@
 {
-  "confirmed": 2127960,
-  "recovered": 1460879,
-  "dead": 43116,
-  "active": 623504,
-  "updatedTime": "08/08/2020 20:24:32",
+  "confirmed": 2129154,
+  "recovered": 1461874,
+  "dead": 43141,
+  "active": 623678,
+  "updatedTime": "08/08/2020 20:48:33",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -11,7 +11,7 @@
       "active": 147048,
       "recovered": 338362,
       "dead": 17367,
-      "updatedTime": "08/08/2020 20:24:35",
+      "updatedTime": "08/08/2020 20:29:36",
       "note": "307 cases are marked as non-covid deaths in MH bulletin. These have been reduced from active count\n[June 16] : 1328 deceased cases have been retroactively added to MH bulletin.\n[June 20]: 69 deceased cases have been reduced based on state bulletin.\n",
       "stateCode": "MH",
       "today": {
@@ -296,17 +296,17 @@
     "AS": {
       "name": "Assam",
       "confirmed": 55497,
-      "active": 16552,
+      "active": 16544,
       "recovered": 38810,
-      "dead": 132,
-      "updatedTime": "07/08/2020 22:54:37",
+      "dead": 140,
+      "updatedTime": "08/08/2020 20:46:36",
       "note": "Includes 1 case from Nagaland",
       "stateCode": "AS",
       "today": {
         "confirmed": 0,
         "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "dead": 8,
+        "active": -8
       },
       "testing_data": {
         "tested": 1238867,
@@ -319,18 +319,18 @@
     },
     "MP": {
       "name": "Madhya Pradesh",
-      "confirmed": 37298,
-      "active": 8715,
-      "recovered": 27621,
-      "dead": 962,
-      "updatedTime": "07/08/2020 19:53:41",
+      "confirmed": 38157,
+      "active": 8827,
+      "recovered": 28353,
+      "dead": 977,
+      "updatedTime": "08/08/2020 20:48:36",
       "note": "",
       "stateCode": "MP",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 859,
+        "recovered": 732,
+        "dead": 15,
+        "active": 112
       },
       "testing_data": {
         "tested": 859921,
@@ -347,7 +347,7 @@
       "active": 13644,
       "recovered": 30242,
       "dead": 307,
-      "updatedTime": "08/08/2020 20:24:38",
+      "updatedTime": "08/08/2020 20:29:40",
       "note": "[July 12th] 20 non-covid deaths reported in state dashboard are included in the deceased count\n[June 22nd]: NDRF/ODRF cases have been redistributed to districts based on state dashboard",
       "stateCode": "OR",
       "today": {
@@ -357,12 +357,12 @@
         "active": 84
       },
       "testing_data": {
-        "tested": 616646,
-        "positive": 42550,
+        "tested": 634090,
+        "positive": 44193,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "07/08/2020",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/1576"
+        "date": "08/08/2020",
+        "source": "https://statedashboard.odisha.gov.in/"
       }
     },
     "JK": {
@@ -429,12 +429,12 @@
         "active": 155
       },
       "testing_data": {
-        "tested": 646439,
-        "positive": 21930,
+        "tested": 659284,
+        "positive": 22928,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "07/08/2020",
-        "source": "https://twitter.com/ANI/status/1291741385326907393?s=20"
+        "date": "08/08/2020",
+        "source": "http://diprpunjab.gov.in/"
       }
     },
     "JH": {
@@ -463,18 +463,18 @@
     },
     "CT": {
       "name": "Chhattisgarh",
-      "confirmed": 11408,
-      "active": 3002,
-      "recovered": 8319,
-      "dead": 87,
-      "updatedTime": "07/08/2020 23:28:36",
+      "confirmed": 11743,
+      "active": 3072,
+      "recovered": 8582,
+      "dead": 89,
+      "updatedTime": "08/08/2020 20:48:38",
       "note": "",
       "stateCode": "CT",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 335,
+        "recovered": 263,
+        "dead": 2,
+        "active": 70
       },
       "testing_data": {
         "tested": 359857,
@@ -573,12 +573,12 @@
         "active": 116
       },
       "testing_data": {
-        "tested": 45954,
-        "positive": 4862,
-        "negative": 39960,
-        "unconfirmed": 409,
-        "date": "07/08/2020",
-        "source": "https://health.py.gov.in/sites/default/files/7.08.2020-bulletin.pdf"
+        "tested": 46878,
+        "positive": 5123,
+        "negative": 40575,
+        "unconfirmed": 428,
+        "date": "08/08/2020",
+        "source": "https://health.py.gov.in/sites/default/files/8.8.2020-bulletin.pdf"
       }
     },
     "MN": {
@@ -880,19 +880,19 @@
     }
   },
   "testing_data": {
-    "tested": 26720129,
-    "positive": 2129527,
-    "negative": 9268890,
-    "unconfirmed": 31860
+    "tested": 26751342,
+    "positive": 2132429,
+    "negative": 9269505,
+    "unconfirmed": 31879
   },
   "testing_data_imcr": {
     "tested": 23387171,
     "source": "http://twitter.com/ICMRDELHI/status/1291945755314249731"
   },
   "today": {
-    "confirmed": 41096,
-    "recovered": 33108,
-    "dead": 541,
-    "active": 7447
+    "confirmed": 42290,
+    "recovered": 34103,
+    "dead": 566,
+    "active": 7621
   }
 }
