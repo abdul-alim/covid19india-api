@@ -1,9 +1,9 @@
 {
-  "confirmed": 2174743,
-  "recovered": 1496112,
-  "dead": 43704,
-  "active": 634465,
-  "updatedTime": "09/08/2020 19:12:32",
+  "confirmed": 2187482,
+  "recovered": 1506413,
+  "dead": 43844,
+  "active": 636761,
+  "updatedTime": "09/08/2020 19:49:31",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -103,26 +103,26 @@
     },
     "AP": {
       "name": "Andhra Pradesh",
-      "confirmed": 217040,
-      "active": 85486,
-      "recovered": 129615,
-      "dead": 1939,
-      "updatedTime": "08/08/2020 18:51:35",
+      "confirmed": 227860,
+      "active": 87112,
+      "recovered": 138712,
+      "dead": 2036,
+      "updatedTime": "09/08/2020 19:49:33",
       "note": "Total includes patients from other states and a new category \"Foreign Evacuees\" which is now reported in AP bulletin.",
       "stateCode": "AP",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 10820,
+        "recovered": 9097,
+        "dead": 97,
+        "active": 1626
       },
       "testing_data": {
-        "tested": 2424393,
-        "positive": 217040,
-        "negative": 2207353,
+        "tested": 2487305,
+        "positive": 227860,
+        "negative": 2259445,
         "unconfirmed": 0,
-        "date": "08/08/2020",
-        "source": "https://twitter.com/ArogyaAndhra/status/1292081809212100608?s=20"
+        "date": "09/08/2020",
+        "source": "https://twitter.com/ArogyaAndhra/status/1292460461690982400?s=20"
       }
     },
     "UP": {
@@ -319,18 +319,18 @@
     },
     "MP": {
       "name": "Madhya Pradesh",
-      "confirmed": 38157,
-      "active": 8827,
-      "recovered": 28353,
-      "dead": 977,
-      "updatedTime": "08/08/2020 21:27:38",
+      "confirmed": 39025,
+      "active": 9009,
+      "recovered": 29020,
+      "dead": 996,
+      "updatedTime": "09/08/2020 19:42:37",
       "note": "",
       "stateCode": "MP",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 868,
+        "recovered": 667,
+        "dead": 19,
+        "active": 182
       },
       "testing_data": {
         "tested": 874678,
@@ -415,18 +415,18 @@
     },
     "PB": {
       "name": "Punjab",
-      "confirmed": 22928,
-      "active": 7506,
-      "recovered": 14860,
-      "dead": 562,
-      "updatedTime": "08/08/2020 20:20:43",
+      "confirmed": 23903,
+      "active": 7998,
+      "recovered": 15319,
+      "dead": 586,
+      "updatedTime": "09/08/2020 19:42:39",
       "note": "",
       "stateCode": "PB",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 975,
+        "recovered": 459,
+        "dead": 24,
+        "active": 492
       },
       "testing_data": {
         "tested": 659284,
@@ -607,18 +607,18 @@
     },
     "HP": {
       "name": "Himachal Pradesh",
-      "confirmed": 3304,
-      "active": 1144,
-      "recovered": 2118,
+      "confirmed": 3334,
+      "active": 1164,
+      "recovered": 2128,
       "dead": 14,
-      "updatedTime": "09/08/2020 12:42:37",
+      "updatedTime": "09/08/2020 19:42:41",
       "note": "HP has 29 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed",
       "stateCode": "HP",
       "today": {
-        "confirmed": 40,
-        "recovered": 37,
+        "confirmed": 70,
+        "recovered": 47,
         "dead": 1,
-        "active": 2
+        "active": 22
       },
       "testing_data": {
         "tested": 163395,
@@ -727,35 +727,35 @@
     },
     "DN": {
       "name": "Dadra and Nagar Haveli and Daman and Diu",
-      "confirmed": 1510,
-      "active": 409,
-      "recovered": 1089,
+      "confirmed": 1555,
+      "active": 424,
+      "recovered": 1117,
       "dead": 2,
-      "updatedTime": "08/08/2020 22:59:35",
+      "updatedTime": "09/08/2020 19:42:43",
       "note": "",
       "stateCode": "DN",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 45,
+        "recovered": 28,
         "dead": 0,
-        "active": 0
+        "active": 17
       },
       "isUnknown": true
     },
     "ML": {
       "name": "Meghalaya",
-      "confirmed": 1061,
-      "active": 605,
-      "recovered": 450,
+      "confirmed": 1062,
+      "active": 566,
+      "recovered": 490,
       "dead": 6,
-      "updatedTime": "09/08/2020 12:36:37",
+      "updatedTime": "09/08/2020 19:49:35",
       "note": "[June 17]:\nOne case was identified to be false positive and has been removed from the confirmed cases by ML authorities.",
       "stateCode": "ML",
       "today": {
-        "confirmed": 38,
-        "recovered": 27,
+        "confirmed": 39,
+        "recovered": 67,
         "dead": 0,
-        "active": 11
+        "active": -28
       },
       "testing_data": {
         "tested": 40631,
@@ -880,9 +880,9 @@
     }
   },
   "testing_data": {
-    "tested": 27483131,
-    "positive": 2063653,
-    "negative": 10249323,
+    "tested": 27546043,
+    "positive": 2074473,
+    "negative": 10301415,
     "unconfirmed": 33333
   },
   "testing_data_imcr": {
@@ -890,9 +890,9 @@
     "source": "http://twitter.com/ICMRDELHI/status/1292303919930945537"
   },
   "today": {
-    "confirmed": 22723,
-    "recovered": 16308,
-    "dead": 251,
-    "active": 6164
+    "confirmed": 35462,
+    "recovered": 26609,
+    "dead": 391,
+    "active": 8462
   }
 }
