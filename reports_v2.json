@@ -1,24 +1,24 @@
 {
-  "confirmed": 2199101,
-  "recovered": 1517079,
-  "dead": 44051,
-  "active": 637507,
-  "updatedTime": "09/08/2020 20:37:32",
+  "confirmed": 2211460,
+  "recovered": 1530570,
+  "dead": 44440,
+  "active": 635986,
+  "updatedTime": "09/08/2020 20:52:32",
   "states": {
     "MH": {
       "name": "Maharashtra",
-      "confirmed": 503084,
-      "active": 147048,
-      "recovered": 338362,
-      "dead": 17367,
+      "confirmed": 515304,
+      "active": 145536,
+      "recovered": 351705,
+      "dead": 17756,
       "updatedTime": "08/08/2020 20:29:36",
       "note": "307 cases are marked as non-covid deaths in MH bulletin. These have been reduced from active count\n[June 16] : 1328 deceased cases have been retroactively added to MH bulletin.\n[June 20]: 69 deceased cases have been reduced based on state bulletin.\n",
       "stateCode": "MH",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 12220,
+        "recovered": 13343,
+        "dead": 389,
+        "active": -1512
       },
       "testing_data": {
         "tested": 2730285,
@@ -347,7 +347,7 @@
       "active": 13821,
       "recovered": 31785,
       "dead": 321,
-      "updatedTime": "09/08/2020 20:37:37",
+      "updatedTime": "09/08/2020 20:41:34",
       "note": "[July 12th] 20 non-covid deaths reported in state dashboard are included in the deceased count\n[June 22nd]: NDRF/ODRF cases have been redistributed to districts based on state dashboard",
       "stateCode": "OR",
       "today": {
@@ -405,12 +405,12 @@
         "active": 239
       },
       "testing_data": {
-        "tested": 963632,
-        "positive": 33121,
+        "tested": 984208,
+        "positive": 34332,
         "negative": 0,
-        "unconfirmed": 6777,
-        "date": "08/08/2020",
-        "source": "https://dhs.kerala.gov.in/wp-content/uploads/2020/08/Bulletin-HFWD-English-August-08.pdf"
+        "unconfirmed": 4989,
+        "date": "09/08/2020",
+        "source": "https://dhs.kerala.gov.in/wp-content/uploads/2020/08/Bulletin-HFWD-English-August-09.pdf"
       }
     },
     "PB": {
@@ -515,7 +515,7 @@
       "active": 2642,
       "recovered": 5995,
       "dead": 75,
-      "updatedTime": "09/08/2020 20:37:40",
+      "updatedTime": "09/08/2020 20:41:36",
       "note": "",
       "stateCode": "GA",
       "today": {
@@ -816,18 +816,18 @@
     },
     "AN": {
       "name": "Andaman and Nicobar",
-      "confirmed": 1351,
-      "active": 831,
-      "recovered": 500,
+      "confirmed": 1490,
+      "active": 822,
+      "recovered": 648,
       "dead": 20,
-      "updatedTime": "08/08/2020 21:03:05",
+      "updatedTime": "09/08/2020 20:52:37",
       "note": "",
       "stateCode": "AN",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 139,
+        "recovered": 148,
         "dead": 0,
-        "active": 0
+        "active": -9
       },
       "testing_data": {
         "tested": 26516,
@@ -880,19 +880,19 @@
     }
   },
   "testing_data": {
-    "tested": 27665734,
-    "positive": 2084730,
+    "tested": 27686310,
+    "positive": 2085941,
     "negative": 10405610,
-    "unconfirmed": 33034
+    "unconfirmed": 31246
   },
   "testing_data_imcr": {
     "tested": 24106535,
     "source": "http://twitter.com/ICMRDELHI/status/1292303919930945537"
   },
   "today": {
-    "confirmed": 47081,
-    "recovered": 37275,
-    "dead": 598,
-    "active": 9208
+    "confirmed": 59440,
+    "recovered": 50766,
+    "dead": 987,
+    "active": 7687
   }
 }
