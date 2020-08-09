@@ -1,9 +1,9 @@
 {
-  "confirmed": 2212429,
-  "recovered": 1531849,
+  "confirmed": 2212435,
+  "recovered": 1531929,
   "dead": 44457,
-  "active": 635659,
-  "updatedTime": "09/08/2020 21:52:33",
+  "active": 635585,
+  "updatedTime": "09/08/2020 22:13:32",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -768,26 +768,26 @@
     },
     "SK": {
       "name": "Sikkim",
-      "confirmed": 860,
-      "active": 442,
-      "recovered": 417,
+      "confirmed": 866,
+      "active": 368,
+      "recovered": 497,
       "dead": 1,
-      "updatedTime": "08/08/2020 22:17:42",
+      "updatedTime": "09/08/2020 22:13:38",
       "note": "",
       "stateCode": "SK",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 6,
+        "recovered": 80,
         "dead": 0,
-        "active": 0
+        "active": -74
       },
       "testing_data": {
-        "tested": 30533,
-        "positive": 854,
+        "tested": 30732,
+        "positive": 895,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "08/08/2020",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/1618"
+        "date": "09/08/2020",
+        "source": "https://covid19sikkim.org/"
       }
     },
     "MZ": {
@@ -880,8 +880,8 @@
     }
   },
   "testing_data": {
-    "tested": 27750100,
-    "positive": 2090035,
+    "tested": 27750299,
+    "positive": 2090076,
     "negative": 10449155,
     "unconfirmed": 32196
   },
@@ -890,9 +890,9 @@
     "source": "http://twitter.com/ICMRDELHI/status/1292303919930945537"
   },
   "today": {
-    "confirmed": 60409,
-    "recovered": 52045,
+    "confirmed": 60415,
+    "recovered": 52125,
     "dead": 1004,
-    "active": 7360
+    "active": 7286
   }
 }
