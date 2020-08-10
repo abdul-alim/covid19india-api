@@ -1,9 +1,9 @@
 {
-  "confirmed": 2243251,
-  "recovered": 1559947,
-  "dead": 44842,
-  "active": 637998,
-  "updatedTime": "10/08/2020 20:24:34",
+  "confirmed": 2244435,
+  "recovered": 1560800,
+  "dead": 44855,
+  "active": 638313,
+  "updatedTime": "10/08/2020 20:49:32",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -35,7 +35,7 @@
       "active": 53099,
       "recovered": 244675,
       "dead": 5041,
-      "updatedTime": "10/08/2020 20:21:38",
+      "updatedTime": "10/08/2020 20:28:35",
       "note": "[July 22]: 444 backdated deceased entries added to Chennai in TN bulletin.\n2 deaths cross notified to other states from Chennai and Coimbatore.\n1 patient died after turning negative for infection in Chengalpattu.\nThese cases have been added to TN deceased tally",
       "stateCode": "TN",
       "today": {
@@ -275,7 +275,7 @@
       "active": 6448,
       "recovered": 35492,
       "dead": 489,
-      "updatedTime": "10/08/2020 20:21:41",
+      "updatedTime": "10/08/2020 20:28:37",
       "note": "[Aug 2]: 21 Foreign Evacuees have been merged to Panchkula and 14 Italian tourists have been merged to Gurugram in HR bulletin.",
       "stateCode": "HR",
       "today": {
@@ -296,17 +296,17 @@
     "AS": {
       "name": "Assam",
       "confirmed": 58838,
-      "active": 16364,
+      "active": 16358,
       "recovered": 42326,
-      "dead": 145,
-      "updatedTime": "09/08/2020 23:27:34",
+      "dead": 151,
+      "updatedTime": "10/08/2020 20:49:35",
       "note": "Includes 1 case from Nagaland",
       "stateCode": "AS",
       "today": {
         "confirmed": 0,
         "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "dead": 6,
+        "active": -6
       },
       "testing_data": {
         "tested": 1318204,
@@ -323,7 +323,7 @@
       "active": 9202,
       "recovered": 29674,
       "dead": 1015,
-      "updatedTime": "10/08/2020 20:24:36",
+      "updatedTime": "10/08/2020 20:34:49",
       "note": "",
       "stateCode": "MP",
       "today": {
@@ -333,12 +333,12 @@
         "active": 193
       },
       "testing_data": {
-        "tested": 891698,
-        "positive": 39025,
-        "negative": 848394,
+        "tested": 909926,
+        "positive": 39891,
+        "negative": 865756,
         "unconfirmed": 0,
-        "date": "09/08/2020",
-        "source": "https://twitter.com/healthminmp/status/1292457132768468992?s=20"
+        "date": "10/08/2020",
+        "source": "https://twitter.com/healthminmp/status/1292834485608693767?s=20"
       }
     },
     "OR": {
@@ -391,18 +391,18 @@
     },
     "KL": {
       "name": "Kerala",
-      "confirmed": 34331,
-      "active": 12347,
-      "recovered": 21832,
-      "dead": 109,
-      "updatedTime": "09/08/2020 19:17:33",
-      "note": "Mahe native who expired in Kannur included in Kerala's deceased tally.\nOne patient absconded from Palakkad to TN and one patient returned back to Maharashtra. Some non-covid deaths (accident,cancer etc.) have also been reported in the bulletin.\nIn total 43 such cases have been reduced from active count",
+      "confirmed": 35515,
+      "active": 12737,
+      "recovered": 22616,
+      "dead": 116,
+      "updatedTime": "10/08/2020 20:49:37",
+      "note": "Mahe native who expired in Kannur included in Kerala's deceased tally.\nOne patient absconded from Palakkad to TN and one patient returned back to Maharashtra. Some non-covid deaths (accident,cancer etc.) have also been reported in the bulletin.\nIn total 46 such cases have been reduced from active count",
       "stateCode": "KL",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 1184,
+        "recovered": 784,
+        "dead": 7,
+        "active": 393
       },
       "testing_data": {
         "tested": 1000988,
@@ -578,7 +578,7 @@
         "negative": 41941,
         "unconfirmed": 386,
         "date": "10/08/2020",
-        "source": "https://health.py.gov.in/"
+        "source": "https://health.py.gov.in/sites/default/files/10.8.2020-bulletin..pdf"
       }
     },
     "MN": {
@@ -597,12 +597,12 @@
         "active": 22
       },
       "testing_data": {
-        "tested": 101230,
-        "positive": 3753,
+        "tested": 103268,
+        "positive": 3853,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "09/08/2020",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/1631"
+        "date": "10/08/2020",
+        "source": "https://twitter.com/airnews_imphal/status/1292809803534700547?s=20"
       }
     },
     "HP": {
@@ -656,25 +656,25 @@
     "NL": {
       "name": "Nagaland",
       "confirmed": 3011,
-      "active": 2096,
-      "recovered": 904,
+      "active": 2027,
+      "recovered": 973,
       "dead": 8,
       "updatedTime": "10/08/2020 17:18:35",
       "note": "",
       "stateCode": "NL",
       "today": {
         "confirmed": 230,
-        "recovered": 0,
+        "recovered": 69,
         "dead": 0,
-        "active": 230
+        "active": 161
       },
       "testing_data": {
-        "tested": 45564,
-        "positive": 2781,
+        "tested": 46518,
+        "positive": 3011,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "09/08/2020",
-        "source": "https://twitter.com/MyGovNagaland/status/1292438339006603266?s=20"
+        "date": "10/08/2020",
+        "source": "https://twitter.com/MyGovNagaland/status/1292841870129688578?s=20"
       }
     },
     "AR": {
@@ -880,9 +880,9 @@
     }
   },
   "testing_data": {
-    "tested": 28264040,
-    "positive": 2779548,
-    "negative": 9594868,
+    "tested": 28285260,
+    "positive": 2780744,
+    "negative": 9612230,
     "unconfirmed": 29185
   },
   "testing_data_imcr": {
@@ -890,9 +890,9 @@
     "source": "https://twitter.com/ICMRDELHI/status/1292671584549789696"
   },
   "today": {
-    "confirmed": 29114,
-    "recovered": 25669,
-    "dead": 376,
-    "active": 3069
+    "confirmed": 30298,
+    "recovered": 26522,
+    "dead": 389,
+    "active": 3387
   }
 }
