@@ -1168,9 +1168,9 @@
       "dead": 4
     },
     "confirmed": 64407,
-    "recovered": 43587,
+    "recovered": 45074,
     "dead": 155,
-    "active": 20662
+    "active": 19175
   },
   "BR": {
     "state": "Bihar",
@@ -2425,37 +2425,37 @@
       {
         "district": "North Goa",
         "notes": "District-wise numbers are out-dated as cumulative counts for each district are not reported in bulletin",
-        "active": 916,
+        "active": 914,
         "confirmed": 1450,
         "recovered": 508,
-        "dead": 26,
+        "dead": 28,
         "today": {
           "confirmed": 0,
           "recovered": 0,
-          "active": 0,
-          "dead": 0
+          "active": -1,
+          "dead": 1
         }
       },
       {
         "district": "South Goa",
         "notes": "District-wise numbers are out-dated as cumulative counts for each district are not reported in bulletin",
-        "active": 1720,
+        "active": 1711,
         "confirmed": 2670,
         "recovered": 901,
-        "dead": 49,
+        "dead": 58,
         "today": {
           "confirmed": 0,
           "recovered": 0,
-          "active": 0,
-          "dead": 0
+          "active": -5,
+          "dead": 5
         }
       }
     ],
     "today": {
       "confirmed": 0,
-      "active": 0,
+      "active": -6,
       "recovered": 0,
-      "dead": 0
+      "dead": 6
     },
     "confirmed": 9444,
     "recovered": 6480,
