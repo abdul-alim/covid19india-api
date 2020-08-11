@@ -630,28 +630,28 @@
       {
         "district": "West Kameng",
         "notes": "",
-        "active": 46,
+        "active": 49,
         "confirmed": 89,
-        "recovered": 41,
+        "recovered": 38,
         "dead": 2,
         "today": {
           "confirmed": 0,
-          "recovered": 0,
-          "active": 0,
+          "recovered": -3,
+          "active": 3,
           "dead": 0
         }
       },
       {
         "district": "West Siang",
         "notes": "",
-        "active": 44,
+        "active": 41,
         "confirmed": 71,
-        "recovered": 27,
+        "recovered": 30,
         "dead": 0,
         "today": {
           "confirmed": 16,
-          "recovered": 0,
-          "active": 16,
+          "recovered": 3,
+          "active": 13,
           "dead": 0
         }
       }
@@ -743,15 +743,15 @@
       {
         "district": "Cachar",
         "notes": "",
-        "active": 951,
+        "active": 948,
         "confirmed": 2456,
         "recovered": 1499,
-        "dead": 6,
+        "dead": 9,
         "today": {
           "confirmed": 0,
           "recovered": 0,
-          "active": 0,
-          "dead": 0
+          "active": -3,
+          "dead": 3
         }
       },
       {
@@ -827,15 +827,15 @@
       {
         "district": "Dibrugarh",
         "notes": "",
-        "active": 1194,
+        "active": 1193,
         "confirmed": 2693,
         "recovered": 1486,
-        "dead": 13,
+        "dead": 14,
         "today": {
           "confirmed": 0,
           "recovered": 0,
-          "active": 0,
-          "dead": 0
+          "active": -1,
+          "dead": 1
         }
       },
       {
@@ -1163,14 +1163,14 @@
     ],
     "today": {
       "confirmed": 0,
-      "active": 0,
+      "active": -4,
       "recovered": 0,
-      "dead": 0
+      "dead": 4
     },
     "confirmed": 61738,
     "recovered": 43587,
-    "dead": 151,
-    "active": 17997
+    "dead": 155,
+    "active": 17993
   },
   "BR": {
     "state": "Bihar",
@@ -5039,14 +5039,14 @@
       {
         "district": "Gadchiroli",
         "notes": "",
-        "active": 112,
-        "confirmed": 425,
-        "recovered": 311,
+        "active": 114,
+        "confirmed": 443,
+        "recovered": 327,
         "dead": 2,
         "today": {
-          "confirmed": 0,
-          "recovered": 0,
-          "active": 0,
+          "confirmed": 18,
+          "recovered": 16,
+          "active": 2,
           "dead": 0
         }
       },
@@ -5235,15 +5235,15 @@
       {
         "district": "Other State",
         "notes": "",
-        "active": 483,
-        "confirmed": 538,
+        "active": 495,
+        "confirmed": 551,
         "recovered": 0,
-        "dead": 55,
+        "dead": 56,
         "today": {
-          "confirmed": 0,
+          "confirmed": 13,
           "recovered": 0,
-          "active": 0,
-          "dead": 0
+          "active": 12,
+          "dead": 1
         }
       },
       {
@@ -5430,10 +5430,10 @@
       }
     ],
     "today": {
-      "confirmed": 11057,
-      "active": 804,
-      "recovered": 9998,
-      "dead": 255
+      "confirmed": 11088,
+      "active": 818,
+      "recovered": 10014,
+      "dead": 256
     },
     "confirmed": 535601,
     "recovered": 368435,
@@ -5604,10 +5604,10 @@
       "recovered": 11,
       "dead": 0
     },
-    "confirmed": 1136,
-    "recovered": 509,
+    "confirmed": 1142,
+    "recovered": 510,
     "dead": 6,
-    "active": 621
+    "active": 626
   },
   "MN": {
     "state": "Manipur",
