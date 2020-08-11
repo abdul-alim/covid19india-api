@@ -1,9 +1,9 @@
 {
-  "confirmed": 2287472,
-  "recovered": 1598476,
-  "dead": 45551,
-  "active": 642978,
-  "updatedTime": "11/08/2020 18:23:35",
+  "confirmed": 2287511,
+  "recovered": 1598529,
+  "dead": 45550,
+  "active": 642961,
+  "updatedTime": "11/08/2020 18:48:43",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -59,7 +59,7 @@
       "active": 10868,
       "recovered": 132384,
       "dead": 4139,
-      "updatedTime": "11/08/2020 18:23:36",
+      "updatedTime": "11/08/2020 18:28:42",
       "note": "[July 14]: Value for the total tests conducted has been reduced by 97008 in the state bulletin. Reason given : \"Reconciled with ICMR figures\". We have made the same change.\n[June 16]: 344 deceased cases have been retroactively added to DL bulletin.",
       "stateCode": "DL",
       "today": {
@@ -107,7 +107,7 @@
       "active": 87597,
       "recovered": 154749,
       "dead": 2203,
-      "updatedTime": "11/08/2020 18:23:38",
+      "updatedTime": "11/08/2020 18:28:46",
       "note": "Total includes patients from other states and a new category \"Foreign Evacuees\" which is now reported in AP bulletin.",
       "stateCode": "AP",
       "today": {
@@ -563,7 +563,7 @@
       "active": 2277,
       "recovered": 3532,
       "dead": 91,
-      "updatedTime": "11/08/2020 18:23:42",
+      "updatedTime": "11/08/2020 18:28:51",
       "note": "",
       "stateCode": "PY",
       "today": {
@@ -656,17 +656,17 @@
     "NL": {
       "name": "Nagaland",
       "confirmed": 3031,
-      "active": 2047,
-      "recovered": 973,
-      "dead": 8,
-      "updatedTime": "11/08/2020 15:58:37",
+      "active": 2032,
+      "recovered": 985,
+      "dead": 7,
+      "updatedTime": "11/08/2020 18:48:48",
       "note": "",
       "stateCode": "NL",
       "today": {
         "confirmed": 20,
-        "recovered": 0,
-        "dead": 0,
-        "active": 20
+        "recovered": 12,
+        "dead": -1,
+        "active": 9
       },
       "testing_data": {
         "tested": 46518,
@@ -727,18 +727,18 @@
     },
     "DN": {
       "name": "Dadra and Nagar Haveli and Daman and Diu",
-      "confirmed": 1617,
-      "active": 436,
-      "recovered": 1167,
+      "confirmed": 1656,
+      "active": 434,
+      "recovered": 1208,
       "dead": 2,
-      "updatedTime": "10/08/2020 21:40:50",
+      "updatedTime": "11/08/2020 18:48:51",
       "note": "",
       "stateCode": "DN",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 39,
+        "recovered": 41,
         "dead": 0,
-        "active": 0
+        "active": -2
       },
       "isUnknown": true
     },
@@ -890,9 +890,9 @@
     "source": "http://twitter.com/ICMRDELHI/status/1293043854820519936"
   },
   "today": {
-    "confirmed": 20319,
-    "recovered": 16836,
-    "dead": 198,
-    "active": 3285
+    "confirmed": 20358,
+    "recovered": 16889,
+    "dead": 197,
+    "active": 3272
   }
 }
