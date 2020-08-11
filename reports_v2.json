@@ -1,9 +1,9 @@
 {
-  "confirmed": 2328355,
-  "recovered": 1636590,
+  "confirmed": 2328405,
+  "recovered": 1636614,
   "dead": 46188,
-  "active": 645104,
-  "updatedTime": "11/08/2020 23:03:39",
+  "active": 645130,
+  "updatedTime": "11/08/2020 23:17:43",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -299,7 +299,7 @@
       "active": 20662,
       "recovered": 43587,
       "dead": 155,
-      "updatedTime": "11/08/2020 23:03:48",
+      "updatedTime": "11/08/2020 23:07:42",
       "note": "Includes 1 case from Nagaland",
       "stateCode": "AS",
       "today": {
@@ -443,7 +443,7 @@
       "active": 8720,
       "recovered": 10555,
       "dead": 194,
-      "updatedTime": "11/08/2020 23:03:57",
+      "updatedTime": "11/08/2020 23:07:44",
       "note": "",
       "stateCode": "JH",
       "today": {
@@ -463,18 +463,18 @@
     },
     "CT": {
       "name": "Chhattisgarh",
-      "confirmed": 12938,
-      "active": 3595,
+      "confirmed": 12985,
+      "active": 3642,
       "recovered": 9239,
       "dead": 104,
-      "updatedTime": "11/08/2020 21:11:01",
+      "updatedTime": "11/08/2020 23:17:46",
       "note": "",
       "stateCode": "CT",
       "today": {
-        "confirmed": 313,
+        "confirmed": 360,
         "recovered": 222,
         "dead": 5,
-        "active": 86
+        "active": 133
       },
       "testing_data": {
         "tested": 388852,
@@ -611,7 +611,7 @@
       "active": 1179,
       "recovered": 2273,
       "dead": 17,
-      "updatedTime": "11/08/2020 23:04:00",
+      "updatedTime": "11/08/2020 23:07:48",
       "note": "HP has 29 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed",
       "stateCode": "HP",
       "today": {
@@ -635,7 +635,7 @@
       "active": 506,
       "recovered": 1255,
       "dead": 9,
-      "updatedTime": "11/08/2020 23:04:04",
+      "updatedTime": "11/08/2020 23:09:45",
       "note": "",
       "stateCode": "LA",
       "today": {
@@ -645,12 +645,12 @@
         "active": 35
       },
       "testing_data": {
-        "tested": 22161,
-        "positive": 1717,
-        "negative": 17513,
-        "unconfirmed": 1143,
-        "date": "10/08/2020",
-        "source": "http://covid.ladakh.gov.in/Upload/getfileN/0f5c5fd7-689c-432d-b4cb-84a445549310_Covid-Ladakh%2010%20August.pdf"
+        "tested": 22709,
+        "positive": 1770,
+        "negative": 17880,
+        "unconfirmed": 1179,
+        "date": "11/08/2020",
+        "source": "http://covid.ladakh.gov.in/Upload/getfileN/0cf446af-7e74-49f2-aa35-45a0f4efe7bd_Covid-Ladakh%2011-August.pdf"
       }
     },
     "NL": {
@@ -768,18 +768,18 @@
     },
     "SK": {
       "name": "Sikkim",
-      "confirmed": 910,
-      "active": 399,
-      "recovered": 510,
+      "confirmed": 913,
+      "active": 378,
+      "recovered": 534,
       "dead": 1,
-      "updatedTime": "10/08/2020 22:28:40",
+      "updatedTime": "11/08/2020 23:17:48",
       "note": "",
       "stateCode": "SK",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 3,
+        "recovered": 24,
         "dead": 0,
-        "active": 0
+        "active": -21
       },
       "testing_data": {
         "tested": 31604,
@@ -880,19 +880,19 @@
     }
   },
   "testing_data": {
-    "tested": 29279941,
-    "positive": 973007,
-    "negative": 10842127,
-    "unconfirmed": 31389
+    "tested": 29280489,
+    "positive": 973060,
+    "negative": 10842494,
+    "unconfirmed": 31425
   },
   "testing_data_imcr": {
     "tested": 25281848,
     "source": "http://twitter.com/ICMRDELHI/status/1293043854820519936"
   },
   "today": {
-    "confirmed": 61202,
-    "recovered": 54950,
+    "confirmed": 61252,
+    "recovered": 54974,
     "dead": 835,
-    "active": 5417
+    "active": 5443
   }
 }
