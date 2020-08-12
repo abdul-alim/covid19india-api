@@ -1,9 +1,9 @@
 {
-  "confirmed": 2376717,
-  "recovered": 1677599,
-  "dead": 46779,
-  "active": 651865,
-  "updatedTime": "12/08/2020 21:50:34",
+  "confirmed": 2376815,
+  "recovered": 1677659,
+  "dead": 46785,
+  "active": 651897,
+  "updatedTime": "12/08/2020 22:04:34",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -296,17 +296,17 @@
     "AS": {
       "name": "Assam",
       "confirmed": 64407,
-      "active": 19175,
+      "active": 19169,
       "recovered": 45074,
-      "dead": 155,
-      "updatedTime": "12/08/2020 00:16:42",
+      "dead": 161,
+      "updatedTime": "12/08/2020 22:04:36",
       "note": "Includes 1 case from Nagaland",
       "stateCode": "AS",
       "today": {
         "confirmed": 0,
         "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "dead": 6,
+        "active": -6
       },
       "testing_data": {
         "tested": 1430691,
@@ -607,18 +607,18 @@
     },
     "HP": {
       "name": "Himachal Pradesh",
-      "confirmed": 3579,
-      "active": 1213,
-      "recovered": 2321,
+      "confirmed": 3636,
+      "active": 1229,
+      "recovered": 2362,
       "dead": 17,
-      "updatedTime": "12/08/2020 18:43:46",
+      "updatedTime": "12/08/2020 22:03:42",
       "note": "HP has 29 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed",
       "stateCode": "HP",
       "today": {
-        "confirmed": 82,
-        "recovered": 48,
+        "confirmed": 139,
+        "recovered": 89,
         "dead": 0,
-        "active": 34
+        "active": 50
       },
       "testing_data": {
         "tested": 168843,
@@ -631,18 +631,18 @@
     },
     "LA": {
       "name": "Ladakh",
-      "confirmed": 1770,
-      "active": 506,
-      "recovered": 1255,
+      "confirmed": 1811,
+      "active": 528,
+      "recovered": 1274,
       "dead": 9,
-      "updatedTime": "11/08/2020 23:09:45",
+      "updatedTime": "12/08/2020 22:03:44",
       "note": "",
       "stateCode": "LA",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 41,
+        "recovered": 19,
         "dead": 0,
-        "active": 0
+        "active": 22
       },
       "testing_data": {
         "tested": 22709,
@@ -669,12 +669,12 @@
         "active": -41
       },
       "testing_data": {
-        "tested": 4793,
+        "tested": 47939,
         "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
         "date": "12/08/2020",
-        "source": "https://covid19.nagaland.gov.in/health-main"
+        "source": "https://twitter.com/MyGovNagaland/status/1293541619916926977?s=20"
       }
     },
     "AR": {
@@ -772,7 +772,7 @@
       "active": 379,
       "recovered": 550,
       "dead": 1,
-      "updatedTime": "12/08/2020 21:50:37",
+      "updatedTime": "12/08/2020 22:01:55",
       "note": "",
       "stateCode": "SK",
       "today": {
@@ -820,7 +820,7 @@
       "active": 1050,
       "recovered": 829,
       "dead": 21,
-      "updatedTime": "12/08/2020 21:47:43",
+      "updatedTime": "12/08/2020 21:51:45",
       "note": "",
       "stateCode": "AN",
       "today": {
@@ -880,7 +880,7 @@
     }
   },
   "testing_data": {
-    "tested": 29771664,
+    "tested": 29814810,
     "positive": 983954,
     "negative": 10999453,
     "unconfirmed": 24756
@@ -890,9 +890,9 @@
     "source": "https://twitter.com/ICMRDELHI/status/1293400350183940096"
   },
   "today": {
-    "confirmed": 48312,
-    "recovered": 39498,
-    "dead": 591,
-    "active": 8223
+    "confirmed": 48410,
+    "recovered": 39558,
+    "dead": 597,
+    "active": 8255
   }
 }
