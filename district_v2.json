@@ -799,15 +799,15 @@
       {
         "district": "Dhemaji",
         "notes": "",
-        "active": 48,
+        "active": 47,
         "confirmed": 286,
         "recovered": 238,
-        "dead": 0,
+        "dead": 1,
         "today": {
           "confirmed": 0,
           "recovered": 0,
-          "active": 0,
-          "dead": 0
+          "active": -1,
+          "dead": 1
         }
       },
       {
@@ -827,15 +827,15 @@
       {
         "district": "Dibrugarh",
         "notes": "",
-        "active": 1452,
+        "active": 1450,
         "confirmed": 2952,
         "recovered": 1486,
-        "dead": 14,
+        "dead": 16,
         "today": {
           "confirmed": 0,
           "recovered": 0,
-          "active": 0,
-          "dead": 0
+          "active": -2,
+          "dead": 2
         }
       },
       {
@@ -939,15 +939,15 @@
       {
         "district": "Kamrup Metropolitan",
         "notes": "",
-        "active": 8104,
+        "active": 8103,
         "confirmed": 19494,
         "recovered": 11336,
-        "dead": 54,
+        "dead": 55,
         "today": {
           "confirmed": 0,
           "recovered": 0,
-          "active": 0,
-          "dead": 0
+          "active": -1,
+          "dead": 1
         }
       },
       {
@@ -967,15 +967,15 @@
       {
         "district": "Karimganj",
         "notes": "",
-        "active": 57,
+        "active": 55,
         "confirmed": 612,
         "recovered": 549,
-        "dead": 6,
+        "dead": 8,
         "today": {
           "confirmed": 0,
           "recovered": 0,
-          "active": 0,
-          "dead": 0
+          "active": -2,
+          "dead": 2
         }
       },
       {
@@ -1163,9 +1163,9 @@
     ],
     "today": {
       "confirmed": 0,
-      "active": 0,
+      "active": -6,
       "recovered": 0,
-      "dead": 0
+      "dead": 6
     },
     "confirmed": 64407,
     "recovered": 45074,
@@ -3085,50 +3085,50 @@
       {
         "district": "Sirmaur",
         "notes": "",
-        "active": 119,
-        "confirmed": 452,
+        "active": 129,
+        "confirmed": 462,
         "recovered": 332,
         "dead": 1,
         "today": {
-          "confirmed": 10,
+          "confirmed": 20,
           "recovered": 0,
-          "active": 10,
+          "active": 20,
           "dead": 0
         }
       },
       {
         "district": "Solan",
         "notes": "",
-        "active": 381,
-        "confirmed": 856,
-        "recovered": 474,
+        "active": 390,
+        "confirmed": 903,
+        "recovered": 512,
         "dead": 1,
         "today": {
-          "confirmed": 0,
-          "recovered": 0,
-          "active": 0,
+          "confirmed": 47,
+          "recovered": 38,
+          "active": 9,
           "dead": 0
         }
       },
       {
         "district": "Una",
         "notes": "",
-        "active": 101,
+        "active": 98,
         "confirmed": 294,
-        "recovered": 193,
+        "recovered": 196,
         "dead": 0,
         "today": {
           "confirmed": 16,
-          "recovered": 1,
-          "active": 15,
+          "recovered": 4,
+          "active": 12,
           "dead": 0
         }
       }
     ],
     "today": {
-      "confirmed": 82,
-      "active": 34,
-      "recovered": 48,
+      "confirmed": 139,
+      "active": 50,
+      "recovered": 89,
       "dead": 0
     },
     "confirmed": 3636,
