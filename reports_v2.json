@@ -1,9 +1,9 @@
 {
-  "confirmed": 2330327,
-  "recovered": 1640021,
+  "confirmed": 2330437,
+  "recovered": 1640203,
   "dead": 46197,
-  "active": 643636,
-  "updatedTime": "12/08/2020 09:42:36",
+  "active": 643564,
+  "updatedTime": "12/08/2020 10:42:37",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -535,26 +535,26 @@
     },
     "TR": {
       "name": "Tripura",
-      "confirmed": 6387,
-      "active": 1670,
-      "recovered": 4656,
+      "confirmed": 6497,
+      "active": 1598,
+      "recovered": 4838,
       "dead": 43,
-      "updatedTime": "11/08/2020 15:23:43",
+      "updatedTime": "12/08/2020 10:42:41",
       "note": "[Aug 4]\nTripura bulletin for the previous day is released on the next day. We will add the cases for Tripura against the date of release, as that is the convention that we are following for other states.",
       "stateCode": "TR",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 110,
+        "recovered": 182,
         "dead": 0,
-        "active": 0
+        "active": -72
       },
       "testing_data": {
-        "tested": 205125,
-        "positive": 6387,
-        "negative": 198738,
+        "tested": 208165,
+        "positive": 6497,
+        "negative": 201668,
         "unconfirmed": 0,
-        "date": "11/08/2020",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/1663"
+        "date": "12/08/2020",
+        "source": "https://covid19.tripura.gov.in/Visitor/ViewStatus.aspx"
       }
     },
     "PY": {
@@ -880,9 +880,9 @@
     }
   },
   "testing_data": {
-    "tested": 29280489,
-    "positive": 973060,
-    "negative": 10842494,
+    "tested": 29283529,
+    "positive": 973170,
+    "negative": 10845424,
     "unconfirmed": 31425
   },
   "testing_data_imcr": {
@@ -890,9 +890,9 @@
     "source": "https://twitter.com/ICMRDELHI/status/1293400350183940096"
   },
   "today": {
-    "confirmed": 1922,
-    "recovered": 1920,
+    "confirmed": 2032,
+    "recovered": 2102,
     "dead": 9,
-    "active": -7
+    "active": -79
   }
 }
