@@ -1,9 +1,9 @@
 {
-  "confirmed": 2410591,
-  "recovered": 1707806,
-  "dead": 47260,
-  "active": 655051,
-  "updatedTime": "13/08/2020 17:03:35",
+  "confirmed": 2411547,
+  "recovered": 1708719,
+  "dead": 47274,
+  "active": 655080,
+  "updatedTime": "13/08/2020 17:08:36",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -103,18 +103,18 @@
     },
     "DL": {
       "name": "Delhi",
-      "confirmed": 148504,
-      "active": 10946,
-      "recovered": 133405,
-      "dead": 4153,
+      "confirmed": 149460,
+      "active": 10975,
+      "recovered": 134318,
+      "dead": 4167,
       "updatedTime": "12/08/2020 16:08:37",
       "note": "[July 14]: Value for the total tests conducted has been reduced by 97008 in the state bulletin. Reason given : \"Reconciled with ICMR figures\". We have made the same change.\n[June 16]: 344 deceased cases have been retroactively added to DL bulletin.",
       "stateCode": "DL",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 956,
+        "recovered": 913,
+        "dead": 14,
+        "active": 29
       },
       "testing_data": {
         "tested": 1242739,
@@ -213,12 +213,12 @@
         "active": 140
       },
       "testing_data": {
-        "tested": 665847,
+        "tested": 689150,
         "positive": 0,
         "negative": 0,
-        "unconfirmed": 1221,
-        "date": "12/08/2020",
-        "source": "https://twitter.com/drgsrao/status/1293382763152732161?s=20"
+        "unconfirmed": 0,
+        "date": "13/08/2020",
+        "source": ""
       }
     },
     "GJ": {
@@ -772,7 +772,7 @@
       "active": 638,
       "recovered": 547,
       "dead": 6,
-      "updatedTime": "13/08/2020 17:03:37",
+      "updatedTime": "13/08/2020 17:08:40",
       "note": "[June 17]:\nOne case was identified to be false positive and has been removed from the confirmed cases by ML authorities.",
       "stateCode": "ML",
       "today": {
@@ -806,12 +806,12 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 31974,
+        "tested": 32421,
         "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "12/08/2020",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/1689"
+        "date": "13/08/2020",
+        "source": "https://covid19sikkim.org/"
       }
     },
     "MZ": {
@@ -880,19 +880,19 @@
     }
   },
   "testing_data": {
-    "tested": 30348485,
+    "tested": 30372235,
     "positive": 1017173,
     "negative": 10167514,
-    "unconfirmed": 27898
+    "unconfirmed": 26677
   },
   "testing_data_imcr": {
     "tested": 26845688,
     "source": "https://twitter.com/ICMRDELHI/status/1293766272744697856?s=20"
   },
   "today": {
-    "confirmed": 15120,
-    "recovered": 11946,
-    "dead": 122,
-    "active": 3052
+    "confirmed": 16076,
+    "recovered": 12859,
+    "dead": 136,
+    "active": 3081
   }
 }
