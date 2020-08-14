@@ -72,10 +72,10 @@
       "recovered": 0,
       "dead": 0
     },
-    "confirmed": 2037,
-    "recovered": 924,
-    "dead": 22,
-    "active": 1091
+    "confirmed": 2186,
+    "recovered": 1032,
+    "dead": 24,
+    "active": 1130
   },
   "AP": {
     "state": "Andhra Pradesh",
@@ -855,15 +855,15 @@
       {
         "district": "Goalpara",
         "notes": "",
-        "active": 90,
+        "active": 89,
         "confirmed": 658,
         "recovered": 568,
-        "dead": 0,
+        "dead": 1,
         "today": {
           "confirmed": 0,
           "recovered": 0,
-          "active": 0,
-          "dead": 0
+          "active": -1,
+          "dead": 1
         }
       },
       {
@@ -883,15 +883,15 @@
       {
         "district": "Hailakandi",
         "notes": "",
-        "active": 269,
+        "active": 268,
         "confirmed": 1387,
         "recovered": 1116,
-        "dead": 2,
+        "dead": 3,
         "today": {
           "confirmed": 0,
           "recovered": 0,
-          "active": 0,
-          "dead": 0
+          "active": -1,
+          "dead": 1
         }
       },
       {
@@ -925,43 +925,43 @@
       {
         "district": "Kamrup",
         "notes": "",
-        "active": 1068,
+        "active": 1066,
         "confirmed": 3150,
         "recovered": 2074,
-        "dead": 8,
+        "dead": 10,
         "today": {
           "confirmed": 0,
           "recovered": 0,
-          "active": 0,
-          "dead": 0
+          "active": -2,
+          "dead": 2
         }
       },
       {
         "district": "Kamrup Metropolitan",
         "notes": "",
-        "active": 6429,
+        "active": 6428,
         "confirmed": 21081,
         "recovered": 14599,
-        "dead": 53,
+        "dead": 54,
         "today": {
           "confirmed": 0,
           "recovered": 0,
-          "active": 0,
-          "dead": 0
+          "active": -1,
+          "dead": 1
         }
       },
       {
         "district": "Karbi Anglong",
         "notes": "",
-        "active": 76,
+        "active": 75,
         "confirmed": 632,
         "recovered": 552,
-        "dead": 4,
+        "dead": 5,
         "today": {
           "confirmed": 0,
           "recovered": 0,
-          "active": 0,
-          "dead": 0
+          "active": -1,
+          "dead": 1
         }
       },
       {
@@ -1163,14 +1163,14 @@
     ],
     "today": {
       "confirmed": 0,
-      "active": 0,
+      "active": -6,
       "recovered": 0,
-      "dead": 0
+      "dead": 6
     },
     "confirmed": 71796,
     "recovered": 49384,
-    "dead": 169,
-    "active": 22240
+    "dead": 175,
+    "active": 22234
   },
   "BR": {
     "state": "Bihar",
@@ -4841,42 +4841,42 @@
       {
         "district": "Kargil",
         "notes": "",
-        "active": 198,
-        "confirmed": 960,
+        "active": 204,
+        "confirmed": 966,
         "recovered": 758,
         "dead": 4,
         "today": {
-          "confirmed": 0,
+          "confirmed": 6,
           "recovered": 0,
-          "active": 0,
+          "active": 6,
           "dead": 0
         }
       },
       {
         "district": "Leh",
         "notes": "",
-        "active": 360,
-        "confirmed": 889,
-        "recovered": 524,
+        "active": 363,
+        "confirmed": 913,
+        "recovered": 545,
         "dead": 5,
         "today": {
-          "confirmed": 0,
-          "recovered": 0,
-          "active": 0,
+          "confirmed": 24,
+          "recovered": 21,
+          "active": 3,
           "dead": 0
         }
       }
     ],
     "today": {
-      "confirmed": 0,
-      "active": 0,
-      "recovered": 0,
+      "confirmed": 30,
+      "active": 9,
+      "recovered": 21,
       "dead": 0
     },
-    "confirmed": 1849,
-    "recovered": 1282,
+    "confirmed": 1879,
+    "recovered": 1303,
     "dead": 9,
-    "active": 558
+    "active": 567
   },
   "LD": {
     "state": "Lakshadweep",
