@@ -1,9 +1,9 @@
 {
-  "confirmed": 2554458,
-  "recovered": 1833694,
-  "dead": 49464,
-  "active": 670811,
-  "updatedTime": "15/08/2020 19:23:41",
+  "confirmed": 2557558,
+  "recovered": 1835718,
+  "dead": 49481,
+  "active": 671870,
+  "updatedTime": "15/08/2020 19:50:40",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -35,7 +35,7 @@
       "active": 54213,
       "recovered": 272251,
       "dead": 5641,
-      "updatedTime": "15/08/2020 19:23:43",
+      "updatedTime": "15/08/2020 19:27:47",
       "note": "[July 22]: 444 backdated deceased entries added to Chennai in TN bulletin.\n2 deaths cross notified to other states from Chennai and Coimbatore.\n1 patient died after turning negative for infection in Chengalpattu.\nThese cases have been added to TN deceased tally",
       "stateCode": "TN",
       "today": {
@@ -69,12 +69,12 @@
         "active": -1769
       },
       "testing_data": {
-        "tested": 2758485,
+        "tested": 2812197,
         "positive": 0,
-        "negative": 2485400,
+        "negative": 2530380,
         "unconfirmed": 0,
-        "date": "14/08/2020",
-        "source": "https://twitter.com/ArogyaAndhra/status/1294249709712707584?s=20"
+        "date": "15/08/2020",
+        "source": ""
       }
     },
     "KA": {
@@ -103,18 +103,18 @@
     },
     "DL": {
       "name": "Delhi",
-      "confirmed": 150652,
-      "active": 11366,
-      "recovered": 135108,
-      "dead": 4178,
-      "updatedTime": "14/08/2020 16:29:37",
+      "confirmed": 151928,
+      "active": 11489,
+      "recovered": 136251,
+      "dead": 4188,
+      "updatedTime": "15/08/2020 19:50:42",
       "note": "[July 14]: Value for the total tests conducted has been reduced by 97008 in the state bulletin. Reason given : \"Reconciled with ICMR figures\". We have made the same change.\n[June 16]: 344 deceased cases have been retroactively added to DL bulletin.",
       "stateCode": "DL",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 1276,
+        "recovered": 1143,
+        "dead": 10,
+        "active": 123
       },
       "testing_data": {
         "tested": 1273140,
@@ -367,18 +367,18 @@
     },
     "KL": {
       "name": "Kerala",
-      "confirmed": 41277,
-      "active": 14097,
-      "recovered": 26992,
-      "dead": 140,
-      "updatedTime": "14/08/2020 19:27:56",
+      "confirmed": 42885,
+      "active": 14895,
+      "recovered": 27795,
+      "dead": 147,
+      "updatedTime": "15/08/2020 19:50:45",
       "note": "Mahe native who expired in Kannur included in Kerala's deceased tally.\nOne patient absconded from Palakkad to TN and one patient returned back to Maharashtra. Some non-covid deaths (accident,cancer etc.) have also been reported in the bulletin.\nIn total 48 such cases have been reduced from active count",
       "stateCode": "KL",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 1608,
+        "recovered": 803,
+        "dead": 7,
+        "active": 798
       },
       "testing_data": {
         "tested": 1120935,
@@ -583,18 +583,18 @@
     },
     "MN": {
       "name": "Manipur",
-      "confirmed": 4198,
-      "active": 1825,
-      "recovered": 2360,
+      "confirmed": 4390,
+      "active": 1939,
+      "recovered": 2438,
       "dead": 13,
-      "updatedTime": "14/08/2020 19:54:54",
+      "updatedTime": "15/08/2020 19:50:47",
       "note": "",
       "stateCode": "MN",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 192,
+        "recovered": 78,
         "dead": 0,
-        "active": 0
+        "active": 114
       },
       "testing_data": {
         "tested": 110026,
@@ -607,18 +607,18 @@
     },
     "HP": {
       "name": "Himachal Pradesh",
-      "confirmed": 3883,
-      "active": 1249,
+      "confirmed": 3907,
+      "active": 1273,
       "recovered": 2580,
       "dead": 18,
-      "updatedTime": "15/08/2020 15:51:42",
+      "updatedTime": "15/08/2020 19:50:49",
       "note": "HP has 37 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed",
       "stateCode": "HP",
       "today": {
-        "confirmed": 9,
+        "confirmed": 33,
         "recovered": 29,
         "dead": 0,
-        "active": -20
+        "active": 4
       },
       "testing_data": {
         "tested": 175666,
@@ -880,9 +880,9 @@
     }
   },
   "testing_data": {
-    "tested": 32126569,
+    "tested": 32180281,
     "positive": 1841597,
-    "negative": 11667885,
+    "negative": 11712865,
     "unconfirmed": 37875
   },
   "testing_data_imcr": {
@@ -890,9 +890,9 @@
     "source": "http://twitter.com/ICMRDELHI/status/1294485146712698880"
   },
   "today": {
-    "confirmed": 29236,
-    "recovered": 26138,
-    "dead": 331,
-    "active": 2767
+    "confirmed": 32336,
+    "recovered": 28162,
+    "dead": 348,
+    "active": 3826
   }
 }
