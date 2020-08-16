@@ -1,9 +1,9 @@
 {
-  "confirmed": 2610010,
-  "recovered": 1880263,
-  "dead": 50365,
-  "active": 678878,
-  "updatedTime": "16/08/2020 18:48:43",
+  "confirmed": 2618041,
+  "recovered": 1890403,
+  "dead": 50453,
+  "active": 676681,
+  "updatedTime": "16/08/2020 19:02:42",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -55,18 +55,18 @@
     },
     "AP": {
       "name": "Andhra Pradesh",
-      "confirmed": 281817,
-      "active": 88138,
-      "recovered": 191117,
-      "dead": 2562,
-      "updatedTime": "15/08/2020 18:28:40",
+      "confirmed": 289829,
+      "active": 85945,
+      "recovered": 201234,
+      "dead": 2650,
+      "updatedTime": "16/08/2020 19:02:48",
       "note": "Total includes patients from other states and a new category \"Foreign Evacuees\" which is now reported in AP bulletin.",
       "stateCode": "AP",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 8012,
+        "recovered": 10117,
+        "dead": 88,
+        "active": -2193
       },
       "testing_data": {
         "tested": 2812197,
@@ -371,7 +371,7 @@
       "active": 15312,
       "recovered": 28894,
       "dead": 157,
-      "updatedTime": "16/08/2020 18:48:46",
+      "updatedTime": "16/08/2020 18:53:44",
       "note": "Mahe native who expired in Kannur included in Kerala's deceased tally.\nOne patient absconded from Palakkad to TN and one patient returned back to Maharashtra. Some non-covid deaths (accident,cancer etc.) have also been reported in the bulletin.\nIn total 52 such cases have been reduced from active count",
       "stateCode": "KL",
       "today": {
@@ -381,12 +381,12 @@
         "active": 421
       },
       "testing_data": {
-        "tested": 1154365,
-        "positive": 42886,
+        "tested": 1182727,
+        "positive": 44416,
         "negative": 0,
-        "unconfirmed": 9246,
-        "date": "15/08/2020",
-        "source": "https://dhs.kerala.gov.in/wp-content/uploads/2020/08/Bulletin-HFWD-English-August-15.pdf"
+        "unconfirmed": 8256,
+        "date": "16/08/2020",
+        "source": ""
       }
     },
     "PB": {
@@ -751,18 +751,18 @@
     },
     "DN": {
       "name": "Dadra and Nagar Haveli and Daman and Diu",
-      "confirmed": 1862,
-      "active": 436,
-      "recovered": 1408,
+      "confirmed": 1881,
+      "active": 432,
+      "recovered": 1431,
       "dead": 2,
-      "updatedTime": "16/08/2020 18:00:45",
+      "updatedTime": "16/08/2020 19:02:51",
       "note": "",
       "stateCode": "DN",
       "today": {
-        "confirmed": 16,
-        "recovered": 24,
+        "confirmed": 35,
+        "recovered": 47,
         "dead": 0,
-        "active": -8
+        "active": -12
       },
       "isUnknown": true
     },
@@ -880,19 +880,19 @@
     }
   },
   "testing_data": {
-    "tested": 32865833,
-    "positive": 2003575,
+    "tested": 32894195,
+    "positive": 2005105,
     "negative": 11889424,
-    "unconfirmed": 39379
+    "unconfirmed": 38389
   },
   "testing_data_imcr": {
     "tested": 29309703,
     "source": "http://twitter.com/ICMRDELHI/status/1294841110259326976"
   },
   "today": {
-    "confirmed": 20802,
-    "recovered": 19591,
-    "dead": 280,
-    "active": 931
+    "confirmed": 28833,
+    "recovered": 29731,
+    "dead": 368,
+    "active": -1266
   }
 }
