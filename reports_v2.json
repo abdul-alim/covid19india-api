@@ -1,9 +1,9 @@
 {
-  "confirmed": 2600164,
-  "recovered": 1869060,
-  "dead": 50205,
-  "active": 680395,
-  "updatedTime": "16/08/2020 18:13:42",
+  "confirmed": 2610010,
+  "recovered": 1880263,
+  "dead": 50365,
+  "active": 678878,
+  "updatedTime": "16/08/2020 18:48:43",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -31,18 +31,18 @@
     },
     "TN": {
       "name": "Tamil Nadu",
-      "confirmed": 332105,
-      "active": 54213,
-      "recovered": 272251,
-      "dead": 5641,
-      "updatedTime": "15/08/2020 19:27:47",
+      "confirmed": 338055,
+      "active": 54019,
+      "recovered": 278270,
+      "dead": 5766,
+      "updatedTime": "16/08/2020 18:44:44",
       "note": "[July 22]: 444 backdated deceased entries added to Chennai in TN bulletin.\n2 deaths cross notified to other states from Chennai and Coimbatore.\n1 patient died after turning negative for infection in Chengalpattu.\nThese cases have been added to TN deceased tally",
       "stateCode": "TN",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 5950,
+        "recovered": 6019,
+        "dead": 125,
+        "active": -194
       },
       "testing_data": {
         "tested": 3640796,
@@ -107,7 +107,7 @@
       "active": 10823,
       "recovered": 137561,
       "dead": 4196,
-      "updatedTime": "16/08/2020 18:13:44",
+      "updatedTime": "16/08/2020 18:27:56",
       "note": "[July 14]: Value for the total tests conducted has been reduced by 97008 in the state bulletin. Reason given : \"Reconciled with ICMR figures\". We have made the same change.\n[June 16]: 344 deceased cases have been retroactively added to DL bulletin.",
       "stateCode": "DL",
       "today": {
@@ -131,7 +131,7 @@
       "active": 51537,
       "recovered": 100432,
       "dead": 2449,
-      "updatedTime": "16/08/2020 18:13:46",
+      "updatedTime": "16/08/2020 18:27:59",
       "note": "",
       "stateCode": "UP",
       "today": {
@@ -175,26 +175,26 @@
     },
     "BR": {
       "name": "Bihar",
-      "confirmed": 101906,
-      "active": 32715,
-      "recovered": 68675,
-      "dead": 515,
-      "updatedTime": "15/08/2020 19:07:39",
+      "confirmed": 104093,
+      "active": 30989,
+      "recovered": 72566,
+      "dead": 537,
+      "updatedTime": "16/08/2020 18:44:46",
       "note": "",
       "stateCode": "BR",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 2187,
+        "recovered": 3891,
+        "dead": 22,
+        "active": -1726
       },
       "testing_data": {
-        "tested": 1612250,
+        "tested": 1679462,
         "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "15/08/2020",
-        "source": "https://twitter.com/BiharHealthDept/status/1294626574772264960"
+        "date": "16/08/2020",
+        "source": "https://twitter.com/BiharHealthDept/status/1294981230295838722"
       }
     },
     "TG": {
@@ -367,18 +367,18 @@
     },
     "KL": {
       "name": "Kerala",
-      "confirmed": 42885,
-      "active": 14891,
-      "recovered": 27795,
-      "dead": 147,
-      "updatedTime": "16/08/2020 17:44:44",
+      "confirmed": 44415,
+      "active": 15312,
+      "recovered": 28894,
+      "dead": 157,
+      "updatedTime": "16/08/2020 18:48:46",
       "note": "Mahe native who expired in Kannur included in Kerala's deceased tally.\nOne patient absconded from Palakkad to TN and one patient returned back to Maharashtra. Some non-covid deaths (accident,cancer etc.) have also been reported in the bulletin.\nIn total 52 such cases have been reduced from active count",
       "stateCode": "KL",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 1530,
+        "recovered": 1099,
+        "dead": 10,
+        "active": 421
       },
       "testing_data": {
         "tested": 1154365,
@@ -419,7 +419,7 @@
       "active": 6985,
       "recovered": 20943,
       "dead": 542,
-      "updatedTime": "16/08/2020 18:13:49",
+      "updatedTime": "16/08/2020 18:28:03",
       "note": "",
       "stateCode": "JK",
       "today": {
@@ -583,18 +583,18 @@
     },
     "MN": {
       "name": "Manipur",
-      "confirmed": 4390,
-      "active": 1939,
-      "recovered": 2438,
-      "dead": 13,
-      "updatedTime": "15/08/2020 19:57:46",
+      "confirmed": 4569,
+      "active": 1921,
+      "recovered": 2632,
+      "dead": 16,
+      "updatedTime": "16/08/2020 18:44:49",
       "note": "",
       "stateCode": "MN",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 179,
+        "recovered": 194,
+        "dead": 3,
+        "active": -18
       },
       "testing_data": {
         "tested": 112780,
@@ -880,7 +880,7 @@
     }
   },
   "testing_data": {
-    "tested": 32798621,
+    "tested": 32865833,
     "positive": 2003575,
     "negative": 11889424,
     "unconfirmed": 39379
@@ -890,9 +890,9 @@
     "source": "http://twitter.com/ICMRDELHI/status/1294841110259326976"
   },
   "today": {
-    "confirmed": 10956,
-    "recovered": 8388,
-    "dead": 120,
-    "active": 2448
+    "confirmed": 20802,
+    "recovered": 19591,
+    "dead": 280,
+    "active": 931
   }
 }
