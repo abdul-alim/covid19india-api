@@ -1,9 +1,9 @@
 {
-  "confirmed": 2633595,
-  "recovered": 1904071,
-  "dead": 50830,
-  "active": 678190,
-  "updatedTime": "16/08/2020 20:18:48",
+  "confirmed": 2634256,
+  "recovered": 1904612,
+  "dead": 50845,
+  "active": 678295,
+  "updatedTime": "16/08/2020 20:49:44",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -248,17 +248,17 @@
     "AS": {
       "name": "Assam",
       "confirmed": 75559,
-      "active": 22087,
+      "active": 22080,
       "recovered": 53287,
-      "dead": 182,
-      "updatedTime": "16/08/2020 00:30:42",
+      "dead": 189,
+      "updatedTime": "16/08/2020 20:44:42",
       "note": "Includes 1 case from Nagaland",
       "stateCode": "AS",
       "today": {
         "confirmed": 0,
         "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "dead": 7,
+        "active": -7
       },
       "testing_data": {
         "tested": 1705526,
@@ -299,7 +299,7 @@
       "active": 17377,
       "recovered": 42277,
       "dead": 396,
-      "updatedTime": "16/08/2020 13:00:43",
+      "updatedTime": "16/08/2020 20:28:45",
       "note": "[July 12th] 20 non-covid deaths reported in state dashboard are included in the deceased count\n[June 22nd]: NDRF/ODRF cases have been redistributed to districts based on state dashboard",
       "stateCode": "OR",
       "today": {
@@ -333,12 +333,12 @@
         "active": 71
       },
       "testing_data": {
-        "tested": 830477,
-        "positive": 46410,
-        "negative": 778189,
-        "unconfirmed": 5878,
-        "date": "15/08/2020",
-        "source": "http://www.nhmharyana.gov.in/WriteReadData/userfiles/file/CoronaVirus/Daily%20Bulletin%20of%20COVID%2019%20as%20on%2015-08-20.pdf"
+        "tested": 844422,
+        "positive": 0,
+        "negative": 0,
+        "unconfirmed": 0,
+        "date": "16/08/2020",
+        "source": ""
       }
     },
     "MP": {
@@ -463,18 +463,18 @@
     },
     "CT": {
       "name": "Chhattisgarh",
-      "confirmed": 15045,
-      "active": 4865,
-      "recovered": 10046,
-      "dead": 134,
-      "updatedTime": "15/08/2020 23:07:45",
+      "confirmed": 15471,
+      "active": 5095,
+      "recovered": 10235,
+      "dead": 141,
+      "updatedTime": "16/08/2020 20:44:45",
       "note": "",
       "stateCode": "CT",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 426,
+        "recovered": 189,
+        "dead": 7,
+        "active": 230
       },
       "testing_data": {
         "tested": 414328,
@@ -487,18 +487,18 @@
     },
     "UT": {
       "name": "Uttarakhand",
-      "confirmed": 11940,
-      "active": 3997,
-      "recovered": 7748,
-      "dead": 151,
-      "updatedTime": "15/08/2020 20:51:56",
+      "confirmed": 12175,
+      "active": 3879,
+      "recovered": 8100,
+      "dead": 152,
+      "updatedTime": "16/08/2020 20:49:48",
       "note": "",
       "stateCode": "UT",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 235,
+        "recovered": 352,
+        "dead": 1,
+        "active": -118
       },
       "testing_data": {
         "tested": 256008,
@@ -880,19 +880,19 @@
     }
   },
   "testing_data": {
-    "tested": 33168700,
-    "positive": 1858916,
-    "negative": 11980696,
-    "unconfirmed": 38154
+    "tested": 33182645,
+    "positive": 1812506,
+    "negative": 11202507,
+    "unconfirmed": 32276
   },
   "testing_data_imcr": {
     "tested": 29309703,
     "source": "http://twitter.com/ICMRDELHI/status/1294841110259326976"
   },
   "today": {
-    "confirmed": 44387,
-    "recovered": 43399,
-    "dead": 745,
-    "active": 243
+    "confirmed": 45048,
+    "recovered": 43940,
+    "dead": 760,
+    "active": 348
   }
 }
