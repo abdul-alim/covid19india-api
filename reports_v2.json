@@ -1,9 +1,9 @@
 {
-  "confirmed": 2634256,
-  "recovered": 1904612,
-  "dead": 50845,
-  "active": 678295,
-  "updatedTime": "16/08/2020 20:49:44",
+  "confirmed": 2641296,
+  "recovered": 1911292,
+  "dead": 50969,
+  "active": 678531,
+  "updatedTime": "16/08/2020 21:03:43",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -79,18 +79,18 @@
     },
     "KA": {
       "name": "Karnataka",
-      "confirmed": 219926,
-      "active": 81274,
-      "recovered": 134811,
-      "dead": 3832,
-      "updatedTime": "15/08/2020 22:17:43",
+      "confirmed": 226966,
+      "active": 81510,
+      "recovered": 141491,
+      "dead": 3956,
+      "updatedTime": "16/08/2020 21:03:47",
       "note": "",
       "stateCode": "KA",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 7040,
+        "recovered": 6680,
+        "dead": 124,
+        "active": 236
       },
       "testing_data": {
         "tested": 1993760,
@@ -251,7 +251,7 @@
       "active": 22080,
       "recovered": 53287,
       "dead": 189,
-      "updatedTime": "16/08/2020 20:44:42",
+      "updatedTime": "16/08/2020 20:52:48",
       "note": "Includes 1 case from Nagaland",
       "stateCode": "AS",
       "today": {
@@ -335,10 +335,10 @@
       "testing_data": {
         "tested": 844422,
         "positive": 0,
-        "negative": 0,
-        "unconfirmed": 0,
+        "negative": 791184,
+        "unconfirmed": 6085,
         "date": "16/08/2020",
-        "source": ""
+        "source": "http://www.nhmharyana.gov.in/WriteReadData/userfiles/file/CoronaVirus/Daily%20Bulletin%20of%20COVID%2019%20as%20on%2016-08-20.pdf"
       }
     },
     "MP": {
@@ -429,12 +429,12 @@
         "active": 167
       },
       "testing_data": {
-        "tested": 785475,
-        "positive": 28021,
-        "negative": 757454,
+        "tested": 793537,
+        "positive": 0,
+        "negative": 765067,
         "unconfirmed": 0,
-        "date": "15/08/2020",
-        "source": "https://twitter.com/diprjk/status/1294613298659254273?s=20"
+        "date": "16/08/2020",
+        "source": "https://twitter.com/diprjk/status/1294974994225610754?s=20"
       }
     },
     "JH": {
@@ -467,7 +467,7 @@
       "active": 5095,
       "recovered": 10235,
       "dead": 141,
-      "updatedTime": "16/08/2020 20:44:45",
+      "updatedTime": "16/08/2020 20:52:51",
       "note": "",
       "stateCode": "CT",
       "today": {
@@ -491,7 +491,7 @@
       "active": 3879,
       "recovered": 8100,
       "dead": 152,
-      "updatedTime": "16/08/2020 20:49:48",
+      "updatedTime": "16/08/2020 20:56:50",
       "note": "",
       "stateCode": "UT",
       "today": {
@@ -880,19 +880,19 @@
     }
   },
   "testing_data": {
-    "tested": 33182645,
-    "positive": 1812506,
-    "negative": 11202507,
-    "unconfirmed": 32276
+    "tested": 33190707,
+    "positive": 1784485,
+    "negative": 12001304,
+    "unconfirmed": 38361
   },
   "testing_data_imcr": {
     "tested": 29309703,
     "source": "http://twitter.com/ICMRDELHI/status/1294841110259326976"
   },
   "today": {
-    "confirmed": 45048,
-    "recovered": 43940,
-    "dead": 760,
-    "active": 348
+    "confirmed": 52088,
+    "recovered": 50620,
+    "dead": 884,
+    "active": 584
   }
 }
