@@ -1,9 +1,9 @@
 {
-  "confirmed": 2690473,
-  "recovered": 1965328,
-  "dead": 51789,
-  "active": 672849,
-  "updatedTime": "17/08/2020 21:08:54",
+  "confirmed": 2690831,
+  "recovered": 1965798,
+  "dead": 51795,
+  "active": 672731,
+  "updatedTime": "17/08/2020 21:39:16",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -487,18 +487,18 @@
     },
     "UT": {
       "name": "Uttarakhand",
-      "confirmed": 12175,
-      "active": 3879,
-      "recovered": 8100,
-      "dead": 152,
-      "updatedTime": "16/08/2020 20:56:50",
+      "confirmed": 12493,
+      "active": 3806,
+      "recovered": 8485,
+      "dead": 158,
+      "updatedTime": "17/08/2020 21:39:20",
       "note": "",
       "stateCode": "UT",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 318,
+        "recovered": 385,
+        "dead": 6,
+        "active": -73
       },
       "testing_data": {
         "tested": 260790,
@@ -573,12 +573,12 @@
         "active": 109
       },
       "testing_data": {
-        "tested": 55937,
-        "positive": 7732,
-        "negative": 46456,
-        "unconfirmed": 712,
-        "date": "16/08/2020",
-        "source": "https://health.py.gov.in/sites/default/files/16.08.2020-bulletin.pdf"
+        "tested": 57025,
+        "positive": 0,
+        "negative": 47202,
+        "unconfirmed": 709,
+        "date": "17/08/2020",
+        "source": "https://health.py.gov.in/sites/default/files/17.08.2020-bulletin.pdf"
       }
     },
     "MN": {
@@ -650,23 +650,23 @@
         "negative": 0,
         "unconfirmed": 0,
         "date": "17/08/2020",
-        "source": "https://covid19.nagaland.gov.in/health-main"
+        "source": "https://twitter.com/MyGovNagaland/status/1295355187301740544?s=20"
       }
     },
     "AR": {
       "name": "Arunachal Pradesh",
-      "confirmed": 2701,
-      "active": 888,
-      "recovered": 1808,
+      "confirmed": 2741,
+      "active": 843,
+      "recovered": 1893,
       "dead": 5,
-      "updatedTime": "16/08/2020 22:47:52",
+      "updatedTime": "17/08/2020 21:39:23",
       "note": "[July 25]: All numbers corresponding to Papum Pare and Captial Complex are tracked under Papum Pare district.",
       "stateCode": "AR",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 40,
+        "recovered": 85,
         "dead": 0,
-        "active": 0
+        "active": -45
       },
       "testing_data": {
         "tested": 124786,
@@ -880,19 +880,19 @@
     }
   },
   "testing_data": {
-    "tested": 33731420,
-    "positive": 1019448,
-    "negative": 12195912,
-    "unconfirmed": 34697
+    "tested": 33732508,
+    "positive": 1011716,
+    "negative": 12196658,
+    "unconfirmed": 34694
   },
   "testing_data_imcr": {
     "tested": 30041400,
     "source": "http://twitter.com/ICMRDELHI/status/1295198089125355521"
   },
   "today": {
-    "confirmed": 43169,
-    "recovered": 47252,
-    "dead": 744,
-    "active": -4827
+    "confirmed": 43527,
+    "recovered": 47722,
+    "dead": 750,
+    "active": -4945
   }
 }
