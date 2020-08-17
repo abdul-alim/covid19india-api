@@ -1,24 +1,24 @@
 {
-  "confirmed": 2674332,
-  "recovered": 1945558,
-  "dead": 51407,
-  "active": 676861,
-  "updatedTime": "17/08/2020 19:47:50",
+  "confirmed": 2685101,
+  "recovered": 1958438,
+  "dead": 51703,
+  "active": 674453,
+  "updatedTime": "17/08/2020 20:13:51",
   "states": {
     "MH": {
       "name": "Maharashtra",
-      "confirmed": 595865,
-      "active": 158395,
-      "recovered": 417123,
-      "dead": 20037,
-      "updatedTime": "16/08/2020 20:14:46",
-      "note": "310 cases are marked as non-covid deaths in MH bulletin. These have been reduced from active count\n[Aug 15] : MH bulletin has reduced 819 confirmed cases in Mumbai and 72 confirmed cases from 'Other States' from the tally\n[Jun 16] : 1328 deceased cases have been retroactively added to MH bulletin.\n[Jun 20] : 69 deceased cases have been reduced based on state bulletin.\n",
+      "confirmed": 604358,
+      "active": 155268,
+      "recovered": 428514,
+      "dead": 20265,
+      "updatedTime": "17/08/2020 20:13:55",
+      "note": "311 cases are marked as non-covid deaths in MH bulletin. These have been reduced from active count\n[Aug 15] : MH bulletin has reduced 819 confirmed cases in Mumbai and 72 confirmed cases from 'Other States' from the tally\n[Jun 16] : 1328 deceased cases have been retroactively added to MH bulletin.\n[Jun 20] : 69 deceased cases have been reduced based on state bulletin.\n",
       "stateCode": "MH",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 8493,
+        "recovered": 11391,
+        "dead": 228,
+        "active": -3126
       },
       "testing_data": {
         "tested": 3208735,
@@ -103,18 +103,18 @@
     },
     "DL": {
       "name": "Delhi",
-      "confirmed": 152580,
-      "active": 10823,
-      "recovered": 137561,
-      "dead": 4196,
+      "confirmed": 153367,
+      "active": 10852,
+      "recovered": 138301,
+      "dead": 4214,
       "updatedTime": "16/08/2020 18:27:56",
       "note": "[July 14]: Value for the total tests conducted has been reduced by 97008 in the state bulletin. Reason given : \"Reconciled with ICMR figures\". We have made the same change.\n[June 16]: 344 deceased cases have been retroactively added to DL bulletin.",
       "stateCode": "DL",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 787,
+        "recovered": 740,
+        "dead": 18,
+        "active": 29
       },
       "testing_data": {
         "tested": 1302120,
@@ -391,18 +391,18 @@
     },
     "PB": {
       "name": "Punjab",
-      "confirmed": 31206,
-      "active": 10963,
-      "recovered": 19431,
-      "dead": 812,
-      "updatedTime": "16/08/2020 20:19:00",
+      "confirmed": 32695,
+      "active": 11653,
+      "recovered": 20180,
+      "dead": 862,
+      "updatedTime": "17/08/2020 20:13:58",
       "note": "",
       "stateCode": "PB",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 1489,
+        "recovered": 749,
+        "dead": 50,
+        "active": 690
       },
       "testing_data": {
         "tested": 770873,
@@ -429,12 +429,12 @@
         "active": 63
       },
       "testing_data": {
-        "tested": 793537,
+        "tested": 801329,
         "positive": 0,
-        "negative": 765067,
+        "negative": 772437,
         "unconfirmed": 0,
-        "date": "16/08/2020",
-        "source": "https://twitter.com/diprjk/status/1294974994225610754?s=20"
+        "date": "17/08/2020",
+        "source": "https://twitter.com/diprjk/status/1295336395431534592?s=20"
       }
     },
     "JH": {
@@ -525,12 +525,12 @@
         "active": 65
       },
       "testing_data": {
-        "tested": 165356,
-        "positive": 11639,
+        "tested": 167381,
+        "positive": 0,
         "negative": 0,
-        "unconfirmed": 243,
-        "date": "16/08/2020",
-        "source": "https://twitter.com/DHS_Goa/status/1295002023499161605?s=20"
+        "unconfirmed": 284,
+        "date": "17/08/2020",
+        "source": "https://www.goa.gov.in/wp-content/uploads/2020/08/Media-Bulletin-17th-August-2020.pdf"
       }
     },
     "TR": {
@@ -880,19 +880,19 @@
     }
   },
   "testing_data": {
-    "tested": 33509413,
-    "positive": 1028329,
-    "negative": 12125103,
-    "unconfirmed": 36839
+    "tested": 33519230,
+    "positive": 1016690,
+    "negative": 12132473,
+    "unconfirmed": 36880
   },
   "testing_data_imcr": {
     "tested": 30041400,
     "source": "http://twitter.com/ICMRDELHI/status/1295198089125355521"
   },
   "today": {
-    "confirmed": 27028,
-    "recovered": 27482,
-    "dead": 362,
-    "active": -816
+    "confirmed": 37797,
+    "recovered": 40362,
+    "dead": 658,
+    "active": -3223
   }
 }
