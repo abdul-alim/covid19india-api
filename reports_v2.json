@@ -1,9 +1,9 @@
 {
-  "confirmed": 2706484,
-  "recovered": 1978751,
-  "dead": 51955,
-  "active": 675271,
-  "updatedTime": "18/08/2020 13:50:43",
+  "confirmed": 2706583,
+  "recovered": 1978773,
+  "dead": 51956,
+  "active": 675347,
+  "updatedTime": "18/08/2020 15:23:42",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -440,17 +440,17 @@
     "JH": {
       "name": "Jharkhand",
       "confirmed": 24067,
-      "active": 8464,
-      "recovered": 15348,
-      "dead": 255,
-      "updatedTime": "17/08/2020 23:27:46",
+      "active": 8442,
+      "recovered": 15369,
+      "dead": 256,
+      "updatedTime": "18/08/2020 15:23:45",
       "note": "",
       "stateCode": "JH",
       "today": {
         "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "recovered": 21,
+        "dead": 1,
+        "active": -22
       },
       "testing_data": {
         "tested": 473973,
@@ -607,18 +607,18 @@
     },
     "HP": {
       "name": "Himachal Pradesh",
-      "confirmed": 4174,
-      "active": 1280,
-      "recovered": 2834,
+      "confirmed": 4208,
+      "active": 1313,
+      "recovered": 2835,
       "dead": 18,
-      "updatedTime": "17/08/2020 22:10:45",
+      "updatedTime": "18/08/2020 15:23:47",
       "note": "HP has 43 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed",
       "stateCode": "HP",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 34,
+        "recovered": 1,
         "dead": 0,
-        "active": 0
+        "active": 33
       },
       "testing_data": {
         "tested": 180357,
@@ -631,18 +631,18 @@
     },
     "NL": {
       "name": "Nagaland",
-      "confirmed": 3455,
-      "active": 1911,
+      "confirmed": 3520,
+      "active": 1976,
       "recovered": 1530,
       "dead": 7,
-      "updatedTime": "17/08/2020 19:47:59",
+      "updatedTime": "18/08/2020 15:23:49",
       "note": "",
       "stateCode": "NL",
       "today": {
-        "confirmed": 0,
+        "confirmed": 65,
         "recovered": 0,
         "dead": 0,
-        "active": 0
+        "active": 65
       },
       "testing_data": {
         "tested": 51483,
@@ -890,9 +890,9 @@
     "source": "https://twitter.com/ICMRDELHI/status/1295561779540459520?s=20"
   },
   "today": {
-    "confirmed": 4882,
-    "recovered": 2503,
-    "dead": 30,
-    "active": 2349
+    "confirmed": 4981,
+    "recovered": 2525,
+    "dead": 31,
+    "active": 2425
   }
 }
