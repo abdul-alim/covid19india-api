@@ -1,9 +1,9 @@
 {
-  "confirmed": 2724162,
-  "recovered": 1997293,
-  "dead": 52140,
-  "active": 674222,
-  "updatedTime": "18/08/2020 18:03:40",
+  "confirmed": 2724642,
+  "recovered": 1997918,
+  "dead": 52153,
+  "active": 674064,
+  "updatedTime": "18/08/2020 18:20:44",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -131,7 +131,7 @@
       "active": 50242,
       "recovered": 109607,
       "dead": 2585,
-      "updatedTime": "17/08/2020 18:39:46",
+      "updatedTime": "18/08/2020 18:11:48",
       "note": "",
       "stateCode": "UP",
       "today": {
@@ -381,12 +381,12 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 1205759,
-        "positive": 46141,
+        "tested": 1240076,
+        "positive": 47899,
         "negative": 0,
-        "unconfirmed": 6073,
-        "date": "17/08/2020",
-        "source": "https://dhs.kerala.gov.in/wp-content/uploads/2020/08/Bulletin-New-Format-English-August-17.pdf"
+        "unconfirmed": 0,
+        "date": "18/08/2020",
+        "source": "https://dhs.kerala.gov.in/%e0%b4%a1%e0%b5%86%e0%b4%af%e0%b4%bf%e0%b4%b2%e0%b4%bf-%e0%b4%ac%e0%b5%81%e0%b4%b3%e0%b5%8d%e0%b4%b3%e0%b4%b1%e0%b5%8d%e0%b4%b1%e0%b4%bf%e0%b4%a8%e0%b5%8d%e2%80%8d/"
       }
     },
     "PB": {
@@ -415,18 +415,18 @@
     },
     "JK": {
       "name": "Jammu and Kashmir",
-      "confirmed": 28892,
-      "active": 7048,
-      "recovered": 21296,
-      "dead": 548,
-      "updatedTime": "17/08/2020 18:25:54",
+      "confirmed": 29326,
+      "active": 6879,
+      "recovered": 21886,
+      "dead": 561,
+      "updatedTime": "18/08/2020 18:20:48",
       "note": "",
       "stateCode": "JK",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 434,
+        "recovered": 590,
+        "dead": 13,
+        "active": -169
       },
       "testing_data": {
         "tested": 801329,
@@ -563,7 +563,7 @@
       "active": 3364,
       "recovered": 4909,
       "dead": 123,
-      "updatedTime": "18/08/2020 18:02:48",
+      "updatedTime": "18/08/2020 18:06:48",
       "note": "",
       "stateCode": "PY",
       "today": {
@@ -587,7 +587,7 @@
       "active": 1958,
       "recovered": 2789,
       "dead": 18,
-      "updatedTime": "18/08/2020 18:03:43",
+      "updatedTime": "18/08/2020 18:11:51",
       "note": "",
       "stateCode": "MN",
       "today": {
@@ -607,18 +607,18 @@
     },
     "HP": {
       "name": "Himachal Pradesh",
-      "confirmed": 4208,
-      "active": 1313,
-      "recovered": 2835,
+      "confirmed": 4230,
+      "active": 1319,
+      "recovered": 2851,
       "dead": 18,
-      "updatedTime": "18/08/2020 15:28:45",
+      "updatedTime": "18/08/2020 18:20:52",
       "note": "HP has 43 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed",
       "stateCode": "HP",
       "today": {
-        "confirmed": 34,
-        "recovered": 1,
+        "confirmed": 56,
+        "recovered": 17,
         "dead": 0,
-        "active": 33
+        "active": 39
       },
       "testing_data": {
         "tested": 180357,
@@ -751,18 +751,18 @@
     },
     "DN": {
       "name": "Dadra and Nagar Haveli and Daman and Diu",
-      "confirmed": 1915,
-      "active": 412,
-      "recovered": 1485,
+      "confirmed": 1939,
+      "active": 417,
+      "recovered": 1504,
       "dead": 2,
-      "updatedTime": "18/08/2020 16:42:49",
+      "updatedTime": "18/08/2020 18:20:54",
       "note": "",
       "stateCode": "DN",
       "today": {
-        "confirmed": 7,
-        "recovered": 5,
+        "confirmed": 31,
+        "recovered": 24,
         "dead": 0,
-        "active": 2
+        "active": 7
       },
       "isUnknown": true
     },
@@ -880,19 +880,19 @@
     }
   },
   "testing_data": {
-    "tested": 34366493,
-    "positive": 970172,
+    "tested": 34400810,
+    "positive": 971930,
     "negative": 12351708,
-    "unconfirmed": 34593
+    "unconfirmed": 28520
   },
   "testing_data_imcr": {
     "tested": 30941264,
     "source": "https://twitter.com/ICMRDELHI/status/1295561779540459520"
   },
   "today": {
-    "confirmed": 22560,
-    "recovered": 21045,
-    "dead": 215,
-    "active": 1300
+    "confirmed": 23040,
+    "recovered": 21670,
+    "dead": 228,
+    "active": 1142
   }
 }
