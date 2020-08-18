@@ -1,9 +1,9 @@
 {
-  "confirmed": 2706583,
-  "recovered": 1978773,
-  "dead": 51956,
-  "active": 675347,
-  "updatedTime": "18/08/2020 15:28:41",
+  "confirmed": 2709847,
+  "recovered": 1982939,
+  "dead": 51972,
+  "active": 674429,
+  "updatedTime": "18/08/2020 16:42:42",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -175,18 +175,18 @@
     },
     "BR": {
       "name": "Bihar",
-      "confirmed": 106618,
-      "active": 29369,
-      "recovered": 76706,
-      "dead": 542,
-      "updatedTime": "17/08/2020 18:25:50",
+      "confirmed": 109875,
+      "active": 28576,
+      "recovered": 80740,
+      "dead": 558,
+      "updatedTime": "18/08/2020 16:42:44",
       "note": "",
       "stateCode": "BR",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 3257,
+        "recovered": 4034,
+        "dead": 16,
+        "active": -793
       },
       "testing_data": {
         "tested": 1787189,
@@ -632,17 +632,17 @@
     "NL": {
       "name": "Nagaland",
       "confirmed": 3520,
-      "active": 1976,
-      "recovered": 1530,
+      "active": 1849,
+      "recovered": 1657,
       "dead": 7,
-      "updatedTime": "18/08/2020 15:28:47",
+      "updatedTime": "18/08/2020 16:42:47",
       "note": "",
       "stateCode": "NL",
       "today": {
         "confirmed": 65,
-        "recovered": 0,
+        "recovered": 127,
         "dead": 0,
-        "active": 65
+        "active": -62
       },
       "testing_data": {
         "tested": 51483,
@@ -751,18 +751,18 @@
     },
     "DN": {
       "name": "Dadra and Nagar Haveli and Daman and Diu",
-      "confirmed": 1908,
-      "active": 410,
-      "recovered": 1480,
+      "confirmed": 1915,
+      "active": 412,
+      "recovered": 1485,
       "dead": 2,
-      "updatedTime": "17/08/2020 18:53:55",
+      "updatedTime": "18/08/2020 16:42:49",
       "note": "",
       "stateCode": "DN",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 7,
+        "recovered": 5,
         "dead": 0,
-        "active": 0
+        "active": 2
       },
       "isUnknown": true
     },
@@ -887,12 +887,12 @@
   },
   "testing_data_imcr": {
     "tested": 30941264,
-    "source": "https://twitter.com/ICMRDELHI/status/1295561779540459520?s=20"
+    "source": "https://twitter.com/ICMRDELHI/status/1295561779540459520"
   },
   "today": {
-    "confirmed": 4981,
-    "recovered": 2525,
-    "dead": 31,
-    "active": 2425
+    "confirmed": 8245,
+    "recovered": 6691,
+    "dead": 47,
+    "active": 1507
   }
 }
