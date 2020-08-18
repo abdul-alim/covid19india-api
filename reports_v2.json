@@ -1,9 +1,9 @@
 {
-  "confirmed": 2752272,
-  "recovered": 2023731,
-  "dead": 52846,
-  "active": 675186,
-  "updatedTime": "18/08/2020 21:21:05",
+  "confirmed": 2752765,
+  "recovered": 2024096,
+  "dead": 52853,
+  "active": 675302,
+  "updatedTime": "18/08/2020 21:55:49",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -237,12 +237,12 @@
         "active": -25
       },
       "testing_data": {
-        "tested": 1358364,
-        "positive": 79816,
-        "negative": 1278548,
+        "tested": 1415598,
+        "positive": 80942,
+        "negative": 0,
         "unconfirmed": 0,
-        "date": "17/08/2020",
-        "source": "http://twitter.com/PIBAhmedabad/status/1295359645469429762"
+        "date": "18/08/2020",
+        "source": "https://twitter.com/DDNewsGujarati/status/1295730039774834688/photo/3"
       }
     },
     "AS": {
@@ -487,18 +487,18 @@
     },
     "UT": {
       "name": "Uttarakhand",
-      "confirmed": 12493,
-      "active": 3806,
-      "recovered": 8485,
-      "dead": 158,
-      "updatedTime": "17/08/2020 21:52:02",
+      "confirmed": 12961,
+      "active": 4024,
+      "recovered": 8724,
+      "dead": 164,
+      "updatedTime": "18/08/2020 21:55:52",
       "note": "",
       "stateCode": "UT",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 468,
+        "recovered": 239,
+        "dead": 6,
+        "active": 223
       },
       "testing_data": {
         "tested": 273357,
@@ -607,26 +607,26 @@
     },
     "HP": {
       "name": "Himachal Pradesh",
-      "confirmed": 4230,
-      "active": 1319,
-      "recovered": 2851,
+      "confirmed": 4235,
+      "active": 1252,
+      "recovered": 2923,
       "dead": 18,
-      "updatedTime": "18/08/2020 18:20:52",
+      "updatedTime": "18/08/2020 21:55:54",
       "note": "HP has 43 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed",
       "stateCode": "HP",
       "today": {
-        "confirmed": 56,
-        "recovered": 17,
+        "confirmed": 61,
+        "recovered": 89,
         "dead": 0,
-        "active": 39
+        "active": -28
       },
       "testing_data": {
-        "tested": 180357,
+        "tested": 183224,
         "positive": 0,
-        "negative": 176001,
-        "unconfirmed": 182,
-        "date": "17/08/2020",
-        "source": "https://twitter.com/nhm_hp/status/1295392181239181313?s=20"
+        "negative": 177766,
+        "unconfirmed": 1223,
+        "date": "18/08/2020",
+        "source": "https://twitter.com/nhm_hp/status/1295750406920761344?s=20"
       }
     },
     "NL": {
@@ -792,18 +792,18 @@
     },
     "SK": {
       "name": "Sikkim",
-      "confirmed": 1187,
-      "active": 485,
-      "recovered": 701,
-      "dead": 1,
-      "updatedTime": "17/08/2020 22:09:59",
+      "confirmed": 1207,
+      "active": 450,
+      "recovered": 755,
+      "dead": 2,
+      "updatedTime": "18/08/2020 21:55:57",
       "note": "",
       "stateCode": "SK",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 20,
+        "recovered": 54,
+        "dead": 1,
+        "active": -35
       },
       "testing_data": {
         "tested": 34553,
@@ -880,19 +880,19 @@
     }
   },
   "testing_data": {
-    "tested": 34758906,
-    "positive": 1084480,
-    "negative": 12396204,
-    "unconfirmed": 39933
+    "tested": 34819007,
+    "positive": 1085606,
+    "negative": 11119421,
+    "unconfirmed": 40974
   },
   "testing_data_imcr": {
     "tested": 30941264,
     "source": "https://twitter.com/ICMRDELHI/status/1295561779540459520"
   },
   "today": {
-    "confirmed": 50670,
-    "recovered": 47483,
-    "dead": 921,
-    "active": 2266
+    "confirmed": 51163,
+    "recovered": 47848,
+    "dead": 928,
+    "active": 2387
   }
 }
