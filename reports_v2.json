@@ -1,9 +1,9 @@
 {
-  "confirmed": 2823078,
-  "recovered": 2084819,
-  "dead": 53838,
-  "active": 683892,
-  "updatedTime": "19/08/2020 21:24:46",
+  "confirmed": 2823191,
+  "recovered": 2084894,
+  "dead": 53849,
+  "active": 683919,
+  "updatedTime": "19/08/2020 21:39:02",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -248,17 +248,17 @@
     "AS": {
       "name": "Assam",
       "confirmed": 82202,
-      "active": 23701,
+      "active": 23691,
       "recovered": 58295,
-      "dead": 203,
-      "updatedTime": "19/08/2020 06:37:48",
+      "dead": 213,
+      "updatedTime": "19/08/2020 21:39:09",
       "note": "Includes 1 case from Nagaland",
       "stateCode": "AS",
       "today": {
         "confirmed": 0,
         "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "dead": 10,
+        "active": -10
       },
       "testing_data": {
         "tested": 1819819,
@@ -299,7 +299,7 @@
       "active": 19761,
       "recovered": 46936,
       "dead": 425,
-      "updatedTime": "19/08/2020 21:24:49",
+      "updatedTime": "19/08/2020 21:29:48",
       "note": "[July 12th] 20 non-covid deaths reported in state dashboard are included in the deceased count\n[June 22nd]: NDRF/ODRF cases have been redistributed to districts based on state dashboard",
       "stateCode": "OR",
       "today": {
@@ -333,12 +333,12 @@
         "active": 226
       },
       "testing_data": {
-        "tested": 867458,
-        "positive": 48936,
-        "negative": 812490,
-        "unconfirmed": 6032,
-        "date": "18/08/2020",
-        "source": "http://www.nhmharyana.gov.in/WriteReadData/userfiles/file/CoronaVirus/Daily%20Bulletin%20of%20COVID%2019%20as%20on%2018-08-20.pdf"
+        "tested": 889259,
+        "positive": 0,
+        "negative": 833173,
+        "unconfirmed": 6156,
+        "date": "19/08/2020",
+        "source": "http://www.nhmharyana.gov.in/WriteReadData/userfiles/file/CoronaVirus/Daily%20Bulletin%20of%20COVID%2019%20as%20on%2019-08-20.pdf"
       }
     },
     "MP": {
@@ -645,28 +645,28 @@
         "active": -4
       },
       "testing_data": {
-        "tested": 52139,
-        "positive": 3520,
+        "tested": 52672,
+        "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "18/08/2020",
-        "source": "https://twitter.com/MyGovNagaland/status/1295711738201960448/photo/1"
+        "date": "19/08/2020",
+        "source": "https://twitter.com/MyGovNagaland/status/1296061258945318912?s=20"
       }
     },
     "AR": {
       "name": "Arunachal Pradesh",
-      "confirmed": 2875,
-      "active": 921,
-      "recovered": 1949,
+      "confirmed": 2950,
+      "active": 923,
+      "recovered": 2022,
       "dead": 5,
-      "updatedTime": "18/08/2020 22:26:46",
+      "updatedTime": "19/08/2020 21:39:19",
       "note": "[July 25]: All numbers corresponding to Papum Pare and Captial Complex are tracked under Papum Pare district.",
       "stateCode": "AR",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 75,
+        "recovered": 73,
         "dead": 0,
-        "active": 0
+        "active": 2
       },
       "testing_data": {
         "tested": 130246,
@@ -703,18 +703,18 @@
     },
     "LA": {
       "name": "Ladakh",
-      "confirmed": 2010,
-      "active": 598,
-      "recovered": 1395,
-      "dead": 17,
-      "updatedTime": "18/08/2020 23:08:49",
+      "confirmed": 2048,
+      "active": 633,
+      "recovered": 1397,
+      "dead": 18,
+      "updatedTime": "19/08/2020 21:39:22",
       "note": "",
       "stateCode": "LA",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 38,
+        "recovered": 2,
+        "dead": 1,
+        "active": 35
       },
       "testing_data": {
         "tested": 25208,
@@ -834,7 +834,7 @@
         "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "date": " ",
+        "date": "19/08/2020",
         "source": "https://dipr.mizoram.gov.in/post/status-of-state-surveillance-of-covid-19-time-1882020-500pm-1982020-500-pm"
       }
     },
@@ -880,19 +880,19 @@
     }
   },
   "testing_data": {
-    "tested": 35499016,
-    "positive": 1044313,
-    "negative": 11321273,
-    "unconfirmed": 41595
+    "tested": 35521350,
+    "positive": 991857,
+    "negative": 11341956,
+    "unconfirmed": 41719
   },
   "testing_data_imcr": {
     "tested": 31742782,
     "source": "http://twitter.com/ICMRDELHI/status/1295929066009182210"
   },
   "today": {
-    "confirmed": 56452,
-    "recovered": 48116,
-    "dead": 823,
-    "active": 7513
+    "confirmed": 56565,
+    "recovered": 48191,
+    "dead": 834,
+    "active": 7540
   }
 }
