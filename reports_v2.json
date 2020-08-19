@@ -1,9 +1,9 @@
 {
-  "confirmed": 2771958,
-  "recovered": 2038709,
-  "dead": 53046,
-  "active": 679678,
-  "updatedTime": "19/08/2020 12:07:47",
+  "confirmed": 2772066,
+  "recovered": 2038738,
+  "dead": 53047,
+  "active": 679756,
+  "updatedTime": "19/08/2020 16:49:09",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -607,18 +607,18 @@
     },
     "HP": {
       "name": "Himachal Pradesh",
-      "confirmed": 4235,
-      "active": 1252,
-      "recovered": 2923,
-      "dead": 18,
-      "updatedTime": "18/08/2020 21:55:54",
+      "confirmed": 4253,
+      "active": 1251,
+      "recovered": 2941,
+      "dead": 19,
+      "updatedTime": "19/08/2020 16:49:13",
       "note": "HP has 43 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed",
       "stateCode": "HP",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 18,
+        "recovered": 18,
+        "dead": 1,
+        "active": -1
       },
       "testing_data": {
         "tested": 183224,
@@ -631,18 +631,18 @@
     },
     "NL": {
       "name": "Nagaland",
-      "confirmed": 3520,
-      "active": 1842,
+      "confirmed": 3558,
+      "active": 1880,
       "recovered": 1664,
       "dead": 7,
-      "updatedTime": "18/08/2020 19:19:51",
+      "updatedTime": "19/08/2020 16:49:15",
       "note": "",
       "stateCode": "NL",
       "today": {
-        "confirmed": 0,
+        "confirmed": 38,
         "recovered": 0,
         "dead": 0,
-        "active": 0
+        "active": 38
       },
       "testing_data": {
         "tested": 52139,
@@ -751,35 +751,35 @@
     },
     "DN": {
       "name": "Dadra and Nagar Haveli and Daman and Diu",
-      "confirmed": 1959,
-      "active": 421,
-      "recovered": 1519,
+      "confirmed": 1962,
+      "active": 422,
+      "recovered": 1521,
       "dead": 2,
-      "updatedTime": "18/08/2020 19:19:55",
+      "updatedTime": "19/08/2020 16:49:18",
       "note": "",
       "stateCode": "DN",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 3,
+        "recovered": 2,
         "dead": 0,
-        "active": 0
+        "active": 1
       },
       "isUnknown": true
     },
     "ML": {
       "name": "Meghalaya",
-      "confirmed": 1457,
-      "active": 766,
-      "recovered": 685,
+      "confirmed": 1506,
+      "active": 806,
+      "recovered": 694,
       "dead": 6,
-      "updatedTime": "18/08/2020 21:21:11",
+      "updatedTime": "19/08/2020 16:49:20",
       "note": "[June 17]:\nOne case was identified to be false positive and has been removed from the confirmed cases by ML authorities.",
       "stateCode": "ML",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 49,
+        "recovered": 9,
         "dead": 0,
-        "active": 0
+        "active": 40
       },
       "testing_data": {
         "tested": 43872,
@@ -890,9 +890,9 @@
     "source": "http://twitter.com/ICMRDELHI/status/1295929066009182210"
   },
   "today": {
-    "confirmed": 5332,
-    "recovered": 2006,
-    "dead": 31,
-    "active": 3295
+    "confirmed": 5440,
+    "recovered": 2035,
+    "dead": 32,
+    "active": 3373
   }
 }
