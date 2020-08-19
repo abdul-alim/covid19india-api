@@ -1,9 +1,9 @@
 {
-  "confirmed": 2766862,
-  "recovered": 2036796,
-  "dead": 53018,
-  "active": 676523,
-  "updatedTime": "19/08/2020 09:23:47",
+  "confirmed": 2768670,
+  "recovered": 2038585,
+  "dead": 53026,
+  "active": 676534,
+  "updatedTime": "19/08/2020 09:50:48",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -199,18 +199,18 @@
     },
     "TG": {
       "name": "Telangana",
-      "confirmed": 93937,
-      "active": 21024,
-      "recovered": 72202,
-      "dead": 711,
-      "updatedTime": "18/08/2020 09:55:44",
+      "confirmed": 95700,
+      "active": 20990,
+      "recovered": 73991,
+      "dead": 719,
+      "updatedTime": "19/08/2020 09:50:50",
       "note": "[July 27]\nTelangana bulletin for the previous day is released on the next day. We will add the cases for Telangana against the date of release, as that is the convention that we are following for other states.\n--\nDistrict-wise numbers are not reported because cumulative counts for each district are not provided in Telangana bulletin",
       "stateCode": "TG",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 1763,
+        "recovered": 1789,
+        "dead": 8,
+        "active": -34
       },
       "testing_data": {
         "tested": 772928,
@@ -539,7 +539,7 @@
       "active": 2080,
       "recovered": 5497,
       "dead": 65,
-      "updatedTime": "19/08/2020 09:23:50",
+      "updatedTime": "19/08/2020 09:28:46",
       "note": "[Aug 4]\nTripura bulletin for the previous day is released on the next day. We will add the cases for Tripura against the date of release, as that is the convention that we are following for other states.",
       "stateCode": "TR",
       "today": {
@@ -549,12 +549,12 @@
         "active": 140
       },
       "testing_data": {
-        "tested": 223966,
-        "positive": 7424,
-        "negative": 216542,
+        "tested": 228003,
+        "positive": 7660,
+        "negative": 220343,
         "unconfirmed": 0,
-        "date": "18/08/2020",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/1772"
+        "date": "19/08/2020",
+        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/1792"
       }
     },
     "PY": {
@@ -816,18 +816,18 @@
     },
     "MZ": {
       "name": "Mizoram",
-      "confirmed": 815,
-      "active": 436,
+      "confirmed": 860,
+      "active": 481,
       "recovered": 379,
       "dead": 0,
-      "updatedTime": "18/08/2020 17:49:46",
+      "updatedTime": "19/08/2020 09:50:54",
       "note": "",
       "stateCode": "MZ",
       "today": {
-        "confirmed": 0,
+        "confirmed": 45,
         "recovered": 0,
         "dead": 0,
-        "active": 0
+        "active": 45
       },
       "testing_data": {
         "tested": 27388,
@@ -880,19 +880,19 @@
     }
   },
   "testing_data": {
-    "tested": 34951491,
-    "positive": 1089487,
-    "negative": 11183968,
+    "tested": 34955528,
+    "positive": 1089723,
+    "negative": 11187769,
     "unconfirmed": 41289
   },
   "testing_data_imcr": {
-    "tested": 30941264,
-    "source": "https://twitter.com/ICMRDELHI/status/1295561779540459520"
+    "tested": 31742782,
+    "source": "http://twitter.com/ICMRDELHI/status/1295929066009182210"
   },
   "today": {
-    "confirmed": 236,
-    "recovered": 93,
-    "dead": 3,
-    "active": 140
+    "confirmed": 2044,
+    "recovered": 1882,
+    "dead": 11,
+    "active": 151
   }
 }
