@@ -1,9 +1,9 @@
 {
-  "confirmed": 2841444,
-  "recovered": 2097813,
+  "confirmed": 2841457,
+  "recovered": 2098049,
   "dead": 54017,
-  "active": 689085,
-  "updatedTime": "20/08/2020 17:04:05",
+  "active": 688863,
+  "updatedTime": "20/08/2020 17:24:01",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -611,7 +611,7 @@
       "active": 1339,
       "recovered": 3039,
       "dead": 20,
-      "updatedTime": "20/08/2020 17:04:13",
+      "updatedTime": "20/08/2020 17:15:21",
       "note": "HP has 43 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed",
       "stateCode": "HP",
       "today": {
@@ -631,18 +631,18 @@
     },
     "NL": {
       "name": "Nagaland",
-      "confirmed": 3573,
-      "active": 1853,
-      "recovered": 1706,
+      "confirmed": 3583,
+      "active": 1648,
+      "recovered": 1921,
       "dead": 7,
-      "updatedTime": "19/08/2020 18:18:53",
+      "updatedTime": "20/08/2020 17:20:09",
       "note": "",
       "stateCode": "NL",
       "today": {
-        "confirmed": 15,
-        "recovered": 0,
+        "confirmed": 25,
+        "recovered": 215,
         "dead": 0,
-        "active": 15
+        "active": -190
       },
       "testing_data": {
         "tested": 52672,
@@ -751,18 +751,18 @@
     },
     "DN": {
       "name": "Dadra and Nagar Haveli and Daman and Diu",
-      "confirmed": 1996,
+      "confirmed": 1998,
       "active": 410,
-      "recovered": 1567,
+      "recovered": 1570,
       "dead": 2,
-      "updatedTime": "19/08/2020 21:16:05",
+      "updatedTime": "20/08/2020 17:12:27",
       "note": "",
       "stateCode": "DN",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 2,
+        "recovered": 3,
         "dead": 0,
-        "active": 0
+        "active": -1
       },
       "isUnknown": true
     },
@@ -816,18 +816,18 @@
     },
     "MZ": {
       "name": "Mizoram",
-      "confirmed": 873,
-      "active": 489,
-      "recovered": 384,
+      "confirmed": 874,
+      "active": 472,
+      "recovered": 402,
       "dead": 0,
-      "updatedTime": "20/08/2020 09:54:00",
+      "updatedTime": "20/08/2020 17:24:05",
       "note": "",
       "stateCode": "MZ",
       "today": {
-        "confirmed": 13,
-        "recovered": 0,
+        "confirmed": 14,
+        "recovered": 18,
         "dead": 0,
-        "active": 13
+        "active": -4
       },
       "testing_data": {
         "tested": 28076,
@@ -880,19 +880,19 @@
     }
   },
   "testing_data": {
-    "tested": 35933914,
-    "positive": 779677,
-    "negative": 11397681,
-    "unconfirmed": 44079
+    "tested": 35934503,
+    "positive": 779721,
+    "negative": 11398200,
+    "unconfirmed": 44106
   },
   "testing_data_imcr": {
     "tested": 32661252,
     "source": "https://twitter.com/ICMRDELHI/status/1296296417372250113"
   },
   "today": {
-    "confirmed": 5622,
-    "recovered": 1745,
+    "confirmed": 5635,
+    "recovered": 1981,
     "dead": 23,
-    "active": 3854
+    "active": 3631
   }
 }
