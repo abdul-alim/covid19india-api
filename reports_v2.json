@@ -1,9 +1,9 @@
 {
-  "confirmed": 2901054,
-  "recovered": 2153419,
-  "dead": 54948,
-  "active": 692158,
-  "updatedTime": "20/08/2020 21:23:50",
+  "confirmed": 2901170,
+  "recovered": 2153490,
+  "dead": 54956,
+  "active": 692195,
+  "updatedTime": "20/08/2020 21:41:46",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -248,17 +248,17 @@
     "AS": {
       "name": "Assam",
       "confirmed": 84318,
-      "active": 23753,
+      "active": 23745,
       "recovered": 60349,
-      "dead": 213,
-      "updatedTime": "19/08/2020 22:42:49",
+      "dead": 221,
+      "updatedTime": "20/08/2020 21:41:49",
       "note": "Includes 1 case from Nagaland",
       "stateCode": "AS",
       "today": {
         "confirmed": 0,
         "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "dead": 8,
+        "active": -8
       },
       "testing_data": {
         "tested": 1860208,
@@ -602,7 +602,7 @@
         "negative": 0,
         "unconfirmed": 0,
         "date": "20/08/2020",
-        "source": ""
+        "source": "https://twitter.com/DiprManipur/status/1296419759039406081?s=20"
       }
     },
     "HP": {
@@ -645,28 +645,28 @@
         "active": -190
       },
       "testing_data": {
-        "tested": 52672,
+        "tested": 54047,
         "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "19/08/2020",
-        "source": "https://twitter.com/MyGovNagaland/status/1296061258945318912?s=20"
+        "date": "20/08/2020",
+        "source": ""
       }
     },
     "AR": {
       "name": "Arunachal Pradesh",
-      "confirmed": 2950,
-      "active": 923,
-      "recovered": 2022,
+      "confirmed": 3066,
+      "active": 968,
+      "recovered": 2093,
       "dead": 5,
-      "updatedTime": "19/08/2020 21:43:54",
+      "updatedTime": "20/08/2020 21:41:53",
       "note": "[July 25]: All numbers corresponding to Papum Pare and Captial Complex are tracked under Papum Pare district.",
       "stateCode": "AR",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 116,
+        "recovered": 71,
         "dead": 0,
-        "active": 0
+        "active": 45
       },
       "testing_data": {
         "tested": 133048,
@@ -707,7 +707,7 @@
       "active": 623,
       "recovered": 1436,
       "dead": 18,
-      "updatedTime": "20/08/2020 21:23:57",
+      "updatedTime": "20/08/2020 21:40:22",
       "note": "",
       "stateCode": "LA",
       "today": {
@@ -782,7 +782,7 @@
         "active": 121
       },
       "testing_data": {
-        "tested": 43872,
+        "tested": 44695,
         "positive": 1506,
         "negative": 0,
         "unconfirmed": 3358,
@@ -796,7 +796,7 @@
       "active": 460,
       "recovered": 827,
       "dead": 3,
-      "updatedTime": "20/08/2020 21:24:01",
+      "updatedTime": "20/08/2020 21:40:26",
       "note": "",
       "stateCode": "SK",
       "today": {
@@ -830,12 +830,12 @@
         "active": -4
       },
       "testing_data": {
-        "tested": 28076,
+        "tested": 28976,
         "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "19/08/2020",
-        "source": "https://dipr.mizoram.gov.in/post/status-of-state-surveillance-of-covid-19-time-1882020-500pm-1982020-500-pm"
+        "date": "20/08/2020",
+        "source": "https://dipr.mizoram.gov.in/post/status-of-state-surveillance-of-covid-19-time-1982020-500pm-2082020-500-pm"
       }
     },
     "UN": {
@@ -880,7 +880,7 @@
     }
   },
   "testing_data": {
-    "tested": 36417412,
+    "tested": 36420510,
     "positive": 708504,
     "negative": 11558710,
     "unconfirmed": 42288
@@ -890,9 +890,9 @@
     "source": "https://twitter.com/ICMRDELHI/status/1296296417372250113"
   },
   "today": {
-    "confirmed": 65232,
-    "recovered": 57351,
-    "dead": 954,
-    "active": 6927
+    "confirmed": 65348,
+    "recovered": 57422,
+    "dead": 962,
+    "active": 6964
   }
 }
