@@ -1,9 +1,9 @@
 {
-  "confirmed": 2969125,
-  "recovered": 2213887,
-  "dead": 55902,
-  "active": 698795,
-  "updatedTime": "21/08/2020 21:23:53",
+  "confirmed": 2970268,
+  "recovered": 2217139,
+  "dead": 55921,
+  "active": 696666,
+  "updatedTime": "21/08/2020 22:03:53",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -11,7 +11,7 @@
       "active": 164561,
       "recovered": 470873,
       "dead": 21698,
-      "updatedTime": "21/08/2020 21:23:57",
+      "updatedTime": "21/08/2020 21:38:55",
       "note": "317 cases are marked as non-covid deaths in MH bulletin. These have been reduced from active count\n[Aug 15] : MH bulletin has reduced 819 confirmed cases in Mumbai and 72 confirmed cases from 'Other States' from the tally\n[Jun 16] : 1328 deceased cases have been retroactively added to MH bulletin.\n[Jun 20] : 69 deceased cases have been reduced based on state bulletin.\n",
       "stateCode": "MH",
       "today": {
@@ -248,17 +248,17 @@
     "AS": {
       "name": "Assam",
       "confirmed": 86053,
-      "active": 22708,
+      "active": 22702,
       "recovered": 63121,
-      "dead": 221,
-      "updatedTime": "20/08/2020 22:25:43",
+      "dead": 227,
+      "updatedTime": "21/08/2020 21:57:50",
       "note": "Includes 1 case from Nagaland",
       "stateCode": "AS",
       "today": {
         "confirmed": 0,
         "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "dead": 6,
+        "active": -6
       },
       "testing_data": {
         "tested": 1894584,
@@ -271,42 +271,42 @@
     },
     "RJ": {
       "name": "Rajasthan",
-      "confirmed": 67314,
-      "active": 14961,
-      "recovered": 51427,
-      "dead": 926,
-      "updatedTime": "21/08/2020 11:19:48",
+      "confirmed": 67954,
+      "active": 14525,
+      "recovered": 52496,
+      "dead": 933,
+      "updatedTime": "21/08/2020 22:03:56",
       "note": "",
       "stateCode": "RJ",
       "today": {
-        "confirmed": 695,
-        "recovered": 237,
-        "dead": 5,
-        "active": 453
+        "confirmed": 1335,
+        "recovered": 1306,
+        "dead": 12,
+        "active": 17
       },
       "testing_data": {
-        "tested": 2033646,
-        "positive": 0,
-        "negative": 1963754,
-        "unconfirmed": 3273,
-        "date": "20/08/2020",
-        "source": "https://twitter.com/DDNewsRajasthan/status/1296477756931428357?s=20"
+        "tested": 2062109,
+        "positive": 67954,
+        "negative": 1990256,
+        "unconfirmed": 3899,
+        "date": "21/08/2020",
+        "source": "https://twitter.com/ANI/status/1296844185337827332"
       }
     },
     "OR": {
       "name": "Odisha",
       "confirmed": 72718,
-      "active": 23698,
-      "recovered": 48577,
+      "active": 21771,
+      "recovered": 50504,
       "dead": 443,
-      "updatedTime": "21/08/2020 11:57:54",
+      "updatedTime": "21/08/2020 21:57:55",
       "note": "[July 12th] 20 non-covid deaths reported in state dashboard are included in the deceased count\n[June 22nd]: NDRF/ODRF cases have been redistributed to districts based on state dashboard",
       "stateCode": "OR",
       "today": {
         "confirmed": 2698,
-        "recovered": 0,
+        "recovered": 1927,
         "dead": 10,
-        "active": 2688
+        "active": 761
       },
       "testing_data": {
         "tested": 1172426,
@@ -323,7 +323,7 @@
       "active": 8131,
       "recovered": 43413,
       "dead": 585,
-      "updatedTime": "21/08/2020 21:19:56",
+      "updatedTime": "21/08/2020 21:29:15",
       "note": "[Aug 2]: 21 Foreign Evacuees have been merged to Panchkula and 14 Italian tourists have been merged to Gurugram in HR bulletin.",
       "stateCode": "HR",
       "today": {
@@ -333,12 +333,12 @@
         "active": 576
       },
       "testing_data": {
-        "tested": 910877,
+        "tested": 926568,
         "positive": 0,
-        "negative": 853707,
-        "unconfirmed": 6244,
-        "date": "20/08/2020",
-        "source": "http://www.nhmharyana.gov.in/WriteReadData/userfiles/file/CoronaVirus/Daily%20Bulletin%20of%20COVID%2019%20as%20on%2020-08-20.pdf"
+        "negative": 868016,
+        "unconfirmed": 6423,
+        "date": "21/08/2020",
+        "source": "https://twitter.com/ANI/status/1296830057059504132?s=20"
       }
     },
     "MP": {
@@ -467,7 +467,7 @@
       "active": 7274,
       "recovered": 12005,
       "dead": 180,
-      "updatedTime": "21/08/2020 21:19:59",
+      "updatedTime": "21/08/2020 21:29:18",
       "note": "",
       "stateCode": "CT",
       "today": {
@@ -487,18 +487,18 @@
     },
     "UT": {
       "name": "Uttarakhand",
-      "confirmed": 13636,
-      "active": 3966,
-      "recovered": 9433,
-      "dead": 187,
-      "updatedTime": "20/08/2020 20:57:56",
+      "confirmed": 14083,
+      "active": 4164,
+      "recovered": 9676,
+      "dead": 192,
+      "updatedTime": "21/08/2020 21:57:57",
       "note": "",
       "stateCode": "UT",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 447,
+        "recovered": 243,
+        "dead": 5,
+        "active": 199
       },
       "testing_data": {
         "tested": 294279,
@@ -703,18 +703,18 @@
     },
     "LA": {
       "name": "Ladakh",
-      "confirmed": 2077,
-      "active": 623,
-      "recovered": 1436,
-      "dead": 18,
-      "updatedTime": "20/08/2020 21:40:22",
+      "confirmed": 2133,
+      "active": 665,
+      "recovered": 1449,
+      "dead": 19,
+      "updatedTime": "21/08/2020 22:03:59",
       "note": "",
       "stateCode": "LA",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 56,
+        "recovered": 13,
+        "dead": 1,
+        "active": 42
       },
       "testing_data": {
         "tested": 25947,
@@ -880,19 +880,19 @@
     }
   },
   "testing_data": {
-    "tested": 37584358,
-    "positive": 1330159,
-    "negative": 11805548,
-    "unconfirmed": 39783
+    "tested": 37628512,
+    "positive": 1398113,
+    "negative": 11846359,
+    "unconfirmed": 40588
   },
   "testing_data_imcr": {
     "tested": 33467237,
     "source": "http://twitter.com/ICMRDELHI/status/1296650359285243905"
   },
   "today": {
-    "confirmed": 64785,
-    "recovered": 55946,
-    "dead": 927,
-    "active": 7912
+    "confirmed": 65928,
+    "recovered": 59198,
+    "dead": 946,
+    "active": 5784
   }
 }
