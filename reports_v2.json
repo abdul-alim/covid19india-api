@@ -1,9 +1,9 @@
 {
-  "confirmed": 2937792,
-  "recovered": 2187942,
-  "dead": 55327,
-  "active": 693986,
-  "updatedTime": "21/08/2020 19:38:46",
+  "confirmed": 2940444,
+  "recovered": 2189790,
+  "dead": 55375,
+  "active": 694742,
+  "updatedTime": "21/08/2020 19:58:50",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -343,18 +343,18 @@
     },
     "MP": {
       "name": "Madhya Pradesh",
-      "confirmed": 49493,
-      "active": 10782,
-      "recovered": 37540,
-      "dead": 1171,
-      "updatedTime": "20/08/2020 19:57:47",
+      "confirmed": 50640,
+      "active": 10928,
+      "recovered": 38527,
+      "dead": 1185,
+      "updatedTime": "21/08/2020 19:56:51",
       "note": "",
       "stateCode": "MP",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 1147,
+        "recovered": 987,
+        "dead": 14,
+        "active": 146
       },
       "testing_data": {
         "tested": 1111158,
@@ -371,7 +371,7 @@
       "active": 18675,
       "recovered": 35243,
       "dead": 204,
-      "updatedTime": "21/08/2020 19:38:49",
+      "updatedTime": "21/08/2020 19:48:55",
       "note": "Mahe native who expired in Kannur included in Kerala's deceased tally.\nOne patient absconded from Palakkad to TN and one patient returned back to Maharashtra. Some non-covid deaths (accident,cancer etc.) have also been reported in the bulletin.\nIn total 60 such cases have been reduced from active count",
       "stateCode": "KL",
       "today": {
@@ -386,31 +386,31 @@
         "negative": 0,
         "unconfirmed": 8079,
         "date": "21/08/2020",
-        "source": ""
+        "source": "https://dhs.kerala.gov.in/wp-content/uploads/2020/08/Bulletin-HFWD-English-August-21.pdf"
       }
     },
     "PB": {
       "name": "Punjab",
-      "confirmed": 37824,
-      "active": 13830,
-      "recovered": 23037,
-      "dead": 957,
-      "updatedTime": "20/08/2020 19:51:51",
+      "confirmed": 39327,
+      "active": 14443,
+      "recovered": 23893,
+      "dead": 991,
+      "updatedTime": "21/08/2020 19:56:54",
       "note": "",
       "stateCode": "PB",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 1503,
+        "recovered": 856,
+        "dead": 34,
+        "active": 613
       },
       "testing_data": {
-        "tested": 839947,
-        "positive": 0,
+        "tested": 863840,
+        "positive": 39327,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "20/08/2020",
-        "source": "http://diprpunjab.gov.in/sites/default/files/Covid%20Media%20Bulletin%20%2820-08-2020%29.pdf"
+        "date": "21/08/2020",
+        "source": "http://diprpunjab.gov.in/sites/default/files/Covid%20Media%20Bulletin%20%2821-08-2020%29.pdf"
       }
     },
     "JK": {
@@ -731,7 +731,7 @@
       "active": 1170,
       "recovered": 1426,
       "dead": 33,
-      "updatedTime": "21/08/2020 19:38:52",
+      "updatedTime": "21/08/2020 19:48:58",
       "note": "",
       "stateCode": "CH",
       "today": {
@@ -741,12 +741,12 @@
         "active": 78
       },
       "testing_data": {
-        "tested": 23374,
+        "tested": 24064,
         "positive": 0,
-        "negative": 20735,
-        "unconfirmed": 83,
-        "date": "20/08/2020",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/1812"
+        "negative": 21280,
+        "unconfirmed": 99,
+        "date": "21/08/2020",
+        "source": "http://chdcovid19.in/"
       }
     },
     "DN": {
@@ -755,7 +755,7 @@
       "active": 411,
       "recovered": 1652,
       "dead": 2,
-      "updatedTime": "21/08/2020 19:38:53",
+      "updatedTime": "21/08/2020 19:49:00",
       "note": "",
       "stateCode": "DN",
       "today": {
@@ -768,18 +768,18 @@
     },
     "ML": {
       "name": "Meghalaya",
-      "confirmed": 1716,
-      "active": 966,
-      "recovered": 744,
+      "confirmed": 1718,
+      "active": 963,
+      "recovered": 749,
       "dead": 6,
-      "updatedTime": "21/08/2020 12:09:50",
+      "updatedTime": "21/08/2020 19:58:53",
       "note": "[June 17]:\nOne case was identified to be false positive and has been removed from the confirmed cases by ML authorities.",
       "stateCode": "ML",
       "today": {
-        "confirmed": 55,
-        "recovered": 14,
+        "confirmed": 57,
+        "recovered": 19,
         "dead": 0,
-        "active": 41
+        "active": 38
       },
       "testing_data": {
         "tested": 45151,
@@ -880,19 +880,19 @@
     }
   },
   "testing_data": {
-    "tested": 37238852,
-    "positive": 704214,
-    "negative": 11763818,
-    "unconfirmed": 40844
+    "tested": 37263435,
+    "positive": 743541,
+    "negative": 11764363,
+    "unconfirmed": 40860
   },
   "testing_data_imcr": {
     "tested": 33467237,
     "source": "http://twitter.com/ICMRDELHI/status/1296650359285243905"
   },
   "today": {
-    "confirmed": 33452,
-    "recovered": 30001,
-    "dead": 352,
-    "active": 3099
+    "confirmed": 36104,
+    "recovered": 31849,
+    "dead": 400,
+    "active": 3855
   }
 }
