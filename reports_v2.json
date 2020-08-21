@@ -1,9 +1,9 @@
 {
-  "confirmed": 2935673,
-  "recovered": 2186467,
-  "dead": 55313,
-  "active": 693357,
-  "updatedTime": "21/08/2020 19:23:47",
+  "confirmed": 2937792,
+  "recovered": 2187942,
+  "dead": 55327,
+  "active": 693986,
+  "updatedTime": "21/08/2020 19:38:46",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -367,26 +367,26 @@
     },
     "KL": {
       "name": "Kerala",
-      "confirmed": 52199,
-      "active": 18123,
-      "recovered": 33824,
-      "dead": 192,
-      "updatedTime": "21/08/2020 19:23:52",
+      "confirmed": 54182,
+      "active": 18675,
+      "recovered": 35243,
+      "dead": 204,
+      "updatedTime": "21/08/2020 19:38:49",
       "note": "Mahe native who expired in Kannur included in Kerala's deceased tally.\nOne patient absconded from Palakkad to TN and one patient returned back to Maharashtra. Some non-covid deaths (accident,cancer etc.) have also been reported in the bulletin.\nIn total 60 such cases have been reduced from active count",
       "stateCode": "KL",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 1983,
+        "recovered": 1419,
+        "dead": 12,
+        "active": 552
       },
       "testing_data": {
-        "tested": 1312992,
-        "positive": 52200,
+        "tested": 1349071,
+        "positive": 54183,
         "negative": 0,
-        "unconfirmed": 7677,
-        "date": "20/08/2020",
-        "source": "https://dhs.kerala.gov.in/wp-content/uploads/2020/08/Bulletin-English-August-20.pdf"
+        "unconfirmed": 8079,
+        "date": "21/08/2020",
+        "source": ""
       }
     },
     "PB": {
@@ -443,7 +443,7 @@
       "active": 9505,
       "recovered": 17445,
       "dead": 291,
-      "updatedTime": "21/08/2020 19:23:54",
+      "updatedTime": "21/08/2020 19:36:53",
       "note": "",
       "stateCode": "JH",
       "today": {
@@ -727,18 +727,18 @@
     },
     "CH": {
       "name": "Chandigarh",
-      "confirmed": 2515,
-      "active": 1092,
-      "recovered": 1390,
-      "dead": 31,
-      "updatedTime": "20/08/2020 19:18:51",
+      "confirmed": 2631,
+      "active": 1170,
+      "recovered": 1426,
+      "dead": 33,
+      "updatedTime": "21/08/2020 19:38:52",
       "note": "",
       "stateCode": "CH",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 116,
+        "recovered": 36,
+        "dead": 2,
+        "active": 78
       },
       "testing_data": {
         "tested": 23374,
@@ -751,16 +751,16 @@
     },
     "DN": {
       "name": "Dadra and Nagar Haveli and Daman and Diu",
-      "confirmed": 2063,
-      "active": 412,
-      "recovered": 1632,
+      "confirmed": 2083,
+      "active": 411,
+      "recovered": 1652,
       "dead": 2,
-      "updatedTime": "21/08/2020 19:10:02",
+      "updatedTime": "21/08/2020 19:38:53",
       "note": "",
       "stateCode": "DN",
       "today": {
-        "confirmed": 33,
-        "recovered": 19,
+        "confirmed": 53,
+        "recovered": 39,
         "dead": 0,
         "active": 14
       },
@@ -880,19 +880,19 @@
     }
   },
   "testing_data": {
-    "tested": 37202773,
-    "positive": 702231,
+    "tested": 37238852,
+    "positive": 704214,
     "negative": 11763818,
-    "unconfirmed": 40442
+    "unconfirmed": 40844
   },
   "testing_data_imcr": {
     "tested": 33467237,
     "source": "http://twitter.com/ICMRDELHI/status/1296650359285243905"
   },
   "today": {
-    "confirmed": 31333,
-    "recovered": 28526,
-    "dead": 338,
-    "active": 2469
+    "confirmed": 33452,
+    "recovered": 30001,
+    "dead": 352,
+    "active": 3099
   }
 }
