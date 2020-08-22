@@ -1,9 +1,9 @@
 {
-  "confirmed": 3000048,
-  "recovered": 2242332,
-  "dead": 56169,
-  "active": 701001,
-  "updatedTime": "22/08/2020 18:24:06",
+  "confirmed": 3000153,
+  "recovered": 2242555,
+  "dead": 56173,
+  "active": 700878,
+  "updatedTime": "22/08/2020 18:49:05",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -59,7 +59,7 @@
       "active": 89389,
       "recovered": 252638,
       "dead": 3189,
-      "updatedTime": "22/08/2020 18:24:07",
+      "updatedTime": "22/08/2020 18:29:06",
       "note": "Total includes patients from other states and a new category \"Foreign Evacuees\" which is now reported in AP bulletin.",
       "stateCode": "AP",
       "today": {
@@ -107,7 +107,7 @@
       "active": 11594,
       "recovered": 144138,
       "dead": 4284,
-      "updatedTime": "22/08/2020 18:24:09",
+      "updatedTime": "22/08/2020 18:29:08",
       "note": "[July 14]: Value for the total tests conducted has been reduced by 97008 in the state bulletin. Reason given : \"Reconciled with ICMR figures\". We have made the same change.\n[June 16]: 344 deceased cases have been retroactively added to DL bulletin.",
       "stateCode": "DL",
       "today": {
@@ -179,7 +179,7 @@
       "active": 23935,
       "recovered": 95372,
       "dead": 601,
-      "updatedTime": "21/08/2020 19:09:55",
+      "updatedTime": "22/08/2020 18:29:09",
       "note": "",
       "stateCode": "BR",
       "today": {
@@ -419,7 +419,7 @@
       "active": 6975,
       "recovered": 24398,
       "dead": 608,
-      "updatedTime": "22/08/2020 18:24:12",
+      "updatedTime": "22/08/2020 18:29:11",
       "note": "",
       "stateCode": "JK",
       "today": {
@@ -583,18 +583,18 @@
     },
     "MN": {
       "name": "Manipur",
-      "confirmed": 5049,
-      "active": 1768,
-      "recovered": 3261,
-      "dead": 20,
-      "updatedTime": "21/08/2020 18:38:56",
+      "confirmed": 5132,
+      "active": 1655,
+      "recovered": 3455,
+      "dead": 22,
+      "updatedTime": "22/08/2020 18:45:08",
       "note": "",
       "stateCode": "MN",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 83,
+        "recovered": 194,
+        "dead": 2,
+        "active": -113
       },
       "testing_data": {
         "tested": 125230,
@@ -607,18 +607,18 @@
     },
     "HP": {
       "name": "Himachal Pradesh",
-      "confirmed": 4780,
-      "active": 1437,
-      "recovered": 3268,
-      "dead": 26,
-      "updatedTime": "22/08/2020 15:19:07",
+      "confirmed": 4789,
+      "active": 1433,
+      "recovered": 3280,
+      "dead": 27,
+      "updatedTime": "22/08/2020 18:45:10",
       "note": "HP has 50 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed",
       "stateCode": "HP",
       "today": {
-        "confirmed": 52,
-        "recovered": 34,
-        "dead": 2,
-        "active": 16
+        "confirmed": 61,
+        "recovered": 46,
+        "dead": 3,
+        "active": 12
       },
       "testing_data": {
         "tested": 190476,
@@ -632,17 +632,17 @@
     "NL": {
       "name": "Nagaland",
       "confirmed": 3635,
-      "active": 1455,
+      "active": 1453,
       "recovered": 2166,
-      "dead": 7,
-      "updatedTime": "22/08/2020 18:24:15",
+      "dead": 8,
+      "updatedTime": "22/08/2020 18:45:13",
       "note": "",
       "stateCode": "NL",
       "today": {
         "confirmed": 16,
         "recovered": 92,
-        "dead": 0,
-        "active": -76
+        "dead": 1,
+        "active": -77
       },
       "testing_data": {
         "tested": 54660,
@@ -731,7 +731,7 @@
       "active": 1270,
       "recovered": 1471,
       "dead": 33,
-      "updatedTime": "22/08/2020 18:24:18",
+      "updatedTime": "22/08/2020 18:29:18",
       "note": "",
       "stateCode": "CH",
       "today": {
@@ -751,18 +751,18 @@
     },
     "DN": {
       "name": "Dadra and Nagar Haveli and Daman and Diu",
-      "confirmed": 2085,
-      "active": 409,
-      "recovered": 1652,
+      "confirmed": 2098,
+      "active": 405,
+      "recovered": 1669,
       "dead": 2,
-      "updatedTime": "22/08/2020 15:19:09",
+      "updatedTime": "22/08/2020 18:49:07",
       "note": "",
       "stateCode": "DN",
       "today": {
-        "confirmed": 2,
-        "recovered": 0,
+        "confirmed": 15,
+        "recovered": 17,
         "dead": 0,
-        "active": 2
+        "active": -2
       },
       "isUnknown": true
     },
@@ -890,9 +890,9 @@
     "source": "http://twitter.com/ICMRDELHI/status/1297010234624315393"
   },
   "today": {
-    "confirmed": 26679,
-    "recovered": 21533,
-    "dead": 241,
-    "active": 4905
+    "confirmed": 26784,
+    "recovered": 21756,
+    "dead": 245,
+    "active": 4783
   }
 }
