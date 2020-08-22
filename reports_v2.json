@@ -1,9 +1,9 @@
 {
-  "confirmed": 2979562,
-  "recovered": 2223202,
-  "dead": 55950,
-  "active": 699868,
-  "updatedTime": "22/08/2020 11:57:46",
+  "confirmed": 2979616,
+  "recovered": 2223236,
+  "dead": 55952,
+  "active": 699882,
+  "updatedTime": "22/08/2020 15:14:05",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -213,12 +213,12 @@
         "active": 699
       },
       "testing_data": {
-        "tested": 848078,
-        "positive": 99391,
+        "tested": 891173,
+        "positive": 101865,
         "negative": 0,
-        "unconfirmed": 1300,
-        "date": "21/08/2020",
-        "source": "https://twitter.com/drgsrao/status/1296635530386448384?s=20"
+        "unconfirmed": 1239,
+        "date": "22/08/2020",
+        "source": "https://twitter.com/drgsrao/status/1297006724960804864?s=20"
       }
     },
     "GJ": {
@@ -309,12 +309,12 @@
         "active": 2810
       },
       "testing_data": {
-        "tested": 1172426,
-        "positive": 72718,
+        "tested": 1233805,
+        "positive": 75537,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "21/08/2020",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/1822"
+        "date": "22/08/2020",
+        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/1847"
       }
     },
     "HR": {
@@ -607,18 +607,18 @@
     },
     "HP": {
       "name": "Himachal Pradesh",
-      "confirmed": 4728,
-      "active": 1421,
-      "recovered": 3234,
-      "dead": 24,
-      "updatedTime": "21/08/2020 22:29:49",
+      "confirmed": 4780,
+      "active": 1437,
+      "recovered": 3268,
+      "dead": 26,
+      "updatedTime": "22/08/2020 15:14:07",
       "note": "HP has 50 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed",
       "stateCode": "HP",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 52,
+        "recovered": 34,
+        "dead": 2,
+        "active": 16
       },
       "testing_data": {
         "tested": 190476,
@@ -751,18 +751,18 @@
     },
     "DN": {
       "name": "Dadra and Nagar Haveli and Daman and Diu",
-      "confirmed": 2083,
-      "active": 411,
+      "confirmed": 2085,
+      "active": 409,
       "recovered": 1652,
       "dead": 2,
-      "updatedTime": "21/08/2020 19:49:00",
+      "updatedTime": "22/08/2020 15:14:09",
       "note": "",
       "stateCode": "DN",
       "today": {
-        "confirmed": 0,
+        "confirmed": 2,
         "recovered": 0,
         "dead": 0,
-        "active": 0
+        "active": 2
       },
       "isUnknown": true
     },
@@ -880,19 +880,19 @@
     }
   },
   "testing_data": {
-    "tested": 37717915,
-    "positive": 1401967,
+    "tested": 37822389,
+    "positive": 1407260,
     "negative": 11827705,
-    "unconfirmed": 69039
+    "unconfirmed": 68978
   },
   "testing_data_imcr": {
     "tested": 34491073,
     "source": "http://twitter.com/ICMRDELHI/status/1297010234624315393"
   },
   "today": {
-    "confirmed": 6193,
-    "recovered": 2403,
-    "dead": 22,
-    "active": 3768
+    "confirmed": 6247,
+    "recovered": 2437,
+    "dead": 24,
+    "active": 3786
   }
 }
