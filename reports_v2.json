@@ -1,9 +1,9 @@
 {
-  "confirmed": 3043091,
-  "recovered": 2279777,
-  "dead": 56830,
-  "active": 705932,
-  "updatedTime": "22/08/2020 22:47:09",
+  "confirmed": 3043203,
+  "recovered": 2279797,
+  "dead": 56845,
+  "active": 706009,
+  "updatedTime": "22/08/2020 23:04:09",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -261,12 +261,12 @@
         "active": -492
       },
       "testing_data": {
-        "tested": 1930764,
-        "positive": 87908,
+        "tested": 1953804,
+        "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "21/08/2020",
-        "source": "https://twitter.com/himantabiswa/status/1296849361532411904?s=20"
+        "date": "22/08/2020",
+        "source": "https://twitter.com/himantabiswa/status/1297211368127344641?s=20"
       }
     },
     "RJ": {
@@ -439,18 +439,18 @@
     },
     "JH": {
       "name": "Jharkhand",
-      "confirmed": 29068,
-      "active": 9585,
+      "confirmed": 29103,
+      "active": 9607,
       "recovered": 19186,
-      "dead": 297,
-      "updatedTime": "21/08/2020 23:16:52",
+      "dead": 310,
+      "updatedTime": "22/08/2020 23:04:11",
       "note": "",
       "stateCode": "JH",
       "today": {
-        "confirmed": 872,
+        "confirmed": 907,
         "recovered": 814,
-        "dead": 0,
-        "active": 58
+        "dead": 13,
+        "active": 80
       },
       "testing_data": {
         "tested": 539802,
@@ -611,7 +611,7 @@
       "active": 1477,
       "recovered": 3341,
       "dead": 28,
-      "updatedTime": "22/08/2020 22:47:11",
+      "updatedTime": "22/08/2020 22:54:12",
       "note": "HP has 50 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed",
       "stateCode": "HP",
       "today": {
@@ -621,12 +621,12 @@
         "active": 56
       },
       "testing_data": {
-        "tested": 190476,
+        "tested": 192580,
         "positive": 0,
-        "negative": 185126,
-        "unconfirmed": 622,
-        "date": "21/08/2020",
-        "source": "https://twitter.com/nhm_hp/status/1296848951723700225?s=20"
+        "negative": 187102,
+        "unconfirmed": 583,
+        "date": "22/08/2020",
+        "source": "https://twitter.com/nhm_hp/status/1297212839044812802?s=20"
       }
     },
     "NL": {
@@ -703,18 +703,18 @@
     },
     "LA": {
       "name": "Ladakh",
-      "confirmed": 2133,
-      "active": 665,
-      "recovered": 1449,
-      "dead": 19,
-      "updatedTime": "21/08/2020 22:03:59",
+      "confirmed": 2210,
+      "active": 720,
+      "recovered": 1469,
+      "dead": 21,
+      "updatedTime": "22/08/2020 23:04:13",
       "note": "",
       "stateCode": "LA",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 77,
+        "recovered": 20,
+        "dead": 2,
+        "active": 55
       },
       "testing_data": {
         "tested": 26302,
@@ -880,19 +880,19 @@
     }
   },
   "testing_data": {
-    "tested": 38627485,
-    "positive": 619402,
-    "negative": 12102601,
-    "unconfirmed": 38222
+    "tested": 38652629,
+    "positive": 531494,
+    "negative": 12104577,
+    "unconfirmed": 38183
   },
   "testing_data_imcr": {
     "tested": 34491073,
     "source": "http://twitter.com/ICMRDELHI/status/1297010234624315393"
   },
   "today": {
-    "confirmed": 69722,
-    "recovered": 58978,
-    "dead": 902,
-    "active": 9842
+    "confirmed": 69834,
+    "recovered": 58998,
+    "dead": 917,
+    "active": 9919
   }
 }
