@@ -1,9 +1,9 @@
 {
-  "confirmed": 3026806,
-  "recovered": 2261051,
-  "dead": 56648,
-  "active": 708558,
-  "updatedTime": "22/08/2020 20:13:05",
+  "confirmed": 3030155,
+  "recovered": 2264192,
+  "dead": 56696,
+  "active": 708718,
+  "updatedTime": "22/08/2020 20:24:08",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -35,7 +35,7 @@
       "active": 53710,
       "recovered": 313280,
       "dead": 6420,
-      "updatedTime": "22/08/2020 20:13:07",
+      "updatedTime": "22/08/2020 20:23:14",
       "note": "[July 22]: 444 backdated deceased entries added to Chennai in TN bulletin.\n2 deaths cross notified to other states from Chennai and Coimbatore.\n1 patient died after turning negative for infection in Chengalpattu.\nThese cases have been added to TN deceased tally",
       "stateCode": "TN",
       "today": {
@@ -93,12 +93,12 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 2314485,
-        "positive": 264546,
+        "tested": 2373103,
+        "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "21/08/2020",
-        "source": "https://drive.google.com/file/d/1GhoFB_CZfwjzYumP3N-2Ig9czTK6BnXi/view"
+        "date": "22/08/2020",
+        "source": "https://t.co/qlwBORSe7T?amp=1"
       }
     },
     "DL": {
@@ -151,18 +151,18 @@
     },
     "WB": {
       "name": "West Bengal",
-      "confirmed": 132364,
-      "active": 27804,
-      "recovered": 101871,
-      "dead": 2689,
-      "updatedTime": "21/08/2020 20:19:08",
+      "confirmed": 135596,
+      "active": 27900,
+      "recovered": 104959,
+      "dead": 2737,
+      "updatedTime": "22/08/2020 20:24:10",
       "note": "",
       "stateCode": "WB",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 3232,
+        "recovered": 3088,
+        "dead": 48,
+        "active": 96
       },
       "testing_data": {
         "tested": 1487844,
@@ -357,12 +357,12 @@
         "active": 333
       },
       "testing_data": {
-        "tested": 1133826,
-        "positive": 50640,
-        "negative": 1078907,
+        "tested": 1158510,
+        "positive": 0,
+        "negative": 1102365,
         "unconfirmed": 0,
-        "date": "21/08/2020",
-        "source": "https://twitter.com/healthminmp/status/1296808033339633666?s=20"
+        "date": "22/08/2020",
+        "source": ""
       }
     },
     "KL": {
@@ -395,7 +395,7 @@
       "active": 15305,
       "recovered": 24302,
       "dead": 1036,
-      "updatedTime": "22/08/2020 20:13:09",
+      "updatedTime": "22/08/2020 20:23:19",
       "note": "",
       "stateCode": "PB",
       "today": {
@@ -751,35 +751,35 @@
     },
     "DN": {
       "name": "Dadra and Nagar Haveli and Daman and Diu",
-      "confirmed": 2098,
-      "active": 405,
-      "recovered": 1669,
+      "confirmed": 2123,
+      "active": 397,
+      "recovered": 1702,
       "dead": 2,
-      "updatedTime": "22/08/2020 18:55:09",
+      "updatedTime": "22/08/2020 20:24:12",
       "note": "",
       "stateCode": "DN",
       "today": {
-        "confirmed": 15,
-        "recovered": 17,
+        "confirmed": 40,
+        "recovered": 50,
         "dead": 0,
-        "active": -2
+        "active": -10
       },
       "isUnknown": true
     },
     "ML": {
       "name": "Meghalaya",
-      "confirmed": 1718,
-      "active": 963,
-      "recovered": 749,
+      "confirmed": 1810,
+      "active": 1035,
+      "recovered": 769,
       "dead": 6,
-      "updatedTime": "21/08/2020 20:06:16",
+      "updatedTime": "22/08/2020 20:24:14",
       "note": "[June 17]:\nOne case was identified to be false positive and has been removed from the confirmed cases by ML authorities.",
       "stateCode": "ML",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 92,
+        "recovered": 20,
         "dead": 0,
-        "active": 0
+        "active": 72
       },
       "testing_data": {
         "tested": 70413,
@@ -880,9 +880,9 @@
     }
   },
   "testing_data": {
-    "tested": 38183880,
-    "positive": 1386825,
-    "negative": 11890775,
+    "tested": 38267182,
+    "positive": 1071639,
+    "negative": 11914233,
     "unconfirmed": 69678
   },
   "testing_data_imcr": {
@@ -890,9 +890,9 @@
     "source": "http://twitter.com/ICMRDELHI/status/1297010234624315393"
   },
   "today": {
-    "confirmed": 53437,
-    "recovered": 40252,
-    "dead": 720,
-    "active": 12465
+    "confirmed": 56786,
+    "recovered": 43393,
+    "dead": 768,
+    "active": 12625
   }
 }
