@@ -1,9 +1,9 @@
 {
-  "confirmed": 3038013,
-  "recovered": 2273973,
-  "dead": 56792,
-  "active": 706696,
-  "updatedTime": "22/08/2020 21:04:09",
+  "confirmed": 3038582,
+  "recovered": 2274345,
+  "dead": 56809,
+  "active": 706876,
+  "updatedTime": "22/08/2020 21:24:09",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -45,12 +45,12 @@
         "active": 297
       },
       "testing_data": {
-        "tested": 4062943,
-        "positive": 367430,
+        "tested": 4136490,
+        "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "21/08/2020",
-        "source": "https://stopcorona.tn.gov.in/wp-content/uploads/2020/08/Media-Bulletin-21.08.2020-27-Pages-English-770-KB.pdf"
+        "date": "22/08/2020",
+        "source": "https://stopcorona.tn.gov.in/wp-content/uploads/2020/03/Media-Bulletin-22-08-20-COVID-19-6-PM.pdf%22"
       }
     },
     "AP": {
@@ -248,17 +248,17 @@
     "AS": {
       "name": "Assam",
       "confirmed": 87909,
-      "active": 22082,
+      "active": 22075,
       "recovered": 65597,
-      "dead": 227,
-      "updatedTime": "22/08/2020 00:04:49",
+      "dead": 234,
+      "updatedTime": "22/08/2020 21:19:11",
       "note": "Includes 1 case from Nagaland",
       "stateCode": "AS",
       "today": {
         "confirmed": 0,
         "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "dead": 7,
+        "active": -7
       },
       "testing_data": {
         "tested": 1930764,
@@ -299,7 +299,7 @@
       "active": 22808,
       "recovered": 52277,
       "dead": 452,
-      "updatedTime": "22/08/2020 21:04:12",
+      "updatedTime": "22/08/2020 21:17:14",
       "note": "[July 12th] 20 non-covid deaths reported in state dashboard are included in the deceased count\n[June 22nd]: NDRF/ODRF cases have been redistributed to districts based on state dashboard",
       "stateCode": "OR",
       "today": {
@@ -463,18 +463,18 @@
     },
     "CT": {
       "name": "Chhattisgarh",
-      "confirmed": 19510,
-      "active": 7308,
-      "recovered": 12022,
-      "dead": 180,
-      "updatedTime": "22/08/2020 00:04:51",
+      "confirmed": 20078,
+      "active": 7495,
+      "recovered": 12394,
+      "dead": 189,
+      "updatedTime": "22/08/2020 21:24:11",
       "note": "",
       "stateCode": "CT",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 568,
+        "recovered": 372,
+        "dead": 9,
+        "active": 187
       },
       "testing_data": {
         "tested": 468099,
@@ -491,7 +491,7 @@
       "active": 4296,
       "recovered": 10021,
       "dead": 195,
-      "updatedTime": "22/08/2020 21:04:13",
+      "updatedTime": "22/08/2020 21:17:17",
       "note": "",
       "stateCode": "UT",
       "today": {
@@ -501,12 +501,12 @@
         "active": 135
       },
       "testing_data": {
-        "tested": 294279,
-        "positive": 14083,
-        "negative": 258971,
-        "unconfirmed": 14785,
-        "date": "21/08/2020",
-        "source": "https://twitter.com/ANI/status/1296824031182610433?s=20"
+        "tested": 301813,
+        "positive": 0,
+        "negative": 266862,
+        "unconfirmed": 13837,
+        "date": "22/08/2020",
+        "source": "https://twitter.com/PIBDehradun/status/1297194957619380226?s=20"
       }
     },
     "GA": {
@@ -768,17 +768,17 @@
     },
     "ML": {
       "name": "Meghalaya",
-      "confirmed": 1810,
+      "confirmed": 1811,
       "active": 1035,
       "recovered": 769,
-      "dead": 6,
+      "dead": 7,
       "updatedTime": "22/08/2020 20:39:17",
       "note": "[June 17]:\nOne case was identified to be false positive and has been removed from the confirmed cases by ML authorities.",
       "stateCode": "ML",
       "today": {
-        "confirmed": 92,
+        "confirmed": 93,
         "recovered": 20,
-        "dead": 0,
+        "dead": 1,
         "active": 72
       },
       "testing_data": {
@@ -796,7 +796,7 @@
       "active": 507,
       "recovered": 871,
       "dead": 3,
-      "updatedTime": "22/08/2020 21:02:18",
+      "updatedTime": "22/08/2020 21:07:15",
       "note": "",
       "stateCode": "SK",
       "today": {
@@ -880,19 +880,19 @@
     }
   },
   "testing_data": {
-    "tested": 38502792,
-    "positive": 1090046,
-    "negative": 11993002,
-    "unconfirmed": 69536
+    "tested": 38583873,
+    "positive": 708533,
+    "negative": 12000893,
+    "unconfirmed": 68588
   },
   "testing_data_imcr": {
     "tested": 34491073,
     "source": "http://twitter.com/ICMRDELHI/status/1297010234624315393"
   },
   "today": {
-    "confirmed": 64644,
-    "recovered": 53174,
-    "dead": 864,
-    "active": 10606
+    "confirmed": 65213,
+    "recovered": 53546,
+    "dead": 881,
+    "active": 10786
   }
 }
