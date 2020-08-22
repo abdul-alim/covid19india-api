@@ -1,9 +1,9 @@
 {
-  "confirmed": 3038582,
-  "recovered": 2274345,
-  "dead": 56809,
-  "active": 706876,
-  "updatedTime": "22/08/2020 21:24:09",
+  "confirmed": 3040492,
+  "recovered": 2276748,
+  "dead": 56828,
+  "active": 706364,
+  "updatedTime": "22/08/2020 21:41:11",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -223,18 +223,18 @@
     },
     "GJ": {
       "name": "Gujarat",
-      "confirmed": 84466,
-      "active": 14222,
-      "recovered": 67377,
-      "dead": 2867,
-      "updatedTime": "21/08/2020 21:05:02",
+      "confirmed": 85678,
+      "active": 14440,
+      "recovered": 68357,
+      "dead": 2881,
+      "updatedTime": "22/08/2020 21:41:13",
       "note": "",
       "stateCode": "GJ",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 1212,
+        "recovered": 980,
+        "dead": 14,
+        "active": 218
       },
       "testing_data": {
         "tested": 1695325,
@@ -271,18 +271,18 @@
     },
     "RJ": {
       "name": "Rajasthan",
-      "confirmed": 68566,
-      "active": 14907,
-      "recovered": 52721,
-      "dead": 938,
-      "updatedTime": "22/08/2020 11:52:52",
+      "confirmed": 69264,
+      "active": 14177,
+      "recovered": 54144,
+      "dead": 943,
+      "updatedTime": "22/08/2020 21:41:14",
       "note": "",
       "stateCode": "RJ",
       "today": {
-        "confirmed": 612,
-        "recovered": 225,
-        "dead": 5,
-        "active": 382
+        "confirmed": 1310,
+        "recovered": 1648,
+        "dead": 10,
+        "active": -348
       },
       "testing_data": {
         "tested": 2062109,
@@ -467,7 +467,7 @@
       "active": 7495,
       "recovered": 12394,
       "dead": 189,
-      "updatedTime": "22/08/2020 21:24:11",
+      "updatedTime": "22/08/2020 21:29:12",
       "note": "",
       "stateCode": "CT",
       "today": {
@@ -782,12 +782,12 @@
         "active": 72
       },
       "testing_data": {
-        "tested": 70413,
-        "positive": 1718,
-        "negative": 0,
-        "unconfirmed": 29687,
-        "date": "21/08/2020",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/1836"
+        "tested": 72409,
+        "positive": 0,
+        "negative": 70019,
+        "unconfirmed": 579,
+        "date": "22/08/2020",
+        "source": "https://corona.meghalayagov.in/"
       }
     },
     "SK": {
@@ -880,19 +880,19 @@
     }
   },
   "testing_data": {
-    "tested": 38583873,
-    "positive": 708533,
-    "negative": 12000893,
-    "unconfirmed": 68588
+    "tested": 38585869,
+    "positive": 706815,
+    "negative": 12070912,
+    "unconfirmed": 39480
   },
   "testing_data_imcr": {
     "tested": 34491073,
     "source": "http://twitter.com/ICMRDELHI/status/1297010234624315393"
   },
   "today": {
-    "confirmed": 65213,
-    "recovered": 53546,
-    "dead": 881,
-    "active": 10786
+    "confirmed": 67123,
+    "recovered": 55949,
+    "dead": 900,
+    "active": 10274
   }
 }
