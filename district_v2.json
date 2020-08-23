@@ -1168,9 +1168,9 @@
       "dead": 0
     },
     "confirmed": 90741,
-    "recovered": 67642,
+    "recovered": 70901,
     "dead": 242,
-    "active": 22854
+    "active": 19595
   },
   "BR": {
     "state": "Bihar",
@@ -5558,15 +5558,15 @@
       {
         "district": "West Garo Hills",
         "notes": "",
-        "active": 215,
+        "active": 214,
         "confirmed": 265,
         "recovered": 50,
-        "dead": 0,
+        "dead": 1,
         "today": {
           "confirmed": 0,
           "recovered": 0,
-          "active": 0,
-          "dead": 0
+          "active": -1,
+          "dead": 1
         }
       },
       {
@@ -5600,9 +5600,9 @@
     ],
     "today": {
       "confirmed": 0,
-      "active": 0,
+      "active": -1,
       "recovered": 0,
-      "dead": 0
+      "dead": 1
     },
     "confirmed": 1917,
     "recovered": 776,
@@ -8413,10 +8413,10 @@
       "recovered": 0,
       "dead": 0
     },
-    "confirmed": 1381,
+    "confirmed": 1403,
     "recovered": 871,
     "dead": 3,
-    "active": 507
+    "active": 529
   },
   "TG": {
     "state": "Telangana",

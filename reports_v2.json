@@ -1,9 +1,9 @@
 {
-  "confirmed": 3105016,
-  "recovered": 2333504,
+  "confirmed": 3105038,
+  "recovered": 2336763,
   "dead": 57691,
-  "active": 713268,
-  "updatedTime": "23/08/2020 22:54:10",
+  "active": 710031,
+  "updatedTime": "23/08/2020 23:13:09",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -248,17 +248,17 @@
     "AS": {
       "name": "Assam",
       "confirmed": 90741,
-      "active": 22854,
-      "recovered": 67642,
+      "active": 19595,
+      "recovered": 70901,
       "dead": 242,
-      "updatedTime": "23/08/2020 22:29:12",
+      "updatedTime": "23/08/2020 23:13:11",
       "note": "Includes 1 case from Nagaland",
       "stateCode": "AS",
       "today": {
         "confirmed": 1272,
-        "recovered": 0,
+        "recovered": 3259,
         "dead": 8,
-        "active": 1264
+        "active": -1995
       },
       "testing_data": {
         "tested": 1953804,
@@ -717,12 +717,12 @@
         "active": 45
       },
       "testing_data": {
-        "tested": 26531,
+        "tested": 26654,
         "positive": 0,
-        "negative": 0,
-        "unconfirmed": 0,
-        "date": "22/08/2020",
-        "source": "https://twitter.com/prasarbharti/status/1297220359721123841?s=20"
+        "negative": 20881,
+        "unconfirmed": 1285,
+        "date": "23/08/2020",
+        "source": "http://covid.ladakh.gov.in/Upload/getfileN/6b7ee92f-aa32-4664-838c-d742e62a1160_Covid-Ladakh%2023-August.pdf"
       }
     },
     "CH": {
@@ -792,18 +792,18 @@
     },
     "SK": {
       "name": "Sikkim",
-      "confirmed": 1381,
-      "active": 507,
+      "confirmed": 1403,
+      "active": 529,
       "recovered": 871,
       "dead": 3,
-      "updatedTime": "22/08/2020 21:07:15",
+      "updatedTime": "23/08/2020 23:13:13",
       "note": "",
       "stateCode": "SK",
       "today": {
-        "confirmed": 0,
+        "confirmed": 22,
         "recovered": 0,
         "dead": 0,
-        "active": 0
+        "active": 22
       },
       "testing_data": {
         "tested": 36744,
@@ -880,19 +880,19 @@
     }
   },
   "testing_data": {
-    "tested": 39416913,
+    "tested": 39417036,
     "positive": 531195,
-    "negative": 12243672,
-    "unconfirmed": 27180
+    "negative": 12264553,
+    "unconfirmed": 28465
   },
   "testing_data_imcr": {
     "tested": 35292220,
     "source": "https://twitter.com/ICMRDELHI/status/1297387806818353152"
   },
   "today": {
-    "confirmed": 61580,
-    "recovered": 53604,
+    "confirmed": 61602,
+    "recovered": 56863,
     "dead": 845,
-    "active": 7131
+    "active": 3894
   }
 }
