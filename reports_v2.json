@@ -1,9 +1,9 @@
 {
-  "confirmed": 3133515,
-  "recovered": 2363347,
-  "dead": 58009,
-  "active": 711602,
-  "updatedTime": "24/08/2020 19:40:08",
+  "confirmed": 3135098,
+  "recovered": 2365133,
+  "dead": 58029,
+  "active": 711379,
+  "updatedTime": "24/08/2020 19:53:08",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -74,7 +74,7 @@
         "negative": 2930789,
         "unconfirmed": 0,
         "date": "24/08/2020",
-        "source": ""
+        "source": "https://twitter.com/ArogyaAndhra/status/1297862150245900288?s=20"
       }
     },
     "KA": {
@@ -103,26 +103,26 @@
     },
     "DL": {
       "name": "Delhi",
-      "confirmed": 161466,
-      "active": 11778,
-      "recovered": 145388,
-      "dead": 4300,
-      "updatedTime": "23/08/2020 18:08:10",
+      "confirmed": 162527,
+      "active": 11626,
+      "recovered": 146588,
+      "dead": 4313,
+      "updatedTime": "24/08/2020 19:53:10",
       "note": "[July 14]: Value for the total tests conducted has been reduced by 97008 in the state bulletin. Reason given : \"Reconciled with ICMR figures\". We have made the same change.\n[June 16]: 344 deceased cases have been retroactively added to DL bulletin.",
       "stateCode": "DL",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 1061,
+        "recovered": 1200,
+        "dead": 13,
+        "active": -152
       },
       "testing_data": {
-        "tested": 1431094,
+        "tested": 1443004,
         "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "23/08/2020",
-        "source": "https://twitter.com/ANI/status/1297510512150765569?s=20"
+        "date": "24/08/2020",
+        "source": "https://delhifightscorona.in/"
       }
     },
     "UP": {
@@ -347,7 +347,7 @@
       "active": 11944,
       "recovered": 41231,
       "dead": 1246,
-      "updatedTime": "24/08/2020 19:40:10",
+      "updatedTime": "24/08/2020 19:46:10",
       "note": "",
       "stateCode": "MP",
       "today": {
@@ -487,18 +487,18 @@
     },
     "UT": {
       "name": "Uttarakhand",
-      "confirmed": 15124,
-      "active": 4389,
-      "recovered": 10480,
-      "dead": 200,
-      "updatedTime": "23/08/2020 21:00:14",
+      "confirmed": 15529,
+      "active": 4355,
+      "recovered": 10912,
+      "dead": 207,
+      "updatedTime": "24/08/2020 19:53:12",
       "note": "",
       "stateCode": "UT",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 405,
+        "recovered": 432,
+        "dead": 7,
+        "active": -34
       },
       "testing_data": {
         "tested": 307803,
@@ -515,7 +515,7 @@
       "active": 3081,
       "recovered": 10909,
       "dead": 148,
-      "updatedTime": "24/08/2020 19:40:13",
+      "updatedTime": "24/08/2020 19:46:14",
       "note": "",
       "stateCode": "GA",
       "today": {
@@ -727,26 +727,26 @@
     },
     "CH": {
       "name": "Chandigarh",
-      "confirmed": 2918,
-      "active": 1387,
-      "recovered": 1492,
+      "confirmed": 3035,
+      "active": 1350,
+      "recovered": 1646,
       "dead": 37,
-      "updatedTime": "23/08/2020 23:51:15",
+      "updatedTime": "24/08/2020 19:53:14",
       "note": "",
       "stateCode": "CH",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 117,
+        "recovered": 154,
         "dead": 0,
-        "active": 0
+        "active": -37
       },
       "testing_data": {
-        "tested": 25203,
+        "tested": 25645,
         "positive": 0,
-        "negative": 22086,
-        "unconfirmed": 118,
-        "date": "23/08/2020",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/1868"
+        "negative": 22411,
+        "unconfirmed": 98,
+        "date": "24/08/2020",
+        "source": "http://chdcovid19.in/"
       }
     },
     "DN": {
@@ -880,19 +880,19 @@
     }
   },
   "testing_data": {
-    "tested": 39918794,
+    "tested": 39931146,
     "positive": 400715,
-    "negative": 12384181,
-    "unconfirmed": 27435
+    "negative": 12384506,
+    "unconfirmed": 27415
   },
   "testing_data_imcr": {
     "tested": 35902137,
     "source": "https://twitter.com/ICMRDELHI/status/1297742879255719936?s=20"
   },
   "today": {
-    "confirmed": 28330,
-    "recovered": 26551,
-    "dead": 317,
-    "active": 1462
+    "confirmed": 29913,
+    "recovered": 28337,
+    "dead": 337,
+    "active": 1239
   }
 }
