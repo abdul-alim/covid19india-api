@@ -1,9 +1,9 @@
 {
-  "confirmed": 3155694,
-  "recovered": 2391683,
+  "confirmed": 3157673,
+  "recovered": 2391806,
   "dead": 58397,
-  "active": 705057,
-  "updatedTime": "24/08/2020 21:58:11",
+  "active": 706908,
+  "updatedTime": "24/08/2020 22:14:09",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -247,18 +247,18 @@
     },
     "AS": {
       "name": "Assam",
-      "confirmed": 90741,
-      "active": 19585,
+      "confirmed": 92620,
+      "active": 21464,
       "recovered": 70901,
       "dead": 252,
-      "updatedTime": "24/08/2020 21:11:13",
+      "updatedTime": "24/08/2020 22:14:11",
       "note": "Includes 1 case from Nagaland",
       "stateCode": "AS",
       "today": {
-        "confirmed": 0,
+        "confirmed": 1879,
         "recovered": 0,
         "dead": 10,
-        "active": -10
+        "active": 1869
       },
       "testing_data": {
         "tested": 1972239,
@@ -285,12 +285,12 @@
         "active": 58
       },
       "testing_data": {
-        "tested": 2122395,
+        "tested": 2137137,
         "positive": 0,
-        "negative": 2048693,
-        "unconfirmed": 3093,
-        "date": "23/08/2020",
-        "source": "https://twitter.com/ANI/status/1297564554277187584?s=20"
+        "negative": 2063202,
+        "unconfirmed": 1980,
+        "date": "24/08/2020",
+        "source": "https://twitter.com/ANI/status/1297926925252349966?s=20"
       }
     },
     "OR": {
@@ -607,18 +607,18 @@
     },
     "HP": {
       "name": "Himachal Pradesh",
-      "confirmed": 5001,
-      "active": 1463,
-      "recovered": 3461,
+      "confirmed": 5101,
+      "active": 1435,
+      "recovered": 3584,
       "dead": 28,
-      "updatedTime": "23/08/2020 22:22:13",
-      "note": "HP has 50 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed",
+      "updatedTime": "24/08/2020 22:13:13",
+      "note": "HP has 55 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed",
       "stateCode": "HP",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 100,
+        "recovered": 123,
         "dead": 0,
-        "active": 0
+        "active": -23
       },
       "testing_data": {
         "tested": 194380,
@@ -772,7 +772,7 @@
       "active": 1179,
       "recovered": 789,
       "dead": 8,
-      "updatedTime": "24/08/2020 21:29:16",
+      "updatedTime": "24/08/2020 22:09:15",
       "note": "[June 17]:\nOne case was identified to be false positive and has been removed from the confirmed cases by ML authorities.",
       "stateCode": "ML",
       "today": {
@@ -796,7 +796,7 @@
       "active": 509,
       "recovered": 934,
       "dead": 3,
-      "updatedTime": "24/08/2020 21:58:14",
+      "updatedTime": "24/08/2020 22:03:13",
       "note": "",
       "stateCode": "SK",
       "today": {
@@ -880,19 +880,19 @@
     }
   },
   "testing_data": {
-    "tested": 40090956,
+    "tested": 40105698,
     "positive": 404098,
-    "negative": 12435726,
-    "unconfirmed": 27484
+    "negative": 12450235,
+    "unconfirmed": 26371
   },
   "testing_data_imcr": {
     "tested": 35902137,
     "source": "https://twitter.com/ICMRDELHI/status/1297742879255719936?s=20"
   },
   "today": {
-    "confirmed": 50509,
-    "recovered": 54887,
+    "confirmed": 52488,
+    "recovered": 55010,
     "dead": 705,
-    "active": -5083
+    "active": -3227
   }
 }
