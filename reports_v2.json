@@ -1,9 +1,9 @@
 {
-  "confirmed": 3211848,
-  "recovered": 2445975,
-  "dead": 59305,
-  "active": 706000,
-  "updatedTime": "25/08/2020 21:00:26",
+  "confirmed": 3212333,
+  "recovered": 2446265,
+  "dead": 59311,
+  "active": 706189,
+  "updatedTime": "25/08/2020 21:24:24",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -11,7 +11,7 @@
       "active": 165921,
       "recovered": 514790,
       "dead": 22794,
-      "updatedTime": "25/08/2020 21:00:37",
+      "updatedTime": "25/08/2020 21:08:17",
       "note": "318 cases are marked as non-covid deaths in MH bulletin. These have been reduced from active count\n[Aug 15] : MH bulletin has reduced 819 confirmed cases in Mumbai and 72 confirmed cases from 'Other States' from the tally\n[Jun 16] : 1328 deceased cases have been retroactively added to MH bulletin.\n[Jun 20] : 69 deceased cases have been reduced based on state bulletin.\n",
       "stateCode": "MH",
       "today": {
@@ -155,7 +155,7 @@
       "active": 27349,
       "recovered": 114543,
       "dead": 2909,
-      "updatedTime": "25/08/2020 21:00:39",
+      "updatedTime": "25/08/2020 21:08:21",
       "note": "",
       "stateCode": "WB",
       "today": {
@@ -405,12 +405,12 @@
         "active": 456
       },
       "testing_data": {
-        "tested": 919614,
+        "tested": 941939,
         "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "24/08/2020",
-        "source": "http://diprpunjab.gov.in/sites/default/files/Covid%20Media%20Bulletin%20%2824-08-2020%29.pdf"
+        "date": "25/08/2020",
+        "source": ""
       }
     },
     "JK": {
@@ -487,18 +487,18 @@
     },
     "UT": {
       "name": "Uttarakhand",
-      "confirmed": 15529,
-      "active": 4355,
-      "recovered": 10912,
-      "dead": 207,
-      "updatedTime": "24/08/2020 20:08:17",
+      "confirmed": 16014,
+      "active": 4545,
+      "recovered": 11201,
+      "dead": 213,
+      "updatedTime": "25/08/2020 21:24:36",
       "note": "",
       "stateCode": "UT",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 485,
+        "recovered": 289,
+        "dead": 6,
+        "active": 190
       },
       "testing_data": {
         "tested": 316265,
@@ -578,7 +578,7 @@
         "negative": 53950,
         "unconfirmed": 569,
         "date": "25/08/2020",
-        "source": ""
+        "source": "https://health.py.gov.in/sites/default/files/25.08.2020-bulletin.pdf.pdf"
       }
     },
     "MN": {
@@ -769,17 +769,17 @@
     "ML": {
       "name": "Meghalaya",
       "confirmed": 2018,
-      "active": 1179,
-      "recovered": 831,
+      "active": 1178,
+      "recovered": 832,
       "dead": 8,
-      "updatedTime": "25/08/2020 20:22:28",
+      "updatedTime": "25/08/2020 21:24:40",
       "note": "[June 17]:\nOne case was identified to be false positive and has been removed from the confirmed cases by ML authorities.",
       "stateCode": "ML",
       "today": {
         "confirmed": 42,
-        "recovered": 42,
+        "recovered": 43,
         "dead": 0,
-        "active": 0
+        "active": -1
       },
       "testing_data": {
         "tested": 76762,
@@ -880,7 +880,7 @@
     }
   },
   "testing_data": {
-    "tested": 40910688,
+    "tested": 40933013,
     "positive": 414606,
     "negative": 12620755,
     "unconfirmed": 35843
@@ -890,9 +890,9 @@
     "source": "https://twitter.com/ICMRDELHI/status/1298107913597153280?s=20"
   },
   "today": {
-    "confirmed": 46967,
-    "recovered": 42874,
-    "dead": 759,
-    "active": 3334
+    "confirmed": 47452,
+    "recovered": 43164,
+    "dead": 765,
+    "active": 3523
   }
 }
