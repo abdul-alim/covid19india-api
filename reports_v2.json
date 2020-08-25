@@ -1,9 +1,9 @@
 {
-  "confirmed": 3231522,
-  "recovered": 2467220,
-  "dead": 59608,
-  "active": 704126,
-  "updatedTime": "25/08/2020 22:45:11",
+  "confirmed": 3231612,
+  "recovered": 2467252,
+  "dead": 59609,
+  "active": 704183,
+  "updatedTime": "25/08/2020 23:14:10",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -117,12 +117,12 @@
         "active": 372
       },
       "testing_data": {
-        "tested": 1443004,
+        "tested": 1462845,
         "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "24/08/2020",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/1896"
+        "date": "25/08/2020",
+        "source": "https://delhifightscorona.in/"
       }
     },
     "UP": {
@@ -621,12 +621,12 @@
         "active": -112
       },
       "testing_data": {
-        "tested": 195581,
+        "tested": 198010,
         "positive": 0,
-        "negative": 190387,
-        "unconfirmed": 93,
-        "date": "24/08/2020",
-        "source": "https://twitter.com/nhm_hp/status/1297936808869638150?s=20"
+        "negative": 192044,
+        "unconfirmed": 812,
+        "date": "25/08/2020",
+        "source": ""
       }
     },
     "NL": {
@@ -703,18 +703,18 @@
     },
     "LA": {
       "name": "Ladakh",
-      "confirmed": 2330,
-      "active": 790,
-      "recovered": 1517,
-      "dead": 23,
-      "updatedTime": "24/08/2020 23:09:11",
+      "confirmed": 2420,
+      "active": 847,
+      "recovered": 1549,
+      "dead": 24,
+      "updatedTime": "25/08/2020 23:14:20",
       "note": "",
       "stateCode": "LA",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 90,
+        "recovered": 32,
+        "dead": 1,
+        "active": 57
       },
       "testing_data": {
         "tested": 26894,
@@ -880,19 +880,19 @@
     }
   },
   "testing_data": {
-    "tested": 41093857,
+    "tested": 41116127,
     "positive": 414606,
-    "negative": 12658998,
-    "unconfirmed": 37471
+    "negative": 12660655,
+    "unconfirmed": 38190
   },
   "testing_data_imcr": {
     "tested": 36827520,
     "source": "https://twitter.com/ICMRDELHI/status/1298107913597153280?s=20"
   },
   "today": {
-    "confirmed": 66641,
-    "recovered": 64119,
-    "dead": 1062,
-    "active": 1460
+    "confirmed": 66731,
+    "recovered": 64151,
+    "dead": 1063,
+    "active": 1517
   }
 }
