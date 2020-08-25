@@ -1,9 +1,9 @@
 {
-  "confirmed": 3221639,
-  "recovered": 2455932,
-  "dead": 59471,
-  "active": 705668,
-  "updatedTime": "25/08/2020 21:40:10",
+  "confirmed": 3228365,
+  "recovered": 2464343,
+  "dead": 59593,
+  "active": 703861,
+  "updatedTime": "25/08/2020 21:53:14",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -31,18 +31,18 @@
     },
     "TN": {
       "name": "Tamil Nadu",
-      "confirmed": 385352,
-      "active": 53282,
-      "recovered": 325456,
-      "dead": 6614,
-      "updatedTime": "24/08/2020 19:18:09",
+      "confirmed": 391303,
+      "active": 52128,
+      "recovered": 332454,
+      "dead": 6721,
+      "updatedTime": "25/08/2020 21:53:15",
       "note": "[July 22]: 444 backdated deceased entries added to Chennai in TN bulletin.\n2 deaths cross notified to other states from Chennai and Coimbatore.\n1 patient died after turning negative for infection in Chengalpattu.\nThese cases have been added to TN deceased tally",
       "stateCode": "TN",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 5951,
+        "recovered": 6998,
+        "dead": 107,
+        "active": -1154
       },
       "testing_data": {
         "tested": 4346861,
@@ -83,7 +83,7 @@
       "active": 82410,
       "recovered": 204439,
       "dead": 4958,
-      "updatedTime": "25/08/2020 21:40:12",
+      "updatedTime": "25/08/2020 21:51:12",
       "note": "",
       "stateCode": "KA",
       "today": {
@@ -248,17 +248,17 @@
     "AS": {
       "name": "Assam",
       "confirmed": 92620,
-      "active": 19274,
+      "active": 19266,
       "recovered": 73091,
-      "dead": 252,
-      "updatedTime": "24/08/2020 22:31:11",
+      "dead": 260,
+      "updatedTime": "25/08/2020 21:53:19",
       "note": "Includes 1 case from Nagaland",
       "stateCode": "AS",
       "today": {
         "confirmed": 0,
         "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "dead": 8,
+        "active": -8
       },
       "testing_data": {
         "tested": 2000909,
@@ -271,18 +271,18 @@
     },
     "RJ": {
       "name": "Rajasthan",
-      "confirmed": 72650,
-      "active": 14883,
-      "recovered": 56794,
-      "dead": 973,
-      "updatedTime": "25/08/2020 11:55:10",
+      "confirmed": 73325,
+      "active": 14219,
+      "recovered": 58126,
+      "dead": 980,
+      "updatedTime": "25/08/2020 21:53:21",
       "note": "",
       "stateCode": "RJ",
       "today": {
-        "confirmed": 695,
-        "recovered": 194,
-        "dead": 6,
-        "active": 495
+        "confirmed": 1370,
+        "recovered": 1526,
+        "dead": 13,
+        "active": -169
       },
       "testing_data": {
         "tested": 2137137,
@@ -299,7 +299,7 @@
       "active": 24280,
       "recovered": 59470,
       "dead": 481,
-      "updatedTime": "25/08/2020 21:40:14",
+      "updatedTime": "25/08/2020 21:51:15",
       "note": "[July 12th] 20 non-covid deaths reported in state dashboard are included in the deceased count\n[June 22nd]: NDRF/ODRF cases have been redistributed to districts based on state dashboard",
       "stateCode": "OR",
       "today": {
@@ -467,7 +467,7 @@
       "active": 9249,
       "recovered": 13732,
       "dead": 218,
-      "updatedTime": "25/08/2020 21:40:16",
+      "updatedTime": "25/08/2020 21:51:17",
       "note": "",
       "stateCode": "CT",
       "today": {
@@ -501,12 +501,12 @@
         "active": 190
       },
       "testing_data": {
-        "tested": 316265,
+        "tested": 325384,
         "positive": 0,
-        "negative": 281202,
-        "unconfirmed": 12495,
-        "date": "24/08/2020",
-        "source": "https://twitter.com/PIBDehradun/status/1297893574910996486?s=20"
+        "negative": 288263,
+        "unconfirmed": 14058,
+        "date": "25/08/2020",
+        "source": "https://twitter.com/PIBDehradun/status/1298271599024463876?s=20"
       }
     },
     "GA": {
@@ -655,18 +655,18 @@
     },
     "AR": {
       "name": "Arunachal Pradesh",
-      "confirmed": 3312,
-      "active": 880,
-      "recovered": 2427,
+      "confirmed": 3412,
+      "active": 899,
+      "recovered": 2508,
       "dead": 5,
-      "updatedTime": "24/08/2020 21:48:15",
+      "updatedTime": "25/08/2020 21:53:23",
       "note": "[July 25]: All numbers corresponding to Papum Pare and Captial Complex are tracked under Papum Pare district.",
       "stateCode": "AR",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 100,
+        "recovered": 81,
         "dead": 0,
-        "active": 0
+        "active": 19
       },
       "testing_data": {
         "tested": 146012,
@@ -880,19 +880,19 @@
     }
   },
   "testing_data": {
-    "tested": 41003234,
+    "tested": 41012353,
     "positive": 414606,
-    "negative": 12620755,
-    "unconfirmed": 35843
+    "negative": 12627816,
+    "unconfirmed": 37406
   },
   "testing_data_imcr": {
     "tested": 36827520,
     "source": "https://twitter.com/ICMRDELHI/status/1298107913597153280?s=20"
   },
   "today": {
-    "confirmed": 56758,
-    "recovered": 52831,
-    "dead": 925,
-    "active": 3002
+    "confirmed": 63484,
+    "recovered": 61242,
+    "dead": 1047,
+    "active": 1195
   }
 }
