@@ -1,9 +1,9 @@
 {
-  "confirmed": 3188454,
-  "recovered": 2423094,
-  "dead": 58773,
-  "active": 706020,
-  "updatedTime": "25/08/2020 19:04:10",
+  "confirmed": 3191977,
+  "recovered": 2425641,
+  "dead": 58793,
+  "active": 706976,
+  "updatedTime": "25/08/2020 19:20:11",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -59,7 +59,7 @@
       "active": 89932,
       "recovered": 278247,
       "dead": 3460,
-      "updatedTime": "25/08/2020 19:04:12",
+      "updatedTime": "25/08/2020 19:09:11",
       "note": "Total includes patients from other states and a new category \"Foreign Evacuees\" which is now reported in AP bulletin.",
       "stateCode": "AP",
       "today": {
@@ -69,12 +69,12 @@
         "active": 416
       },
       "testing_data": {
-        "tested": 3292501,
+        "tested": 3356852,
         "positive": 0,
-        "negative": 2930789,
+        "negative": 2985213,
         "unconfirmed": 0,
-        "date": "24/08/2020",
-        "source": "https://twitter.com/ArogyaAndhra/status/1297862150245900288?s=20"
+        "date": "25/08/2020",
+        "source": "http://covid19.ap.gov.in/Covid19_Admin/index.html"
       }
     },
     "KA": {
@@ -131,7 +131,7 @@
       "active": 49575,
       "recovered": 144754,
       "dead": 3059,
-      "updatedTime": "25/08/2020 19:04:13",
+      "updatedTime": "25/08/2020 19:09:12",
       "note": "",
       "stateCode": "UP",
       "today": {
@@ -179,7 +179,7 @@
       "active": 19651,
       "recovered": 104531,
       "dead": 644,
-      "updatedTime": "25/08/2020 19:04:15",
+      "updatedTime": "25/08/2020 19:09:14",
       "note": "",
       "stateCode": "BR",
       "today": {
@@ -319,18 +319,18 @@
     },
     "HR": {
       "name": "Haryana",
-      "confirmed": 55460,
-      "active": 9442,
-      "recovered": 45405,
-      "dead": 613,
-      "updatedTime": "24/08/2020 20:18:15",
+      "confirmed": 56608,
+      "active": 9489,
+      "recovered": 46496,
+      "dead": 623,
+      "updatedTime": "25/08/2020 19:20:13",
       "note": "[Aug 2]: 21 Foreign Evacuees have been merged to Panchkula and 14 Italian tourists have been merged to Gurugram in HR bulletin.",
       "stateCode": "HR",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 1148,
+        "recovered": 1091,
+        "dead": 10,
+        "active": 47
       },
       "testing_data": {
         "tested": 983187,
@@ -367,18 +367,18 @@
     },
     "KL": {
       "name": "Kerala",
-      "confirmed": 59504,
-      "active": 20323,
-      "recovered": 38883,
-      "dead": 235,
-      "updatedTime": "24/08/2020 21:48:13",
+      "confirmed": 61879,
+      "active": 21232,
+      "recovered": 40339,
+      "dead": 245,
+      "updatedTime": "25/08/2020 19:20:15",
       "note": "Mahe native who expired in Kannur included in Kerala's deceased tally.\nOne patient absconded from Palakkad to TN and one patient returned back to Maharashtra. Some non-covid deaths (accident,cancer etc.) have also been reported in the bulletin.\nIn total 63 such cases have been reduced from active count",
       "stateCode": "KL",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 2375,
+        "recovered": 1456,
+        "dead": 10,
+        "active": 909
       },
       "testing_data": {
         "tested": 1446380,
@@ -880,9 +880,9 @@
     }
   },
   "testing_data": {
-    "tested": 40597671,
+    "tested": 40662022,
     "positive": 409987,
-    "negative": 12514570,
+    "negative": 12568994,
     "unconfirmed": 34341
   },
   "testing_data_imcr": {
@@ -890,9 +890,9 @@
     "source": "https://twitter.com/ICMRDELHI/status/1298107913597153280?s=20"
   },
   "today": {
-    "confirmed": 23573,
-    "recovered": 19993,
-    "dead": 227,
-    "active": 3353
+    "confirmed": 27096,
+    "recovered": 22540,
+    "dead": 247,
+    "active": 4309
   }
 }
