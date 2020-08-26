@@ -2425,37 +2425,37 @@
       {
         "district": "North Goa",
         "notes": "District-wise numbers are out-dated as cumulative counts for each district are not reported in bulletin",
-        "active": 1329,
+        "active": 1328,
         "confirmed": 2334,
         "recovered": 951,
-        "dead": 54,
+        "dead": 55,
         "today": {
           "confirmed": 0,
           "recovered": 0,
-          "active": 0,
-          "dead": 0
+          "active": -1,
+          "dead": 1
         }
       },
       {
         "district": "South Goa",
         "notes": "District-wise numbers are out-dated as cumulative counts for each district are not reported in bulletin",
-        "active": 1811,
+        "active": 1804,
         "confirmed": 3317,
         "recovered": 1403,
-        "dead": 103,
+        "dead": 110,
         "today": {
           "confirmed": 0,
           "recovered": 0,
-          "active": 0,
-          "dead": 0
+          "active": -7,
+          "dead": 7
         }
       }
     ],
     "today": {
       "confirmed": 0,
-      "active": 0,
+      "active": -8,
       "recovered": 0,
-      "dead": 0
+      "dead": 8
     },
     "confirmed": 15027,
     "recovered": 11511,
@@ -5474,14 +5474,14 @@
       {
         "district": "East Khasi Hills",
         "notes": "",
-        "active": 828,
+        "active": 822,
         "confirmed": 1407,
-        "recovered": 575,
+        "recovered": 581,
         "dead": 4,
         "today": {
           "confirmed": 32,
-          "recovered": 1,
-          "active": 31,
+          "recovered": 7,
+          "active": 25,
           "dead": 0
         }
       },
@@ -5558,14 +5558,14 @@
       {
         "district": "West Garo Hills",
         "notes": "",
-        "active": 204,
+        "active": 172,
         "confirmed": 287,
-        "recovered": 82,
+        "recovered": 114,
         "dead": 1,
         "today": {
           "confirmed": 7,
-          "recovered": 0,
-          "active": 7,
+          "recovered": 32,
+          "active": -25,
           "dead": 0
         }
       },
@@ -5600,8 +5600,8 @@
     ],
     "today": {
       "confirmed": 32,
-      "active": 28,
-      "recovered": 4,
+      "active": -10,
+      "recovered": 42,
       "dead": 0
     },
     "confirmed": 2050,
