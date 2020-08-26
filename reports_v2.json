@@ -1,9 +1,9 @@
 {
-  "confirmed": 3246929,
-  "recovered": 2474743,
-  "dead": 59736,
-  "active": 711882,
-  "updatedTime": "26/08/2020 17:54:11",
+  "confirmed": 3250109,
+  "recovered": 2476693,
+  "dead": 59768,
+  "active": 713080,
+  "updatedTime": "26/08/2020 18:57:12",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -21,12 +21,12 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 3711123,
+        "tested": 3798306,
         "positive": 0,
-        "negative": 2994256,
+        "negative": 3063444,
         "unconfirmed": 0,
-        "date": "25/08/2020",
-        "source": "https://t.co/PK67mjEbAq?amp=1"
+        "date": "26/08/2020",
+        "source": "https://t.co/S34sKFwSWg?amp=1"
       }
     },
     "TN": {
@@ -45,12 +45,11 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 4346861,
+        "tested": 0,
         "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "25/08/2020",
-        "source": "https://twitter.com/ANI/status/1298238719288315905?s=20"
+        "updated": false
       }
     },
     "AP": {
@@ -141,12 +140,11 @@
         "active": 1750
       },
       "testing_data": {
-        "tested": 4796488,
+        "tested": 0,
         "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "25/08/2020",
-        "source": "https://twitter.com/ShishirGoUP/status/1298215812621189121?s=20"
+        "updated": false
       }
     },
     "WB": {
@@ -165,12 +163,11 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 1634102,
+        "tested": 0,
         "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "25/08/2020",
-        "source": "https://www.wbhealth.gov.in/uploaded_files/corona/WB_DHFW_Bulletin_25th_AUGUST_REPORT_FINAL.pdf"
+        "updated": false
       }
     },
     "BR": {
@@ -213,12 +210,11 @@
         "active": 1948
       },
       "testing_data": {
-        "tested": 1082094,
-        "positive": 111688,
+        "tested": 0,
+        "positive": 0,
         "negative": 0,
-        "unconfirmed": 1176,
-        "date": "26/08/2020",
-        "source": "https://twitter.com/drgsrao/status/1298467364162301954?s=20"
+        "unconfirmed": 0,
+        "updated": false
       }
     },
     "GJ": {
@@ -285,12 +281,11 @@
         "active": 388
       },
       "testing_data": {
-        "tested": 2166744,
+        "tested": 0,
         "positive": 0,
-        "negative": 2091316,
-        "unconfirmed": 2103,
-        "date": "25/08/2020",
-        "source": "https://twitter.com/airnews_jaipur/status/1298301795488247814?s=20"
+        "negative": 0,
+        "unconfirmed": 0,
+        "updated": false
       }
     },
     "OR": {
@@ -309,12 +304,11 @@
         "active": 3358
       },
       "testing_data": {
-        "tested": 1485167,
-        "positive": 87602,
+        "tested": 0,
+        "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "26/08/2020",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/1928"
+        "updated": false
       }
     },
     "HR": {
@@ -367,18 +361,18 @@
     },
     "KL": {
       "name": "Kerala",
-      "confirmed": 61879,
-      "active": 21232,
-      "recovered": 40339,
-      "dead": 245,
-      "updatedTime": "25/08/2020 19:20:15",
+      "confirmed": 64355,
+      "active": 22344,
+      "recovered": 41690,
+      "dead": 258,
+      "updatedTime": "26/08/2020 18:57:15",
       "note": "Mahe native who expired in Kannur included in Kerala's deceased tally.\nOne patient absconded from Palakkad to TN and one patient returned back to Maharashtra. Some non-covid deaths (accident,cancer etc.) have also been reported in the bulletin.\nIn total 63 such cases have been reduced from active count",
       "stateCode": "KL",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 2476,
+        "recovered": 1351,
+        "dead": 13,
+        "active": 1112
       },
       "testing_data": {
         "tested": 1484907,
@@ -405,28 +399,27 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 941939,
+        "tested": 0,
         "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "25/08/2020",
-        "source": "http://diprpunjab.gov.in/sites/default/files/Media%20Bulletin%2025-08-2020.pdf"
+        "updated": false
       }
     },
     "JK": {
       "name": "Jammu and Kashmir",
-      "confirmed": 33776,
-      "active": 7544,
-      "recovered": 25594,
-      "dead": 638,
-      "updatedTime": "25/08/2020 18:38:11",
+      "confirmed": 34480,
+      "active": 7630,
+      "recovered": 26193,
+      "dead": 657,
+      "updatedTime": "26/08/2020 18:57:17",
       "note": "",
       "stateCode": "JK",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 704,
+        "recovered": 599,
+        "dead": 19,
+        "active": 86
       },
       "testing_data": {
         "tested": 888127,
@@ -501,12 +494,11 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 325384,
+        "tested": 0,
         "positive": 0,
-        "negative": 288263,
-        "unconfirmed": 14058,
-        "date": "25/08/2020",
-        "source": "https://twitter.com/PIBDehradun/status/1298271599024463876?s=20"
+        "negative": 0,
+        "unconfirmed": 0,
+        "updated": false
       }
     },
     "GA": {
@@ -549,12 +541,11 @@
         "active": 165
       },
       "testing_data": {
-        "tested": 251657,
-        "positive": 9539,
-        "negative": 242118,
+        "tested": 0,
+        "positive": 0,
+        "negative": 0,
         "unconfirmed": 0,
-        "date": "26/08/2020",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/1922"
+        "updated": false
       }
     },
     "PY": {
@@ -573,12 +564,11 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 67301,
+        "tested": 0,
         "positive": 0,
-        "negative": 53950,
-        "unconfirmed": 569,
-        "date": "25/08/2020",
-        "source": "https://health.py.gov.in/sites/default/files/25.08.2020-bulletin.pdf.pdf"
+        "negative": 0,
+        "unconfirmed": 0,
+        "updated": false
       }
     },
     "MN": {
@@ -597,12 +587,11 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 137384,
+        "tested": 0,
         "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "25/08/2020",
-        "source": "https://twitter.com/DiprManipur/status/1298250371035324416?s=20"
+        "updated": false
       }
     },
     "HP": {
@@ -645,12 +634,11 @@
         "active": 26
       },
       "testing_data": {
-        "tested": 57426,
+        "tested": 0,
         "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "25/08/2020",
-        "source": "https://twitter.com/MyGovNagaland/status/1298239979575885825?s=20"
+        "updated": false
       }
     },
     "AR": {
@@ -782,12 +770,11 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 76762,
+        "tested": 0,
         "positive": 0,
-        "negative": 74293,
-        "unconfirmed": 451,
-        "date": "25/08/2020",
-        "source": "https://www.eastmojo.com/coronavirus-updates/2020/08/25/with-42-new-cases-meghalayas-covid-19-tally-crosses-2000-mark"
+        "negative": 0,
+        "unconfirmed": 0,
+        "updated": false
       }
     },
     "SK": {
@@ -806,12 +793,11 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 38296,
+        "tested": 0,
         "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "25/08/2020",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/1915?single"
+        "updated": false
       }
     },
     "MZ": {
@@ -830,12 +816,11 @@
         "active": 5
       },
       "testing_data": {
-        "tested": 35214,
+        "tested": 0,
         "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "25/08/2020",
-        "source": "https://dipr.mizoram.gov.in/post/status-of-state-surveillance-of-covid-19-time-2482020-500pm-2582020-500-pm"
+        "updated": false
       }
     },
     "UN": {
@@ -880,19 +865,19 @@
     }
   },
   "testing_data": {
-    "tested": 41359502,
-    "positive": 421324,
-    "negative": 12683619,
-    "unconfirmed": 38799
+    "tested": 24003866,
+    "positive": 212495,
+    "negative": 10002867,
+    "unconfirmed": 20442
   },
   "testing_data_imcr": {
     "tested": 37651512,
     "source": "https://twitter.com/ICMRDELHI/status/1298463649770553344?s=20"
   },
   "today": {
-    "confirmed": 15175,
-    "recovered": 7491,
-    "dead": 124,
-    "active": 7560
+    "confirmed": 18355,
+    "recovered": 9441,
+    "dead": 156,
+    "active": 8758
   }
 }
