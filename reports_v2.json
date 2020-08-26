@@ -1,9 +1,9 @@
 {
-  "confirmed": 3303581,
-  "recovered": 2520181,
-  "dead": 60592,
-  "active": 722237,
-  "updatedTime": "26/08/2020 22:32:45",
+  "confirmed": 3305253,
+  "recovered": 2521240,
+  "dead": 60627,
+  "active": 722813,
+  "updatedTime": "26/08/2020 23:04:16",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -11,7 +11,7 @@
       "active": 172873,
       "recovered": 522427,
       "dead": 23089,
-      "updatedTime": "26/08/2020 22:32:53",
+      "updatedTime": "26/08/2020 22:49:32",
       "note": "322 cases are marked as non-covid deaths in MH bulletin. These have been reduced from active count\n[Aug 15] : MH bulletin has reduced 819 confirmed cases in Mumbai and 72 confirmed cases from 'Other States' from the tally\n[Jun 16] : 1328 deceased cases have been retroactively added to MH bulletin.\n[Jun 20] : 69 deceased cases have been reduced based on state bulletin.\n",
       "stateCode": "MH",
       "today": {
@@ -248,17 +248,17 @@
     "AS": {
       "name": "Assam",
       "confirmed": 94593,
-      "active": 19515,
+      "active": 19501,
       "recovered": 74815,
-      "dead": 260,
-      "updatedTime": "25/08/2020 22:30:14",
+      "dead": 274,
+      "updatedTime": "26/08/2020 22:56:22",
       "note": "Includes 1 case from Nagaland",
       "stateCode": "AS",
       "today": {
         "confirmed": 0,
         "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "dead": 14,
+        "active": -14
       },
       "testing_data": {
         "tested": 2035216,
@@ -439,26 +439,26 @@
     },
     "JH": {
       "name": "Jharkhand",
-      "confirmed": 32174,
-      "active": 10077,
-      "recovered": 21750,
-      "dead": 347,
-      "updatedTime": "25/08/2020 22:45:14",
+      "confirmed": 33311,
+      "active": 10463,
+      "recovered": 22486,
+      "dead": 362,
+      "updatedTime": "26/08/2020 23:04:18",
       "note": "",
       "stateCode": "JH",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 1137,
+        "recovered": 736,
+        "dead": 15,
+        "active": 386
       },
       "testing_data": {
-        "tested": 600322,
+        "tested": 643590,
         "positive": 0,
-        "negative": 568148,
+        "negative": 610279,
         "unconfirmed": 0,
-        "date": "25/08/2020",
-        "source": "https://twitter.com/rnuddkranchi/status/1298304564400025600?s=20"
+        "date": "26/08/2020",
+        "source": "http://jrhms.jharkhand.gov.in/Press-Release.aspx"
       }
     },
     "CT": {
@@ -487,18 +487,18 @@
     },
     "UT": {
       "name": "Uttarakhand",
-      "confirmed": 16014,
-      "active": 4545,
-      "recovered": 11201,
-      "dead": 213,
-      "updatedTime": "25/08/2020 21:24:36",
+      "confirmed": 16549,
+      "active": 4749,
+      "recovered": 11524,
+      "dead": 219,
+      "updatedTime": "26/08/2020 22:56:24",
       "note": "",
       "stateCode": "UT",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 535,
+        "recovered": 323,
+        "dead": 6,
+        "active": 206
       },
       "testing_data": {
         "tested": 334979,
@@ -626,7 +626,7 @@
         "negative": 197946,
         "unconfirmed": 558,
         "date": "26/08/2020",
-        "source": ""
+        "source": "https://twitter.com/nhm_hp/status/1298651429230407685?s=20"
       }
     },
     "NL": {
@@ -645,12 +645,12 @@
         "active": 26
       },
       "testing_data": {
-        "tested": 57426,
+        "tested": 58053,
         "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "25/08/2020",
-        "source": "https://twitter.com/MyGovNagaland/status/1298239979575885825?s=20"
+        "date": "26/08/2020",
+        "source": "https://twitter.com/MyGovNagaland/status/1298579583533346816?s=20"
       }
     },
     "AR": {
@@ -782,12 +782,12 @@
         "active": -20
       },
       "testing_data": {
-        "tested": 76762,
+        "tested": 79126,
         "positive": 0,
-        "negative": 74293,
-        "unconfirmed": 451,
-        "date": "25/08/2020",
-        "source": "https://www.eastmojo.com/coronavirus-updates/2020/08/25/with-42-new-cases-meghalayas-covid-19-tally-crosses-2000-mark"
+        "negative": 76645,
+        "unconfirmed": 431,
+        "date": "26/08/2020",
+        "source": "https://corona.meghalayagov.in/"
       }
     },
     "SK": {
@@ -880,19 +880,19 @@
     }
   },
   "testing_data": {
-    "tested": 42229965,
+    "tested": 42276224,
     "positive": 426435,
-    "negative": 12904417,
-    "unconfirmed": 40895
+    "negative": 12948900,
+    "unconfirmed": 40875
   },
   "testing_data_imcr": {
     "tested": 37651512,
     "source": "https://twitter.com/ICMRDELHI/status/1298463649770553344?s=20"
   },
   "today": {
-    "confirmed": 71827,
-    "recovered": 52929,
-    "dead": 980,
-    "active": 17918
+    "confirmed": 73499,
+    "recovered": 53988,
+    "dead": 1015,
+    "active": 18496
   }
 }
