@@ -1,9 +1,9 @@
 {
-  "confirmed": 3454513,
-  "recovered": 2640121,
+  "confirmed": 3454584,
+  "recovered": 2640206,
   "dead": 62669,
-  "active": 751148,
-  "updatedTime": "28/08/2020 20:24:18",
+  "active": 751134,
+  "updatedTime": "28/08/2020 20:39:18",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -11,7 +11,7 @@
       "active": 180718,
       "recovered": 543170,
       "dead": 23775,
-      "updatedTime": "28/08/2020 20:21:23",
+      "updatedTime": "28/08/2020 20:29:20",
       "note": "332 cases are marked as non-covid deaths in MH bulletin. These have been reduced from active count\n[Aug 15] : MH bulletin has reduced 819 confirmed cases in Mumbai and 72 confirmed cases from 'Other States' from the tally\n[Jun 16] : 1328 deceased cases have been retroactively added to MH bulletin.\n[Jun 20] : 69 deceased cases have been reduced based on state bulletin.\n",
       "stateCode": "MH",
       "today": {
@@ -35,7 +35,7 @@
       "active": 52506,
       "recovered": 349682,
       "dead": 7050,
-      "updatedTime": "28/08/2020 20:24:29",
+      "updatedTime": "28/08/2020 20:30:22",
       "note": "[July 22]: 444 backdated deceased entries added to Chennai in TN bulletin.\n2 deaths cross notified to other states from Chennai and Coimbatore.\n1 patient died after turning negative for infection in Chengalpattu.\nThese cases have been added to TN deceased tally",
       "stateCode": "TN",
       "today": {
@@ -155,7 +155,7 @@
       "active": 26349,
       "recovered": 124332,
       "dead": 3073,
-      "updatedTime": "28/08/2020 20:21:28",
+      "updatedTime": "28/08/2020 20:29:25",
       "note": "",
       "stateCode": "WB",
       "today": {
@@ -227,7 +227,7 @@
       "active": 14974,
       "recovered": 74651,
       "dead": 2976,
-      "updatedTime": "28/08/2020 20:24:31",
+      "updatedTime": "28/08/2020 20:30:25",
       "note": "",
       "stateCode": "GJ",
       "today": {
@@ -384,9 +384,9 @@
         "tested": 1608013,
         "positive": 69305,
         "negative": 0,
-        "unconfirmed": 0,
+        "unconfirmed": 8663,
         "date": "28/08/2020",
-        "source": "https://dhs.kerala.gov.in/%e0%b4%a1%e0%b5%86%e0%b4%af%e0%b4%bf%e0%b4%b2%e0%b4%bf-%e0%b4%ac%e0%b5%81%e0%b4%b3%e0%b5%8d%e0%b4%b3%e0%b4%b1%e0%b5%8d%e0%b4%b1%e0%b4%bf%e0%b4%a8%e0%b5%8d%e2%80%8d/"
+        "source": "https://dhs.kerala.gov.in/wp-content/uploads/2020/08/Bulletin-HFWD-English-August-28.pdf"
       }
     },
     "PB": {
@@ -768,18 +768,18 @@
     },
     "ML": {
       "name": "Meghalaya",
-      "confirmed": 2202,
-      "active": 1287,
-      "recovered": 906,
+      "confirmed": 2239,
+      "active": 1272,
+      "recovered": 958,
       "dead": 9,
-      "updatedTime": "28/08/2020 12:59:19",
+      "updatedTime": "28/08/2020 20:39:21",
       "note": "[June 17]:\nOne case was identified to be false positive and has been removed from the confirmed cases by ML authorities.",
       "stateCode": "ML",
       "today": {
-        "confirmed": 72,
-        "recovered": 7,
+        "confirmed": 109,
+        "recovered": 59,
         "dead": 0,
-        "active": 65
+        "active": 50
       },
       "testing_data": {
         "tested": 81012,
@@ -792,18 +792,18 @@
     },
     "SK": {
       "name": "Sikkim",
-      "confirmed": 1542,
-      "active": 388,
-      "recovered": 1151,
+      "confirmed": 1576,
+      "active": 389,
+      "recovered": 1184,
       "dead": 3,
-      "updatedTime": "27/08/2020 22:18:32",
+      "updatedTime": "28/08/2020 20:39:23",
       "note": "",
       "stateCode": "SK",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 34,
+        "recovered": 33,
         "dead": 0,
-        "active": 0
+        "active": 1
       },
       "testing_data": {
         "tested": 40035,
@@ -883,16 +883,16 @@
     "tested": 44010349,
     "positive": 447669,
     "negative": 13325506,
-    "unconfirmed": 31421
+    "unconfirmed": 40084
   },
   "testing_data_imcr": {
     "tested": 39477848,
     "source": "https://twitter.com/ICMRDELHI/status/1299192086776786944?s=20"
   },
   "today": {
-    "confirmed": 69937,
-    "recovered": 57058,
+    "confirmed": 70008,
+    "recovered": 57143,
     "dead": 974,
-    "active": 11905
+    "active": 11891
   }
 }
