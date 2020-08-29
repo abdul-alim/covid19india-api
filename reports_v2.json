@@ -1,9 +1,9 @@
 {
-  "confirmed": 3464425,
-  "recovered": 2649411,
-  "dead": 62728,
-  "active": 751708,
-  "updatedTime": "29/08/2020 10:18:15",
+  "confirmed": 3468272,
+  "recovered": 2649621,
+  "dead": 62750,
+  "active": 755323,
+  "updatedTime": "29/08/2020 11:03:15",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -271,18 +271,18 @@
     },
     "RJ": {
       "name": "Rajasthan",
-      "confirmed": 77370,
-      "active": 14320,
-      "recovered": 62033,
-      "dead": 1017,
-      "updatedTime": "28/08/2020 21:45:15",
+      "confirmed": 77965,
+      "active": 14697,
+      "recovered": 62243,
+      "dead": 1025,
+      "updatedTime": "29/08/2020 11:03:17",
       "note": "",
       "stateCode": "RJ",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 595,
+        "recovered": 210,
+        "dead": 8,
+        "active": 377
       },
       "testing_data": {
         "tested": 2254613,
@@ -295,18 +295,18 @@
     },
     "OR": {
       "name": "Odisha",
-      "confirmed": 94668,
-      "active": 26333,
+      "confirmed": 97920,
+      "active": 29571,
       "recovered": 67826,
-      "dead": 509,
-      "updatedTime": "28/08/2020 22:10:22",
+      "dead": 523,
+      "updatedTime": "29/08/2020 11:03:19",
       "note": "[July 12th] 20 non-covid deaths reported in state dashboard are included in the deceased count\n[June 22nd]: NDRF/ODRF cases have been redistributed to districts based on state dashboard",
       "stateCode": "OR",
       "today": {
-        "confirmed": 0,
+        "confirmed": 3252,
         "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "dead": 14,
+        "active": 3238
       },
       "testing_data": {
         "tested": 1612097,
@@ -886,13 +886,13 @@
     "unconfirmed": 42310
   },
   "testing_data_imcr": {
-    "tested": 0,
-    "source": ""
+    "tested": 40406609,
+    "source": "https://www.icmr.gov.in/pdf/covid/update/ICMR_testing_update_29Aug2020.pdf"
   },
   "today": {
-    "confirmed": 3194,
-    "recovered": 1873,
-    "dead": 14,
-    "active": 1307
+    "confirmed": 7041,
+    "recovered": 2083,
+    "dead": 36,
+    "active": 4922
   }
 }
