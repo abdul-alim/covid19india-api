@@ -1,9 +1,9 @@
 {
-  "confirmed": 3568709,
-  "recovered": 2733534,
-  "dead": 63871,
-  "active": 770717,
-  "updatedTime": "30/08/2020 19:24:16",
+  "confirmed": 3572160,
+  "recovered": 2735747,
+  "dead": 63921,
+  "active": 771905,
+  "updatedTime": "30/08/2020 19:43:23",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -69,12 +69,12 @@
         "active": 1448
       },
       "testing_data": {
-        "tested": 3603345,
+        "tested": 3666422,
         "positive": 0,
-        "negative": 3189181,
+        "negative": 3241655,
         "unconfirmed": 0,
-        "date": "29/08/2020",
-        "source": "https://twitter.com/ArogyaAndhra/status/1299696113742573570?s=20"
+        "date": "30/08/2020",
+        "source": "http://covid19.ap.gov.in/Covid19_Admin/index.html"
       }
     },
     "KA": {
@@ -103,18 +103,18 @@
     },
     "DL": {
       "name": "Delhi",
-      "confirmed": 171366,
-      "active": 14040,
-      "recovered": 152922,
-      "dead": 4404,
-      "updatedTime": "29/08/2020 20:28:16",
+      "confirmed": 173390,
+      "active": 14793,
+      "recovered": 154171,
+      "dead": 4426,
+      "updatedTime": "30/08/2020 19:43:25",
       "note": "[July 14]: Value for the total tests conducted has been reduced by 97008 in the state bulletin. Reason given : \"Reconciled with ICMR figures\". We have made the same change.\n[June 16]: 344 deceased cases have been retroactively added to DL bulletin.",
       "stateCode": "DL",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 2024,
+        "recovered": 1249,
+        "dead": 22,
+        "active": 753
       },
       "testing_data": {
         "tested": 1548659,
@@ -343,18 +343,18 @@
     },
     "MP": {
       "name": "Madhya Pradesh",
-      "confirmed": 60875,
-      "active": 13117,
-      "recovered": 46413,
-      "dead": 1345,
+      "confirmed": 62302,
+      "active": 13552,
+      "recovered": 47377,
+      "dead": 1373,
       "updatedTime": "29/08/2020 19:29:22",
       "note": "",
       "stateCode": "MP",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 1427,
+        "recovered": 964,
+        "dead": 28,
+        "active": 435
       },
       "testing_data": {
         "tested": 1324851,
@@ -371,7 +371,7 @@
       "active": 23658,
       "recovered": 49845,
       "dead": 288,
-      "updatedTime": "30/08/2020 19:24:18",
+      "updatedTime": "30/08/2020 19:29:30",
       "note": "Mahe native who expired in Kannur included in Kerala's deceased tally.\nOne patient absconded from Palakkad to TN and one patient returned back to Maharashtra. Some non-covid deaths (accident,cancer etc.) have also been reported in the bulletin.\nIn total 64 such cases have been reduced from active count",
       "stateCode": "KL",
       "today": {
@@ -880,9 +880,9 @@
     }
   },
   "testing_data": {
-    "tested": 45787300,
+    "tested": 45850377,
     "positive": 367301,
-    "negative": 13756997,
+    "negative": 13809471,
     "unconfirmed": 43447
   },
   "testing_data_imcr": {
@@ -890,9 +890,9 @@
     "source": "http://twitter.com/ICMRDELHI/status/1299912932717813761"
   },
   "today": {
-    "confirmed": 28997,
-    "recovered": 21014,
-    "dead": 214,
-    "active": 7769
+    "confirmed": 32448,
+    "recovered": 23227,
+    "dead": 264,
+    "active": 8957
   }
 }
