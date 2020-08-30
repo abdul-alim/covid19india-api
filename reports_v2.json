@@ -1,9 +1,9 @@
 {
-  "confirmed": 3612116,
-  "recovered": 2766390,
-  "dead": 64526,
-  "active": 780606,
-  "updatedTime": "30/08/2020 21:24:19",
+  "confirmed": 3613078,
+  "recovered": 2767996,
+  "dead": 64532,
+  "active": 779956,
+  "updatedTime": "30/08/2020 21:45:19",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -35,7 +35,7 @@
       "active": 52721,
       "recovered": 362133,
       "dead": 7231,
-      "updatedTime": "30/08/2020 21:24:21",
+      "updatedTime": "30/08/2020 21:30:24",
       "note": "[July 22]: 444 backdated deceased entries added to Chennai in TN bulletin.\n2 deaths cross notified to other states from Chennai and Coimbatore.\n1 patient died after turning negative for infection in Chengalpattu.\nThese cases have been added to TN deceased tally",
       "stateCode": "TN",
       "today": {
@@ -271,18 +271,18 @@
     },
     "RJ": {
       "name": "Rajasthan",
-      "confirmed": 79380,
-      "active": 14730,
-      "recovered": 63613,
-      "dead": 1037,
-      "updatedTime": "30/08/2020 11:19:18",
+      "confirmed": 80227,
+      "active": 14091,
+      "recovered": 65093,
+      "dead": 1043,
+      "updatedTime": "30/08/2020 21:45:22",
       "note": "",
       "stateCode": "RJ",
       "today": {
-        "confirmed": 603,
-        "recovered": 642,
-        "dead": 7,
-        "active": -46
+        "confirmed": 1450,
+        "recovered": 2122,
+        "dead": 13,
+        "active": -685
       },
       "testing_data": {
         "tested": 2274901,
@@ -467,7 +467,7 @@
       "active": 13289,
       "recovered": 16303,
       "dead": 269,
-      "updatedTime": "30/08/2020 21:24:24",
+      "updatedTime": "30/08/2020 21:30:27",
       "note": "",
       "stateCode": "CT",
       "today": {
@@ -477,12 +477,12 @@
         "active": 623
       },
       "testing_data": {
-        "tested": 560273,
+        "tested": 571177,
         "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "29/08/2020",
-        "source": "https://twitter.com/HealthCgGov/status/1299732098832429057?s=20"
+        "date": "30/08/2020",
+        "source": "https://twitter.com/HealthCgGov/status/1300094992099102720?s=20"
       }
     },
     "UT": {
@@ -607,26 +607,26 @@
     },
     "HP": {
       "name": "Himachal Pradesh",
-      "confirmed": 5890,
-      "active": 1516,
-      "recovered": 4296,
+      "confirmed": 5945,
+      "active": 1459,
+      "recovered": 4408,
       "dead": 34,
       "updatedTime": "30/08/2020 18:36:22",
       "note": "HP has 45 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed",
       "stateCode": "HP",
       "today": {
-        "confirmed": 109,
-        "recovered": 30,
+        "confirmed": 164,
+        "recovered": 64,
         "dead": 1,
-        "active": 78
+        "active": 99
       },
       "testing_data": {
-        "tested": 211028,
+        "tested": 213104,
         "positive": 0,
-        "negative": 204435,
-        "unconfirmed": 812,
-        "date": "29/08/2020",
-        "source": ""
+        "negative": 206192,
+        "unconfirmed": 967,
+        "date": "30/08/2020",
+        "source": "https://twitter.com/nhm_hp/status/1300102407553126402?s=20"
       }
     },
     "NL": {
@@ -768,18 +768,18 @@
     },
     "ML": {
       "name": "Meghalaya",
-      "confirmed": 2283,
-      "active": 1238,
-      "recovered": 1035,
+      "confirmed": 2343,
+      "active": 1284,
+      "recovered": 1049,
       "dead": 10,
-      "updatedTime": "29/08/2020 20:48:22",
+      "updatedTime": "30/08/2020 21:45:27",
       "note": "[June 17]:\nOne case was identified to be false positive and has been removed from the confirmed cases by ML authorities.",
       "stateCode": "ML",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 60,
+        "recovered": 14,
         "dead": 0,
-        "active": 0
+        "active": 46
       },
       "testing_data": {
         "tested": 86214,
@@ -880,19 +880,19 @@
     }
   },
   "testing_data": {
-    "tested": 45969421,
+    "tested": 45982401,
     "positive": 369868,
-    "negative": 13835058,
-    "unconfirmed": 43278
+    "negative": 13836815,
+    "unconfirmed": 43433
   },
   "testing_data_imcr": {
     "tested": 41461636,
     "source": "http://twitter.com/ICMRDELHI/status/1299912932717813761"
   },
   "today": {
-    "confirmed": 72404,
-    "recovered": 53870,
-    "dead": 869,
-    "active": 17665
+    "confirmed": 73366,
+    "recovered": 55398,
+    "dead": 875,
+    "active": 17093
   }
 }
