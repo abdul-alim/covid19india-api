@@ -1,9 +1,9 @@
 {
-  "confirmed": 3630751,
-  "recovered": 2782072,
-  "dead": 64715,
-  "active": 783379,
-  "updatedTime": "31/08/2020 17:43:28",
+  "confirmed": 3641048,
+  "recovered": 2791264,
+  "dead": 64807,
+  "active": 784392,
+  "updatedTime": "31/08/2020 18:13:25",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -55,18 +55,18 @@
     },
     "AP": {
       "name": "Andhra Pradesh",
-      "confirmed": 424767,
-      "active": 99129,
-      "recovered": 321754,
-      "dead": 3884,
-      "updatedTime": "30/08/2020 18:08:17",
+      "confirmed": 434771,
+      "active": 100276,
+      "recovered": 330526,
+      "dead": 3969,
+      "updatedTime": "31/08/2020 18:09:36",
       "note": "Total includes patients from other states and a new category \"Foreign Evacuees\" which is now reported in AP bulletin.",
       "stateCode": "AP",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 10004,
+        "recovered": 8772,
+        "dead": 85,
+        "active": 1147
       },
       "testing_data": {
         "tested": 3666422,
@@ -559,26 +559,26 @@
     },
     "PY": {
       "name": "Puducherry",
-      "confirmed": 14127,
-      "active": 4938,
-      "recovered": 8968,
-      "dead": 221,
-      "updatedTime": "30/08/2020 20:21:23",
+      "confirmed": 14411,
+      "active": 4849,
+      "recovered": 9334,
+      "dead": 228,
+      "updatedTime": "31/08/2020 18:13:29",
       "note": "",
       "stateCode": "PY",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 284,
+        "recovered": 366,
+        "dead": 7,
+        "active": -89
       },
       "testing_data": {
-        "tested": 75031,
+        "tested": 76105,
         "positive": 0,
-        "negative": 59102,
-        "unconfirmed": 271,
-        "date": "30/08/2020",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/2021"
+        "negative": 60051,
+        "unconfirmed": 82,
+        "date": "31/08/2020",
+        "source": "https://health.py.gov.in/sites/default/files/31.08.2020-bulletin.pdf"
       }
     },
     "MN": {
@@ -632,17 +632,17 @@
     "NL": {
       "name": "Nagaland",
       "confirmed": 3950,
-      "active": 915,
-      "recovered": 3017,
+      "active": 874,
+      "recovered": 3058,
       "dead": 8,
-      "updatedTime": "31/08/2020 17:39:52",
+      "updatedTime": "31/08/2020 18:09:44",
       "note": "",
       "stateCode": "NL",
       "today": {
         "confirmed": 28,
-        "recovered": 0,
+        "recovered": 41,
         "dead": 0,
-        "active": 28
+        "active": -13
       },
       "testing_data": {
         "tested": 60225,
@@ -751,18 +751,18 @@
     },
     "DN": {
       "name": "Dadra and Nagar Haveli and Daman and Diu",
-      "confirmed": 2340,
-      "active": 276,
-      "recovered": 2042,
+      "confirmed": 2349,
+      "active": 272,
+      "recovered": 2055,
       "dead": 2,
-      "updatedTime": "31/08/2020 17:43:34",
+      "updatedTime": "31/08/2020 18:13:31",
       "note": "",
       "stateCode": "DN",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 9,
+        "recovered": 13,
         "dead": 0,
-        "active": 0
+        "active": -4
       },
       "isUnknown": true
     },
@@ -880,19 +880,19 @@
     }
   },
   "testing_data": {
-    "tested": 46793967,
+    "tested": 46795041,
     "positive": 374344,
-    "negative": 13976056,
-    "unconfirmed": 41791
+    "negative": 13977005,
+    "unconfirmed": 41602
   },
   "testing_data_imcr": {
     "tested": 42307914,
     "source": "https://www.icmr.gov.in/pdf/covid/update/ICMR_testing_update_31Aug2020.pdf"
   },
   "today": {
-    "confirmed": 11578,
-    "recovered": 9130,
-    "dead": 98,
-    "active": 2350
+    "confirmed": 21875,
+    "recovered": 18322,
+    "dead": 190,
+    "active": 3363
   }
 }
