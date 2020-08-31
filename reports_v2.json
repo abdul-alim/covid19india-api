@@ -1,9 +1,9 @@
 {
-  "confirmed": 3680232,
-  "recovered": 2834241,
-  "dead": 65412,
-  "active": 779992,
-  "updatedTime": "31/08/2020 21:54:20",
+  "confirmed": 3680995,
+  "recovered": 2834910,
+  "dead": 65427,
+  "active": 780070,
+  "updatedTime": "31/08/2020 22:12:34",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -275,7 +275,7 @@
       "active": 13825,
       "recovered": 66812,
       "dead": 1056,
-      "updatedTime": "31/08/2020 21:54:36",
+      "updatedTime": "31/08/2020 22:09:27",
       "note": "",
       "stateCode": "RJ",
       "today": {
@@ -290,7 +290,7 @@
         "negative": 2230754,
         "unconfirmed": 2156,
         "date": "31/08/2020",
-        "source": "http://rajswasthya.nic.in/"
+        "source": "https://twitter.com/ANI/status/1300466840624222208?s=20"
       }
     },
     "OR": {
@@ -357,12 +357,12 @@
         "active": 322
       },
       "testing_data": {
-        "tested": 1349814,
+        "tested": 1377427,
         "positive": 0,
-        "negative": 1283102,
+        "negative": 1309183,
         "unconfirmed": 0,
-        "date": "30/08/2020",
-        "source": "https://twitter.com/healthminmp/status/1300069124492505088?s=20"
+        "date": "31/08/2020",
+        "source": "https://twitter.com/healthminmp/status/1300459465645252608?s=20"
       }
     },
     "KL": {
@@ -487,18 +487,18 @@
     },
     "UT": {
       "name": "Uttarakhand",
-      "confirmed": 19235,
-      "active": 5912,
-      "recovered": 13004,
-      "dead": 257,
-      "updatedTime": "30/08/2020 22:08:27",
+      "confirmed": 19827,
+      "active": 5887,
+      "recovered": 13608,
+      "dead": 269,
+      "updatedTime": "31/08/2020 22:12:39",
       "note": "",
       "stateCode": "UT",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 592,
+        "recovered": 604,
+        "dead": 12,
+        "active": -24
       },
       "testing_data": {
         "tested": 394015,
@@ -587,7 +587,7 @@
       "active": 1894,
       "recovered": 4330,
       "dead": 28,
-      "updatedTime": "31/08/2020 21:44:40",
+      "updatedTime": "31/08/2020 21:54:44",
       "note": "",
       "stateCode": "MN",
       "today": {
@@ -607,26 +607,26 @@
     },
     "HP": {
       "name": "Himachal Pradesh",
-      "confirmed": 5945,
-      "active": 1459,
-      "recovered": 4408,
-      "dead": 34,
-      "updatedTime": "30/08/2020 21:52:26",
+      "confirmed": 6116,
+      "active": 1562,
+      "recovered": 4473,
+      "dead": 37,
+      "updatedTime": "31/08/2020 22:12:47",
       "note": "HP has 45 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed",
       "stateCode": "HP",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 171,
+        "recovered": 65,
+        "dead": 3,
+        "active": 103
       },
       "testing_data": {
-        "tested": 213104,
+        "tested": 214182,
         "positive": 0,
-        "negative": 206192,
-        "unconfirmed": 967,
-        "date": "30/08/2020",
-        "source": "https://twitter.com/nhm_hp/status/1300102407553126402?s=20"
+        "negative": 207603,
+        "unconfirmed": 463,
+        "date": "31/08/2020",
+        "source": ""
       }
     },
     "NL": {
@@ -755,7 +755,7 @@
       "active": 264,
       "recovered": 2081,
       "dead": 2,
-      "updatedTime": "31/08/2020 21:44:43",
+      "updatedTime": "31/08/2020 21:54:47",
       "note": "",
       "stateCode": "DN",
       "today": {
@@ -772,7 +772,7 @@
       "active": 1196,
       "recovered": 1162,
       "dead": 10,
-      "updatedTime": "31/08/2020 21:44:47",
+      "updatedTime": "31/08/2020 21:54:49",
       "note": "[June 17]:\nOne case was identified to be false positive and has been removed from the confirmed cases by ML authorities.",
       "stateCode": "ML",
       "today": {
@@ -880,19 +880,19 @@
     }
   },
   "testing_data": {
-    "tested": 47262333,
+    "tested": 47291024,
     "positive": 377154,
-    "negative": 14055015,
-    "unconfirmed": 36055
+    "negative": 14082507,
+    "unconfirmed": 35551
   },
   "testing_data_imcr": {
     "tested": 42307914,
     "source": "https://www.icmr.gov.in/pdf/covid/update/ICMR_testing_update_31Aug2020.pdf"
   },
   "today": {
-    "confirmed": 61059,
-    "recovered": 61299,
-    "dead": 795,
-    "active": -1035
+    "confirmed": 61822,
+    "recovered": 61968,
+    "dead": 810,
+    "active": -956
   }
 }
