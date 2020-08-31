@@ -1,9 +1,9 @@
 {
-  "confirmed": 3642953,
-  "recovered": 2793298,
-  "dead": 64834,
-  "active": 784236,
-  "updatedTime": "31/08/2020 19:14:25",
+  "confirmed": 3649639,
+  "recovered": 2800671,
+  "dead": 64951,
+  "active": 783432,
+  "updatedTime": "31/08/2020 19:24:23",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -69,28 +69,28 @@
         "active": 1147
       },
       "testing_data": {
-        "tested": 3666422,
+        "tested": 3722912,
         "positive": 0,
-        "negative": 3241655,
+        "negative": 3288141,
         "unconfirmed": 0,
-        "date": "30/08/2020",
-        "source": "https://twitter.com/ArogyaAndhra/status/1300043912015302656?s=20"
+        "date": "31/08/2020",
+        "source": "http://covid19.ap.gov.in/Covid19_Admin/index.html"
       }
     },
     "KA": {
       "name": "Karnataka",
-      "confirmed": 335928,
-      "active": 88091,
-      "recovered": 242229,
-      "dead": 5589,
-      "updatedTime": "30/08/2020 20:18:22",
+      "confirmed": 342423,
+      "active": 87235,
+      "recovered": 249467,
+      "dead": 5702,
+      "updatedTime": "31/08/2020 19:24:25",
       "note": "",
       "stateCode": "KA",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 6495,
+        "recovered": 7238,
+        "dead": 113,
+        "active": -856
       },
       "testing_data": {
         "tested": 2852675,
@@ -107,7 +107,7 @@
       "active": 14626,
       "recovered": 155678,
       "dead": 4444,
-      "updatedTime": "31/08/2020 19:14:27",
+      "updatedTime": "31/08/2020 19:21:24",
       "note": "[July 14]: Value for the total tests conducted has been reduced by 97008 in the state bulletin. Reason given : \"Reconciled with ICMR figures\". We have made the same change.\n[June 16]: 344 deceased cases have been retroactively added to DL bulletin.",
       "stateCode": "DL",
       "today": {
@@ -189,12 +189,12 @@
         "active": -949
       },
       "testing_data": {
-        "tested": 3097137,
+        "tested": 3187161,
         "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "30/08/2020",
-        "source": "https://twitter.com/BiharHealthDept/status/1300043583794196481"
+        "date": "31/08/2020",
+        "source": "https://twitter.com/BiharHealthDept/status/1300403291621261313"
       }
     },
     "TG": {
@@ -727,18 +727,18 @@
     },
     "CH": {
       "name": "Chandigarh",
-      "confirmed": 4155,
-      "active": 1805,
-      "recovered": 2296,
-      "dead": 52,
-      "updatedTime": "30/08/2020 20:08:34",
+      "confirmed": 4346,
+      "active": 1857,
+      "recovered": 2431,
+      "dead": 56,
+      "updatedTime": "31/08/2020 19:24:28",
       "note": "",
       "stateCode": "CH",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 191,
+        "recovered": 135,
+        "dead": 4,
+        "active": 52
       },
       "testing_data": {
         "tested": 29864,
@@ -755,7 +755,7 @@
       "active": 262,
       "recovered": 2077,
       "dead": 2,
-      "updatedTime": "31/08/2020 19:14:30",
+      "updatedTime": "31/08/2020 19:21:30",
       "note": "",
       "stateCode": "DN",
       "today": {
@@ -880,9 +880,9 @@
     }
   },
   "testing_data": {
-    "tested": 46795041,
+    "tested": 46941555,
     "positive": 374344,
-    "negative": 13977005,
+    "negative": 14023491,
     "unconfirmed": 41602
   },
   "testing_data_imcr": {
@@ -890,9 +890,9 @@
     "source": "https://www.icmr.gov.in/pdf/covid/update/ICMR_testing_update_31Aug2020.pdf"
   },
   "today": {
-    "confirmed": 23780,
-    "recovered": 20356,
-    "dead": 217,
-    "active": 3207
+    "confirmed": 30466,
+    "recovered": 27729,
+    "dead": 334,
+    "active": 2403
   }
 }
