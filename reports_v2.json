@@ -1,9 +1,9 @@
 {
-  "confirmed": 3702861,
-  "recovered": 2847364,
-  "dead": 65555,
-  "active": 789354,
-  "updatedTime": "01/09/2020 18:35:18",
+  "confirmed": 3706873,
+  "recovered": 2850988,
+  "dead": 65590,
+  "active": 789707,
+  "updatedTime": "01/09/2020 18:59:20",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -103,18 +103,18 @@
     },
     "DL": {
       "name": "Delhi",
-      "confirmed": 174748,
-      "active": 14626,
-      "recovered": 155678,
-      "dead": 4444,
-      "updatedTime": "31/08/2020 19:21:24",
+      "confirmed": 177060,
+      "active": 15870,
+      "recovered": 156728,
+      "dead": 4462,
+      "updatedTime": "01/09/2020 18:59:21",
       "note": "[July 14]: Value for the total tests conducted has been reduced by 97008 in the state bulletin. Reason given : \"Reconciled with ICMR figures\". We have made the same change.\n[June 16]: 344 deceased cases have been retroactively added to DL bulletin.",
       "stateCode": "DL",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 2312,
+        "recovered": 1050,
+        "dead": 18,
+        "active": 1244
       },
       "testing_data": {
         "tested": 1583485,
@@ -367,18 +367,18 @@
     },
     "KL": {
       "name": "Kerala",
-      "confirmed": 75385,
-      "active": 23488,
-      "recovered": 51538,
-      "dead": 295,
-      "updatedTime": "31/08/2020 20:32:33",
+      "confirmed": 76526,
+      "active": 22514,
+      "recovered": 53649,
+      "dead": 299,
+      "updatedTime": "01/09/2020 18:59:24",
       "note": "Mahe native who expired in Kannur included in Kerala's deceased tally.\nOne patient absconded from Palakkad to TN and one patient returned back to Maharashtra. Some non-covid deaths (accident,cancer etc.) have also been reported in the bulletin.\nIn total 64 such cases have been reduced from active count",
       "stateCode": "KL",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 1140,
+        "recovered": 2111,
+        "dead": 4,
+        "active": -975
       },
       "testing_data": {
         "tested": 1685203,
@@ -559,18 +559,18 @@
     },
     "PY": {
       "name": "Puducherry",
-      "confirmed": 14411,
-      "active": 4849,
-      "recovered": 9334,
-      "dead": 228,
-      "updatedTime": "31/08/2020 18:19:28",
+      "confirmed": 14766,
+      "active": 4851,
+      "recovered": 9675,
+      "dead": 240,
+      "updatedTime": "01/09/2020 18:59:25",
       "note": "",
       "stateCode": "PY",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 355,
+        "recovered": 341,
+        "dead": 12,
+        "active": 2
       },
       "testing_data": {
         "tested": 76105,
@@ -727,18 +727,18 @@
     },
     "CH": {
       "name": "Chandigarh",
-      "confirmed": 4346,
-      "active": 1857,
-      "recovered": 2431,
-      "dead": 56,
+      "confirmed": 4550,
+      "active": 1940,
+      "recovered": 2551,
+      "dead": 57,
       "updatedTime": "31/08/2020 19:38:40",
       "note": "",
       "stateCode": "CH",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 204,
+        "recovered": 120,
+        "dead": 1,
+        "active": 83
       },
       "testing_data": {
         "tested": 30377,
@@ -752,17 +752,17 @@
     "DN": {
       "name": "Dadra and Nagar Haveli and Daman and Diu",
       "confirmed": 2371,
-      "active": 253,
-      "recovered": 2096,
+      "active": 251,
+      "recovered": 2098,
       "dead": 2,
-      "updatedTime": "01/09/2020 18:07:24",
+      "updatedTime": "01/09/2020 18:59:28",
       "note": "",
       "stateCode": "DN",
       "today": {
         "confirmed": 4,
-        "recovered": 15,
+        "recovered": 17,
         "dead": 0,
-        "active": -11
+        "active": -13
       },
       "isUnknown": true
     },
@@ -890,9 +890,9 @@
     "source": "https://www.icmr.gov.in/pdf/covid/update/ICMR_testing_update_01Sept2020.pdf"
   },
   "today": {
-    "confirmed": 14922,
-    "recovered": 9987,
-    "dead": 122,
-    "active": 4813
+    "confirmed": 18933,
+    "recovered": 13611,
+    "dead": 157,
+    "active": 5165
   }
 }
