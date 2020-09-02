@@ -1,9 +1,9 @@
 {
-  "confirmed": 3812231,
-  "recovered": 2932757,
-  "dead": 66977,
-  "active": 811905,
-  "updatedTime": "02/09/2020 19:55:19",
+  "confirmed": 3819526,
+  "recovered": 2943092,
+  "dead": 67088,
+  "active": 808754,
+  "updatedTime": "02/09/2020 20:05:19",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -31,17 +31,17 @@
     },
     "TN": {
       "name": "Tamil Nadu",
-      "confirmed": 433969,
+      "confirmed": 439959,
       "active": 52379,
-      "recovered": 374172,
-      "dead": 7418,
-      "updatedTime": "01/09/2020 19:29:23",
+      "recovered": 380063,
+      "dead": 7517,
+      "updatedTime": "02/09/2020 20:01:26",
       "note": "[July 22]: 444 backdated deceased entries added to Chennai in TN bulletin.\n2 deaths cross notified to other states from Chennai and Coimbatore.\n1 patient died after turning negative for infection in Chengalpattu.\nThese cases have been added to TN deceased tally",
       "stateCode": "TN",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
+        "confirmed": 5990,
+        "recovered": 5891,
+        "dead": 99,
         "active": 0
       },
       "testing_data": {
@@ -223,18 +223,18 @@
     },
     "GJ": {
       "name": "Gujarat",
-      "confirmed": 97745,
-      "active": 15698,
-      "recovered": 79013,
-      "dead": 3034,
-      "updatedTime": "01/09/2020 23:09:37",
+      "confirmed": 99050,
+      "active": 15850,
+      "recovered": 80154,
+      "dead": 3046,
+      "updatedTime": "02/09/2020 20:05:22",
       "note": "",
       "stateCode": "GJ",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 1305,
+        "recovered": 1141,
+        "dead": 12,
+        "active": 152
       },
       "testing_data": {
         "tested": 2409906,
@@ -296,17 +296,17 @@
     "OR": {
       "name": "Odisha",
       "confirmed": 109780,
-      "active": 28443,
-      "recovered": 80770,
+      "active": 25140,
+      "recovered": 84073,
       "dead": 567,
-      "updatedTime": "02/09/2020 12:25:55",
+      "updatedTime": "02/09/2020 20:05:24",
       "note": "[July 12th] 20 non-covid deaths reported in state dashboard are included in the deceased count\n[June 22nd]: NDRF/ODRF cases have been redistributed to districts based on state dashboard",
       "stateCode": "OR",
       "today": {
         "confirmed": 3219,
-        "recovered": 0,
+        "recovered": 3303,
         "dead": 11,
-        "active": 3208
+        "active": -95
       },
       "testing_data": {
         "tested": 1891099,
@@ -395,7 +395,7 @@
       "active": 15629,
       "recovered": 39742,
       "dead": 1618,
-      "updatedTime": "02/09/2020 19:55:21",
+      "updatedTime": "02/09/2020 20:02:29",
       "note": "",
       "stateCode": "PB",
       "today": {
@@ -525,12 +525,12 @@
         "active": 417
       },
       "testing_data": {
-        "tested": 202730,
+        "tested": 204438,
         "positive": 0,
         "negative": 0,
-        "unconfirmed": 491,
-        "date": "01/09/2020",
-        "source": "https://www.goa.gov.in/wp-content/uploads/2020/09/Media-Bulletin-01st-September-2020.pdf"
+        "unconfirmed": 335,
+        "date": "02/09/2020",
+        "source": "https://www.goa.gov.in/wp-content/uploads/2020/09/Media-Bulletin-02nd-September-2020.pdf"
       }
     },
     "TR": {
@@ -587,7 +587,7 @@
       "active": 1871,
       "recovered": 4607,
       "dead": 29,
-      "updatedTime": "02/09/2020 19:55:24",
+      "updatedTime": "02/09/2020 20:02:31",
       "note": "",
       "stateCode": "MN",
       "today": {
@@ -880,19 +880,19 @@
     }
   },
   "testing_data": {
-    "tested": 49109738,
+    "tested": 49111446,
     "positive": 256576,
     "negative": 14586294,
-    "unconfirmed": 33578
+    "unconfirmed": 33422
   },
   "testing_data_imcr": {
     "tested": 44337201,
     "source": "https://www.icmr.gov.in/pdf/covid/update/ICMR_testing_update_02Sept2020.pdf"
   },
   "today": {
-    "confirmed": 46123,
-    "recovered": 33235,
-    "dead": 517,
-    "active": 12371
+    "confirmed": 53418,
+    "recovered": 43570,
+    "dead": 628,
+    "active": 9220
   }
 }
