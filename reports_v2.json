@@ -1,9 +1,9 @@
 {
-  "confirmed": 3819526,
-  "recovered": 2943092,
+  "confirmed": 3819603,
+  "recovered": 2943175,
   "dead": 67088,
-  "active": 808754,
-  "updatedTime": "02/09/2020 20:05:19",
+  "active": 808748,
+  "updatedTime": "02/09/2020 20:21:24",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -32,17 +32,17 @@
     "TN": {
       "name": "Tamil Nadu",
       "confirmed": 439959,
-      "active": 52379,
+      "active": 52380,
       "recovered": 380063,
-      "dead": 7517,
-      "updatedTime": "02/09/2020 20:01:26",
+      "dead": 7516,
+      "updatedTime": "02/09/2020 20:21:26",
       "note": "[July 22]: 444 backdated deceased entries added to Chennai in TN bulletin.\n2 deaths cross notified to other states from Chennai and Coimbatore.\n1 patient died after turning negative for infection in Chengalpattu.\nThese cases have been added to TN deceased tally",
       "stateCode": "TN",
       "today": {
         "confirmed": 5990,
         "recovered": 5891,
-        "dead": 99,
-        "active": 0
+        "dead": 98,
+        "active": 1
       },
       "testing_data": {
         "tested": 4888312,
@@ -227,7 +227,7 @@
       "active": 15850,
       "recovered": 80154,
       "dead": 3046,
-      "updatedTime": "02/09/2020 20:05:22",
+      "updatedTime": "02/09/2020 20:17:46",
       "note": "",
       "stateCode": "GJ",
       "today": {
@@ -299,7 +299,7 @@
       "active": 25140,
       "recovered": 84073,
       "dead": 567,
-      "updatedTime": "02/09/2020 20:05:24",
+      "updatedTime": "02/09/2020 20:17:49",
       "note": "[July 12th] 20 non-covid deaths reported in state dashboard are included in the deceased count\n[June 22nd]: NDRF/ODRF cases have been redistributed to districts based on state dashboard",
       "stateCode": "OR",
       "today": {
@@ -429,12 +429,12 @@
         "active": 31
       },
       "testing_data": {
-        "tested": 978882,
+        "tested": 996481,
         "positive": 0,
-        "negative": 940659,
+        "negative": 957617,
         "unconfirmed": 0,
-        "date": "01/09/2020",
-        "source": "https://twitter.com/diprjk/status/1300772832926789633?s=20"
+        "date": "02/09/2020",
+        "source": ""
       }
     },
     "JH": {
@@ -768,18 +768,18 @@
     },
     "ML": {
       "name": "Meghalaya",
-      "confirmed": 2440,
-      "active": 1193,
-      "recovered": 1235,
-      "dead": 12,
-      "updatedTime": "01/09/2020 22:10:40",
+      "confirmed": 2517,
+      "active": 1186,
+      "recovered": 1318,
+      "dead": 13,
+      "updatedTime": "02/09/2020 20:21:30",
       "note": "[June 17]:\nOne case was identified to be false positive and has been removed from the confirmed cases by ML authorities.",
       "stateCode": "ML",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 77,
+        "recovered": 83,
+        "dead": 1,
+        "active": -7
       },
       "testing_data": {
         "tested": 90477,
@@ -880,9 +880,9 @@
     }
   },
   "testing_data": {
-    "tested": 49111446,
+    "tested": 49129045,
     "positive": 256576,
-    "negative": 14586294,
+    "negative": 14603252,
     "unconfirmed": 33422
   },
   "testing_data_imcr": {
@@ -890,9 +890,9 @@
     "source": "https://www.icmr.gov.in/pdf/covid/update/ICMR_testing_update_02Sept2020.pdf"
   },
   "today": {
-    "confirmed": 53418,
-    "recovered": 43570,
+    "confirmed": 53495,
+    "recovered": 43653,
     "dead": 628,
-    "active": 9220
+    "active": 9214
   }
 }
