@@ -1,24 +1,24 @@
 {
-  "confirmed": 3826387,
-  "recovered": 2950122,
-  "dead": 67183,
-  "active": 808490,
-  "updatedTime": "02/09/2020 22:20:36",
+  "confirmed": 3847166,
+  "recovered": 2965866,
+  "dead": 67471,
+  "active": 813234,
+  "updatedTime": "02/09/2020 22:41:26",
   "states": {
     "MH": {
       "name": "Maharashtra",
-      "confirmed": 808306,
-      "active": 198523,
-      "recovered": 584537,
-      "dead": 24903,
+      "confirmed": 825369,
+      "active": 201458,
+      "recovered": 598378,
+      "dead": 25190,
       "updatedTime": "01/09/2020 22:10:25",
       "note": "343 cases are marked as non-covid deaths in MH bulletin. These have been reduced from active count\n[Aug 15] : MH bulletin has reduced 819 confirmed cases in Mumbai and 72 confirmed cases from 'Other States' from the tally\n[Jun 16] : 1328 deceased cases have been retroactively added to MH bulletin.\n[Jun 20] : 69 deceased cases have been reduced based on state bulletin.\n",
       "stateCode": "MH",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 9036,
+        "recovered": 8010,
+        "dead": 83,
+        "active": 943
       },
       "testing_data": {
         "tested": 4288999,
@@ -247,18 +247,18 @@
     },
     "AS": {
       "name": "Assam",
-      "confirmed": 111725,
-      "active": 24506,
-      "recovered": 86893,
+      "confirmed": 115280,
+      "active": 26227,
+      "recovered": 88727,
       "dead": 323,
-      "updatedTime": "02/09/2020 22:14:38",
+      "updatedTime": "02/09/2020 22:41:33",
       "note": "Includes 1 case from Nagaland",
       "stateCode": "AS",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 3555,
+        "recovered": 1834,
         "dead": 8,
-        "active": -8
+        "active": 1713
       },
       "testing_data": {
         "tested": 2299893,
@@ -607,18 +607,18 @@
     },
     "HP": {
       "name": "Himachal Pradesh",
-      "confirmed": 6255,
-      "active": 1525,
-      "recovered": 4646,
-      "dead": 41,
-      "updatedTime": "01/09/2020 22:35:00",
-      "note": "HP has 44 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed",
+      "confirmed": 6416,
+      "active": 1613,
+      "recovered": 4715,
+      "dead": 42,
+      "updatedTime": "02/09/2020 22:41:39",
+      "note": "HP has 47 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed",
       "stateCode": "HP",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 161,
+        "recovered": 69,
+        "dead": 1,
+        "active": 91
       },
       "testing_data": {
         "tested": 216608,
@@ -669,12 +669,12 @@
         "active": 52
       },
       "testing_data": {
-        "tested": 170445,
+        "tested": 173469,
         "positive": 0,
-        "negative": 160911,
-        "unconfirmed": 27,
-        "date": "01/09/2020",
-        "source": "https://twitter.com/DirectorateofHS/status/1300840269277835274/photo/1"
+        "negative": 163658,
+        "unconfirmed": 31,
+        "date": "02/09/2020",
+        "source": "https://twitter.com/DirectorateofHS/status/1301189052083789824/photo/1"
       }
     },
     "AN": {
@@ -880,19 +880,19 @@
     }
   },
   "testing_data": {
-    "tested": 49374830,
+    "tested": 49377854,
     "positive": 261220,
-    "negative": 14645247,
-    "unconfirmed": 35814
+    "negative": 14647994,
+    "unconfirmed": 35818
   },
   "testing_data_imcr": {
     "tested": 44337201,
     "source": "https://www.icmr.gov.in/pdf/covid/update/ICMR_testing_update_02Sept2020.pdf"
   },
   "today": {
-    "confirmed": 60279,
-    "recovered": 50600,
-    "dead": 723,
-    "active": 8956
+    "confirmed": 73031,
+    "recovered": 60513,
+    "dead": 807,
+    "active": 11711
   }
 }
