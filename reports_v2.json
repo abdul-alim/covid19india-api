@@ -1,9 +1,9 @@
 {
-  "confirmed": 3823449,
-  "recovered": 2946920,
-  "dead": 67155,
-  "active": 808782,
-  "updatedTime": "02/09/2020 21:09:24",
+  "confirmed": 3825392,
+  "recovered": 2947573,
+  "dead": 67167,
+  "active": 810060,
+  "updatedTime": "02/09/2020 21:55:37",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -405,12 +405,12 @@
         "active": -220
       },
       "testing_data": {
-        "tested": 1081671,
+        "tested": 1101912,
         "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "01/09/2020",
-        "source": "http://diprpunjab.gov.in/sites/default/files/Media%20Bulletin%2001-09-2020.pdf"
+        "date": "02/09/2020",
+        "source": "https://twitter.com/ANI/status/1301153516447240193?s=20"
       }
     },
     "JK": {
@@ -463,18 +463,18 @@
     },
     "CT": {
       "name": "Chhattisgarh",
-      "confirmed": 33387,
-      "active": 15533,
-      "recovered": 17567,
-      "dead": 287,
-      "updatedTime": "01/09/2020 23:22:18",
+      "confirmed": 35330,
+      "active": 16811,
+      "recovered": 18220,
+      "dead": 299,
+      "updatedTime": "02/09/2020 21:55:42",
       "note": "",
       "stateCode": "CT",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 1943,
+        "recovered": 653,
+        "dead": 12,
+        "active": 1278
       },
       "testing_data": {
         "tested": 596544,
@@ -573,11 +573,11 @@
         "active": 85
       },
       "testing_data": {
-        "tested": 77428,
+        "tested": 78734,
         "positive": 0,
-        "negative": 60902,
-        "unconfirmed": 158,
-        "date": "01/09/2020",
+        "negative": 61653,
+        "unconfirmed": 233,
+        "date": "02/09/2020",
         "source": "https://health.py.gov.in/"
       }
     },
@@ -880,19 +880,19 @@
     }
   },
   "testing_data": {
-    "tested": 49353283,
+    "tested": 49374830,
     "positive": 261220,
-    "negative": 14644496,
-    "unconfirmed": 35739
+    "negative": 14645247,
+    "unconfirmed": 35814
   },
   "testing_data_imcr": {
     "tested": 44337201,
     "source": "https://www.icmr.gov.in/pdf/covid/update/ICMR_testing_update_02Sept2020.pdf"
   },
   "today": {
-    "confirmed": 57341,
-    "recovered": 47398,
-    "dead": 695,
-    "active": 9248
+    "confirmed": 59284,
+    "recovered": 48051,
+    "dead": 707,
+    "active": 10526
   }
 }
