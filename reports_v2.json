@@ -1,9 +1,9 @@
 {
-  "confirmed": 3822579,
-  "recovered": 2946472,
-  "dead": 67144,
-  "active": 808371,
-  "updatedTime": "02/09/2020 20:41:40",
+  "confirmed": 3823449,
+  "recovered": 2946920,
+  "dead": 67155,
+  "active": 808782,
+  "updatedTime": "02/09/2020 20:54:22",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -98,7 +98,7 @@
         "negative": 0,
         "unconfirmed": 0,
         "date": "02/09/2020",
-        "source": ""
+        "source": "https://t.co/KrBo5uurFL?amp=1"
       }
     },
     "DL": {
@@ -155,7 +155,7 @@
       "active": 24445,
       "recovered": 140913,
       "dead": 3339,
-      "updatedTime": "02/09/2020 20:41:44",
+      "updatedTime": "02/09/2020 20:52:24",
       "note": "",
       "stateCode": "WB",
       "today": {
@@ -381,12 +381,12 @@
         "active": -589
       },
       "testing_data": {
-        "tested": 1697042,
-        "positive": 76526,
+        "tested": 1724658,
+        "positive": 0,
         "negative": 0,
-        "unconfirmed": 2782,
-        "date": "01/09/2020",
-        "source": "https://dhs.kerala.gov.in/wp-content/uploads/2020/09/BulletinHFWDEnglishSeptember01.pdf"
+        "unconfirmed": 0,
+        "date": "02/09/2020",
+        "source": "https://dhs.kerala.gov.in/%e0%b4%a1%e0%b5%86%e0%b4%af%e0%b4%bf%e0%b4%b2%e0%b4%bf-%e0%b4%ac%e0%b5%81%e0%b4%b3%e0%b5%8d%e0%b4%b3%e0%b4%b1%e0%b5%8d%e0%b4%b1%e0%b4%bf%e0%b4%a8%e0%b5%8d%e2%80%8d/"
       }
     },
     "PB": {
@@ -487,18 +487,18 @@
     },
     "UT": {
       "name": "Uttarakhand",
-      "confirmed": 20398,
-      "active": 6042,
-      "recovered": 14012,
-      "dead": 280,
-      "updatedTime": "01/09/2020 22:57:24",
+      "confirmed": 21234,
+      "active": 6442,
+      "recovered": 14437,
+      "dead": 291,
+      "updatedTime": "02/09/2020 20:54:25",
       "note": "",
       "stateCode": "UT",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 836,
+        "recovered": 425,
+        "dead": 11,
+        "active": 400
       },
       "testing_data": {
         "tested": 403955,
@@ -792,18 +792,18 @@
     },
     "SK": {
       "name": "Sikkim",
-      "confirmed": 1670,
-      "active": 429,
-      "recovered": 1237,
+      "confirmed": 1704,
+      "active": 440,
+      "recovered": 1260,
       "dead": 4,
-      "updatedTime": "01/09/2020 22:10:52",
+      "updatedTime": "02/09/2020 20:53:31",
       "note": "",
       "stateCode": "SK",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 34,
+        "recovered": 23,
         "dead": 0,
-        "active": 0
+        "active": 11
       },
       "testing_data": {
         "tested": 41558,
@@ -880,19 +880,19 @@
     }
   },
   "testing_data": {
-    "tested": 49202362,
-    "positive": 256576,
+    "tested": 49229978,
+    "positive": 180050,
     "negative": 14603252,
-    "unconfirmed": 33422
+    "unconfirmed": 30640
   },
   "testing_data_imcr": {
     "tested": 44337201,
     "source": "https://www.icmr.gov.in/pdf/covid/update/ICMR_testing_update_02Sept2020.pdf"
   },
   "today": {
-    "confirmed": 56471,
-    "recovered": 46950,
-    "dead": 684,
-    "active": 8837
+    "confirmed": 57341,
+    "recovered": 47398,
+    "dead": 695,
+    "active": 9248
   }
 }
