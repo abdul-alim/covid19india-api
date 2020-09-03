@@ -1,9 +1,9 @@
 {
-  "confirmed": 3862457,
-  "recovered": 2974844,
-  "dead": 67594,
-  "active": 819422,
-  "updatedTime": "03/09/2020 18:01:18",
+  "confirmed": 3872656,
+  "recovered": 2984454,
+  "dead": 67669,
+  "active": 819936,
+  "updatedTime": "03/09/2020 18:09:19",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -55,18 +55,18 @@
     },
     "AP": {
       "name": "Andhra Pradesh",
-      "confirmed": 455531,
-      "active": 103076,
-      "recovered": 348330,
-      "dead": 4125,
-      "updatedTime": "03/09/2020 10:52:22",
+      "confirmed": 465730,
+      "active": 103701,
+      "recovered": 357829,
+      "dead": 4200,
+      "updatedTime": "03/09/2020 18:09:21",
       "note": "Total includes patients from other states and a new category \"Foreign Evacuees\" which is now reported in AP bulletin.",
       "stateCode": "AP",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 10199,
+        "recovered": 9499,
+        "dead": 75,
+        "active": 625
       },
       "testing_data": {
         "tested": 3843550,
@@ -131,7 +131,7 @@
       "active": 57598,
       "recovered": 185812,
       "dead": 3691,
-      "updatedTime": "03/09/2020 18:01:20",
+      "updatedTime": "03/09/2020 18:07:22",
       "note": "",
       "stateCode": "UP",
       "today": {
@@ -632,17 +632,17 @@
     "NL": {
       "name": "Nagaland",
       "confirmed": 4066,
-      "active": 834,
-      "recovered": 3213,
+      "active": 733,
+      "recovered": 3314,
       "dead": 8,
-      "updatedTime": "03/09/2020 17:12:27",
+      "updatedTime": "03/09/2020 18:09:24",
       "note": "",
       "stateCode": "NL",
       "today": {
         "confirmed": 49,
-        "recovered": 0,
+        "recovered": 101,
         "dead": 0,
-        "active": 49
+        "active": -52
       },
       "testing_data": {
         "tested": 62404,
@@ -817,17 +817,17 @@
     "MZ": {
       "name": "Mizoram",
       "confirmed": 1040,
-      "active": 381,
-      "recovered": 659,
+      "active": 371,
+      "recovered": 669,
       "dead": 0,
-      "updatedTime": "03/09/2020 10:52:08",
+      "updatedTime": "03/09/2020 18:09:26",
       "note": "",
       "stateCode": "MZ",
       "today": {
         "confirmed": 20,
-        "recovered": 0,
+        "recovered": 10,
         "dead": 0,
-        "active": 20
+        "active": 10
       },
       "testing_data": {
         "tested": 42332,
@@ -890,9 +890,9 @@
     "source": "https://www.icmr.gov.in/pdf/covid/update/ICMR_testing_update_03Sept2020.pdf"
   },
   "today": {
-    "confirmed": 13489,
-    "recovered": 7448,
-    "dead": 108,
-    "active": 5933
+    "confirmed": 23688,
+    "recovered": 17058,
+    "dead": 183,
+    "active": 6447
   }
 }
