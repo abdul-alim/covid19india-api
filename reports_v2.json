@@ -1,9 +1,9 @@
 {
-  "confirmed": 4014849,
-  "recovered": 3101261,
-  "dead": 69614,
-  "active": 843367,
-  "updatedTime": "04/09/2020 22:24:28",
+  "confirmed": 4014878,
+  "recovered": 3101287,
+  "dead": 69629,
+  "active": 843355,
+  "updatedTime": "04/09/2020 22:39:35",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -45,12 +45,12 @@
         "active": -437
       },
       "testing_data": {
-        "tested": 5047042,
+        "tested": 5130741,
         "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "03/09/2020",
-        "source": "https://stopcorona.tn.gov.in/wp-content/uploads/2020/09/Media-Bulletin-03.09.2020-28-Pages-English-478-KB.pdf%22"
+        "date": "04/09/2020",
+        "source": "https://stopcorona.tn.gov.in/wp-content/uploads/2020/03/Media-Bulletin-04-09-20-COVID-19-6-PM.pdf%22"
       }
     },
     "AP": {
@@ -248,17 +248,17 @@
     "AS": {
       "name": "Assam",
       "confirmed": 118334,
-      "active": 27303,
+      "active": 27288,
       "recovered": 90698,
-      "dead": 330,
-      "updatedTime": "04/09/2020 01:07:24",
+      "dead": 345,
+      "updatedTime": "04/09/2020 22:39:44",
       "note": "Includes 1 case from Nagaland",
       "stateCode": "AS",
       "today": {
         "confirmed": 0,
         "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "dead": 15,
+        "active": -15
       },
       "testing_data": {
         "tested": 2396483,
@@ -501,28 +501,28 @@
         "active": 317
       },
       "testing_data": {
-        "tested": 424156,
+        "tested": 435449,
         "positive": 0,
-        "negative": 378265,
-        "unconfirmed": 14447,
-        "date": "03/09/2020",
-        "source": "https://twitter.com/DDnews_dehradun/status/1301533931364167680?s=20"
+        "negative": 387943,
+        "unconfirmed": 14992,
+        "date": "04/09/2020",
+        "source": "https://twitter.com/PIBDehradun/status/1301895203318505474?s=20"
       }
     },
     "GA": {
       "name": "Goa",
-      "confirmed": 19935,
-      "active": 4994,
-      "recovered": 14721,
+      "confirmed": 19863,
+      "active": 4896,
+      "recovered": 14747,
       "dead": 220,
-      "updatedTime": "04/09/2020 20:39:49",
+      "updatedTime": "04/09/2020 22:39:51",
       "note": "",
       "stateCode": "GA",
       "today": {
-        "confirmed": 580,
-        "recovered": 360,
+        "confirmed": 508,
+        "recovered": 386,
         "dead": 8,
-        "active": 212
+        "active": 114
       },
       "testing_data": {
         "tested": 206760,
@@ -703,18 +703,18 @@
     },
     "LA": {
       "name": "Ladakh",
-      "confirmed": 2840,
-      "active": 766,
+      "confirmed": 2935,
+      "active": 861,
       "recovered": 2039,
       "dead": 35,
-      "updatedTime": "03/09/2020 22:20:35",
+      "updatedTime": "04/09/2020 22:39:58",
       "note": "",
       "stateCode": "LA",
       "today": {
-        "confirmed": 0,
+        "confirmed": 95,
         "recovered": 0,
         "dead": 0,
-        "active": 0
+        "active": 95
       },
       "testing_data": {
         "tested": 31196,
@@ -796,7 +796,7 @@
       "active": 518,
       "recovered": 1320,
       "dead": 5,
-      "updatedTime": "04/09/2020 22:24:32",
+      "updatedTime": "04/09/2020 22:36:36",
       "note": "",
       "stateCode": "SK",
       "today": {
@@ -816,18 +816,18 @@
     },
     "MZ": {
       "name": "Mizoram",
-      "confirmed": 1040,
-      "active": 359,
+      "confirmed": 1046,
+      "active": 365,
       "recovered": 681,
       "dead": 0,
-      "updatedTime": "04/09/2020 18:58:33",
+      "updatedTime": "04/09/2020 22:40:00",
       "note": "",
       "stateCode": "MZ",
       "today": {
-        "confirmed": 0,
+        "confirmed": 6,
         "recovered": 12,
         "dead": 0,
-        "active": -12
+        "active": -6
       },
       "testing_data": {
         "tested": 43846,
@@ -880,19 +880,19 @@
     }
   },
   "testing_data": {
-    "tested": 51654543,
+    "tested": 51749535,
     "positive": 95938,
-    "negative": 15197461,
-    "unconfirmed": 36048
+    "negative": 15207139,
+    "unconfirmed": 36593
   },
   "testing_data_imcr": {
     "tested": 46679145,
     "source": "https://www.icmr.gov.in/pdf/covid/update/ICMR_testing_update_04Sept2020.pdf"
   },
   "today": {
-    "confirmed": 81725,
-    "recovered": 66374,
-    "dead": 1045,
-    "active": 14306
+    "confirmed": 81754,
+    "recovered": 66400,
+    "dead": 1060,
+    "active": 14294
   }
 }
