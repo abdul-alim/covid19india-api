@@ -1,9 +1,9 @@
 {
   "confirmed": 4103694,
   "recovered": 3172300,
-  "dead": 70633,
-  "active": 860141,
-  "updatedTime": "05/09/2020 22:04:25",
+  "dead": 70640,
+  "active": 860134,
+  "updatedTime": "05/09/2020 22:14:22",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -35,7 +35,7 @@
       "active": 51580,
       "recovered": 398366,
       "dead": 7751,
-      "updatedTime": "05/09/2020 21:58:36",
+      "updatedTime": "05/09/2020 22:06:30",
       "note": "[July 22]: 444 backdated deceased entries added to Chennai in TN bulletin.\n2 deaths cross notified to other states from Chennai and Coimbatore.\n1 patient died after turning negative for infection in Chengalpattu.\nThese cases have been added to TN deceased tally",
       "stateCode": "TN",
       "today": {
@@ -248,17 +248,17 @@
     "AS": {
       "name": "Assam",
       "confirmed": 121225,
-      "active": 28159,
+      "active": 28152,
       "recovered": 92718,
-      "dead": 345,
-      "updatedTime": "05/09/2020 00:02:27",
+      "dead": 352,
+      "updatedTime": "05/09/2020 22:13:25",
       "note": "Includes 1 case from Nagaland",
       "stateCode": "AS",
       "today": {
         "confirmed": 0,
         "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "dead": 7,
+        "active": -7
       },
       "testing_data": {
         "tested": 2435830,
@@ -275,7 +275,7 @@
       "active": 15002,
       "recovered": 73239,
       "dead": 1122,
-      "updatedTime": "05/09/2020 21:58:41",
+      "updatedTime": "05/09/2020 22:06:38",
       "note": "",
       "stateCode": "RJ",
       "today": {
@@ -285,12 +285,12 @@
         "active": 212
       },
       "testing_data": {
-        "tested": 2416268,
+        "tested": 2443995,
         "positive": 0,
-        "negative": 2326326,
-        "unconfirmed": 2145,
-        "date": "04/09/2020",
-        "source": "https://twitter.com/ANI/status/1301918931913863168?s=20"
+        "negative": 0,
+        "unconfirmed": 0,
+        "date": "05/09/2020",
+        "source": "http://rajswasthya.nic.in/"
       }
     },
     "OR": {
@@ -611,7 +611,7 @@
       "active": 1977,
       "recovered": 4941,
       "dead": 53,
-      "updatedTime": "05/09/2020 22:04:33",
+      "updatedTime": "05/09/2020 22:09:29",
       "note": "Death of Tibetan refugee is included in deceased numbers, but not in confirmed",
       "stateCode": "HP",
       "today": {
@@ -621,12 +621,12 @@
         "active": 163
       },
       "testing_data": {
-        "tested": 223383,
+        "tested": 226268,
         "positive": 0,
-        "negative": 215703,
-        "unconfirmed": 850,
-        "date": "04/09/2020",
-        "source": "https://twitter.com/nhm_hp/status/1301917036101033985?s=20"
+        "negative": 217745,
+        "unconfirmed": 1505,
+        "date": "05/09/2020",
+        "source": "https://twitter.com/nhm_hp/status/1302280175854350338?s=20"
       }
     },
     "NL": {
@@ -683,7 +683,7 @@
       "active": 338,
       "recovered": 2904,
       "dead": 50,
-      "updatedTime": "05/09/2020 22:04:35",
+      "updatedTime": "05/09/2020 22:09:31",
       "note": "",
       "stateCode": "AN",
       "today": {
@@ -796,7 +796,7 @@
       "active": 541,
       "recovered": 1347,
       "dead": 5,
-      "updatedTime": "05/09/2020 22:04:38",
+      "updatedTime": "05/09/2020 22:09:33",
       "note": "",
       "stateCode": "SK",
       "today": {
@@ -880,10 +880,10 @@
     }
   },
   "testing_data": {
-    "tested": 52829228,
+    "tested": 52859840,
     "positive": 265295,
-    "negative": 15394586,
-    "unconfirmed": 36892
+    "negative": 13070302,
+    "unconfirmed": 35402
   },
   "testing_data_imcr": {
     "tested": 47738491,
@@ -892,7 +892,7 @@
   "today": {
     "confirmed": 83455,
     "recovered": 67788,
-    "dead": 998,
-    "active": 14669
+    "dead": 1005,
+    "active": 14662
   }
 }
