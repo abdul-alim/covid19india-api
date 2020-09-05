@@ -1,9 +1,9 @@
 {
-  "confirmed": 4106586,
-  "recovered": 3174786,
-  "dead": 70640,
-  "active": 860540,
-  "updatedTime": "05/09/2020 22:55:29",
+  "confirmed": 4109476,
+  "recovered": 3177667,
+  "dead": 70673,
+  "active": 860507,
+  "updatedTime": "05/09/2020 23:13:23",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -439,26 +439,26 @@
     },
     "JH": {
       "name": "Jharkhand",
-      "confirmed": 48039,
-      "active": 15549,
-      "recovered": 32043,
-      "dead": 447,
-      "updatedTime": "04/09/2020 23:23:32",
+      "confirmed": 49797,
+      "active": 15005,
+      "recovered": 34330,
+      "dead": 462,
+      "updatedTime": "05/09/2020 23:12:28",
       "note": "",
       "stateCode": "JH",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 1758,
+        "recovered": 2287,
+        "dead": 15,
+        "active": -544
       },
       "testing_data": {
-        "tested": 1047417,
+        "tested": 1080094,
         "positive": 0,
-        "negative": 999378,
+        "negative": 1030297,
         "unconfirmed": 0,
-        "date": "04/09/2020",
-        "source": "https://twitter.com/rnuddkranchi/status/1301936211976617985?s=20"
+        "date": "05/09/2020",
+        "source": "https://twitter.com/rnuddkranchi/status/1302297264988143616?s=20"
       }
     },
     "CT": {
@@ -487,18 +487,18 @@
     },
     "UT": {
       "name": "Uttarakhand",
-      "confirmed": 23011,
-      "active": 7187,
-      "recovered": 15447,
-      "dead": 312,
-      "updatedTime": "04/09/2020 22:19:36",
+      "confirmed": 23961,
+      "active": 7575,
+      "recovered": 15982,
+      "dead": 330,
+      "updatedTime": "05/09/2020 23:12:30",
       "note": "",
       "stateCode": "UT",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 950,
+        "recovered": 535,
+        "dead": 18,
+        "active": 397
       },
       "testing_data": {
         "tested": 445277,
@@ -717,12 +717,12 @@
         "active": 19
       },
       "testing_data": {
-        "tested": 31389,
+        "tested": 31470,
         "positive": 0,
         "negative": 0,
-        "unconfirmed": 1276,
-        "date": "04/09/2020",
-        "source": "https://twitter.com/prasarbharti/status/1301929792015446017?s=20"
+        "unconfirmed": 0,
+        "date": "05/09/2020",
+        "source": "http://covid.ladakh.gov.in/"
       }
     },
     "CH": {
@@ -768,18 +768,18 @@
     },
     "ML": {
       "name": "Meghalaya",
-      "confirmed": 2734,
-      "active": 1252,
-      "recovered": 1468,
+      "confirmed": 2916,
+      "active": 1375,
+      "recovered": 1527,
       "dead": 14,
-      "updatedTime": "04/09/2020 20:28:36",
+      "updatedTime": "05/09/2020 23:13:26",
       "note": "[June 17]:\nOne case was identified to be false positive and has been removed from the confirmed cases by ML authorities.",
       "stateCode": "ML",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 182,
+        "recovered": 59,
         "dead": 0,
-        "active": 0
+        "active": 123
       },
       "testing_data": {
         "tested": 95457,
@@ -880,19 +880,19 @@
     }
   },
   "testing_data": {
-    "tested": 53025726,
+    "tested": 53058484,
     "positive": 265295,
-    "negative": 15481269,
-    "unconfirmed": 37732
+    "negative": 15512188,
+    "unconfirmed": 36456
   },
   "testing_data_imcr": {
     "tested": 47738491,
     "source": "https://www.icmr.gov.in/pdf/covid/update/ICMR_testing_update_05Sept2020.pdf"
   },
   "today": {
-    "confirmed": 86347,
-    "recovered": 70274,
-    "dead": 1005,
-    "active": 15068
+    "confirmed": 89237,
+    "recovered": 73155,
+    "dead": 1038,
+    "active": 15044
   }
 }
