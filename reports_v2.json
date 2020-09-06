@@ -1,9 +1,9 @@
 {
-  "confirmed": 4196616,
-  "recovered": 3241203,
-  "dead": 71641,
-  "active": 883149,
-  "updatedTime": "06/09/2020 22:04:29",
+  "confirmed": 4197563,
+  "recovered": 3242753,
+  "dead": 71656,
+  "active": 882531,
+  "updatedTime": "06/09/2020 22:24:33",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -248,17 +248,17 @@
     "AS": {
       "name": "Assam",
       "confirmed": 123923,
-      "active": 28507,
+      "active": 28499,
       "recovered": 95061,
-      "dead": 352,
-      "updatedTime": "05/09/2020 22:39:27",
+      "dead": 360,
+      "updatedTime": "06/09/2020 22:24:37",
       "note": "Includes 1 case from Nagaland",
       "stateCode": "AS",
       "today": {
         "confirmed": 0,
         "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "dead": 8,
+        "active": -8
       },
       "testing_data": {
         "tested": 2471274,
@@ -271,18 +271,18 @@
     },
     "RJ": {
       "name": "Rajasthan",
-      "confirmed": 90089,
-      "active": 15577,
-      "recovered": 73382,
-      "dead": 1130,
-      "updatedTime": "06/09/2020 10:58:31",
+      "confirmed": 90956,
+      "active": 14958,
+      "recovered": 74861,
+      "dead": 1137,
+      "updatedTime": "06/09/2020 22:20:40",
       "note": "",
       "stateCode": "RJ",
       "today": {
-        "confirmed": 726,
-        "recovered": 137,
-        "dead": 8,
-        "active": 581
+        "confirmed": 1593,
+        "recovered": 1616,
+        "dead": 15,
+        "active": -38
       },
       "testing_data": {
         "tested": 2471540,
@@ -395,7 +395,7 @@
       "active": 16156,
       "recovered": 45455,
       "dead": 1862,
-      "updatedTime": "06/09/2020 22:04:32",
+      "updatedTime": "06/09/2020 22:10:34",
       "note": "",
       "stateCode": "PB",
       "today": {
@@ -611,7 +611,7 @@
       "active": 2175,
       "recovered": 5138,
       "dead": 54,
-      "updatedTime": "06/09/2020 22:04:34",
+      "updatedTime": "06/09/2020 22:10:36",
       "note": "Death of Tibetan refugee is included in deceased numbers, but not in confirmed",
       "stateCode": "HP",
       "today": {
@@ -679,18 +679,18 @@
     },
     "AN": {
       "name": "Andaman and Nicobar",
-      "confirmed": 3292,
-      "active": 338,
-      "recovered": 2904,
+      "confirmed": 3332,
+      "active": 331,
+      "recovered": 2951,
       "dead": 50,
-      "updatedTime": "05/09/2020 22:09:31",
+      "updatedTime": "06/09/2020 22:24:40",
       "note": "",
       "stateCode": "AN",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 40,
+        "recovered": 47,
         "dead": 0,
-        "active": 0
+        "active": -7
       },
       "testing_data": {
         "tested": 37825,
@@ -703,18 +703,18 @@
     },
     "LA": {
       "name": "Ladakh",
-      "confirmed": 2996,
-      "active": 834,
-      "recovered": 2127,
+      "confirmed": 3036,
+      "active": 850,
+      "recovered": 2151,
       "dead": 35,
-      "updatedTime": "05/09/2020 22:55:34",
+      "updatedTime": "06/09/2020 22:20:45",
       "note": "",
       "stateCode": "LA",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 40,
+        "recovered": 24,
         "dead": 0,
-        "active": 0
+        "active": 16
       },
       "testing_data": {
         "tested": 36302,
@@ -772,7 +772,7 @@
       "active": 1432,
       "recovered": 1556,
       "dead": 16,
-      "updatedTime": "06/09/2020 22:02:39",
+      "updatedTime": "06/09/2020 22:05:35",
       "note": "[June 17]:\nOne case was identified to be false positive and has been removed from the confirmed cases by ML authorities.",
       "stateCode": "ML",
       "today": {
@@ -890,9 +890,9 @@
     "source": "http://twitter.com/ICMRDELHI/status/1302441910481559552"
   },
   "today": {
-    "confirmed": 85777,
-    "recovered": 63530,
-    "dead": 962,
-    "active": 21285
+    "confirmed": 86724,
+    "recovered": 65080,
+    "dead": 977,
+    "active": 20667
   }
 }
