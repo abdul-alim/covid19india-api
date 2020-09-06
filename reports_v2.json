@@ -1,9 +1,9 @@
 {
-  "confirmed": 4168857,
-  "recovered": 3230372,
-  "dead": 71371,
-  "active": 866493,
-  "updatedTime": "06/09/2020 20:39:47",
+  "confirmed": 4172781,
+  "recovered": 3233151,
+  "dead": 71411,
+  "active": 867597,
+  "updatedTime": "06/09/2020 20:53:28",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -35,7 +35,7 @@
       "active": 51455,
       "recovered": 404186,
       "dead": 7839,
-      "updatedTime": "06/09/2020 20:39:55",
+      "updatedTime": "06/09/2020 20:45:35",
       "note": "[July 22]: 444 backdated deceased entries added to Chennai in TN bulletin.\n2 deaths cross notified to other states from Chennai and Coimbatore.\n1 patient died after turning negative for infection in Chengalpattu.\nThese cases have been added to TN deceased tally",
       "stateCode": "TN",
       "today": {
@@ -103,18 +103,18 @@
     },
     "DL": {
       "name": "Delhi",
-      "confirmed": 188193,
-      "active": 19870,
-      "recovered": 163785,
-      "dead": 4538,
-      "updatedTime": "05/09/2020 21:31:26",
+      "confirmed": 191449,
+      "active": 20909,
+      "recovered": 165973,
+      "dead": 4567,
+      "updatedTime": "06/09/2020 20:53:30",
       "note": "[July 14]: Value for the total tests conducted has been reduced by 97008 in the state bulletin. Reason given : \"Reconciled with ICMR figures\". We have made the same change.\n[June 16]: 344 deceased cases have been retroactively added to DL bulletin.",
       "stateCode": "DL",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 3256,
+        "recovered": 2188,
+        "dead": 29,
+        "active": 1039
       },
       "testing_data": {
         "tested": 1744466,
@@ -395,7 +395,7 @@
       "active": 16056,
       "recovered": 45455,
       "dead": 1962,
-      "updatedTime": "06/09/2020 20:39:59",
+      "updatedTime": "06/09/2020 20:45:39",
       "note": "",
       "stateCode": "PB",
       "today": {
@@ -487,18 +487,18 @@
     },
     "UT": {
       "name": "Uttarakhand",
-      "confirmed": 23961,
-      "active": 7575,
-      "recovered": 15982,
-      "dead": 330,
-      "updatedTime": "05/09/2020 23:12:30",
+      "confirmed": 24629,
+      "active": 7640,
+      "recovered": 16573,
+      "dead": 341,
+      "updatedTime": "06/09/2020 20:53:33",
       "note": "",
       "stateCode": "UT",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 668,
+        "recovered": 591,
+        "dead": 11,
+        "active": 66
       },
       "testing_data": {
         "tested": 454027,
@@ -575,8 +575,8 @@
       "testing_data": {
         "tested": 84833,
         "positive": 0,
-        "negative": 0,
-        "unconfirmed": 0,
+        "negative": 65657,
+        "unconfirmed": 272,
         "date": "06/09/2020",
         "source": "https://health.py.gov.in/"
       }
@@ -882,17 +882,17 @@
   "testing_data": {
     "tested": 54010404,
     "positive": 287116,
-    "negative": 18272784,
-    "unconfirmed": 36193
+    "negative": 18338441,
+    "unconfirmed": 36465
   },
   "testing_data_imcr": {
     "tested": 48831145,
     "source": "http://twitter.com/ICMRDELHI/status/1302441910481559552"
   },
   "today": {
-    "confirmed": 58018,
-    "recovered": 52699,
-    "dead": 692,
-    "active": 4627
+    "confirmed": 61942,
+    "recovered": 55478,
+    "dead": 732,
+    "active": 5732
   }
 }
