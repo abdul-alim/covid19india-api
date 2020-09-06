@@ -1,9 +1,9 @@
 {
-  "confirmed": 4196131,
-  "recovered": 3240977,
-  "dead": 71739,
-  "active": 882793,
-  "updatedTime": "06/09/2020 21:29:29",
+  "confirmed": 4196616,
+  "recovered": 3241203,
+  "dead": 71741,
+  "active": 883050,
+  "updatedTime": "06/09/2020 21:55:28",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -117,12 +117,12 @@
         "active": 1039
       },
       "testing_data": {
-        "tested": 1744466,
+        "tested": 1780512,
         "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "05/09/2020",
-        "source": "https://twitter.com/ANI/status/1302268365931786240?s=20"
+        "date": "06/09/2020",
+        "source": "https://twitter.com/ANI/status/1302627074809556992?s=20"
       }
     },
     "UP": {
@@ -285,12 +285,12 @@
         "active": 581
       },
       "testing_data": {
-        "tested": 2443995,
+        "tested": 2471540,
         "positive": 0,
-        "negative": 2352305,
-        "unconfirmed": 2327,
-        "date": "05/09/2020",
-        "source": "https://twitter.com/ANI/status/1302280800784842755?s=20"
+        "negative": 2378102,
+        "unconfirmed": 2482,
+        "date": "06/09/2020",
+        "source": "http://rajswasthya.nic.in/"
       }
     },
     "OR": {
@@ -607,18 +607,18 @@
     },
     "HP": {
       "name": "Himachal Pradesh",
-      "confirmed": 7018,
-      "active": 1977,
-      "recovered": 4941,
-      "dead": 53,
-      "updatedTime": "05/09/2020 22:09:29",
+      "confirmed": 7415,
+      "active": 2176,
+      "recovered": 5138,
+      "dead": 54,
+      "updatedTime": "06/09/2020 21:54:38",
       "note": "Death of Tibetan refugee is included in deceased numbers, but not in confirmed",
       "stateCode": "HP",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 397,
+        "recovered": 197,
+        "dead": 1,
+        "active": 199
       },
       "testing_data": {
         "tested": 226268,
@@ -768,18 +768,18 @@
     },
     "ML": {
       "name": "Meghalaya",
-      "confirmed": 2916,
-      "active": 1374,
-      "recovered": 1527,
-      "dead": 15,
-      "updatedTime": "06/09/2020 00:53:40",
+      "confirmed": 3004,
+      "active": 1432,
+      "recovered": 1556,
+      "dead": 16,
+      "updatedTime": "06/09/2020 21:54:42",
       "note": "[June 17]:\nOne case was identified to be false positive and has been removed from the confirmed cases by ML authorities.",
       "stateCode": "ML",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 88,
+        "recovered": 29,
+        "dead": 1,
+        "active": 58
       },
       "testing_data": {
         "tested": 97550,
@@ -880,19 +880,19 @@
     }
   },
   "testing_data": {
-    "tested": 54096598,
+    "tested": 54160189,
     "positive": 287116,
-    "negative": 18338441,
-    "unconfirmed": 36465
+    "negative": 18364238,
+    "unconfirmed": 36620
   },
   "testing_data_imcr": {
     "tested": 48831145,
     "source": "http://twitter.com/ICMRDELHI/status/1302441910481559552"
   },
   "today": {
-    "confirmed": 85292,
-    "recovered": 63304,
-    "dead": 1060,
-    "active": 20928
+    "confirmed": 85777,
+    "recovered": 63530,
+    "dead": 1062,
+    "active": 21185
   }
 }
