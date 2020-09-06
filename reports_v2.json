@@ -1,9 +1,9 @@
 {
-  "confirmed": 4160757,
-  "recovered": 3219750,
-  "dead": 71120,
-  "active": 869266,
-  "updatedTime": "06/09/2020 20:12:31",
+  "confirmed": 4161128,
+  "recovered": 3222946,
+  "dead": 71129,
+  "active": 866432,
+  "updatedTime": "06/09/2020 20:24:28",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -296,17 +296,17 @@
     "OR": {
       "name": "Odisha",
       "confirmed": 124031,
-      "active": 29658,
-      "recovered": 93774,
+      "active": 27068,
+      "recovered": 96364,
       "dead": 599,
-      "updatedTime": "06/09/2020 12:58:31",
+      "updatedTime": "06/09/2020 20:24:31",
       "note": "[July 12th] 20 non-covid deaths reported in state dashboard are included in the deceased count\n[June 22nd]: NDRF/ODRF cases have been redistributed to districts based on state dashboard",
       "stateCode": "OR",
       "today": {
         "confirmed": 3810,
-        "recovered": 0,
+        "recovered": 2590,
         "dead": 8,
-        "active": 3802
+        "active": 1212
       },
       "testing_data": {
         "tested": 2098401,
@@ -323,7 +323,7 @@
       "active": 15692,
       "recovered": 60051,
       "dead": 806,
-      "updatedTime": "06/09/2020 20:12:34",
+      "updatedTime": "06/09/2020 20:18:37",
       "note": "[Aug 2]: 21 Foreign Evacuees have been merged to Panchkula and 14 Italian tourists have been merged to Gurugram in HR bulletin.",
       "stateCode": "HR",
       "today": {
@@ -511,26 +511,26 @@
     },
     "GA": {
       "name": "Goa",
-      "confirmed": 20455,
-      "active": 4945,
-      "recovered": 15281,
-      "dead": 229,
-      "updatedTime": "05/09/2020 20:52:33",
+      "confirmed": 20829,
+      "active": 4754,
+      "recovered": 15839,
+      "dead": 236,
+      "updatedTime": "06/09/2020 20:24:33",
       "note": "",
       "stateCode": "GA",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 374,
+        "recovered": 558,
+        "dead": 7,
+        "active": -191
       },
       "testing_data": {
-        "tested": 211048,
+        "tested": 212150,
         "positive": 0,
         "negative": 0,
-        "unconfirmed": 413,
-        "date": "05/09/2020",
-        "source": "https://twitter.com/DHS_Goa/status/1302258198540439552?s=20"
+        "unconfirmed": 241,
+        "date": "06/09/2020",
+        "source": "https://twitter.com/DHS_Goa/status/1302617887719321601?s=20"
       }
     },
     "TR": {
@@ -587,7 +587,7 @@
       "active": 1820,
       "recovered": 5164,
       "dead": 38,
-      "updatedTime": "06/09/2020 20:12:36",
+      "updatedTime": "06/09/2020 20:18:40",
       "note": "",
       "stateCode": "MN",
       "today": {
@@ -597,12 +597,12 @@
         "active": -52
       },
       "testing_data": {
-        "tested": 169093,
+        "tested": 172650,
         "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "05/09/2020",
-        "source": "https://twitter.com/DiprManipur/status/1302269054263201795?s=20"
+        "date": "06/09/2020",
+        "source": "https://twitter.com/DiprManipur/status/1302586736644481025?s=20"
       }
     },
     "HP": {
@@ -727,18 +727,18 @@
     },
     "CH": {
       "name": "Chandigarh",
-      "confirmed": 5766,
-      "active": 2404,
-      "recovered": 3290,
-      "dead": 69,
-      "updatedTime": "05/09/2020 20:15:48",
+      "confirmed": 5763,
+      "active": 2351,
+      "recovered": 3338,
+      "dead": 71,
+      "updatedTime": "06/09/2020 20:24:37",
       "note": "",
       "stateCode": "CH",
       "today": {
-        "confirmed": 264,
-        "recovered": 0,
-        "dead": 0,
-        "active": 264
+        "confirmed": 261,
+        "recovered": 48,
+        "dead": 2,
+        "active": 211
       },
       "testing_data": {
         "tested": 35288,
@@ -880,19 +880,19 @@
     }
   },
   "testing_data": {
-    "tested": 53977878,
+    "tested": 53982537,
     "positive": 287116,
     "negative": 18337439,
-    "unconfirmed": 36457
+    "unconfirmed": 36285
   },
   "testing_data_imcr": {
     "tested": 48831145,
     "source": "http://twitter.com/ICMRDELHI/status/1302441910481559552"
   },
   "today": {
-    "confirmed": 49918,
-    "recovered": 42077,
-    "dead": 441,
-    "active": 7400
+    "confirmed": 50289,
+    "recovered": 45273,
+    "dead": 450,
+    "active": 4566
   }
 }
