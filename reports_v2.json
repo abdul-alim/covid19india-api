@@ -1,9 +1,9 @@
 {
-  "confirmed": 4161128,
-  "recovered": 3222946,
-  "dead": 71129,
-  "active": 866432,
-  "updatedTime": "06/09/2020 20:24:28",
+  "confirmed": 4168857,
+  "recovered": 3230372,
+  "dead": 71371,
+  "active": 866493,
+  "updatedTime": "06/09/2020 20:39:47",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -31,18 +31,18 @@
     },
     "TN": {
       "name": "Tamil Nadu",
-      "confirmed": 457697,
-      "active": 51580,
-      "recovered": 398366,
-      "dead": 7751,
-      "updatedTime": "05/09/2020 22:06:30",
+      "confirmed": 463480,
+      "active": 51455,
+      "recovered": 404186,
+      "dead": 7839,
+      "updatedTime": "06/09/2020 20:39:55",
       "note": "[July 22]: 444 backdated deceased entries added to Chennai in TN bulletin.\n2 deaths cross notified to other states from Chennai and Coimbatore.\n1 patient died after turning negative for infection in Chengalpattu.\nThese cases have been added to TN deceased tally",
       "stateCode": "TN",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 5783,
+        "recovered": 5820,
+        "dead": 88,
+        "active": -125
       },
       "testing_data": {
         "tested": 5212534,
@@ -299,7 +299,7 @@
       "active": 27068,
       "recovered": 96364,
       "dead": 599,
-      "updatedTime": "06/09/2020 20:24:31",
+      "updatedTime": "06/09/2020 20:32:40",
       "note": "[July 12th] 20 non-covid deaths reported in state dashboard are included in the deceased count\n[June 22nd]: NDRF/ODRF cases have been redistributed to districts based on state dashboard",
       "stateCode": "OR",
       "today": {
@@ -391,26 +391,26 @@
     },
     "PB": {
       "name": "Punjab",
-      "confirmed": 61527,
-      "active": 15870,
-      "recovered": 43849,
-      "dead": 1808,
-      "updatedTime": "05/09/2020 20:15:43",
+      "confirmed": 63473,
+      "active": 16056,
+      "recovered": 45455,
+      "dead": 1962,
+      "updatedTime": "06/09/2020 20:39:59",
       "note": "",
       "stateCode": "PB",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 1946,
+        "recovered": 1606,
+        "dead": 154,
+        "active": 186
       },
       "testing_data": {
-        "tested": 1168106,
+        "tested": 1193260,
         "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "05/09/2020",
-        "source": "https://twitter.com/ANI/status/1302246190319271936?s=20"
+        "date": "06/09/2020",
+        "source": "https://twitter.com/ANI/status/1302620984130764801?s=20"
       }
     },
     "JK": {
@@ -515,7 +515,7 @@
       "active": 4754,
       "recovered": 15839,
       "dead": 236,
-      "updatedTime": "06/09/2020 20:24:33",
+      "updatedTime": "06/09/2020 20:32:45",
       "note": "",
       "stateCode": "GA",
       "today": {
@@ -573,12 +573,12 @@
         "active": -75
       },
       "testing_data": {
-        "tested": 83142,
+        "tested": 84833,
         "positive": 0,
-        "negative": 64655,
-        "unconfirmed": 92,
-        "date": "05/09/2020",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/2165"
+        "negative": 0,
+        "unconfirmed": 0,
+        "date": "06/09/2020",
+        "source": "https://health.py.gov.in/"
       }
     },
     "MN": {
@@ -645,12 +645,12 @@
         "active": -27
       },
       "testing_data": {
-        "tested": 64803,
+        "tested": 65555,
         "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "05/09/2020",
-        "source": "https://twitter.com/MyGovNagaland/status/1302248687452606464?s=20"
+        "date": "06/09/2020",
+        "source": "https://twitter.com/MyGovNagaland/status/1302575603720138753?s=20"
       }
     },
     "AR": {
@@ -731,7 +731,7 @@
       "active": 2351,
       "recovered": 3338,
       "dead": 71,
-      "updatedTime": "06/09/2020 20:24:37",
+      "updatedTime": "06/09/2020 20:32:47",
       "note": "",
       "stateCode": "CH",
       "today": {
@@ -830,12 +830,12 @@
         "active": 12
       },
       "testing_data": {
-        "tested": 44803,
+        "tested": 45073,
         "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "05/09/2020",
-        "source": "https://dipr.mizoram.gov.in/post/status-of-state-surveillance-of-covid-19-592020-last-24hours-500pm"
+        "date": "06/09/2020",
+        "source": "https://dipr.mizoram.gov.in/post/status-of-state-surveillance-of-covid-19-692020-last-24hours-500pm"
       }
     },
     "UN": {
@@ -880,19 +880,19 @@
     }
   },
   "testing_data": {
-    "tested": 53982537,
+    "tested": 54010404,
     "positive": 287116,
-    "negative": 18337439,
-    "unconfirmed": 36285
+    "negative": 18272784,
+    "unconfirmed": 36193
   },
   "testing_data_imcr": {
     "tested": 48831145,
     "source": "http://twitter.com/ICMRDELHI/status/1302441910481559552"
   },
   "today": {
-    "confirmed": 50289,
-    "recovered": 45273,
-    "dead": 450,
-    "active": 4566
+    "confirmed": 58018,
+    "recovered": 52699,
+    "dead": 692,
+    "active": 4627
   }
 }
