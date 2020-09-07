@@ -1,9 +1,9 @@
 {
-  "confirmed": 4251587,
-  "recovered": 3298881,
-  "dead": 72321,
-  "active": 879762,
-  "updatedTime": "07/09/2020 21:09:50",
+  "confirmed": 4253618,
+  "recovered": 3301068,
+  "dead": 72357,
+  "active": 879570,
+  "updatedTime": "07/09/2020 22:03:50",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -248,17 +248,17 @@
     "AS": {
       "name": "Assam",
       "confirmed": 125460,
-      "active": 28273,
+      "active": 28263,
       "recovered": 96824,
-      "dead": 360,
-      "updatedTime": "06/09/2020 23:16:41",
+      "dead": 370,
+      "updatedTime": "07/09/2020 22:03:52",
       "note": "Includes 1 case from Nagaland",
       "stateCode": "AS",
       "today": {
         "confirmed": 0,
         "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "dead": 10,
+        "active": -10
       },
       "testing_data": {
         "tested": 2494610,
@@ -271,17 +271,17 @@
     },
     "RJ": {
       "name": "Rajasthan",
-      "confirmed": 90956,
+      "confirmed": 92536,
       "active": 14958,
-      "recovered": 74861,
-      "dead": 1137,
-      "updatedTime": "06/09/2020 22:20:40",
+      "recovered": 76427,
+      "dead": 1151,
+      "updatedTime": "07/09/2020 21:47:02",
       "note": "",
       "stateCode": "RJ",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
+        "confirmed": 1580,
+        "recovered": 1566,
+        "dead": 14,
         "active": 0
       },
       "testing_data": {
@@ -559,18 +559,18 @@
     },
     "PY": {
       "name": "Puducherry",
-      "confirmed": 17032,
-      "active": 5086,
-      "recovered": 11632,
-      "dead": 314,
-      "updatedTime": "06/09/2020 17:34:34",
+      "confirmed": 17316,
+      "active": 4856,
+      "recovered": 12135,
+      "dead": 325,
+      "updatedTime": "07/09/2020 22:03:54",
       "note": "",
       "stateCode": "PY",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 284,
+        "recovered": 503,
+        "dead": 11,
+        "active": -230
       },
       "testing_data": {
         "tested": 85906,
@@ -607,18 +607,18 @@
     },
     "HP": {
       "name": "Himachal Pradesh",
-      "confirmed": 7415,
-      "active": 2175,
-      "recovered": 5138,
-      "dead": 54,
+      "confirmed": 7582,
+      "active": 2223,
+      "recovered": 5256,
+      "dead": 55,
       "updatedTime": "06/09/2020 22:10:36",
       "note": "Death of Tibetan refugee is included in deceased numbers, but not in confirmed",
       "stateCode": "HP",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 167,
+        "recovered": 118,
+        "dead": 1,
+        "active": 48
       },
       "testing_data": {
         "tested": 228691,
@@ -890,9 +890,9 @@
     "source": "https://www.icmr.gov.in/pdf/covid/update/ICMR_testing_update_07Sept2020.pdf"
   },
   "today": {
-    "confirmed": 49025,
-    "recovered": 51584,
-    "dead": 634,
-    "active": -3193
+    "confirmed": 51056,
+    "recovered": 53771,
+    "dead": 670,
+    "active": -3385
   }
 }
