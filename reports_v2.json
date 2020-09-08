@@ -1,9 +1,9 @@
 {
-  "confirmed": 4313963,
-  "recovered": 3352990,
-  "dead": 73117,
-  "active": 887260,
-  "updatedTime": "08/09/2020 19:40:51",
+  "confirmed": 4318213,
+  "recovered": 3357001,
+  "dead": 73209,
+  "active": 887407,
+  "updatedTime": "08/09/2020 19:56:51",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -319,18 +319,18 @@
     },
     "HR": {
       "name": "Haryana",
-      "confirmed": 78773,
-      "active": 16333,
-      "recovered": 61611,
-      "dead": 829,
+      "confirmed": 81059,
+      "active": 16890,
+      "recovered": 63315,
+      "dead": 854,
       "updatedTime": "07/09/2020 19:48:58",
       "note": "[Aug 2]: 21 Foreign Evacuees have been merged to Panchkula and 14 Italian tourists have been merged to Gurugram in HR bulletin.",
       "stateCode": "HR",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 2286,
+        "recovered": 1704,
+        "dead": 25,
+        "active": 557
       },
       "testing_data": {
         "tested": 1317045,
@@ -381,28 +381,28 @@
         "active": 1151
       },
       "testing_data": {
-        "tested": 1891703,
-        "positive": 89490,
+        "tested": 1933294,
+        "positive": 92516,
         "negative": 0,
-        "unconfirmed": 3361,
-        "date": "07/09/2020",
-        "source": "https://dhs.kerala.gov.in/wp-content/uploads/2020/09/Bulletin-HFWD-English-September-07.pdf"
+        "unconfirmed": 8192,
+        "date": "08/09/2020",
+        "source": "https://dhs.kerala.gov.in/%e0%b4%a1%e0%b5%86%e0%b4%af%e0%b4%bf%e0%b4%b2%e0%b4%bf-%e0%b4%ac%e0%b5%81%e0%b4%b3%e0%b5%8d%e0%b4%b3%e0%b4%b1%e0%b5%8d%e0%b4%b1%e0%b4%bf%e0%b4%a8%e0%b5%8d%e2%80%8d/"
       }
     },
     "PB": {
       "name": "Punjab",
-      "confirmed": 65583,
-      "active": 16640,
-      "recovered": 47020,
-      "dead": 1923,
-      "updatedTime": "07/09/2020 20:01:00",
+      "confirmed": 67547,
+      "active": 16230,
+      "recovered": 49327,
+      "dead": 1990,
+      "updatedTime": "08/09/2020 19:56:54",
       "note": "",
       "stateCode": "PB",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 1964,
+        "recovered": 2307,
+        "dead": 67,
+        "active": -410
       },
       "testing_data": {
         "tested": 1212432,
@@ -515,7 +515,7 @@
       "active": 4499,
       "recovered": 16875,
       "dead": 256,
-      "updatedTime": "08/09/2020 19:40:54",
+      "updatedTime": "08/09/2020 19:46:53",
       "note": "",
       "stateCode": "GA",
       "today": {
@@ -731,7 +731,7 @@
       "active": 2334,
       "recovered": 3960,
       "dead": 75,
-      "updatedTime": "08/09/2020 19:40:55",
+      "updatedTime": "08/09/2020 19:46:55",
       "note": "",
       "stateCode": "CH",
       "today": {
@@ -880,19 +880,19 @@
     }
   },
   "testing_data": {
-    "tested": 55739113,
-    "positive": 214647,
+    "tested": 55780704,
+    "positive": 217673,
     "negative": 18785425,
-    "unconfirmed": 29071
+    "unconfirmed": 33902
   },
   "testing_data_imcr": {
     "tested": 50650128,
     "source": "http://twitter.com/ICMRDELHI/status/1303170261689094144"
   },
   "today": {
-    "confirmed": 36379,
-    "recovered": 31570,
-    "dead": 301,
-    "active": 4508
+    "confirmed": 40629,
+    "recovered": 35581,
+    "dead": 393,
+    "active": 4655
   }
 }
