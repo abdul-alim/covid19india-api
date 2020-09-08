@@ -1,9 +1,9 @@
 {
-  "confirmed": 4326737,
-  "recovered": 3363770,
-  "dead": 73311,
-  "active": 889060,
-  "updatedTime": "08/09/2020 21:01:50",
+  "confirmed": 4336506,
+  "recovered": 3373213,
+  "dead": 73485,
+  "active": 889212,
+  "updatedTime": "08/09/2020 21:24:50",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -79,18 +79,18 @@
     },
     "KA": {
       "name": "Karnataka",
-      "confirmed": 404324,
-      "active": 97001,
-      "recovered": 300770,
-      "dead": 6534,
-      "updatedTime": "07/09/2020 20:44:58",
+      "confirmed": 412190,
+      "active": 96918,
+      "recovered": 308573,
+      "dead": 6680,
+      "updatedTime": "08/09/2020 21:20:54",
       "note": "",
       "stateCode": "KA",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 7866,
+        "recovered": 7803,
+        "dead": 146,
+        "active": -83
       },
       "testing_data": {
         "tested": 3393676,
@@ -165,12 +165,12 @@
         "active": 38
       },
       "testing_data": {
-        "tested": 2200906,
+        "tested": 2243294,
         "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "07/09/2020",
-        "source": "https://www.wbhealth.gov.in/uploaded_files/corona/WB_DHFW_Bulletin_7th_SEPTEMBER_REPORT_FINAL.pdf"
+        "date": "08/09/2020",
+        "source": "https://www.wbhealth.gov.in/pages/corona/bulletin"
       }
     },
     "BR": {
@@ -248,17 +248,17 @@
     "AS": {
       "name": "Assam",
       "confirmed": 128245,
-      "active": 28798,
+      "active": 28790,
       "recovered": 99074,
-      "dead": 370,
-      "updatedTime": "07/09/2020 23:01:54",
+      "dead": 378,
+      "updatedTime": "08/09/2020 21:20:56",
       "note": "Includes 1 case from Nagaland",
       "stateCode": "AS",
       "today": {
         "confirmed": 0,
         "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "dead": 8,
+        "active": -8
       },
       "testing_data": {
         "tested": 2533221,
@@ -343,18 +343,18 @@
     },
     "MP": {
       "name": "Madhya Pradesh",
-      "confirmed": 75459,
-      "active": 16961,
-      "recovered": 56909,
-      "dead": 1589,
-      "updatedTime": "07/09/2020 20:00:55",
+      "confirmed": 77323,
+      "active": 17205,
+      "recovered": 58509,
+      "dead": 1609,
+      "updatedTime": "08/09/2020 21:24:52",
       "note": "",
       "stateCode": "MP",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 1864,
+        "recovered": 1600,
+        "dead": 20,
+        "active": 244
       },
       "testing_data": {
         "tested": 1541356,
@@ -751,18 +751,18 @@
     },
     "DN": {
       "name": "Dadra and Nagar Haveli and Daman and Diu",
-      "confirmed": 2593,
-      "active": 283,
-      "recovered": 2285,
+      "confirmed": 2613,
+      "active": 279,
+      "recovered": 2309,
       "dead": 2,
-      "updatedTime": "08/09/2020 16:52:57",
+      "updatedTime": "08/09/2020 21:24:55",
       "note": "",
       "stateCode": "DN",
       "today": {
-        "confirmed": 4,
-        "recovered": 7,
+        "confirmed": 24,
+        "recovered": 31,
         "dead": 0,
-        "active": -3
+        "active": -7
       },
       "isUnknown": true
     },
@@ -792,18 +792,18 @@
     },
     "SK": {
       "name": "Sikkim",
-      "confirmed": 1939,
-      "active": 538,
-      "recovered": 1396,
+      "confirmed": 1958,
+      "active": 541,
+      "recovered": 1412,
       "dead": 5,
-      "updatedTime": "07/09/2020 23:02:07",
+      "updatedTime": "08/09/2020 21:21:01",
       "note": "",
       "stateCode": "SK",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 19,
+        "recovered": 16,
         "dead": 0,
-        "active": 0
+        "active": 3
       },
       "testing_data": {
         "tested": 43828,
@@ -880,7 +880,7 @@
     }
   },
   "testing_data": {
-    "tested": 55982572,
+    "tested": 56024960,
     "positive": 218968,
     "negative": 18962176,
     "unconfirmed": 35931
@@ -890,9 +890,9 @@
     "source": "http://twitter.com/ICMRDELHI/status/1303170261689094144"
   },
   "today": {
-    "confirmed": 49153,
-    "recovered": 42350,
-    "dead": 495,
-    "active": 6308
+    "confirmed": 58922,
+    "recovered": 51793,
+    "dead": 669,
+    "active": 6460
   }
 }
