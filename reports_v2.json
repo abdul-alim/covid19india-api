@@ -1,9 +1,9 @@
 {
-  "confirmed": 4313129,
-  "recovered": 3352316,
-  "dead": 73105,
-  "active": 887112,
-  "updatedTime": "08/09/2020 19:24:51",
+  "confirmed": 4313963,
+  "recovered": 3352990,
+  "dead": 73117,
+  "active": 887260,
+  "updatedTime": "08/09/2020 19:40:51",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -69,12 +69,12 @@
         "active": -1163
       },
       "testing_data": {
-        "tested": 4166077,
+        "tested": 4237070,
         "positive": 0,
-        "negative": 3659584,
+        "negative": 3719976,
         "unconfirmed": 0,
-        "date": "07/09/2020",
-        "source": "https://twitter.com/ArogyaAndhra/status/1302954241049333763?s=20"
+        "date": "08/09/2020",
+        "source": "https://twitter.com/ArogyaAndhra/status/1303319489832865793?s=20"
       }
     },
     "KA": {
@@ -511,18 +511,18 @@
     },
     "GA": {
       "name": "Goa",
-      "confirmed": 21173,
-      "active": 4501,
-      "recovered": 16427,
-      "dead": 245,
-      "updatedTime": "07/09/2020 20:17:55",
+      "confirmed": 21630,
+      "active": 4499,
+      "recovered": 16875,
+      "dead": 256,
+      "updatedTime": "08/09/2020 19:40:54",
       "note": "",
       "stateCode": "GA",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 457,
+        "recovered": 448,
+        "dead": 11,
+        "active": -2
       },
       "testing_data": {
         "tested": 213469,
@@ -727,26 +727,26 @@
     },
     "CH": {
       "name": "Chandigarh",
-      "confirmed": 5995,
-      "active": 2184,
-      "recovered": 3734,
-      "dead": 74,
-      "updatedTime": "07/09/2020 19:09:55",
+      "confirmed": 6372,
+      "active": 2334,
+      "recovered": 3960,
+      "dead": 75,
+      "updatedTime": "08/09/2020 19:40:55",
       "note": "",
       "stateCode": "CH",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 377,
+        "recovered": 226,
+        "dead": 1,
+        "active": 150
       },
       "testing_data": {
-        "tested": 36079,
+        "tested": 37070,
         "positive": 0,
-        "negative": 29712,
-        "unconfirmed": 129,
-        "date": "07/09/2020",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/2222"
+        "negative": 30326,
+        "unconfirmed": 122,
+        "date": "08/09/2020",
+        "source": "http://chdcovid19.in/"
       }
     },
     "DN": {
@@ -772,7 +772,7 @@
       "active": 1343,
       "recovered": 1716,
       "dead": 17,
-      "updatedTime": "08/09/2020 19:24:54",
+      "updatedTime": "08/09/2020 19:40:07",
       "note": "[June 17]:\nOne case was identified to be false positive and has been removed from the confirmed cases by ML authorities.",
       "stateCode": "ML",
       "today": {
@@ -880,19 +880,19 @@
     }
   },
   "testing_data": {
-    "tested": 55667129,
+    "tested": 55739113,
     "positive": 214647,
-    "negative": 18724419,
-    "unconfirmed": 29078
+    "negative": 18785425,
+    "unconfirmed": 29071
   },
   "testing_data_imcr": {
     "tested": 50650128,
     "source": "http://twitter.com/ICMRDELHI/status/1303170261689094144"
   },
   "today": {
-    "confirmed": 35545,
-    "recovered": 30896,
-    "dead": 289,
-    "active": 4360
+    "confirmed": 36379,
+    "recovered": 31570,
+    "dead": 301,
+    "active": 4508
   }
 }
