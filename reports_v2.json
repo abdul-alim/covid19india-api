@@ -1,9 +1,9 @@
 {
-  "confirmed": 4419844,
-  "recovered": 3435432,
-  "dead": 74395,
-  "active": 909415,
-  "updatedTime": "09/09/2020 20:40:50",
+  "confirmed": 4422021,
+  "recovered": 3439814,
+  "dead": 74484,
+  "active": 907121,
+  "updatedTime": "09/09/2020 21:00:47",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -248,17 +248,17 @@
     "AS": {
       "name": "Assam",
       "confirmed": 130823,
-      "active": 29202,
+      "active": 29184,
       "recovered": 101240,
-      "dead": 378,
-      "updatedTime": "08/09/2020 22:47:52",
+      "dead": 396,
+      "updatedTime": "09/09/2020 21:00:48",
       "note": "Includes 1 case from Nagaland",
       "stateCode": "AS",
       "today": {
         "confirmed": 0,
         "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "dead": 18,
+        "active": -18
       },
       "testing_data": {
         "tested": 2567683,
@@ -296,17 +296,17 @@
     "OR": {
       "name": "Odisha",
       "confirmed": 135130,
-      "active": 32312,
-      "recovered": 102185,
+      "active": 29202,
+      "recovered": 105295,
       "dead": 633,
-      "updatedTime": "09/09/2020 12:42:54",
+      "updatedTime": "09/09/2020 21:00:49",
       "note": "[July 12th] 20 non-covid deaths reported in state dashboard are included in the deceased count\n[June 22nd]: NDRF/ODRF cases have been redistributed to districts based on state dashboard",
       "stateCode": "OR",
       "today": {
         "confirmed": 3748,
-        "recovered": 0,
+        "recovered": 3110,
         "dead": 11,
-        "active": 3737
+        "active": 627
       },
       "testing_data": {
         "tested": 2226436,
@@ -323,7 +323,7 @@
       "active": 17328,
       "recovered": 65143,
       "dead": 882,
-      "updatedTime": "09/09/2020 20:41:00",
+      "updatedTime": "09/09/2020 20:48:51",
       "note": "[Aug 2]: 21 Foreign Evacuees have been merged to Panchkula and 14 Italian tourists have been merged to Gurugram in HR bulletin.",
       "stateCode": "HR",
       "today": {
@@ -333,12 +333,12 @@
         "active": 438
       },
       "testing_data": {
-        "tested": 1334010,
+        "tested": 1370399,
         "positive": 0,
-        "negative": 1246370,
-        "unconfirmed": 6581,
-        "date": "08/09/2020",
-        "source": "http://www.nhmharyana.gov.in/WriteReadData/userfiles/file/CoronaVirus/Daily%20Bulletin%20of%20COVID%2019%20as%20on%2008-09-20.pdf"
+        "negative": 1280217,
+        "unconfirmed": 6829,
+        "date": "09/09/2020",
+        "source": "http://www.nhmharyana.gov.in/WriteReadData/userfiles/file/CoronaVirus/Daily%20Bulletin%20of%20COVID%2019%20as%20on%2009-09-20.pdf"
       }
     },
     "MP": {
@@ -391,26 +391,26 @@
     },
     "PB": {
       "name": "Punjab",
-      "confirmed": 67547,
-      "active": 16230,
-      "recovered": 49327,
-      "dead": 1990,
-      "updatedTime": "08/09/2020 20:08:54",
+      "confirmed": 69684,
+      "active": 17065,
+      "recovered": 50558,
+      "dead": 2061,
+      "updatedTime": "09/09/2020 21:00:50",
       "note": "",
       "stateCode": "PB",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 2137,
+        "recovered": 1231,
+        "dead": 71,
+        "active": 835
       },
       "testing_data": {
-        "tested": 1241120,
+        "tested": 1269052,
         "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "08/09/2020",
-        "source": "http://diprpunjab.gov.in/sites/default/files/Covid%20Media%20Bulletin%20%2808-09-2020%29.pdf"
+        "date": "09/09/2020",
+        "source": "http://diprpunjab.gov.in/sites/default/files/Media%20Bulletin%2009-09-2020.pdf"
       }
     },
     "JK": {
@@ -504,7 +504,7 @@
         "tested": 482663,
         "positive": 0,
         "negative": 431315,
-        "unconfirmed": 0,
+        "unconfirmed": 13996,
         "date": "09/09/2020",
         "source": "https://twitter.com/ANI/status/1303706544903565312?s=20"
       }
@@ -645,12 +645,12 @@
         "active": 130
       },
       "testing_data": {
-        "tested": 66444,
+        "tested": 67154,
         "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "08/09/2020",
-        "source": "https://twitter.com/MyGovNagaland/status/1303307936714731520?s=20"
+        "date": "09/09/2020",
+        "source": "https://twitter.com/pangnyu/status/1303632898638016514?s=20"
       }
     },
     "AR": {
@@ -703,18 +703,18 @@
     },
     "LA": {
       "name": "Ladakh",
-      "confirmed": 3102,
-      "active": 779,
-      "recovered": 2288,
+      "confirmed": 3142,
+      "active": 778,
+      "recovered": 2329,
       "dead": 35,
-      "updatedTime": "08/09/2020 23:22:57",
+      "updatedTime": "09/09/2020 21:00:51",
       "note": "[Sep 08] : Testing details are not available in Ladakh bulletin from Sep 06 onwards",
       "stateCode": "LA",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 40,
+        "recovered": 41,
         "dead": 0,
-        "active": 0
+        "active": -1
       },
       "testing_data": {
         "tested": 36613,
@@ -830,12 +830,12 @@
         "active": 64
       },
       "testing_data": {
-        "tested": 45925,
+        "tested": 46414,
         "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "08/09/2020",
-        "source": "https://dipr.mizoram.gov.in/post/status-of-state-surveillance-of-covid-08992020-last-24hours-500pm"
+        "date": "09/09/2020",
+        "source": "https://dipr.mizoram.gov.in/post/status-of-state-surveillance-of-covid-09992020-last-24hours-500pm"
       }
     },
     "UN": {
@@ -880,19 +880,19 @@
     }
   },
   "testing_data": {
-    "tested": 57192701,
+    "tested": 57258221,
     "positive": 223012,
-    "negative": 19290387,
-    "unconfirmed": 22716
+    "negative": 19324234,
+    "unconfirmed": 36960
   },
   "testing_data_imcr": {
     "tested": 51804677,
     "source": "https://twitter.com/ICMRDELHI/status/1303528964766408704?s=20"
   },
   "today": {
-    "confirmed": 52408,
-    "recovered": 39405,
-    "dead": 472,
-    "active": 12531
+    "confirmed": 54585,
+    "recovered": 43787,
+    "dead": 561,
+    "active": 10237
   }
 }
