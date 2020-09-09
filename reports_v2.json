@@ -1,9 +1,9 @@
 {
-  "confirmed": 4434825,
-  "recovered": 3450239,
+  "confirmed": 4434969,
+  "recovered": 3450422,
   "dead": 74625,
-  "active": 909359,
-  "updatedTime": "09/09/2020 22:53:08",
+  "active": 909320,
+  "updatedTime": "09/09/2020 23:13:51",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -237,12 +237,12 @@
         "active": -23
       },
       "testing_data": {
-        "tested": 2925447,
-        "positive": 106966,
-        "negative": 2818481,
+        "tested": 3001383,
+        "positive": 108295,
+        "negative": 0,
         "unconfirmed": 0,
-        "date": "08/09/2020",
-        "source": ""
+        "date": "09/09/2020",
+        "source": "https://twitter.com/GujHFWDept/status/1303695931091464192"
       }
     },
     "AS": {
@@ -261,12 +261,12 @@
         "active": 2225
       },
       "testing_data": {
-        "tested": 2567683,
+        "tested": 2599245,
         "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "08/09/2020",
-        "source": "https://twitter.com/nhm_assam/status/1303387211333730304?s=20"
+        "date": "09/09/2020",
+        "source": "https://twitter.com/himantabiswa/status/1303726022144090113?s=20"
       }
     },
     "RJ": {
@@ -477,12 +477,12 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 700529,
+        "tested": 719630,
         "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "08/09/2020",
-        "source": "https://twitter.com/HealthCgGov/status/1303376999843594242?s=20"
+        "date": "09/09/2020",
+        "source": "https://twitter.com/HealthCgGov/status/1303744017000062978?s=20"
       }
     },
     "UT": {
@@ -491,7 +491,7 @@
       "active": 8500,
       "recovered": 18262,
       "dead": 372,
-      "updatedTime": "09/09/2020 22:53:15",
+      "updatedTime": "09/09/2020 23:01:49",
       "note": "",
       "stateCode": "UT",
       "today": {
@@ -655,26 +655,26 @@
     },
     "AR": {
       "name": "Arunachal Pradesh",
-      "confirmed": 5401,
-      "active": 1669,
-      "recovered": 3723,
+      "confirmed": 5545,
+      "active": 1630,
+      "recovered": 3906,
       "dead": 9,
-      "updatedTime": "09/09/2020 00:01:56",
+      "updatedTime": "09/09/2020 23:13:56",
       "note": "[July 25]: All numbers corresponding to Papum Pare and Captial Complex are tracked under Papum Pare district.",
       "stateCode": "AR",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 144,
+        "recovered": 183,
         "dead": 0,
-        "active": 0
+        "active": -39
       },
       "testing_data": {
-        "tested": 191632,
+        "tested": 194647,
         "positive": 0,
-        "negative": 180193,
-        "unconfirmed": 51,
-        "date": "08/09/2020",
-        "source": "https://twitter.com/DirectorateofHS/status/1303381244470652930/photo/1"
+        "negative": 182937,
+        "unconfirmed": 47,
+        "date": "09/09/2020",
+        "source": "https://twitter.com/DirectorateofHS/status/1303744563010400258/photo/1"
       }
     },
     "AN": {
@@ -880,19 +880,19 @@
     }
   },
   "testing_data": {
-    "tested": 57401014,
-    "positive": 223012,
-    "negative": 19379244,
-    "unconfirmed": 37499
+    "tested": 57530628,
+    "positive": 224341,
+    "negative": 16563507,
+    "unconfirmed": 37495
   },
   "testing_data_imcr": {
     "tested": 51804677,
     "source": "https://twitter.com/ICMRDELHI/status/1303528964766408704?s=20"
   },
   "today": {
-    "confirmed": 67389,
-    "recovered": 54212,
+    "confirmed": 67533,
+    "recovered": 54395,
     "dead": 702,
-    "active": 12475
+    "active": 12436
   }
 }
