@@ -1,9 +1,9 @@
 {
-  "confirmed": 4517968,
-  "recovered": 3510739,
-  "dead": 75620,
-  "active": 931001,
-  "updatedTime": "10/09/2020 20:42:50",
+  "confirmed": 4520607,
+  "recovered": 3515302,
+  "dead": 75647,
+  "active": 929050,
+  "updatedTime": "10/09/2020 21:04:55",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -155,7 +155,7 @@
       "active": 23377,
       "recovered": 166027,
       "dead": 3771,
-      "updatedTime": "10/09/2020 20:42:52",
+      "updatedTime": "10/09/2020 20:47:55",
       "note": "",
       "stateCode": "WB",
       "today": {
@@ -296,17 +296,17 @@
     "OR": {
       "name": "Odisha",
       "confirmed": 139121,
-      "active": 33182,
-      "recovered": 105295,
+      "active": 30476,
+      "recovered": 108001,
       "dead": 644,
-      "updatedTime": "10/09/2020 12:02:51",
+      "updatedTime": "10/09/2020 21:05:00",
       "note": "[July 12th] :20 non-covid deaths reported in state dashboard are included in the deceased count\n[June 22nd]: NDRF/ODRF cases have been redistributed to districts based on state dashboard",
       "stateCode": "OR",
       "today": {
         "confirmed": 3991,
-        "recovered": 0,
+        "recovered": 2706,
         "dead": 11,
-        "active": 3980
+        "active": 1274
       },
       "testing_data": {
         "tested": 2273597,
@@ -343,26 +343,26 @@
     },
     "MP": {
       "name": "Madhya Pradesh",
-      "confirmed": 79192,
-      "active": 17702,
-      "recovered": 59850,
-      "dead": 1640,
-      "updatedTime": "09/09/2020 22:06:57",
+      "confirmed": 81379,
+      "active": 18433,
+      "recovered": 61285,
+      "dead": 1661,
+      "updatedTime": "10/09/2020 21:05:01",
       "note": "",
       "stateCode": "MP",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 2187,
+        "recovered": 1435,
+        "dead": 21,
+        "active": 731
       },
       "testing_data": {
-        "tested": 1587945,
+        "tested": 1611639,
         "positive": 0,
-        "negative": 1504474,
+        "negative": 1525981,
         "unconfirmed": 0,
-        "date": "09/09/2020",
-        "source": "https://twitter.com/healthminmp/status/1303717939791556610?s=20"
+        "date": "10/09/2020",
+        "source": ""
       }
     },
     "KL": {
@@ -381,12 +381,12 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 1978316,
-        "positive": 95918,
+        "tested": 2018921,
+        "positive": 99267,
         "negative": 0,
-        "unconfirmed": 6897,
-        "date": "09/09/2020",
-        "source": "https://dhs.kerala.gov.in/wp-content/uploads/2020/09/Bulletin-HFWD-English-September-09.pdf"
+        "unconfirmed": 7246,
+        "date": "10/09/2020",
+        "source": "https://dhs.kerala.gov.in/wp-content/uploads/2020/09/Bulletin-HFWD-English-September-10.pdf"
       }
     },
     "PB": {
@@ -559,18 +559,18 @@
     },
     "PY": {
       "name": "Puducherry",
-      "confirmed": 18084,
-      "active": 4770,
-      "recovered": 12967,
-      "dead": 347,
-      "updatedTime": "09/09/2020 19:36:53",
+      "confirmed": 18536,
+      "active": 4794,
+      "recovered": 13389,
+      "dead": 353,
+      "updatedTime": "10/09/2020 21:05:04",
       "note": "",
       "stateCode": "PY",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 452,
+        "recovered": 422,
+        "dead": 6,
+        "active": 24
       },
       "testing_data": {
         "tested": 90643,
@@ -587,7 +587,7 @@
       "active": 1633,
       "recovered": 5793,
       "dead": 44,
-      "updatedTime": "10/09/2020 20:42:54",
+      "updatedTime": "10/09/2020 20:47:58",
       "note": "",
       "stateCode": "MN",
       "today": {
@@ -635,7 +635,7 @@
       "active": 834,
       "recovered": 3781,
       "dead": 8,
-      "updatedTime": "10/09/2020 20:42:55",
+      "updatedTime": "10/09/2020 20:48:01",
       "note": "",
       "stateCode": "NL",
       "today": {
@@ -880,19 +880,19 @@
     }
   },
   "testing_data": {
-    "tested": 58395116,
-    "positive": 226242,
-    "negative": 16720319,
-    "unconfirmed": 37362
+    "tested": 58459415,
+    "positive": 229591,
+    "negative": 16741826,
+    "unconfirmed": 37711
   },
   "testing_data_imcr": {
     "tested": 52934433,
     "source": "http://twitter.com/ICMRDELHI/status/1303895987639918595"
   },
   "today": {
-    "confirmed": 55003,
-    "recovered": 41655,
-    "dead": 529,
-    "active": 12819
+    "confirmed": 57642,
+    "recovered": 46218,
+    "dead": 556,
+    "active": 10868
   }
 }
