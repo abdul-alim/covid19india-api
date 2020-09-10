@@ -1,9 +1,9 @@
 {
-  "confirmed": 4514649,
-  "recovered": 3507435,
-  "dead": 75574,
-  "active": 931032,
-  "updatedTime": "10/09/2020 20:04:49",
+  "confirmed": 4514748,
+  "recovered": 3507454,
+  "dead": 75575,
+  "active": 931111,
+  "updatedTime": "10/09/2020 20:18:50",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -35,7 +35,7 @@
       "active": 48479,
       "recovered": 429416,
       "dead": 8157,
-      "updatedTime": "10/09/2020 20:04:51",
+      "updatedTime": "10/09/2020 20:18:51",
       "note": "[July 22]: 444 backdated deceased entries added to Chennai in TN bulletin.\n2 deaths cross notified to other states from Chennai and Coimbatore.\n1 patient died after turning negative for infection in Chengalpattu.\nThese cases have been added to TN deceased tally",
       "stateCode": "TN",
       "today": {
@@ -83,7 +83,7 @@
       "active": 101537,
       "recovered": 322454,
       "dead": 6937,
-      "updatedTime": "10/09/2020 20:04:53",
+      "updatedTime": "10/09/2020 20:18:54",
       "note": "",
       "stateCode": "KA",
       "today": {
@@ -227,7 +227,7 @@
       "active": 16132,
       "recovered": 90330,
       "dead": 3165,
-      "updatedTime": "10/09/2020 20:04:55",
+      "updatedTime": "10/09/2020 20:18:55",
       "note": "",
       "stateCode": "GJ",
       "today": {
@@ -323,7 +323,7 @@
       "active": 18332,
       "recovered": 66705,
       "dead": 907,
-      "updatedTime": "10/09/2020 20:04:56",
+      "updatedTime": "10/09/2020 20:18:57",
       "note": "[Aug 2]: 21 Foreign Evacuees have been merged to Panchkula and 14 Italian tourists have been merged to Gurugram in HR bulletin.",
       "stateCode": "HR",
       "today": {
@@ -335,8 +335,8 @@
       "testing_data": {
         "tested": 1399628,
         "positive": 0,
-        "negative": 0,
-        "unconfirmed": 0,
+        "negative": 1306887,
+        "unconfirmed": 6797,
         "date": "10/09/2020",
         "source": "http://www.nhmharyana.gov.in/WriteReadData/userfiles/file/CoronaVirus/Daily%20Bulletin%20of%20COVID%2019%20as%20on%2010-09-20.pdf"
       }
@@ -419,7 +419,7 @@
       "active": 14074,
       "recovered": 34215,
       "dead": 845,
-      "updatedTime": "10/09/2020 20:04:58",
+      "updatedTime": "10/09/2020 20:18:59",
       "note": "",
       "stateCode": "JK",
       "today": {
@@ -768,18 +768,18 @@
     },
     "ML": {
       "name": "Meghalaya",
-      "confirmed": 3197,
-      "active": 1355,
-      "recovered": 1823,
-      "dead": 19,
+      "confirmed": 3296,
+      "active": 1434,
+      "recovered": 1842,
+      "dead": 20,
       "updatedTime": "09/09/2020 22:06:59",
       "note": "[June 17]: One case was identified to be false positive and has been removed from the confirmed cases by ML authorities.",
       "stateCode": "ML",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 99,
+        "recovered": 19,
+        "dead": 1,
+        "active": 79
       },
       "testing_data": {
         "tested": 104090,
@@ -882,17 +882,17 @@
   "testing_data": {
     "tested": 58340407,
     "positive": 226242,
-    "negative": 15413432,
-    "unconfirmed": 30565
+    "negative": 16720319,
+    "unconfirmed": 37362
   },
   "testing_data_imcr": {
     "tested": 52934433,
     "source": "http://twitter.com/ICMRDELHI/status/1303895987639918595"
   },
   "today": {
-    "confirmed": 51684,
-    "recovered": 38351,
-    "dead": 483,
-    "active": 12850
+    "confirmed": 51783,
+    "recovered": 38370,
+    "dead": 484,
+    "active": 12929
   }
 }
