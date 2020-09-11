@@ -1,9 +1,9 @@
 {
-  "confirmed": 4601997,
-  "recovered": 3578494,
-  "dead": 76676,
-  "active": 946185,
-  "updatedTime": "11/09/2020 19:39:53",
+  "confirmed": 4606149,
+  "recovered": 3586216,
+  "dead": 76744,
+  "active": 942547,
+  "updatedTime": "11/09/2020 20:14:52",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -83,7 +83,7 @@
       "active": 98326,
       "recovered": 334999,
       "dead": 7067,
-      "updatedTime": "11/09/2020 19:39:55",
+      "updatedTime": "11/09/2020 19:52:53",
       "note": "",
       "stateCode": "KA",
       "today": {
@@ -151,18 +151,18 @@
     },
     "WB": {
       "name": "West Bengal",
-      "confirmed": 193175,
-      "active": 23377,
-      "recovered": 166027,
-      "dead": 3771,
-      "updatedTime": "10/09/2020 20:47:55",
+      "confirmed": 196332,
+      "active": 23461,
+      "recovered": 169043,
+      "dead": 3828,
+      "updatedTime": "11/09/2020 20:09:54",
       "note": "",
       "stateCode": "WB",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 3157,
+        "recovered": 3016,
+        "dead": 57,
+        "active": 84
       },
       "testing_data": {
         "tested": 2330283,
@@ -296,17 +296,17 @@
     "OR": {
       "name": "Odisha",
       "confirmed": 143117,
-      "active": 34458,
-      "recovered": 108001,
+      "active": 30397,
+      "recovered": 112062,
       "dead": 658,
-      "updatedTime": "11/09/2020 11:24:56",
+      "updatedTime": "11/09/2020 20:09:56",
       "note": "[July 12th] :20 non-covid deaths reported in state dashboard are included in the deceased count\n[June 22nd]: NDRF/ODRF cases have been redistributed to districts based on state dashboard",
       "stateCode": "OR",
       "today": {
         "confirmed": 3996,
-        "recovered": 0,
+        "recovered": 4061,
         "dead": 14,
-        "active": 3982
+        "active": -79
       },
       "testing_data": {
         "tested": 2323641,
@@ -487,18 +487,18 @@
     },
     "UT": {
       "name": "Uttarakhand",
-      "confirmed": 28226,
-      "active": 8955,
-      "recovered": 18783,
-      "dead": 377,
-      "updatedTime": "10/09/2020 23:32:55",
+      "confirmed": 29221,
+      "active": 9294,
+      "recovered": 19428,
+      "dead": 388,
+      "updatedTime": "11/09/2020 20:13:55",
       "note": "",
       "stateCode": "UT",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 995,
+        "recovered": 645,
+        "dead": 11,
+        "active": 339
       },
       "testing_data": {
         "tested": 491505,
@@ -573,12 +573,12 @@
         "active": 84
       },
       "testing_data": {
-        "tested": 92904,
+        "tested": 95919,
         "positive": 0,
-        "negative": 71196,
-        "unconfirmed": 1153,
-        "date": "10/09/2020",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/2287"
+        "negative": 74136,
+        "unconfirmed": 701,
+        "date": "11/09/2020",
+        "source": "https://health.py.gov.in/"
       }
     },
     "MN": {
@@ -650,7 +650,7 @@
         "negative": 0,
         "unconfirmed": 0,
         "date": "11/09/2020",
-        "source": "https://covid19.nagaland.gov.in/health-main"
+        "source": "https://twitter.com/MyGovNagaland/status/1304409626834694146?s=20"
       }
     },
     "AR": {
@@ -880,19 +880,19 @@
     }
   },
   "testing_data": {
-    "tested": 59208901,
+    "tested": 59211916,
     "positive": 233138,
-    "negative": 13008963,
-    "unconfirmed": 36703
+    "negative": 13011903,
+    "unconfirmed": 36251
   },
   "testing_data_imcr": {
     "tested": 54097975,
     "source": "http://twitter.com/ICMRDELHI/status/1304256905628585984"
   },
   "today": {
-    "confirmed": 42272,
-    "recovered": 38511,
-    "dead": 372,
-    "active": 3389
+    "confirmed": 46424,
+    "recovered": 46233,
+    "dead": 440,
+    "active": -249
   }
 }
