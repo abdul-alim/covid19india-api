@@ -1,9 +1,9 @@
 {
-  "confirmed": 4615665,
-  "recovered": 3592726,
-  "dead": 76837,
-  "active": 945460,
-  "updatedTime": "11/09/2020 20:41:53",
+  "confirmed": 4621183,
+  "recovered": 3598732,
+  "dead": 76914,
+  "active": 944895,
+  "updatedTime": "11/09/2020 20:53:52",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -31,26 +31,26 @@
     },
     "TN": {
       "name": "Tamil Nadu",
-      "confirmed": 486052,
-      "active": 48479,
-      "recovered": 429416,
-      "dead": 8157,
-      "updatedTime": "10/09/2020 20:18:51",
+      "confirmed": 491571,
+      "active": 47915,
+      "recovered": 435422,
+      "dead": 8234,
+      "updatedTime": "11/09/2020 20:53:53",
       "note": "[July 22]: 444 backdated deceased entries added to Chennai in TN bulletin.\n2 deaths cross notified to other states from Chennai and Coimbatore.\n1 patient died after turning negative for infection in Chengalpattu.\nThese cases have been added to TN deceased tally",
       "stateCode": "TN",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 5519,
+        "recovered": 6006,
+        "dead": 77,
+        "active": -564
       },
       "testing_data": {
-        "tested": 5630323,
+        "tested": 5715216,
         "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "10/09/2020",
-        "source": "https://stopcorona.tn.gov.in/wp-content/uploads/2020/03/Media-Bulletin-10-09-20-COVID-19-6-PM-1.pdf%22%22"
+        "date": "11/09/2020",
+        "source": "https://twitter.com/ANI/status/1304436998074175491?s=20"
       }
     },
     "AP": {
@@ -223,18 +223,18 @@
     },
     "GJ": {
       "name": "Gujarat",
-      "confirmed": 110972,
-      "active": 16221,
+      "confirmed": 110971,
+      "active": 16220,
       "recovered": 91570,
       "dead": 3181,
-      "updatedTime": "11/09/2020 20:40:54",
+      "updatedTime": "11/09/2020 20:53:55",
       "note": "",
       "stateCode": "GJ",
       "today": {
-        "confirmed": 1345,
+        "confirmed": 1344,
         "recovered": 1240,
         "dead": 16,
-        "active": 89
+        "active": 88
       },
       "testing_data": {
         "tested": 3073534,
@@ -323,7 +323,7 @@
       "active": 18875,
       "recovered": 68525,
       "dead": 932,
-      "updatedTime": "11/09/2020 20:41:00",
+      "updatedTime": "11/09/2020 20:51:56",
       "note": "[Aug 2]: 21 Foreign Evacuees have been merged to Panchkula and 14 Italian tourists have been merged to Gurugram in HR bulletin.",
       "stateCode": "HR",
       "today": {
@@ -347,7 +347,7 @@
       "active": 18992,
       "recovered": 62936,
       "dead": 1691,
-      "updatedTime": "11/09/2020 20:41:02",
+      "updatedTime": "11/09/2020 20:51:58",
       "note": "",
       "stateCode": "MP",
       "today": {
@@ -371,7 +371,7 @@
       "active": 27878,
       "recovered": 73900,
       "dead": 411,
-      "updatedTime": "11/09/2020 20:41:03",
+      "updatedTime": "11/09/2020 20:51:59",
       "note": "Mahe native who expired in Kannur included in Kerala's deceased tally.\nOne patient absconded from Palakkad to TN and one patient returned back to Maharashtra. Some non-covid deaths (accident,cancer etc.) have also been reported in the bulletin.\nIn total 66 such cases have been reduced from active count",
       "stateCode": "KL",
       "today": {
@@ -515,7 +515,7 @@
       "active": 5104,
       "recovered": 18065,
       "dead": 276,
-      "updatedTime": "11/09/2020 20:41:05",
+      "updatedTime": "11/09/2020 20:52:01",
       "note": "",
       "stateCode": "GA",
       "today": {
@@ -782,12 +782,12 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 106064,
+        "tested": 109518,
         "positive": 0,
-        "negative": 102477,
-        "unconfirmed": 881,
-        "date": "10/09/2020",
-        "source": "https://www.syllad.com/meghalaya-1-more-dies-of-covid-19-99-test-positive/"
+        "negative": 104937,
+        "unconfirmed": 1137,
+        "date": "11/09/2020",
+        "source": "https://corona.meghalayagov.in/"
       }
     },
     "SK": {
@@ -880,19 +880,19 @@
     }
   },
   "testing_data": {
-    "tested": 59489743,
+    "tested": 59578090,
     "positive": 233138,
-    "negative": 13094553,
-    "unconfirmed": 37312
+    "negative": 13097013,
+    "unconfirmed": 37568
   },
   "testing_data_imcr": {
     "tested": 54097975,
     "source": "http://twitter.com/ICMRDELHI/status/1304256905628585984"
   },
   "today": {
-    "confirmed": 55940,
-    "recovered": 52743,
-    "dead": 533,
-    "active": 2664
+    "confirmed": 61458,
+    "recovered": 58749,
+    "dead": 610,
+    "active": 2099
   }
 }
