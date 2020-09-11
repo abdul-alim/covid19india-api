@@ -1,9 +1,9 @@
 {
-  "confirmed": 4587777,
-  "recovered": 3562791,
-  "dead": 76513,
-  "active": 947831,
-  "updatedTime": "11/09/2020 18:39:51",
+  "confirmed": 4592533,
+  "recovered": 3565949,
+  "dead": 76546,
+  "active": 949396,
+  "updatedTime": "11/09/2020 19:14:53",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -69,12 +69,12 @@
         "active": -1147
       },
       "testing_data": {
-        "tested": 4380991,
+        "tested": 4452128,
         "positive": 0,
-        "negative": 3843304,
+        "negative": 3904442,
         "unconfirmed": 0,
-        "date": "10/09/2020",
-        "source": "https://twitter.com/ArogyaAndhra/status/1304019820443099136?s=20"
+        "date": "11/09/2020",
+        "source": "https://twitter.com/ArogyaAndhra/status/1304388119874007041?s=20"
       }
     },
     "KA": {
@@ -103,18 +103,18 @@
     },
     "DL": {
       "name": "Delhi",
-      "confirmed": 205482,
-      "active": 25416,
-      "recovered": 175400,
-      "dead": 4666,
-      "updatedTime": "10/09/2020 19:39:53",
+      "confirmed": 209748,
+      "active": 26907,
+      "recovered": 178154,
+      "dead": 4687,
+      "updatedTime": "11/09/2020 19:14:55",
       "note": "[July 14]: Value for the total tests conducted has been reduced by 97008 in the state bulletin. Reason given : \"Reconciled with ICMR figures\". We have made the same change.\n[June 16]: 344 deceased cases have been retroactively added to DL bulletin.",
       "stateCode": "DL",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 4266,
+        "recovered": 2754,
+        "dead": 21,
+        "active": 1491
       },
       "testing_data": {
         "tested": 1962120,
@@ -559,18 +559,18 @@
     },
     "PY": {
       "name": "Puducherry",
-      "confirmed": 18536,
-      "active": 4794,
-      "recovered": 13389,
-      "dead": 353,
-      "updatedTime": "10/09/2020 21:19:57",
+      "confirmed": 19026,
+      "active": 4878,
+      "recovered": 13783,
+      "dead": 365,
+      "updatedTime": "11/09/2020 19:13:58",
       "note": "",
       "stateCode": "PY",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 490,
+        "recovered": 394,
+        "dead": 12,
+        "active": 84
       },
       "testing_data": {
         "tested": 92904,
@@ -632,17 +632,17 @@
     "NL": {
       "name": "Nagaland",
       "confirmed": 4946,
-      "active": 1144,
-      "recovered": 3781,
+      "active": 1134,
+      "recovered": 3791,
       "dead": 8,
-      "updatedTime": "11/09/2020 17:14:02",
+      "updatedTime": "11/09/2020 19:14:00",
       "note": "",
       "stateCode": "NL",
       "today": {
         "confirmed": 310,
-        "recovered": 0,
+        "recovered": 10,
         "dead": 0,
-        "active": 310
+        "active": 300
       },
       "testing_data": {
         "tested": 68141,
@@ -741,12 +741,12 @@
         "active": 33
       },
       "testing_data": {
-        "tested": 43701,
+        "tested": 45336,
         "positive": 0,
-        "negative": 36448,
-        "unconfirmed": 153,
-        "date": "10/09/2020",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/2286"
+        "negative": 37772,
+        "unconfirmed": 137,
+        "date": "11/09/2020",
+        "source": ""
       }
     },
     "DN": {
@@ -880,19 +880,19 @@
     }
   },
   "testing_data": {
-    "tested": 58974515,
+    "tested": 59047287,
     "positive": 230150,
-    "negative": 12946501,
-    "unconfirmed": 37457
+    "negative": 13008963,
+    "unconfirmed": 37441
   },
   "testing_data_imcr": {
     "tested": 54097975,
     "source": "http://twitter.com/ICMRDELHI/status/1304256905628585984"
   },
   "today": {
-    "confirmed": 28052,
-    "recovered": 22808,
-    "dead": 209,
-    "active": 5035
+    "confirmed": 32808,
+    "recovered": 25966,
+    "dead": 242,
+    "active": 6600
   }
 }
