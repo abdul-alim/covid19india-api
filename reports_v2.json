@@ -1,9 +1,9 @@
 {
-  "confirmed": 4688470,
-  "recovered": 3648534,
-  "dead": 77768,
-  "active": 961516,
-  "updatedTime": "12/09/2020 18:38:50",
+  "confirmed": 4693675,
+  "recovered": 3652495,
+  "dead": 77793,
+  "active": 962735,
+  "updatedTime": "12/09/2020 18:58:50",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -31,18 +31,18 @@
     },
     "TN": {
       "name": "Tamil Nadu",
-      "confirmed": 496182,
-      "active": 47043,
-      "recovered": 440829,
-      "dead": 8310,
-      "updatedTime": "12/09/2020 18:38:51",
+      "confirmed": 497066,
+      "active": 47110,
+      "recovered": 441649,
+      "dead": 8307,
+      "updatedTime": "12/09/2020 18:56:52",
       "note": "[July 22]: 444 backdated deceased entries added to Chennai in TN bulletin.\n2 deaths cross notified to other states from Chennai and Coimbatore.\n1 patient died after turning negative for infection in Chengalpattu.\nThese cases have been added to TN deceased tally",
       "stateCode": "TN",
       "today": {
-        "confirmed": 4611,
-        "recovered": 5407,
+        "confirmed": 5495,
+        "recovered": 6227,
         "dead": 76,
-        "active": -872
+        "active": -808
       },
       "testing_data": {
         "tested": 5715216,
@@ -69,12 +69,12 @@
         "active": -458
       },
       "testing_data": {
-        "tested": 4452128,
+        "tested": 4527593,
         "positive": 0,
-        "negative": 3904442,
+        "negative": 3970006,
         "unconfirmed": 0,
-        "date": "11/09/2020",
-        "source": "https://twitter.com/ArogyaAndhra/status/1304388119874007041?s=20"
+        "date": "12/09/2020",
+        "source": "https://twitter.com/ArogyaAndhra/status/1304760452983918595?s=20"
       }
     },
     "KA": {
@@ -103,18 +103,18 @@
     },
     "DL": {
       "name": "Delhi",
-      "confirmed": 209748,
-      "active": 26907,
-      "recovered": 178154,
-      "dead": 4687,
-      "updatedTime": "11/09/2020 19:21:54",
+      "confirmed": 214069,
+      "active": 28059,
+      "recovered": 181295,
+      "dead": 4715,
+      "updatedTime": "12/09/2020 18:58:51",
       "note": "[July 14]: Value for the total tests conducted has been reduced by 97008 in the state bulletin. Reason given : \"Reconciled with ICMR figures\". We have made the same change.\n[June 16]: 344 deceased cases have been retroactively added to DL bulletin.",
       "stateCode": "DL",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 4321,
+        "recovered": 3141,
+        "dead": 28,
+        "active": 1152
       },
       "testing_data": {
         "tested": 2022700,
@@ -131,7 +131,7 @@
       "active": 67955,
       "recovered": 233527,
       "dead": 4349,
-      "updatedTime": "12/09/2020 18:38:53",
+      "updatedTime": "12/09/2020 18:39:53",
       "note": "",
       "stateCode": "UP",
       "today": {
@@ -141,12 +141,12 @@
         "active": 634
       },
       "testing_data": {
-        "tested": 7217980,
+        "tested": 7358472,
         "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "11/09/2020",
-        "source": "https://twitter.com/ShishirGoUP/status/1304299509711683584?s=20"
+        "date": "12/09/2020",
+        "source": "https://twitter.com/ShishirGoUP/status/1304748256652484608?s=20"
       }
     },
     "WB": {
@@ -419,7 +419,7 @@
       "active": 16261,
       "recovered": 35285,
       "dead": 864,
-      "updatedTime": "12/09/2020 18:38:55",
+      "updatedTime": "12/09/2020 18:52:52",
       "note": "",
       "stateCode": "JK",
       "today": {
@@ -429,12 +429,12 @@
         "active": 1092
       },
       "testing_data": {
-        "tested": 1177773,
+        "tested": 1203799,
         "positive": 0,
-        "negative": 1127061,
+        "negative": 1151389,
         "unconfirmed": 0,
-        "date": "11/09/2020",
-        "source": "https://twitter.com/diprjk/status/1304397634019323904?s=20"
+        "date": "12/09/2020",
+        "source": "https://twitter.com/diprjk/status/1304763938563792903?s=20"
       }
     },
     "JH": {
@@ -880,9 +880,9 @@
     }
   },
   "testing_data": {
-    "tested": 60085982,
+    "tested": 60327965,
     "positive": 235020,
-    "negative": 13120012,
+    "negative": 13209904,
     "unconfirmed": 36075
   },
   "testing_data_imcr": {
@@ -890,9 +890,9 @@
     "source": "https://www.icmr.gov.in/pdf/covid/update/ICMR_testing_update_12Sept2020.pdf"
   },
   "today": {
-    "confirmed": 31091,
-    "recovered": 27096,
-    "dead": 262,
-    "active": 3733
+    "confirmed": 36296,
+    "recovered": 31057,
+    "dead": 290,
+    "active": 4949
   }
 }
