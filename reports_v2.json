@@ -1,9 +1,9 @@
 {
-  "confirmed": 4785798,
-  "recovered": 3729494,
-  "dead": 78913,
-  "active": 976720,
-  "updatedTime": "13/09/2020 18:09:55",
+  "confirmed": 4787933,
+  "recovered": 3730252,
+  "dead": 78925,
+  "active": 978085,
+  "updatedTime": "13/09/2020 18:24:56",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -32,17 +32,17 @@
     "TN": {
       "name": "Tamil Nadu",
       "confirmed": 502759,
-      "active": 47009,
+      "active": 47012,
       "recovered": 447366,
-      "dead": 8384,
-      "updatedTime": "12/09/2020 18:56:52",
+      "dead": 8381,
+      "updatedTime": "13/09/2020 18:20:56",
       "note": "[July 22]: 444 backdated deceased entries added to Chennai in TN bulletin.\n2 deaths cross notified to other states from Chennai and Coimbatore.\n1 patient died after turning negative for infection in Chengalpattu.\nThese cases have been added to TN deceased tally",
       "stateCode": "TN",
       "today": {
         "confirmed": 5693,
         "recovered": 5717,
-        "dead": 50,
-        "active": -74
+        "dead": 74,
+        "active": -98
       },
       "testing_data": {
         "tested": 5803778,
@@ -59,7 +59,7 @@
       "active": 95072,
       "recovered": 467139,
       "dead": 4912,
-      "updatedTime": "13/09/2020 18:09:56",
+      "updatedTime": "13/09/2020 18:16:56",
       "note": "Total includes patients from other states and a new category \"Foreign Evacuees\" which is now reported in AP bulletin.",
       "stateCode": "AP",
       "today": {
@@ -415,18 +415,18 @@
     },
     "JK": {
       "name": "Jammu and Kashmir",
-      "confirmed": 52410,
-      "active": 16261,
-      "recovered": 35285,
-      "dead": 864,
-      "updatedTime": "12/09/2020 18:52:52",
+      "confirmed": 54096,
+      "active": 17481,
+      "recovered": 35737,
+      "dead": 878,
+      "updatedTime": "13/09/2020 18:20:57",
       "note": "",
       "stateCode": "JK",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 1686,
+        "recovered": 452,
+        "dead": 14,
+        "active": 1220
       },
       "testing_data": {
         "tested": 1203799,
@@ -727,18 +727,18 @@
     },
     "CH": {
       "name": "Chandigarh",
-      "confirmed": 7542,
-      "active": 2586,
-      "recovered": 4864,
-      "dead": 89,
-      "updatedTime": "12/09/2020 19:52:53",
+      "confirmed": 7991,
+      "active": 2728,
+      "recovered": 5170,
+      "dead": 90,
+      "updatedTime": "13/09/2020 18:25:01",
       "note": "",
       "stateCode": "CH",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 449,
+        "recovered": 306,
+        "dead": 1,
+        "active": 142
       },
       "testing_data": {
         "tested": 47306,
@@ -755,7 +755,7 @@
       "active": 240,
       "recovered": 2441,
       "dead": 2,
-      "updatedTime": "13/09/2020 18:09:59",
+      "updatedTime": "13/09/2020 18:17:01",
       "note": "",
       "stateCode": "DN",
       "today": {
@@ -890,9 +890,9 @@
     "source": "https://www.icmr.gov.in/pdf/covid/update/ICMR_testing_update_13Sept2020.pdf"
   },
   "today": {
-    "confirmed": 34010,
-    "recovered": 30196,
-    "dead": 272,
-    "active": 3542
+    "confirmed": 36145,
+    "recovered": 30954,
+    "dead": 311,
+    "active": 4880
   }
 }
