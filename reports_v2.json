@@ -1,24 +1,24 @@
 {
-  "confirmed": 4811712,
-  "recovered": 3749851,
-  "dead": 79224,
-  "active": 981965,
-  "updatedTime": "13/09/2020 21:17:56",
+  "confirmed": 4834286,
+  "recovered": 3764765,
+  "dead": 79659,
+  "active": 989188,
+  "updatedTime": "13/09/2020 21:39:54",
   "states": {
     "MH": {
       "name": "Maharashtra",
-      "confirmed": 1037765,
-      "active": 279768,
-      "recovered": 728512,
-      "dead": 29115,
-      "updatedTime": "12/09/2020 22:14:52",
+      "confirmed": 1060308,
+      "active": 290344,
+      "recovered": 740061,
+      "dead": 29531,
+      "updatedTime": "13/09/2020 21:39:55",
       "note": "[Sep 9] : After reconciling COVID-19 cases in Mumbai, owing to the removal of duplicates and change of addresses as per the original residence, 239 cases have been removed from the progressive figures. \n[Aug 15] : MH bulletin has reduced 819 confirmed cases in Mumbai and 72 confirmed cases from 'Other States' from the tally\n[Jun 16] : 1328 deceased cases have been retroactively added to MH bulletin.\n[Jun 20] : 69 deceased cases have been reduced based on state bulletin.",
       "stateCode": "MH",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 22543,
+        "recovered": 11549,
+        "dead": 416,
+        "active": 10578
       },
       "testing_data": {
         "tested": 5253676,
@@ -248,17 +248,17 @@
     "AS": {
       "name": "Assam",
       "confirmed": 140471,
-      "active": 29132,
+      "active": 29116,
       "recovered": 110883,
-      "dead": 453,
-      "updatedTime": "12/09/2020 22:34:55",
+      "dead": 469,
+      "updatedTime": "13/09/2020 21:39:56",
       "note": "Includes 1 case from Nagaland",
       "stateCode": "AS",
       "today": {
         "confirmed": 0,
         "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "dead": 16,
+        "active": -16
       },
       "testing_data": {
         "tested": 2702280,
@@ -296,17 +296,17 @@
     "OR": {
       "name": "Odisha",
       "confirmed": 150807,
-      "active": 34849,
-      "recovered": 115279,
+      "active": 31486,
+      "recovered": 118642,
       "dead": 679,
-      "updatedTime": "13/09/2020 11:45:55",
+      "updatedTime": "13/09/2020 21:39:58",
       "note": "[July 12th] :20 non-covid deaths reported in state dashboard are included in the deceased count\n[June 22nd]: NDRF/ODRF cases have been redistributed to districts based on state dashboard",
       "stateCode": "OR",
       "today": {
         "confirmed": 3913,
-        "recovered": 0,
+        "recovered": 3363,
         "dead": 10,
-        "active": 3903
+        "active": 540
       },
       "testing_data": {
         "tested": 2423124,
@@ -792,18 +792,18 @@
     },
     "SK": {
       "name": "Sikkim",
-      "confirmed": 2055,
-      "active": 539,
-      "recovered": 1503,
-      "dead": 13,
-      "updatedTime": "12/09/2020 23:37:57",
+      "confirmed": 2086,
+      "active": 565,
+      "recovered": 1505,
+      "dead": 16,
+      "updatedTime": "13/09/2020 21:39:59",
       "note": "",
       "stateCode": "SK",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 31,
+        "recovered": 2,
+        "dead": 3,
+        "active": 26
       },
       "testing_data": {
         "tested": 45075,
@@ -890,9 +890,9 @@
     "source": "https://www.icmr.gov.in/pdf/covid/update/ICMR_testing_update_13Sept2020.pdf"
   },
   "today": {
-    "confirmed": 59924,
-    "recovered": 50553,
-    "dead": 610,
-    "active": 8761
+    "confirmed": 82498,
+    "recovered": 65467,
+    "dead": 1045,
+    "active": 15986
   }
 }
