@@ -1,9 +1,9 @@
 {
-  "confirmed": 4788593,
-  "recovered": 3730949,
+  "confirmed": 4788602,
+  "recovered": 3730968,
   "dead": 78931,
-  "active": 978042,
-  "updatedTime": "13/09/2020 19:23:52",
+  "active": 978031,
+  "updatedTime": "13/09/2020 19:39:53",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -69,12 +69,12 @@
         "active": -661
       },
       "testing_data": {
-        "tested": 4527593,
+        "tested": 4599826,
         "positive": 0,
-        "negative": 3970006,
+        "negative": 4032703,
         "unconfirmed": 0,
-        "date": "12/09/2020",
-        "source": "https://twitter.com/ArogyaAndhra/status/1304760452983918595?s=20"
+        "date": "13/09/2020",
+        "source": "https://twitter.com/ArogyaAndhra/status/1305139963806146561?s=20"
       }
     },
     "KA": {
@@ -117,12 +117,12 @@
         "active": 803
       },
       "testing_data": {
-        "tested": 2082776,
+        "tested": 2139432,
         "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "12/09/2020",
-        "source": "https://twitter.com/ANI/status/1304785999625687042?s=20"
+        "date": "13/09/2020",
+        "source": "https://delhifightscorona.in/"
       }
     },
     "UP": {
@@ -431,7 +431,7 @@
       "testing_data": {
         "tested": 1231698,
         "positive": 0,
-        "negative": 0,
+        "negative": 1177602,
         "unconfirmed": 0,
         "date": "13/09/2020",
         "source": "https://twitter.com/diprjk/status/1305123629076631553?s=20"
@@ -525,12 +525,12 @@
         "active": -150
       },
       "testing_data": {
-        "tested": 223892,
+        "tested": 225051,
         "positive": 0,
         "negative": 0,
-        "unconfirmed": 411,
-        "date": "12/09/2020",
-        "source": "https://www.goa.gov.in/wp-content/uploads/2020/09/Status-Of-COVID-19-In-Goa-Dated-12-09-2020.pdf"
+        "unconfirmed": 234,
+        "date": "13/09/2020",
+        "source": "https://twitter.com/ANI/status/1305139972467503107?s=20"
       }
     },
     "TR": {
@@ -632,10 +632,10 @@
     "NL": {
       "name": "Nagaland",
       "confirmed": 5083,
-      "active": 1173,
+      "active": 1172,
       "recovered": 3883,
       "dead": 8,
-      "updatedTime": "13/09/2020 17:35:59",
+      "updatedTime": "13/09/2020 19:39:55",
       "note": "",
       "stateCode": "NL",
       "today": {
@@ -751,18 +751,18 @@
     },
     "DN": {
       "name": "Dadra and Nagar Haveli and Daman and Diu",
-      "confirmed": 2712,
-      "active": 240,
-      "recovered": 2441,
+      "confirmed": 2721,
+      "active": 230,
+      "recovered": 2460,
       "dead": 2,
-      "updatedTime": "13/09/2020 18:17:01",
+      "updatedTime": "13/09/2020 19:39:56",
       "note": "",
       "stateCode": "DN",
       "today": {
-        "confirmed": 6,
-        "recovered": 23,
+        "confirmed": 15,
+        "recovered": 42,
         "dead": 0,
-        "active": -17
+        "active": -27
       },
       "isUnknown": true
     },
@@ -772,7 +772,7 @@
       "active": 1623,
       "recovered": 2075,
       "dead": 26,
-      "updatedTime": "13/09/2020 19:23:56",
+      "updatedTime": "13/09/2020 19:33:59",
       "note": "[June 17]: One case was identified to be false positive and has been removed from the confirmed cases by ML authorities.",
       "stateCode": "ML",
       "today": {
@@ -880,19 +880,19 @@
     }
   },
   "testing_data": {
-    "tested": 61506821,
+    "tested": 61636869,
     "positive": 239899,
-    "negative": 12224341,
-    "unconfirmed": 38815
+    "negative": 13464640,
+    "unconfirmed": 38638
   },
   "testing_data_imcr": {
     "tested": 56260928,
     "source": "https://www.icmr.gov.in/pdf/covid/update/ICMR_testing_update_13Sept2020.pdf"
   },
   "today": {
-    "confirmed": 36805,
-    "recovered": 31651,
+    "confirmed": 36814,
+    "recovered": 31670,
     "dead": 317,
-    "active": 4837
+    "active": 4827
   }
 }
