@@ -1,9 +1,9 @@
 {
-  "confirmed": 4865292,
-  "recovered": 3797622,
-  "dead": 79915,
-  "active": 987081,
-  "updatedTime": "14/09/2020 18:27:56",
+  "confirmed": 4875502,
+  "recovered": 3807439,
+  "dead": 80011,
+  "active": 987378,
+  "updatedTime": "14/09/2020 18:58:00",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -31,26 +31,26 @@
     },
     "TN": {
       "name": "Tamil Nadu",
-      "confirmed": 502759,
-      "active": 47012,
-      "recovered": 447366,
-      "dead": 8381,
-      "updatedTime": "13/09/2020 18:28:54",
+      "confirmed": 508511,
+      "active": 46912,
+      "recovered": 453165,
+      "dead": 8434,
+      "updatedTime": "14/09/2020 18:58:02",
       "note": "[July 22]: 444 backdated deceased entries added to Chennai in TN bulletin.\n2 deaths cross notified to other states from Chennai and Coimbatore.\n1 patient died after turning negative for infection in Chengalpattu.\nThese cases have been added to TN deceased tally",
       "stateCode": "TN",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 5752,
+        "recovered": 5799,
+        "dead": 53,
+        "active": -100
       },
       "testing_data": {
-        "tested": 5888086,
+        "tested": 5968209,
         "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "13/09/2020",
-        "source": "https://stopcorona.tn.gov.in/wp-content/uploads/2020/09/Media-Bulletin-13.09.2020-24-Pages-English-463-KB.pdf%22"
+        "date": "14/09/2020",
+        "source": "https://stopcorona.tn.gov.in/wp-content/uploads/2020/09/Media-Bulletin-14.09.2020-22-Pages-English-782-KB.pdf"
       }
     },
     "AP": {
@@ -103,18 +103,18 @@
     },
     "DL": {
       "name": "Delhi",
-      "confirmed": 218304,
-      "active": 28862,
-      "recovered": 184698,
-      "dead": 4744,
-      "updatedTime": "13/09/2020 17:35:56",
+      "confirmed": 221533,
+      "active": 28691,
+      "recovered": 188072,
+      "dead": 4770,
+      "updatedTime": "14/09/2020 18:58:05",
       "note": "[July 14]: Value for the total tests conducted has been reduced by 97008 in the state bulletin. Reason given : \"Reconciled with ICMR figures\". We have made the same change.\n[June 16]: 344 deceased cases have been retroactively added to DL bulletin.",
       "stateCode": "DL",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 3229,
+        "recovered": 3374,
+        "dead": 26,
+        "active": -171
       },
       "testing_data": {
         "tested": 2139432,
@@ -415,26 +415,26 @@
     },
     "JK": {
       "name": "Jammu and Kashmir",
-      "confirmed": 54096,
-      "active": 17481,
-      "recovered": 35737,
-      "dead": 878,
-      "updatedTime": "13/09/2020 18:28:56",
+      "confirmed": 55325,
+      "active": 18049,
+      "recovered": 36381,
+      "dead": 895,
+      "updatedTime": "14/09/2020 18:58:07",
       "note": "",
       "stateCode": "JK",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 1229,
+        "recovered": 644,
+        "dead": 17,
+        "active": 568
       },
       "testing_data": {
-        "tested": 1231698,
+        "tested": 1248495,
         "positive": 0,
-        "negative": 1177602,
+        "negative": 1193170,
         "unconfirmed": 0,
-        "date": "13/09/2020",
-        "source": "https://twitter.com/diprjk/status/1305123629076631553?s=20"
+        "date": "14/09/2020",
+        "source": "https://twitter.com/diprjk/status/1305494202692726785?s=20"
       }
     },
     "JH": {
@@ -597,12 +597,12 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 190914,
+        "tested": 193048,
         "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "13/09/2020",
-        "source": "https://twitter.com/DiprManipur/status/1305126873232359424?s=20"
+        "date": "14/09/2020",
+        "source": "https://twitter.com/DiprManipur/status/1305498266914578433?s=20"
       }
     },
     "HP": {
@@ -880,9 +880,9 @@
     }
   },
   "testing_data": {
-    "tested": 62526827,
+    "tested": 62625881,
     "positive": 1304979,
-    "negative": 13636417,
+    "negative": 13651985,
     "unconfirmed": 31979
   },
   "testing_data_imcr": {
@@ -890,9 +890,9 @@
     "source": "https://www.icmr.gov.in/pdf/covid/update/ICMR_testing_update_14Sept2020.pdf"
   },
   "today": {
-    "confirmed": 20289,
-    "recovered": 20578,
-    "dead": 161,
-    "active": -450
+    "confirmed": 30499,
+    "recovered": 30395,
+    "dead": 257,
+    "active": -153
   }
 }
