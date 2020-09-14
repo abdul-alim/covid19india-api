@@ -1,9 +1,9 @@
 {
-  "confirmed": 4875502,
-  "recovered": 3807439,
-  "dead": 80011,
-  "active": 987378,
-  "updatedTime": "14/09/2020 18:58:00",
+  "confirmed": 4878042,
+  "recovered": 3809549,
+  "dead": 80026,
+  "active": 987793,
+  "updatedTime": "14/09/2020 19:24:58",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -35,7 +35,7 @@
       "active": 46912,
       "recovered": 453165,
       "dead": 8434,
-      "updatedTime": "14/09/2020 18:58:02",
+      "updatedTime": "14/09/2020 19:07:13",
       "note": "[July 22]: 444 backdated deceased entries added to Chennai in TN bulletin.\n2 deaths cross notified to other states from Chennai and Coimbatore.\n1 patient died after turning negative for infection in Chengalpattu.\nThese cases have been added to TN deceased tally",
       "stateCode": "TN",
       "today": {
@@ -107,7 +107,7 @@
       "active": 28691,
       "recovered": 188072,
       "dead": 4770,
-      "updatedTime": "14/09/2020 18:58:05",
+      "updatedTime": "14/09/2020 19:07:15",
       "note": "[July 14]: Value for the total tests conducted has been reduced by 97008 in the state bulletin. Reason given : \"Reconciled with ICMR figures\". We have made the same change.\n[June 16]: 344 deceased cases have been retroactively added to DL bulletin.",
       "stateCode": "DL",
       "today": {
@@ -367,26 +367,26 @@
     },
     "KL": {
       "name": "Kerala",
-      "confirmed": 108279,
-      "active": 30074,
-      "recovered": 77699,
-      "dead": 440,
-      "updatedTime": "13/09/2020 20:52:00",
+      "confirmed": 110819,
+      "active": 30489,
+      "recovered": 79809,
+      "dead": 455,
+      "updatedTime": "14/09/2020 19:25:00",
       "note": "Mahe native who expired in Kannur included in Kerala's deceased tally.\nOne patient absconded from Palakkad to TN and one patient returned back to Maharashtra. Some non-covid deaths (accident,cancer etc.) have also been reported in the bulletin.\nIn total 66 such cases have been reduced from active count",
       "stateCode": "KL",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 2540,
+        "recovered": 2110,
+        "dead": 15,
+        "active": 415
       },
       "testing_data": {
-        "tested": 2132795,
-        "positive": 108279,
+        "tested": 2152585,
+        "positive": 110819,
         "negative": 0,
-        "unconfirmed": 4765,
-        "date": "13/09/2020",
-        "source": "https://dhs.kerala.gov.in/wp-content/uploads/2020/09/Bulletin-HFWD-English-September-13.pdf"
+        "unconfirmed": 3166,
+        "date": "14/09/2020",
+        "source": "https://dhs.kerala.gov.in/%e0%b4%a1%e0%b5%86%e0%b4%af%e0%b4%bf%e0%b4%b2%e0%b4%bf-%e0%b4%ac%e0%b5%81%e0%b4%b3%e0%b5%8d%e0%b4%b3%e0%b4%b1%e0%b5%8d%e0%b4%b1%e0%b4%bf%e0%b4%a8%e0%b5%8d%e2%80%8d/"
       }
     },
     "PB": {
@@ -405,12 +405,12 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 1391662,
+        "tested": 1410759,
         "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "13/09/2020",
-        "source": "https://twitter.com/ANI/status/1305147464354271234?s=20"
+        "date": "14/09/2020",
+        "source": "https://twitter.com/ANI/status/1305501526576820224?s=20"
       }
     },
     "JK": {
@@ -419,7 +419,7 @@
       "active": 18049,
       "recovered": 36381,
       "dead": 895,
-      "updatedTime": "14/09/2020 18:58:07",
+      "updatedTime": "14/09/2020 19:07:18",
       "note": "",
       "stateCode": "JK",
       "today": {
@@ -741,12 +741,12 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 49451,
+        "tested": 51718,
         "positive": 0,
-        "negative": 41168,
-        "unconfirmed": 176,
-        "date": "13/09/2020",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/2347"
+        "negative": 43171,
+        "unconfirmed": 143,
+        "date": "14/09/2020",
+        "source": "https://twitter.com/ANI/status/1305500519134306306?s=20"
       }
     },
     "DN": {
@@ -880,19 +880,19 @@
     }
   },
   "testing_data": {
-    "tested": 62626332,
-    "positive": 1304979,
-    "negative": 13651985,
-    "unconfirmed": 31979
+    "tested": 62667486,
+    "positive": 1307519,
+    "negative": 13653988,
+    "unconfirmed": 30347
   },
   "testing_data_imcr": {
     "tested": 57239428,
     "source": "https://www.icmr.gov.in/pdf/covid/update/ICMR_testing_update_14Sept2020.pdf"
   },
   "today": {
-    "confirmed": 30499,
-    "recovered": 30395,
-    "dead": 257,
-    "active": -153
+    "confirmed": 33039,
+    "recovered": 32505,
+    "dead": 272,
+    "active": 262
   }
 }
