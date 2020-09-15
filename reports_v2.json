@@ -1,9 +1,9 @@
 {
-  "confirmed": 4953638,
-  "recovered": 3877297,
-  "dead": 81088,
-  "active": 994560,
-  "updatedTime": "15/09/2020 19:20:52",
+  "confirmed": 4963097,
+  "recovered": 3887371,
+  "dead": 81168,
+  "active": 993865,
+  "updatedTime": "15/09/2020 19:42:53",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -55,18 +55,18 @@
     },
     "AP": {
       "name": "Andhra Pradesh",
-      "confirmed": 575079,
-      "active": 93204,
-      "recovered": 476903,
-      "dead": 4972,
-      "updatedTime": "14/09/2020 18:08:59",
+      "confirmed": 583925,
+      "active": 92353,
+      "recovered": 486531,
+      "dead": 5041,
+      "updatedTime": "15/09/2020 19:42:54",
       "note": "Total includes patients from other states and a new category \"Foreign Evacuees\" which is now reported in AP bulletin.",
       "stateCode": "AP",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 8846,
+        "recovered": 9628,
+        "dead": 69,
+        "active": -851
       },
       "testing_data": {
         "tested": 4661355,
@@ -107,7 +107,7 @@
       "active": 29787,
       "recovered": 191203,
       "dead": 4806,
-      "updatedTime": "15/09/2020 19:20:53",
+      "updatedTime": "15/09/2020 19:28:56",
       "note": "[July 14]: Value for the total tests conducted has been reduced by 97008 in the state bulletin. Reason given : \"Reconciled with ICMR figures\". We have made the same change.\n[June 16]: 344 deceased cases have been retroactively added to DL bulletin.",
       "stateCode": "DL",
       "today": {
@@ -501,28 +501,28 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 528897,
+        "tested": 541910,
         "positive": 0,
-        "negative": 474247,
-        "unconfirmed": 11208,
-        "date": "14/09/2020",
-        "source": "https://twitter.com/ANI/status/1305510195720847361?s=20"
+        "negative": 484436,
+        "unconfirmed": 12611,
+        "date": "15/09/2020",
+        "source": "https://twitter.com/ANI/status/1305868515845582849?s=20"
       }
     },
     "GA": {
       "name": "Goa",
-      "confirmed": 24898,
-      "active": 4946,
-      "recovered": 19648,
-      "dead": 304,
-      "updatedTime": "15/09/2020 00:01:59",
+      "confirmed": 25511,
+      "active": 5102,
+      "recovered": 20094,
+      "dead": 315,
+      "updatedTime": "15/09/2020 19:41:56",
       "note": "",
       "stateCode": "GA",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 613,
+        "recovered": 446,
+        "dead": 11,
+        "active": 156
       },
       "testing_data": {
         "tested": 227810,
@@ -563,7 +563,7 @@
       "active": 4674,
       "recovered": 15522,
       "dead": 405,
-      "updatedTime": "15/09/2020 19:20:55",
+      "updatedTime": "15/09/2020 19:28:58",
       "note": "",
       "stateCode": "PY",
       "today": {
@@ -635,7 +635,7 @@
       "active": 1269,
       "recovered": 3927,
       "dead": 10,
-      "updatedTime": "15/09/2020 19:20:56",
+      "updatedTime": "15/09/2020 19:28:59",
       "note": "",
       "stateCode": "NL",
       "today": {
@@ -755,7 +755,7 @@
       "active": 231,
       "recovered": 2489,
       "dead": 2,
-      "updatedTime": "15/09/2020 19:20:57",
+      "updatedTime": "15/09/2020 19:29:01",
       "note": "",
       "stateCode": "DN",
       "today": {
@@ -820,7 +820,7 @@
       "active": 545,
       "recovered": 923,
       "dead": 0,
-      "updatedTime": "15/09/2020 19:20:59",
+      "updatedTime": "15/09/2020 19:29:02",
       "note": "",
       "stateCode": "MZ",
       "today": {
@@ -880,19 +880,19 @@
     }
   },
   "testing_data": {
-    "tested": 63687933,
+    "tested": 63700946,
     "positive": 1329664,
-    "negative": 13783944,
-    "unconfirmed": 35887
+    "negative": 13794133,
+    "unconfirmed": 37290
   },
   "testing_data_imcr": {
     "tested": 58312273,
     "source": "http://twitter.com/ICMRDELHI/status/1305699536300511232"
   },
   "today": {
-    "confirmed": 26724,
-    "recovered": 21051,
-    "dead": 280,
-    "active": 5393
+    "confirmed": 36183,
+    "recovered": 31125,
+    "dead": 360,
+    "active": 4698
   }
 }
