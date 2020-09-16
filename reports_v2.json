@@ -1,9 +1,9 @@
 {
-  "confirmed": 5060818,
-  "recovered": 3976413,
-  "dead": 82504,
-  "active": 1001186,
-  "updatedTime": "16/09/2020 19:30:58",
+  "confirmed": 5062185,
+  "recovered": 3977860,
+  "dead": 82516,
+  "active": 1001094,
+  "updatedTime": "16/09/2020 20:25:00",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -223,26 +223,26 @@
     },
     "GJ": {
       "name": "Gujarat",
-      "confirmed": 116345,
-      "active": 16291,
-      "recovered": 96809,
-      "dead": 3245,
-      "updatedTime": "15/09/2020 20:53:56",
+      "confirmed": 117712,
+      "active": 16199,
+      "recovered": 98256,
+      "dead": 3257,
+      "updatedTime": "16/09/2020 20:25:03",
       "note": "",
       "stateCode": "GJ",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 1367,
+        "recovered": 1447,
+        "dead": 12,
+        "active": -92
       },
       "testing_data": {
-        "tested": 3438500,
-        "positive": 116345,
+        "tested": 3523653,
+        "positive": 117709,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "15/09/2020",
-        "source": "https://twitter.com/PIBAhmedabad/status/1305880048310788097"
+        "date": "16/09/2020",
+        "source": "https://twitter.com/PIBAhmedabad/status/1306241284865024000"
       }
     },
     "AS": {
@@ -405,12 +405,12 @@
         "active": -132
       },
       "testing_data": {
-        "tested": 1439583,
+        "tested": 1467301,
         "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "15/09/2020",
-        "source": "http://diprpunjab.gov.in/sites/default/files/Media bulletin 15-09-2020.pdf"
+        "date": "16/09/2020",
+        "source": "https://twitter.com/ANI/status/1306243792190746626?s=20"
       }
     },
     "JK": {
@@ -504,7 +504,7 @@
         "tested": 555071,
         "positive": 0,
         "negative": 494971,
-        "unconfirmed": 10506,
+        "unconfirmed": 13647,
         "date": "16/09/2020",
         "source": "https://twitter.com/ANI/status/1306229180351361025?s=20"
       }
@@ -880,19 +880,19 @@
     }
   },
   "testing_data": {
-    "tested": 65130396,
-    "positive": 1379173,
+    "tested": 65243267,
+    "positive": 1380537,
     "negative": 14108227,
-    "unconfirmed": 40154
+    "unconfirmed": 43295
   },
   "testing_data_imcr": {
     "tested": 59429115,
     "source": "https://www.icmr.gov.in/pdf/covid/update/ICMR_testing_update_16Sept2020.pdf"
   },
   "today": {
-    "confirmed": 42784,
-    "recovered": 37298,
-    "dead": 413,
-    "active": 5073
+    "confirmed": 44151,
+    "recovered": 38745,
+    "dead": 425,
+    "active": 4981
   }
 }
