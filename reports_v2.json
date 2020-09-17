@@ -1,9 +1,9 @@
 {
-  "confirmed": 5203572,
-  "recovered": 4096504,
-  "dead": 84319,
-  "active": 1022015,
-  "updatedTime": "17/09/2020 21:56:01",
+  "confirmed": 5203967,
+  "recovered": 4096892,
+  "dead": 84326,
+  "active": 1022013,
+  "updatedTime": "17/09/2020 22:05:02",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -11,7 +11,7 @@
       "active": 301752,
       "recovered": 812354,
       "dead": 31351,
-      "updatedTime": "17/09/2020 21:56:04",
+      "updatedTime": "17/09/2020 22:05:05",
       "note": "[Sep 9] : After reconciling COVID-19 cases in Mumbai, owing to the removal of duplicates and change of addresses as per the original residence, 239 cases have been removed from the progressive figures. \n[Aug 15] : MH bulletin has reduced 819 confirmed cases in Mumbai and 72 confirmed cases from 'Other States' from the tally\n[Jun 16] : 1328 deceased cases have been retroactively added to MH bulletin.\n[Jun 20] : 69 deceased cases have been reduced based on state bulletin.",
       "stateCode": "MH",
       "today": {
@@ -107,7 +107,7 @@
       "active": 34927,
       "recovered": 194903,
       "dead": 4871,
-      "updatedTime": "17/09/2020 21:56:07",
+      "updatedTime": "17/09/2020 22:05:08",
       "note": "[July 14]: Value for the total tests conducted has been reduced by 97008 in the state bulletin. Reason given : \"Reconciled with ICMR figures\". We have made the same change.\n[June 16]: 344 deceased cases have been retroactively added to DL bulletin.",
       "stateCode": "DL",
       "today": {
@@ -122,7 +122,7 @@
         "negative": 0,
         "unconfirmed": 0,
         "date": "17/09/2020",
-        "source": "https://delhifightscorona.in/"
+        "source": "https://twitter.com/ANI/status/1306613377721012224?s=20"
       }
     },
     "UP": {
@@ -155,7 +155,7 @@
       "active": 24336,
       "recovered": 187061,
       "dead": 4183,
-      "updatedTime": "17/09/2020 21:56:10",
+      "updatedTime": "17/09/2020 22:05:11",
       "note": "",
       "stateCode": "WB",
       "today": {
@@ -299,7 +299,7 @@
       "active": 32973,
       "recovered": 133466,
       "dead": 722,
-      "updatedTime": "17/09/2020 21:56:18",
+      "updatedTime": "17/09/2020 22:05:18",
       "note": "[July 12th] :20 non-covid deaths reported in state dashboard are included in the deceased count\n[June 22nd]: NDRF/ODRF cases have been redistributed to districts based on state dashboard",
       "stateCode": "OR",
       "today": {
@@ -443,7 +443,7 @@
       "active": 13703,
       "recovered": 52807,
       "dead": 590,
-      "updatedTime": "17/09/2020 21:56:24",
+      "updatedTime": "17/09/2020 22:05:26",
       "note": "",
       "stateCode": "JH",
       "today": {
@@ -563,7 +563,7 @@
       "active": 4744,
       "recovered": 16253,
       "dead": 431,
-      "updatedTime": "17/09/2020 21:56:26",
+      "updatedTime": "17/09/2020 22:05:29",
       "note": "",
       "stateCode": "PY",
       "today": {
@@ -607,26 +607,26 @@
     },
     "HP": {
       "name": "Himachal Pradesh",
-      "confirmed": 10795,
-      "active": 4147,
-      "recovered": 6531,
-      "dead": 90,
-      "updatedTime": "16/09/2020 22:40:04",
+      "confirmed": 11190,
+      "active": 4145,
+      "recovered": 6919,
+      "dead": 97,
+      "updatedTime": "17/09/2020 22:05:32",
       "note": "Death of Tibetan refugee is included in deceased numbers, but not in confirmed",
       "stateCode": "HP",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
+        "confirmed": 395,
+        "recovered": 388,
+        "dead": 7,
         "active": 0
       },
       "testing_data": {
-        "tested": 255031,
+        "tested": 257378,
         "positive": 0,
-        "negative": 242110,
-        "unconfirmed": 2126,
-        "date": "16/09/2020",
-        "source": "https://twitter.com/nhm_hp/status/1306272833127948288?s=20"
+        "negative": 244628,
+        "unconfirmed": 1560,
+        "date": "17/09/2020",
+        "source": ""
       }
     },
     "NL": {
@@ -880,19 +880,19 @@
     }
   },
   "testing_data": {
-    "tested": 66488105,
+    "tested": 66490452,
     "positive": 1413122,
-    "negative": 14413913,
-    "unconfirmed": 42952
+    "negative": 14416431,
+    "unconfirmed": 42386
   },
   "testing_data_imcr": {
     "tested": 60565728,
     "source": "http://twitter.com/ICMRDELHI/status/1306426219882258433"
   },
   "today": {
-    "confirmed": 87678,
-    "recovered": 74454,
-    "dead": 1090,
+    "confirmed": 88073,
+    "recovered": 74842,
+    "dead": 1097,
     "active": 12134
   }
 }
