@@ -1,9 +1,9 @@
 {
-  "confirmed": 5212686,
-  "recovered": 4109828,
-  "dead": 84404,
-  "active": 1017717,
-  "updatedTime": "18/09/2020 01:10:09",
+  "confirmed": 5214757,
+  "recovered": 4111630,
+  "dead": 84415,
+  "active": 1017975,
+  "updatedTime": "18/09/2020 08:54:08",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -199,26 +199,26 @@
     },
     "TG": {
       "name": "Telangana",
-      "confirmed": 165003,
-      "active": 30443,
-      "recovered": 133555,
-      "dead": 1005,
-      "updatedTime": "17/09/2020 10:02:03",
+      "confirmed": 167046,
+      "active": 30673,
+      "recovered": 135357,
+      "dead": 1016,
+      "updatedTime": "18/09/2020 08:54:13",
       "note": "[July 27] : Telangana bulletin for the previous day is released on the next day. We will add the cases for Telangana against the date of release, as that is the convention that we are following for other states.\n--\nDistrict-wise numbers are not reported because cumulative counts for each district are not provided in Telangana bulletin",
       "stateCode": "TG",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 2043,
+        "recovered": 1802,
+        "dead": 11,
+        "active": 230
       },
       "testing_data": {
-        "tested": 2329316,
+        "tested": 2379950,
         "positive": 0,
         "negative": 0,
-        "unconfirmed": 1032,
-        "date": "17/09/2020",
-        "source": "https://twitter.com/Eatala_Rajender/status/1306463279217172486?s=20"
+        "unconfirmed": 1039,
+        "date": "18/09/2020",
+        "source": "https://twitter.com/drgsrao/status/1306787812633698304?s=20"
       }
     },
     "GJ": {
@@ -816,18 +816,18 @@
     },
     "MZ": {
       "name": "Mizoram",
-      "confirmed": 1506,
-      "active": 557,
+      "confirmed": 1534,
+      "active": 585,
       "recovered": 949,
       "dead": 0,
-      "updatedTime": "17/09/2020 17:27:24",
+      "updatedTime": "18/09/2020 08:54:17",
       "note": "",
       "stateCode": "MZ",
       "today": {
-        "confirmed": 0,
+        "confirmed": 28,
         "recovered": 0,
         "dead": 0,
-        "active": 0
+        "active": 28
       },
       "testing_data": {
         "tested": 55463,
@@ -880,19 +880,19 @@
     }
   },
   "testing_data": {
-    "tested": 66722771,
+    "tested": 66773405,
     "positive": 1437741,
     "negative": 14500155,
-    "unconfirmed": 42306
+    "unconfirmed": 42313
   },
   "testing_data_imcr": {
-    "tested": 0,
+    "tested": 61572343,
     "source": "https://www.icmr.gov.in/pdf/covid/update/ICMR_testing_update_18Sept2020.pdf"
   },
   "today": {
-    "confirmed": 0,
-    "recovered": 0,
-    "dead": 0,
-    "active": 0
+    "confirmed": 2071,
+    "recovered": 1802,
+    "dead": 11,
+    "active": 258
   }
 }
