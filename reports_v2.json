@@ -1,9 +1,9 @@
 {
-  "confirmed": 5219211,
-  "recovered": 4112233,
-  "dead": 84434,
-  "active": 1021807,
-  "updatedTime": "18/09/2020 12:03:06",
+  "confirmed": 5228478,
+  "recovered": 4125742,
+  "dead": 84505,
+  "active": 1017494,
+  "updatedTime": "18/09/2020 18:16:59",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -55,18 +55,18 @@
     },
     "AP": {
       "name": "Andhra Pradesh",
-      "confirmed": 601462,
-      "active": 88197,
-      "recovered": 508088,
-      "dead": 5177,
-      "updatedTime": "17/09/2020 20:55:02",
+      "confirmed": 609558,
+      "active": 84423,
+      "recovered": 519891,
+      "dead": 5244,
+      "updatedTime": "18/09/2020 18:17:06",
       "note": "Total includes patients from other states and a new category \"Foreign Evacuees\" which is now reported in AP bulletin.",
       "stateCode": "AP",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 8096,
+        "recovered": 11803,
+        "dead": 67,
+        "active": -3774
       },
       "testing_data": {
         "tested": 4884371,
@@ -175,18 +175,18 @@
     },
     "BR": {
       "name": "Bihar",
-      "confirmed": 164224,
-      "active": 13646,
-      "recovered": 149722,
-      "dead": 855,
-      "updatedTime": "17/09/2020 18:45:37",
+      "confirmed": 165371,
+      "active": 13111,
+      "recovered": 151400,
+      "dead": 859,
+      "updatedTime": "18/09/2020 18:17:08",
       "note": "",
       "stateCode": "BR",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 1147,
+        "recovered": 1678,
+        "dead": 4,
+        "active": -535
       },
       "testing_data": {
         "tested": 5307337,
@@ -751,18 +751,18 @@
     },
     "DN": {
       "name": "Dadra and Nagar Haveli and Daman and Diu",
-      "confirmed": 2827,
-      "active": 210,
-      "recovered": 2588,
+      "confirmed": 2851,
+      "active": 206,
+      "recovered": 2616,
       "dead": 2,
-      "updatedTime": "17/09/2020 18:45:56",
+      "updatedTime": "18/09/2020 18:16:06",
       "note": "",
       "stateCode": "DN",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 24,
+        "recovered": 28,
         "dead": 0,
-        "active": 0
+        "active": -4
       },
       "isUnknown": true
     },
@@ -890,9 +890,9 @@
     "source": "https://www.icmr.gov.in/pdf/covid/update/ICMR_testing_update_18Sept2020.pdf"
   },
   "today": {
-    "confirmed": 6524,
-    "recovered": 2405,
-    "dead": 30,
-    "active": 4089
+    "confirmed": 15791,
+    "recovered": 15914,
+    "dead": 101,
+    "active": -224
   }
 }
