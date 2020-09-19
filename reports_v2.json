@@ -1,9 +1,9 @@
 {
-  "confirmed": 5358982,
-  "recovered": 4256860,
-  "dead": 86137,
-  "active": 1015228,
-  "updatedTime": "19/09/2020 21:24:02",
+  "confirmed": 5361673,
+  "recovered": 4263222,
+  "dead": 86173,
+  "active": 1011521,
+  "updatedTime": "19/09/2020 21:40:02",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -107,7 +107,7 @@
       "active": 32064,
       "recovered": 205890,
       "dead": 4945,
-      "updatedTime": "19/09/2020 21:24:05",
+      "updatedTime": "19/09/2020 21:39:06",
       "note": "[July 14]: Value for the total tests conducted has been reduced by 97008 in the state bulletin. Reason given : \"Reconciled with ICMR figures\". We have made the same change.\n[June 16]: 344 deceased cases have been retroactively added to DL bulletin.",
       "stateCode": "DL",
       "today": {
@@ -155,7 +155,7 @@
       "active": 24648,
       "recovered": 193014,
       "dead": 4298,
-      "updatedTime": "19/09/2020 21:24:07",
+      "updatedTime": "19/09/2020 21:39:18",
       "note": "",
       "stateCode": "WB",
       "today": {
@@ -248,17 +248,17 @@
     "AS": {
       "name": "Assam",
       "confirmed": 152858,
-      "active": 28631,
+      "active": 28623,
       "recovered": 123684,
-      "dead": 540,
-      "updatedTime": "19/09/2020 00:40:22",
+      "dead": 548,
+      "updatedTime": "19/09/2020 21:40:04",
       "note": "",
       "stateCode": "AS",
       "today": {
         "confirmed": 0,
         "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "dead": 8,
+        "active": -8
       },
       "testing_data": {
         "tested": 2871869,
@@ -296,17 +296,17 @@
     "OR": {
       "name": "Odisha",
       "confirmed": 175550,
-      "active": 37239,
-      "recovered": 137567,
+      "active": 33149,
+      "recovered": 141657,
       "dead": 744,
-      "updatedTime": "19/09/2020 11:52:13",
+      "updatedTime": "19/09/2020 21:40:07",
       "note": "[July 12th] :20 non-covid deaths reported in state dashboard are included in the deceased count\n[June 22nd]: NDRF/ODRF cases have been redistributed to districts based on state dashboard",
       "stateCode": "OR",
       "today": {
         "confirmed": 4209,
-        "recovered": 0,
+        "recovered": 4090,
         "dead": 9,
-        "active": 4200
+        "active": 110
       },
       "testing_data": {
         "tested": 2715822,
@@ -319,18 +319,18 @@
     },
     "HR": {
       "name": "Haryana",
-      "confirmed": 106261,
-      "active": 21291,
-      "recovered": 83878,
-      "dead": 1092,
-      "updatedTime": "18/09/2020 22:09:19",
+      "confirmed": 108952,
+      "active": 21682,
+      "recovered": 86150,
+      "dead": 1120,
+      "updatedTime": "19/09/2020 21:40:09",
       "note": "[Aug 2]: 21 Foreign Evacuees have been merged to Panchkula and 14 Italian tourists have been merged to Gurugram in HR bulletin.",
       "stateCode": "HR",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 2691,
+        "recovered": 2272,
+        "dead": 28,
+        "active": 391
       },
       "testing_data": {
         "tested": 1623268,
@@ -782,12 +782,12 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 129503,
+        "tested": 131433,
         "positive": 0,
-        "negative": 124315,
-        "unconfirmed": 743,
-        "date": "18/09/2020",
-        "source": "https://www.syllad.com/two-more-dies-of-covid-19-in-meghalaya-death-toll-rises-to-34/"
+        "negative": 126022,
+        "unconfirmed": 845,
+        "date": "19/09/2020",
+        "source": "https://corona.meghalayagov.in/"
       }
     },
     "SK": {
@@ -880,19 +880,19 @@
     }
   },
   "testing_data": {
-    "tested": 68680462,
+    "tested": 68682392,
     "positive": 1451453,
-    "negative": 10449798,
-    "unconfirmed": 38660
+    "negative": 10451505,
+    "unconfirmed": 38762
   },
   "testing_data_imcr": {
     "tested": 62454254,
     "source": "https://www.icmr.gov.in/pdf/covid/update/ICMR_testing_update_19Sept2020.pdf"
   },
   "today": {
-    "confirmed": 53326,
-    "recovered": 51520,
-    "dead": 512,
-    "active": 1294
+    "confirmed": 56017,
+    "recovered": 57882,
+    "dead": 548,
+    "active": -2413
   }
 }
