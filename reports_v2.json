@@ -1,9 +1,9 @@
 {
-  "confirmed": 5480711,
-  "recovered": 4388677,
-  "dead": 87866,
-  "active": 1003392,
-  "updatedTime": "20/09/2020 23:25:04",
+  "confirmed": 5480779,
+  "recovered": 4388690,
+  "dead": 87867,
+  "active": 1003443,
+  "updatedTime": "20/09/2020 23:40:03",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -11,7 +11,7 @@
       "active": 291238,
       "recovered": 884341,
       "dead": 32671,
-      "updatedTime": "20/09/2020 23:25:06",
+      "updatedTime": "20/09/2020 23:39:07",
       "note": "[Sep 9] : After reconciling COVID-19 cases in Mumbai, owing to the removal of duplicates and change of addresses as per the original residence, 239 cases have been removed from the progressive figures. \n[Aug 15] : MH bulletin has reduced 819 confirmed cases in Mumbai and 72 confirmed cases from 'Other States' from the tally\n[Jun 16] : 1328 deceased cases have been retroactively added to MH bulletin.\n[Jun 20] : 69 deceased cases have been reduced based on state bulletin.",
       "stateCode": "MH",
       "today": {
@@ -573,12 +573,12 @@
         "active": 110
       },
       "testing_data": {
-        "tested": 135259,
-        "positive": 24559,
-        "negative": 107765,
-        "unconfirmed": 2935,
-        "date": "19/09/2020",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/2463"
+        "tested": 140107,
+        "positive": 25030,
+        "negative": 111514,
+        "unconfirmed": 3563,
+        "date": "20/09/2020",
+        "source": "https://covid19dashboard.py.gov.in/LabTestReport"
       }
     },
     "MN": {
@@ -611,7 +611,7 @@
       "active": 4443,
       "recovered": 7548,
       "dead": 118,
-      "updatedTime": "20/09/2020 23:25:13",
+      "updatedTime": "20/09/2020 23:27:20",
       "note": "Death of Tibetan refugee is included in deceased numbers, but not in confirmed",
       "stateCode": "HP",
       "today": {
@@ -632,10 +632,10 @@
     "NL": {
       "name": "Nagaland",
       "confirmed": 5451,
-      "active": 1187,
+      "active": 1184,
       "recovered": 4228,
       "dead": 10,
-      "updatedTime": "20/09/2020 22:58:12",
+      "updatedTime": "20/09/2020 23:40:12",
       "note": "",
       "stateCode": "NL",
       "today": {
@@ -683,7 +683,7 @@
       "active": 148,
       "recovered": 3451,
       "dead": 52,
-      "updatedTime": "20/09/2020 23:25:18",
+      "updatedTime": "20/09/2020 23:39:13",
       "note": "",
       "stateCode": "AN",
       "today": {
@@ -746,40 +746,40 @@
         "negative": 52389,
         "unconfirmed": 156,
         "date": "20/09/2020",
-        "source": "http://chdcovid19.in/"
+        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/2486"
       }
     },
     "DN": {
       "name": "Dadra and Nagar Haveli and Daman and Diu",
-      "confirmed": 2892,
-      "active": 216,
-      "recovered": 2645,
+      "confirmed": 2913,
+      "active": 227,
+      "recovered": 2655,
       "dead": 2,
-      "updatedTime": "20/09/2020 18:17:07",
+      "updatedTime": "20/09/2020 23:40:15",
       "note": "",
       "stateCode": "DN",
       "today": {
-        "confirmed": 13,
-        "recovered": 6,
+        "confirmed": 34,
+        "recovered": 16,
         "dead": 0,
-        "active": 7
+        "active": 18
       },
       "isUnknown": true
     },
     "ML": {
       "name": "Meghalaya",
-      "confirmed": 4662,
-      "active": 2113,
+      "confirmed": 4660,
+      "active": 2111,
       "recovered": 2513,
       "dead": 36,
-      "updatedTime": "20/09/2020 23:24:25",
+      "updatedTime": "20/09/2020 23:40:18",
       "note": "[June 17]: One case was identified to be false positive and has been removed from the confirmed cases by ML authorities.",
       "stateCode": "ML",
       "today": {
-        "confirmed": 103,
+        "confirmed": 101,
         "recovered": 30,
         "dead": 0,
-        "active": 73
+        "active": 71
       },
       "testing_data": {
         "tested": 131433,
@@ -792,26 +792,26 @@
     },
     "SK": {
       "name": "Sikkim",
-      "confirmed": 2342,
-      "active": 423,
-      "recovered": 1891,
-      "dead": 28,
-      "updatedTime": "19/09/2020 23:46:09",
+      "confirmed": 2391,
+      "active": 468,
+      "recovered": 1894,
+      "dead": 29,
+      "updatedTime": "20/09/2020 23:40:20",
       "note": "",
       "stateCode": "SK",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 49,
+        "recovered": 3,
+        "dead": 1,
+        "active": 45
       },
       "testing_data": {
-        "tested": 46690,
+        "tested": 47044,
         "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "19/09/2020",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/2467?single"
+        "date": "20/09/2020",
+        "source": "https://twitter.com/sikkimgovt/status/1307741609644027904?s=20"
       }
     },
     "MZ": {
@@ -880,19 +880,19 @@
     }
   },
   "testing_data": {
-    "tested": 70279802,
-    "positive": 1520731,
-    "negative": 10758478,
-    "unconfirmed": 37281
+    "tested": 70285004,
+    "positive": 1521202,
+    "negative": 10762227,
+    "unconfirmed": 37909
   },
   "testing_data_imcr": {
     "tested": 63661060,
     "source": "http://twitter.com/ICMRDELHI/status/1307521264051912704"
   },
   "today": {
-    "confirmed": 82491,
-    "recovered": 88953,
-    "dead": 1092,
-    "active": -7554
+    "confirmed": 82559,
+    "recovered": 88966,
+    "dead": 1093,
+    "active": -7500
   }
 }
