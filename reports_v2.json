@@ -1,9 +1,9 @@
 {
-  "confirmed": 5587338,
-  "recovered": 4517834,
-  "dead": 89210,
-  "active": 979495,
-  "updatedTime": "22/09/2020 20:05:59",
+  "confirmed": 5599308,
+  "recovered": 4533055,
+  "dead": 89341,
+  "active": 976113,
+  "updatedTime": "22/09/2020 20:25:05",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -55,18 +55,18 @@
     },
     "AP": {
       "name": "Andhra Pradesh",
-      "confirmed": 631749,
-      "active": 74518,
-      "recovered": 551821,
-      "dead": 5410,
-      "updatedTime": "21/09/2020 18:29:04",
+      "confirmed": 639302,
+      "active": 71465,
+      "recovered": 562376,
+      "dead": 5461,
+      "updatedTime": "22/09/2020 20:25:07",
       "note": "Total includes patients from other states and a new category \"Foreign Evacuees\" which is now reported in AP bulletin.",
       "stateCode": "AP",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 7553,
+        "recovered": 10555,
+        "dead": 51,
+        "active": -3053
       },
       "testing_data": {
         "tested": 5229529,
@@ -131,7 +131,7 @@
       "active": 63148,
       "recovered": 296183,
       "dead": 5212,
-      "updatedTime": "22/09/2020 20:06:01",
+      "updatedTime": "22/09/2020 20:11:05",
       "note": "",
       "stateCode": "UP",
       "today": {
@@ -151,18 +151,18 @@
     },
     "WB": {
       "name": "West Bengal",
-      "confirmed": 228302,
-      "active": 24898,
-      "recovered": 198983,
-      "dead": 4421,
-      "updatedTime": "21/09/2020 22:26:15",
+      "confirmed": 231484,
+      "active": 24971,
+      "recovered": 202030,
+      "dead": 4483,
+      "updatedTime": "22/09/2020 20:25:09",
       "note": "",
       "stateCode": "WB",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 3182,
+        "recovered": 3047,
+        "dead": 62,
+        "active": 73
       },
       "testing_data": {
         "tested": 2879278,
@@ -227,7 +227,7 @@
       "active": 16304,
       "recovered": 106512,
       "dead": 3353,
-      "updatedTime": "22/09/2020 20:06:02",
+      "updatedTime": "22/09/2020 20:11:06",
       "note": "",
       "stateCode": "GJ",
       "today": {
@@ -285,12 +285,12 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 2870267,
+        "tested": 2904053,
         "positive": 0,
-        "negative": 2751165,
-        "unconfirmed": 2221,
-        "date": "21/09/2020",
-        "source": "https://twitter.com/DDNewsRajasthan/status/1308037877423435776?s=20"
+        "negative": 2782179,
+        "unconfirmed": 3081,
+        "date": "22/09/2020",
+        "source": "https://twitter.com/DDNewsRajasthan/status/1308390509228879875?s=20"
       }
     },
     "OR": {
@@ -415,18 +415,18 @@
     },
     "JK": {
       "name": "Jammu and Kashmir",
-      "confirmed": 65026,
-      "active": 21887,
-      "recovered": 42115,
-      "dead": 1024,
-      "updatedTime": "21/09/2020 19:07:23",
+      "confirmed": 66261,
+      "active": 21485,
+      "recovered": 43734,
+      "dead": 1042,
+      "updatedTime": "22/09/2020 20:24:16",
       "note": "",
       "stateCode": "JK",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 1235,
+        "recovered": 1619,
+        "dead": 18,
+        "active": -402
       },
       "testing_data": {
         "tested": 1436409,
@@ -880,19 +880,19 @@
     }
   },
   "testing_data": {
-    "tested": 72126420,
+    "tested": 72160206,
     "positive": 1547129,
-    "negative": 15563587,
-    "unconfirmed": 37372
+    "negative": 15594601,
+    "unconfirmed": 38232
   },
   "testing_data_imcr": {
     "tested": 65325779,
     "source": "http://twitter.com/ICMRDELHI/status/1308247067198799873"
   },
   "today": {
-    "confirmed": 27218,
-    "recovered": 23095,
-    "dead": 245,
-    "active": 3878
+    "confirmed": 39188,
+    "recovered": 38316,
+    "dead": 376,
+    "active": 496
   }
 }
