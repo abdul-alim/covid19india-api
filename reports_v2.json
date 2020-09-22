@@ -1,9 +1,9 @@
 {
-  "confirmed": 5639088,
-  "recovered": 4578395,
+  "confirmed": 5639106,
+  "recovered": 4580222,
   "dead": 90006,
-  "active": 969880,
-  "updatedTime": "22/09/2020 22:40:04",
+  "active": 968071,
+  "updatedTime": "22/09/2020 22:54:12",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -11,7 +11,7 @@
       "active": 272410,
       "recovered": 936554,
       "dead": 33407,
-      "updatedTime": "22/09/2020 22:40:07",
+      "updatedTime": "22/09/2020 22:53:06",
       "note": "[Sep 9] : After reconciling COVID-19 cases in Mumbai, owing to the removal of duplicates and change of addresses as per the original residence, 239 cases have been removed from the progressive figures. \n[Aug 15] : MH bulletin has reduced 819 confirmed cases in Mumbai and 72 confirmed cases from 'Other States' from the tally\n[Jun 16] : 1328 deceased cases have been retroactively added to MH bulletin.\n[Jun 20] : 69 deceased cases have been reduced based on state bulletin.",
       "stateCode": "MH",
       "today": {
@@ -248,17 +248,17 @@
     "AS": {
       "name": "Assam",
       "confirmed": 161393,
-      "active": 31674,
-      "recovered": 129130,
+      "active": 29857,
+      "recovered": 130947,
       "dead": 586,
-      "updatedTime": "22/09/2020 21:47:02",
+      "updatedTime": "22/09/2020 22:54:15",
       "note": "",
       "stateCode": "AS",
       "today": {
         "confirmed": 2073,
-        "recovered": 0,
+        "recovered": 1817,
         "dead": 8,
-        "active": 2065
+        "active": 248
       },
       "testing_data": {
         "tested": 2991612,
@@ -679,18 +679,18 @@
     },
     "AN": {
       "name": "Andaman and Nicobar",
-      "confirmed": 3673,
-      "active": 152,
-      "recovered": 3469,
+      "confirmed": 3691,
+      "active": 160,
+      "recovered": 3479,
       "dead": 52,
-      "updatedTime": "21/09/2020 22:51:20",
+      "updatedTime": "22/09/2020 22:54:21",
       "note": "",
       "stateCode": "AN",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 18,
+        "recovered": 10,
         "dead": 0,
-        "active": 0
+        "active": 8
       },
       "testing_data": {
         "tested": 52220,
@@ -772,7 +772,7 @@
       "active": 2044,
       "recovered": 2707,
       "dead": 40,
-      "updatedTime": "22/09/2020 22:40:18",
+      "updatedTime": "22/09/2020 22:53:14",
       "note": "[June 17]: One case was identified to be false positive and has been removed from the confirmed cases by ML authorities.",
       "stateCode": "ML",
       "today": {
@@ -806,12 +806,12 @@
         "active": 43
       },
       "testing_data": {
-        "tested": 47269,
+        "tested": 47530,
         "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "21/09/2020",
-        "source": "https://twitter.com/sikkimgovt/status/1308291354020048896?s=20"
+        "date": "22/09/2020",
+        "source": "https://twitter.com/sikkimgovt/status/1308443900466442241?s=20"
       }
     },
     "MZ": {
@@ -880,7 +880,7 @@
     }
   },
   "testing_data": {
-    "tested": 72492469,
+    "tested": 72492730,
     "positive": 1566921,
     "negative": 15663893,
     "unconfirmed": 40332
@@ -890,9 +890,9 @@
     "source": "http://twitter.com/ICMRDELHI/status/1308247067198799873"
   },
   "today": {
-    "confirmed": 78968,
-    "recovered": 83656,
+    "confirmed": 78986,
+    "recovered": 85483,
     "dead": 1041,
-    "active": -5729
+    "active": -7538
   }
 }
