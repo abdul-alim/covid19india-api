@@ -1,9 +1,9 @@
 {
-  "confirmed": 5668361,
-  "recovered": 4608433,
-  "dead": 90255,
-  "active": 968865,
-  "updatedTime": "23/09/2020 19:14:35",
+  "confirmed": 5669430,
+  "recovered": 4609449,
+  "dead": 90272,
+  "active": 968901,
+  "updatedTime": "23/09/2020 19:41:36",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -286,7 +286,7 @@
       },
       "testing_data": {
         "tested": 2545385,
-        "positive": 0,
+        "positive": 148134,
         "negative": 0,
         "unconfirmed": 8724,
         "date": "23/09/2020",
@@ -487,18 +487,18 @@
     },
     "UT": {
       "name": "Uttarakhand",
-      "confirmed": 42651,
-      "active": 11831,
-      "recovered": 30107,
-      "dead": 512,
-      "updatedTime": "22/09/2020 21:19:12",
+      "confirmed": 43720,
+      "active": 11867,
+      "recovered": 31123,
+      "dead": 529,
+      "updatedTime": "23/09/2020 19:41:40",
       "note": "",
       "stateCode": "UT",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 1069,
+        "recovered": 1016,
+        "dead": 17,
+        "active": 36
       },
       "testing_data": {
         "tested": 630448,
@@ -881,7 +881,7 @@
   },
   "testing_data": {
     "tested": 73116552,
-    "positive": 1424694,
+    "positive": 1572828,
     "negative": 15763043,
     "unconfirmed": 40761
   },
@@ -890,9 +890,9 @@
     "source": "https://www.icmr.gov.in/pdf/covid/update/ICMR_testing_update_23Sept2020.pdf"
   },
   "today": {
-    "confirmed": 24880,
-    "recovered": 24041,
-    "dead": 205,
-    "active": 634
+    "confirmed": 25949,
+    "recovered": 25057,
+    "dead": 222,
+    "active": 670
   }
 }
