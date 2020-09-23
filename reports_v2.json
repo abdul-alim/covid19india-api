@@ -1,9 +1,9 @@
 {
-  "confirmed": 5669430,
-  "recovered": 4609449,
-  "dead": 90272,
-  "active": 968901,
-  "updatedTime": "23/09/2020 19:41:36",
+  "confirmed": 5669610,
+  "recovered": 4609704,
+  "dead": 90282,
+  "active": 968816,
+  "updatedTime": "23/09/2020 19:59:35",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -333,12 +333,12 @@
         "active": 378
       },
       "testing_data": {
-        "tested": 2904053,
+        "tested": 2935751,
         "positive": 0,
-        "negative": 2782179,
-        "unconfirmed": 3081,
-        "date": "22/09/2020",
-        "source": "https://twitter.com/DDNewsRajasthan/status/1308390509228879875?s=20"
+        "negative": 2811835,
+        "unconfirmed": 3177,
+        "date": "23/09/2020",
+        "source": "https://twitter.com/DDNewsRajasthan/status/1308757649366818816?s=20"
       }
     },
     "HR": {
@@ -491,7 +491,7 @@
       "active": 11867,
       "recovered": 31123,
       "dead": 529,
-      "updatedTime": "23/09/2020 19:41:40",
+      "updatedTime": "23/09/2020 19:55:43",
       "note": "",
       "stateCode": "UT",
       "today": {
@@ -607,26 +607,26 @@
     },
     "CH": {
       "name": "Chandigarh",
-      "confirmed": 10546,
-      "active": 2622,
-      "recovered": 7794,
-      "dead": 127,
-      "updatedTime": "22/09/2020 21:19:16",
+      "confirmed": 10726,
+      "active": 2537,
+      "recovered": 8049,
+      "dead": 137,
+      "updatedTime": "23/09/2020 19:59:38",
       "note": "",
       "stateCode": "CH",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 180,
+        "recovered": 255,
+        "dead": 10,
+        "active": -85
       },
       "testing_data": {
-        "tested": 67020,
+        "tested": 68270,
         "positive": 0,
-        "negative": 56089,
-        "unconfirmed": 182,
-        "date": "22/09/2020",
-        "source": "https://twitter.com/ANI/status/1308403345288200204?s=20"
+        "negative": 57147,
+        "unconfirmed": 165,
+        "date": "23/09/2020",
+        "source": "https://twitter.com/ANI/status/1308773516288888832?s=20"
       }
     },
     "MN": {
@@ -830,12 +830,12 @@
         "active": -50
       },
       "testing_data": {
-        "tested": 64312,
+        "tested": 66320,
         "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "22/09/2020",
-        "source": "https://dipr.mizoram.gov.in/post/status-of-state-surveillance-of-covid-19-2292020-last-24hours-500pm"
+        "date": "23/09/2020",
+        "source": "https://dipr.mizoram.gov.in/post/status-of-state-surveillance-of-covid-19-2392020-last-24hours-500pm"
       }
     },
     "UN": {
@@ -880,19 +880,19 @@
     }
   },
   "testing_data": {
-    "tested": 73116552,
+    "tested": 73151508,
     "positive": 1572828,
-    "negative": 15763043,
-    "unconfirmed": 40761
+    "negative": 15793757,
+    "unconfirmed": 40840
   },
   "testing_data_imcr": {
     "tested": 66279462,
     "source": "https://www.icmr.gov.in/pdf/covid/update/ICMR_testing_update_23Sept2020.pdf"
   },
   "today": {
-    "confirmed": 25949,
-    "recovered": 25057,
-    "dead": 222,
-    "active": 670
+    "confirmed": 26129,
+    "recovered": 25312,
+    "dead": 232,
+    "active": 585
   }
 }
