@@ -1,9 +1,9 @@
 {
-  "confirmed": 5664524,
-  "recovered": 4603349,
+  "confirmed": 5664527,
+  "recovered": 4603424,
   "dead": 90210,
-  "active": 970157,
-  "updatedTime": "23/09/2020 17:43:35",
+  "active": 970085,
+  "updatedTime": "23/09/2020 18:13:35",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -227,7 +227,7 @@
       "active": 13642,
       "recovered": 158546,
       "dead": 874,
-      "updatedTime": "23/09/2020 17:43:37",
+      "updatedTime": "23/09/2020 17:48:37",
       "note": "",
       "stateCode": "BR",
       "today": {
@@ -775,16 +775,16 @@
     },
     "DN": {
       "name": "Dadra and Nagar Haveli and Daman and Diu",
-      "confirmed": 2962,
+      "confirmed": 2965,
       "active": 209,
-      "recovered": 2721,
+      "recovered": 2724,
       "dead": 2,
-      "updatedTime": "23/09/2020 17:43:39",
+      "updatedTime": "23/09/2020 17:48:40",
       "note": "",
       "stateCode": "DN",
       "today": {
-        "confirmed": 15,
-        "recovered": 5,
+        "confirmed": 18,
+        "recovered": 8,
         "dead": 0,
         "active": 10
       },
@@ -817,17 +817,17 @@
     "MZ": {
       "name": "Mizoram",
       "confirmed": 1713,
-      "active": 690,
-      "recovered": 1023,
+      "active": 618,
+      "recovered": 1095,
       "dead": 0,
-      "updatedTime": "23/09/2020 11:45:41",
+      "updatedTime": "23/09/2020 18:13:39",
       "note": "",
       "stateCode": "MZ",
       "today": {
         "confirmed": 22,
-        "recovered": 0,
+        "recovered": 72,
         "dead": 0,
-        "active": 22
+        "active": -50
       },
       "testing_data": {
         "tested": 64312,
@@ -890,9 +890,9 @@
     "source": "https://www.icmr.gov.in/pdf/covid/update/ICMR_testing_update_23Sept2020.pdf"
   },
   "today": {
-    "confirmed": 21043,
-    "recovered": 18957,
+    "confirmed": 21046,
+    "recovered": 19032,
     "dead": 160,
-    "active": 1926
+    "active": 1854
   }
 }
