@@ -1,9 +1,9 @@
 {
-  "confirmed": 5643481,
-  "recovered": 4584392,
-  "dead": 90050,
-  "active": 968232,
-  "updatedTime": "23/09/2020 08:09:02",
+  "confirmed": 5646281,
+  "recovered": 4587057,
+  "dead": 90077,
+  "active": 968340,
+  "updatedTime": "23/09/2020 11:14:37",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -176,17 +176,17 @@
     "OR": {
       "name": "Odisha",
       "confirmed": 188311,
-      "active": 34324,
+      "active": 34309,
       "recovered": 153213,
-      "dead": 774,
-      "updatedTime": "22/09/2020 22:29:10",
+      "dead": 789,
+      "updatedTime": "23/09/2020 11:14:39",
       "note": "[July 12th] :20 non-covid deaths reported in state dashboard are included in the deceased count\n[June 22nd]: NDRF/ODRF cases have been redistributed to districts based on state dashboard",
       "stateCode": "OR",
       "today": {
         "confirmed": 0,
         "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "dead": 1,
+        "active": -1
       },
       "testing_data": {
         "tested": 2860410,
@@ -199,18 +199,18 @@
     },
     "TG": {
       "name": "Telangana",
-      "confirmed": 174774,
-      "active": 29649,
-      "recovered": 144073,
-      "dead": 1052,
-      "updatedTime": "22/09/2020 11:09:06",
+      "confirmed": 177070,
+      "active": 29873,
+      "recovered": 146135,
+      "dead": 1062,
+      "updatedTime": "23/09/2020 11:14:40",
       "note": "[July 27] : Telangana bulletin for the previous day is released on the next day. We will add the cases for Telangana against the date of release, as that is the convention that we are following for other states.\n--\nDistrict-wise numbers are not reported because cumulative counts for each district are not provided in Telangana bulletin",
       "stateCode": "TG",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 2296,
+        "recovered": 2062,
+        "dead": 10,
+        "active": 224
       },
       "testing_data": {
         "tested": 2628897,
@@ -559,18 +559,18 @@
     },
     "TR": {
       "name": "Tripura",
-      "confirmed": 22831,
-      "active": 6700,
-      "recovered": 15860,
-      "dead": 248,
-      "updatedTime": "22/09/2020 11:09:10",
+      "confirmed": 23335,
+      "active": 6599,
+      "recovered": 16463,
+      "dead": 250,
+      "updatedTime": "23/09/2020 11:14:42",
       "note": "[Aug 4]: Tripura bulletin for the previous day is released on the next day. We will add the cases for Tripura against the date of release, as that is the convention that we are following for other states.",
       "stateCode": "TR",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 504,
+        "recovered": 603,
+        "dead": 2,
+        "active": -101
       },
       "testing_data": {
         "tested": 366835,
@@ -890,9 +890,9 @@
     "source": "https://www.icmr.gov.in/pdf/covid/update/ICMR_testing_update_23Sept2020.pdf"
   },
   "today": {
-    "confirmed": 0,
-    "recovered": 0,
-    "dead": 0,
-    "active": 0
+    "confirmed": 2800,
+    "recovered": 2665,
+    "dead": 13,
+    "active": 122
   }
 }
