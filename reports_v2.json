@@ -1,9 +1,9 @@
 {
-  "confirmed": 5703917,
-  "recovered": 4645257,
-  "dead": 90639,
-  "active": 967210,
-  "updatedTime": "23/09/2020 22:24:40",
+  "confirmed": 5704019,
+  "recovered": 4645321,
+  "dead": 90641,
+  "active": 967246,
+  "updatedTime": "23/09/2020 22:39:39",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -69,11 +69,12 @@
         "active": -101
       },
       "testing_data": {
-        "tested": 0,
+        "tested": 6725037,
         "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "updated": false
+        "date": "23/09/2020",
+        "source": "https://twitter.com/ANI/status/1308799639273893893?s=20"
       }
     },
     "KA": {
@@ -116,11 +117,12 @@
         "active": -1450
       },
       "testing_data": {
-        "tested": 0,
+        "tested": 8992424,
         "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "updated": false
+        "date": "23/09/2020",
+        "source": "https://twitter.com/ShishirGoUP/status/1308717019437518848?s=20"
       }
     },
     "DL": {
@@ -163,11 +165,12 @@
         "active": 130
       },
       "testing_data": {
-        "tested": 0,
+        "tested": 2924507,
         "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "updated": false
+        "date": "23/09/2020",
+        "source": "https://www.wbhealth.gov.in/uploaded_files/corona/WB_DHFW_Bulletin_23rd_SEPTEMBER_REPORT_FINAL.pdf"
       }
     },
     "OR": {
@@ -210,11 +213,12 @@
         "active": 224
       },
       "testing_data": {
-        "tested": 0,
+        "tested": 2628897,
         "positive": 0,
         "negative": 0,
-        "unconfirmed": 0,
-        "updated": false
+        "unconfirmed": 1388,
+        "date": "23/09/2020",
+        "source": "https://twitter.com/Eatala_Rajender/status/1308615930499399680?s=20"
       }
     },
     "BR": {
@@ -247,7 +251,7 @@
       "active": 30182,
       "recovered": 132709,
       "dead": 597,
-      "updatedTime": "23/09/2020 22:24:46",
+      "updatedTime": "23/09/2020 22:29:41",
       "note": "",
       "stateCode": "AS",
       "today": {
@@ -329,11 +333,12 @@
         "active": 378
       },
       "testing_data": {
-        "tested": 0,
+        "tested": 2935751,
         "positive": 0,
-        "negative": 0,
-        "unconfirmed": 0,
-        "updated": false
+        "negative": 2811835,
+        "unconfirmed": 3177,
+        "date": "23/09/2020",
+        "source": "https://twitter.com/DDNewsRajasthan/status/1308757649366818816?s=20"
       }
     },
     "HR": {
@@ -400,11 +405,12 @@
         "active": -58
       },
       "testing_data": {
-        "tested": 0,
+        "tested": 1654508,
         "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "updated": false
+        "date": "23/09/2020",
+        "source": "https://twitter.com/ANI/status/1308776577166118912?s=20"
       }
     },
     "CT": {
@@ -495,11 +501,12 @@
         "active": 36
       },
       "testing_data": {
-        "tested": 0,
+        "tested": 638707,
         "positive": 0,
-        "negative": 0,
-        "unconfirmed": 0,
-        "updated": false
+        "negative": 571585,
+        "unconfirmed": 11809,
+        "date": "23/09/2020",
+        "source": "https://twitter.com/DDnews_dehradun/status/1308769211053826048?s=20"
       }
     },
     "GA": {
@@ -566,11 +573,12 @@
         "active": -101
       },
       "testing_data": {
-        "tested": 0,
-        "positive": 0,
-        "negative": 0,
+        "tested": 366835,
+        "positive": 23335,
+        "negative": 343500,
         "unconfirmed": 0,
-        "updated": false
+        "date": "23/09/2020",
+        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/2538"
       }
     },
     "HP": {
@@ -699,7 +707,7 @@
       "active": 2060,
       "recovered": 2859,
       "dead": 42,
-      "updatedTime": "23/09/2020 22:24:50",
+      "updatedTime": "23/09/2020 22:29:44",
       "note": "[June 17]: One case was identified to be false positive and has been removed from the confirmed cases by ML authorities.",
       "stateCode": "ML",
       "today": {
@@ -719,18 +727,18 @@
     },
     "LA": {
       "name": "Ladakh",
-      "confirmed": 3887,
-      "active": 1028,
-      "recovered": 2809,
-      "dead": 50,
-      "updatedTime": "23/09/2020 00:32:10",
+      "confirmed": 3933,
+      "active": 1038,
+      "recovered": 2844,
+      "dead": 51,
+      "updatedTime": "23/09/2020 22:39:43",
       "note": "[Sep 08] : Testing details are not available in Ladakh bulletin from Sep 06 onwards",
       "stateCode": "LA",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 46,
+        "recovered": 35,
+        "dead": 1,
+        "active": 10
       },
       "testing_data": {
         "tested": 48490,
@@ -743,18 +751,18 @@
     },
     "AN": {
       "name": "Andaman and Nicobar",
-      "confirmed": 3691,
-      "active": 160,
-      "recovered": 3479,
+      "confirmed": 3712,
+      "active": 166,
+      "recovered": 3494,
       "dead": 52,
-      "updatedTime": "22/09/2020 23:08:12",
+      "updatedTime": "23/09/2020 22:39:46",
       "note": "",
       "stateCode": "AN",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 21,
+        "recovered": 15,
         "dead": 0,
-        "active": 0
+        "active": 6
       },
       "testing_data": {
         "tested": 52845,
@@ -784,25 +792,26 @@
     },
     "SK": {
       "name": "Sikkim",
-      "confirmed": 2513,
-      "active": 556,
-      "recovered": 1928,
-      "dead": 29,
-      "updatedTime": "22/09/2020 22:29:26",
+      "confirmed": 2548,
+      "active": 576,
+      "recovered": 1942,
+      "dead": 30,
+      "updatedTime": "23/09/2020 22:39:51",
       "note": "",
       "stateCode": "SK",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 35,
+        "recovered": 14,
+        "dead": 1,
+        "active": 20
       },
       "testing_data": {
-        "tested": 0,
+        "tested": 47893,
         "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "updated": false
+        "date": "23/09/2020",
+        "source": "https://covid19sikkim.org/"
       }
     },
     "MZ": {
@@ -871,19 +880,19 @@
     }
   },
   "testing_data": {
-    "tested": 46714193,
-    "positive": 1571065,
-    "negative": 12175715,
-    "unconfirmed": 21025
+    "tested": 73628752,
+    "positive": 1594400,
+    "negative": 15902635,
+    "unconfirmed": 37399
   },
   "testing_data_imcr": {
     "tested": 66279462,
     "source": "https://www.icmr.gov.in/pdf/covid/update/ICMR_testing_update_23Sept2020.pdf"
   },
   "today": {
-    "confirmed": 60436,
-    "recovered": 60865,
-    "dead": 589,
-    "active": -1018
+    "confirmed": 60538,
+    "recovered": 60929,
+    "dead": 591,
+    "active": -982
   }
 }
