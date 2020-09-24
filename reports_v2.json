@@ -1,9 +1,9 @@
 {
-  "confirmed": 5737197,
-  "recovered": 4674346,
+  "confirmed": 5737204,
+  "recovered": 4674364,
   "dead": 91204,
-  "active": 970828,
-  "updatedTime": "24/09/2020 15:22:36",
+  "active": 970817,
+  "updatedTime": "24/09/2020 18:24:38",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -765,28 +765,28 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 52845,
-        "positive": 3691,
+        "tested": 53591,
+        "positive": 3712,
         "negative": 0,
-        "unconfirmed": 84,
-        "date": "22/09/2020",
-        "source": "https://dhs.andaman.gov.in/NewEvents/403.pdf"
+        "unconfirmed": 77,
+        "date": "23/09/2020",
+        "source": "https://dhs.andaman.gov.in/NewEvents/405.pdf"
       }
     },
     "DN": {
       "name": "Dadra and Nagar Haveli and Daman and Diu",
-      "confirmed": 2965,
-      "active": 209,
-      "recovered": 2724,
+      "confirmed": 2972,
+      "active": 198,
+      "recovered": 2742,
       "dead": 2,
-      "updatedTime": "23/09/2020 17:48:40",
+      "updatedTime": "24/09/2020 18:24:41",
       "note": "",
       "stateCode": "DN",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 7,
+        "recovered": 18,
         "dead": 0,
-        "active": 0
+        "active": -11
       },
       "isUnknown": true
     },
@@ -806,12 +806,12 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 47893,
+        "tested": 48291,
         "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "23/09/2020",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/2550?single"
+        "date": "24/09/2020",
+        "source": "https://covid19sikkim.org/"
       }
     },
     "MZ": {
@@ -880,19 +880,19 @@
     }
   },
   "testing_data": {
-    "tested": 74011887,
-    "positive": 1596223,
+    "tested": 74013031,
+    "positive": 1596244,
     "negative": 15909475,
-    "unconfirmed": 37268
+    "unconfirmed": 37261
   },
   "testing_data_imcr": {
     "tested": 67436031,
     "source": "http://twitter.com/ICMRDELHI/status/1308967193292365825"
   },
   "today": {
-    "confirmed": 7013,
-    "recovered": 2496,
+    "confirmed": 7020,
+    "recovered": 2514,
     "dead": 31,
-    "active": 4486
+    "active": 4475
   }
 }
