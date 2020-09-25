@@ -1,9 +1,9 @@
 {
-  "confirmed": 5823067,
-  "recovered": 4755540,
-  "dead": 92347,
-  "active": 974356,
-  "updatedTime": "25/09/2020 18:17:43",
+  "confirmed": 5828754,
+  "recovered": 4761174,
+  "dead": 92419,
+  "active": 974337,
+  "updatedTime": "25/09/2020 18:25:39",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -55,18 +55,18 @@
     },
     "TN": {
       "name": "Tamil Nadu",
-      "confirmed": 563691,
-      "active": 46405,
-      "recovered": 508210,
-      "dead": 9076,
-      "updatedTime": "24/09/2020 20:02:39",
+      "confirmed": 569370,
+      "active": 46386,
+      "recovered": 513836,
+      "dead": 9148,
+      "updatedTime": "25/09/2020 18:25:42",
       "note": "[July 22]: 444 backdated deceased entries added to Chennai in TN bulletin.\n2 deaths cross notified to other states from Chennai and Coimbatore.\n1 patient died after turning negative for infection in Chengalpattu.\nThese cases have been added to TN deceased tally",
       "stateCode": "TN",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 5679,
+        "recovered": 5626,
+        "dead": 72,
+        "active": -19
       },
       "testing_data": {
         "tested": 6815644,
@@ -775,18 +775,18 @@
     },
     "DN": {
       "name": "Dadra and Nagar Haveli and Daman and Diu",
-      "confirmed": 2985,
+      "confirmed": 2993,
       "active": 185,
-      "recovered": 2767,
+      "recovered": 2775,
       "dead": 2,
-      "updatedTime": "25/09/2020 18:16:43",
+      "updatedTime": "25/09/2020 18:22:49",
       "note": "",
       "stateCode": "DN",
       "today": {
-        "confirmed": 6,
-        "recovered": 8,
+        "confirmed": 12,
+        "recovered": 15,
         "dead": 0,
-        "active": -2
+        "active": -3
       },
       "isUnknown": true
     },
@@ -890,9 +890,9 @@
     "source": "http://twitter.com/ICMRDELHI/status/1309329991100817409"
   },
   "today": {
-    "confirmed": 6963,
-    "recovered": 2539,
-    "dead": 30,
-    "active": 4394
+    "confirmed": 12648,
+    "recovered": 8172,
+    "dead": 102,
+    "active": 4374
   }
 }
