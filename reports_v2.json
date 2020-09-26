@@ -1,9 +1,9 @@
 {
-  "confirmed": 5937589,
-  "recovered": 4879262,
-  "dead": 93713,
-  "active": 963779,
-  "updatedTime": "26/09/2020 20:14:47",
+  "confirmed": 5938586,
+  "recovered": 4880291,
+  "dead": 93724,
+  "active": 963727,
+  "updatedTime": "26/09/2020 20:24:46",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -333,12 +333,12 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 2994763,
+        "tested": 3024341,
         "positive": 0,
-        "negative": 2867910,
-        "unconfirmed": 2123,
-        "date": "25/09/2020",
-        "source": "https://twitter.com/ANI/status/1309479660024025088?s=20"
+        "negative": 2893933,
+        "unconfirmed": 3633,
+        "date": "26/09/2020",
+        "source": "https://twitter.com/ANI/status/1309846871284699137?s=20"
       }
     },
     "HR": {
@@ -487,18 +487,18 @@
     },
     "UT": {
       "name": "Uttarakhand",
-      "confirmed": 45332,
-      "active": 10934,
-      "recovered": 33642,
-      "dead": 555,
-      "updatedTime": "25/09/2020 22:11:46",
+      "confirmed": 46281,
+      "active": 10856,
+      "recovered": 34649,
+      "dead": 566,
+      "updatedTime": "26/09/2020 20:24:49",
       "note": "",
       "stateCode": "UT",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 949,
+        "recovered": 1007,
+        "dead": 11,
+        "active": -69
       },
       "testing_data": {
         "tested": 668282,
@@ -515,7 +515,7 @@
       "active": 5424,
       "recovered": 25759,
       "dead": 391,
-      "updatedTime": "26/09/2020 20:14:52",
+      "updatedTime": "26/09/2020 20:21:49",
       "note": "",
       "stateCode": "GA",
       "today": {
@@ -792,18 +792,18 @@
     },
     "SK": {
       "name": "Sikkim",
-      "confirmed": 2707,
-      "active": 682,
-      "recovered": 1994,
+      "confirmed": 2755,
+      "active": 708,
+      "recovered": 2016,
       "dead": 31,
-      "updatedTime": "25/09/2020 23:37:43",
+      "updatedTime": "26/09/2020 20:24:52",
       "note": "",
       "stateCode": "SK",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 48,
+        "recovered": 22,
         "dead": 0,
-        "active": 0
+        "active": 26
       },
       "testing_data": {
         "tested": 48655,
@@ -880,19 +880,19 @@
     }
   },
   "testing_data": {
-    "tested": 77009799,
+    "tested": 77039377,
     "positive": 1736048,
-    "negative": 16506523,
-    "unconfirmed": 33916
+    "negative": 16532546,
+    "unconfirmed": 35426
   },
   "testing_data_imcr": {
     "tested": 70269975,
     "source": "http://twitter.com/ICMRDELHI/status/1309693135790854144"
   },
   "today": {
-    "confirmed": 35764,
-    "recovered": 32935,
-    "dead": 303,
-    "active": 2526
+    "confirmed": 36761,
+    "recovered": 33964,
+    "dead": 314,
+    "active": 2483
   }
 }
