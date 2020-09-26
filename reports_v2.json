@@ -1,9 +1,9 @@
 {
-  "confirmed": 5923046,
-  "recovered": 4861438,
-  "dead": 93518,
-  "active": 967255,
-  "updatedTime": "26/09/2020 19:23:45",
+  "confirmed": 5931367,
+  "recovered": 4870609,
+  "dead": 93630,
+  "active": 966293,
+  "updatedTime": "26/09/2020 19:40:48",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -35,7 +35,7 @@
       "active": 65794,
       "recovered": 597294,
       "dead": 5663,
-      "updatedTime": "25/09/2020 19:49:47",
+      "updatedTime": "26/09/2020 19:39:49",
       "note": "Total includes patients from other states and a new category \"Foreign Evacuees\" which is now reported in AP bulletin.",
       "stateCode": "AP",
       "today": {
@@ -50,23 +50,23 @@
         "negative": 4855035,
         "unconfirmed": 0,
         "date": "26/09/2020",
-        "source": "https://twitter.com/ArogyaAndhra/status/1309833468293967877?s=20"
+        "source": "http://covid19.ap.gov.in/Covid19_Admin/index.html"
       }
     },
     "TN": {
       "name": "Tamil Nadu",
-      "confirmed": 569370,
-      "active": 46386,
-      "recovered": 513836,
-      "dead": 9148,
-      "updatedTime": "25/09/2020 18:40:40",
+      "confirmed": 575017,
+      "active": 46336,
+      "recovered": 519448,
+      "dead": 9233,
+      "updatedTime": "26/09/2020 19:40:50",
       "note": "[July 22]: 444 backdated deceased entries added to Chennai in TN bulletin.\n2 deaths cross notified to other states from Chennai and Coimbatore.\n1 patient died after turning negative for infection in Chengalpattu.\nThese cases have been added to TN deceased tally",
       "stateCode": "TN",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 5647,
+        "recovered": 5612,
+        "dead": 85,
+        "active": -50
       },
       "testing_data": {
         "tested": 7004558,
@@ -223,18 +223,18 @@
     },
     "BR": {
       "name": "Bihar",
-      "confirmed": 175898,
-      "active": 13506,
-      "recovered": 161510,
-      "dead": 881,
-      "updatedTime": "25/09/2020 21:06:45",
+      "confirmed": 177355,
+      "active": 13336,
+      "recovered": 163132,
+      "dead": 886,
+      "updatedTime": "26/09/2020 19:40:53",
       "note": "",
       "stateCode": "BR",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 1457,
+        "recovered": 1622,
+        "dead": 5,
+        "active": -170
       },
       "testing_data": {
         "tested": 6730100,
@@ -275,7 +275,7 @@
       "active": 52677,
       "recovered": 114526,
       "dead": 657,
-      "updatedTime": "26/09/2020 19:23:47",
+      "updatedTime": "26/09/2020 19:25:50",
       "note": "Mahe native who expired in Kannur included in Kerala's deceased tally.\nOne patient absconded from Palakkad to TN and one patient returned back to Maharashtra. Some non-covid deaths (accident,cancer etc.) have also been reported in the bulletin.\nIn total 80 such cases have been reduced from active count",
       "stateCode": "KL",
       "today": {
@@ -463,18 +463,18 @@
     },
     "JK": {
       "name": "Jammu and Kashmir",
-      "confirmed": 69832,
-      "active": 19170,
-      "recovered": 49557,
-      "dead": 1105,
-      "updatedTime": "25/09/2020 19:37:48",
+      "confirmed": 71049,
+      "active": 18428,
+      "recovered": 51494,
+      "dead": 1127,
+      "updatedTime": "26/09/2020 19:40:56",
       "note": "",
       "stateCode": "JK",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 1217,
+        "recovered": 1937,
+        "dead": 22,
+        "active": -742
       },
       "testing_data": {
         "tested": 1539284,
@@ -501,12 +501,12 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 656974,
+        "tested": 668282,
         "positive": 0,
-        "negative": 587884,
-        "unconfirmed": 11993,
-        "date": "25/09/2020",
-        "source": "https://twitter.com/ANI/status/1309493692244271104?s=20"
+        "negative": 599199,
+        "unconfirmed": 11037,
+        "date": "26/09/2020",
+        "source": "https://twitter.com/ANI/status/1309854875497369601?s=20"
       }
     },
     "GA": {
@@ -621,12 +621,12 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 71009,
+        "tested": 72652,
         "positive": 0,
-        "negative": 59381,
-        "unconfirmed": 154,
-        "date": "25/09/2020",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/2610"
+        "negative": 60849,
+        "unconfirmed": 162,
+        "date": "26/09/2020",
+        "source": "http://chdcovid19.in/"
       }
     },
     "MN": {
@@ -880,19 +880,19 @@
     }
   },
   "testing_data": {
-    "tested": 76876302,
+    "tested": 76889253,
     "positive": 1736046,
-    "negative": 16451426,
-    "unconfirmed": 34358
+    "negative": 16464209,
+    "unconfirmed": 33410
   },
   "testing_data_imcr": {
     "tested": 70269975,
     "source": "http://twitter.com/ICMRDELHI/status/1309693135790854144"
   },
   "today": {
-    "confirmed": 21221,
-    "recovered": 15111,
-    "dead": 108,
-    "active": 6002
+    "confirmed": 29542,
+    "recovered": 24282,
+    "dead": 220,
+    "active": 5040
   }
 }
