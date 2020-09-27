@@ -1,9 +1,9 @@
 {
-  "confirmed": 6005795,
-  "recovered": 4945998,
-  "dead": 94582,
-  "active": 964366,
-  "updatedTime": "27/09/2020 18:52:42",
+  "confirmed": 6025944,
+  "recovered": 4968102,
+  "dead": 94844,
+  "active": 962149,
+  "updatedTime": "27/09/2020 19:56:42",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -31,18 +31,18 @@
     },
     "AP": {
       "name": "Andhra Pradesh",
-      "confirmed": 668751,
-      "active": 65794,
-      "recovered": 597294,
-      "dead": 5663,
-      "updatedTime": "26/09/2020 19:39:49",
+      "confirmed": 675674,
+      "active": 64876,
+      "recovered": 605090,
+      "dead": 5708,
+      "updatedTime": "27/09/2020 19:56:44",
       "note": "Total includes patients from other states and a new category \"Foreign Evacuees\" which is now reported in AP bulletin.",
       "stateCode": "AP",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 6923,
+        "recovered": 7796,
+        "dead": 45,
+        "active": -918
       },
       "testing_data": {
         "tested": 5600202,
@@ -55,18 +55,18 @@
     },
     "TN": {
       "name": "Tamil Nadu",
-      "confirmed": 575017,
-      "active": 46336,
-      "recovered": 519448,
-      "dead": 9233,
-      "updatedTime": "26/09/2020 19:50:49",
+      "confirmed": 580808,
+      "active": 46341,
+      "recovered": 525154,
+      "dead": 9313,
+      "updatedTime": "27/09/2020 19:56:46",
       "note": "[July 22]: 444 backdated deceased entries added to Chennai in TN bulletin.\n2 deaths cross notified to other states from Chennai and Coimbatore.\n1 patient died after turning negative for infection in Chengalpattu.\nThese cases have been added to TN deceased tally",
       "stateCode": "TN",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 5791,
+        "recovered": 5706,
+        "dead": 80,
+        "active": 5
       },
       "testing_data": {
         "tested": 7100660,
@@ -103,18 +103,18 @@
     },
     "UP": {
       "name": "Uttar Pradesh",
-      "confirmed": 382835,
-      "active": 57086,
-      "recovered": 320232,
-      "dead": 5517,
-      "updatedTime": "26/09/2020 20:10:50",
+      "confirmed": 387085,
+      "active": 55603,
+      "recovered": 325888,
+      "dead": 5594,
+      "updatedTime": "27/09/2020 19:56:48",
       "note": "",
       "stateCode": "UP",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 4250,
+        "recovered": 5656,
+        "dead": 77,
+        "active": -1483
       },
       "testing_data": {
         "tested": 9625076,
@@ -151,26 +151,26 @@
     },
     "WB": {
       "name": "West Bengal",
-      "confirmed": 244240,
-      "active": 25544,
-      "recovered": 213975,
-      "dead": 4721,
-      "updatedTime": "26/09/2020 20:54:56",
+      "confirmed": 247425,
+      "active": 25723,
+      "recovered": 216921,
+      "dead": 4781,
+      "updatedTime": "27/09/2020 19:56:50",
       "note": "",
       "stateCode": "WB",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 3185,
+        "recovered": 2946,
+        "dead": 60,
+        "active": 179
       },
       "testing_data": {
-        "tested": 3055039,
+        "tested": 3098657,
         "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "26/09/2020",
-        "source": "https://www.wbhealth.gov.in/uploaded_files/corona/WB_DHFW_Bulletin_26th_SEPTEMBER_REPORT_FINAL.pdf"
+        "date": "27/09/2020",
+        "source": "https://www.wbhealth.gov.in/uploaded_files/corona/WB_DHFW_Bulletin_27th_SEPTEMBER_REPORT_FINAL.pdf"
       }
     },
     "OR": {
@@ -333,12 +333,12 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 3024341,
+        "tested": 3051135,
         "positive": 0,
-        "negative": 2893933,
-        "unconfirmed": 3633,
-        "date": "26/09/2020",
-        "source": "https://twitter.com/ANI/status/1309846871284699137?s=20"
+        "negative": 2920018,
+        "unconfirmed": 2258,
+        "date": "27/09/2020",
+        "source": "https://twitter.com/ANI/status/1310202148307623944?s=20"
       }
     },
     "HR": {
@@ -501,12 +501,12 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 668282,
+        "tested": 679596,
         "positive": 0,
-        "negative": 599199,
-        "unconfirmed": 11037,
-        "date": "26/09/2020",
-        "source": "https://twitter.com/ANI/status/1309854875497369601?s=20"
+        "negative": 610241,
+        "unconfirmed": 10472,
+        "date": "27/09/2020",
+        "source": "https://twitter.com/ANI/status/1310221876522676224?s=20"
       }
     },
     "GA": {
@@ -880,19 +880,19 @@
     }
   },
   "testing_data": {
-    "tested": 78082419,
+    "tested": 78164145,
     "positive": 1771340,
-    "negative": 16545751,
-    "unconfirmed": 26587
+    "negative": 16582878,
+    "unconfirmed": 24647
   },
   "testing_data_imcr": {
     "tested": 71257836,
     "source": "https://www.icmr.gov.in/pdf/covid/update/ICMR_testing_update_27Sept2020.pdf"
   },
   "today": {
-    "confirmed": 15214,
-    "recovered": 7310,
-    "dead": 48,
-    "active": 7856
+    "confirmed": 35363,
+    "recovered": 29414,
+    "dead": 310,
+    "active": 5639
   }
 }
