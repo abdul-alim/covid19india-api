@@ -1,9 +1,9 @@
 {
-  "confirmed": 5996820,
-  "recovered": 4941146,
+  "confirmed": 5996823,
+  "recovered": 4941150,
   "dead": 94559,
-  "active": 960267,
-  "updatedTime": "27/09/2020 12:27:54",
+  "active": 960265,
+  "updatedTime": "27/09/2020 15:04:42",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -213,12 +213,12 @@
         "active": -100
       },
       "testing_data": {
-        "tested": 2800761,
+        "tested": 2850869,
         "positive": 0,
         "negative": 0,
-        "unconfirmed": 882,
-        "date": "26/09/2020",
-        "source": "https://twitter.com/Eatala_Rajender/status/1309706881334616070?s=20"
+        "unconfirmed": 1520,
+        "date": "27/09/2020",
+        "source": ""
       }
     },
     "BR": {
@@ -573,12 +573,12 @@
         "active": -82
       },
       "testing_data": {
-        "tested": 378120,
-        "positive": 24405,
-        "negative": 353715,
+        "tested": 380779,
+        "positive": 24725,
+        "negative": 356054,
         "unconfirmed": 0,
-        "date": "26/09/2020",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/2598"
+        "date": "27/09/2020",
+        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/2641"
       }
     },
     "HP": {
@@ -775,18 +775,18 @@
     },
     "DN": {
       "name": "Dadra and Nagar Haveli and Daman and Diu",
-      "confirmed": 3000,
-      "active": 173,
-      "recovered": 2794,
+      "confirmed": 3003,
+      "active": 171,
+      "recovered": 2798,
       "dead": 2,
-      "updatedTime": "26/09/2020 22:15:13",
+      "updatedTime": "27/09/2020 15:04:44",
       "note": "",
       "stateCode": "DN",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 3,
+        "recovered": 4,
         "dead": 0,
-        "active": 0
+        "active": -1
       },
       "isUnknown": true
     },
@@ -880,19 +880,19 @@
     }
   },
   "testing_data": {
-    "tested": 77420165,
-    "positive": 1759110,
-    "negative": 16442094,
-    "unconfirmed": 35652
+    "tested": 77472932,
+    "positive": 1759430,
+    "negative": 16444433,
+    "unconfirmed": 36290
   },
   "testing_data_imcr": {
     "tested": 71257836,
     "source": "https://www.icmr.gov.in/pdf/covid/update/ICMR_testing_update_27Sept2020.pdf"
   },
   "today": {
-    "confirmed": 6239,
-    "recovered": 2458,
+    "confirmed": 6242,
+    "recovered": 2462,
     "dead": 25,
-    "active": 3756
+    "active": 3755
   }
 }
