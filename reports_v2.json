@@ -1,9 +1,9 @@
 {
-  "confirmed": 6045867,
-  "recovered": 4985825,
-  "dead": 95023,
-  "active": 964170,
-  "updatedTime": "27/09/2020 21:13:43",
+  "confirmed": 6046521,
+  "recovered": 4986512,
+  "dead": 95038,
+  "active": 964122,
+  "updatedTime": "27/09/2020 21:24:42",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -131,7 +131,7 @@
       "active": 29228,
       "recovered": 236651,
       "dead": 5235,
-      "updatedTime": "27/09/2020 21:13:45",
+      "updatedTime": "27/09/2020 21:23:43",
       "note": "[July 14]: Value for the total tests conducted has been reduced by 97008 in the state bulletin. Reason given : \"Reconciled with ICMR figures\". We have made the same change.\n[June 16]: 344 deceased cases have been retroactively added to DL bulletin.",
       "stateCode": "DL",
       "today": {
@@ -535,18 +535,18 @@
     },
     "PY": {
       "name": "Puducherry",
-      "confirmed": 26032,
-      "active": 5327,
-      "recovered": 20205,
-      "dead": 500,
-      "updatedTime": "26/09/2020 22:19:04",
+      "confirmed": 26400,
+      "active": 5239,
+      "recovered": 20648,
+      "dead": 513,
+      "updatedTime": "27/09/2020 21:24:45",
       "note": "",
       "stateCode": "PY",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 368,
+        "recovered": 443,
+        "dead": 13,
+        "active": -88
       },
       "testing_data": {
         "tested": 176184,
@@ -597,12 +597,12 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 283642,
+        "tested": 285165,
         "positive": 0,
-        "negative": 269161,
-        "unconfirmed": 485,
-        "date": "26/09/2020",
-        "source": "https://twitter.com/nhm_hp/status/1309888930431381505"
+        "negative": 269898,
+        "unconfirmed": 1185,
+        "date": "27/09/2020",
+        "source": "https://twitter.com/nhm_hp/status/1310202392537776129"
       }
     },
     "CH": {
@@ -631,18 +631,18 @@
     },
     "MN": {
       "name": "Manipur",
-      "confirmed": 10051,
-      "active": 2306,
-      "recovered": 7681,
+      "confirmed": 10299,
+      "active": 2359,
+      "recovered": 7876,
       "dead": 64,
-      "updatedTime": "26/09/2020 20:55:06",
+      "updatedTime": "27/09/2020 21:24:46",
       "note": "",
       "stateCode": "MN",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 248,
+        "recovered": 195,
         "dead": 0,
-        "active": 0
+        "active": 53
       },
       "testing_data": {
         "tested": 231305,
@@ -792,18 +792,18 @@
     },
     "SK": {
       "name": "Sikkim",
-      "confirmed": 2752,
-      "active": 705,
-      "recovered": 2016,
-      "dead": 31,
-      "updatedTime": "26/09/2020 22:15:15",
+      "confirmed": 2790,
+      "active": 692,
+      "recovered": 2065,
+      "dead": 33,
+      "updatedTime": "27/09/2020 21:24:48",
       "note": "",
       "stateCode": "SK",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 38,
+        "recovered": 49,
+        "dead": 2,
+        "active": -13
       },
       "testing_data": {
         "tested": 49338,
@@ -880,19 +880,19 @@
     }
   },
   "testing_data": {
-    "tested": 78456345,
+    "tested": 78457868,
     "positive": 1789396,
-    "negative": 16605841,
-    "unconfirmed": 34982
+    "negative": 16606578,
+    "unconfirmed": 35682
   },
   "testing_data_imcr": {
     "tested": 71257836,
     "source": "https://www.icmr.gov.in/pdf/covid/update/ICMR_testing_update_27Sept2020.pdf"
   },
   "today": {
-    "confirmed": 55286,
-    "recovered": 47137,
-    "dead": 489,
-    "active": 7660
+    "confirmed": 55940,
+    "recovered": 47824,
+    "dead": 504,
+    "active": 7612
   }
 }
