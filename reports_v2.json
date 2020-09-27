@@ -1,9 +1,9 @@
 {
-  "confirmed": 6047495,
-  "recovered": 4990848,
-  "dead": 95047,
-  "active": 960751,
-  "updatedTime": "27/09/2020 21:40:43",
+  "confirmed": 6047690,
+  "recovered": 4991477,
+  "dead": 95075,
+  "active": 960287,
+  "updatedTime": "27/09/2020 21:57:42",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -179,7 +179,7 @@
       "active": 34953,
       "recovered": 173571,
       "dead": 850,
-      "updatedTime": "27/09/2020 21:40:45",
+      "updatedTime": "27/09/2020 21:54:46",
       "note": "[July 12th] :20 non-covid deaths reported in state dashboard are included in the deceased count\n[June 22nd]: NDRF/ODRF cases have been redistributed to districts based on state dashboard",
       "stateCode": "OR",
       "today": {
@@ -248,17 +248,17 @@
     "AS": {
       "name": "Assam",
       "confirmed": 169110,
-      "active": 30162,
+      "active": 30145,
       "recovered": 138307,
-      "dead": 638,
-      "updatedTime": "26/09/2020 23:46:03",
+      "dead": 655,
+      "updatedTime": "27/09/2020 21:57:44",
       "note": "",
       "stateCode": "AS",
       "today": {
         "confirmed": 0,
         "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "dead": 17,
+        "active": -17
       },
       "testing_data": {
         "tested": 3104577,
@@ -309,12 +309,12 @@
         "active": 170
       },
       "testing_data": {
-        "tested": 4172051,
-        "positive": 131808,
+        "tested": 4232408,
+        "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "26/09/2020",
-        "source": "https://twitter.com/PIBAhmedabad/status/1309856197386756098?s=20"
+        "date": "27/09/2020",
+        "source": "https://twitter.com/PIBAhmedabad/status/1310224824459882499/photo/1"
       }
     },
     "RJ": {
@@ -443,7 +443,7 @@
       "active": 12433,
       "recovered": 66797,
       "dead": 679,
-      "updatedTime": "27/09/2020 21:40:47",
+      "updatedTime": "27/09/2020 21:54:50",
       "note": "",
       "stateCode": "JH",
       "today": {
@@ -530,7 +530,7 @@
         "negative": 0,
         "unconfirmed": 0,
         "date": "27/09/2020",
-        "source": "https://www.goa.gov.in/"
+        "source": "https://www.goa.gov.in/wp-content/uploads/2020/09/Media-Bulletin-27-September-2020-.pdf"
       }
     },
     "PY": {
@@ -583,26 +583,26 @@
     },
     "HP": {
       "name": "Himachal Pradesh",
-      "confirmed": 13996,
-      "active": 4104,
-      "recovered": 9710,
-      "dead": 159,
-      "updatedTime": "26/09/2020 22:15:07",
+      "confirmed": 14191,
+      "active": 3657,
+      "recovered": 10339,
+      "dead": 170,
+      "updatedTime": "27/09/2020 21:57:46",
       "note": "",
       "stateCode": "HP",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 195,
+        "recovered": 629,
+        "dead": 11,
+        "active": -445
       },
       "testing_data": {
-        "tested": 285165,
+        "tested": 283642,
         "positive": 0,
-        "negative": 269898,
-        "unconfirmed": 1185,
-        "date": "27/09/2020",
-        "source": "https://twitter.com/nhm_hp/status/1310202392537776129"
+        "negative": 269161,
+        "unconfirmed": 485,
+        "date": "26/09/2020",
+        "source": "https://twitter.com/nhm_hp/status/1309888930431381505"
       }
     },
     "CH": {
@@ -880,19 +880,19 @@
     }
   },
   "testing_data": {
-    "tested": 78506662,
-    "positive": 1790370,
-    "negative": 16652088,
-    "unconfirmed": 35682
+    "tested": 78565496,
+    "positive": 1658562,
+    "negative": 16651351,
+    "unconfirmed": 34982
   },
   "testing_data_imcr": {
     "tested": 71257836,
     "source": "https://www.icmr.gov.in/pdf/covid/update/ICMR_testing_update_27Sept2020.pdf"
   },
   "today": {
-    "confirmed": 56914,
-    "recovered": 52160,
-    "dead": 513,
-    "active": 4241
+    "confirmed": 57109,
+    "recovered": 52789,
+    "dead": 541,
+    "active": 3779
   }
 }
