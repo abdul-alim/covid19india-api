@@ -1,9 +1,9 @@
 {
-  "confirmed": 6107612,
-  "recovered": 5051864,
-  "dead": 95905,
-  "active": 958988,
-  "updatedTime": "28/09/2020 20:40:41",
+  "confirmed": 6110767,
+  "recovered": 5054787,
+  "dead": 95961,
+  "active": 959164,
+  "updatedTime": "28/09/2020 21:07:41",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -35,7 +35,7 @@
       "active": 63116,
       "recovered": 612300,
       "dead": 5745,
-      "updatedTime": "28/09/2020 20:40:42",
+      "updatedTime": "28/09/2020 20:55:41",
       "note": "Total includes patients from other states and a new category \"Foreign Evacuees\" which is now reported in AP bulletin.",
       "stateCode": "AP",
       "today": {
@@ -151,18 +151,18 @@
     },
     "WB": {
       "name": "West Bengal",
-      "confirmed": 247425,
-      "active": 25723,
-      "recovered": 216921,
-      "dead": 4781,
-      "updatedTime": "27/09/2020 20:07:51",
+      "confirmed": 250580,
+      "active": 25899,
+      "recovered": 219844,
+      "dead": 4837,
+      "updatedTime": "28/09/2020 21:07:43",
       "note": "",
       "stateCode": "WB",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 3155,
+        "recovered": 2923,
+        "dead": 56,
+        "active": 176
       },
       "testing_data": {
         "tested": 3139938,
@@ -170,7 +170,7 @@
         "negative": 0,
         "unconfirmed": 0,
         "date": "28/09/2020",
-        "source": "https://www.wbhealth.gov.in/pages/corona/bulletin"
+        "source": "https://www.wbhealth.gov.in/uploaded_files/corona/WB_DHFW_Bulletin_28th_SEPTEMBER_REPORT_FINAL.pdf"
       }
     },
     "OR": {
@@ -347,7 +347,7 @@
       "active": 15670,
       "recovered": 108411,
       "dead": 1331,
-      "updatedTime": "28/09/2020 20:40:44",
+      "updatedTime": "28/09/2020 20:55:43",
       "note": "[Aug 2]: 21 Foreign Evacuees have been merged to Panchkula and 14 Italian tourists have been merged to Gurugram in HR bulletin.",
       "stateCode": "HR",
       "today": {
@@ -806,12 +806,12 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 49338,
+        "tested": 49495,
         "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "27/09/2020",
-        "source": "https://twitter.com/sikkimgovt/status/1310242635114717186?s=20"
+        "date": "28/09/2020",
+        "source": "https://covid19sikkim.org/"
       }
     },
     "MZ": {
@@ -880,7 +880,7 @@
     }
   },
   "testing_data": {
-    "tested": 79284490,
+    "tested": 79284647,
     "positive": 1675249,
     "negative": 16737347,
     "unconfirmed": 31154
@@ -890,9 +890,9 @@
     "source": "https://www.icmr.gov.in/pdf/covid/update/ICMR_testing_update_28Sept2020.pdf"
   },
   "today": {
-    "confirmed": 34261,
-    "recovered": 38485,
-    "dead": 329,
-    "active": -4553
+    "confirmed": 37416,
+    "recovered": 41408,
+    "dead": 385,
+    "active": -4377
   }
 }
