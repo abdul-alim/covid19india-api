@@ -1,9 +1,9 @@
 {
-  "confirmed": 6122688,
-  "recovered": 5074719,
-  "dead": 96141,
-  "active": 950969,
-  "updatedTime": "28/09/2020 21:19:41",
+  "confirmed": 6131001,
+  "recovered": 5083971,
+  "dead": 96208,
+  "active": 949963,
+  "updatedTime": "28/09/2020 22:00:39",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -12,7 +12,7 @@
       "recovered": 1049947,
       "dead": 35751,
       "updatedTime": "28/09/2020 21:19:43",
-      "note": "[Sep 9] :239 cases have been removed from the progressive figures owing to the removal of duplicates and change of addresses as per the original residence,\n[Aug 15] : MH bulletin has reduced 819 confirmed cases in Mumbai and 72 confirmed cases from 'Other States' from the tally\n[Jun 16] : 1328 deceased cases have been retroactively added to MH bulletin.\n[Jun 20] : 69 deceased cases have been reduced based on state bulletin.",
+      "note": "[Sep 9] :239 cases have been removed from the hospitalized figures owing to the removal of duplicates and change of addresses as per the original residence,\n[Aug 15] : MH bulletin has reduced 819 confirmed cases in Mumbai and 72 confirmed cases from 'Other States' from the tally\n[Jun 16] : 1328 deceased cases have been retroactively added to MH bulletin.\n[Jun 20] : 69 deceased cases have been reduced based on state bulletin.",
       "stateCode": "MH",
       "today": {
         "confirmed": 11921,
@@ -36,7 +36,7 @@
       "recovered": 612300,
       "dead": 5745,
       "updatedTime": "28/09/2020 20:55:41",
-      "note": "Total includes patients from other states and a new category \"Foreign Evacuees\" which is now reported in AP bulletin.",
+      "note": "",
       "stateCode": "AP",
       "today": {
         "confirmed": 5487,
@@ -79,26 +79,26 @@
     },
     "KA": {
       "name": "Karnataka",
-      "confirmed": 575566,
-      "active": 104724,
-      "recovered": 462241,
-      "dead": 8582,
-      "updatedTime": "27/09/2020 20:18:43",
+      "confirmed": 582458,
+      "active": 104048,
+      "recovered": 469750,
+      "dead": 8641,
+      "updatedTime": "28/09/2020 22:00:48",
       "note": "",
       "stateCode": "KA",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 6892,
+        "recovered": 7509,
+        "dead": 59,
+        "active": -676
       },
       "testing_data": {
-        "tested": 4586780,
+        "tested": 4718722,
         "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "26/09/2020",
-        "source": "https://t.co/YmJy6VJ5E1?amp=1"
+        "date": "28/09/2020",
+        "source": "https://t.co/RWsYq0wtLW?amp=1"
       }
     },
     "UP": {
@@ -381,12 +381,12 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 1971589,
+        "tested": 2013925,
         "positive": 0,
-        "negative": 1845101,
+        "negative": 1864782,
         "unconfirmed": 0,
-        "date": "27/09/2020",
-        "source": "https://twitter.com/JansamparkMP/status/1310234242719203331"
+        "date": "28/09/2020",
+        "source": "https://twitter.com/healthminmp/status/1310596718480601088?s=20"
       }
     },
     "PB": {
@@ -410,7 +410,7 @@
         "negative": 0,
         "unconfirmed": 0,
         "date": "28/09/2020",
-        "source": "http://diprpunjab.gov.in/"
+        "source": "https://twitter.com/ANI/status/1310596976115765248?s=20"
       }
     },
     "CT": {
@@ -439,26 +439,26 @@
     },
     "JH": {
       "name": "Jharkhand",
-      "confirmed": 79909,
-      "active": 12433,
-      "recovered": 66797,
-      "dead": 679,
-      "updatedTime": "27/09/2020 21:54:50",
+      "confirmed": 81330,
+      "active": 12103,
+      "recovered": 68540,
+      "dead": 687,
+      "updatedTime": "28/09/2020 22:00:50",
       "note": "",
       "stateCode": "JH",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 1421,
+        "recovered": 1743,
+        "dead": 8,
+        "active": -330
       },
       "testing_data": {
-        "tested": 2059696,
-        "positive": 79909,
-        "negative": 1979787,
+        "tested": 2153151,
+        "positive": 81417,
+        "negative": 2071734,
         "unconfirmed": 0,
-        "date": "27/09/2020",
-        "source": "https://twitter.com/rnuddkranchi/status/1310245726295699456"
+        "date": "28/09/2020",
+        "source": "https://twitter.com/rnuddkranchi/status/1310607966882598913?s=20"
       }
     },
     "JK": {
@@ -708,7 +708,7 @@
       "recovered": 3779,
       "dead": 43,
       "updatedTime": "28/09/2020 00:02:49",
-      "note": "[June 17]: One case was identified to be false positive and has been removed from the confirmed cases by ML authorities.",
+      "note": "",
       "stateCode": "ML",
       "today": {
         "confirmed": 0,
@@ -880,9 +880,9 @@
     }
   },
   "testing_data": {
-    "tested": 79390863,
-    "positive": 1809872,
-    "negative": 16778083,
+    "tested": 79658596,
+    "positive": 1811380,
+    "negative": 16889711,
     "unconfirmed": 31146
   },
   "testing_data_imcr": {
@@ -890,9 +890,9 @@
     "source": "https://www.icmr.gov.in/pdf/covid/update/ICMR_testing_update_28Sept2020.pdf"
   },
   "today": {
-    "confirmed": 49337,
-    "recovered": 61340,
-    "dead": 565,
-    "active": -12568
+    "confirmed": 57650,
+    "recovered": 70592,
+    "dead": 632,
+    "active": -13574
   }
 }
