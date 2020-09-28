@@ -1,9 +1,9 @@
 {
-  "confirmed": 6131001,
-  "recovered": 5083971,
-  "dead": 96208,
-  "active": 949963,
-  "updatedTime": "28/09/2020 22:00:39",
+  "confirmed": 6131113,
+  "recovered": 5084052,
+  "dead": 96211,
+  "active": 949991,
+  "updatedTime": "28/09/2020 22:14:40",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -83,7 +83,7 @@
       "active": 104048,
       "recovered": 469750,
       "dead": 8641,
-      "updatedTime": "28/09/2020 22:00:48",
+      "updatedTime": "28/09/2020 22:05:43",
       "note": "",
       "stateCode": "KA",
       "today": {
@@ -420,7 +420,7 @@
       "recovered": 72224,
       "dead": 848,
       "updatedTime": "28/09/2020 00:57:47",
-      "note": "[Sep 9]:57 Deceased Cases are added from Backlog",
+      "note": "[Sep 9]:57 backdated deceased cases have been added.",
       "stateCode": "CT",
       "today": {
         "confirmed": 0,
@@ -439,18 +439,18 @@
     },
     "JH": {
       "name": "Jharkhand",
-      "confirmed": 81330,
-      "active": 12103,
-      "recovered": 68540,
-      "dead": 687,
-      "updatedTime": "28/09/2020 22:00:50",
+      "confirmed": 81417,
+      "active": 12126,
+      "recovered": 68603,
+      "dead": 688,
+      "updatedTime": "28/09/2020 22:14:42",
       "note": "",
       "stateCode": "JH",
       "today": {
-        "confirmed": 1421,
-        "recovered": 1743,
-        "dead": 8,
-        "active": -330
+        "confirmed": 1508,
+        "recovered": 1806,
+        "dead": 9,
+        "active": -307
       },
       "testing_data": {
         "tested": 2153151,
@@ -792,18 +792,18 @@
     },
     "SK": {
       "name": "Sikkim",
-      "confirmed": 2790,
-      "active": 692,
-      "recovered": 2065,
-      "dead": 33,
-      "updatedTime": "27/09/2020 21:38:58",
+      "confirmed": 2815,
+      "active": 697,
+      "recovered": 2083,
+      "dead": 35,
+      "updatedTime": "28/09/2020 22:14:45",
       "note": "",
       "stateCode": "SK",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 25,
+        "recovered": 18,
+        "dead": 2,
+        "active": 5
       },
       "testing_data": {
         "tested": 49495,
@@ -890,9 +890,9 @@
     "source": "https://www.icmr.gov.in/pdf/covid/update/ICMR_testing_update_28Sept2020.pdf"
   },
   "today": {
-    "confirmed": 57650,
-    "recovered": 70592,
-    "dead": 632,
-    "active": -13574
+    "confirmed": 57762,
+    "recovered": 70673,
+    "dead": 635,
+    "active": -13546
   }
 }
