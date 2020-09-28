@@ -1,9 +1,9 @@
 {
-  "confirmed": 6074965,
+  "confirmed": 6078200,
   "recovered": 5015883,
-  "dead": 95584,
-  "active": 962642,
-  "updatedTime": "28/09/2020 11:09:43",
+  "dead": 95600,
+  "active": 965862,
+  "updatedTime": "28/09/2020 13:26:45",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -175,18 +175,18 @@
     },
     "OR": {
       "name": "Odisha",
-      "confirmed": 209374,
-      "active": 34953,
+      "confirmed": 212609,
+      "active": 38172,
       "recovered": 173571,
-      "dead": 850,
-      "updatedTime": "27/09/2020 21:54:46",
+      "dead": 866,
+      "updatedTime": "28/09/2020 13:26:48",
       "note": "[July 12th] :20 non-covid deaths reported in state dashboard are included in the deceased count\n[June 22nd]: NDRF/ODRF cases have been redistributed to districts based on state dashboard",
       "stateCode": "OR",
       "today": {
-        "confirmed": 0,
+        "confirmed": 3235,
         "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "dead": 16,
+        "active": 3219
       },
       "testing_data": {
         "tested": 3111766,
@@ -272,11 +272,11 @@
     "KL": {
       "name": "Kerala",
       "confirmed": 175385,
-      "active": 56710,
+      "active": 56711,
       "recovered": 117917,
       "dead": 678,
-      "updatedTime": "27/09/2020 18:52:45",
-      "note": "Mahe native who expired in Kannur included in Kerala's deceased tally.\nOne patient absconded from Palakkad to TN and one patient returned back to Maharashtra. Some non-covid deaths (accident,cancer etc.) have also been reported in the bulletin.\nIn total 80 such cases have been reduced from active count",
+      "updatedTime": "28/09/2020 13:26:50",
+      "note": "Mahe native who expired in Kannur included in Kerala's deceased tally.\nOne patient absconded from Palakkad to TN and one patient returned back to Maharashtra. Some non-covid deaths (accident,cancer etc.) have also been reported in the bulletin.\nIn total 79 such cases have been reduced from active count",
       "stateCode": "KL",
       "today": {
         "confirmed": 0,
@@ -890,9 +890,9 @@
     "source": "https://www.icmr.gov.in/pdf/covid/update/ICMR_testing_update_28Sept2020.pdf"
   },
   "today": {
-    "confirmed": 1614,
+    "confirmed": 4849,
     "recovered": 2504,
-    "dead": 10,
-    "active": -900
+    "dead": 26,
+    "active": 2319
   }
 }
