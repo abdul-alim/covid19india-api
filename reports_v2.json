@@ -1,9 +1,9 @@
 {
-  "confirmed": 6215632,
-  "recovered": 5176371,
-  "dead": 97450,
-  "active": 940928,
-  "updatedTime": "29/09/2020 23:07:42",
+  "confirmed": 6221101,
+  "recovered": 5178804,
+  "dead": 97489,
+  "active": 943925,
+  "updatedTime": "29/09/2020 23:24:42",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -247,18 +247,18 @@
     },
     "AS": {
       "name": "Assam",
-      "confirmed": 173629,
-      "active": 30649,
+      "confirmed": 177221,
+      "active": 34241,
       "recovered": 142297,
       "dead": 680,
-      "updatedTime": "29/09/2020 23:07:44",
+      "updatedTime": "29/09/2020 23:24:44",
       "note": "",
       "stateCode": "AS",
       "today": {
-        "confirmed": 0,
+        "confirmed": 3592,
         "recovered": 0,
         "dead": 13,
-        "active": -13
+        "active": 3579
       },
       "testing_data": {
         "tested": 3374650,
@@ -367,18 +367,18 @@
     },
     "MP": {
       "name": "Madhya Pradesh",
-      "confirmed": 124166,
-      "active": 21912,
-      "recovered": 100012,
-      "dead": 2242,
-      "updatedTime": "28/09/2020 22:46:43",
+      "confirmed": 126043,
+      "active": 21317,
+      "recovered": 102445,
+      "dead": 2281,
+      "updatedTime": "29/09/2020 23:24:46",
       "note": "",
       "stateCode": "MP",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 1877,
+        "recovered": 2433,
+        "dead": 39,
+        "active": -595
       },
       "testing_data": {
         "tested": 2011959,
@@ -515,7 +515,7 @@
       "active": 4577,
       "recovered": 27781,
       "dead": 419,
-      "updatedTime": "29/09/2020 23:06:44",
+      "updatedTime": "29/09/2020 23:10:46",
       "note": "",
       "stateCode": "GA",
       "today": {
@@ -549,12 +549,12 @@
         "active": -81
       },
       "testing_data": {
-        "tested": 179780,
-        "positive": 28773,
-        "negative": 149327,
-        "unconfirmed": 1680,
-        "date": "28/09/2020",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/2676"
+        "tested": 184810,
+        "positive": 29160,
+        "negative": 153736,
+        "unconfirmed": 1914,
+        "date": "29/09/2020",
+        "source": "https://covid19dashboard.py.gov.in/LabTestReport"
       }
     },
     "TR": {
@@ -811,7 +811,7 @@
         "negative": 0,
         "unconfirmed": 0,
         "date": "29/09/2020",
-        "source": "https://covid19sikkim.org/"
+        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/2703?single"
       }
     },
     "MZ": {
@@ -880,19 +880,19 @@
     }
   },
   "testing_data": {
-    "tested": 81134121,
-    "positive": 1837074,
-    "negative": 17261595,
-    "unconfirmed": 35603
+    "tested": 81139151,
+    "positive": 1837461,
+    "negative": 17266004,
+    "unconfirmed": 35837
   },
   "testing_data_imcr": {
     "tested": 73110041,
     "source": "https://www.icmr.gov.in/pdf/covid/update/ICMR_testing_update_29Sept2020.pdf"
   },
   "today": {
-    "confirmed": 72613,
-    "recovered": 77798,
-    "dead": 1099,
-    "active": -6284
+    "confirmed": 78082,
+    "recovered": 80231,
+    "dead": 1138,
+    "active": -3287
   }
 }
