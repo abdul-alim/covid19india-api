@@ -1,9 +1,9 @@
 {
-  "confirmed": 6148640,
-  "recovered": 5101118,
-  "dead": 96378,
-  "active": 950284,
-  "updatedTime": "29/09/2020 11:32:43",
+  "confirmed": 6146722,
+  "recovered": 5109584,
+  "dead": 96468,
+  "active": 939810,
+  "updatedTime": "29/09/2020 18:12:43",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -55,26 +55,26 @@
     },
     "TN": {
       "name": "Tamil Nadu",
-      "confirmed": 586397,
-      "active": 46306,
-      "recovered": 530708,
-      "dead": 9383,
-      "updatedTime": "28/09/2020 20:09:41",
+      "confirmed": 581943,
+      "active": 36281,
+      "recovered": 536209,
+      "dead": 9453,
+      "updatedTime": "29/09/2020 18:12:45",
       "note": "[July 22]: 444 backdated deceased entries added to Chennai in TN bulletin.\n2 deaths cross notified to other states from Chennai and Coimbatore.\n1 patient died after turning negative for infection in Chengalpattu.\nThese cases have been added to TN deceased tally",
       "stateCode": "TN",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": -4454,
+        "recovered": 5501,
+        "dead": 70,
+        "active": -10025
       },
       "testing_data": {
-        "tested": 7181125,
+        "tested": 7267122,
         "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "28/09/2020",
-        "source": "https://stopcorona.tn.gov.in/wp-content/uploads/2020/09/Media-Bulletin-28.09.2020-25-Pages-English-470-KB.pdf%22"
+        "date": "29/09/2020",
+        "source": "https://twitter.com/ANI/status/1310916297820008450?s=20"
       }
     },
     "KA": {
@@ -223,26 +223,26 @@
     },
     "BR": {
       "name": "Bihar",
-      "confirmed": 180032,
-      "active": 12951,
-      "recovered": 166188,
-      "dead": 892,
-      "updatedTime": "28/09/2020 16:44:43",
+      "confirmed": 181471,
+      "active": 12686,
+      "recovered": 167890,
+      "dead": 894,
+      "updatedTime": "29/09/2020 18:12:47",
       "note": "",
       "stateCode": "BR",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 1439,
+        "recovered": 1702,
+        "dead": 2,
+        "active": -265
       },
       "testing_data": {
-        "tested": 6990232,
+        "tested": 7134767,
         "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "28/09/2020",
-        "source": "https://twitter.com/BiharHealthDept/status/1310531480267841537"
+        "date": "29/09/2020",
+        "source": "https://twitter.com/BiharHealthDept/status/1310896446523105289?s=20"
       }
     },
     "AS": {
@@ -463,26 +463,26 @@
     },
     "JK": {
       "name": "Jammu and Kashmir",
-      "confirmed": 73014,
-      "active": 17601,
-      "recovered": 54267,
-      "dead": 1146,
-      "updatedTime": "28/09/2020 20:20:48",
+      "confirmed": 74095,
+      "active": 17414,
+      "recovered": 55517,
+      "dead": 1164,
+      "updatedTime": "29/09/2020 18:12:50",
       "note": "",
       "stateCode": "JK",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 1081,
+        "recovered": 1250,
+        "dead": 18,
+        "active": -187
       },
       "testing_data": {
-        "tested": 1581606,
+        "tested": 1600606,
         "positive": 0,
-        "negative": 1508592,
+        "negative": 1526511,
         "unconfirmed": 0,
-        "date": "28/09/2020",
-        "source": "https://twitter.com/diprjk/status/1310562271907651585?s=20"
+        "date": "29/09/2020",
+        "source": "https://twitter.com/diprjk/status/1310917910928396289?s=20"
       }
     },
     "UT": {
@@ -693,12 +693,12 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 78280,
+        "tested": 78853,
         "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "28/09/2020",
-        "source": "https://twitter.com/MyGovNagaland/status/1310553608182616065?s=20"
+        "date": "29/09/2020",
+        "source": "https://twitter.com/MyGovNagaland/status/1310914850520838144?s=20"
       }
     },
     "ML": {
@@ -775,18 +775,18 @@
     },
     "DN": {
       "name": "Dadra and Nagar Haveli and Daman and Diu",
-      "confirmed": 3015,
-      "active": 145,
-      "recovered": 2836,
+      "confirmed": 3031,
+      "active": 148,
+      "recovered": 2849,
       "dead": 2,
-      "updatedTime": "28/09/2020 20:22:56",
+      "updatedTime": "29/09/2020 18:12:52",
       "note": "",
       "stateCode": "DN",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 16,
+        "recovered": 13,
         "dead": 0,
-        "active": 0
+        "active": 3
       },
       "isUnknown": true
     },
@@ -880,9 +880,9 @@
     }
   },
   "testing_data": {
-    "tested": 80121443,
+    "tested": 80371548,
     "positive": 1812138,
-    "negative": 16899830,
+    "negative": 16917749,
     "unconfirmed": 30761
   },
   "testing_data_imcr": {
@@ -890,9 +890,9 @@
     "source": "https://www.icmr.gov.in/pdf/covid/update/ICMR_testing_update_29Sept2020.pdf"
   },
   "today": {
-    "confirmed": 5621,
-    "recovered": 2545,
-    "dead": 27,
-    "active": 3049
+    "confirmed": 3703,
+    "recovered": 11011,
+    "dead": 117,
+    "active": -7425
   }
 }
