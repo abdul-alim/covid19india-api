@@ -1,9 +1,9 @@
 {
-  "confirmed": 6259253,
-  "recovered": 5215304,
-  "dead": 97856,
-  "active": 945210,
-  "updatedTime": "30/09/2020 20:10:43",
+  "confirmed": 6265864,
+  "recovered": 5222837,
+  "dead": 97908,
+  "active": 944236,
+  "updatedTime": "30/09/2020 20:24:42",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -31,18 +31,18 @@
     },
     "AP": {
       "name": "Andhra Pradesh",
-      "confirmed": 687351,
-      "active": 59435,
-      "recovered": 622136,
-      "dead": 5780,
-      "updatedTime": "29/09/2020 21:29:47",
+      "confirmed": 693484,
+      "active": 58445,
+      "recovered": 629211,
+      "dead": 5828,
+      "updatedTime": "30/09/2020 20:24:44",
       "note": "",
       "stateCode": "AP",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 6133,
+        "recovered": 7075,
+        "dead": 48,
+        "active": -990
       },
       "testing_data": {
         "tested": 5806558,
@@ -335,10 +335,10 @@
       "testing_data": {
         "tested": 3118797,
         "positive": 0,
-        "negative": 0,
-        "unconfirmed": 0,
+        "negative": 2980551,
+        "unconfirmed": 2954,
         "date": "30/09/2020",
-        "source": "http://rajswasthya.nic.in/"
+        "source": "https://twitter.com/ANI/status/1311296975938097155?s=20"
       }
     },
     "HR": {
@@ -535,18 +535,18 @@
     },
     "PY": {
       "name": "Puducherry",
-      "confirmed": 27066,
-      "active": 4933,
-      "recovered": 21616,
-      "dead": 517,
-      "updatedTime": "29/09/2020 22:39:47",
+      "confirmed": 27544,
+      "active": 4949,
+      "recovered": 22074,
+      "dead": 521,
+      "updatedTime": "30/09/2020 20:24:46",
       "note": "",
       "stateCode": "PY",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 478,
+        "recovered": 458,
+        "dead": 4,
+        "active": 16
       },
       "testing_data": {
         "tested": 189568,
@@ -882,17 +882,17 @@
   "testing_data": {
     "tested": 81963976,
     "positive": 1847181,
-    "negative": 14450373,
-    "unconfirmed": 31628
+    "negative": 17430924,
+    "unconfirmed": 34582
   },
   "testing_data_imcr": {
     "tested": 74196729,
     "source": "https://www.icmr.gov.in/pdf/covid/update/ICMR_testing_update_30Sept2020.pdf"
   },
   "today": {
-    "confirmed": 35734,
-    "recovered": 30581,
-    "dead": 327,
-    "active": 4826
+    "confirmed": 42345,
+    "recovered": 38114,
+    "dead": 379,
+    "active": 3852
   }
 }
