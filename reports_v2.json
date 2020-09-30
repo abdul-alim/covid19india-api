@@ -1,9 +1,9 @@
 {
-  "confirmed": 6235143,
-  "recovered": 5194693,
-  "dead": 97634,
-  "active": 941933,
-  "updatedTime": "30/09/2020 18:17:40",
+  "confirmed": 6242014,
+  "recovered": 5202079,
+  "dead": 97720,
+  "active": 941332,
+  "updatedTime": "30/09/2020 18:40:47",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -45,28 +45,28 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 5734752,
+        "tested": 5806558,
         "positive": 0,
-        "negative": 5047401,
+        "negative": 0,
         "unconfirmed": 0,
-        "date": "29/09/2020",
-        "source": "https://twitter.com/ArogyaAndhra/status/1310932002472964097?s=20"
+        "date": "30/09/2020",
+        "source": "https://twitter.com/ArogyaAndhra/status/1311281095103533056?s=20"
       }
     },
     "TN": {
       "name": "Tamil Nadu",
-      "confirmed": 591943,
-      "active": 46281,
-      "recovered": 536209,
-      "dead": 9453,
-      "updatedTime": "29/09/2020 18:48:47",
+      "confirmed": 597602,
+      "active": 46263,
+      "recovered": 541819,
+      "dead": 9520,
+      "updatedTime": "30/09/2020 18:40:49",
       "note": "[July 22]: 444 backdated deceased entries added to Chennai in TN bulletin.\n2 deaths cross notified to other states from Chennai and Coimbatore.\n1 patient died after turning negative for infection in Chengalpattu.\nThese cases have been added to TN deceased tally",
       "stateCode": "TN",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 5659,
+        "recovered": 5610,
+        "dead": 67,
+        "active": -18
       },
       "testing_data": {
         "tested": 7267122,
@@ -227,7 +227,7 @@
       "active": 12376,
       "recovered": 169625,
       "dead": 904,
-      "updatedTime": "30/09/2020 18:17:41",
+      "updatedTime": "30/09/2020 18:20:42",
       "note": "",
       "stateCode": "BR",
       "today": {
@@ -463,18 +463,18 @@
     },
     "JK": {
       "name": "Jammu and Kashmir",
-      "confirmed": 74095,
-      "active": 17414,
-      "recovered": 55517,
-      "dead": 1164,
-      "updatedTime": "29/09/2020 18:12:50",
+      "confirmed": 75070,
+      "active": 17017,
+      "recovered": 56872,
+      "dead": 1181,
+      "updatedTime": "30/09/2020 18:40:52",
       "note": "",
       "stateCode": "JK",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 975,
+        "recovered": 1355,
+        "dead": 17,
+        "active": -397
       },
       "testing_data": {
         "tested": 1600606,
@@ -631,18 +631,18 @@
     },
     "MN": {
       "name": "Manipur",
-      "confirmed": 10746,
-      "active": 2642,
-      "recovered": 8039,
-      "dead": 65,
-      "updatedTime": "29/09/2020 21:48:57",
+      "confirmed": 10983,
+      "active": 2456,
+      "recovered": 8460,
+      "dead": 67,
+      "updatedTime": "30/09/2020 18:40:54",
       "note": "",
       "stateCode": "MN",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 237,
+        "recovered": 421,
+        "dead": 2,
+        "active": -186
       },
       "testing_data": {
         "tested": 238516,
@@ -779,7 +779,7 @@
       "active": 121,
       "recovered": 2888,
       "dead": 2,
-      "updatedTime": "30/09/2020 18:17:43",
+      "updatedTime": "30/09/2020 18:23:45",
       "note": "",
       "stateCode": "DN",
       "today": {
@@ -820,7 +820,7 @@
       "active": 388,
       "recovered": 1598,
       "dead": 0,
-      "updatedTime": "30/09/2020 18:17:44",
+      "updatedTime": "30/09/2020 18:23:46",
       "note": "",
       "stateCode": "MZ",
       "today": {
@@ -880,9 +880,9 @@
     }
   },
   "testing_data": {
-    "tested": 81541035,
+    "tested": 81612841,
     "positive": 1837860,
-    "negative": 17268605,
+    "negative": 12221204,
     "unconfirmed": 35943
   },
   "testing_data_imcr": {
@@ -890,9 +890,9 @@
     "source": "https://www.icmr.gov.in/pdf/covid/update/ICMR_testing_update_30Sept2020.pdf"
   },
   "today": {
-    "confirmed": 11624,
-    "recovered": 9970,
-    "dead": 105,
-    "active": 1549
+    "confirmed": 18495,
+    "recovered": 17356,
+    "dead": 191,
+    "active": 948
   }
 }
