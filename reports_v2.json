@@ -1,9 +1,9 @@
 {
-  "confirmed": 6312512,
-  "recovered": 5272480,
-  "dead": 98716,
-  "active": 940408,
-  "updatedTime": "01/10/2020 10:39:44",
+  "confirmed": 6316459,
+  "recovered": 5272880,
+  "dead": 98739,
+  "active": 943932,
+  "updatedTime": "01/10/2020 13:10:44",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -175,18 +175,18 @@
     },
     "OR": {
       "name": "Odisha",
-      "confirmed": 219119,
-      "active": 32524,
+      "confirmed": 222734,
+      "active": 36122,
       "recovered": 185700,
-      "dead": 895,
-      "updatedTime": "30/09/2020 23:04:44",
+      "dead": 912,
+      "updatedTime": "01/10/2020 13:10:47",
       "note": "[July 12th] :20 non-covid deaths reported in state dashboard are included in the deceased count\n[June 22nd]: NDRF/ODRF cases have been redistributed to districts based on state dashboard",
       "stateCode": "OR",
       "today": {
-        "confirmed": 0,
+        "confirmed": 3615,
         "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "dead": 17,
+        "active": 3598
       },
       "testing_data": {
         "tested": 3250999,
@@ -559,18 +559,18 @@
     },
     "TR": {
       "name": "Tripura",
-      "confirmed": 25731,
-      "active": 5765,
-      "recovered": 19669,
-      "dead": 274,
-      "updatedTime": "30/09/2020 12:46:45",
+      "confirmed": 26063,
+      "active": 5691,
+      "recovered": 20069,
+      "dead": 280,
+      "updatedTime": "01/10/2020 13:10:49",
       "note": "[Aug 4]: Tripura bulletin for the previous day is released on the next day. We will add the cases for Tripura against the date of release, as that is the convention that we are following for other states.",
       "stateCode": "TR",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 332,
+        "recovered": 400,
+        "dead": 6,
+        "active": -74
       },
       "testing_data": {
         "tested": 388672,
@@ -890,9 +890,9 @@
     "source": "https://www.icmr.gov.in/pdf/covid/update/ICMR_testing_update_01Oct2020.pdf"
   },
   "today": {
-    "confirmed": 2245,
-    "recovered": 2473,
-    "dead": 8,
-    "active": -236
+    "confirmed": 6192,
+    "recovered": 2873,
+    "dead": 31,
+    "active": 3288
   }
 }
