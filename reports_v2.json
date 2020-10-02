@@ -1,9 +1,9 @@
 {
-  "confirmed": 6394296,
+  "confirmed": 6397896,
   "recovered": 5351594,
-  "dead": 99817,
-  "active": 941967,
-  "updatedTime": "02/10/2020 12:01:45",
+  "dead": 99833,
+  "active": 945551,
+  "updatedTime": "02/10/2020 12:16:46",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -175,18 +175,18 @@
     },
     "OR": {
       "name": "Odisha",
-      "confirmed": 222734,
-      "active": 31742,
+      "confirmed": 226334,
+      "active": 35326,
       "recovered": 190080,
-      "dead": 912,
-      "updatedTime": "01/10/2020 22:07:52",
+      "dead": 928,
+      "updatedTime": "02/10/2020 12:16:48",
       "note": "[July 12th] :20 non-covid deaths reported in state dashboard are included in the deceased count\n[June 22nd]: NDRF/ODRF cases have been redistributed to districts based on state dashboard",
       "stateCode": "OR",
       "today": {
-        "confirmed": 0,
+        "confirmed": 3600,
         "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "dead": 16,
+        "active": 3584
       },
       "testing_data": {
         "tested": 3300644,
@@ -203,7 +203,7 @@
       "active": 28620,
       "recovered": 165844,
       "dead": 1145,
-      "updatedTime": "02/10/2020 12:01:47",
+      "updatedTime": "02/10/2020 12:10:49",
       "note": "[July 27] : Telangana bulletin for the previous day is released on the next day. We will add the cases for Telangana against the date of release, as that is the convention that we are following for other states.\n--\nDistrict-wise numbers are not reported because cumulative counts for each district are not provided in Telangana bulletin",
       "stateCode": "TG",
       "today": {
@@ -563,7 +563,7 @@
       "active": 5480,
       "recovered": 20573,
       "dead": 283,
-      "updatedTime": "02/10/2020 12:01:49",
+      "updatedTime": "02/10/2020 12:10:52",
       "note": "[Aug 4]: Tripura bulletin for the previous day is released on the next day. We will add the cases for Tripura against the date of release, as that is the convention that we are following for other states.",
       "stateCode": "TR",
       "today": {
@@ -820,7 +820,7 @@
       "active": 328,
       "recovered": 1721,
       "dead": 0,
-      "updatedTime": "02/10/2020 12:01:51",
+      "updatedTime": "02/10/2020 12:10:55",
       "note": "",
       "stateCode": "MZ",
       "today": {
@@ -890,9 +890,9 @@
     "source": "https://www.icmr.gov.in/pdf/covid/update/ICMR_testing_update_02Oct2020.pdf"
   },
   "today": {
-    "confirmed": 2336,
+    "confirmed": 5936,
     "recovered": 2941,
-    "dead": 13,
-    "active": -618
+    "dead": 29,
+    "active": 2966
   }
 }
