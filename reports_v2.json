@@ -1,9 +1,9 @@
 {
-  "confirmed": 6448226,
-  "recovered": 5397829,
-  "dead": 100343,
-  "active": 949133,
-  "updatedTime": "02/10/2020 22:13:46",
+  "confirmed": 6449259,
+  "recovered": 5402807,
+  "dead": 100352,
+  "active": 945179,
+  "updatedTime": "02/10/2020 22:56:01",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -176,17 +176,17 @@
     "OR": {
       "name": "Odisha",
       "confirmed": 226334,
-      "active": 35326,
-      "recovered": 190080,
+      "active": 31278,
+      "recovered": 194128,
       "dead": 928,
-      "updatedTime": "02/10/2020 12:20:48",
+      "updatedTime": "02/10/2020 22:56:05",
       "note": "[July 12th] :20 non-covid deaths reported in state dashboard are included in the deceased count\n[June 22nd]: NDRF/ODRF cases have been redistributed to districts based on state dashboard",
       "stateCode": "OR",
       "today": {
         "confirmed": 3600,
-        "recovered": 0,
+        "recovered": 4048,
         "dead": 16,
-        "active": 3584
+        "active": -464
       },
       "testing_data": {
         "tested": 3348861,
@@ -511,18 +511,18 @@
     },
     "GA": {
       "name": "Goa",
-      "confirmed": 33942,
-      "active": 4977,
-      "recovered": 28525,
-      "dead": 440,
-      "updatedTime": "01/10/2020 22:24:48",
+      "confirmed": 34455,
+      "active": 5009,
+      "recovered": 29004,
+      "dead": 442,
+      "updatedTime": "02/10/2020 22:56:09",
       "note": "",
       "stateCode": "GA",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 513,
+        "recovered": 479,
+        "dead": 2,
+        "active": 32
       },
       "testing_data": {
         "tested": 258285,
@@ -535,26 +535,26 @@
     },
     "PY": {
       "name": "Puducherry",
-      "confirmed": 28024,
-      "active": 4994,
-      "recovered": 22505,
-      "dead": 525,
-      "updatedTime": "01/10/2020 22:08:15",
+      "confirmed": 28534,
+      "active": 5054,
+      "recovered": 22948,
+      "dead": 532,
+      "updatedTime": "02/10/2020 22:56:11",
       "note": "",
       "stateCode": "PY",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 510,
+        "recovered": 443,
+        "dead": 7,
+        "active": 60
       },
       "testing_data": {
-        "tested": 194718,
-        "positive": 30140,
-        "negative": 162652,
-        "unconfirmed": 1926,
-        "date": "01/10/2020",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/2736"
+        "tested": 199374,
+        "positive": 30654,
+        "negative": 166911,
+        "unconfirmed": 1809,
+        "date": "02/10/2020",
+        "source": "https://health.py.gov.in/"
       }
     },
     "TR": {
@@ -597,12 +597,12 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 299179,
+        "tested": 301325,
         "positive": 0,
-        "negative": 283721,
-        "unconfirmed": 239,
-        "date": "01/10/2020",
-        "source": "https://twitter.com/nhm_hp/status/1311707060673732608?s=20"
+        "negative": 285612,
+        "unconfirmed": 259,
+        "date": "02/10/2020",
+        "source": "https://twitter.com/nhm_hp/status/1312073090180943874"
       }
     },
     "CH": {
@@ -645,12 +645,12 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 243870,
+        "tested": 246769,
         "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "01/10/2020",
-        "source": "https://twitter.com/DiprManipur/status/1311779682589855744?s=20"
+        "date": "02/10/2020",
+        "source": "https://twitter.com/DiprManipur/status/1312047077027799041?s=20"
       }
     },
     "AR": {
@@ -751,18 +751,18 @@
     },
     "AN": {
       "name": "Andaman and Nicobar",
-      "confirmed": 3848,
-      "active": 172,
-      "recovered": 3623,
+      "confirmed": 3858,
+      "active": 174,
+      "recovered": 3631,
       "dead": 53,
-      "updatedTime": "01/10/2020 23:39:54",
+      "updatedTime": "02/10/2020 22:56:14",
       "note": "",
       "stateCode": "AN",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 10,
+        "recovered": 8,
         "dead": 0,
-        "active": 0
+        "active": 2
       },
       "testing_data": {
         "tested": 58763,
@@ -811,7 +811,7 @@
         "negative": 0,
         "unconfirmed": 0,
         "date": "02/10/2020",
-        "source": "https://covid19sikkim.org/"
+        "source": "https://twitter.com/sikkimgovt/status/1312064436899725313?s=20"
       }
     },
     "MZ": {
@@ -880,19 +880,19 @@
     }
   },
   "testing_data": {
-    "tested": 84798895,
-    "positive": 1782945,
-    "negative": 17902531,
-    "unconfirmed": 40036
+    "tested": 84808596,
+    "positive": 1783459,
+    "negative": 17908681,
+    "unconfirmed": 39939
   },
   "testing_data_imcr": {
     "tested": 76717728,
     "source": "https://www.icmr.gov.in/pdf/covid/update/ICMR_testing_update_02Oct2020.pdf"
   },
   "today": {
-    "confirmed": 56266,
-    "recovered": 49176,
-    "dead": 539,
-    "active": 6551
+    "confirmed": 57299,
+    "recovered": 54154,
+    "dead": 548,
+    "active": 2597
   }
 }
