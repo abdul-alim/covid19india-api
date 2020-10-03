@@ -1,9 +1,9 @@
 {
-  "confirmed": 6471934,
-  "recovered": 5425077,
-  "dead": 100875,
-  "active": 945058,
-  "updatedTime": "03/10/2020 04:38:48",
+  "confirmed": 6472124,
+  "recovered": 5425378,
+  "dead": 100878,
+  "active": 944944,
+  "updatedTime": "03/10/2020 10:55:47",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -213,12 +213,12 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 3104542,
+        "tested": 3153626,
         "positive": 0,
         "negative": 0,
-        "unconfirmed": 1151,
-        "date": "02/10/2020",
-        "source": "https://twitter.com/Eatala_Rajender/status/1311888685185396736?s=20"
+        "unconfirmed": 994,
+        "date": "03/10/2020",
+        "source": "https://twitter.com/Eatala_Rajender/status/1312259616135290880?s=20"
       }
     },
     "BR": {
@@ -559,26 +559,26 @@
     },
     "TR": {
       "name": "Tripura",
-      "confirmed": 26359,
-      "active": 5480,
-      "recovered": 20573,
-      "dead": 283,
-      "updatedTime": "02/10/2020 12:10:52",
+      "confirmed": 26549,
+      "active": 5366,
+      "recovered": 20874,
+      "dead": 286,
+      "updatedTime": "03/10/2020 10:55:50",
       "note": "[Aug 4]: Tripura bulletin for the previous day is released on the next day. We will add the cases for Tripura against the date of release, as that is the convention that we are following for other states.",
       "stateCode": "TR",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 190,
+        "recovered": 301,
+        "dead": 3,
+        "active": -114
       },
       "testing_data": {
-        "tested": 394382,
-        "positive": 26359,
-        "negative": 368023,
+        "tested": 396413,
+        "positive": 26549,
+        "negative": 369864,
         "unconfirmed": 0,
-        "date": "02/10/2020",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/2726"
+        "date": "03/10/2020",
+        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/2766"
       }
     },
     "HP": {
@@ -880,19 +880,19 @@
     }
   },
   "testing_data": {
-    "tested": 84858695,
-    "positive": 1783693,
-    "negative": 17912868,
-    "unconfirmed": 40082
+    "tested": 84909810,
+    "positive": 1783883,
+    "negative": 17914709,
+    "unconfirmed": 39925
   },
   "testing_data_imcr": {
     "tested": 77850403,
     "source": "https://www.icmr.gov.in/pdf/covid/update/ICMR_testing_update_03Oct2020.pdf"
   },
   "today": {
-    "confirmed": 0,
-    "recovered": 0,
-    "dead": 0,
-    "active": 0
+    "confirmed": 190,
+    "recovered": 301,
+    "dead": 3,
+    "active": -114
   }
 }
