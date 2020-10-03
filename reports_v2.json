@@ -1,9 +1,9 @@
 {
-  "confirmed": 6541702,
-  "recovered": 5499951,
-  "dead": 101708,
-  "active": 939116,
-  "updatedTime": "03/10/2020 22:24:59",
+  "confirmed": 6543448,
+  "recovered": 5501813,
+  "dead": 101722,
+  "active": 938986,
+  "updatedTime": "03/10/2020 22:39:51",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -69,12 +69,11 @@
         "active": -39
       },
       "testing_data": {
-        "tested": 7613999,
+        "tested": 0,
         "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "03/10/2020",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/2778"
+        "updated": false
       }
     },
     "KA": {
@@ -117,12 +116,11 @@
         "active": -1289
       },
       "testing_data": {
-        "tested": 10579701,
+        "tested": 0,
         "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "03/10/2020",
-        "source": "https://twitter.com/ShishirGoUP/status/1312416053427724289?s=20"
+        "updated": false
       }
     },
     "DL": {
@@ -165,12 +163,11 @@
         "active": 265
       },
       "testing_data": {
-        "tested": 3355726,
+        "tested": 0,
         "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "03/10/2020",
-        "source": "https://www.wbhealth.gov.in/uploaded_files/corona/WB_DHFW_Bulletin_3rd_OCTOBER_REPORT_FINAL.pdf"
+        "updated": false
       }
     },
     "OR": {
@@ -213,12 +210,11 @@
         "active": -292
       },
       "testing_data": {
-        "tested": 3153626,
+        "tested": 0,
         "positive": 0,
         "negative": 0,
-        "unconfirmed": 994,
-        "date": "03/10/2020",
-        "source": "https://twitter.com/Eatala_Rajender/status/1312259616135290880?s=20"
+        "unconfirmed": 0,
+        "updated": false
       }
     },
     "BR": {
@@ -247,18 +243,18 @@
     },
     "AS": {
       "name": "Assam",
-      "confirmed": 183812,
-      "active": 34128,
-      "recovered": 148960,
-      "dead": 721,
-      "updatedTime": "03/10/2020 00:10:52",
+      "confirmed": 185444,
+      "active": 33933,
+      "recovered": 150773,
+      "dead": 735,
+      "updatedTime": "03/10/2020 22:39:55",
       "note": "",
       "stateCode": "AS",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 1632,
+        "recovered": 1813,
+        "dead": 14,
+        "active": -195
       },
       "testing_data": {
         "tested": 3625167,
@@ -501,12 +497,11 @@
         "active": -428
       },
       "testing_data": {
-        "tested": 736371,
+        "tested": 0,
         "positive": 0,
-        "negative": 658307,
-        "unconfirmed": 14485,
-        "date": "03/10/2020",
-        "source": "https://twitter.com/ANI/status/1312395148634984448?s=20"
+        "negative": 0,
+        "unconfirmed": 0,
+        "updated": false
       }
     },
     "GA": {
@@ -573,12 +568,11 @@
         "active": -114
       },
       "testing_data": {
-        "tested": 396413,
-        "positive": 26549,
-        "negative": 369864,
+        "tested": 0,
+        "positive": 0,
+        "negative": 0,
         "unconfirmed": 0,
-        "date": "03/10/2020",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/2766"
+        "updated": false
       }
     },
     "HP": {
@@ -587,7 +581,7 @@
       "active": 3292,
       "recovered": 12173,
       "dead": 205,
-      "updatedTime": "03/10/2020 22:25:05",
+      "updatedTime": "03/10/2020 22:38:53",
       "note": "",
       "stateCode": "HP",
       "today": {
@@ -611,7 +605,7 @@
       "active": 1792,
       "recovered": 10396,
       "dead": 172,
-      "updatedTime": "03/10/2020 22:25:07",
+      "updatedTime": "03/10/2020 22:38:55",
       "note": "",
       "stateCode": "CH",
       "today": {
@@ -679,18 +673,18 @@
     },
     "NL": {
       "name": "Nagaland",
-      "confirmed": 6318,
-      "active": 1085,
-      "recovered": 5166,
+      "confirmed": 6429,
+      "active": 1150,
+      "recovered": 5212,
       "dead": 12,
-      "updatedTime": "03/10/2020 00:11:10",
+      "updatedTime": "03/10/2020 22:39:58",
       "note": "",
       "stateCode": "NL",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 111,
+        "recovered": 46,
         "dead": 0,
-        "active": 0
+        "active": 65
       },
       "testing_data": {
         "tested": 81538,
@@ -755,7 +749,7 @@
       "active": 173,
       "recovered": 3642,
       "dead": 53,
-      "updatedTime": "02/10/2020 23:10:01",
+      "updatedTime": "03/10/2020 22:38:59",
       "note": "",
       "stateCode": "AN",
       "today": {
@@ -775,16 +769,16 @@
     },
     "DN": {
       "name": "Dadra and Nagar Haveli and Daman and Diu",
-      "confirmed": 3068,
+      "confirmed": 3071,
       "active": 101,
-      "recovered": 2933,
+      "recovered": 2936,
       "dead": 2,
       "updatedTime": "03/10/2020 17:49:01",
       "note": "",
       "stateCode": "DN",
       "today": {
-        "confirmed": 4,
-        "recovered": 5,
+        "confirmed": 7,
+        "recovered": 8,
         "dead": 0,
         "active": -1
       },
@@ -796,7 +790,7 @@
       "active": 640,
       "recovered": 2367,
       "dead": 43,
-      "updatedTime": "03/10/2020 22:25:13",
+      "updatedTime": "03/10/2020 22:39:01",
       "note": "",
       "stateCode": "SK",
       "today": {
@@ -806,12 +800,12 @@
         "active": -2
       },
       "testing_data": {
-        "tested": 50987,
+        "tested": 51333,
         "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "02/10/2020",
-        "source": "https://twitter.com/sikkimgovt/status/1312064436899725313?s=20"
+        "date": "03/10/2020",
+        "source": "https://covid19sikkim.org/"
       }
     },
     "MZ": {
@@ -880,19 +874,19 @@
     }
   },
   "testing_data": {
-    "tested": 85916893,
-    "positive": 1807220,
-    "negative": 18117987,
-    "unconfirmed": 36553
+    "tested": 60081403,
+    "positive": 1780671,
+    "negative": 17089816,
+    "unconfirmed": 21074
   },
   "testing_data_imcr": {
     "tested": 77850403,
     "source": "https://www.icmr.gov.in/pdf/covid/update/ICMR_testing_update_03Oct2020.pdf"
   },
   "today": {
-    "confirmed": 69768,
-    "recovered": 74874,
-    "dead": 833,
-    "active": -5939
+    "confirmed": 71514,
+    "recovered": 76736,
+    "dead": 847,
+    "active": -6069
   }
 }
