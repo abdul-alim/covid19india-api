@@ -1,9 +1,9 @@
 {
-  "confirmed": 6538153,
-  "recovered": 5496100,
-  "dead": 101661,
-  "active": 939465,
-  "updatedTime": "03/10/2020 21:24:47",
+  "confirmed": 6538576,
+  "recovered": 5496193,
+  "dead": 101663,
+  "active": 939793,
+  "updatedTime": "03/10/2020 21:42:03",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -11,7 +11,7 @@
       "active": 258108,
       "recovered": 1134555,
       "dead": 37758,
-      "updatedTime": "03/10/2020 21:22:53",
+      "updatedTime": "03/10/2020 21:25:47",
       "note": "[Sep 9] :239 cases have been removed from the hospitalized figures owing to the removal of duplicates and change of addresses as per the original residence,\n[Aug 15] : MH bulletin has reduced 819 confirmed cases in Mumbai and 72 confirmed cases from 'Other States' from the tally\n[Jun 16] : 1328 deceased cases have been retroactively added to MH bulletin.\n[Jun 20] : 69 deceased cases have been reduced based on state bulletin.",
       "stateCode": "MH",
       "today": {
@@ -83,7 +83,7 @@
       "active": 112783,
       "recovered": 508495,
       "dead": 9219,
-      "updatedTime": "03/10/2020 21:22:55",
+      "updatedTime": "03/10/2020 21:25:49",
       "note": "",
       "stateCode": "KA",
       "today": {
@@ -515,7 +515,7 @@
       "active": 4923,
       "recovered": 29527,
       "dead": 450,
-      "updatedTime": "03/10/2020 21:24:49",
+      "updatedTime": "03/10/2020 21:37:56",
       "note": "",
       "stateCode": "GA",
       "today": {
@@ -703,18 +703,18 @@
     },
     "ML": {
       "name": "Meghalaya",
-      "confirmed": 6033,
-      "active": 1755,
-      "recovered": 4226,
-      "dead": 52,
-      "updatedTime": "03/10/2020 00:11:12",
+      "confirmed": 6456,
+      "active": 2083,
+      "recovered": 4319,
+      "dead": 54,
+      "updatedTime": "03/10/2020 21:40:55",
       "note": "",
       "stateCode": "ML",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 423,
+        "recovered": 93,
+        "dead": 2,
+        "active": 328
       },
       "testing_data": {
         "tested": 153177,
@@ -890,9 +890,9 @@
     "source": "https://www.icmr.gov.in/pdf/covid/update/ICMR_testing_update_03Oct2020.pdf"
   },
   "today": {
-    "confirmed": 66219,
-    "recovered": 71023,
-    "dead": 786,
-    "active": -5590
+    "confirmed": 66642,
+    "recovered": 71116,
+    "dead": 788,
+    "active": -5262
   }
 }
