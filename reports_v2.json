@@ -1,9 +1,9 @@
 {
-  "confirmed": 6509916,
-  "recovered": 5466344,
-  "dead": 101211,
-  "active": 941437,
-  "updatedTime": "03/10/2020 20:13:46",
+  "confirmed": 6513256,
+  "recovered": 5469357,
+  "dead": 101273,
+  "active": 941702,
+  "updatedTime": "03/10/2020 20:24:50",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -21,12 +21,12 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 6960203,
-        "positive": 1416513,
+        "tested": 7035296,
+        "positive": 1430861,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "02/10/2020",
-        "source": "https://twitter.com/ANI/status/1312046530937843712?s=20"
+        "date": "03/10/2020",
+        "source": "https://twitter.com/ANI/status/1312404364812713984?s=20"
       }
     },
     "AP": {
@@ -151,18 +151,18 @@
     },
     "WB": {
       "name": "West Bengal",
-      "confirmed": 263634,
-      "active": 26865,
-      "recovered": 231699,
-      "dead": 5070,
-      "updatedTime": "02/10/2020 20:26:57",
+      "confirmed": 266974,
+      "active": 27130,
+      "recovered": 234712,
+      "dead": 5132,
+      "updatedTime": "03/10/2020 20:24:52",
       "note": "",
       "stateCode": "WB",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 3340,
+        "recovered": 3013,
+        "dead": 62,
+        "active": 265
       },
       "testing_data": {
         "tested": 3355726,
@@ -179,7 +179,7 @@
       "active": 30248,
       "recovered": 198194,
       "dead": 945,
-      "updatedTime": "03/10/2020 20:13:49",
+      "updatedTime": "03/10/2020 20:24:54",
       "note": "[July 12th] :20 non-covid deaths reported in state dashboard are included in the deceased count\n[June 22nd]: NDRF/ODRF cases have been redistributed to districts based on state dashboard",
       "stateCode": "OR",
       "today": {
@@ -491,7 +491,7 @@
       "active": 8076,
       "recovered": 41095,
       "dead": 648,
-      "updatedTime": "03/10/2020 20:13:52",
+      "updatedTime": "03/10/2020 20:24:57",
       "note": "",
       "stateCode": "UT",
       "today": {
@@ -880,8 +880,8 @@
     }
   },
   "testing_data": {
-    "tested": 85617100,
-    "positive": 1791770,
+    "tested": 85692193,
+    "positive": 1806118,
     "negative": 18070107,
     "unconfirmed": 36845
   },
@@ -890,9 +890,9 @@
     "source": "https://www.icmr.gov.in/pdf/covid/update/ICMR_testing_update_03Oct2020.pdf"
   },
   "today": {
-    "confirmed": 37982,
-    "recovered": 41267,
-    "dead": 336,
-    "active": -3621
+    "confirmed": 41322,
+    "recovered": 44280,
+    "dead": 398,
+    "active": -3356
   }
 }
