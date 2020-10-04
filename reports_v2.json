@@ -1,9 +1,9 @@
 {
-  "confirmed": 6559777,
-  "recovered": 5516487,
-  "dead": 101910,
-  "active": 940457,
-  "updatedTime": "04/10/2020 18:30:48",
+  "confirmed": 6563823,
+  "recovered": 5521837,
+  "dead": 101965,
+  "active": 939098,
+  "updatedTime": "04/10/2020 19:40:44",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -53,30 +53,6 @@
         "source": "https://twitter.com/ArogyaAndhra/status/1312729407870570496?s=20"
       }
     },
-    "TN": {
-      "name": "Tamil Nadu",
-      "confirmed": 619996,
-      "active": 46120,
-      "recovered": 564092,
-      "dead": 9784,
-      "updatedTime": "04/10/2020 18:30:51",
-      "note": "[July 22]: 444 backdated deceased entries added to Chennai in TN bulletin.\n2 deaths cross notified to other states from Chennai and Coimbatore.\n1 patient died after turning negative for infection in Chengalpattu.\nThese cases have been added to TN deceased tally",
-      "stateCode": "TN",
-      "today": {
-        "confirmed": 5489,
-        "recovered": 5558,
-        "dead": 66,
-        "active": -135
-      },
-      "testing_data": {
-        "tested": 7700011,
-        "positive": 0,
-        "negative": 0,
-        "unconfirmed": 0,
-        "date": "04/10/2020",
-        "source": "https://stopcorona.tn.gov.in/wp-content/uploads/2020/10/Media-Bulletin-04.10.2020-24-Pages-English-466-KB.pdf%22"
-      }
-    },
     "KA": {
       "name": "Karnataka",
       "confirmed": 630516,
@@ -101,20 +77,44 @@
         "source": "https://t.co/EvWLmZg3NG?amp=1"
       }
     },
+    "TN": {
+      "name": "Tamil Nadu",
+      "confirmed": 619996,
+      "active": 46120,
+      "recovered": 564092,
+      "dead": 9784,
+      "updatedTime": "04/10/2020 18:30:51",
+      "note": "[July 22]: 444 backdated deceased entries added to Chennai in TN bulletin.\n2 deaths cross notified to other states from Chennai and Coimbatore.\n1 patient died after turning negative for infection in Chengalpattu.\nThese cases have been added to TN deceased tally",
+      "stateCode": "TN",
+      "today": {
+        "confirmed": 5489,
+        "recovered": 5558,
+        "dead": 66,
+        "active": -135
+      },
+      "testing_data": {
+        "tested": 7700011,
+        "positive": 0,
+        "negative": 0,
+        "unconfirmed": 0,
+        "date": "04/10/2020",
+        "source": "https://stopcorona.tn.gov.in/wp-content/uploads/2020/10/Media-Bulletin-04.10.2020-24-Pages-English-466-KB.pdf%22"
+      }
+    },
     "UP": {
       "name": "Uttar Pradesh",
-      "confirmed": 410626,
-      "active": 47823,
-      "recovered": 356826,
-      "dead": 5977,
-      "updatedTime": "03/10/2020 19:18:51",
+      "confirmed": 414466,
+      "active": 46385,
+      "recovered": 362052,
+      "dead": 6029,
+      "updatedTime": "04/10/2020 19:40:45",
       "note": "",
       "stateCode": "UP",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 3840,
+        "recovered": 5226,
+        "dead": 52,
+        "active": -1438
       },
       "testing_data": {
         "tested": 10739169,
@@ -197,6 +197,30 @@
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/2791"
       }
     },
+    "KL": {
+      "name": "Kerala",
+      "confirmed": 221334,
+      "active": 80818,
+      "recovered": 139620,
+      "dead": 814,
+      "updatedTime": "03/10/2020 20:09:51",
+      "note": "Mahe native who expired in Kannur included in Kerala's deceased tally.\nSome non-covid deaths have also been reported in the bulletin.\nThese have been reduced from active count",
+      "stateCode": "KL",
+      "today": {
+        "confirmed": 0,
+        "recovered": 0,
+        "dead": 0,
+        "active": 0
+      },
+      "testing_data": {
+        "tested": 3164072,
+        "positive": 229888,
+        "negative": 0,
+        "unconfirmed": 0,
+        "date": "04/10/2020",
+        "source": "https://dhs.kerala.gov.in/%e0%b4%a1%e0%b5%86%e0%b4%af%e0%b4%bf%e0%b4%b2%e0%b4%bf-%e0%b4%ac%e0%b5%81%e0%b4%b3%e0%b5%8d%e0%b4%b3%e0%b4%b1%e0%b5%8d%e0%b4%b1%e0%b4%bf%e0%b4%a8%e0%b5%8d%e2%80%8d/"
+      }
+    },
     "TG": {
       "name": "Telangana",
       "confirmed": 199276,
@@ -269,15 +293,15 @@
         "source": "https://twitter.com/himantabiswa/status/1312420308238827520/photo/1"
       }
     },
-    "KL": {
-      "name": "Kerala",
-      "confirmed": 221334,
-      "active": 80818,
-      "recovered": 139620,
-      "dead": 814,
-      "updatedTime": "03/10/2020 20:09:51",
-      "note": "Mahe native who expired in Kannur included in Kerala's deceased tally.\nOne patient absconded from Palakkad to TN and one patient returned back to Maharashtra. Some non-covid deaths (accident,cancer etc.) have also been reported in the bulletin.\nIn total 82 such cases have been reduced from active count",
-      "stateCode": "KL",
+    "RJ": {
+      "name": "Rajasthan",
+      "confirmed": 141846,
+      "active": 21075,
+      "recovered": 119241,
+      "dead": 1530,
+      "updatedTime": "03/10/2020 19:41:00",
+      "note": "",
+      "stateCode": "RJ",
       "today": {
         "confirmed": 0,
         "recovered": 0,
@@ -285,12 +309,12 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 3164072,
-        "positive": 229888,
-        "negative": 0,
-        "unconfirmed": 0,
+        "tested": 3207733,
+        "positive": 0,
+        "negative": 3061376,
+        "unconfirmed": 2327,
         "date": "04/10/2020",
-        "source": "https://dhs.kerala.gov.in/%e0%b4%a1%e0%b5%86%e0%b4%af%e0%b4%bf%e0%b4%b2%e0%b4%bf-%e0%b4%ac%e0%b5%81%e0%b4%b3%e0%b5%8d%e0%b4%b3%e0%b4%b1%e0%b5%8d%e0%b4%b1%e0%b4%bf%e0%b4%a8%e0%b5%8d%e2%80%8d/"
+        "source": "https://twitter.com/ANI/status/1312741381094338565?s=20"
       }
     },
     "GJ": {
@@ -317,15 +341,15 @@
         "source": "https://twitter.com/PIBAhmedabad/status/1312401585033474048?s=20"
       }
     },
-    "RJ": {
-      "name": "Rajasthan",
-      "confirmed": 141846,
-      "active": 21075,
-      "recovered": 119241,
-      "dead": 1530,
-      "updatedTime": "03/10/2020 19:41:00",
+    "MP": {
+      "name": "Madhya Pradesh",
+      "confirmed": 133918,
+      "active": 19807,
+      "recovered": 111712,
+      "dead": 2399,
+      "updatedTime": "03/10/2020 22:08:51",
       "note": "",
-      "stateCode": "RJ",
+      "stateCode": "MP",
       "today": {
         "confirmed": 0,
         "recovered": 0,
@@ -333,12 +357,12 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 3207733,
+        "tested": 2208006,
         "positive": 0,
-        "negative": 3061376,
-        "unconfirmed": 2327,
+        "negative": 2003105,
+        "unconfirmed": 0,
         "date": "04/10/2020",
-        "source": "https://twitter.com/ANI/status/1312741381094338565?s=20"
+        "source": "https://www.mpinfo.org/MPinfoStatic/other_updates/Health-Bulletin-04Oct20.pdf"
       }
     },
     "HR": {
@@ -365,15 +389,15 @@
         "source": "http://www.nhmharyana.gov.in/WriteReadData/userfiles/file/CoronaVirus/Daily%20Bulletin%20of%20COVID%2019%20as%20on%2003-10-20.pdf"
       }
     },
-    "MP": {
-      "name": "Madhya Pradesh",
-      "confirmed": 133918,
-      "active": 19807,
-      "recovered": 111712,
-      "dead": 2399,
-      "updatedTime": "03/10/2020 22:08:51",
-      "note": "",
-      "stateCode": "MP",
+    "CT": {
+      "name": "Chhattisgarh",
+      "confirmed": 121400,
+      "active": 29292,
+      "recovered": 91077,
+      "dead": 1031,
+      "updatedTime": "03/10/2020 23:28:57",
+      "note": "[Sep 9]:57 backdated deceased cases have been added.",
+      "stateCode": "CT",
       "today": {
         "confirmed": 0,
         "recovered": 0,
@@ -381,12 +405,12 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 2117799,
+        "tested": 1155975,
         "positive": 0,
-        "negative": 1979599,
+        "negative": 0,
         "unconfirmed": 0,
         "date": "03/10/2020",
-        "source": "https://www.mpinfo.org/MPinfoStatic/other_updates/Health-Bulletin-03Oct20.pdf"
+        "source": "https://twitter.com/HealthCgGov/status/1312441973895172097"
       }
     },
     "PB": {
@@ -411,30 +435,6 @@
         "unconfirmed": 0,
         "date": "04/10/2020",
         "source": "https://twitter.com/ANI/status/1312752207884881926?s=20"
-      }
-    },
-    "CT": {
-      "name": "Chhattisgarh",
-      "confirmed": 121400,
-      "active": 29292,
-      "recovered": 91077,
-      "dead": 1031,
-      "updatedTime": "03/10/2020 23:28:57",
-      "note": "[Sep 9]:57 backdated deceased cases have been added.",
-      "stateCode": "CT",
-      "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
-      },
-      "testing_data": {
-        "tested": 1155975,
-        "positive": 0,
-        "negative": 0,
-        "unconfirmed": 0,
-        "date": "03/10/2020",
-        "source": "https://twitter.com/HealthCgGov/status/1312441973895172097"
       }
     },
     "JH": {
@@ -501,12 +501,12 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 736371,
+        "tested": 743551,
         "positive": 0,
-        "negative": 658307,
-        "unconfirmed": 14485,
-        "date": "03/10/2020",
-        "source": "https://twitter.com/ANI/status/1312395148634984448?s=20"
+        "negative": 664251,
+        "unconfirmed": 14275,
+        "date": "04/10/2020",
+        "source": "https://twitter.com/ANI/status/1312752612710649861?s=20"
       }
     },
     "GA": {
@@ -631,18 +631,18 @@
     },
     "MN": {
       "name": "Manipur",
-      "confirmed": 11649,
-      "active": 2497,
-      "recovered": 9081,
-      "dead": 71,
-      "updatedTime": "03/10/2020 19:50:54",
+      "confirmed": 11855,
+      "active": 2576,
+      "recovered": 9205,
+      "dead": 74,
+      "updatedTime": "04/10/2020 19:40:47",
       "note": "",
       "stateCode": "MN",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 206,
+        "recovered": 124,
+        "dead": 3,
+        "active": 79
       },
       "testing_data": {
         "tested": 252437,
@@ -677,30 +677,6 @@
         "source": "https://twitter.com/DirectorateofHS/status/1312455101722710016"
       }
     },
-    "NL": {
-      "name": "Nagaland",
-      "confirmed": 6429,
-      "active": 1150,
-      "recovered": 5212,
-      "dead": 12,
-      "updatedTime": "03/10/2020 22:41:59",
-      "note": "",
-      "stateCode": "NL",
-      "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
-      },
-      "testing_data": {
-        "tested": 81989,
-        "positive": 0,
-        "negative": 0,
-        "unconfirmed": 0,
-        "date": "04/10/2020",
-        "source": "https://twitter.com/MyGovNagaland/status/1312733886665814016?s=20"
-      }
-    },
     "ML": {
       "name": "Meghalaya",
       "confirmed": 6456,
@@ -723,6 +699,30 @@
         "unconfirmed": 0,
         "date": "01/10/2020",
         "source": "https://www.syllad.com/meghalaya-2-more-dies-of-covid-19-death-toll-rises-to-53/"
+      }
+    },
+    "NL": {
+      "name": "Nagaland",
+      "confirmed": 6429,
+      "active": 1150,
+      "recovered": 5212,
+      "dead": 12,
+      "updatedTime": "03/10/2020 22:41:59",
+      "note": "",
+      "stateCode": "NL",
+      "today": {
+        "confirmed": 0,
+        "recovered": 0,
+        "dead": 0,
+        "active": 0
+      },
+      "testing_data": {
+        "tested": 81989,
+        "positive": 0,
+        "negative": 0,
+        "unconfirmed": 0,
+        "date": "04/10/2020",
+        "source": "https://twitter.com/MyGovNagaland/status/1312733886665814016?s=20"
       }
     },
     "LA": {
@@ -830,12 +830,12 @@
         "active": 17
       },
       "testing_data": {
-        "tested": 81967,
+        "tested": 82667,
         "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "03/10/2020",
-        "source": "https://dipr.mizoram.gov.in/post/status-of-state-surveillance-of-covid-19-03102020-last-24hours-500pm"
+        "date": "04/10/2020",
+        "source": "https://dipr.mizoram.gov.in/post/status-of-state-surveillance-of-covid-19-04102020-last-24hours-500pm"
       }
     },
     "UN": {
@@ -880,19 +880,19 @@
     }
   },
   "testing_data": {
-    "tested": 86602645,
+    "tested": 86700732,
     "positive": 1816095,
-    "negative": 18232090,
-    "unconfirmed": 26870
+    "negative": 18261540,
+    "unconfirmed": 26660
   },
   "testing_data_imcr": {
     "tested": 78992534,
     "source": "http://twitter.com/ICMRDELHI/status/1312595656842698753"
   },
   "today": {
-    "confirmed": 12364,
-    "recovered": 9751,
-    "dead": 98,
-    "active": 2515
+    "confirmed": 16410,
+    "recovered": 15101,
+    "dead": 153,
+    "active": 1156
   }
 }
