@@ -799,15 +799,15 @@
       {
         "district": "Dhemaji",
         "notes": "",
-        "active": 321,
+        "active": 320,
         "confirmed": 765,
         "recovered": 440,
-        "dead": 4,
+        "dead": 5,
         "today": {
           "confirmed": 0,
           "recovered": 0,
-          "active": 0,
-          "dead": 0
+          "active": -1,
+          "dead": 1
         }
       },
       {
@@ -939,15 +939,15 @@
       {
         "district": "Kamrup Metropolitan",
         "notes": "",
-        "active": 29439,
+        "active": 29438,
         "confirmed": 44134,
         "recovered": 14599,
-        "dead": 96,
+        "dead": 97,
         "today": {
           "confirmed": 211,
           "recovered": 0,
-          "active": 211,
-          "dead": 0
+          "active": 210,
+          "dead": 1
         }
       },
       {
@@ -995,15 +995,15 @@
       {
         "district": "Lakhimpur",
         "notes": "",
-        "active": 1856,
+        "active": 1855,
         "confirmed": 3006,
         "recovered": 1135,
-        "dead": 15,
+        "dead": 16,
         "today": {
           "confirmed": 0,
           "recovered": 0,
-          "active": 0,
-          "dead": 0
+          "active": -1,
+          "dead": 1
         }
       },
       {
@@ -1163,9 +1163,9 @@
     ],
     "today": {
       "confirmed": 211,
-      "active": 211,
+      "active": 208,
       "recovered": 0,
-      "dead": 0
+      "dead": 3
     },
     "confirmed": 186200,
     "recovered": 152124,
