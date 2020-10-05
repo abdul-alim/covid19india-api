@@ -1,9 +1,9 @@
 {
-  "confirmed": 6623515,
-  "recovered": 5585645,
-  "dead": 102723,
-  "active": 934216,
-  "updatedTime": "05/10/2020 10:55:47",
+  "confirmed": 6626291,
+  "recovered": 5586111,
+  "dead": 102746,
+  "active": 936503,
+  "updatedTime": "05/10/2020 13:59:42",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -175,18 +175,18 @@
     },
     "OR": {
       "name": "Odisha",
-      "confirmed": 232713,
-      "active": 29451,
+      "confirmed": 235330,
+      "active": 32051,
       "recovered": 202302,
-      "dead": 960,
+      "dead": 977,
       "updatedTime": "04/10/2020 22:06:44",
       "note": "[July 12th] :20 non-covid deaths reported in state dashboard are included in the deceased count\n[June 22nd]: NDRF/ODRF cases have been redistributed to districts based on state dashboard",
       "stateCode": "OR",
       "today": {
-        "confirmed": 0,
+        "confirmed": 2617,
         "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "dead": 4,
+        "active": 2613
       },
       "testing_data": {
         "tested": 3440835,
@@ -559,18 +559,18 @@
     },
     "TR": {
       "name": "Tripura",
-      "confirmed": 26871,
-      "active": 5171,
-      "recovered": 21387,
-      "dead": 290,
-      "updatedTime": "04/10/2020 09:27:53",
+      "confirmed": 27030,
+      "active": 4858,
+      "recovered": 21853,
+      "dead": 296,
+      "updatedTime": "05/10/2020 13:59:44",
       "note": "[Aug 4]: Tripura bulletin for the previous day is released on the next day. We will add the cases for Tripura against the date of release, as that is the convention that we are following for other states.",
       "stateCode": "TR",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 159,
+        "recovered": 466,
+        "dead": 6,
+        "active": -313
       },
       "testing_data": {
         "tested": 398609,
@@ -890,9 +890,9 @@
     "source": "http://twitter.com/ICMRDELHI/status/1312955037144891392"
   },
   "today": {
-    "confirmed": 1335,
-    "recovered": 2192,
-    "dead": 8,
-    "active": -865
+    "confirmed": 4111,
+    "recovered": 2658,
+    "dead": 18,
+    "active": 1435
   }
 }
