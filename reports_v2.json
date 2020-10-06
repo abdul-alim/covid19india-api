@@ -1,8 +1,8 @@
 {
   "confirmed": 6724380,
   "recovered": 5703607,
-  "dead": 104014,
-  "active": 915804,
+  "dead": 104032,
+  "active": 915786,
   "updatedTime": "06/10/2020 20:55:50",
   "states": {
     "MH": {
@@ -368,17 +368,17 @@
     "HR": {
       "name": "Haryana",
       "confirmed": 134909,
-      "active": 11822,
+      "active": 11804,
       "recovered": 121596,
-      "dead": 1491,
+      "dead": 1509,
       "updatedTime": "05/10/2020 21:12:58",
       "note": "[Aug 2]: 21 Foreign Evacuees have been merged to Panchkula and 14 Italian tourists have been merged to Gurugram in HR bulletin.",
       "stateCode": "HR",
       "today": {
         "confirmed": 0,
         "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "dead": 18,
+        "active": -18
       },
       "testing_data": {
         "tested": 2040177,
@@ -892,7 +892,7 @@
   "today": {
     "confirmed": 42072,
     "recovered": 44299,
-    "dead": 413,
-    "active": -2640
+    "dead": 431,
+    "active": -2658
   }
 }
