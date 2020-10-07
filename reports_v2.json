@@ -1,9 +1,9 @@
 {
-  "confirmed": 6764705,
-  "recovered": 5750395,
+  "confirmed": 6764710,
+  "recovered": 5750403,
   "dead": 104651,
-  "active": 908703,
-  "updatedTime": "07/10/2020 17:44:51",
+  "active": 908700,
+  "updatedTime": "07/10/2020 18:13:52",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -35,7 +35,7 @@
       "active": 49513,
       "recovered": 678828,
       "dead": 6086,
-      "updatedTime": "07/10/2020 17:44:53",
+      "updatedTime": "07/10/2020 17:50:55",
       "note": "",
       "stateCode": "AP",
       "today": {
@@ -213,12 +213,12 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 3263691,
-        "positive": 242801,
+        "tested": 3340242,
+        "positive": 253407,
         "negative": 0,
-        "unconfirmed": 10903,
-        "date": "06/10/2020",
-        "source": "https://dhs.kerala.gov.in/wp-content/uploads/2020/10/Bulletin-HFWD-English-October-06.pdf"
+        "unconfirmed": 0,
+        "date": "07/10/2020",
+        "source": "https://dhs.kerala.gov.in/%e0%b4%a1%e0%b5%86%e0%b4%af%e0%b4%bf%e0%b4%b2%e0%b4%bf-%e0%b4%ac%e0%b5%81%e0%b4%b3%e0%b5%8d%e0%b4%b3%e0%b4%b1%e0%b5%8d%e0%b4%b1%e0%b4%bf%e0%b4%a8%e0%b5%8d%e2%80%8d/"
       }
     },
     "TG": {
@@ -775,18 +775,18 @@
     },
     "DN": {
       "name": "Dadra and Nagar Haveli and Daman and Diu",
-      "confirmed": 3101,
-      "active": 103,
-      "recovered": 2968,
+      "confirmed": 3106,
+      "active": 100,
+      "recovered": 2976,
       "dead": 2,
-      "updatedTime": "06/10/2020 20:56:32",
+      "updatedTime": "07/10/2020 18:13:55",
       "note": "",
       "stateCode": "DN",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 5,
+        "recovered": 8,
         "dead": 0,
-        "active": 0
+        "active": -3
       },
       "isUnknown": true
     },
@@ -820,7 +820,7 @@
       "active": 253,
       "recovered": 1895,
       "dead": 0,
-      "updatedTime": "07/10/2020 17:44:57",
+      "updatedTime": "07/10/2020 17:51:01",
       "note": "",
       "stateCode": "MZ",
       "today": {
@@ -880,19 +880,19 @@
     }
   },
   "testing_data": {
-    "tested": 89302837,
-    "positive": 1868614,
+    "tested": 89379388,
+    "positive": 1879220,
     "negative": 18723184,
-    "unconfirmed": 38634
+    "unconfirmed": 27731
   },
   "testing_data_imcr": {
     "tested": 82271654,
     "source": "http://twitter.com/ICMRDELHI/status/1313681967225794560"
   },
   "today": {
-    "confirmed": 10526,
-    "recovered": 9142,
+    "confirmed": 10531,
+    "recovered": 9150,
     "dead": 60,
-    "active": 1324
+    "active": 1321
   }
 }
