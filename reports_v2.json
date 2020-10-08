@@ -1,9 +1,9 @@
 {
-  "confirmed": 6832988,
-  "recovered": 5824462,
-  "dead": 105554,
-  "active": 901924,
-  "updatedTime": "08/10/2020 01:48:02",
+  "confirmed": 6834886,
+  "recovered": 5826553,
+  "dead": 105566,
+  "active": 901719,
+  "updatedTime": "08/10/2020 10:39:57",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -223,18 +223,18 @@
     },
     "TG": {
       "name": "Telangana",
-      "confirmed": 204748,
-      "active": 26551,
-      "recovered": 177008,
-      "dead": 1189,
-      "updatedTime": "07/10/2020 11:01:55",
+      "confirmed": 206644,
+      "active": 26368,
+      "recovered": 179075,
+      "dead": 1201,
+      "updatedTime": "08/10/2020 10:40:00",
       "note": "[July 27] : Telangana bulletin for the previous day is released on the next day. We will add the cases for Telangana against the date of release, as that is the convention that we are following for other states.\n--\nDistrict-wise numbers are not reported because cumulative counts for each district are not provided in Telangana bulletin",
       "stateCode": "TG",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 1896,
+        "recovered": 2067,
+        "dead": 12,
+        "active": -183
       },
       "testing_data": {
         "tested": 3346472,
@@ -816,18 +816,18 @@
     },
     "MZ": {
       "name": "Mizoram",
-      "confirmed": 2148,
-      "active": 253,
-      "recovered": 1895,
+      "confirmed": 2150,
+      "active": 231,
+      "recovered": 1919,
       "dead": 0,
-      "updatedTime": "07/10/2020 17:51:01",
+      "updatedTime": "08/10/2020 10:34:52",
       "note": "",
       "stateCode": "MZ",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 2,
+        "recovered": 24,
         "dead": 0,
-        "active": 0
+        "active": -22
       },
       "testing_data": {
         "tested": 84822,
@@ -886,13 +886,13 @@
     "unconfirmed": 44508
   },
   "testing_data_imcr": {
-    "tested": 82271654,
-    "source": "http://twitter.com/ICMRDELHI/status/1313681967225794560"
+    "tested": 83465975,
+    "source": "https://twitter.com/ICMRDELHI/status/1314043766722891776/photo/1"
   },
   "today": {
-    "confirmed": 0,
-    "recovered": 0,
-    "dead": 0,
-    "active": 0
+    "confirmed": 1898,
+    "recovered": 2091,
+    "dead": 12,
+    "active": -205
   }
 }
