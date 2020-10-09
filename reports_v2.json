@@ -1,9 +1,9 @@
 {
-  "confirmed": 6926881,
-  "recovered": 5926637,
-  "dead": 106788,
-  "active": 892413,
-  "updatedTime": "09/10/2020 20:16:16",
+  "confirmed": 6935401,
+  "recovered": 5935566,
+  "dead": 106877,
+  "active": 891915,
+  "updatedTime": "09/10/2020 20:41:17",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -47,7 +47,7 @@
       "testing_data": {
         "tested": 6420474,
         "positive": 0,
-        "negative": 5674645,
+        "negative": 5675610,
         "unconfirmed": 0,
         "date": "09/10/2020",
         "source": "https://twitter.com/ArogyaAndhra/status/1314557900157640707?s=20"
@@ -79,18 +79,18 @@
     },
     "TN": {
       "name": "Tamil Nadu",
-      "confirmed": 640943,
-      "active": 44437,
-      "recovered": 586454,
-      "dead": 10052,
-      "updatedTime": "08/10/2020 21:13:56",
+      "confirmed": 646128,
+      "active": 44197,
+      "recovered": 591811,
+      "dead": 10120,
+      "updatedTime": "09/10/2020 20:41:19",
       "note": "[July 22]: 444 backdated deceased entries added to Chennai in TN bulletin.\n2 deaths cross notified to other states from Chennai and Coimbatore.\n1 patient died after turning negative for infection in Chengalpattu.\nThese cases have been added to TN deceased tally",
       "stateCode": "TN",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 5185,
+        "recovered": 5357,
+        "dead": 68,
+        "active": -240
       },
       "testing_data": {
         "tested": 8141534,
@@ -247,18 +247,18 @@
     },
     "BR": {
       "name": "Bihar",
-      "confirmed": 192671,
-      "active": 11384,
-      "recovered": 180357,
-      "dead": 929,
-      "updatedTime": "08/10/2020 21:21:53",
+      "confirmed": 193826,
+      "active": 11110,
+      "recovered": 181781,
+      "dead": 934,
+      "updatedTime": "09/10/2020 20:41:21",
       "note": "",
       "stateCode": "BR",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 1155,
+        "recovered": 1424,
+        "dead": 5,
+        "active": -274
       },
       "testing_data": {
         "tested": 8199627,
@@ -319,18 +319,18 @@
     },
     "RJ": {
       "name": "Rajasthan",
-      "confirmed": 152605,
-      "active": 21382,
-      "recovered": 129618,
-      "dead": 1605,
-      "updatedTime": "08/10/2020 22:00:01",
+      "confirmed": 154785,
+      "active": 21398,
+      "recovered": 131766,
+      "dead": 1621,
+      "updatedTime": "09/10/2020 20:41:23",
       "note": "",
       "stateCode": "RJ",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 2180,
+        "recovered": 2148,
+        "dead": 16,
+        "active": 16
       },
       "testing_data": {
         "tested": 3311811,
@@ -882,7 +882,7 @@
   "testing_data": {
     "tested": 92541364,
     "positive": 1920181,
-    "negative": 19329174,
+    "negative": 19330139,
     "unconfirmed": 35607
   },
   "testing_data_imcr": {
@@ -890,9 +890,9 @@
     "source": "http://twitter.com/ICMRDELHI/status/1314436130092150785"
   },
   "today": {
-    "confirmed": 23096,
-    "recovered": 23430,
-    "dead": 267,
-    "active": -601
+    "confirmed": 31616,
+    "recovered": 32359,
+    "dead": 356,
+    "active": -1099
   }
 }
