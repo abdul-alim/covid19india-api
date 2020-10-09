@@ -1,9 +1,9 @@
 {
-  "confirmed": 6957511,
-  "recovered": 5955462,
-  "dead": 107039,
-  "active": 893956,
-  "updatedTime": "09/10/2020 21:26:19",
+  "confirmed": 6958127,
+  "recovered": 5955985,
+  "dead": 107047,
+  "active": 894041,
+  "updatedTime": "09/10/2020 21:43:16",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -59,7 +59,7 @@
       "active": 118851,
       "recovered": 561610,
       "dead": 9789,
-      "updatedTime": "09/10/2020 21:26:22",
+      "updatedTime": "09/10/2020 21:40:18",
       "note": "",
       "stateCode": "KA",
       "today": {
@@ -511,18 +511,18 @@
     },
     "GA": {
       "name": "Goa",
-      "confirmed": 37102,
-      "active": 4716,
-      "recovered": 31902,
-      "dead": 484,
-      "updatedTime": "08/10/2020 21:14:14",
+      "confirmed": 37591,
+      "active": 4783,
+      "recovered": 32317,
+      "dead": 491,
+      "updatedTime": "09/10/2020 21:43:19",
       "note": "",
       "stateCode": "GA",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 489,
+        "recovered": 415,
+        "dead": 7,
+        "active": 67
       },
       "testing_data": {
         "tested": 267362,
@@ -597,12 +597,12 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 316865,
+        "tested": 319667,
         "positive": 0,
-        "negative": 299934,
-        "unconfirmed": 153,
-        "date": "08/10/2020",
-        "source": "https://twitter.com/nhm_hp/status/1314234183552704516"
+        "negative": 302581,
+        "unconfirmed": 109,
+        "date": "09/10/2020",
+        "source": "https://twitter.com/nhm_hp/status/1314595469536837635"
       }
     },
     "CH": {
@@ -679,18 +679,18 @@
     },
     "ML": {
       "name": "Meghalaya",
-      "confirmed": 7261,
-      "active": 2369,
-      "recovered": 4832,
-      "dead": 60,
-      "updatedTime": "09/10/2020 12:16:55",
+      "confirmed": 7388,
+      "active": 2424,
+      "recovered": 4903,
+      "dead": 61,
+      "updatedTime": "09/10/2020 21:43:21",
       "note": "",
       "stateCode": "ML",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 127,
+        "recovered": 71,
+        "dead": 1,
+        "active": 55
       },
       "testing_data": {
         "tested": 167265,
@@ -817,17 +817,17 @@
     "MZ": {
       "name": "Mizoram",
       "confirmed": 2157,
-      "active": 220,
-      "recovered": 1937,
+      "active": 183,
+      "recovered": 1974,
       "dead": 0,
-      "updatedTime": "09/10/2020 20:01:30",
+      "updatedTime": "09/10/2020 21:43:23",
       "note": "",
       "stateCode": "MZ",
       "today": {
         "confirmed": 7,
-        "recovered": 11,
+        "recovered": 48,
         "dead": 0,
-        "active": -4
+        "active": -41
       },
       "testing_data": {
         "tested": 85986,
@@ -880,19 +880,19 @@
     }
   },
   "testing_data": {
-    "tested": 92541704,
-    "positive": 1920181,
-    "negative": 19330139,
-    "unconfirmed": 35607
+    "tested": 92544871,
+    "positive": 1920193,
+    "negative": 19333181,
+    "unconfirmed": 35521
   },
   "testing_data_imcr": {
     "tested": 84634680,
     "source": "http://twitter.com/ICMRDELHI/status/1314436130092150785"
   },
   "today": {
-    "confirmed": 53726,
-    "recovered": 52255,
-    "dead": 518,
-    "active": 953
+    "confirmed": 54342,
+    "recovered": 52778,
+    "dead": 526,
+    "active": 1038
   }
 }
