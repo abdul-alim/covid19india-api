@@ -757,15 +757,15 @@
       {
         "district": "Charaideo",
         "notes": "",
-        "active": 2,
+        "active": 1,
         "confirmed": 113,
         "recovered": 105,
-        "dead": 6,
+        "dead": 7,
         "today": {
           "confirmed": 0,
           "recovered": 0,
-          "active": 0,
-          "dead": 0
+          "active": -1,
+          "dead": 1
         }
       },
       {
@@ -827,15 +827,15 @@
       {
         "district": "Dibrugarh",
         "notes": "",
-        "active": 7000,
+        "active": 6997,
         "confirmed": 9486,
         "recovered": 2409,
-        "dead": 77,
+        "dead": 80,
         "today": {
           "confirmed": 0,
           "recovered": 0,
-          "active": 0,
-          "dead": 0
+          "active": -3,
+          "dead": 3
         }
       },
       {
@@ -939,15 +939,15 @@
       {
         "district": "Kamrup Metropolitan",
         "notes": "",
-        "active": 30503,
+        "active": 30502,
         "confirmed": 45205,
         "recovered": 14599,
-        "dead": 103,
+        "dead": 104,
         "today": {
           "confirmed": 252,
           "recovered": 0,
-          "active": 252,
-          "dead": 0
+          "active": 251,
+          "dead": 1
         }
       },
       {
@@ -1037,15 +1037,15 @@
       {
         "district": "Nagaon",
         "notes": "",
-        "active": 1993,
+        "active": 1992,
         "confirmed": 4515,
         "recovered": 2506,
-        "dead": 16,
+        "dead": 17,
         "today": {
           "confirmed": 0,
           "recovered": 0,
-          "active": 0,
-          "dead": 0
+          "active": -1,
+          "dead": 1
         }
       },
       {
@@ -1079,29 +1079,29 @@
       {
         "district": "Sivasagar",
         "notes": "",
-        "active": 32,
+        "active": 31,
         "confirmed": 529,
         "recovered": 473,
-        "dead": 24,
+        "dead": 25,
         "today": {
           "confirmed": 0,
           "recovered": 0,
-          "active": 0,
-          "dead": 0
+          "active": -1,
+          "dead": 1
         }
       },
       {
         "district": "Sonitpur",
         "notes": "",
-        "active": 814,
+        "active": 813,
         "confirmed": 2548,
         "recovered": 1727,
-        "dead": 7,
+        "dead": 8,
         "today": {
           "confirmed": 0,
           "recovered": 0,
-          "active": 0,
-          "dead": 0
+          "active": -1,
+          "dead": 1
         }
       },
       {
@@ -1163,9 +1163,9 @@
     ],
     "today": {
       "confirmed": 352,
-      "active": 352,
+      "active": 344,
       "recovered": 0,
-      "dead": 0
+      "dead": 8
     },
     "confirmed": 192416,
     "recovered": 161901,
