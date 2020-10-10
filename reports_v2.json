@@ -1,9 +1,9 @@
 {
-  "confirmed": 6997852,
-  "recovered": 6003244,
-  "dead": 107568,
-  "active": 885984,
-  "updatedTime": "10/10/2020 19:41:22",
+  "confirmed": 7005722,
+  "recovered": 6012676,
+  "dead": 107709,
+  "active": 884281,
+  "updatedTime": "10/10/2020 19:58:18",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -103,18 +103,18 @@
     },
     "UP": {
       "name": "Uttar Pradesh",
-      "confirmed": 430666,
-      "active": 41287,
-      "recovered": 383086,
-      "dead": 6293,
-      "updatedTime": "09/10/2020 20:16:20",
+      "confirmed": 433712,
+      "active": 40210,
+      "recovered": 387149,
+      "dead": 6353,
+      "updatedTime": "10/10/2020 19:58:20",
       "note": "",
       "stateCode": "UP",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 3046,
+        "recovered": 4063,
+        "dead": 60,
+        "active": -1077
       },
       "testing_data": {
         "tested": 11726075,
@@ -127,18 +127,18 @@
     },
     "DL": {
       "name": "Delhi",
-      "confirmed": 303693,
-      "active": 21955,
-      "recovered": 276046,
-      "dead": 5692,
-      "updatedTime": "09/10/2020 20:05:20",
+      "confirmed": 306559,
+      "active": 22007,
+      "recovered": 278812,
+      "dead": 5740,
+      "updatedTime": "10/10/2020 19:58:21",
       "note": "[July 14]: Value for the total tests conducted has been reduced by 97008 in the state bulletin. Reason given : \"Reconciled with ICMR figures\". We have made the same change.\n[June 16]: 344 deceased cases have been retroactively added to DL bulletin.",
       "stateCode": "DL",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 2866,
+        "recovered": 2766,
+        "dead": 48,
+        "active": 52
       },
       "testing_data": {
         "tested": 3574666,
@@ -203,7 +203,7 @@
       "active": 95918,
       "recovered": 182874,
       "dead": 979,
-      "updatedTime": "10/10/2020 19:41:23",
+      "updatedTime": "10/10/2020 19:46:19",
       "note": "Mahe native who expired in Kannur included in Kerala's deceased tally.\nSome non-covid deaths have also been reported in the bulletin.\nThese have been reduced from active count",
       "stateCode": "KL",
       "today": {
@@ -214,7 +214,7 @@
       },
       "testing_data": {
         "tested": 3438678,
-        "positive": 0,
+        "positive": 279857,
         "negative": 0,
         "unconfirmed": 10537,
         "date": "10/10/2020",
@@ -343,18 +343,18 @@
     },
     "MP": {
       "name": "Madhya Pradesh",
-      "confirmed": 143629,
-      "active": 16168,
-      "recovered": 124887,
-      "dead": 2574,
-      "updatedTime": "09/10/2020 20:05:23",
+      "confirmed": 145244,
+      "active": 15615,
+      "recovered": 127030,
+      "dead": 2599,
+      "updatedTime": "10/10/2020 19:58:23",
       "note": "",
       "stateCode": "MP",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 1615,
+        "recovered": 2143,
+        "dead": 25,
+        "active": -553
       },
       "testing_data": {
         "tested": 2377711,
@@ -381,12 +381,12 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 2156747,
+        "tested": 2184243,
         "positive": 0,
-        "negative": 2010557,
-        "unconfirmed": 6258,
-        "date": "09/10/2020",
-        "source": "http://www.nhmharyana.gov.in/WriteReadData/userfiles/file/CoronaVirus/Daily%20Bulletin%20of%20COVID%2019%20as%20on%2009-10-20.pdf"
+        "negative": 2037038,
+        "unconfirmed": 6115,
+        "date": "10/10/2020",
+        "source": "http://www.nhmharyana.gov.in/WriteReadData/userfiles/file/CoronaVirus/Daily%20Bulletin%20of%20COVID%2019%20as%20on%2010-10-20.pdf"
       }
     },
     "CT": {
@@ -511,18 +511,18 @@
     },
     "GA": {
       "name": "Goa",
-      "confirmed": 37591,
-      "active": 4783,
-      "recovered": 32317,
-      "dead": 491,
-      "updatedTime": "09/10/2020 21:56:20",
+      "confirmed": 37934,
+      "active": 4658,
+      "recovered": 32777,
+      "dead": 499,
+      "updatedTime": "10/10/2020 19:58:25",
       "note": "",
       "stateCode": "GA",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 343,
+        "recovered": 460,
+        "dead": 8,
+        "active": -125
       },
       "testing_data": {
         "tested": 270616,
@@ -880,19 +880,19 @@
     }
   },
   "testing_data": {
-    "tested": 93539203,
-    "positive": 1665559,
-    "negative": 19528385,
-    "unconfirmed": 37607
+    "tested": 93566699,
+    "positive": 1945416,
+    "negative": 19554866,
+    "unconfirmed": 37464
   },
   "testing_data_imcr": {
     "tested": 85798698,
     "source": "http://twitter.com/ICMRDELHI/status/1314769857041231873"
   },
   "today": {
-    "confirmed": 20759,
-    "recovered": 17403,
-    "dead": 118,
-    "active": 3238
+    "confirmed": 28629,
+    "recovered": 26835,
+    "dead": 259,
+    "active": 1535
   }
 }
