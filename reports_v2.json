@@ -1,9 +1,9 @@
 {
-  "confirmed": 7062774,
-  "recovered": 6086175,
-  "dead": 108403,
-  "active": 867130,
-  "updatedTime": "11/10/2020 19:41:22",
+  "confirmed": 7063955,
+  "recovered": 6087588,
+  "dead": 108412,
+  "active": 866889,
+  "updatedTime": "11/10/2020 19:58:18",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -47,7 +47,7 @@
       "testing_data": {
         "tested": 6569616,
         "positive": 0,
-        "negative": 0,
+        "negative": 5813889,
         "unconfirmed": 0,
         "date": "11/10/2020",
         "source": "https://twitter.com/ArogyaAndhra/status/1315266446906122240?s=20"
@@ -165,12 +165,12 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 3650989,
+        "tested": 3693600,
         "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "10/10/2020",
-        "source": "https://www.wbhealth.gov.in/uploaded_files/corona/WB_DHFW_Bulletin_10th_OCTOBER_REPORT_FINAL1.pdf"
+        "date": "11/10/2020",
+        "source": "https://www.wbhealth.gov.in/uploaded_files/corona/WB_DHFW_Bulletin_11th_OCTOBER_REPORT_FINAL.pdf"
       }
     },
     "OR": {
@@ -203,7 +203,7 @@
       "active": 96316,
       "recovered": 191798,
       "dead": 1004,
-      "updatedTime": "11/10/2020 19:41:25",
+      "updatedTime": "11/10/2020 19:47:21",
       "note": "Mahe native who expired in Kannur included in Kerala's deceased tally.\nSome non-covid deaths have also been reported in the bulletin.\nThese have been reduced from active count",
       "stateCode": "KL",
       "today": {
@@ -295,18 +295,18 @@
     },
     "GJ": {
       "name": "Gujarat",
-      "confirmed": 150414,
-      "active": 15857,
-      "recovered": 130997,
-      "dead": 3560,
-      "updatedTime": "10/10/2020 20:12:20",
+      "confirmed": 151595,
+      "active": 15616,
+      "recovered": 132410,
+      "dead": 3569,
+      "updatedTime": "11/10/2020 19:58:20",
       "note": "",
       "stateCode": "GJ",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 1181,
+        "recovered": 1413,
+        "dead": 9,
+        "active": -241
       },
       "testing_data": {
         "tested": 4961455,
@@ -501,12 +501,12 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 814616,
+        "tested": 822184,
         "positive": 0,
-        "negative": 730323,
-        "unconfirmed": 13947,
-        "date": "10/10/2020",
-        "source": "https://twitter.com/ANI/status/1314929153569820674?s=20"
+        "negative": 738954,
+        "unconfirmed": 11831,
+        "date": "11/10/2020",
+        "source": "https://twitter.com/DDnews_dehradun/status/1315293191210295296?s=20"
       }
     },
     "GA": {
@@ -880,19 +880,19 @@
     }
   },
   "testing_data": {
-    "tested": 94780416,
+    "tested": 94830595,
     "positive": 1967091,
-    "negative": 13947372,
-    "unconfirmed": 33773
+    "negative": 19769892,
+    "unconfirmed": 31657
   },
   "testing_data_imcr": {
     "tested": 86877242,
     "source": "http://twitter.com/ICMRDELHI/status/1315130096689111045"
   },
   "today": {
-    "confirmed": 11263,
-    "recovered": 11312,
-    "dead": 32,
-    "active": -81
+    "confirmed": 12444,
+    "recovered": 12725,
+    "dead": 41,
+    "active": -322
   }
 }
