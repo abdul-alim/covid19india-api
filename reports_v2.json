@@ -1,9 +1,9 @@
 {
-  "confirmed": 7156721,
-  "recovered": 6197488,
-  "dead": 109606,
-  "active": 848535,
-  "updatedTime": "12/10/2020 20:41:18",
+  "confirmed": 7160805,
+  "recovered": 6203130,
+  "dead": 109667,
+  "active": 846916,
+  "updatedTime": "12/10/2020 21:07:19",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -127,18 +127,18 @@
     },
     "DL": {
       "name": "Delhi",
-      "confirmed": 309339,
-      "active": 21701,
-      "recovered": 281869,
-      "dead": 5769,
-      "updatedTime": "12/10/2020 12:02:31",
+      "confirmed": 311188,
+      "active": 20535,
+      "recovered": 284844,
+      "dead": 5809,
+      "updatedTime": "12/10/2020 21:07:20",
       "note": "[July 14]: Value for the total tests conducted has been reduced by 97008 in the state bulletin. Reason given : \"Reconciled with ICMR figures\". We have made the same change.\n[June 16]: 344 deceased cases have been retroactively added to DL bulletin.",
       "stateCode": "DL",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 1849,
+        "recovered": 2975,
+        "dead": 40,
+        "active": -1166
       },
       "testing_data": {
         "tested": 3623419,
@@ -203,7 +203,7 @@
       "active": 94387,
       "recovered": 199634,
       "dead": 1027,
-      "updatedTime": "12/10/2020 20:41:20",
+      "updatedTime": "12/10/2020 20:52:24",
       "note": "Mahe native who expired in Kannur included in Kerala's deceased tally.\nSome non-covid deaths have also been reported in the bulletin.\nThese have been reduced from active count",
       "stateCode": "KL",
       "today": {
@@ -295,18 +295,18 @@
     },
     "GJ": {
       "name": "Gujarat",
-      "confirmed": 151595,
-      "active": 15616,
-      "recovered": 132410,
-      "dead": 3569,
-      "updatedTime": "12/10/2020 12:02:43",
+      "confirmed": 152764,
+      "active": 15335,
+      "recovered": 133852,
+      "dead": 3577,
+      "updatedTime": "12/10/2020 21:07:21",
       "note": "",
       "stateCode": "GJ",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 1169,
+        "recovered": 1442,
+        "dead": 8,
+        "active": -281
       },
       "testing_data": {
         "tested": 5012705,
@@ -367,26 +367,26 @@
     },
     "HR": {
       "name": "Haryana",
-      "confirmed": 142155,
-      "active": 10573,
-      "recovered": 130003,
-      "dead": 1579,
-      "updatedTime": "12/10/2020 12:02:48",
+      "confirmed": 143221,
+      "active": 10401,
+      "recovered": 131228,
+      "dead": 1592,
+      "updatedTime": "12/10/2020 21:07:23",
       "note": "[Aug 2]: 21 Foreign Evacuees have been merged to Panchkula and 14 Italian tourists have been merged to Gurugram in HR bulletin.",
       "stateCode": "HR",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 1066,
+        "recovered": 1225,
+        "dead": 13,
+        "active": -172
       },
       "testing_data": {
-        "tested": 2207900,
+        "tested": 2228869,
         "positive": 0,
-        "negative": 2059967,
-        "unconfirmed": 5778,
-        "date": "11/10/2020",
-        "source": "http://www.nhmharyana.gov.in/WriteReadData/userfiles/file/CoronaVirus/Daily%20Bulletin%20of%20COVID%2019%20as%20on%2011-10-20.pdf"
+        "negative": 2080161,
+        "unconfirmed": 5487,
+        "date": "12/10/2020",
+        "source": "http://www.nhmharyana.gov.in/WriteReadData/userfiles/file/CoronaVirus/Daily%20Bulletin%20of%20COVID%2019%20as%20on%2012-10-20.pdf"
       }
     },
     "CT": {
@@ -491,7 +491,7 @@
       "active": 6976,
       "recovered": 47306,
       "dead": 762,
-      "updatedTime": "12/10/2020 20:41:22",
+      "updatedTime": "12/10/2020 20:52:30",
       "note": "",
       "stateCode": "UT",
       "today": {
@@ -880,19 +880,19 @@
     }
   },
   "testing_data": {
-    "tested": 95859932,
+    "tested": 95880901,
     "positive": 489147,
-    "negative": 19925444,
-    "unconfirmed": 27633
+    "negative": 19945638,
+    "unconfirmed": 27342
   },
   "testing_data_imcr": {
     "tested": 87872093,
     "source": "https://twitter.com/ICMRDELHI/status/1315497605456039937/photo/1"
   },
   "today": {
-    "confirmed": 37421,
-    "recovered": 51061,
-    "dead": 422,
-    "active": -14062
+    "confirmed": 41505,
+    "recovered": 56703,
+    "dead": 483,
+    "active": -15681
   }
 }
