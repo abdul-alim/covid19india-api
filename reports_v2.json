@@ -1,9 +1,9 @@
 {
-  "confirmed": 7119409,
+  "confirmed": 7121832,
   "recovered": 6146744,
-  "dead": 109185,
-  "active": 862402,
-  "updatedTime": "12/10/2020 11:40:19",
+  "dead": 109203,
+  "active": 864807,
+  "updatedTime": "12/10/2020 12:11:18",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -11,7 +11,7 @@
       "active": 221178,
       "recovered": 1266240,
       "dead": 40345,
-      "updatedTime": "12/10/2020 00:36:20",
+      "updatedTime": "12/10/2020 12:02:23",
       "note": "[Sep 9] :239 cases have been removed from the hospitalized figures owing to the removal of duplicates and change of addresses as per the original residence,\n[Aug 15] : MH bulletin has reduced 819 confirmed cases in Mumbai and 72 confirmed cases from 'Other States' from the tally\n[Jun 16] : 1328 deceased cases have been retroactively added to MH bulletin.\n[Jun 20] : 69 deceased cases have been reduced based on state bulletin.",
       "stateCode": "MH",
       "today": {
@@ -35,7 +35,7 @@
       "active": 46295,
       "recovered": 703208,
       "dead": 6224,
-      "updatedTime": "11/10/2020 23:40:20",
+      "updatedTime": "12/10/2020 12:02:25",
       "note": "",
       "stateCode": "AP",
       "today": {
@@ -59,7 +59,7 @@
       "active": 120270,
       "recovered": 580054,
       "dead": 9966,
-      "updatedTime": "11/10/2020 23:40:21",
+      "updatedTime": "12/10/2020 12:02:26",
       "note": "",
       "stateCode": "KA",
       "today": {
@@ -83,7 +83,7 @@
       "active": 44095,
       "recovered": 602038,
       "dead": 10252,
-      "updatedTime": "12/10/2020 00:18:22",
+      "updatedTime": "12/10/2020 12:02:28",
       "note": "[July 22]: 444 backdated deceased entries added to Chennai in TN bulletin.\n2 deaths cross notified to other states from Chennai and Coimbatore.\n1 patient died after turning negative for infection in Chengalpattu.\nThese cases have been added to TN deceased tally",
       "stateCode": "TN",
       "today": {
@@ -107,7 +107,7 @@
       "active": 40019,
       "recovered": 390566,
       "dead": 6394,
-      "updatedTime": "11/10/2020 23:54:19",
+      "updatedTime": "12/10/2020 12:02:29",
       "note": "",
       "stateCode": "UP",
       "today": {
@@ -131,7 +131,7 @@
       "active": 21701,
       "recovered": 281869,
       "dead": 5769,
-      "updatedTime": "11/10/2020 23:22:22",
+      "updatedTime": "12/10/2020 12:02:31",
       "note": "[July 14]: Value for the total tests conducted has been reduced by 97008 in the state bulletin. Reason given : \"Reconciled with ICMR figures\". We have made the same change.\n[June 16]: 344 deceased cases have been retroactively added to DL bulletin.",
       "stateCode": "DL",
       "today": {
@@ -155,7 +155,7 @@
       "active": 30236,
       "recovered": 258948,
       "dead": 5622,
-      "updatedTime": "11/10/2020 20:38:20",
+      "updatedTime": "12/10/2020 12:02:33",
       "note": "",
       "stateCode": "WB",
       "today": {
@@ -175,26 +175,26 @@
     },
     "OR": {
       "name": "Odisha",
-      "confirmed": 252239,
-      "active": 23549,
+      "confirmed": 254662,
+      "active": 25954,
       "recovered": 227615,
-      "dead": 1075,
-      "updatedTime": "11/10/2020 21:17:19",
+      "dead": 1093,
+      "updatedTime": "12/10/2020 12:11:20",
       "note": "[July 12th] :20 non-covid deaths reported in state dashboard are included in the deceased count\n[June 22nd]: NDRF/ODRF cases have been redistributed to districts based on state dashboard",
       "stateCode": "OR",
       "today": {
-        "confirmed": 0,
+        "confirmed": 2423,
         "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "dead": 18,
+        "active": 2405
       },
       "testing_data": {
-        "tested": 3755671,
+        "tested": 3796767,
         "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "11/10/2020",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/2931"
+        "date": "12/10/2020",
+        "source": "https://statedashboard.odisha.gov.in/"
       }
     },
     "KL": {
@@ -203,7 +203,7 @@
       "active": 96316,
       "recovered": 191798,
       "dead": 1004,
-      "updatedTime": "11/10/2020 19:47:21",
+      "updatedTime": "12/10/2020 12:02:36",
       "note": "Mahe native who expired in Kannur included in Kerala's deceased tally.\nSome non-covid deaths have also been reported in the bulletin.\nThese have been reduced from active count",
       "stateCode": "KL",
       "today": {
@@ -227,7 +227,7 @@
       "active": 25713,
       "recovered": 185128,
       "dead": 1222,
-      "updatedTime": "11/10/2020 13:10:19",
+      "updatedTime": "12/10/2020 12:02:38",
       "note": "[July 27] : Telangana bulletin for the previous day is released on the next day. We will add the cases for Telangana against the date of release, as that is the convention that we are following for other states.\n--\nDistrict-wise numbers are not reported because cumulative counts for each district are not provided in Telangana bulletin",
       "stateCode": "TG",
       "today": {
@@ -251,7 +251,7 @@
       "active": 11097,
       "recovered": 184224,
       "dead": 946,
-      "updatedTime": "11/10/2020 23:40:26",
+      "updatedTime": "12/10/2020 12:02:40",
       "note": "",
       "stateCode": "BR",
       "today": {
@@ -275,7 +275,7 @@
       "active": 28385,
       "recovered": 164579,
       "dead": 816,
-      "updatedTime": "11/10/2020 23:54:21",
+      "updatedTime": "12/10/2020 12:02:42",
       "note": "",
       "stateCode": "AS",
       "today": {
@@ -299,7 +299,7 @@
       "active": 15616,
       "recovered": 132410,
       "dead": 3569,
-      "updatedTime": "11/10/2020 20:11:21",
+      "updatedTime": "12/10/2020 12:02:43",
       "note": "",
       "stateCode": "GJ",
       "today": {
@@ -323,7 +323,7 @@
       "active": 21412,
       "recovered": 135990,
       "dead": 1650,
-      "updatedTime": "12/10/2020 00:05:24",
+      "updatedTime": "12/10/2020 12:02:44",
       "note": "",
       "stateCode": "RJ",
       "today": {
@@ -347,7 +347,7 @@
       "active": 15177,
       "recovered": 129019,
       "dead": 2624,
-      "updatedTime": "11/10/2020 23:22:26",
+      "updatedTime": "12/10/2020 12:02:46",
       "note": "",
       "stateCode": "MP",
       "today": {
@@ -371,7 +371,7 @@
       "active": 10573,
       "recovered": 130003,
       "dead": 1579,
-      "updatedTime": "11/10/2020 21:24:20",
+      "updatedTime": "12/10/2020 12:02:48",
       "note": "[Aug 2]: 21 Foreign Evacuees have been merged to Panchkula and 14 Italian tourists have been merged to Gurugram in HR bulletin.",
       "stateCode": "HR",
       "today": {
@@ -395,7 +395,7 @@
       "active": 27348,
       "recovered": 113771,
       "dead": 1253,
-      "updatedTime": "11/10/2020 23:18:28",
+      "updatedTime": "12/10/2020 12:02:49",
       "note": "[Sep 9]:57 backdated deceased cases have been added.",
       "stateCode": "CT",
       "today": {
@@ -419,7 +419,7 @@
       "active": 9275,
       "recovered": 110865,
       "dead": 3833,
-      "updatedTime": "11/10/2020 23:22:28",
+      "updatedTime": "12/10/2020 12:02:51",
       "note": "",
       "stateCode": "PB",
       "today": {
@@ -443,7 +443,7 @@
       "active": 8167,
       "recovered": 83571,
       "dead": 787,
-      "updatedTime": "11/10/2020 23:18:31",
+      "updatedTime": "12/10/2020 12:02:53",
       "note": "",
       "stateCode": "JH",
       "today": {
@@ -467,7 +467,7 @@
       "active": 10466,
       "recovered": 71845,
       "dead": 1322,
-      "updatedTime": "12/10/2020 00:05:25",
+      "updatedTime": "12/10/2020 12:02:55",
       "note": "",
       "stateCode": "JK",
       "today": {
@@ -491,7 +491,7 @@
       "active": 7373,
       "recovered": 46642,
       "dead": 747,
-      "updatedTime": "12/10/2020 00:05:26",
+      "updatedTime": "12/10/2020 12:02:56",
       "note": "",
       "stateCode": "UT",
       "today": {
@@ -515,7 +515,7 @@
       "active": 4656,
       "recovered": 33203,
       "dead": 507,
-      "updatedTime": "12/10/2020 00:36:23",
+      "updatedTime": "12/10/2020 12:02:58",
       "note": "",
       "stateCode": "GA",
       "today": {
@@ -539,7 +539,7 @@
       "active": 4695,
       "recovered": 26291,
       "dead": 563,
-      "updatedTime": "12/10/2020 01:28:25",
+      "updatedTime": "12/10/2020 12:03:00",
       "note": "",
       "stateCode": "PY",
       "today": {
@@ -549,12 +549,12 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 230024,
-        "positive": 33029,
-        "negative": 195147,
-        "unconfirmed": 1848,
-        "date": "09/10/2020",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/2912"
+        "tested": 239208,
+        "positive": 0,
+        "negative": 203658,
+        "unconfirmed": 1864,
+        "date": "11/10/2020",
+        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/2942"
       }
     },
     "TR": {
@@ -563,7 +563,7 @@
       "active": 3742,
       "recovered": 24380,
       "dead": 313,
-      "updatedTime": "12/10/2020 11:40:21",
+      "updatedTime": "12/10/2020 12:03:01",
       "note": "[Aug 4]: Tripura bulletin for the previous day is released on the next day. We will add the cases for Tripura against the date of release, as that is the convention that we are following for other states.",
       "stateCode": "TR",
       "today": {
@@ -587,7 +587,7 @@
       "active": 2687,
       "recovered": 14451,
       "dead": 245,
-      "updatedTime": "12/10/2020 00:36:24",
+      "updatedTime": "12/10/2020 12:03:03",
       "note": "",
       "stateCode": "HP",
       "today": {
@@ -611,7 +611,7 @@
       "active": 1188,
       "recovered": 11787,
       "dead": 191,
-      "updatedTime": "12/10/2020 00:05:28",
+      "updatedTime": "12/10/2020 12:03:04",
       "note": "",
       "stateCode": "CH",
       "today": {
@@ -635,7 +635,7 @@
       "active": 2731,
       "recovered": 10504,
       "dead": 91,
-      "updatedTime": "12/10/2020 00:05:29",
+      "updatedTime": "12/10/2020 12:03:06",
       "note": "",
       "stateCode": "MN",
       "today": {
@@ -659,7 +659,7 @@
       "active": 2891,
       "recovered": 9232,
       "dead": 24,
-      "updatedTime": "12/10/2020 00:45:21",
+      "updatedTime": "12/10/2020 12:03:08",
       "note": "[July 25]: All numbers corresponding to Papum Pare and Captial Complex are tracked under Papum Pare district.",
       "stateCode": "AR",
       "today": {
@@ -683,7 +683,7 @@
       "active": 2478,
       "recovered": 5142,
       "dead": 63,
-      "updatedTime": "12/10/2020 01:10:23",
+      "updatedTime": "12/10/2020 12:03:09",
       "note": "",
       "stateCode": "ML",
       "today": {
@@ -707,7 +707,7 @@
       "active": 1253,
       "recovered": 5690,
       "dead": 12,
-      "updatedTime": "12/10/2020 01:09:24",
+      "updatedTime": "12/10/2020 12:03:11",
       "note": "",
       "stateCode": "NL",
       "today": {
@@ -731,7 +731,7 @@
       "active": 980,
       "recovered": 4037,
       "dead": 64,
-      "updatedTime": "12/10/2020 00:05:31",
+      "updatedTime": "12/10/2020 12:02:14",
       "note": "[Sep 08] : Testing details are not available in Ladakh bulletin from Sep 06 onwards",
       "stateCode": "LA",
       "today": {
@@ -755,7 +755,7 @@
       "active": 186,
       "recovered": 3764,
       "dead": 55,
-      "updatedTime": "12/10/2020 00:45:24",
+      "updatedTime": "12/10/2020 12:02:15",
       "note": "",
       "stateCode": "AN",
       "today": {
@@ -765,12 +765,12 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 68464,
-        "positive": 3992,
+        "tested": 69146,
+        "positive": 4005,
         "negative": 0,
-        "unconfirmed": 175,
-        "date": "10/10/2020",
-        "source": "https://dhs.andaman.gov.in/NewEvents/422.pdf"
+        "unconfirmed": 0,
+        "date": "11/10/2020",
+        "source": "https://dhs.andaman.gov.in/NewEvents/423.pdf"
       }
     },
     "DN": {
@@ -779,7 +779,7 @@
       "active": 105,
       "recovered": 3031,
       "dead": 2,
-      "updatedTime": "12/10/2020 00:45:26",
+      "updatedTime": "12/10/2020 12:02:17",
       "note": "",
       "stateCode": "DN",
       "today": {
@@ -796,7 +796,7 @@
       "active": 384,
       "recovered": 2839,
       "dead": 56,
-      "updatedTime": "11/10/2020 23:22:30",
+      "updatedTime": "12/10/2020 12:02:19",
       "note": "",
       "stateCode": "SK",
       "today": {
@@ -820,7 +820,7 @@
       "active": 165,
       "recovered": 2010,
       "dead": 0,
-      "updatedTime": "12/10/2020 01:46:20",
+      "updatedTime": "12/10/2020 12:02:21",
       "note": "",
       "stateCode": "MZ",
       "today": {
@@ -880,19 +880,19 @@
     }
   },
   "testing_data": {
-    "tested": 95121621,
-    "positive": 357706,
-    "negative": 19797903,
-    "unconfirmed": 31659
+    "tested": 95172583,
+    "positive": 324690,
+    "negative": 19806414,
+    "unconfirmed": 31500
   },
   "testing_data_imcr": {
-    "tested": 86877242,
-    "source": "http://twitter.com/ICMRDELHI/status/1315130096689111045"
+    "tested": 87872093,
+    "source": "https://twitter.com/ICMRDELHI/status/1315497605456039937/photo/1"
   },
   "today": {
-    "confirmed": 109,
+    "confirmed": 2532,
     "recovered": 317,
-    "dead": 1,
-    "active": -209
+    "dead": 19,
+    "active": 2196
   }
 }
