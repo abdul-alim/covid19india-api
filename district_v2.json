@@ -2358,14 +2358,14 @@
       {
         "district": "Dadra and Nagar Haveli",
         "notes": "",
-        "active": 67,
+        "active": 57,
         "confirmed": 1542,
-        "recovered": 1474,
+        "recovered": 1484,
         "dead": 1,
         "today": {
           "confirmed": 0,
-          "recovered": 0,
-          "active": 0,
+          "recovered": 10,
+          "active": -10,
           "dead": 0
         }
       },
@@ -2400,8 +2400,8 @@
     ],
     "today": {
       "confirmed": 0,
-      "active": 0,
-      "recovered": 0,
+      "active": -10,
+      "recovered": 10,
       "dead": 0
     }
   },
@@ -4841,42 +4841,42 @@
       {
         "district": "Kargil",
         "notes": "",
-        "active": 234,
-        "confirmed": 1763,
-        "recovered": 1491,
+        "active": 222,
+        "confirmed": 1774,
+        "recovered": 1514,
         "dead": 38,
         "today": {
-          "confirmed": 0,
-          "recovered": 0,
-          "active": 0,
+          "confirmed": 11,
+          "recovered": 23,
+          "active": -12,
           "dead": 0
         }
       },
       {
         "district": "Leh",
         "notes": "",
-        "active": 727,
-        "confirmed": 3388,
-        "recovered": 2635,
+        "active": 747,
+        "confirmed": 3464,
+        "recovered": 2691,
         "dead": 26,
         "today": {
-          "confirmed": 0,
-          "recovered": 0,
-          "active": 0,
+          "confirmed": 76,
+          "recovered": 56,
+          "active": 20,
           "dead": 0
         }
       }
     ],
     "today": {
-      "confirmed": 0,
-      "active": 0,
-      "recovered": 0,
+      "confirmed": 87,
+      "active": 8,
+      "recovered": 79,
       "dead": 0
     },
-    "confirmed": 5151,
-    "recovered": 4126,
+    "confirmed": 5238,
+    "recovered": 4205,
     "dead": 64,
-    "active": 961
+    "active": 969
   },
   "LD": {
     "state": "Lakshadweep",
