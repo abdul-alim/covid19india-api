@@ -1,9 +1,9 @@
 {
-  "confirmed": 7258170,
-  "recovered": 6322576,
-  "dead": 110777,
-  "active": 823709,
-  "updatedTime": "14/10/2020 19:54:22",
+  "confirmed": 7274966,
+  "recovered": 6342229,
+  "dead": 110935,
+  "active": 820694,
+  "updatedTime": "14/10/2020 20:24:26",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -21,12 +21,12 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 7762005,
+        "tested": 7838318,
         "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "13/10/2020",
-        "source": "https://twitter.com/ANI/status/1316023829408350217?s=20"
+        "date": "14/10/2020",
+        "source": "https://twitter.com/ANI/status/1316389893631737868?s=20"
       }
     },
     "AP": {
@@ -79,18 +79,18 @@
     },
     "TN": {
       "name": "Tamil Nadu",
-      "confirmed": 665930,
-      "active": 43239,
-      "recovered": 612320,
-      "dead": 10371,
-      "updatedTime": "13/10/2020 19:41:28",
+      "confirmed": 670318,
+      "active": 42553,
+      "recovered": 617342,
+      "dead": 10423,
+      "updatedTime": "14/10/2020 20:24:28",
       "note": "[July 22]: 444 backdated deceased entries added to Chennai in TN bulletin.\n2 deaths cross notified to other states from Chennai and Coimbatore.\n1 patient died after turning negative for infection in Chengalpattu.\nThese cases have been added to TN deceased tally",
       "stateCode": "TN",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 4388,
+        "recovered": 5022,
+        "dead": 52,
+        "active": -686
       },
       "testing_data": {
         "tested": 8584041,
@@ -175,18 +175,18 @@
     },
     "WB": {
       "name": "West Bengal",
-      "confirmed": 302020,
-      "active": 30988,
-      "recovered": 265288,
-      "dead": 5744,
-      "updatedTime": "13/10/2020 20:11:26",
+      "confirmed": 305697,
+      "active": 31505,
+      "recovered": 268384,
+      "dead": 5808,
+      "updatedTime": "14/10/2020 20:24:30",
       "note": "",
       "stateCode": "WB",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 3677,
+        "recovered": 3096,
+        "dead": 64,
+        "active": 517
       },
       "testing_data": {
         "tested": 3818442,
@@ -200,17 +200,17 @@
     "OR": {
       "name": "Odisha",
       "confirmed": 259541,
-      "active": 25428,
-      "recovered": 232988,
+      "active": 22653,
+      "recovered": 235763,
       "dead": 1125,
-      "updatedTime": "14/10/2020 11:40:20",
+      "updatedTime": "14/10/2020 20:24:32",
       "note": "[July 12th] :20 non-covid deaths reported in state dashboard are included in the deceased count\n[June 22nd]: NDRF/ODRF cases have been redistributed to districts based on state dashboard",
       "stateCode": "OR",
       "today": {
         "confirmed": 2604,
-        "recovered": 0,
+        "recovered": 2775,
         "dead": 15,
-        "active": 2589
+        "active": -186
       },
       "testing_data": {
         "tested": 3878992,
@@ -247,18 +247,18 @@
     },
     "BR": {
       "name": "Bihar",
-      "confirmed": 198223,
-      "active": 10638,
-      "recovered": 186623,
-      "dead": 961,
-      "updatedTime": "13/10/2020 18:23:27",
+      "confirmed": 199549,
+      "active": 10583,
+      "recovered": 187998,
+      "dead": 967,
+      "updatedTime": "14/10/2020 20:24:33",
       "note": "",
       "stateCode": "BR",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 1326,
+        "recovered": 1375,
+        "dead": 6,
+        "active": -55
       },
       "testing_data": {
         "tested": 8669522,
@@ -295,18 +295,18 @@
     },
     "RJ": {
       "name": "Rajasthan",
-      "confirmed": 164806,
-      "active": 21447,
-      "recovered": 141669,
-      "dead": 1690,
-      "updatedTime": "13/10/2020 19:41:38",
+      "confirmed": 165240,
+      "active": 21711,
+      "recovered": 141835,
+      "dead": 1694,
+      "updatedTime": "14/10/2020 20:24:35",
       "note": "",
       "stateCode": "RJ",
       "today": {
-        "confirmed": 1587,
-        "recovered": 2053,
-        "dead": 11,
-        "active": -477
+        "confirmed": 2021,
+        "recovered": 2219,
+        "dead": 15,
+        "active": -213
       },
       "testing_data": {
         "tested": 3414166,
@@ -319,18 +319,18 @@
     },
     "GJ": {
       "name": "Gujarat",
-      "confirmed": 153923,
-      "active": 15109,
-      "recovered": 135227,
-      "dead": 3587,
-      "updatedTime": "13/10/2020 23:07:26",
+      "confirmed": 155098,
+      "active": 14869,
+      "recovered": 136631,
+      "dead": 3598,
+      "updatedTime": "14/10/2020 20:24:37",
       "note": "",
       "stateCode": "GJ",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 1175,
+        "recovered": 1404,
+        "dead": 11,
+        "active": -240
       },
       "testing_data": {
         "tested": 5114677,
@@ -343,18 +343,18 @@
     },
     "MP": {
       "name": "Madhya Pradesh",
-      "confirmed": 149761,
-      "active": 14661,
-      "recovered": 132429,
-      "dead": 2671,
-      "updatedTime": "13/10/2020 20:57:11",
+      "confirmed": 155276,
+      "active": 14432,
+      "recovered": 138158,
+      "dead": 2686,
+      "updatedTime": "14/10/2020 20:24:38",
       "note": "",
       "stateCode": "MP",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 5515,
+        "recovered": 5729,
+        "dead": 15,
+        "active": -229
       },
       "testing_data": {
         "tested": 2481194,
@@ -607,18 +607,18 @@
     },
     "MN": {
       "name": "Manipur",
-      "confirmed": 13793,
-      "active": 2867,
-      "recovered": 10829,
-      "dead": 97,
-      "updatedTime": "13/10/2020 23:07:29",
+      "confirmed": 14074,
+      "active": 3056,
+      "recovered": 10915,
+      "dead": 103,
+      "updatedTime": "14/10/2020 20:24:40",
       "note": "",
       "stateCode": "MN",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 281,
+        "recovered": 86,
+        "dead": 6,
+        "active": 189
       },
       "testing_data": {
         "tested": 306863,
@@ -880,7 +880,7 @@
     }
   },
   "testing_data": {
-    "tested": 98114056,
+    "tested": 98190369,
     "positive": 474322,
     "negative": 20381769,
     "unconfirmed": 27918
@@ -890,9 +890,9 @@
     "source": "https://www.icmr.gov.in/pdf/covid/update/ICMR_testing_update_14Oct2020.pdf"
   },
   "today": {
-    "confirmed": 20891,
-    "recovered": 23702,
-    "dead": 156,
-    "active": -2967
+    "confirmed": 37687,
+    "recovered": 43355,
+    "dead": 314,
+    "active": -5982
   }
 }
