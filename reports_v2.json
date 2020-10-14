@@ -1,9 +1,9 @@
 {
-  "confirmed": 7305060,
-  "recovered": 6379414,
+  "confirmed": 7305070,
+  "recovered": 6379428,
   "dead": 111311,
-  "active": 813204,
-  "updatedTime": "15/10/2020 02:01:37",
+  "active": 813200,
+  "updatedTime": "15/10/2020 02:16:26",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -371,7 +371,7 @@
       "active": 27809,
       "recovered": 121548,
       "dead": 1339,
-      "updatedTime": "15/10/2020 02:01:39",
+      "updatedTime": "15/10/2020 02:07:31",
       "note": "[Sep 9]:57 backdated deceased cases have been added.",
       "stateCode": "CT",
       "today": {
@@ -751,18 +751,18 @@
     },
     "AN": {
       "name": "Andaman and Nicobar",
-      "confirmed": 4036,
-      "active": 199,
-      "recovered": 3782,
+      "confirmed": 4046,
+      "active": 195,
+      "recovered": 3796,
       "dead": 55,
-      "updatedTime": "14/10/2020 16:31:25",
+      "updatedTime": "15/10/2020 02:16:30",
       "note": "",
       "stateCode": "AN",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 10,
+        "recovered": 14,
         "dead": 0,
-        "active": 0
+        "active": -4
       },
       "testing_data": {
         "tested": 70780,
@@ -890,9 +890,9 @@
     "source": "https://www.icmr.gov.in/pdf/covid/update/ICMR_testing_update_14Oct2020.pdf"
   },
   "today": {
-    "confirmed": 67781,
-    "recovered": 80540,
+    "confirmed": 67791,
+    "recovered": 80554,
     "dead": 690,
-    "active": -13449
+    "active": -13453
   }
 }
