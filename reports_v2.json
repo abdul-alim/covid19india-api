@@ -1,9 +1,9 @@
 {
-  "confirmed": 7306694,
+  "confirmed": 7309164,
   "recovered": 6382758,
-  "dead": 111320,
-  "active": 811485,
-  "updatedTime": "15/10/2020 11:24:20",
+  "dead": 111337,
+  "active": 813938,
+  "updatedTime": "15/10/2020 11:43:22",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -199,18 +199,18 @@
     },
     "OR": {
       "name": "Odisha",
-      "confirmed": 259541,
-      "active": 22653,
+      "confirmed": 262011,
+      "active": 25106,
       "recovered": 235763,
-      "dead": 1125,
-      "updatedTime": "14/10/2020 20:27:27",
+      "dead": 1142,
+      "updatedTime": "15/10/2020 11:43:24",
       "note": "[July 12th] :20 non-covid deaths reported in state dashboard are included in the deceased count\n[June 22nd]: NDRF/ODRF cases have been redistributed to districts based on state dashboard",
       "stateCode": "OR",
       "today": {
-        "confirmed": 0,
+        "confirmed": 2470,
         "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "dead": 17,
+        "active": 2453
       },
       "testing_data": {
         "tested": 3878992,
@@ -573,12 +573,12 @@
         "active": -182
       },
       "testing_data": {
-        "tested": 421575,
-        "positive": 28856,
-        "negative": 392719,
+        "tested": 424147,
+        "positive": 29028,
+        "negative": 395119,
         "unconfirmed": 0,
-        "date": "14/10/2020",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/2989"
+        "date": "15/10/2020",
+        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/3002"
       }
     },
     "HP": {
@@ -611,7 +611,7 @@
       "active": 3076,
       "recovered": 10915,
       "dead": 103,
-      "updatedTime": "15/10/2020 11:24:22",
+      "updatedTime": "15/10/2020 11:40:24",
       "note": "",
       "stateCode": "MN",
       "today": {
@@ -880,9 +880,9 @@
     }
   },
   "testing_data": {
-    "tested": 98620414,
-    "positive": 474955,
-    "negative": 20420111,
+    "tested": 98622986,
+    "positive": 475127,
+    "negative": 20422511,
     "unconfirmed": 27721
   },
   "testing_data_imcr": {
@@ -890,9 +890,9 @@
     "source": "https://www.icmr.gov.in/pdf/covid/update/ICMR_testing_update_15Oct2020.pdf"
   },
   "today": {
-    "confirmed": 1604,
+    "confirmed": 4074,
     "recovered": 2302,
-    "dead": 9,
-    "active": -707
+    "dead": 26,
+    "active": 1746
   }
 }
