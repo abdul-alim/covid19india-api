@@ -1,24 +1,24 @@
 {
-  "confirmed": 7428683,
-  "recovered": 6519329,
-  "dead": 112993,
-  "active": 795177,
-  "updatedTime": "16/10/2020 22:24:24",
+  "confirmed": 7428912,
+  "recovered": 6519562,
+  "dead": 113302,
+  "active": 794854,
+  "updatedTime": "16/10/2020 22:41:24",
   "states": {
     "MH": {
       "name": "Maharashtra",
       "confirmed": 1576062,
-      "active": 189715,
+      "active": 189409,
       "recovered": 1344368,
-      "dead": 41502,
-      "updatedTime": "16/10/2020 20:57:24",
+      "dead": 41808,
+      "updatedTime": "16/10/2020 22:41:25",
       "note": "[Sep 9] :239 cases have been removed from the hospitalized figures owing to the removal of duplicates and change of addresses as per the original residence,\n[Aug 15] : MH bulletin has reduced 819 confirmed cases in Mumbai and 72 confirmed cases from 'Other States' from the tally\n[Jun 16] : 1328 deceased cases have been retroactively added to MH bulletin.\n[Jun 20] : 69 deceased cases have been reduced based on state bulletin.",
       "stateCode": "MH",
       "today": {
         "confirmed": 11447,
         "recovered": 13885,
-        "dead": 306,
-        "active": -2744
+        "dead": 612,
+        "active": -3050
       },
       "testing_data": {
         "tested": 7989693,
@@ -59,7 +59,7 @@
       "active": 112427,
       "recovered": 628588,
       "dead": 10356,
-      "updatedTime": "16/10/2020 22:24:26",
+      "updatedTime": "16/10/2020 22:33:26",
       "note": "",
       "stateCode": "KA",
       "today": {
@@ -583,18 +583,18 @@
     },
     "HP": {
       "name": "Himachal Pradesh",
-      "confirmed": 18303,
-      "active": 2654,
-      "recovered": 15367,
-      "dead": 255,
-      "updatedTime": "15/10/2020 23:22:28",
+      "confirmed": 18522,
+      "active": 2642,
+      "recovered": 15586,
+      "dead": 257,
+      "updatedTime": "16/10/2020 22:41:28",
       "note": "",
       "stateCode": "HP",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 219,
+        "recovered": 219,
+        "dead": 2,
+        "active": -2
       },
       "testing_data": {
         "tested": 340119,
@@ -693,12 +693,12 @@
         "active": 47
       },
       "testing_data": {
-        "tested": 178894,
+        "tested": 183808,
         "positive": 0,
-        "negative": 170903,
+        "negative": 175505,
         "unconfirmed": 0,
-        "date": "14/10/2020",
-        "source": "https://www.syllad.com/meghalaya-2-more-dies-of-covid-19-toll-at-70/"
+        "date": "16/10/2020",
+        "source": "https://www.syllad.com/meghalaya-two-women-succumbs-to-covid-19-toll-at-75/"
       }
     },
     "NL": {
@@ -751,18 +751,18 @@
     },
     "AN": {
       "name": "Andaman and Nicobar",
-      "confirmed": 4062,
-      "active": 190,
-      "recovered": 3817,
-      "dead": 55,
-      "updatedTime": "16/10/2020 00:15:31",
+      "confirmed": 4072,
+      "active": 185,
+      "recovered": 3831,
+      "dead": 56,
+      "updatedTime": "16/10/2020 22:41:30",
       "note": "",
       "stateCode": "AN",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 10,
+        "recovered": 14,
+        "dead": 1,
+        "active": -5
       },
       "testing_data": {
         "tested": 72525,
@@ -880,9 +880,9 @@
     }
   },
   "testing_data": {
-    "tested": 100928419,
+    "tested": 100933333,
     "positive": 2068045,
-    "negative": 27267398,
+    "negative": 27272000,
     "unconfirmed": 27793
   },
   "testing_data_imcr": {
@@ -890,9 +890,9 @@
     "source": "https://www.icmr.gov.in/pdf/covid/update/ICMR_testing_update_16Oct2020.pdf"
   },
   "today": {
-    "confirmed": 60152,
-    "recovered": 68081,
-    "dead": 800,
-    "active": -8729
+    "confirmed": 60381,
+    "recovered": 68314,
+    "dead": 1109,
+    "active": -9042
   }
 }
