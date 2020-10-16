@@ -1,9 +1,9 @@
 {
-  "confirmed": 7377845,
-  "recovered": 6459759,
-  "dead": 112288,
-  "active": 804617,
-  "updatedTime": "16/10/2020 18:56:23",
+  "confirmed": 7379845,
+  "recovered": 6461960,
+  "dead": 112303,
+  "active": 804401,
+  "updatedTime": "16/10/2020 19:05:25",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -165,12 +165,12 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 3776892,
-        "positive": 317931,
+        "tested": 3828728,
+        "positive": 325214,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "15/10/2020",
-        "source": "https://dhs.kerala.gov.in/wp-content/uploads/2020/10/Bulletin-HFWD-Malayalam-October-15.pdf"
+        "date": "16/10/2020",
+        "source": "https://dhs.kerala.gov.in/wp-content/uploads/2020/10/Bulletin-HFWD-English-October-16.pdf"
       }
     },
     "WB": {
@@ -251,7 +251,7 @@
       "active": 10649,
       "recovered": 190256,
       "dead": 981,
-      "updatedTime": "16/10/2020 18:56:25",
+      "updatedTime": "16/10/2020 19:04:25",
       "note": "",
       "stateCode": "BR",
       "today": {
@@ -295,18 +295,18 @@
     },
     "RJ": {
       "name": "Rajasthan",
-      "confirmed": 167279,
-      "active": 21587,
-      "recovered": 143984,
-      "dead": 1708,
-      "updatedTime": "15/10/2020 19:59:27",
+      "confirmed": 169279,
+      "active": 21371,
+      "recovered": 146185,
+      "dead": 1723,
+      "updatedTime": "16/10/2020 19:05:27",
       "note": "",
       "stateCode": "RJ",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 2000,
+        "recovered": 2201,
+        "dead": 15,
+        "active": -216
       },
       "testing_data": {
         "tested": 3456029,
@@ -880,8 +880,8 @@
     }
   },
   "testing_data": {
-    "tested": 100277452,
-    "positive": 2048842,
+    "tested": 100329288,
+    "positive": 2056125,
     "negative": 27036152,
     "unconfirmed": 27077
   },
@@ -890,9 +890,9 @@
     "source": "https://www.icmr.gov.in/pdf/covid/update/ICMR_testing_update_16Oct2020.pdf"
   },
   "today": {
-    "confirmed": 9314,
-    "recovered": 8511,
-    "dead": 95,
-    "active": 708
+    "confirmed": 11314,
+    "recovered": 10712,
+    "dead": 110,
+    "active": 492
   }
 }
