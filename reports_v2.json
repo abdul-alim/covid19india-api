@@ -1,9 +1,9 @@
 {
-  "confirmed": 7413343,
-  "recovered": 6497001,
-  "dead": 112750,
-  "active": 802408,
-  "updatedTime": "16/10/2020 20:11:25",
+  "confirmed": 7417117,
+  "recovered": 6500206,
+  "dead": 112811,
+  "active": 802916,
+  "updatedTime": "16/10/2020 20:24:24",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -11,7 +11,7 @@
       "active": 194591,
       "recovered": 1341930,
       "dead": 41502,
-      "updatedTime": "16/10/2020 20:11:26",
+      "updatedTime": "16/10/2020 20:17:26",
       "note": "[Sep 9] :239 cases have been removed from the hospitalized figures owing to the removal of duplicates and change of addresses as per the original residence,\n[Aug 15] : MH bulletin has reduced 819 confirmed cases in Mumbai and 72 confirmed cases from 'Other States' from the tally\n[Jun 16] : 1328 deceased cases have been retroactively added to MH bulletin.\n[Jun 20] : 69 deceased cases have been reduced based on state bulletin.",
       "stateCode": "MH",
       "today": {
@@ -175,26 +175,26 @@
     },
     "WB": {
       "name": "West Bengal",
-      "confirmed": 309417,
-      "active": 31984,
-      "recovered": 271563,
-      "dead": 5870,
-      "updatedTime": "15/10/2020 20:52:30",
+      "confirmed": 313188,
+      "active": 32500,
+      "recovered": 274757,
+      "dead": 5931,
+      "updatedTime": "16/10/2020 20:24:25",
       "note": "",
       "stateCode": "WB",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 3771,
+        "recovered": 3194,
+        "dead": 61,
+        "active": 516
       },
       "testing_data": {
-        "tested": 3861095,
+        "tested": 3904322,
         "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "15/10/2020",
-        "source": "https://www.wbhealth.gov.in/uploaded_files/corona/WB_DHFW_Bulletin_15th_OCTOBER_REPORT_FINAL.pdf"
+        "date": "16/10/2020",
+        "source": "https://www.wbhealth.gov.in/uploaded_files/corona/WB_DHFW_Bulletin_16th_OCTOBER_REPORT_FINAL.pdf"
       }
     },
     "OR": {
@@ -359,7 +359,7 @@
       "testing_data": {
         "tested": 2534366,
         "positive": 0,
-        "negative": 0,
+        "negative": 2311636,
         "unconfirmed": 0,
         "date": "16/10/2020",
         "source": "https://www.mpinfo.org/MPinfoStatic/other_updates/Health-Bulletin-16Oct20.pdf"
@@ -799,18 +799,18 @@
     },
     "DN": {
       "name": "Dadra and Nagar Haveli and Daman and Diu",
-      "confirmed": 3171,
-      "active": 71,
-      "recovered": 3073,
+      "confirmed": 3174,
+      "active": 63,
+      "recovered": 3084,
       "dead": 2,
-      "updatedTime": "15/10/2020 19:59:40",
+      "updatedTime": "16/10/2020 20:24:28",
       "note": "",
       "stateCode": "DN",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 3,
+        "recovered": 11,
         "dead": 0,
-        "active": 0
+        "active": -8
       },
       "isUnknown": true
     },
@@ -880,9 +880,9 @@
     }
   },
   "testing_data": {
-    "tested": 100734523,
+    "tested": 100777750,
     "positive": 2067572,
-    "negative": 24918597,
+    "negative": 27230233,
     "unconfirmed": 27774
   },
   "testing_data_imcr": {
@@ -890,9 +890,9 @@
     "source": "https://www.icmr.gov.in/pdf/covid/update/ICMR_testing_update_16Oct2020.pdf"
   },
   "today": {
-    "confirmed": 44812,
-    "recovered": 45753,
-    "dead": 557,
-    "active": -1498
+    "confirmed": 48586,
+    "recovered": 48958,
+    "dead": 618,
+    "active": -990
   }
 }
