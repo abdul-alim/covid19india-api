@@ -1,9 +1,9 @@
 {
-  "confirmed": 7475665,
-  "recovered": 6574575,
-  "dead": 113578,
-  "active": 786318,
-  "updatedTime": "17/10/2020 21:16:22",
+  "confirmed": 7478924,
+  "recovered": 6577729,
+  "dead": 113613,
+  "active": 786388,
+  "updatedTime": "17/10/2020 21:24:21",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -127,18 +127,18 @@
     },
     "DL": {
       "name": "Delhi",
-      "confirmed": 324459,
-      "active": 22814,
-      "recovered": 295699,
-      "dead": 5946,
-      "updatedTime": "16/10/2020 20:07:31",
+      "confirmed": 327718,
+      "active": 22884,
+      "recovered": 298853,
+      "dead": 5981,
+      "updatedTime": "17/10/2020 21:24:22",
       "note": "[July 14]: Value for the total tests conducted has been reduced by 97008 in the state bulletin. Reason given : \"Reconciled with ICMR figures\". We have made the same change.\n[June 16]: 344 deceased cases have been retroactively added to DL bulletin.",
       "stateCode": "DL",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 3259,
+        "recovered": 3154,
+        "dead": 35,
+        "active": 70
       },
       "testing_data": {
         "tested": 3941024,
@@ -203,7 +203,7 @@
       "active": 20944,
       "recovered": 244227,
       "dead": 1174,
-      "updatedTime": "17/10/2020 21:16:23",
+      "updatedTime": "17/10/2020 21:21:24",
       "note": "[July 12th] :20 non-covid deaths reported in state dashboard are included in the deceased count\n[June 22nd]: NDRF/ODRF cases have been redistributed to districts based on state dashboard",
       "stateCode": "OR",
       "today": {
@@ -491,7 +491,7 @@
       "active": 5692,
       "recovered": 50155,
       "dead": 829,
-      "updatedTime": "17/10/2020 00:39:27",
+      "updatedTime": "17/10/2020 21:18:30",
       "note": "",
       "stateCode": "UT",
       "today": {
@@ -597,12 +597,12 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 340119,
+        "tested": 343186,
         "positive": 0,
-        "negative": 321400,
-        "unconfirmed": 197,
-        "date": "16/10/2020",
-        "source": "https://twitter.com/nhm_hp/status/1317132878552027137"
+        "negative": 324168,
+        "unconfirmed": 221,
+        "date": "17/10/2020",
+        "source": "https://twitter.com/nhm_hp/status/1317493424002535424"
       }
     },
     "MN": {
@@ -880,19 +880,19 @@
     }
   },
   "testing_data": {
-    "tested": 101994265,
+    "tested": 101997332,
     "positive": 2087470,
-    "negative": 27519791,
-    "unconfirmed": 28277
+    "negative": 27522559,
+    "unconfirmed": 28301
   },
   "testing_data_imcr": {
     "tested": 93254017,
     "source": "http://twitter.com/ICMRDELHI/status/1317307451083878401"
   },
   "today": {
-    "confirmed": 44832,
-    "recovered": 52759,
-    "dead": 545,
-    "active": -8472
+    "confirmed": 48091,
+    "recovered": 55913,
+    "dead": 580,
+    "active": -8402
   }
 }
