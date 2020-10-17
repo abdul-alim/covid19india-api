@@ -1,9 +1,9 @@
 {
-  "confirmed": 7461658,
-  "recovered": 6556705,
-  "dead": 113510,
-  "active": 790249,
-  "updatedTime": "17/10/2020 20:09:23",
+  "confirmed": 7474350,
+  "recovered": 6570225,
+  "dead": 113560,
+  "active": 789371,
+  "updatedTime": "17/10/2020 20:24:23",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -11,7 +11,7 @@
       "active": 185486,
       "recovered": 1358606,
       "dead": 41752,
-      "updatedTime": "17/10/2020 20:08:23",
+      "updatedTime": "17/10/2020 20:14:25",
       "note": "[Sep 9] :239 cases have been removed from the hospitalized figures owing to the removal of duplicates and change of addresses as per the original residence,\n[Aug 15] : MH bulletin has reduced 819 confirmed cases in Mumbai and 72 confirmed cases from 'Other States' from the tally\n[Jun 16] : 1328 deceased cases have been retroactively added to MH bulletin.\n[Jun 20] : 69 deceased cases have been reduced based on state bulletin.",
       "stateCode": "MH",
       "today": {
@@ -31,18 +31,18 @@
     },
     "AP": {
       "name": "Andhra Pradesh",
-      "confirmed": 775470,
-      "active": 38979,
-      "recovered": 730109,
-      "dead": 6382,
-      "updatedTime": "16/10/2020 20:07:29",
+      "confirmed": 779146,
+      "active": 37102,
+      "recovered": 735638,
+      "dead": 6406,
+      "updatedTime": "17/10/2020 20:24:23",
       "note": "",
       "stateCode": "AP",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 3676,
+        "recovered": 5529,
+        "dead": 24,
+        "active": -1877
       },
       "testing_data": {
         "tested": 6991258,
@@ -151,18 +151,18 @@
     },
     "KL": {
       "name": "Kerala",
-      "confirmed": 325213,
-      "active": 95009,
-      "recovered": 228998,
-      "dead": 1114,
-      "updatedTime": "16/10/2020 20:07:32",
+      "confirmed": 334229,
+      "active": 96008,
+      "recovered": 236989,
+      "dead": 1140,
+      "updatedTime": "17/10/2020 20:24:25",
       "note": "Mahe native who expired in Kannur included in Kerala's deceased tally.\nSome non-covid deaths have also been reported in the bulletin.\nThese have been reduced from active count",
       "stateCode": "KL",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 9016,
+        "recovered": 7991,
+        "dead": 26,
+        "active": 999
       },
       "testing_data": {
         "tested": 3880795,
@@ -179,7 +179,7 @@
       "active": 33121,
       "recovered": 277940,
       "dead": 5992,
-      "updatedTime": "17/10/2020 20:08:24",
+      "updatedTime": "17/10/2020 20:14:32",
       "note": "",
       "stateCode": "WB",
       "today": {
@@ -299,7 +299,7 @@
       "active": 21255,
       "recovered": 148291,
       "dead": 1735,
-      "updatedTime": "17/10/2020 20:08:25",
+      "updatedTime": "17/10/2020 20:23:23",
       "note": "",
       "stateCode": "RJ",
       "today": {
@@ -333,12 +333,12 @@
         "active": -118
       },
       "testing_data": {
-        "tested": 5269542,
+        "tested": 5322288,
         "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "16/10/2020",
-        "source": "https://twitter.com/PIBAhmedabad/status/1317117302144315393?s=20"
+        "date": "17/10/2020",
+        "source": "https://twitter.com/PIBAhmedabad/status/1317469314870439937?s=20"
       }
     },
     "MP": {
@@ -880,7 +880,7 @@
     }
   },
   "testing_data": {
-    "tested": 101792734,
+    "tested": 101845480,
     "positive": 2077205,
     "negative": 27437028,
     "unconfirmed": 28953
@@ -890,9 +890,9 @@
     "source": "http://twitter.com/ICMRDELHI/status/1317307451083878401"
   },
   "today": {
-    "confirmed": 30825,
-    "recovered": 34889,
-    "dead": 477,
-    "active": -4541
+    "confirmed": 43517,
+    "recovered": 48409,
+    "dead": 527,
+    "active": -5419
   }
 }
