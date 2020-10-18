@@ -1,9 +1,9 @@
 {
-  "confirmed": 7544899,
-  "recovered": 6654843,
-  "dead": 114581,
-  "active": 774249,
-  "updatedTime": "18/10/2020 22:16:35",
+  "confirmed": 7546818,
+  "recovered": 6657148,
+  "dead": 114620,
+  "active": 773824,
+  "updatedTime": "18/10/2020 22:25:28",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -11,7 +11,7 @@
       "active": 182973,
       "recovered": 1369810,
       "dead": 42115,
-      "updatedTime": "18/10/2020 22:12:28",
+      "updatedTime": "18/10/2020 22:22:29",
       "note": "[Sep 9] :239 cases have been removed from the hospitalized figures owing to the removal of duplicates and change of addresses as per the original residence,\n[Aug 15] : MH bulletin has reduced 819 confirmed cases in Mumbai and 72 confirmed cases from 'Other States' from the tally\n[Jun 16] : 1328 deceased cases have been retroactively added to MH bulletin.\n[Jun 20] : 69 deceased cases have been reduced based on state bulletin.",
       "stateCode": "MH",
       "today": {
@@ -98,7 +98,7 @@
         "negative": 0,
         "unconfirmed": 0,
         "date": "18/10/2020",
-        "source": "https://stopcorona.tn.gov.in/daily-bulletin/"
+        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/3074"
       }
     },
     "UP": {
@@ -367,18 +367,18 @@
     },
     "CT": {
       "name": "Chhattisgarh",
-      "confirmed": 158502,
-      "active": 27180,
-      "recovered": 129883,
-      "dead": 1439,
-      "updatedTime": "17/10/2020 22:46:27",
+      "confirmed": 160396,
+      "active": 26750,
+      "recovered": 132168,
+      "dead": 1478,
+      "updatedTime": "18/10/2020 22:25:30",
       "note": "[Sep 9]:57 backdated deceased cases have been added.",
       "stateCode": "CT",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 1894,
+        "recovered": 2285,
+        "dead": 39,
+        "active": -430
       },
       "testing_data": {
         "tested": 1511088,
@@ -453,12 +453,12 @@
         "active": -74
       },
       "testing_data": {
-        "tested": 2827248,
-        "positive": 95967,
-        "negative": 2731281,
+        "tested": 2848662,
+        "positive": 96352,
+        "negative": 2752310,
         "unconfirmed": 0,
-        "date": "17/10/2020",
-        "source": "https://twitter.com/rnuddkranchi/status/1317494746357485569"
+        "date": "18/10/2020",
+        "source": "https://twitter.com/rnuddkranchi/status/1317854226744188928"
       }
     },
     "JK": {
@@ -491,7 +491,7 @@
       "active": 5728,
       "recovered": 50982,
       "dead": 927,
-      "updatedTime": "18/10/2020 22:14:42",
+      "updatedTime": "18/10/2020 22:20:38",
       "note": "[Oct 17]: 89 back-dated deaths included",
       "stateCode": "UT",
       "today": {
@@ -587,7 +587,7 @@
       "active": 2630,
       "recovered": 16037,
       "dead": 263,
-      "updatedTime": "18/10/2020 22:16:48",
+      "updatedTime": "18/10/2020 22:22:35",
       "note": "",
       "stateCode": "HP",
       "today": {
@@ -597,12 +597,12 @@
         "active": -50
       },
       "testing_data": {
-        "tested": 343186,
+        "tested": 345263,
         "positive": 0,
-        "negative": 324168,
-        "unconfirmed": 221,
-        "date": "17/10/2020",
-        "source": "https://twitter.com/nhm_hp/status/1317493424002535424"
+        "negative": 326193,
+        "unconfirmed": 103,
+        "date": "18/10/2020",
+        "source": "https://twitter.com/nhm_hp/status/1317857247628726273"
       }
     },
     "MN": {
@@ -751,18 +751,18 @@
     },
     "AN": {
       "name": "Andaman and Nicobar",
-      "confirmed": 4083,
-      "active": 179,
-      "recovered": 3848,
+      "confirmed": 4108,
+      "active": 184,
+      "recovered": 3868,
       "dead": 56,
-      "updatedTime": "17/10/2020 22:46:38",
+      "updatedTime": "18/10/2020 22:25:33",
       "note": "",
       "stateCode": "AN",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 25,
+        "recovered": 20,
         "dead": 0,
-        "active": 0
+        "active": 5
       },
       "testing_data": {
         "tested": 73363,
@@ -880,19 +880,19 @@
     }
   },
   "testing_data": {
-    "tested": 103118418,
-    "positive": 2105233,
-    "negative": 27784029,
-    "unconfirmed": 24664
+    "tested": 103141909,
+    "positive": 2105618,
+    "negative": 27807083,
+    "unconfirmed": 24546
   },
   "testing_data_imcr": {
     "tested": 94224190,
     "source": "http://twitter.com/ICMRDELHI/status/1317670159289516034"
   },
   "today": {
-    "confirmed": 52172,
-    "recovered": 60444,
-    "dead": 517,
-    "active": -8789
+    "confirmed": 54091,
+    "recovered": 62749,
+    "dead": 556,
+    "active": -9214
   }
 }
