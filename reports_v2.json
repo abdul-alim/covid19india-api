@@ -1,17 +1,17 @@
 {
-  "confirmed": 7544353,
-  "recovered": 6654464,
-  "dead": 114575,
-  "active": 774112,
-  "updatedTime": "18/10/2020 21:44:28",
+  "confirmed": 7544899,
+  "recovered": 6654843,
+  "dead": 114581,
+  "active": 774249,
+  "updatedTime": "18/10/2020 22:16:35",
   "states": {
     "MH": {
       "name": "Maharashtra",
       "confirmed": 1595381,
-      "active": 182976,
+      "active": 182973,
       "recovered": 1369810,
       "dead": 42115,
-      "updatedTime": "18/10/2020 20:19:27",
+      "updatedTime": "18/10/2020 22:12:28",
       "note": "[Sep 9] :239 cases have been removed from the hospitalized figures owing to the removal of duplicates and change of addresses as per the original residence,\n[Aug 15] : MH bulletin has reduced 819 confirmed cases in Mumbai and 72 confirmed cases from 'Other States' from the tally\n[Jun 16] : 1328 deceased cases have been retroactively added to MH bulletin.\n[Jun 20] : 69 deceased cases have been reduced based on state bulletin.",
       "stateCode": "MH",
       "today": {
@@ -333,12 +333,12 @@
         "active": -151
       },
       "testing_data": {
-        "tested": 5322288,
+        "tested": 5374249,
         "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "17/10/2020",
-        "source": "https://twitter.com/PIBAhmedabad/status/1317469314870439937?s=20"
+        "date": "18/10/2020",
+        "source": "https://twitter.com/PIBAhmedabad/status/1317831455817388032?s=20"
       }
     },
     "MP": {
@@ -443,7 +443,7 @@
       "active": 6502,
       "recovered": 89011,
       "dead": 839,
-      "updatedTime": "18/10/2020 21:44:31",
+      "updatedTime": "18/10/2020 21:58:27",
       "note": "",
       "stateCode": "JH",
       "today": {
@@ -487,26 +487,26 @@
     },
     "UT": {
       "name": "Uttarakhand",
-      "confirmed": 57648,
-      "active": 5538,
-      "recovered": 50820,
-      "dead": 924,
-      "updatedTime": "17/10/2020 21:59:27",
+      "confirmed": 58024,
+      "active": 5728,
+      "recovered": 50982,
+      "dead": 927,
+      "updatedTime": "18/10/2020 22:14:42",
       "note": "[Oct 17]: 89 back-dated deaths included",
       "stateCode": "UT",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 376,
+        "recovered": 162,
+        "dead": 3,
+        "active": 211
       },
       "testing_data": {
-        "tested": 894553,
+        "tested": 902182,
         "positive": 0,
-        "negative": 803877,
-        "unconfirmed": 16138,
-        "date": "17/10/2020",
-        "source": "https://twitter.com/DDnews_dehradun/status/1317475736651902977?s=20"
+        "negative": 813404,
+        "unconfirmed": 13780,
+        "date": "18/10/2020",
+        "source": "https://twitter.com/DDnews_dehradun/status/1317858843410362372"
       }
     },
     "GA": {
@@ -525,12 +525,12 @@
         "active": -179
       },
       "testing_data": {
-        "tested": 280703,
+        "tested": 281949,
         "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "17/10/2020",
-        "source": "https://twitter.com/DHS_Goa/status/1317461310150307843?s=20"
+        "date": "18/10/2020",
+        "source": "https://www.goa.gov.in/wp-content/uploads/2020/10/media-bullerin-18-Oct-.pdf"
       }
     },
     "PY": {
@@ -549,12 +549,12 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 263481,
-        "positive": 35133,
-        "negative": 226851,
-        "unconfirmed": 1497,
-        "date": "17/10/2020",
-        "source": "https://covid19dashboard.py.gov.in/LabTestReport"
+        "tested": 267656,
+        "positive": 35310,
+        "negative": 230990,
+        "unconfirmed": 1356,
+        "date": "18/10/2020",
+        "source": "https://health.py.gov.in/"
       }
     },
     "TR": {
@@ -583,18 +583,18 @@
     },
     "HP": {
       "name": "Himachal Pradesh",
-      "confirmed": 18797,
-      "active": 2680,
-      "recovered": 15820,
-      "dead": 260,
-      "updatedTime": "17/10/2020 22:46:36",
+      "confirmed": 18967,
+      "active": 2630,
+      "recovered": 16037,
+      "dead": 263,
+      "updatedTime": "18/10/2020 22:16:48",
       "note": "",
       "stateCode": "HP",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 170,
+        "recovered": 217,
+        "dead": 3,
+        "active": -50
       },
       "testing_data": {
         "tested": 343186,
@@ -880,19 +880,19 @@
     }
   },
   "testing_data": {
-    "tested": 103053407,
-    "positive": 2105056,
-    "negative": 27770363,
-    "unconfirmed": 27163
+    "tested": 103118418,
+    "positive": 2105233,
+    "negative": 27784029,
+    "unconfirmed": 24664
   },
   "testing_data_imcr": {
     "tested": 94224190,
     "source": "http://twitter.com/ICMRDELHI/status/1317670159289516034"
   },
   "today": {
-    "confirmed": 51626,
-    "recovered": 60065,
-    "dead": 511,
-    "active": -8950
+    "confirmed": 52172,
+    "recovered": 60444,
+    "dead": 517,
+    "active": -8789
   }
 }
