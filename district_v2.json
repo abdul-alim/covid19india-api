@@ -869,15 +869,15 @@
       {
         "district": "Golaghat",
         "notes": "",
-        "active": 2116,
+        "active": 2115,
         "confirmed": 3803,
         "recovered": 1656,
-        "dead": 31,
+        "dead": 32,
         "today": {
           "confirmed": 0,
           "recovered": 0,
-          "active": 0,
-          "dead": 0
+          "active": -1,
+          "dead": 1
         }
       },
       {
@@ -911,15 +911,15 @@
       {
         "district": "Jorhat",
         "notes": "",
-        "active": 6974,
+        "active": 6973,
         "confirmed": 8771,
         "recovered": 1752,
-        "dead": 45,
+        "dead": 46,
         "today": {
           "confirmed": 0,
           "recovered": 0,
-          "active": 0,
-          "dead": 0
+          "active": -1,
+          "dead": 1
         }
       },
       {
@@ -939,15 +939,15 @@
       {
         "district": "Kamrup Metropolitan",
         "notes": "",
-        "active": 31183,
-        "confirmed": 45897,
+        "active": 31402,
+        "confirmed": 46120,
         "recovered": 14599,
-        "dead": 115,
+        "dead": 119,
         "today": {
-          "confirmed": 0,
+          "confirmed": 223,
           "recovered": 0,
-          "active": 0,
-          "dead": 0
+          "active": 219,
+          "dead": 4
         }
       },
       {
@@ -1121,15 +1121,15 @@
       {
         "district": "Tinsukia",
         "notes": "",
-        "active": 1540,
+        "active": 1539,
         "confirmed": 3366,
         "recovered": 1798,
-        "dead": 28,
+        "dead": 29,
         "today": {
           "confirmed": 0,
           "recovered": 0,
-          "active": 0,
-          "dead": 0
+          "active": -1,
+          "dead": 1
         }
       },
       {
@@ -1162,15 +1162,15 @@
       }
     ],
     "today": {
-      "confirmed": 0,
-      "active": 0,
+      "confirmed": 223,
+      "active": 216,
       "recovered": 0,
-      "dead": 0
+      "dead": 7
     },
-    "confirmed": 200709,
-    "recovered": 171680,
-    "dead": 868,
-    "active": 28158
+    "confirmed": 201407,
+    "recovered": 173210,
+    "dead": 875,
+    "active": 27319
   },
   "BR": {
     "state": "Bihar",
@@ -1743,10 +1743,10 @@
       "recovered": 0,
       "dead": 0
     },
-    "confirmed": 13646,
-    "recovered": 12554,
+    "confirmed": 13686,
+    "recovered": 12617,
     "dead": 208,
-    "active": 884
+    "active": 861
   },
   "CT": {
     "state": "Chhattisgarh",
@@ -5435,10 +5435,10 @@
       "recovered": 0,
       "dead": 0
     },
-    "confirmed": 1595381,
-    "recovered": 1369810,
-    "dead": 42115,
-    "active": 182973
+    "confirmed": 1601365,
+    "recovered": 1384879,
+    "dead": 42240,
+    "active": 173763
   },
   "ML": {
     "state": "Meghalaya",
