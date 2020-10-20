@@ -1,32 +1,32 @@
 {
-  "confirmed": 7629932,
-  "recovered": 6767828,
-  "dead": 115600,
-  "active": 745243,
-  "updatedTime": "20/10/2020 21:02:34",
+  "confirmed": 7645046,
+  "recovered": 6787580,
+  "dead": 115879,
+  "active": 740326,
+  "updatedTime": "20/10/2020 21:28:29",
   "states": {
     "MH": {
       "name": "Maharashtra",
-      "confirmed": 1601365,
-      "active": 173759,
-      "recovered": 1384879,
-      "dead": 42240,
-      "updatedTime": "20/10/2020 00:29:33",
+      "confirmed": 1609516,
+      "active": 174268,
+      "recovered": 1392308,
+      "dead": 42453,
+      "updatedTime": "20/10/2020 21:21:34",
       "note": "[Sep 9] :239 cases have been removed from the hospitalized figures owing to the removal of duplicates and change of addresses as per the original residence,\n[Aug 15] : MH bulletin has reduced 819 confirmed cases in Mumbai and 72 confirmed cases from 'Other States' from the tally\n[Jun 16] : 1328 deceased cases have been retroactively added to MH bulletin.\n[Jun 20] : 69 deceased cases have been reduced based on state bulletin.",
       "stateCode": "MH",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 8151,
+        "recovered": 7429,
+        "dead": 213,
+        "active": 509
       },
       "testing_data": {
-        "tested": 8185778,
-        "positive": 0,
-        "negative": 0,
+        "tested": 8251234,
+        "positive": 1609516,
+        "negative": 6641718,
         "unconfirmed": 0,
-        "date": "19/10/2020",
-        "source": "https://twitter.com/ANI/status/1318219489289203712/photo/1"
+        "date": "20/10/2020",
+        "source": "https://twitter.com/ANI/status/1318566343994585088"
       }
     },
     "AP": {
@@ -55,18 +55,18 @@
     },
     "KA": {
       "name": "Karnataka",
-      "confirmed": 770604,
-      "active": 106214,
-      "recovered": 653829,
-      "dead": 10542,
-      "updatedTime": "19/10/2020 21:58:30",
+      "confirmed": 776901,
+      "active": 103945,
+      "recovered": 662329,
+      "dead": 10608,
+      "updatedTime": "20/10/2020 21:27:32",
       "note": "",
       "stateCode": "KA",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 6297,
+        "recovered": 8500,
+        "dead": 66,
+        "active": -2269
       },
       "testing_data": {
         "tested": 6746358,
@@ -200,17 +200,17 @@
     "OR": {
       "name": "Odisha",
       "confirmed": 272250,
-      "active": 21454,
-      "recovered": 249575,
+      "active": 18832,
+      "recovered": 252197,
       "dead": 1221,
-      "updatedTime": "20/10/2020 11:38:29",
+      "updatedTime": "20/10/2020 21:27:34",
       "note": "[July 12th] :20 non-covid deaths reported in state dashboard are included in the deceased count\n[June 22nd]: NDRF/ODRF cases have been redistributed to districts based on state dashboard",
       "stateCode": "OR",
       "today": {
         "confirmed": 1904,
-        "recovered": 0,
+        "recovered": 2622,
         "dead": 16,
-        "active": 1888
+        "active": -734
       },
       "testing_data": {
         "tested": 4117090,
@@ -271,18 +271,18 @@
     },
     "AS": {
       "name": "Assam",
-      "confirmed": 201407,
-      "active": 27310,
-      "recovered": 173210,
+      "confirmed": 202073,
+      "active": 26775,
+      "recovered": 174411,
       "dead": 884,
-      "updatedTime": "20/10/2020 20:58:47",
+      "updatedTime": "20/10/2020 21:24:34",
       "note": "",
       "stateCode": "AS",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 666,
+        "recovered": 1201,
         "dead": 9,
-        "active": -9
+        "active": -544
       },
       "testing_data": {
         "tested": 4395965,
@@ -323,7 +323,7 @@
       "active": 14167,
       "recovered": 144027,
       "dead": 3654,
-      "updatedTime": "20/10/2020 21:02:39",
+      "updatedTime": "20/10/2020 21:15:36",
       "note": "",
       "stateCode": "GJ",
       "today": {
@@ -491,7 +491,7 @@
       "active": 5379,
       "recovered": 51862,
       "dead": 946,
-      "updatedTime": "20/10/2020 21:02:41",
+      "updatedTime": "20/10/2020 21:15:38",
       "note": "[Oct 17]: 89 back-dated deaths included",
       "stateCode": "UT",
       "today": {
@@ -693,12 +693,12 @@
         "active": -49
       },
       "testing_data": {
-        "tested": 188256,
+        "tested": 189783,
         "positive": 0,
-        "negative": 179720,
+        "negative": 181190,
         "unconfirmed": 0,
-        "date": "19/10/2020",
-        "source": "https://www.syllad.com/meghalaya-records-lowest-single-day-spike-of-28-cases-110-recovery/"
+        "date": "20/10/2020",
+        "source": "https://www.syllad.com/meghalaya-one-more-dies-of-covid-19-toll-at-76/"
       }
     },
     "NL": {
@@ -880,9 +880,9 @@
     }
   },
   "testing_data": {
-    "tested": 104863145,
-    "positive": 522730,
-    "negative": 21610973,
+    "tested": 104930128,
+    "positive": 2132246,
+    "negative": 28254161,
     "unconfirmed": 24205
   },
   "testing_data_imcr": {
@@ -890,9 +890,9 @@
     "source": "https://www.icmr.gov.in/pdf/covid/update/ICMR_testing_update_20Oct2020.pdf"
   },
   "today": {
-    "confirmed": 35196,
-    "recovered": 37211,
-    "dead": 364,
-    "active": -2379
+    "confirmed": 50310,
+    "recovered": 56963,
+    "dead": 643,
+    "active": -7296
   }
 }
