@@ -1,24 +1,24 @@
 {
-  "confirmed": 7675360,
-  "recovered": 6817513,
-  "dead": 116129,
-  "active": 740436,
-  "updatedTime": "21/10/2020 20:43:30",
+  "confirmed": 7694792,
+  "recovered": 6857032,
+  "dead": 116497,
+  "active": 719977,
+  "updatedTime": "21/10/2020 21:17:30",
   "states": {
     "MH": {
       "name": "Maharashtra",
-      "confirmed": 1609516,
-      "active": 174265,
-      "recovered": 1392308,
-      "dead": 42453,
-      "updatedTime": "21/10/2020 14:30:35",
+      "confirmed": 1617658,
+      "active": 158852,
+      "recovered": 1415679,
+      "dead": 42633,
+      "updatedTime": "21/10/2020 21:16:28",
       "note": "[Sep 9] :239 cases have been removed from the hospitalized figures owing to the removal of duplicates and change of addresses as per the original residence,\n[Aug 15] : MH bulletin has reduced 819 confirmed cases in Mumbai and 72 confirmed cases from 'Other States' from the tally\n[Jun 16] : 1328 deceased cases have been retroactively added to MH bulletin.\n[Jun 20] : 69 deceased cases have been reduced based on state bulletin.",
       "stateCode": "MH",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 8142,
+        "recovered": 23371,
+        "dead": 180,
+        "active": -15409
       },
       "testing_data": {
         "tested": 8251234,
@@ -79,18 +79,18 @@
     },
     "TN": {
       "name": "Tamil Nadu",
-      "confirmed": 694030,
-      "active": 36734,
-      "recovered": 646555,
-      "dead": 10741,
-      "updatedTime": "20/10/2020 20:29:36",
+      "confirmed": 697116,
+      "active": 35480,
+      "recovered": 650856,
+      "dead": 10780,
+      "updatedTime": "21/10/2020 21:17:32",
       "note": "[July 22]: 444 backdated deceased entries added to Chennai in TN bulletin.\n2 deaths cross notified to other states from Chennai and Coimbatore.\n1 patient died after turning negative for infection in Chengalpattu.\nThese cases have been added to TN deceased tally",
       "stateCode": "TN",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 3086,
+        "recovered": 4301,
+        "dead": 39,
+        "active": -1254
       },
       "testing_data": {
         "tested": 9193849,
@@ -103,18 +103,18 @@
     },
     "UP": {
       "name": "Uttar Pradesh",
-      "confirmed": 459154,
-      "active": 30416,
-      "recovered": 422024,
-      "dead": 6714,
-      "updatedTime": "21/10/2020 20:38:28",
+      "confirmed": 461475,
+      "active": 29364,
+      "recovered": 425356,
+      "dead": 6755,
+      "updatedTime": "21/10/2020 21:16:31",
       "note": "",
       "stateCode": "UP",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 2321,
+        "recovered": 3332,
+        "dead": 41,
+        "active": -1052
       },
       "testing_data": {
         "tested": 13445758,
@@ -131,7 +131,7 @@
       "active": 24117,
       "recovered": 310191,
       "dead": 6128,
-      "updatedTime": "21/10/2020 20:43:33",
+      "updatedTime": "21/10/2020 20:59:32",
       "note": "[July 14]: Value for the total tests conducted has been reduced by 97008 in the state bulletin. Reason given : \"Reconciled with ICMR figures\". We have made the same change.\n[June 16]: 344 deceased cases have been retroactively added to DL bulletin.",
       "stateCode": "DL",
       "today": {
@@ -175,18 +175,18 @@
     },
     "WB": {
       "name": "West Bengal",
-      "confirmed": 329057,
-      "active": 35170,
-      "recovered": 287707,
-      "dead": 6180,
-      "updatedTime": "20/10/2020 20:29:38",
+      "confirmed": 333126,
+      "active": 35579,
+      "recovered": 291303,
+      "dead": 6244,
+      "updatedTime": "21/10/2020 21:16:33",
       "note": "",
       "stateCode": "WB",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 4069,
+        "recovered": 3596,
+        "dead": 64,
+        "active": 409
       },
       "testing_data": {
         "tested": 4078651,
@@ -200,17 +200,17 @@
     "OR": {
       "name": "Odisha",
       "confirmed": 274181,
-      "active": 20750,
-      "recovered": 252197,
+      "active": 18034,
+      "recovered": 254913,
       "dead": 1234,
-      "updatedTime": "21/10/2020 12:14:29",
+      "updatedTime": "21/10/2020 21:16:34",
       "note": "[July 12th] :20 non-covid deaths reported in state dashboard are included in the deceased count\n[June 22nd]: NDRF/ODRF cases have been redistributed to districts based on state dashboard",
       "stateCode": "OR",
       "today": {
         "confirmed": 1931,
-        "recovered": 0,
+        "recovered": 2716,
         "dead": 13,
-        "active": 1918
+        "active": -798
       },
       "testing_data": {
         "tested": 4159394,
@@ -275,7 +275,7 @@
       "active": 26770,
       "recovered": 174411,
       "dead": 889,
-      "updatedTime": "21/10/2020 20:43:35",
+      "updatedTime": "21/10/2020 20:59:37",
       "note": "",
       "stateCode": "AS",
       "today": {
@@ -343,18 +343,18 @@
     },
     "MP": {
       "name": "Madhya Pradesh",
-      "confirmed": 162178,
-      "active": 12507,
-      "recovered": 146860,
-      "dead": 2811,
-      "updatedTime": "20/10/2020 20:29:42",
+      "confirmed": 163296,
+      "active": 12386,
+      "recovered": 148082,
+      "dead": 2828,
+      "updatedTime": "21/10/2020 21:16:36",
       "note": "[Oct 14]: 4469 confirmed cases and 4469 recoveries added in MP bulletin as reconciliation with private labs and hospitals",
       "stateCode": "MP",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 1118,
+        "recovered": 1222,
+        "dead": 17,
+        "active": -121
       },
       "testing_data": {
         "tested": 2656824,
@@ -415,18 +415,18 @@
     },
     "PB": {
       "name": "Punjab",
-      "confirmed": 128590,
-      "active": 4895,
-      "recovered": 119658,
-      "dead": 4037,
-      "updatedTime": "21/10/2020 04:03:31",
+      "confirmed": 129088,
+      "active": 4808,
+      "recovered": 120220,
+      "dead": 4060,
+      "updatedTime": "21/10/2020 21:17:35",
       "note": "",
       "stateCode": "PB",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 498,
+        "recovered": 562,
+        "dead": 23,
+        "active": -87
       },
       "testing_data": {
         "tested": 2385846,
@@ -535,18 +535,18 @@
     },
     "PY": {
       "name": "Puducherry",
-      "confirmed": 33452,
-      "active": 4101,
-      "recovered": 28774,
-      "dead": 577,
-      "updatedTime": "20/10/2020 20:29:51",
+      "confirmed": 33622,
+      "active": 4026,
+      "recovered": 29016,
+      "dead": 580,
+      "updatedTime": "21/10/2020 21:16:39",
       "note": "",
       "stateCode": "PY",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 170,
+        "recovered": 242,
+        "dead": 3,
+        "active": -75
       },
       "testing_data": {
         "tested": 278193,
@@ -679,18 +679,18 @@
     },
     "ML": {
       "name": "Meghalaya",
-      "confirmed": 8649,
-      "active": 1971,
-      "recovered": 6602,
-      "dead": 76,
-      "updatedTime": "21/10/2020 00:42:45",
+      "confirmed": 8677,
+      "active": 1821,
+      "recovered": 6779,
+      "dead": 77,
+      "updatedTime": "21/10/2020 21:17:36",
       "note": "",
       "stateCode": "ML",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 28,
+        "recovered": 177,
+        "dead": 1,
+        "active": -150
       },
       "testing_data": {
         "tested": 189783,
@@ -890,9 +890,9 @@
     "source": "https://www.icmr.gov.in/pdf/covid/update/ICMR_testing_update_21Oct2020.pdf"
   },
   "today": {
-    "confirmed": 26202,
-    "recovered": 24963,
-    "dead": 179,
-    "active": 1060
+    "confirmed": 45634,
+    "recovered": 64482,
+    "dead": 547,
+    "active": -19395
   }
 }
