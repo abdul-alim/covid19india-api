@@ -1,9 +1,9 @@
 {
-  "confirmed": 7704399,
-  "recovered": 6870797,
+  "confirmed": 7704433,
+  "recovered": 6870883,
   "dead": 116639,
-  "active": 715680,
-  "updatedTime": "21/10/2020 22:41:29",
+  "active": 715628,
+  "updatedTime": "21/10/2020 22:59:28",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -368,17 +368,17 @@
     "CT": {
       "name": "Chhattisgarh",
       "confirmed": 167639,
-      "active": 25838,
-      "recovered": 140165,
+      "active": 25787,
+      "recovered": 140216,
       "dead": 1636,
-      "updatedTime": "21/10/2020 22:41:31",
+      "updatedTime": "21/10/2020 22:59:30",
       "note": "[Sep 9]:57 backdated deceased cases have been added.",
       "stateCode": "CT",
       "today": {
         "confirmed": 2360,
-        "recovered": 2179,
+        "recovered": 2230,
         "dead": 52,
-        "active": 129
+        "active": 78
       },
       "testing_data": {
         "tested": 1593040,
@@ -775,18 +775,18 @@
     },
     "SK": {
       "name": "Sikkim",
-      "confirmed": 3643,
-      "active": 254,
-      "recovered": 3245,
+      "confirmed": 3677,
+      "active": 253,
+      "recovered": 3280,
       "dead": 63,
-      "updatedTime": "21/10/2020 00:42:52",
+      "updatedTime": "21/10/2020 22:59:32",
       "note": "",
       "stateCode": "SK",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 34,
+        "recovered": 35,
         "dead": 0,
-        "active": 0
+        "active": -1
       },
       "testing_data": {
         "tested": 54836,
@@ -890,9 +890,9 @@
     "source": "https://www.icmr.gov.in/pdf/covid/update/ICMR_testing_update_21Oct2020.pdf"
   },
   "today": {
-    "confirmed": 55241,
-    "recovered": 78244,
+    "confirmed": 55275,
+    "recovered": 78330,
     "dead": 689,
-    "active": -23692
+    "active": -23744
   }
 }
