@@ -1,9 +1,9 @@
 {
-  "confirmed": 7724212,
-  "recovered": 6899051,
-  "dead": 116959,
-  "active": 706916,
-  "updatedTime": "22/10/2020 20:04:31",
+  "confirmed": 7733352,
+  "recovered": 6908564,
+  "dead": 117067,
+  "active": 706435,
+  "updatedTime": "22/10/2020 20:26:33",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -11,7 +11,7 @@
       "active": 150016,
       "recovered": 1431856,
       "dead": 42831,
-      "updatedTime": "22/10/2020 20:04:35",
+      "updatedTime": "22/10/2020 20:18:36",
       "note": "[Sep 9] :239 cases have been removed from the hospitalized figures owing to the removal of duplicates and change of addresses as per the original residence,\n[Aug 15] : MH bulletin has reduced 819 confirmed cases in Mumbai and 72 confirmed cases from 'Other States' from the tally\n[Jun 16] : 1328 deceased cases have been retroactively added to MH bulletin.\n[Jun 20] : 69 deceased cases have been reduced based on state bulletin.",
       "stateCode": "MH",
       "today": {
@@ -21,12 +21,12 @@
         "active": -8836
       },
       "testing_data": {
-        "tested": 8327493,
+        "tested": 8402559,
         "positive": 0,
-        "negative": 0,
+        "negative": 6777362,
         "unconfirmed": 0,
-        "date": "21/10/2020",
-        "source": "https://twitter.com/ANI/status/1318927516577353729/photo/1"
+        "date": "22/10/2020",
+        "source": "https://twitter.com/ANI/status/1319281058102169607?s=20"
       }
     },
     "AP": {
@@ -79,18 +79,18 @@
     },
     "TN": {
       "name": "Tamil Nadu",
-      "confirmed": 697116,
-      "active": 35480,
-      "recovered": 650856,
-      "dead": 10780,
-      "updatedTime": "21/10/2020 21:23:29",
+      "confirmed": 700193,
+      "active": 34198,
+      "recovered": 655170,
+      "dead": 10825,
+      "updatedTime": "22/10/2020 20:26:36",
       "note": "[July 22]: 444 backdated deceased entries added to Chennai in TN bulletin.\n2 deaths cross notified to other states from Chennai and Coimbatore.\n1 patient died after turning negative for infection in Chengalpattu.\nThese cases have been added to TN deceased tally",
       "stateCode": "TN",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 3077,
+        "recovered": 4314,
+        "dead": 45,
+        "active": -1282
       },
       "testing_data": {
         "tested": 9193849,
@@ -107,7 +107,7 @@
       "active": 29131,
       "recovered": 427937,
       "dead": 6790,
-      "updatedTime": "22/10/2020 20:04:37",
+      "updatedTime": "22/10/2020 20:18:42",
       "note": "",
       "stateCode": "UP",
       "today": {
@@ -127,18 +127,18 @@
     },
     "DL": {
       "name": "Delhi",
-      "confirmed": 340436,
-      "active": 24117,
-      "recovered": 310191,
-      "dead": 6128,
-      "updatedTime": "21/10/2020 20:59:32",
+      "confirmed": 344318,
+      "active": 25237,
+      "recovered": 312918,
+      "dead": 6163,
+      "updatedTime": "22/10/2020 20:26:38",
       "note": "[July 14]: Value for the total tests conducted has been reduced by 97008 in the state bulletin. Reason given : \"Reconciled with ICMR figures\". We have made the same change.\n[June 16]: 344 deceased cases have been retroactively added to DL bulletin.",
       "stateCode": "DL",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 3882,
+        "recovered": 2727,
+        "dead": 35,
+        "active": 1120
       },
       "testing_data": {
         "tested": 4142540,
@@ -165,12 +165,12 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 4091729,
-        "positive": 361843,
+        "tested": 4147822,
+        "positive": 369325,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "21/10/2020",
-        "source": "https://dhs.kerala.gov.in/wp-content/uploads/2020/10/Bulletin-HFWD-English-October-21.pdf"
+        "date": "22/10/2020",
+        "source": "https://dhs.kerala.gov.in/%e0%b4%a1%e0%b5%86%e0%b4%af%e0%b4%bf%e0%b4%b2%e0%b4%bf-%e0%b4%ac%e0%b5%81%e0%b4%b3%e0%b5%8d%e0%b4%b3%e0%b4%b1%e0%b5%8d%e0%b4%b1%e0%b4%bf%e0%b4%a8%e0%b5%8d%e2%80%8d/"
       }
     },
     "WB": {
@@ -251,7 +251,7 @@
       "active": 11076,
       "recovered": 197193,
       "dead": 1026,
-      "updatedTime": "22/10/2020 20:04:40",
+      "updatedTime": "22/10/2020 20:18:45",
       "note": "",
       "stateCode": "BR",
       "today": {
@@ -272,17 +272,17 @@
     "AS": {
       "name": "Assam",
       "confirmed": 202774,
-      "active": 25807,
+      "active": 25800,
       "recovered": 176075,
-      "dead": 889,
-      "updatedTime": "21/10/2020 21:41:33",
+      "dead": 896,
+      "updatedTime": "22/10/2020 20:26:41",
       "note": "",
       "stateCode": "AS",
       "today": {
         "confirmed": 0,
         "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "dead": 7,
+        "active": -7
       },
       "testing_data": {
         "tested": 4438417,
@@ -299,7 +299,7 @@
       "active": 18341,
       "recovered": 160614,
       "dead": 1800,
-      "updatedTime": "22/10/2020 20:04:42",
+      "updatedTime": "22/10/2020 20:19:05",
       "note": "",
       "stateCode": "RJ",
       "today": {
@@ -319,18 +319,18 @@
     },
     "GJ": {
       "name": "Gujarat",
-      "confirmed": 162985,
-      "active": 14115,
-      "recovered": 145207,
-      "dead": 3663,
-      "updatedTime": "21/10/2020 20:41:34",
+      "confirmed": 164121,
+      "active": 14043,
+      "recovered": 146408,
+      "dead": 3670,
+      "updatedTime": "22/10/2020 20:26:44",
       "note": "",
       "stateCode": "GJ",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 1136,
+        "recovered": 1201,
+        "dead": 7,
+        "active": -72
       },
       "testing_data": {
         "tested": 5532522,
@@ -343,26 +343,26 @@
     },
     "MP": {
       "name": "Madhya Pradesh",
-      "confirmed": 163296,
-      "active": 12386,
-      "recovered": 148082,
-      "dead": 2828,
-      "updatedTime": "21/10/2020 21:20:44",
+      "confirmed": 164341,
+      "active": 12146,
+      "recovered": 149353,
+      "dead": 2842,
+      "updatedTime": "22/10/2020 20:26:46",
       "note": "[Oct 14]: 4469 confirmed cases and 4469 recoveries added in MP bulletin as reconciliation with private labs and hospitals",
       "stateCode": "MP",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 1045,
+        "recovered": 1271,
+        "dead": 14,
+        "active": -240
       },
       "testing_data": {
-        "tested": 2656824,
+        "tested": 2687838,
         "positive": 0,
-        "negative": 2428734,
+        "negative": 2458703,
         "unconfirmed": 0,
-        "date": "21/10/2020",
-        "source": "https://twitter.com/healthminmp/status/1318922251962560514?s=20"
+        "date": "22/10/2020",
+        "source": "https://twitter.com/healthminmp/status/1319283641172676611?s=20"
       }
     },
     "CT": {
@@ -395,7 +395,7 @@
       "active": 10009,
       "recovered": 142798,
       "dead": 1688,
-      "updatedTime": "22/10/2020 20:04:44",
+      "updatedTime": "22/10/2020 20:19:15",
       "note": "[Aug 2]: 21 Foreign Evacuees have been merged to Panchkula and 14 Italian tourists have been merged to Gurugram in HR bulletin.",
       "stateCode": "HR",
       "today": {
@@ -467,7 +467,7 @@
       "active": 7952,
       "recovered": 80802,
       "dead": 1412,
-      "updatedTime": "22/10/2020 20:04:47",
+      "updatedTime": "22/10/2020 20:19:18",
       "note": "",
       "stateCode": "JK",
       "today": {
@@ -479,7 +479,7 @@
       "testing_data": {
         "tested": 2100760,
         "positive": 0,
-        "negative": 0,
+        "negative": 2010594,
         "unconfirmed": 0,
         "date": "22/10/2020",
         "source": "https://twitter.com/diprjk/status/1319252802711924736?s=20"
@@ -515,7 +515,7 @@
       "active": 2991,
       "recovered": 38031,
       "dead": 564,
-      "updatedTime": "22/10/2020 20:04:49",
+      "updatedTime": "22/10/2020 20:19:21",
       "note": "",
       "stateCode": "GA",
       "today": {
@@ -611,7 +611,7 @@
       "active": 4101,
       "recovered": 12393,
       "dead": 127,
-      "updatedTime": "22/10/2020 20:04:51",
+      "updatedTime": "22/10/2020 20:19:23",
       "note": "",
       "stateCode": "MN",
       "today": {
@@ -707,7 +707,7 @@
       "active": 1803,
       "recovered": 6400,
       "dead": 21,
-      "updatedTime": "22/10/2020 20:04:53",
+      "updatedTime": "22/10/2020 20:19:26",
       "note": "",
       "stateCode": "NL",
       "today": {
@@ -803,7 +803,7 @@
       "active": 45,
       "recovered": 3137,
       "dead": 2,
-      "updatedTime": "22/10/2020 20:04:55",
+      "updatedTime": "22/10/2020 20:19:29",
       "note": "",
       "stateCode": "DN",
       "today": {
@@ -820,7 +820,7 @@
       "active": 166,
       "recovered": 2175,
       "dead": 0,
-      "updatedTime": "22/10/2020 20:04:58",
+      "updatedTime": "22/10/2020 20:19:32",
       "note": "",
       "stateCode": "MZ",
       "today": {
@@ -880,9 +880,9 @@
     }
   },
   "testing_data": {
-    "tested": 107011189,
-    "positive": 532987,
-    "negative": 20018842,
+    "tested": 107173362,
+    "positive": 540469,
+    "negative": 28836767,
     "unconfirmed": 26403
   },
   "testing_data_imcr": {
@@ -890,9 +890,9 @@
     "source": "https://www.icmr.gov.in/pdf/covid/update/ICMR_testing_update_22Oct2020.pdf"
   },
   "today": {
-    "confirmed": 18790,
-    "recovered": 26940,
-    "dead": 308,
-    "active": -8458
+    "confirmed": 27930,
+    "recovered": 36453,
+    "dead": 416,
+    "active": -8939
   }
 }
