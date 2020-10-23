@@ -1,32 +1,32 @@
 {
-  "confirmed": 7785889,
-  "recovered": 6969375,
-  "dead": 117534,
-  "active": 697680,
-  "updatedTime": "23/10/2020 21:14:32",
+  "confirmed": 7810268,
+  "recovered": 7009111,
+  "dead": 117906,
+  "active": 681951,
+  "updatedTime": "23/10/2020 21:47:03",
   "states": {
     "MH": {
       "name": "Maharashtra",
-      "confirmed": 1625197,
-      "active": 150011,
-      "recovered": 1431856,
-      "dead": 42831,
-      "updatedTime": "23/10/2020 00:19:32",
+      "confirmed": 1632544,
+      "active": 143927,
+      "recovered": 1445103,
+      "dead": 43015,
+      "updatedTime": "23/10/2020 21:42:39",
       "note": "[Sep 9] :239 cases have been removed from the hospitalized figures owing to the removal of duplicates and change of addresses as per the original residence,\n[Aug 15] : MH bulletin has reduced 819 confirmed cases in Mumbai and 72 confirmed cases from 'Other States' from the tally\n[Jun 16] : 1328 deceased cases have been retroactively added to MH bulletin.\n[Jun 20] : 69 deceased cases have been reduced based on state bulletin.",
       "stateCode": "MH",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 7347,
+        "recovered": 13247,
+        "dead": 184,
+        "active": -6084
       },
       "testing_data": {
-        "tested": 8402559,
-        "positive": 0,
+        "tested": 8479155,
+        "positive": 1632544,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "22/10/2020",
-        "source": "https://twitter.com/ANI/status/1319281058102169607?s=20"
+        "date": "23/10/2020",
+        "source": "https://twitter.com/ANI/status/1319662693666545664"
       }
     },
     "AP": {
@@ -55,18 +55,18 @@
     },
     "KA": {
       "name": "Karnataka",
-      "confirmed": 788551,
-      "active": 92927,
-      "recovered": 684835,
-      "dead": 10770,
-      "updatedTime": "22/10/2020 21:36:36",
+      "confirmed": 793907,
+      "active": 89483,
+      "recovered": 693584,
+      "dead": 10821,
+      "updatedTime": "23/10/2020 21:47:12",
       "note": "",
       "stateCode": "KA",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 5356,
+        "recovered": 8749,
+        "dead": 51,
+        "active": -3444
       },
       "testing_data": {
         "tested": 7168575,
@@ -79,18 +79,18 @@
     },
     "TN": {
       "name": "Tamil Nadu",
-      "confirmed": 700193,
-      "active": 34198,
-      "recovered": 655170,
-      "dead": 10825,
-      "updatedTime": "22/10/2020 20:26:36",
+      "confirmed": 703250,
+      "active": 32960,
+      "recovered": 659432,
+      "dead": 10858,
+      "updatedTime": "23/10/2020 21:47:25",
       "note": "[July 22]: 444 backdated deceased entries added to Chennai in TN bulletin.\n2 deaths cross notified to other states from Chennai and Coimbatore.\n1 patient died after turning negative for infection in Chengalpattu.\nThese cases have been added to TN deceased tally",
       "stateCode": "TN",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 3057,
+        "recovered": 4262,
+        "dead": 33,
+        "active": -1238
       },
       "testing_data": {
         "tested": 9356580,
@@ -103,18 +103,18 @@
     },
     "UP": {
       "name": "Uttar Pradesh",
-      "confirmed": 463858,
-      "active": 29131,
-      "recovered": 427937,
-      "dead": 6790,
-      "updatedTime": "22/10/2020 20:18:42",
+      "confirmed": 466060,
+      "active": 28268,
+      "recovered": 430962,
+      "dead": 6830,
+      "updatedTime": "23/10/2020 21:47:29",
       "note": "",
       "stateCode": "UP",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 2202,
+        "recovered": 3025,
+        "dead": 40,
+        "active": -863
       },
       "testing_data": {
         "tested": 13756000,
@@ -127,18 +127,18 @@
     },
     "DL": {
       "name": "Delhi",
-      "confirmed": 344318,
-      "active": 25237,
-      "recovered": 312918,
-      "dead": 6163,
-      "updatedTime": "22/10/2020 20:39:39",
+      "confirmed": 348404,
+      "active": 26001,
+      "recovered": 316214,
+      "dead": 6189,
+      "updatedTime": "23/10/2020 21:42:53",
       "note": "[July 14]: Value for the total tests conducted has been reduced by 97008 in the state bulletin. Reason given : \"Reconciled with ICMR figures\". We have made the same change.\n[June 16]: 344 deceased cases have been retroactively added to DL bulletin.",
       "stateCode": "DL",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 4086,
+        "recovered": 3296,
+        "dead": 26,
+        "active": 764
       },
       "testing_data": {
         "tested": 4201310,
@@ -179,7 +179,7 @@
       "active": 36471,
       "recovered": 298587,
       "dead": 6368,
-      "updatedTime": "23/10/2020 21:14:34",
+      "updatedTime": "23/10/2020 21:30:39",
       "note": "",
       "stateCode": "WB",
       "today": {
@@ -189,28 +189,28 @@
         "active": 407
       },
       "testing_data": {
-        "tested": 4166495,
+        "tested": 4211077,
         "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "22/10/2020",
-        "source": "https://www.wbhealth.gov.in/uploaded_files/corona/WB_DHFW_Bulletin_22nd_OCTOBER_REPORT_FINAL.pdf"
+        "date": "23/10/2020",
+        "source": "https://www.wbhealth.gov.in/uploaded_files/corona/WB_DHFW_Bulletin_23rd_OCTOBER_REPORT_FINAL.pdf"
       }
     },
     "OR": {
       "name": "Odisha",
       "confirmed": 277887,
-      "active": 19579,
-      "recovered": 257041,
+      "active": 17202,
+      "recovered": 259418,
       "dead": 1267,
-      "updatedTime": "23/10/2020 13:19:35",
+      "updatedTime": "23/10/2020 21:47:33",
       "note": "[July 12th] :20 non-covid deaths reported in state dashboard are included in the deceased count\n[June 22nd]: NDRF/ODRF cases have been redistributed to districts based on state dashboard",
       "stateCode": "OR",
       "today": {
         "confirmed": 1793,
-        "recovered": 0,
+        "recovered": 2377,
         "dead": 18,
-        "active": 1775
+        "active": -602
       },
       "testing_data": {
         "tested": 4240241,
@@ -271,18 +271,18 @@
     },
     "AS": {
       "name": "Assam",
-      "confirmed": 203282,
-      "active": 24724,
-      "recovered": 177659,
-      "dead": 896,
-      "updatedTime": "23/10/2020 00:19:35",
+      "confirmed": 203709,
+      "active": 22963,
+      "recovered": 179843,
+      "dead": 900,
+      "updatedTime": "23/10/2020 21:42:57",
       "note": "",
       "stateCode": "AS",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 427,
+        "recovered": 2184,
+        "dead": 4,
+        "active": -1761
       },
       "testing_data": {
         "tested": 4472792,
@@ -343,18 +343,18 @@
     },
     "MP": {
       "name": "Madhya Pradesh",
-      "confirmed": 164341,
-      "active": 12146,
-      "recovered": 149353,
-      "dead": 2842,
-      "updatedTime": "22/10/2020 20:39:47",
+      "confirmed": 165294,
+      "active": 11761,
+      "recovered": 150678,
+      "dead": 2855,
+      "updatedTime": "23/10/2020 21:47:38",
       "note": "[Oct 14]: 4469 confirmed cases and 4469 recoveries added in MP bulletin as reconciliation with private labs and hospitals",
       "stateCode": "MP",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 953,
+        "recovered": 1325,
+        "dead": 13,
+        "active": -385
       },
       "testing_data": {
         "tested": 2718925,
@@ -439,18 +439,18 @@
     },
     "JH": {
       "name": "Jharkhand",
-      "confirmed": 98610,
-      "active": 6122,
-      "recovered": 91629,
-      "dead": 859,
-      "updatedTime": "22/10/2020 21:36:38",
+      "confirmed": 99045,
+      "active": 6055,
+      "recovered": 92128,
+      "dead": 862,
+      "updatedTime": "23/10/2020 21:47:46",
       "note": "",
       "stateCode": "JH",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 435,
+        "recovered": 499,
+        "dead": 3,
+        "active": -67
       },
       "testing_data": {
         "tested": 3019158,
@@ -487,26 +487,26 @@
     },
     "UT": {
       "name": "Uttarakhand",
-      "confirmed": 59508,
-      "active": 4897,
-      "recovered": 53200,
-      "dead": 968,
-      "updatedTime": "22/10/2020 21:28:50",
+      "confirmed": 59796,
+      "active": 4656,
+      "recovered": 53718,
+      "dead": 979,
+      "updatedTime": "23/10/2020 21:47:02",
       "note": "[Oct 17]: 89 back-dated deaths included",
       "stateCode": "UT",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 288,
+        "recovered": 518,
+        "dead": 11,
+        "active": -241
       },
       "testing_data": {
-        "tested": 953487,
+        "tested": 967258,
         "positive": 0,
-        "negative": 861814,
-        "unconfirmed": 14994,
-        "date": "22/10/2020",
-        "source": "https://twitter.com/PIBDehradun/status/1319278628870340610/photo/1"
+        "negative": 874177,
+        "unconfirmed": 15984,
+        "date": "23/10/2020",
+        "source": "https://twitter.com/DDnews_dehradun/status/1319655035005890566?s=20"
       }
     },
     "GA": {
@@ -607,18 +607,18 @@
     },
     "MN": {
       "name": "Manipur",
-      "confirmed": 16621,
-      "active": 4101,
-      "recovered": 12393,
-      "dead": 127,
+      "confirmed": 16777,
+      "active": 4083,
+      "recovered": 12562,
+      "dead": 132,
       "updatedTime": "22/10/2020 20:19:23",
       "note": "",
       "stateCode": "MN",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 156,
+        "recovered": 169,
+        "dead": 5,
+        "active": -18
       },
       "testing_data": {
         "tested": 333718,
@@ -631,18 +631,18 @@
     },
     "CH": {
       "name": "Chandigarh",
-      "confirmed": 13848,
-      "active": 712,
-      "recovered": 12924,
-      "dead": 212,
-      "updatedTime": "22/10/2020 21:15:47",
+      "confirmed": 13920,
+      "active": 697,
+      "recovered": 13009,
+      "dead": 214,
+      "updatedTime": "23/10/2020 21:47:08",
       "note": "",
       "stateCode": "CH",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 72,
+        "recovered": 85,
+        "dead": 2,
+        "active": -15
       },
       "testing_data": {
         "tested": 100045,
@@ -693,12 +693,12 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 193190,
+        "tested": 194818,
         "positive": 0,
-        "negative": 184470,
+        "negative": 186017,
         "unconfirmed": 0,
-        "date": "22/10/2020",
-        "source": "https://www.syllad.com/meghalaya-37-year-old-woman-dies-of-covid-19-in-wjh-toll-rises-to-78/"
+        "date": "23/10/2020",
+        "source": "https://www.syllad.com/meghalaya-24-year-old-man-dies-of-covid-19-death-toll-rises-to-79/"
       }
     },
     "NL": {
@@ -880,19 +880,19 @@
     }
   },
   "testing_data": {
-    "tested": 108530580,
-    "positive": 550060,
-    "negative": 22323495,
-    "unconfirmed": 26852
+    "tested": 108667157,
+    "positive": 2182604,
+    "negative": 22337405,
+    "unconfirmed": 27842
   },
   "testing_data_imcr": {
     "tested": 100113085,
     "source": "https://www.icmr.gov.in/pdf/covid/update/ICMR_testing_update_23Oct2020.pdf"
   },
   "today": {
-    "confirmed": 26199,
-    "recovered": 23002,
-    "dead": 198,
-    "active": 2999
+    "confirmed": 50578,
+    "recovered": 62738,
+    "dead": 570,
+    "active": -12730
   }
 }
