@@ -1,9 +1,9 @@
 {
-  "confirmed": 7772649,
-  "recovered": 6958897,
-  "dead": 117436,
-  "active": 695016,
-  "updatedTime": "23/10/2020 19:43:28",
+  "confirmed": 7773235,
+  "recovered": 6959581,
+  "dead": 117448,
+  "active": 694906,
+  "updatedTime": "23/10/2020 20:02:31",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -323,7 +323,7 @@
       "active": 13885,
       "recovered": 147672,
       "dead": 3676,
-      "updatedTime": "23/10/2020 19:43:30",
+      "updatedTime": "23/10/2020 19:58:30",
       "note": "",
       "stateCode": "GJ",
       "today": {
@@ -357,12 +357,12 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 2687838,
+        "tested": 2718925,
         "positive": 0,
-        "negative": 2458703,
+        "negative": 2488837,
         "unconfirmed": 0,
-        "date": "22/10/2020",
-        "source": "https://twitter.com/healthminmp/status/1319283641172676611?s=20"
+        "date": "23/10/2020",
+        "source": "https://twitter.com/ANI/status/1319641822872829953?s=20"
       }
     },
     "CT": {
@@ -395,7 +395,7 @@
       "active": 10082,
       "recovered": 143978,
       "dead": 1705,
-      "updatedTime": "23/10/2020 19:43:32",
+      "updatedTime": "23/10/2020 19:58:32",
       "note": "[Aug 2]: 21 Foreign Evacuees have been merged to Panchkula and 14 Italian tourists have been merged to Gurugram in HR bulletin.",
       "stateCode": "HR",
       "today": {
@@ -463,18 +463,18 @@
     },
     "JK": {
       "name": "Jammu and Kashmir",
-      "confirmed": 90166,
-      "active": 7952,
-      "recovered": 80802,
-      "dead": 1412,
-      "updatedTime": "22/10/2020 20:19:18",
+      "confirmed": 90752,
+      "active": 7842,
+      "recovered": 81486,
+      "dead": 1424,
+      "updatedTime": "23/10/2020 20:02:34",
       "note": "",
       "stateCode": "JK",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 586,
+        "recovered": 684,
+        "dead": 12,
+        "active": -110
       },
       "testing_data": {
         "tested": 2125790,
@@ -530,7 +530,7 @@
         "negative": 0,
         "unconfirmed": 0,
         "date": "23/10/0202",
-        "source": "https://www.goa.gov.in/"
+        "source": "https://www.goa.gov.in/wp-content/uploads/2020/10/Media-Bulletin-23rd-October-2020.pdf"
       }
     },
     "PY": {
@@ -717,12 +717,12 @@
         "active": 39
       },
       "testing_data": {
-        "tested": 93381,
+        "tested": 93929,
         "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "22/10/2020",
-        "source": "https://twitter.com/MyGovNagaland/status/1319257957658484737/photo/1"
+        "date": "23/10/2020",
+        "source": "https://twitter.com/MyGovNagaland/status/1319617344709087233/photo/1"
       }
     },
     "LA": {
@@ -830,12 +830,12 @@
         "active": 9
       },
       "testing_data": {
-        "tested": 100660,
+        "tested": 101868,
         "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "22/10/2020",
-        "source": "https://twitter.com/dipr_mizoram/status/1319486065036517377?s=20"
+        "date": "23/10/2020",
+        "source": "https://dipr.mizoram.gov.in/post/status-of-state-surveillance-of-covid-19-23102020-last-24hours-500pm"
       }
     },
     "UN": {
@@ -880,9 +880,9 @@
     }
   },
   "testing_data": {
-    "tested": 108415781,
+    "tested": 108448624,
     "positive": 550060,
-    "negative": 22293361,
+    "negative": 22323495,
     "unconfirmed": 26852
   },
   "testing_data_imcr": {
@@ -890,9 +890,9 @@
     "source": "https://www.icmr.gov.in/pdf/covid/update/ICMR_testing_update_23Oct2020.pdf"
   },
   "today": {
-    "confirmed": 12959,
-    "recovered": 12524,
-    "dead": 100,
-    "active": 335
+    "confirmed": 13545,
+    "recovered": 13208,
+    "dead": 112,
+    "active": 225
   }
 }
