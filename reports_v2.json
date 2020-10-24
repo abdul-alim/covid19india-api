@@ -1,9 +1,9 @@
 {
-  "confirmed": 7845328,
-  "recovered": 7054252,
-  "dead": 118320,
-  "active": 671446,
-  "updatedTime": "24/10/2020 21:25:40",
+  "confirmed": 7849936,
+  "recovered": 7053281,
+  "dead": 118358,
+  "active": 676987,
+  "updatedTime": "24/10/2020 21:46:33",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -11,7 +11,7 @@
       "active": 140194,
       "recovered": 1455107,
       "dead": 43152,
-      "updatedTime": "24/10/2020 21:24:38",
+      "updatedTime": "24/10/2020 21:27:43",
       "note": "[Sep 9] :239 cases have been removed from the hospitalized figures owing to the removal of duplicates and change of addresses as per the original residence,\n[Aug 15] : MH bulletin has reduced 819 confirmed cases in Mumbai and 72 confirmed cases from 'Other States' from the tally\n[Jun 16] : 1328 deceased cases have been retroactively added to MH bulletin.\n[Jun 20] : 69 deceased cases have been reduced based on state bulletin.",
       "stateCode": "MH",
       "today": {
@@ -35,7 +35,7 @@
       "active": 31469,
       "recovered": 765991,
       "dead": 6566,
-      "updatedTime": "24/10/2020 21:25:43",
+      "updatedTime": "24/10/2020 21:30:36",
       "note": "",
       "stateCode": "AP",
       "today": {
@@ -107,7 +107,7 @@
       "active": 27681,
       "recovered": 433703,
       "dead": 6854,
-      "updatedTime": "24/10/2020 21:25:45",
+      "updatedTime": "24/10/2020 21:30:38",
       "note": "",
       "stateCode": "UP",
       "today": {
@@ -127,18 +127,18 @@
     },
     "DL": {
       "name": "Delhi",
-      "confirmed": 348404,
-      "active": 18235,
-      "recovered": 323980,
-      "dead": 6189,
-      "updatedTime": "24/10/2020 21:25:47",
+      "confirmed": 352520,
+      "active": 26467,
+      "recovered": 319828,
+      "dead": 6225,
+      "updatedTime": "24/10/2020 21:46:35",
       "note": "[July 14]: Value for the total tests conducted has been reduced by 97008 in the state bulletin. Reason given : \"Reconciled with ICMR figures\". We have made the same change.\n[June 16]: 344 deceased cases have been retroactively added to DL bulletin.",
       "stateCode": "DL",
       "today": {
-        "confirmed": 0,
-        "recovered": 7766,
-        "dead": 0,
-        "active": -7766
+        "confirmed": 4116,
+        "recovered": 3614,
+        "dead": 36,
+        "active": 466
       },
       "testing_data": {
         "tested": 4259878,
@@ -155,7 +155,7 @@
       "active": 97418,
       "recovered": 287261,
       "dead": 1307,
-      "updatedTime": "24/10/2020 21:25:49",
+      "updatedTime": "24/10/2020 21:35:37",
       "note": "Mahe native who expired in Kannur included in Kerala's deceased tally.\nSome non-covid deaths have also been reported in the bulletin.\nThese have been reduced from active count",
       "stateCode": "KL",
       "today": {
@@ -200,17 +200,17 @@
     "OR": {
       "name": "Odisha",
       "confirmed": 279582,
-      "active": 18882,
-      "recovered": 259418,
+      "active": 16269,
+      "recovered": 262031,
       "dead": 1282,
-      "updatedTime": "24/10/2020 11:49:30",
+      "updatedTime": "24/10/2020 21:46:37",
       "note": "[July 12th] :20 non-covid deaths reported in state dashboard are included in the deceased count\n[June 22nd]: NDRF/ODRF cases have been redistributed to districts based on state dashboard",
       "stateCode": "OR",
       "today": {
         "confirmed": 1695,
-        "recovered": 0,
+        "recovered": 2613,
         "dead": 15,
-        "active": 1680
+        "active": -933
       },
       "testing_data": {
         "tested": 4280274,
@@ -227,7 +227,7 @@
       "active": 19937,
       "recovered": 209034,
       "dead": 1303,
-      "updatedTime": "24/10/2020 21:24:55",
+      "updatedTime": "24/10/2020 21:30:44",
       "note": "[July 27] : Telangana bulletin for the previous day is released on the next day. We will add the cases for Telangana against the date of release, as that is the convention that we are following for other states.\n--\nDistrict-wise numbers are not reported because cumulative counts for each district are not provided in Telangana bulletin",
       "stateCode": "TG",
       "today": {
@@ -251,7 +251,7 @@
       "active": 10879,
       "recovered": 199521,
       "dead": 1042,
-      "updatedTime": "24/10/2020 21:24:57",
+      "updatedTime": "24/10/2020 21:30:46",
       "note": "",
       "stateCode": "BR",
       "today": {
@@ -439,18 +439,18 @@
     },
     "JH": {
       "name": "Jharkhand",
-      "confirmed": 99045,
-      "active": 6055,
-      "recovered": 92128,
-      "dead": 862,
-      "updatedTime": "23/10/2020 21:53:47",
+      "confirmed": 99428,
+      "active": 5966,
+      "recovered": 92598,
+      "dead": 864,
+      "updatedTime": "24/10/2020 21:46:39",
       "note": "",
       "stateCode": "JH",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 383,
+        "recovered": 470,
+        "dead": 2,
+        "active": -89
       },
       "testing_data": {
         "tested": 3058954,
@@ -703,18 +703,18 @@
     },
     "NL": {
       "name": "Nagaland",
-      "confirmed": 8436,
-      "active": 1842,
-      "recovered": 6501,
+      "confirmed": 8515,
+      "active": 1823,
+      "recovered": 6599,
       "dead": 21,
-      "updatedTime": "23/10/2020 19:19:39",
+      "updatedTime": "24/10/2020 21:46:41",
       "note": "",
       "stateCode": "NL",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 79,
+        "recovered": 98,
         "dead": 0,
-        "active": 0
+        "active": -19
       },
       "testing_data": {
         "tested": 94496,
@@ -803,7 +803,7 @@
       "active": 53,
       "recovered": 3140,
       "dead": 2,
-      "updatedTime": "24/10/2020 21:25:03",
+      "updatedTime": "24/10/2020 21:30:51",
       "note": "",
       "stateCode": "DN",
       "today": {
@@ -816,18 +816,18 @@
     },
     "MZ": {
       "name": "Mizoram",
-      "confirmed": 2359,
-      "active": 165,
+      "confirmed": 2389,
+      "active": 195,
       "recovered": 2194,
       "dead": 0,
-      "updatedTime": "24/10/2020 21:25:16",
+      "updatedTime": "24/10/2020 21:46:50",
       "note": "",
       "stateCode": "MZ",
       "today": {
-        "confirmed": 0,
+        "confirmed": 30,
         "recovered": 10,
         "dead": 0,
-        "active": -10
+        "active": 20
       },
       "testing_data": {
         "tested": 102952,
@@ -890,9 +890,9 @@
     "source": "https://www.icmr.gov.in/pdf/covid/update/ICMR_testing_update_24Oct2020.pdf"
   },
   "today": {
-    "confirmed": 29528,
-    "recovered": 40683,
-    "dead": 328,
-    "active": -11483
+    "confirmed": 34136,
+    "recovered": 39712,
+    "dead": 366,
+    "active": -5942
   }
 }
