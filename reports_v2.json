@@ -1,24 +1,24 @@
 {
-  "confirmed": 7815420,
-  "recovered": 7013647,
-  "dead": 118009,
-  "active": 682458,
-  "updatedTime": "24/10/2020 19:22:37",
+  "confirmed": 7824157,
+  "recovered": 7025882,
+  "dead": 118167,
+  "active": 678802,
+  "updatedTime": "24/10/2020 19:42:36",
   "states": {
     "MH": {
       "name": "Maharashtra",
-      "confirmed": 1632544,
-      "active": 143922,
-      "recovered": 1445103,
-      "dead": 43015,
-      "updatedTime": "23/10/2020 23:39:36",
+      "confirmed": 1638961,
+      "active": 140198,
+      "recovered": 1455107,
+      "dead": 43152,
+      "updatedTime": "24/10/2020 19:42:38",
       "note": "[Sep 9] :239 cases have been removed from the hospitalized figures owing to the removal of duplicates and change of addresses as per the original residence,\n[Aug 15] : MH bulletin has reduced 819 confirmed cases in Mumbai and 72 confirmed cases from 'Other States' from the tally\n[Jun 16] : 1328 deceased cases have been retroactively added to MH bulletin.\n[Jun 20] : 69 deceased cases have been reduced based on state bulletin.",
       "stateCode": "MH",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 6417,
+        "recovered": 10004,
+        "dead": 137,
+        "active": -3724
       },
       "testing_data": {
         "tested": 8479155,
@@ -98,7 +98,7 @@
         "negative": 0,
         "unconfirmed": 0,
         "date": "24/10/2020",
-        "source": "https://stopcorona.tn.gov.in/daily-bulletin/"
+        "source": "https://stopcorona.tn.gov.in/wp-content/uploads/2020/03/Media-Bulletin-24-10-20-COVID-19-6-PM.pdf"
       }
     },
     "UP": {
@@ -166,7 +166,7 @@
       },
       "testing_data": {
         "tested": 4280204,
-        "positive": 386087,
+        "positive": 386089,
         "negative": 0,
         "unconfirmed": 0,
         "date": "24/10/2020",
@@ -319,18 +319,18 @@
     },
     "GJ": {
       "name": "Gujarat",
-      "confirmed": 165233,
-      "active": 13885,
-      "recovered": 147672,
-      "dead": 3676,
-      "updatedTime": "23/10/2020 19:58:30",
+      "confirmed": 166254,
+      "active": 13887,
+      "recovered": 148685,
+      "dead": 3682,
+      "updatedTime": "24/10/2020 19:42:41",
       "note": "",
       "stateCode": "GJ",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 1021,
+        "recovered": 1013,
+        "dead": 6,
+        "active": 2
       },
       "testing_data": {
         "tested": 5638392,
@@ -391,26 +391,26 @@
     },
     "HR": {
       "name": "Haryana",
-      "confirmed": 155765,
-      "active": 10082,
-      "recovered": 143978,
-      "dead": 1705,
-      "updatedTime": "23/10/2020 19:58:32",
+      "confirmed": 157064,
+      "active": 10148,
+      "recovered": 145196,
+      "dead": 1720,
+      "updatedTime": "24/10/2020 19:42:43",
       "note": "[Aug 2]: 21 Foreign Evacuees have been merged to Panchkula and 14 Italian tourists have been merged to Gurugram in HR bulletin.",
       "stateCode": "HR",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 1299,
+        "recovered": 1218,
+        "dead": 15,
+        "active": 66
       },
       "testing_data": {
-        "tested": 2480029,
+        "tested": 2505052,
         "positive": 0,
-        "negative": 2318573,
-        "unconfirmed": 5691,
-        "date": "23/10/2020",
-        "source": "http://www.nhmharyana.gov.in/WriteReadData/userfiles/file/CoronaVirus/Daily%20Bulletin%20of%20COVID%2019%20as%20on%2023-10-20.pdf"
+        "negative": 2342213,
+        "unconfirmed": 5775,
+        "date": "24/10/2020",
+        "source": "http://www.nhmharyana.gov.in/page.aspx?id=208"
       }
     },
     "PB": {
@@ -635,7 +635,7 @@
       "active": 674,
       "recovered": 13087,
       "dead": 216,
-      "updatedTime": "24/10/2020 19:22:41",
+      "updatedTime": "24/10/2020 19:27:37",
       "note": "",
       "stateCode": "CH",
       "today": {
@@ -880,19 +880,19 @@
     }
   },
   "testing_data": {
-    "tested": 109639386,
-    "positive": 2191378,
-    "negative": 15814346,
-    "unconfirmed": 27978
+    "tested": 109664409,
+    "positive": 2191380,
+    "negative": 15837986,
+    "unconfirmed": 28062
   },
   "testing_data_imcr": {
     "tested": 101382564,
     "source": "https://www.icmr.gov.in/pdf/covid/update/ICMR_testing_update_24Oct2020.pdf"
   },
   "today": {
-    "confirmed": 1752,
-    "recovered": 78,
-    "dead": 17,
-    "active": 1657
+    "confirmed": 10489,
+    "recovered": 12313,
+    "dead": 175,
+    "active": -1999
   }
 }
