@@ -1,9 +1,9 @@
 {
-  "confirmed": 7824952,
-  "recovered": 7026230,
-  "dead": 118169,
-  "active": 679247,
-  "updatedTime": "24/10/2020 20:25:35",
+  "confirmed": 7829226,
+  "recovered": 7030903,
+  "dead": 118236,
+  "active": 678781,
+  "updatedTime": "24/10/2020 20:42:36",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -21,12 +21,12 @@
         "active": -3724
       },
       "testing_data": {
-        "tested": 8479155,
-        "positive": 1632544,
-        "negative": 0,
+        "tested": 8548036,
+        "positive": 1638961,
+        "negative": 6909075,
         "unconfirmed": 0,
-        "date": "23/10/2020",
-        "source": "https://twitter.com/ANI/status/1319662693666545664"
+        "date": "24/10/2020",
+        "source": "https://twitter.com/ANI/status/1320017211390504962?s=20"
       }
     },
     "AP": {
@@ -175,18 +175,18 @@
     },
     "WB": {
       "name": "West Bengal",
-      "confirmed": 341426,
-      "active": 36471,
-      "recovered": 298587,
-      "dead": 6368,
-      "updatedTime": "23/10/2020 21:30:39",
+      "confirmed": 345574,
+      "active": 36807,
+      "recovered": 302340,
+      "dead": 6427,
+      "updatedTime": "24/10/2020 20:42:38",
       "note": "",
       "stateCode": "WB",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 4148,
+        "recovered": 3753,
+        "dead": 59,
+        "active": 336
       },
       "testing_data": {
         "tested": 4255801,
@@ -410,7 +410,7 @@
         "negative": 2342213,
         "unconfirmed": 5775,
         "date": "24/10/2020",
-        "source": "http://www.nhmharyana.gov.in/page.aspx?id=208"
+        "source": "http://www.nhmharyana.gov.in/WriteReadData/userfiles/file/CoronaVirus/Daily%20Bulletin%20of%20COVID%2019%20as%20on%2024-10-20.pdf"
       }
     },
     "PB": {
@@ -464,17 +464,17 @@
     "JK": {
       "name": "Jammu and Kashmir",
       "confirmed": 91329,
-      "active": 8419,
-      "recovered": 81486,
-      "dead": 1424,
-      "updatedTime": "24/10/2020 20:25:38",
+      "active": 7680,
+      "recovered": 82219,
+      "dead": 1430,
+      "updatedTime": "24/10/2020 20:42:41",
       "note": "",
       "stateCode": "JK",
       "today": {
         "confirmed": 577,
-        "recovered": 0,
-        "dead": 0,
-        "active": 577
+        "recovered": 733,
+        "dead": 6,
+        "active": -162
       },
       "testing_data": {
         "tested": 2153529,
@@ -535,18 +535,18 @@
     },
     "PY": {
       "name": "Puducherry",
-      "confirmed": 33986,
-      "active": 3975,
-      "recovered": 29427,
-      "dead": 584,
-      "updatedTime": "23/10/2020 19:19:37",
+      "confirmed": 34112,
+      "active": 3912,
+      "recovered": 29614,
+      "dead": 586,
+      "updatedTime": "24/10/2020 20:42:44",
       "note": "",
       "stateCode": "PY",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 126,
+        "recovered": 187,
+        "dead": 2,
+        "active": -63
       },
       "testing_data": {
         "tested": 285824,
@@ -880,9 +880,9 @@
     }
   },
   "testing_data": {
-    "tested": 109767546,
-    "positive": 2191380,
-    "negative": 15868677,
+    "tested": 109836427,
+    "positive": 2197797,
+    "negative": 22777752,
     "unconfirmed": 28062
   },
   "testing_data_imcr": {
@@ -890,9 +890,9 @@
     "source": "https://www.icmr.gov.in/pdf/covid/update/ICMR_testing_update_24Oct2020.pdf"
   },
   "today": {
-    "confirmed": 11284,
-    "recovered": 12661,
-    "dead": 177,
-    "active": -1554
+    "confirmed": 15558,
+    "recovered": 17334,
+    "dead": 244,
+    "active": -2020
   }
 }
