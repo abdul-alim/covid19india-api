@@ -1,9 +1,9 @@
 {
-  "confirmed": 7873583,
-  "recovered": 7085055,
-  "dead": 118619,
-  "active": 668576,
-  "updatedTime": "25/10/2020 19:22:36",
+  "confirmed": 7873664,
+  "recovered": 7085242,
+  "dead": 118621,
+  "active": 668468,
+  "updatedTime": "25/10/2020 20:01:38",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -21,12 +21,12 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 8548036,
-        "positive": 1638961,
+        "tested": 8608928,
+        "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "24/10/2020",
-        "source": "https://twitter.com/ANI/status/1320017211390504962?s=20"
+        "date": "25/10/2020",
+        "source": "https://twitter.com/ANI/status/1320366108042407936?s=20"
       }
     },
     "AP": {
@@ -429,12 +429,12 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 2457574,
+        "tested": 2478710,
         "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "24/10/2020",
-        "source": "https://twitter.com/ANI/status/1320007828061315073?s=20"
+        "date": "25/10/2020",
+        "source": "http://diprpunjab.gov.in/?q=press-release"
       }
     },
     "JH": {
@@ -535,18 +535,18 @@
     },
     "PY": {
       "name": "Puducherry",
-      "confirmed": 34112,
-      "active": 3912,
-      "recovered": 29614,
-      "dead": 586,
-      "updatedTime": "24/10/2020 20:57:43",
+      "confirmed": 34193,
+      "active": 3804,
+      "recovered": 29801,
+      "dead": 588,
+      "updatedTime": "25/10/2020 20:01:41",
       "note": "",
       "stateCode": "PY",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 81,
+        "recovered": 187,
+        "dead": 2,
+        "active": -108
       },
       "testing_data": {
         "tested": 289689,
@@ -830,12 +830,12 @@
         "active": 58
       },
       "testing_data": {
-        "tested": 102952,
+        "tested": 104131,
         "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "24/10/2020",
-        "source": "https://dipr.mizoram.gov.in/post/status-of-state-surveillance-of-covid-19-24102020-last-24hours-500pm"
+        "date": "25/10/2020",
+        "source": "https://dipr.mizoram.gov.in/post/status-of-state-surveillance-of-covid-19-25102020-last-24hours-500pm"
       }
     },
     "UN": {
@@ -880,8 +880,8 @@
     }
   },
   "testing_data": {
-    "tested": 110718137,
-    "positive": 2205237,
+    "tested": 110801344,
+    "positive": 566276,
     "negative": 15985073,
     "unconfirmed": 25917
   },
@@ -890,9 +890,9 @@
     "source": "https://twitter.com/ICMRDELHI/status/1320208228383256579?s=20"
   },
   "today": {
-    "confirmed": 9598,
-    "recovered": 9241,
-    "dead": 49,
-    "active": 308
+    "confirmed": 9679,
+    "recovered": 9428,
+    "dead": 51,
+    "active": 200
   }
 }
