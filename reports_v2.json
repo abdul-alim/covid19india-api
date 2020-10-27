@@ -1,24 +1,24 @@
 {
-  "confirmed": 7986548,
-  "recovered": 7245606,
-  "dead": 119891,
-  "active": 619683,
-  "updatedTime": "27/10/2020 23:07:12",
+  "confirmed": 7987731,
+  "recovered": 7255459,
+  "dead": 120023,
+  "active": 610876,
+  "updatedTime": "27/10/2020 23:23:09",
   "states": {
     "MH": {
       "name": "Maharashtra",
       "confirmed": 1654028,
-      "active": 139500,
-      "recovered": 1470660,
-      "dead": 43348,
-      "updatedTime": "27/10/2020 23:07:13",
+      "active": 131544,
+      "recovered": 1478496,
+      "dead": 43463,
+      "updatedTime": "27/10/2020 23:23:10",
       "note": "[Sep 9] :239 cases have been removed from the hospitalized figures owing to the removal of duplicates and change of addresses as per the original residence,\n[Aug 15] : MH bulletin has reduced 819 confirmed cases in Mumbai and 72 confirmed cases from 'Other States' from the tally\n[Jun 16] : 1328 deceased cases have been retroactively added to MH bulletin.\n[Jun 20] : 69 deceased cases have been reduced based on state bulletin.",
       "stateCode": "MH",
       "today": {
         "confirmed": 5363,
-        "recovered": 0,
-        "dead": 0,
-        "active": 5363
+        "recovered": 7836,
+        "dead": 115,
+        "active": -2588
       },
       "testing_data": {
         "tested": 8700033,
@@ -223,18 +223,18 @@
     },
     "TG": {
       "name": "Telangana",
-      "confirmed": 231834,
-      "active": 18611,
-      "recovered": 211912,
-      "dead": 1311,
-      "updatedTime": "26/10/2020 22:27:56",
+      "confirmed": 232671,
+      "active": 17890,
+      "recovered": 213466,
+      "dead": 1315,
+      "updatedTime": "27/10/2020 23:23:12",
       "note": "[July 27] : Telangana bulletin for the previous day is released on the next day. We will add the cases for Telangana against the date of release, as that is the convention that we are following for other states.\n--\nDistrict-wise numbers are not reported because cumulative counts for each district are not provided in Telangana bulletin",
       "stateCode": "TG",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 837,
+        "recovered": 1554,
+        "dead": 4,
+        "active": -721
       },
       "testing_data": {
         "tested": 4115516,
@@ -415,18 +415,18 @@
     },
     "PB": {
       "name": "Punjab",
-      "confirmed": 131391,
-      "active": 4219,
-      "recovered": 123047,
-      "dead": 4125,
-      "updatedTime": "26/10/2020 19:49:34",
+      "confirmed": 131737,
+      "active": 4089,
+      "recovered": 123510,
+      "dead": 4138,
+      "updatedTime": "27/10/2020 23:23:14",
       "note": "",
       "stateCode": "PB",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 346,
+        "recovered": 463,
+        "dead": 13,
+        "active": -130
       },
       "testing_data": {
         "tested": 2515967,
@@ -890,9 +890,9 @@
     "source": "http://twitter.com/ICMRDELHI/status/1320932027005165570"
   },
   "today": {
-    "confirmed": 40573,
-    "recovered": 46729,
-    "dead": 353,
-    "active": -6509
+    "confirmed": 41756,
+    "recovered": 56582,
+    "dead": 485,
+    "active": -15311
   }
 }
