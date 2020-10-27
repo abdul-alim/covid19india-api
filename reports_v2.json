@@ -1,9 +1,9 @@
 {
-  "confirmed": 7955175,
-  "recovered": 7212479,
-  "dead": 119622,
-  "active": 621706,
-  "updatedTime": "27/10/2020 19:24:09",
+  "confirmed": 7957840,
+  "recovered": 7216055,
+  "dead": 119667,
+  "active": 620750,
+  "updatedTime": "27/10/2020 19:42:05",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -35,7 +35,7 @@
       "active": 27300,
       "recovered": 777900,
       "dead": 6625,
-      "updatedTime": "27/10/2020 19:23:08",
+      "updatedTime": "27/10/2020 19:40:07",
       "note": "",
       "stateCode": "AP",
       "today": {
@@ -83,7 +83,7 @@
       "active": 27734,
       "recovered": 675518,
       "dead": 10983,
-      "updatedTime": "27/10/2020 19:23:20",
+      "updatedTime": "27/10/2020 19:40:09",
       "note": "[July 22]: 444 backdated deceased entries added to Chennai in TN bulletin.\n2 deaths cross notified to other states from Chennai and Coimbatore.\n1 patient died after turning negative for infection in Chengalpattu.\nThese cases have been added to TN deceased tally",
       "stateCode": "TN",
       "today": {
@@ -98,23 +98,23 @@
         "negative": 0,
         "unconfirmed": 0,
         "date": "27/10/2020",
-        "source": "https://stopcorona.tn.gov.in/daily-bulletin/"
+        "source": "https://twitter.com/ANI/status/1321071129293778944?s=20"
       }
     },
     "UP": {
       "name": "Uttar Pradesh",
-      "confirmed": 472068,
-      "active": 26654,
-      "recovered": 438512,
-      "dead": 6902,
-      "updatedTime": "26/10/2020 22:27:53",
+      "confirmed": 474054,
+      "active": 26267,
+      "recovered": 440847,
+      "dead": 6940,
+      "updatedTime": "27/10/2020 19:42:07",
       "note": "",
       "stateCode": "UP",
       "today": {
-        "confirmed": 0,
+        "confirmed": 844,
         "recovered": 0,
         "dead": 0,
-        "active": 0
+        "active": 844
       },
       "testing_data": {
         "tested": 14276788,
@@ -247,18 +247,18 @@
     },
     "BR": {
       "name": "Bihar",
-      "confirmed": 212705,
-      "active": 9639,
-      "recovered": 202007,
-      "dead": 1058,
-      "updatedTime": "26/10/2020 22:27:58",
+      "confirmed": 213383,
+      "active": 9073,
+      "recovered": 203244,
+      "dead": 1065,
+      "updatedTime": "27/10/2020 19:42:09",
       "note": "",
       "stateCode": "BR",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 678,
+        "recovered": 1237,
+        "dead": 7,
+        "active": -566
       },
       "testing_data": {
         "tested": 10358361,
@@ -357,12 +357,12 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 2807820,
+        "tested": 2827043,
         "positive": 0,
-        "negative": 2575057,
+        "negative": 2593766,
         "unconfirmed": 0,
-        "date": "26/10/2020",
-        "source": "https://www.mpinfo.org/MPinfoStatic/other_updates/Health-Bulletin-26Oct20.pdf"
+        "date": "27/10/2020",
+        "source": "https://twitter.com/ANI/status/1321085798876389380?s=20"
       }
     },
     "CT": {
@@ -467,7 +467,7 @@
       "active": 6990,
       "recovered": 84236,
       "dead": 1451,
-      "updatedTime": "27/10/2020 19:23:23",
+      "updatedTime": "27/10/2020 19:40:14",
       "note": "",
       "stateCode": "JK",
       "today": {
@@ -515,7 +515,7 @@
       "active": 2384,
       "recovered": 39778,
       "dead": 585,
-      "updatedTime": "27/10/2020 19:23:24",
+      "updatedTime": "27/10/2020 19:40:15",
       "note": "",
       "stateCode": "GA",
       "today": {
@@ -625,7 +625,7 @@
         "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "26/10/2020",
+        "date": "27/10/2020",
         "source": "https://twitter.com/DiprManipur/status/1321084946094718977?s=20"
       }
     },
@@ -635,7 +635,7 @@
       "active": 650,
       "recovered": 13279,
       "dead": 223,
-      "updatedTime": "26/10/2020 20:21:33",
+      "updatedTime": "27/10/2020 19:40:18",
       "note": "",
       "stateCode": "CH",
       "today": {
@@ -799,18 +799,18 @@
     },
     "DN": {
       "name": "Dadra and Nagar Haveli and Daman and Diu",
-      "confirmed": 3226,
-      "active": 51,
-      "recovered": 3147,
+      "confirmed": 3227,
+      "active": 48,
+      "recovered": 3151,
       "dead": 2,
-      "updatedTime": "26/10/2020 22:11:19",
+      "updatedTime": "27/10/2020 19:42:11",
       "note": "",
       "stateCode": "DN",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 1,
+        "recovered": 4,
         "dead": 0,
-        "active": 0
+        "active": -3
       },
       "isUnknown": true
     },
@@ -880,9 +880,9 @@
     }
   },
   "testing_data": {
-    "tested": 112436638,
+    "tested": 112455861,
     "positive": 576843,
-    "negative": 23057760,
+    "negative": 23076469,
     "unconfirmed": 26847
   },
   "testing_data_imcr": {
@@ -890,9 +890,9 @@
     "source": "http://twitter.com/ICMRDELHI/status/1320932027005165570"
   },
   "today": {
-    "confirmed": 9200,
-    "recovered": 13602,
-    "dead": 84,
-    "active": -4486
+    "confirmed": 10723,
+    "recovered": 14843,
+    "dead": 91,
+    "active": -4211
   }
 }
