@@ -1,9 +1,9 @@
 {
-  "confirmed": 7947222,
-  "recovered": 7198877,
-  "dead": 119551,
-  "active": 627426,
-  "updatedTime": "27/10/2020 12:17:40",
+  "confirmed": 7949018,
+  "recovered": 7202953,
+  "dead": 119565,
+  "active": 625132,
+  "updatedTime": "27/10/2020 19:15:05",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -165,12 +165,12 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 4363557,
-        "positive": 397219,
+        "tested": 4409750,
+        "positive": 402676,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "26/10/2020",
-        "source": "https://dhs.kerala.gov.in/wp-content/uploads/2020/10/Bulletin-HFWD-English-October-26.pdf"
+        "date": "27/10/2020",
+        "source": "https://dhs.kerala.gov.in/wp-content/uploads/2020/10/Bulletin-HFWD-English-October-27.pdf"
       }
     },
     "WB": {
@@ -200,17 +200,17 @@
     "OR": {
       "name": "Odisha",
       "confirmed": 283942,
-      "active": 16512,
-      "recovered": 266105,
+      "active": 14502,
+      "recovered": 268115,
       "dead": 1325,
-      "updatedTime": "27/10/2020 12:17:43",
+      "updatedTime": "27/10/2020 19:15:07",
       "note": "[July 12th] :20 non-covid deaths reported in state dashboard are included in the deceased count\n[June 22nd]: NDRF/ODRF cases have been redistributed to districts based on state dashboard",
       "stateCode": "OR",
       "today": {
         "confirmed": 1247,
-        "recovered": 0,
+        "recovered": 2010,
         "dead": 13,
-        "active": 1234
+        "active": -776
       },
       "testing_data": {
         "tested": 4385259,
@@ -295,18 +295,18 @@
     },
     "RJ": {
       "name": "Rajasthan",
-      "confirmed": 188048,
-      "active": 16233,
-      "recovered": 169962,
-      "dead": 1853,
-      "updatedTime": "26/10/2020 22:28:04",
+      "confirmed": 189844,
+      "active": 15949,
+      "recovered": 172028,
+      "dead": 1867,
+      "updatedTime": "27/10/2020 19:15:09",
       "note": "",
       "stateCode": "RJ",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 1796,
+        "recovered": 2066,
+        "dead": 14,
+        "active": -284
       },
       "testing_data": {
         "tested": 3654738,
@@ -621,12 +621,12 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 337820,
+        "tested": 342491,
         "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "25/10/2020",
-        "source": "https://twitter.com/DiprManipur/status/1320382197132447744"
+        "date": "26/10/2020",
+        "source": "http://nrhmmanipur.org/?page_id=2493"
       }
     },
     "CH": {
@@ -645,12 +645,12 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 101778,
+        "tested": 102933,
         "positive": 0,
-        "negative": 87074,
-        "unconfirmed": 121,
-        "date": "26/10/2020",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/3229"
+        "negative": 88155,
+        "unconfirmed": 129,
+        "date": "27/10/2020",
+        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/3255"
       }
     },
     "AR": {
@@ -880,19 +880,19 @@
     }
   },
   "testing_data": {
-    "tested": 112382860,
-    "positive": 571386,
-    "negative": 23056679,
-    "unconfirmed": 26839
+    "tested": 112434879,
+    "positive": 576843,
+    "negative": 23057760,
+    "unconfirmed": 26847
   },
   "testing_data_imcr": {
     "tested": 104420894,
     "source": "http://twitter.com/ICMRDELHI/status/1320932027005165570"
   },
   "today": {
-    "confirmed": 1247,
-    "recovered": 0,
-    "dead": 13,
-    "active": 1234
+    "confirmed": 3043,
+    "recovered": 4076,
+    "dead": 27,
+    "active": -1060
   }
 }
