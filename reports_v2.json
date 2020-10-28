@@ -1,9 +1,9 @@
 {
-  "confirmed": 8015159,
-  "recovered": 7285161,
-  "dead": 120274,
-  "active": 608353,
-  "updatedTime": "28/10/2020 21:22:08",
+  "confirmed": 8016482,
+  "recovered": 7286720,
+  "dead": 120284,
+  "active": 608107,
+  "updatedTime": "28/10/2020 21:47:06",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -59,7 +59,7 @@
       "active": 67037,
       "recovered": 734682,
       "dead": 11046,
-      "updatedTime": "28/10/2020 21:22:10",
+      "updatedTime": "28/10/2020 21:40:10",
       "note": "",
       "stateCode": "KA",
       "today": {
@@ -319,18 +319,18 @@
     },
     "GJ": {
       "name": "Gujarat",
-      "confirmed": 169073,
-      "active": 13387,
-      "recovered": 151988,
-      "dead": 3698,
-      "updatedTime": "27/10/2020 20:11:15",
+      "confirmed": 170053,
+      "active": 13254,
+      "recovered": 153095,
+      "dead": 3704,
+      "updatedTime": "28/10/2020 21:47:09",
       "note": "",
       "stateCode": "GJ",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 980,
+        "recovered": 1107,
+        "dead": 6,
+        "active": -133
       },
       "testing_data": {
         "tested": 5845715,
@@ -439,18 +439,18 @@
     },
     "JH": {
       "name": "Jharkhand",
-      "confirmed": 100224,
-      "active": 5474,
-      "recovered": 93874,
-      "dead": 876,
-      "updatedTime": "27/10/2020 21:39:13",
+      "confirmed": 100567,
+      "active": 5361,
+      "recovered": 94326,
+      "dead": 880,
+      "updatedTime": "28/10/2020 21:47:11",
       "note": "",
       "stateCode": "JH",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 343,
+        "recovered": 452,
+        "dead": 4,
+        "active": -113
       },
       "testing_data": {
         "tested": 3193717,
@@ -549,12 +549,12 @@
         "active": -55
       },
       "testing_data": {
-        "tested": 297195,
-        "positive": 36671,
-        "negative": 259158,
-        "unconfirmed": 1366,
-        "date": "27/10/2020",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/3259"
+        "tested": 301167,
+        "positive": 36773,
+        "negative": 262971,
+        "unconfirmed": 1423,
+        "date": "28/10/2020",
+        "source": "https://covid19dashboard.py.gov.in/LabTestReport"
       }
     },
     "TR": {
@@ -597,12 +597,12 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 375778,
+        "tested": 380415,
         "positive": 0,
-        "negative": 354522,
-        "unconfirmed": 439,
-        "date": "27/10/2020",
-        "source": "https://twitter.com/nhm_hp/status/1321119243740475392"
+        "negative": 359074,
+        "unconfirmed": 192,
+        "date": "28/10/2020",
+        "source": "https://twitter.com/ANI/status/1321480522011271170?s=20"
       }
     },
     "MN": {
@@ -880,19 +880,19 @@
     }
   },
   "testing_data": {
-    "tested": 113886529,
-    "positive": 586624,
-    "negative": 23375394,
-    "unconfirmed": 28918
+    "tested": 113895138,
+    "positive": 586726,
+    "negative": 23383759,
+    "unconfirmed": 28728
   },
   "testing_data_imcr": {
     "tested": 105487680,
     "source": "http://twitter.com/ICMRDELHI/status/1321290607042637825"
   },
   "today": {
-    "confirmed": 26054,
-    "recovered": 27716,
-    "dead": 219,
-    "active": -1881
+    "confirmed": 27377,
+    "recovered": 29275,
+    "dead": 229,
+    "active": -2127
   }
 }
