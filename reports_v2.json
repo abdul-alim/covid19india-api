@@ -1,9 +1,9 @@
 {
-  "confirmed": 8081917,
-  "recovered": 7364383,
-  "dead": 121054,
-  "active": 595080,
-  "updatedTime": "29/10/2020 23:57:08",
+  "confirmed": 8083428,
+  "recovered": 7366568,
+  "dead": 121077,
+  "active": 594383,
+  "updatedTime": "30/10/2020 00:03:11",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -83,7 +83,7 @@
       "active": 24886,
       "recovered": 683464,
       "dead": 11053,
-      "updatedTime": "29/10/2020 23:56:12",
+      "updatedTime": "30/10/2020 00:03:14",
       "note": "[July 22]: 444 backdated deceased entries added to Chennai in TN bulletin.\n2 deaths cross notified to other states from Chennai and Coimbatore.\n1 patient died after turning negative for infection in Chengalpattu.\nThese cases have been added to TN deceased tally",
       "stateCode": "TN",
       "today": {
@@ -227,14 +227,14 @@
       "active": 17979,
       "recovered": 216353,
       "dead": 1324,
-      "updatedTime": "29/10/2020 23:56:15",
+      "updatedTime": "30/10/2020 00:03:17",
       "note": "[July 27] : Telangana bulletin for the previous day is released on the next day. We will add the cases for Telangana against the date of release, as that is the convention that we are following for other states.\n--\nDistrict-wise numbers are not reported because cumulative counts for each district are not provided in Telangana bulletin",
       "stateCode": "TG",
       "today": {
         "confirmed": 1504,
-        "recovered": 0,
-        "dead": 0,
-        "active": 1504
+        "recovered": 1436,
+        "dead": 5,
+        "active": 63
       },
       "testing_data": {
         "tested": 4196958,
@@ -247,18 +247,18 @@
     },
     "BR": {
       "name": "Bihar",
-      "confirmed": 214163,
-      "active": 8776,
-      "recovered": 204317,
-      "dead": 1069,
-      "updatedTime": "28/10/2020 22:35:12",
+      "confirmed": 214946,
+      "active": 8484,
+      "recovered": 205385,
+      "dead": 1076,
+      "updatedTime": "30/10/2020 00:03:18",
       "note": "",
       "stateCode": "BR",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 783,
+        "recovered": 1068,
+        "dead": 7,
+        "active": -292
       },
       "testing_data": {
         "tested": 10630170,
@@ -343,18 +343,18 @@
     },
     "MP": {
       "name": "Madhya Pradesh",
-      "confirmed": 169271,
-      "active": 10094,
-      "recovered": 156264,
-      "dead": 2913,
-      "updatedTime": "29/10/2020 00:30:09",
+      "confirmed": 169999,
+      "active": 9689,
+      "recovered": 157381,
+      "dead": 2929,
+      "updatedTime": "30/10/2020 00:03:22",
       "note": "[Oct 14]: 4469 confirmed cases and 4469 recoveries added in MP bulletin as reconciliation with private labs and hospitals",
       "stateCode": "MP",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 728,
+        "recovered": 1117,
+        "dead": 16,
+        "active": -405
       },
       "testing_data": {
         "tested": 2879262,
@@ -890,9 +890,9 @@
     "source": "http://twitter.com/ICMRDELHI/status/1321659225051865090"
   },
   "today": {
-    "confirmed": 42633,
-    "recovered": 48908,
-    "dead": 480,
-    "active": -6755
+    "confirmed": 44144,
+    "recovered": 52529,
+    "dead": 508,
+    "active": -8893
   }
 }
