@@ -1,9 +1,9 @@
 {
-  "confirmed": 8063901,
-  "recovered": 7336800,
-  "dead": 120736,
-  "active": 604971,
-  "updatedTime": "29/10/2020 20:24:08",
+  "confirmed": 8064289,
+  "recovered": 7339207,
+  "dead": 120743,
+  "active": 602945,
+  "updatedTime": "29/10/2020 20:42:06",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -35,7 +35,7 @@
       "active": 26268,
       "recovered": 784752,
       "dead": 6659,
-      "updatedTime": "29/10/2020 20:24:09",
+      "updatedTime": "29/10/2020 20:26:06",
       "note": "",
       "stateCode": "AP",
       "today": {
@@ -131,7 +131,7 @@
       "active": 30952,
       "recovered": 338378,
       "dead": 6423,
-      "updatedTime": "29/10/2020 20:24:11",
+      "updatedTime": "29/10/2020 20:39:07",
       "note": "[July 14]: Value for the total tests conducted has been reduced by 97008 in the state bulletin. Reason given : \"Reconciled with ICMR figures\". We have made the same change.\n[June 16]: 344 deceased cases have been retroactively added to DL bulletin.",
       "stateCode": "DL",
       "today": {
@@ -200,17 +200,17 @@
     "OR": {
       "name": "Odisha",
       "confirmed": 287099,
-      "active": 15619,
-      "recovered": 270130,
+      "active": 13711,
+      "recovered": 272038,
       "dead": 1350,
-      "updatedTime": "29/10/2020 14:00:14",
+      "updatedTime": "29/10/2020 20:42:10",
       "note": "[July 12th] :20 non-covid deaths reported in state dashboard are included in the deceased count\n[June 22nd]: NDRF/ODRF cases have been redistributed to districts based on state dashboard",
       "stateCode": "OR",
       "today": {
         "confirmed": 1617,
-        "recovered": 0,
+        "recovered": 1908,
         "dead": 13,
-        "active": 1604
+        "active": -304
       },
       "testing_data": {
         "tested": 4463559,
@@ -272,17 +272,17 @@
     "AS": {
       "name": "Assam",
       "confirmed": 205237,
-      "active": 11803,
+      "active": 11797,
       "recovered": 192514,
-      "dead": 917,
-      "updatedTime": "28/10/2020 22:35:14",
+      "dead": 923,
+      "updatedTime": "29/10/2020 20:41:10",
       "note": "",
       "stateCode": "AS",
       "today": {
         "confirmed": 0,
         "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "dead": 6,
+        "active": -6
       },
       "testing_data": {
         "tested": 4577843,
@@ -487,18 +487,18 @@
     },
     "UT": {
       "name": "Uttarakhand",
-      "confirmed": 61261,
-      "active": 3696,
-      "recovered": 56073,
+      "confirmed": 61566,
+      "active": 3545,
+      "recovered": 56529,
       "dead": 1009,
-      "updatedTime": "28/10/2020 20:49:14",
+      "updatedTime": "29/10/2020 20:41:11",
       "note": "[Oct 17]: 89 back-dated deaths included",
       "stateCode": "UT",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 305,
+        "recovered": 456,
         "dead": 0,
-        "active": 0
+        "active": -151
       },
       "testing_data": {
         "tested": 1034819,
@@ -515,7 +515,7 @@
       "active": 2436,
       "recovered": 40168,
       "dead": 597,
-      "updatedTime": "29/10/2020 20:24:14",
+      "updatedTime": "29/10/2020 20:26:09",
       "note": "",
       "stateCode": "GA",
       "today": {
@@ -539,7 +539,7 @@
       "active": 3720,
       "recovered": 30449,
       "dead": 592,
-      "updatedTime": "29/10/2020 20:24:15",
+      "updatedTime": "29/10/2020 20:39:10",
       "note": "",
       "stateCode": "PY",
       "today": {
@@ -631,18 +631,18 @@
     },
     "CH": {
       "name": "Chandigarh",
-      "confirmed": 14212,
-      "active": 629,
-      "recovered": 13359,
-      "dead": 224,
-      "updatedTime": "28/10/2020 20:49:17",
+      "confirmed": 14292,
+      "active": 665,
+      "recovered": 13402,
+      "dead": 225,
+      "updatedTime": "29/10/2020 20:41:13",
       "note": "",
       "stateCode": "CH",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 80,
+        "recovered": 43,
+        "dead": 1,
+        "active": 36
       },
       "testing_data": {
         "tested": 105409,
@@ -799,18 +799,18 @@
     },
     "DN": {
       "name": "Dadra and Nagar Haveli and Daman and Diu",
-      "confirmed": 3235,
-      "active": 52,
+      "confirmed": 3238,
+      "active": 55,
       "recovered": 3155,
       "dead": 2,
-      "updatedTime": "29/10/2020 01:10:10",
+      "updatedTime": "29/10/2020 20:41:14",
       "note": "",
       "stateCode": "DN",
       "today": {
-        "confirmed": 0,
+        "confirmed": 3,
         "recovered": 0,
         "dead": 0,
-        "active": 0
+        "active": 3
       },
       "isUnknown": true
     },
@@ -890,9 +890,9 @@
     "source": "http://twitter.com/ICMRDELHI/status/1321659225051865090"
   },
   "today": {
-    "confirmed": 24617,
-    "recovered": 22761,
-    "dead": 167,
-    "active": 1689
+    "confirmed": 25005,
+    "recovered": 25168,
+    "dead": 174,
+    "active": -337
   }
 }
