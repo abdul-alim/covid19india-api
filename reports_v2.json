@@ -1,24 +1,24 @@
 {
-  "confirmed": 8122812,
-  "recovered": 7408613,
-  "dead": 121458,
-  "active": 591334,
-  "updatedTime": "30/10/2020 23:13:13",
+  "confirmed": 8130040,
+  "recovered": 7419175,
+  "dead": 121599,
+  "active": 587859,
+  "updatedTime": "30/10/2020 23:23:13",
   "states": {
     "MH": {
       "name": "Maharashtra",
-      "confirmed": 1666668,
-      "active": 127603,
-      "recovered": 1494809,
-      "dead": 43710,
-      "updatedTime": "29/10/2020 22:02:09",
+      "confirmed": 1672858,
+      "active": 125425,
+      "recovered": 1503050,
+      "dead": 43837,
+      "updatedTime": "30/10/2020 23:23:15",
       "note": "[Sep 9] :239 cases have been removed from the hospitalized figures owing to the removal of duplicates and change of addresses as per the original residence,\n[Aug 15] : MH bulletin has reduced 819 confirmed cases in Mumbai and 72 confirmed cases from 'Other States' from the tally\n[Jun 16] : 1328 deceased cases have been retroactively added to MH bulletin.\n[Jun 20] : 69 deceased cases have been reduced based on state bulletin.",
       "stateCode": "MH",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 6190,
+        "recovered": 8241,
+        "dead": 127,
+        "active": -2178
       },
       "testing_data": {
         "tested": 8906826,
@@ -35,7 +35,7 @@
       "active": 25514,
       "recovered": 788375,
       "dead": 6676,
-      "updatedTime": "30/10/2020 23:12:15",
+      "updatedTime": "30/10/2020 23:14:15",
       "note": "",
       "stateCode": "AP",
       "today": {
@@ -83,7 +83,7 @@
       "active": 23532,
       "recovered": 687388,
       "dead": 11091,
-      "updatedTime": "30/10/2020 23:12:17",
+      "updatedTime": "30/10/2020 23:14:19",
       "note": "[July 22]: 444 backdated deceased entries added to Chennai in TN bulletin.\n2 deaths cross notified to other states from Chennai and Coimbatore.\n1 patient died after turning negative for infection in Chengalpattu.\nThese cases have been added to TN deceased tally",
       "stateCode": "TN",
       "today": {
@@ -224,17 +224,17 @@
     "TG": {
       "name": "Telangana",
       "confirmed": 237187,
-      "active": 19510,
-      "recovered": 216353,
-      "dead": 1324,
-      "updatedTime": "30/10/2020 23:13:15",
+      "active": 18456,
+      "recovered": 217401,
+      "dead": 1330,
+      "updatedTime": "30/10/2020 23:23:19",
       "note": "[July 27] : Telangana bulletin for the previous day is released on the next day. We will add the cases for Telangana against the date of release, as that is the convention that we are following for other states.\n--\nDistrict-wise numbers are not reported because cumulative counts for each district are not provided in Telangana bulletin",
       "stateCode": "TG",
       "today": {
         "confirmed": 1531,
-        "recovered": 0,
-        "dead": 0,
-        "active": 1531
+        "recovered": 1048,
+        "dead": 6,
+        "active": 477
       },
       "testing_data": {
         "tested": 4240748,
@@ -247,18 +247,18 @@
     },
     "BR": {
       "name": "Bihar",
-      "confirmed": 214946,
-      "active": 8484,
-      "recovered": 205385,
-      "dead": 1076,
-      "updatedTime": "30/10/2020 00:18:11",
+      "confirmed": 215964,
+      "active": 8254,
+      "recovered": 206625,
+      "dead": 1084,
+      "updatedTime": "30/10/2020 23:23:28",
       "note": "",
       "stateCode": "BR",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 1018,
+        "recovered": 1240,
+        "dead": 8,
+        "active": -230
       },
       "testing_data": {
         "tested": 10776083,
@@ -299,7 +299,7 @@
       "active": 15251,
       "recovered": 178064,
       "dead": 1898,
-      "updatedTime": "30/10/2020 23:12:21",
+      "updatedTime": "30/10/2020 23:14:23",
       "note": "",
       "stateCode": "RJ",
       "today": {
@@ -775,18 +775,18 @@
     },
     "SK": {
       "name": "Sikkim",
-      "confirmed": 3893,
-      "active": 268,
-      "recovered": 3476,
+      "confirmed": 3913,
+      "active": 255,
+      "recovered": 3509,
       "dead": 67,
-      "updatedTime": "30/10/2020 00:45:21",
+      "updatedTime": "30/10/2020 23:23:32",
       "note": "",
       "stateCode": "SK",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 20,
+        "recovered": 33,
         "dead": 0,
-        "active": 0
+        "active": -13
       },
       "testing_data": {
         "tested": 56319,
@@ -890,9 +890,9 @@
     "source": "http://twitter.com/ICMRDELHI/status/1322020841295552515"
   },
   "today": {
-    "confirmed": 34763,
-    "recovered": 36707,
-    "dead": 327,
-    "active": -2271
+    "confirmed": 41991,
+    "recovered": 47269,
+    "dead": 468,
+    "active": -5746
   }
 }
