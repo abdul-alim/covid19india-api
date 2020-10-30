@@ -1,9 +1,9 @@
 {
-  "confirmed": 8130040,
-  "recovered": 7419175,
-  "dead": 121599,
-  "active": 587859,
-  "updatedTime": "30/10/2020 23:23:13",
+  "confirmed": 8132341,
+  "recovered": 7421887,
+  "dead": 121623,
+  "active": 587424,
+  "updatedTime": "30/10/2020 23:37:13",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -11,7 +11,7 @@
       "active": 125425,
       "recovered": 1503050,
       "dead": 43837,
-      "updatedTime": "30/10/2020 23:23:15",
+      "updatedTime": "30/10/2020 23:29:18",
       "note": "[Sep 9] :239 cases have been removed from the hospitalized figures owing to the removal of duplicates and change of addresses as per the original residence,\n[Aug 15] : MH bulletin has reduced 819 confirmed cases in Mumbai and 72 confirmed cases from 'Other States' from the tally\n[Jun 16] : 1328 deceased cases have been retroactively added to MH bulletin.\n[Jun 20] : 69 deceased cases have been reduced based on state bulletin.",
       "stateCode": "MH",
       "today": {
@@ -103,18 +103,18 @@
     },
     "UP": {
       "name": "Uttar Pradesh",
-      "confirmed": 477895,
-      "active": 24858,
-      "recovered": 446054,
-      "dead": 6983,
-      "updatedTime": "30/10/2020 21:48:17",
+      "confirmed": 480082,
+      "active": 24431,
+      "recovered": 448644,
+      "dead": 7007,
+      "updatedTime": "30/10/2020 23:37:15",
       "note": "",
       "stateCode": "UP",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 2187,
+        "recovered": 2590,
+        "dead": 24,
+        "active": -427
       },
       "testing_data": {
         "tested": 14717483,
@@ -227,7 +227,7 @@
       "active": 18456,
       "recovered": 217401,
       "dead": 1330,
-      "updatedTime": "30/10/2020 23:23:19",
+      "updatedTime": "30/10/2020 23:29:20",
       "note": "[July 27] : Telangana bulletin for the previous day is released on the next day. We will add the cases for Telangana against the date of release, as that is the convention that we are following for other states.\n--\nDistrict-wise numbers are not reported because cumulative counts for each district are not provided in Telangana bulletin",
       "stateCode": "TG",
       "today": {
@@ -251,7 +251,7 @@
       "active": 8254,
       "recovered": 206625,
       "dead": 1084,
-      "updatedTime": "30/10/2020 23:23:28",
+      "updatedTime": "30/10/2020 23:29:23",
       "note": "",
       "stateCode": "BR",
       "today": {
@@ -631,18 +631,18 @@
     },
     "CH": {
       "name": "Chandigarh",
-      "confirmed": 14292,
-      "active": 665,
-      "recovered": 13402,
+      "confirmed": 14351,
+      "active": 657,
+      "recovered": 13469,
       "dead": 225,
-      "updatedTime": "29/10/2020 20:56:13",
+      "updatedTime": "30/10/2020 23:37:18",
       "note": "",
       "stateCode": "CH",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 59,
+        "recovered": 67,
         "dead": 0,
-        "active": 0
+        "active": -8
       },
       "testing_data": {
         "tested": 106090,
@@ -727,16 +727,16 @@
     },
     "LA": {
       "name": "Ladakh",
-      "confirmed": 6139,
+      "confirmed": 6194,
       "active": 628,
-      "recovered": 5438,
+      "recovered": 5493,
       "dead": 73,
       "updatedTime": "29/10/2020 23:39:13",
       "note": "[Sep 08] : Testing details are not available in Ladakh bulletin from Sep 06 onwards",
       "stateCode": "LA",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 55,
+        "recovered": 55,
         "dead": 0,
         "active": 0
       },
@@ -779,7 +779,7 @@
       "active": 255,
       "recovered": 3509,
       "dead": 67,
-      "updatedTime": "30/10/2020 23:23:32",
+      "updatedTime": "30/10/2020 23:29:28",
       "note": "",
       "stateCode": "SK",
       "today": {
@@ -890,9 +890,9 @@
     "source": "http://twitter.com/ICMRDELHI/status/1322020841295552515"
   },
   "today": {
-    "confirmed": 41991,
-    "recovered": 47269,
-    "dead": 468,
-    "active": -5746
+    "confirmed": 44292,
+    "recovered": 49981,
+    "dead": 492,
+    "active": -6181
   }
 }
