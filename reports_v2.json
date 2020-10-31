@@ -1,9 +1,9 @@
 {
-  "confirmed": 8179145,
-  "recovered": 7482279,
+  "confirmed": 8179250,
+  "recovered": 7484337,
   "dead": 122071,
-  "active": 573372,
-  "updatedTime": "31/10/2020 21:23:15",
+  "active": 571419,
+  "updatedTime": "31/10/2020 21:41:11",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -131,7 +131,7 @@
       "active": 32719,
       "recovered": 347476,
       "dead": 6511,
-      "updatedTime": "31/10/2020 21:22:17",
+      "updatedTime": "31/10/2020 21:28:15",
       "note": "[July 14]: Value for the total tests conducted has been reduced by 97008 in the state bulletin. Reason given : \"Reconciled with ICMR figures\". We have made the same change.\n[June 16]: 344 deceased cases have been retroactively added to DL bulletin.",
       "stateCode": "DL",
       "today": {
@@ -200,17 +200,17 @@
     "OR": {
       "name": "Odisha",
       "confirmed": 290116,
-      "active": 14905,
-      "recovered": 273838,
+      "active": 12994,
+      "recovered": 275749,
       "dead": 1373,
-      "updatedTime": "31/10/2020 12:59:18",
+      "updatedTime": "31/10/2020 21:41:13",
       "note": "[July 12th] :20 non-covid deaths reported in state dashboard are included in the deceased count\n[June 22nd]: NDRF/ODRF cases have been redistributed to districts based on state dashboard",
       "stateCode": "OR",
       "today": {
         "confirmed": 1470,
-        "recovered": 0,
+        "recovered": 1911,
         "dead": 12,
-        "active": 1458
+        "active": -453
       },
       "testing_data": {
         "tested": 4555815,
@@ -419,7 +419,7 @@
       "active": 4257,
       "recovered": 125198,
       "dead": 4203,
-      "updatedTime": "31/10/2020 21:23:18",
+      "updatedTime": "31/10/2020 21:39:18",
       "note": "",
       "stateCode": "PB",
       "today": {
@@ -535,26 +535,26 @@
     },
     "PY": {
       "name": "Puducherry",
-      "confirmed": 34908,
-      "active": 3739,
-      "recovered": 30577,
+      "confirmed": 35013,
+      "active": 3697,
+      "recovered": 30724,
       "dead": 592,
-      "updatedTime": "30/10/2020 20:13:25",
+      "updatedTime": "31/10/2020 21:41:15",
       "note": "",
       "stateCode": "PY",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 105,
+        "recovered": 147,
         "dead": 0,
-        "active": 0
+        "active": -42
       },
       "testing_data": {
-        "tested": 308629,
-        "positive": 37103,
-        "negative": 270003,
-        "unconfirmed": 1523,
-        "date": "30/10/2020",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/3383"
+        "tested": 311807,
+        "positive": 37208,
+        "negative": 273523,
+        "unconfirmed": 1076,
+        "date": "31/10/2020",
+        "source": "https://covid19dashboard.py.gov.in/LabTestReport"
       }
     },
     "TR": {
@@ -611,7 +611,7 @@
       "active": 3472,
       "recovered": 14862,
       "dead": 168,
-      "updatedTime": "31/10/2020 21:22:26",
+      "updatedTime": "31/10/2020 21:28:24",
       "note": "",
       "stateCode": "MN",
       "today": {
@@ -621,12 +621,12 @@
         "active": -831
       },
       "testing_data": {
-        "tested": 347026,
+        "tested": 351953,
         "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "29/10/2020",
-        "source": "https://twitter.com/DiprManipur/status/1321804988918583296?s=20"
+        "date": "31/10/2020",
+        "source": "https://twitter.com/DiprManipur/status/1322569458506817536"
       }
     },
     "CH": {
@@ -693,12 +693,12 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 201296,
+        "tested": 202056,
         "positive": 0,
-        "negative": 191914,
+        "negative": 192604,
         "unconfirmed": 0,
-        "date": "30/10/2020",
-        "source": "https://twitter.com/PIBShillong/status/1322173087593345024?s=20"
+        "date": "31/10/2020",
+        "source": "https://www.syllad.com/meghalaya-83-yr-old-succumbs-to-covid-19-death-toll-rises-to-88/"
       }
     },
     "NL": {
@@ -880,19 +880,19 @@
     }
   },
   "testing_data": {
-    "tested": 117334849,
-    "positive": 610196,
-    "negative": 16921148,
-    "unconfirmed": 24227
+    "tested": 117343714,
+    "positive": 610301,
+    "negative": 16925358,
+    "unconfirmed": 23780
   },
   "testing_data_imcr": {
     "tested": 108796064,
     "source": "https://www.icmr.gov.in/pdf/covid/update/ICMR_testing_update_31Oct2020.pdf"
   },
   "today": {
-    "confirmed": 42979,
-    "recovered": 51368,
+    "confirmed": 43084,
+    "recovered": 53426,
     "dead": 390,
-    "active": -8779
+    "active": -10732
   }
 }
