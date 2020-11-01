@@ -1,9 +1,9 @@
 {
-  "confirmed": 8200791,
-  "recovered": 7505957,
-  "dead": 122379,
-  "active": 571028,
-  "updatedTime": "01/11/2020 20:23:14",
+  "confirmed": 8207816,
+  "recovered": 7514468,
+  "dead": 122407,
+  "active": 569510,
+  "updatedTime": "01/11/2020 20:38:10",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -69,12 +69,12 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 7905868,
+        "tested": 8012641,
         "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "31/10/2020",
-        "source": "https://t.co/K1UC2wUwrN?amp=1"
+        "date": "01/11/2020",
+        "source": ""
       }
     },
     "TN": {
@@ -151,18 +151,18 @@
     },
     "KL": {
       "name": "Kerala",
-      "confirmed": 433106,
-      "active": 91194,
-      "recovered": 340324,
-      "dead": 1485,
-      "updatedTime": "01/11/2020 20:23:16",
+      "confirmed": 440131,
+      "active": 89676,
+      "recovered": 348835,
+      "dead": 1513,
+      "updatedTime": "01/11/2020 20:38:12",
       "note": "Mahe native who expired in Kannur included in Kerala's deceased tally.\nSome non-covid deaths have also been reported in the bulletin.\nThese have been reduced from active count",
       "stateCode": "KL",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 7025,
+        "recovered": 8511,
+        "dead": 28,
+        "active": -1514
       },
       "testing_data": {
         "tested": 4695059,
@@ -203,7 +203,7 @@
       "active": 12877,
       "recovered": 277564,
       "dead": 1384,
-      "updatedTime": "01/11/2020 20:23:23",
+      "updatedTime": "01/11/2020 20:38:14",
       "note": "[July 12th] :20 non-covid deaths reported in state dashboard are included in the deceased count\n[June 22nd]: NDRF/ODRF cases have been redistributed to districts based on state dashboard",
       "stateCode": "OR",
       "today": {
@@ -395,7 +395,7 @@
       "active": 12634,
       "recovered": 154451,
       "dead": 1795,
-      "updatedTime": "01/11/2020 20:23:26",
+      "updatedTime": "01/11/2020 20:28:18",
       "note": "[Aug 2]: 21 Foreign Evacuees have been merged to Panchkula and 14 Italian tourists have been merged to Gurugram in HR bulletin.",
       "stateCode": "HR",
       "today": {
@@ -550,9 +550,9 @@
       },
       "testing_data": {
         "tested": 314989,
-        "positive": 0,
-        "negative": 0,
-        "unconfirmed": 0,
+        "positive": 37304,
+        "negative": 276367,
+        "unconfirmed": 1318,
         "date": "1/11/2020",
         "source": "https://health.py.gov.in/"
       }
@@ -880,19 +880,19 @@
     }
   },
   "testing_data": {
-    "tested": 118182645,
-    "positive": 580195,
-    "negative": 16739510,
-    "unconfirmed": 23342
+    "tested": 118289418,
+    "positive": 617499,
+    "negative": 17015877,
+    "unconfirmed": 24660
   },
   "testing_data_imcr": {
     "tested": 109887303,
     "source": "http://twitter.com/ICMRDELHI/status/1322743671599501313"
   },
   "today": {
-    "confirmed": 17397,
-    "recovered": 16364,
-    "dead": 228,
-    "active": 805
+    "confirmed": 24422,
+    "recovered": 24875,
+    "dead": 256,
+    "active": -709
   }
 }
