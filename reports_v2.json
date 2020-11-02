@@ -1,9 +1,9 @@
 {
-  "confirmed": 8266468,
-  "recovered": 7600872,
-  "dead": 123122,
-  "active": 541015,
-  "updatedTime": "03/11/2020 00:04:15",
+  "confirmed": 8266914,
+  "recovered": 7601429,
+  "dead": 123139,
+  "active": 540883,
+  "updatedTime": "03/11/2020 00:23:17",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -107,7 +107,7 @@
       "active": 23035,
       "recovered": 455498,
       "dead": 7076,
-      "updatedTime": "03/11/2020 00:04:18",
+      "updatedTime": "03/11/2020 00:09:30",
       "note": "",
       "stateCode": "UP",
       "today": {
@@ -323,7 +323,7 @@
       "active": 21914,
       "recovered": 166391,
       "dead": 2208,
-      "updatedTime": "03/11/2020 00:04:20",
+      "updatedTime": "03/11/2020 00:18:27",
       "note": "[Sep 9]:57 backdated deceased cases have been added.",
       "stateCode": "CT",
       "today": {
@@ -419,7 +419,7 @@
       "active": 4183,
       "recovered": 125961,
       "dead": 4227,
-      "updatedTime": "03/11/2020 00:04:22",
+      "updatedTime": "03/11/2020 00:18:31",
       "note": "",
       "stateCode": "PB",
       "today": {
@@ -583,18 +583,18 @@
     },
     "HP": {
       "name": "Himachal Pradesh",
-      "confirmed": 22264,
-      "active": 2974,
-      "recovered": 18940,
-      "dead": 320,
-      "updatedTime": "01/11/2020 23:10:21",
+      "confirmed": 22598,
+      "active": 2959,
+      "recovered": 19279,
+      "dead": 330,
+      "updatedTime": "03/11/2020 00:23:23",
       "note": "",
       "stateCode": "HP",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 334,
+        "recovered": 339,
+        "dead": 10,
+        "active": -15
       },
       "testing_data": {
         "tested": 399449,
@@ -635,7 +635,7 @@
       "active": 1722,
       "recovered": 13238,
       "dead": 38,
-      "updatedTime": "03/11/2020 00:04:26",
+      "updatedTime": "03/11/2020 00:18:41",
       "note": "[July 25]: All numbers corresponding to Papum Pare and Captial Complex are tracked under Papum Pare district.",
       "stateCode": "AR",
       "today": {
@@ -703,18 +703,18 @@
     },
     "NL": {
       "name": "Nagaland",
-      "confirmed": 9075,
-      "active": 1501,
-      "recovered": 7454,
-      "dead": 39,
-      "updatedTime": "02/11/2020 00:50:18",
+      "confirmed": 9096,
+      "active": 1363,
+      "recovered": 7606,
+      "dead": 42,
+      "updatedTime": "03/11/2020 00:23:26",
       "note": "46 cases are marked as other state patients",
       "stateCode": "NL",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 21,
+        "recovered": 152,
+        "dead": 3,
+        "active": -134
       },
       "testing_data": {
         "tested": 98836,
@@ -727,18 +727,18 @@
     },
     "LA": {
       "name": "Ladakh",
-      "confirmed": 6287,
-      "active": 583,
-      "recovered": 5629,
+      "confirmed": 6357,
+      "active": 611,
+      "recovered": 5671,
       "dead": 75,
-      "updatedTime": "02/11/2020 00:41:25",
+      "updatedTime": "03/11/2020 00:23:28",
       "note": "[Sep 08] : Testing details are not available in Ladakh bulletin from Sep 06 onwards",
       "stateCode": "LA",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 70,
+        "recovered": 42,
         "dead": 0,
-        "active": 0
+        "active": 28
       },
       "testing_data": {
         "tested": 76512,
@@ -751,18 +751,18 @@
     },
     "AN": {
       "name": "Andaman and Nicobar",
-      "confirmed": 4340,
-      "active": 168,
-      "recovered": 4112,
+      "confirmed": 4352,
+      "active": 160,
+      "recovered": 4132,
       "dead": 60,
-      "updatedTime": "01/11/2020 23:16:23",
+      "updatedTime": "03/11/2020 00:23:30",
       "note": "",
       "stateCode": "AN",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 12,
+        "recovered": 20,
         "dead": 0,
-        "active": 0
+        "active": -8
       },
       "testing_data": {
         "tested": 89559,
@@ -775,18 +775,18 @@
     },
     "SK": {
       "name": "Sikkim",
-      "confirmed": 3958,
-      "active": 238,
-      "recovered": 3569,
-      "dead": 69,
-      "updatedTime": "01/11/2020 23:10:26",
+      "confirmed": 3967,
+      "active": 239,
+      "recovered": 3573,
+      "dead": 73,
+      "updatedTime": "03/11/2020 00:23:32",
       "note": "",
       "stateCode": "SK",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 9,
+        "recovered": 4,
+        "dead": 4,
+        "active": 1
       },
       "testing_data": {
         "tested": 56731,
@@ -890,9 +890,9 @@
     "source": "https://www.icmr.gov.in/pdf/covid/update/ICMR_testing_update_02Nov2020.pdf"
   },
   "today": {
-    "confirmed": 37146,
-    "recovered": 57967,
-    "dead": 480,
-    "active": -21301
+    "confirmed": 37592,
+    "recovered": 58524,
+    "dead": 497,
+    "active": -21429
   }
 }
