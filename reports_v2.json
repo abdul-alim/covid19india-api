@@ -1,9 +1,9 @@
 {
-  "confirmed": 8255428,
-  "recovered": 7577074,
-  "dead": 122891,
-  "active": 554016,
-  "updatedTime": "02/11/2020 21:43:19",
+  "confirmed": 8258004,
+  "recovered": 7585408,
+  "dead": 122920,
+  "active": 548229,
+  "updatedTime": "02/11/2020 22:15:12",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -55,18 +55,18 @@
     },
     "KA": {
       "name": "Karnataka",
-      "confirmed": 827064,
-      "active": 50592,
-      "recovered": 765261,
-      "dead": 11192,
-      "updatedTime": "01/11/2020 22:46:17",
+      "confirmed": 829640,
+      "active": 44805,
+      "recovered": 773595,
+      "dead": 11221,
+      "updatedTime": "02/11/2020 22:15:13",
       "note": "",
       "stateCode": "KA",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 2576,
+        "recovered": 8334,
+        "dead": 29,
+        "active": -5787
       },
       "testing_data": {
         "tested": 8091137,
@@ -155,7 +155,7 @@
       "active": 33308,
       "recovered": 356459,
       "dead": 6604,
-      "updatedTime": "02/11/2020 21:43:22",
+      "updatedTime": "02/11/2020 22:00:19",
       "note": "[July 14]: Value for the total tests conducted has been reduced by 97008 in the state bulletin. Reason given : \"Reconciled with ICMR figures\". We have made the same change.\n[June 16]: 344 deceased cases have been retroactively added to DL bulletin.",
       "stateCode": "DL",
       "today": {
@@ -554,7 +554,7 @@
         "negative": 279253,
         "unconfirmed": 1182,
         "date": "2/11/2020",
-        "source": "https://health.py.gov.in/"
+        "source": "https://covid19dashboard.py.gov.in/LabTestReport"
       }
     },
     "TR": {
@@ -693,12 +693,12 @@
         "active": -46
       },
       "testing_data": {
-        "tested": 202056,
+        "tested": 203556,
         "positive": 0,
-        "negative": 192604,
+        "negative": 193878,
         "unconfirmed": 0,
-        "date": "31/10/2020",
-        "source": "https://twitter.com/PIBShillong/status/1322587678454378497"
+        "date": "02/11/2020",
+        "source": "https://twitter.com/PIBShillong/status/1323282187613974530"
       }
     },
     "NL": {
@@ -741,12 +741,12 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 72336,
+        "tested": 76512,
         "positive": 0,
-        "negative": 62369,
-        "unconfirmed": 651,
-        "date": "25/10/2020",
-        "source": "https://twitter.com/DIPR_Leh/status/1320411102748917760/photo/2"
+        "negative": 66173,
+        "unconfirmed": 581,
+        "date": "02/11/2020",
+        "source": "https://twitter.com/DIPR_Leh/status/1323283599940964352/photo/3"
       }
     },
     "AN": {
@@ -880,19 +880,19 @@
     }
   },
   "testing_data": {
-    "tested": 119330333,
+    "tested": 119336009,
     "positive": 622517,
-    "negative": 24532627,
-    "unconfirmed": 23123
+    "negative": 24537705,
+    "unconfirmed": 23053
   },
   "testing_data_imcr": {
     "tested": 110743103,
     "source": "https://www.icmr.gov.in/pdf/covid/update/ICMR_testing_update_02Nov2020.pdf"
   },
   "today": {
-    "confirmed": 26106,
-    "recovered": 34169,
-    "dead": 249,
-    "active": -8312
+    "confirmed": 28682,
+    "recovered": 42503,
+    "dead": 278,
+    "active": -14099
   }
 }
