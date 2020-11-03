@@ -1,9 +1,9 @@
 {
-  "confirmed": 8278243,
-  "recovered": 7615631,
-  "dead": 123225,
-  "active": 537924,
-  "updatedTime": "03/11/2020 20:04:15",
+  "confirmed": 8281006,
+  "recovered": 7617901,
+  "dead": 123244,
+  "active": 538398,
+  "updatedTime": "03/11/2020 20:13:14",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -59,7 +59,7 @@
       "active": 40395,
       "recovered": 780735,
       "dead": 11247,
-      "updatedTime": "03/11/2020 20:03:12",
+      "updatedTime": "03/11/2020 20:10:14",
       "note": "",
       "stateCode": "KA",
       "today": {
@@ -103,18 +103,18 @@
     },
     "UP": {
       "name": "Uttar Pradesh",
-      "confirmed": 485609,
-      "active": 23035,
-      "recovered": 455498,
-      "dead": 7076,
-      "updatedTime": "03/11/2020 00:09:30",
+      "confirmed": 487335,
+      "active": 22538,
+      "recovered": 457708,
+      "dead": 7089,
+      "updatedTime": "03/11/2020 20:13:16",
       "note": "",
       "stateCode": "UP",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 1726,
+        "recovered": 2210,
+        "dead": 13,
+        "active": -497
       },
       "testing_data": {
         "tested": 15307285,
@@ -343,42 +343,42 @@
     },
     "GJ": {
       "name": "Gujarat",
-      "confirmed": 174679,
-      "active": 12600,
+      "confirmed": 175633,
+      "active": 13548,
       "recovered": 158351,
-      "dead": 3728,
-      "updatedTime": "02/11/2020 20:28:24",
+      "dead": 3734,
+      "updatedTime": "03/11/2020 20:13:17",
       "note": "",
       "stateCode": "GJ",
       "today": {
-        "confirmed": 0,
+        "confirmed": 954,
         "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "dead": 6,
+        "active": 948
       },
       "testing_data": {
-        "tested": 6157811,
+        "tested": 6210550,
         "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "2/11/2020",
-        "source": "https://twitter.com/PIBAhmedabad/status/1323287258175164417?s=20"
+        "date": "3/11/2020",
+        "source": "https://twitter.com/PIBAhmedabad/status/1323632256150196225?s=20"
       }
     },
     "MP": {
       "name": "Madhya Pradesh",
-      "confirmed": 173301,
-      "active": 8020,
-      "recovered": 162307,
+      "confirmed": 173384,
+      "active": 8044,
+      "recovered": 162366,
       "dead": 2974,
-      "updatedTime": "02/11/2020 19:19:19",
+      "updatedTime": "03/11/2020 20:13:19",
       "note": "[Oct 14]: 4469 confirmed cases and 4469 recoveries added in MP bulletin as reconciliation with private labs and hospitals",
       "stateCode": "MP",
       "today": {
-        "confirmed": 360,
-        "recovered": 0,
-        "dead": 0,
-        "active": 360
+        "confirmed": 667,
+        "recovered": 912,
+        "dead": 9,
+        "active": -254
       },
       "testing_data": {
         "tested": 3016456,
@@ -395,7 +395,7 @@
       "active": 13338,
       "recovered": 156975,
       "dead": 1817,
-      "updatedTime": "03/11/2020 20:04:21",
+      "updatedTime": "03/11/2020 20:12:24",
       "note": "[Aug 2]: 21 Foreign Evacuees have been merged to Panchkula and 14 Italian tourists have been merged to Gurugram in HR bulletin.",
       "stateCode": "HR",
       "today": {
@@ -491,7 +491,7 @@
       "active": 3705,
       "recovered": 57951,
       "dead": 1033,
-      "updatedTime": "03/11/2020 20:03:15",
+      "updatedTime": "03/11/2020 20:10:19",
       "note": "[Oct 17]: 89 back-dated deaths included",
       "stateCode": "UT",
       "today": {
@@ -800,17 +800,17 @@
     "DN": {
       "name": "Dadra and Nagar Haveli and Daman and Diu",
       "confirmed": 3255,
-      "active": 34,
-      "recovered": 3193,
+      "active": 33,
+      "recovered": 3194,
       "dead": 2,
-      "updatedTime": "02/11/2020 21:41:32",
+      "updatedTime": "03/11/2020 20:13:22",
       "note": "",
       "stateCode": "DN",
       "today": {
         "confirmed": 0,
-        "recovered": 0,
+        "recovered": 1,
         "dead": 0,
-        "active": 0
+        "active": -1
       },
       "isUnknown": true
     },
@@ -880,7 +880,7 @@
     }
   },
   "testing_data": {
-    "tested": 120325156,
+    "tested": 120377895,
     "positive": 598542,
     "negative": 24724719,
     "unconfirmed": 23335
@@ -890,9 +890,9 @@
     "source": "http://twitter.com/ICMRDELHI/status/1323472917510811649"
   },
   "today": {
-    "confirmed": 11105,
-    "recovered": 13349,
-    "dead": 77,
-    "active": -2321
+    "confirmed": 14092,
+    "recovered": 16472,
+    "dead": 105,
+    "active": -2485
   }
 }
