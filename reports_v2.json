@@ -1,9 +1,9 @@
 {
-  "confirmed": 8304237,
-  "recovered": 7642448,
-  "dead": 123422,
-  "active": 536904,
-  "updatedTime": "03/11/2020 20:38:12",
+  "confirmed": 8305267,
+  "recovered": 7644926,
+  "dead": 123454,
+  "active": 535424,
+  "updatedTime": "03/11/2020 20:57:18",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -35,7 +35,7 @@
       "active": 21672,
       "recovered": 802325,
       "dead": 6734,
-      "updatedTime": "03/11/2020 20:38:15",
+      "updatedTime": "03/11/2020 20:53:14",
       "note": "",
       "stateCode": "AP",
       "today": {
@@ -83,7 +83,7 @@
       "active": 19201,
       "recovered": 701527,
       "dead": 11214,
-      "updatedTime": "03/11/2020 20:38:16",
+      "updatedTime": "03/11/2020 20:53:16",
       "note": "[July 22]: 444 backdated deceased entries added to Chennai in TN bulletin.\n2 deaths cross notified to other states from Chennai and Coimbatore.\n1 patient died after turning negative for infection in Chengalpattu.\nThese cases have been added to TN deceased tally",
       "stateCode": "TN",
       "today": {
@@ -155,7 +155,7 @@
       "active": 36375,
       "recovered": 360069,
       "dead": 6652,
-      "updatedTime": "03/11/2020 20:38:18",
+      "updatedTime": "03/11/2020 20:53:17",
       "note": "[July 14]: Value for the total tests conducted has been reduced by 97008 in the state bulletin. Reason given : \"Reconciled with ICMR figures\". We have made the same change.\n[June 16]: 344 deceased cases have been retroactively added to DL bulletin.",
       "stateCode": "DL",
       "today": {
@@ -200,17 +200,17 @@
     "OR": {
       "name": "Odisha",
       "confirmed": 294415,
-      "active": 13919,
-      "recovered": 279091,
+      "active": 12457,
+      "recovered": 280553,
       "dead": 1405,
-      "updatedTime": "03/11/2020 13:45:15",
+      "updatedTime": "03/11/2020 20:57:22",
       "note": "[July 12th] :20 non-covid deaths reported in state dashboard are included in the deceased count\n[June 22nd]: NDRF/ODRF cases have been redistributed to districts based on state dashboard",
       "stateCode": "OR",
       "today": {
         "confirmed": 1201,
-        "recovered": 0,
+        "recovered": 1462,
         "dead": 12,
-        "active": 1189
+        "active": -273
       },
       "testing_data": {
         "tested": 4687272,
@@ -275,7 +275,7 @@
       "active": 8385,
       "recovered": 198039,
       "dead": 934,
-      "updatedTime": "03/11/2020 20:38:19",
+      "updatedTime": "03/11/2020 20:53:20",
       "note": "",
       "stateCode": "AS",
       "today": {
@@ -415,18 +415,18 @@
     },
     "PB": {
       "name": "Punjab",
-      "confirmed": 134371,
-      "active": 4183,
-      "recovered": 125961,
-      "dead": 4227,
-      "updatedTime": "03/11/2020 20:34:31",
+      "confirmed": 134786,
+      "active": 4226,
+      "recovered": 126315,
+      "dead": 4245,
+      "updatedTime": "03/11/2020 20:57:25",
       "note": "",
       "stateCode": "PB",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 415,
+        "recovered": 354,
+        "dead": 18,
+        "active": 43
       },
       "testing_data": {
         "tested": 2650809,
@@ -463,18 +463,18 @@
     },
     "JK": {
       "name": "Jammu and Kashmir",
-      "confirmed": 95710,
-      "active": 6080,
-      "recovered": 88140,
-      "dead": 1490,
-      "updatedTime": "02/11/2020 18:40:24",
+      "confirmed": 96188,
+      "active": 5968,
+      "recovered": 88718,
+      "dead": 1502,
+      "updatedTime": "03/11/2020 20:57:27",
       "note": "",
       "stateCode": "JK",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 478,
+        "recovered": 578,
+        "dead": 12,
+        "active": -112
       },
       "testing_data": {
         "tested": 2366741,
@@ -559,18 +559,18 @@
     },
     "TR": {
       "name": "Tripura",
-      "confirmed": 30849,
-      "active": 1270,
-      "recovered": 29211,
-      "dead": 345,
-      "updatedTime": "02/11/2020 19:59:26",
+      "confirmed": 30986,
+      "active": 1321,
+      "recovered": 29295,
+      "dead": 347,
+      "updatedTime": "03/11/2020 20:57:30",
       "note": "[Aug 4]: Tripura bulletin for the previous day is released on the next day. We will add the cases for Tripura against the date of release, as that is the convention that we are following for other states.",
       "stateCode": "TR",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 137,
+        "recovered": 84,
+        "dead": 2,
+        "active": 51
       },
       "testing_data": {
         "tested": 464003,
@@ -890,9 +890,9 @@
     "source": "http://twitter.com/ICMRDELHI/status/1323472917510811649"
   },
   "today": {
-    "confirmed": 37323,
-    "recovered": 41019,
-    "dead": 283,
-    "active": -3979
+    "confirmed": 38353,
+    "recovered": 43497,
+    "dead": 315,
+    "active": -5459
   }
 }
