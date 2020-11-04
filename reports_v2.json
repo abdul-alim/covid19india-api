@@ -1,9 +1,9 @@
 {
-  "confirmed": 8359299,
-  "recovered": 7707715,
-  "dead": 124264,
-  "active": 525699,
-  "updatedTime": "04/11/2020 23:04:16",
+  "confirmed": 8359803,
+  "recovered": 7708497,
+  "dead": 124276,
+  "active": 525409,
+  "updatedTime": "04/11/2020 23:23:16",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -11,7 +11,7 @@
       "active": 112912,
       "recovered": 1540005,
       "dead": 44548,
-      "updatedTime": "04/11/2020 23:04:17",
+      "updatedTime": "04/11/2020 23:10:15",
       "note": "[Sep 9] :239 cases have been removed from the hospitalized figures owing to the removal of duplicates and change of addresses as per the original residence,\n[Aug 15] : MH bulletin has reduced 819 confirmed cases in Mumbai and 72 confirmed cases from 'Other States' from the tally\n[Jun 16] : 1328 deceased cases have been retroactively added to MH bulletin.\n[Jun 20] : 69 deceased cases have been reduced based on state bulletin.",
       "stateCode": "MH",
       "today": {
@@ -333,12 +333,12 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 1868995,
+        "tested": 1894622,
         "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "03/11/2020",
-        "source": "https://twitter.com/HealthCgGov/status/1323666312816521216"
+        "date": "04/11/2020",
+        "source": "https://twitter.com/HealthCgGov/status/1324044582208720896"
       }
     },
     "GJ": {
@@ -511,18 +511,18 @@
     },
     "GA": {
       "name": "Goa",
-      "confirmed": 44189,
-      "active": 2209,
-      "recovered": 41362,
-      "dead": 618,
-      "updatedTime": "03/11/2020 20:01:18",
+      "confirmed": 44372,
+      "active": 2135,
+      "recovered": 41611,
+      "dead": 626,
+      "updatedTime": "04/11/2020 23:21:21",
       "note": "",
       "stateCode": "GA",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 183,
+        "recovered": 249,
+        "dead": 8,
+        "active": -74
       },
       "testing_data": {
         "tested": 306425,
@@ -535,18 +535,18 @@
     },
     "PY": {
       "name": "Puducherry",
-      "confirmed": 35325,
-      "active": 2445,
-      "recovered": 32284,
-      "dead": 596,
-      "updatedTime": "03/11/2020 19:53:21",
+      "confirmed": 35429,
+      "active": 2129,
+      "recovered": 32703,
+      "dead": 597,
+      "updatedTime": "04/11/2020 23:21:23",
       "note": "",
       "stateCode": "PY",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 104,
+        "recovered": 419,
+        "dead": 1,
+        "active": -316
       },
       "testing_data": {
         "tested": 325632,
@@ -559,18 +559,18 @@
     },
     "TR": {
       "name": "Tripura",
-      "confirmed": 30986,
-      "active": 1321,
-      "recovered": 29295,
-      "dead": 347,
-      "updatedTime": "03/11/2020 21:01:17",
+      "confirmed": 31102,
+      "active": 1322,
+      "recovered": 29407,
+      "dead": 350,
+      "updatedTime": "04/11/2020 23:21:25",
       "note": "[Aug 4]: Tripura bulletin for the previous day is released on the next day. We will add the cases for Tripura against the date of release, as that is the convention that we are following for other states.",
       "stateCode": "TR",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 116,
+        "recovered": 112,
+        "dead": 3,
+        "active": 1
       },
       "testing_data": {
         "tested": 467012,
@@ -816,18 +816,18 @@
     },
     "MZ": {
       "name": "Mizoram",
-      "confirmed": 2792,
-      "active": 417,
-      "recovered": 2374,
+      "confirmed": 2893,
+      "active": 516,
+      "recovered": 2376,
       "dead": 1,
-      "updatedTime": "03/11/2020 22:23:42",
+      "updatedTime": "04/11/2020 23:23:29",
       "note": "",
       "stateCode": "MZ",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 101,
+        "recovered": 2,
         "dead": 0,
-        "active": 0
+        "active": 99
       },
       "testing_data": {
         "tested": 117038,
@@ -880,7 +880,7 @@
     }
   },
   "testing_data": {
-    "tested": 121710226,
+    "tested": 121735853,
     "positive": 608033,
     "negative": 24994719,
     "unconfirmed": 24855
@@ -890,9 +890,9 @@
     "source": "http://twitter.com/ICMRDELHI/status/1323831899815469056"
   },
   "today": {
-    "confirmed": 46352,
-    "recovered": 52958,
-    "dead": 614,
-    "active": -7220
+    "confirmed": 46856,
+    "recovered": 53740,
+    "dead": 626,
+    "active": -7510
   }
 }
