@@ -1,9 +1,9 @@
 {
-  "confirmed": 8392437,
-  "recovered": 7745937,
-  "dead": 124683,
-  "active": 520189,
-  "updatedTime": "05/11/2020 21:46:27",
+  "confirmed": 8392835,
+  "recovered": 7746471,
+  "dead": 124685,
+  "active": 520051,
+  "updatedTime": "05/11/2020 22:15:21",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -275,7 +275,7 @@
       "active": 7662,
       "recovered": 199455,
       "dead": 934,
-      "updatedTime": "05/11/2020 21:46:31",
+      "updatedTime": "05/11/2020 22:01:34",
       "note": "",
       "stateCode": "AS",
       "today": {
@@ -439,26 +439,26 @@
     },
     "JH": {
       "name": "Jharkhand",
-      "confirmed": 103188,
-      "active": 4814,
-      "recovered": 97480,
+      "confirmed": 103543,
+      "active": 4685,
+      "recovered": 97964,
       "dead": 894,
-      "updatedTime": "04/11/2020 21:52:15",
+      "updatedTime": "05/11/2020 22:15:31",
       "note": "",
       "stateCode": "JH",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 355,
+        "recovered": 484,
         "dead": 0,
-        "active": 0
+        "active": -129
       },
       "testing_data": {
-        "tested": 3503516,
-        "positive": 103188,
-        "negative": 3400328,
+        "tested": 3540776,
+        "positive": 103543,
+        "negative": 3437233,
         "unconfirmed": 0,
-        "date": "04/11/2020",
-        "source": "https://twitter.com/rnuddkranchi/status/1324016607379664898?s=20"
+        "date": "05/11/2020",
+        "source": "https://twitter.com/rnuddkranchi/status/1324385808770502656?s=20"
       }
     },
     "JK": {
@@ -491,7 +491,7 @@
       "active": 3680,
       "recovered": 58823,
       "dead": 1047,
-      "updatedTime": "05/11/2020 21:46:34",
+      "updatedTime": "05/11/2020 22:02:03",
       "note": "[Oct 17]: 89 back-dated deaths included",
       "stateCode": "UT",
       "today": {
@@ -549,12 +549,12 @@
         "active": -300
       },
       "testing_data": {
-        "tested": 325632,
-        "positive": 37631,
-        "negative": 286377,
-        "unconfirmed": 1624,
-        "date": "4/11/2020",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/3499"
+        "tested": 329907,
+        "positive": 39772,
+        "negative": 288479,
+        "unconfirmed": 1656,
+        "date": "5/11/2020",
+        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/3525"
       }
     },
     "TR": {
@@ -648,9 +648,9 @@
         "tested": 327812,
         "positive": 0,
         "negative": 301137,
-        "unconfirmed": 0,
+        "unconfirmed": 43,
         "date": "05/11/2020",
-        "source": "http://covid19.itanagarsmartcity.in/covidstatus.php"
+        "source": "https://twitter.com/DirectorateofHS/status/1324383242334597121"
       }
     },
     "CH": {
@@ -741,28 +741,28 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 76512,
+        "tested": 78446,
         "positive": 0,
-        "negative": 66173,
-        "unconfirmed": 581,
-        "date": "02/11/2020",
-        "source": "https://twitter.com/DIPR_Leh/status/1323283599940964352/photo/3"
+        "negative": 67800,
+        "unconfirmed": 604,
+        "date": "04/11/2020",
+        "source": "https://twitter.com/DIPR_Leh/status/1324333985665753089?s=20"
       }
     },
     "AN": {
       "name": "Andaman and Nicobar",
-      "confirmed": 4389,
-      "active": 166,
-      "recovered": 4163,
+      "confirmed": 4403,
+      "active": 168,
+      "recovered": 4175,
       "dead": 60,
-      "updatedTime": "05/11/2020 00:19:18",
+      "updatedTime": "05/11/2020 22:15:40",
       "note": "",
       "stateCode": "AN",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 14,
+        "recovered": 12,
         "dead": 0,
-        "active": 0
+        "active": 2
       },
       "testing_data": {
         "tested": 93406,
@@ -775,18 +775,18 @@
     },
     "SK": {
       "name": "Sikkim",
-      "confirmed": 4066,
-      "active": 254,
-      "recovered": 3657,
-      "dead": 73,
-      "updatedTime": "05/11/2020 00:19:20",
+      "confirmed": 4095,
+      "active": 243,
+      "recovered": 3695,
+      "dead": 75,
+      "updatedTime": "05/11/2020 22:14:42",
       "note": "",
       "stateCode": "SK",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 29,
+        "recovered": 38,
+        "dead": 2,
+        "active": -11
       },
       "testing_data": {
         "tested": 57421,
@@ -794,7 +794,7 @@
         "negative": 0,
         "unconfirmed": 0,
         "date": "05/11/2020",
-        "source": "https://covid19sikkim.org/"
+        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/3515?single"
       }
     },
     "DN": {
@@ -880,19 +880,19 @@
     }
   },
   "testing_data": {
-    "tested": 122846787,
-    "positive": 646104,
-    "negative": 25183908,
-    "unconfirmed": 24079
+    "tested": 122890256,
+    "positive": 648600,
+    "negative": 25224542,
+    "unconfirmed": 24177
   },
   "testing_data_imcr": {
     "tested": 114208384,
     "source": "http://twitter.com/ICMRDELHI/status/1324191902778880000"
   },
   "today": {
-    "confirmed": 29031,
-    "recovered": 35307,
-    "dead": 329,
-    "active": -6605
+    "confirmed": 29429,
+    "recovered": 35841,
+    "dead": 331,
+    "active": -6743
   }
 }
