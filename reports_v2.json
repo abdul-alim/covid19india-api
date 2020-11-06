@@ -1,9 +1,9 @@
 {
   "confirmed": 8439389,
-  "recovered": 7791363,
-  "dead": 125263,
-  "active": 521020,
-  "updatedTime": "06/11/2020 21:15:25",
+  "recovered": 7794325,
+  "dead": 125267,
+  "active": 518054,
+  "updatedTime": "06/11/2020 21:23:22",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -21,12 +21,12 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 9250254,
+        "tested": 9318544,
         "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "05/11/2020",
-        "source": "https://twitter.com/ANI/status/1324355317266739200?s=20"
+        "date": "06/11/2020",
+        "source": "https://twitter.com/ANI/status/1324738765680599045?s=20"
       }
     },
     "AP": {
@@ -107,7 +107,7 @@
       "active": 23132,
       "recovered": 463240,
       "dead": 7155,
-      "updatedTime": "06/11/2020 21:14:30",
+      "updatedTime": "06/11/2020 21:22:23",
       "note": "",
       "stateCode": "UP",
       "today": {
@@ -200,17 +200,17 @@
     "OR": {
       "name": "Odisha",
       "confirmed": 298768,
-      "active": 13789,
-      "recovered": 283533,
+      "active": 12148,
+      "recovered": 285174,
       "dead": 1446,
-      "updatedTime": "06/11/2020 12:51:20",
+      "updatedTime": "06/11/2020 21:23:24",
       "note": "[July 12th] :20 non-covid deaths reported in state dashboard are included in the deceased count\n[June 22nd]: NDRF/ODRF cases have been redistributed to districts based on state dashboard",
       "stateCode": "OR",
       "today": {
         "confirmed": 1494,
-        "recovered": 0,
+        "recovered": 1641,
         "dead": 15,
-        "active": 1479
+        "active": -162
       },
       "testing_data": {
         "tested": 4838124,
@@ -251,7 +251,7 @@
       "active": 6951,
       "recovered": 212911,
       "dead": 1129,
-      "updatedTime": "06/11/2020 21:13:39",
+      "updatedTime": "06/11/2020 21:18:30",
       "note": "",
       "stateCode": "BR",
       "today": {
@@ -344,17 +344,17 @@
     "GJ": {
       "name": "Gujarat",
       "confirmed": 177598,
-      "active": 12226,
-      "recovered": 161625,
-      "dead": 3747,
-      "updatedTime": "05/11/2020 20:02:22",
+      "active": 10901,
+      "recovered": 162946,
+      "dead": 3751,
+      "updatedTime": "06/11/2020 21:23:27",
       "note": "",
       "stateCode": "GJ",
       "today": {
         "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "recovered": 1321,
+        "dead": 4,
+        "active": -1325
       },
       "testing_data": {
         "tested": 6304418,
@@ -371,7 +371,7 @@
       "active": 7676,
       "recovered": 164923,
       "dead": 3004,
-      "updatedTime": "06/11/2020 21:13:43",
+      "updatedTime": "06/11/2020 21:18:33",
       "note": "[Oct 14]: 4469 confirmed cases and 4469 recoveries added in MP bulletin as reconciliation with private labs and hospitals",
       "stateCode": "MP",
       "today": {
@@ -563,7 +563,7 @@
       "active": 1327,
       "recovered": 29643,
       "dead": 351,
-      "updatedTime": "06/11/2020 21:13:46",
+      "updatedTime": "06/11/2020 21:18:36",
       "note": "[Aug 4]: Tripura bulletin for the previous day is released on the next day. We will add the cases for Tripura against the date of release, as that is the convention that we are following for other states.",
       "stateCode": "TR",
       "today": {
@@ -880,7 +880,7 @@
     }
   },
   "testing_data": {
-    "tested": 123752964,
+    "tested": 123821254,
     "positive": 655726,
     "negative": 25406897,
     "unconfirmed": 26358
@@ -891,8 +891,8 @@
   },
   "today": {
     "confirmed": 28355,
-    "recovered": 26600,
-    "dead": 234,
-    "active": 1521
+    "recovered": 29562,
+    "dead": 238,
+    "active": -1445
   }
 }
