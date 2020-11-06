@@ -72,10 +72,10 @@
       "recovered": 0,
       "dead": 0
     },
-    "confirmed": 4403,
-    "recovered": 4175,
+    "confirmed": 4420,
+    "recovered": 4194,
     "dead": 60,
-    "active": 168
+    "active": 166
   },
   "AP": {
     "state": "Andhra Pradesh",
@@ -827,15 +827,15 @@
       {
         "district": "Dibrugarh",
         "notes": "",
-        "active": 6988,
+        "active": 6987,
         "confirmed": 9486,
         "recovered": 2409,
-        "dead": 89,
+        "dead": 90,
         "today": {
           "confirmed": 0,
           "recovered": 0,
-          "active": 0,
-          "dead": 0
+          "active": -1,
+          "dead": 1
         }
       },
       {
@@ -939,15 +939,15 @@
       {
         "district": "Kamrup Metropolitan",
         "notes": "",
-        "active": 33069,
-        "confirmed": 47798,
+        "active": 33165,
+        "confirmed": 47895,
         "recovered": 14599,
-        "dead": 130,
+        "dead": 131,
         "today": {
-          "confirmed": 0,
+          "confirmed": 97,
           "recovered": 0,
-          "active": 0,
-          "dead": 0
+          "active": 96,
+          "dead": 1
         }
       },
       {
@@ -1079,15 +1079,15 @@
       {
         "district": "Sivasagar",
         "notes": "",
-        "active": 27,
+        "active": 25,
         "confirmed": 529,
         "recovered": 473,
-        "dead": 29,
+        "dead": 31,
         "today": {
           "confirmed": 0,
           "recovered": 0,
-          "active": 0,
-          "dead": 0
+          "active": -2,
+          "dead": 2
         }
       },
       {
@@ -1162,15 +1162,15 @@
       }
     ],
     "today": {
-      "confirmed": 0,
-      "active": 0,
+      "confirmed": 97,
+      "active": 93,
       "recovered": 0,
-      "dead": 0
+      "dead": 4
     },
-    "confirmed": 208054,
-    "recovered": 199455,
-    "dead": 934,
-    "active": 7662
+    "confirmed": 208389,
+    "recovered": 200381,
+    "dead": 938,
+    "active": 7067
   },
   "BR": {
     "state": "Bihar",
@@ -2372,14 +2372,14 @@
       {
         "district": "Daman",
         "notes": "",
-        "active": 36,
-        "confirmed": 1361,
-        "recovered": 1324,
+        "active": 37,
+        "confirmed": 1363,
+        "recovered": 1325,
         "dead": 1,
         "today": {
-          "confirmed": 0,
-          "recovered": 0,
-          "active": 0,
+          "confirmed": 2,
+          "recovered": 1,
+          "active": 1,
           "dead": 0
         }
       },
@@ -2399,9 +2399,9 @@
       }
     ],
     "today": {
-      "confirmed": 0,
-      "active": 0,
-      "recovered": 0,
+      "confirmed": 2,
+      "active": 1,
+      "recovered": 1,
       "dead": 0
     }
   },
@@ -5446,42 +5446,42 @@
       {
         "district": "East Garo Hills",
         "notes": "",
-        "active": 65,
-        "confirmed": 231,
-        "recovered": 165,
+        "active": 89,
+        "confirmed": 256,
+        "recovered": 166,
         "dead": 1,
         "today": {
-          "confirmed": 0,
-          "recovered": 0,
-          "active": 0,
+          "confirmed": 25,
+          "recovered": 1,
+          "active": 24,
           "dead": 0
         }
       },
       {
         "district": "East Jaintia Hills",
         "notes": "",
-        "active": 47,
-        "confirmed": 457,
-        "recovered": 410,
+        "active": 49,
+        "confirmed": 463,
+        "recovered": 414,
         "dead": 0,
         "today": {
-          "confirmed": 0,
-          "recovered": 0,
-          "active": 0,
+          "confirmed": 6,
+          "recovered": 4,
+          "active": 2,
           "dead": 0
         }
       },
       {
         "district": "East Khasi Hills",
         "notes": "",
-        "active": 312,
-        "confirmed": 6132,
-        "recovered": 5739,
+        "active": 263,
+        "confirmed": 6153,
+        "recovered": 5809,
         "dead": 81,
         "today": {
-          "confirmed": 0,
-          "recovered": 0,
-          "active": 0,
+          "confirmed": 21,
+          "recovered": 70,
+          "active": -49,
           "dead": 0
         }
       },
@@ -5502,42 +5502,42 @@
       {
         "district": "Ribhoi",
         "notes": "",
-        "active": 261,
-        "confirmed": 1045,
-        "recovered": 783,
+        "active": 273,
+        "confirmed": 1058,
+        "recovered": 784,
         "dead": 1,
         "today": {
-          "confirmed": 0,
-          "recovered": 0,
-          "active": 0,
+          "confirmed": 13,
+          "recovered": 1,
+          "active": 12,
           "dead": 0
         }
       },
       {
         "district": "South Garo Hills",
         "notes": "",
-        "active": 11,
-        "confirmed": 105,
+        "active": 13,
+        "confirmed": 107,
         "recovered": 94,
         "dead": 0,
         "today": {
-          "confirmed": 0,
+          "confirmed": 2,
           "recovered": 0,
-          "active": 0,
+          "active": 2,
           "dead": 0
         }
       },
       {
         "district": "South West Garo Hills",
         "notes": "",
-        "active": 13,
-        "confirmed": 108,
+        "active": 17,
+        "confirmed": 112,
         "recovered": 93,
         "dead": 2,
         "today": {
-          "confirmed": 0,
+          "confirmed": 4,
           "recovered": 0,
-          "active": 0,
+          "active": 4,
           "dead": 0
         }
       },
@@ -5558,28 +5558,28 @@
       {
         "district": "West Garo Hills",
         "notes": "",
-        "active": 144,
-        "confirmed": 1253,
-        "recovered": 1106,
+        "active": 146,
+        "confirmed": 1263,
+        "recovered": 1114,
         "dead": 3,
         "today": {
-          "confirmed": 0,
-          "recovered": 0,
-          "active": 0,
+          "confirmed": 10,
+          "recovered": 8,
+          "active": 2,
           "dead": 0
         }
       },
       {
         "district": "West Jaintia Hills",
         "notes": "",
-        "active": 105,
-        "confirmed": 280,
-        "recovered": 174,
+        "active": 103,
+        "confirmed": 285,
+        "recovered": 181,
         "dead": 1,
         "today": {
-          "confirmed": 0,
-          "recovered": 0,
-          "active": 0,
+          "confirmed": 5,
+          "recovered": 7,
+          "active": -2,
           "dead": 0
         }
       },
@@ -5599,15 +5599,15 @@
       }
     ],
     "today": {
-      "confirmed": 0,
-      "active": 0,
-      "recovered": 0,
+      "confirmed": 86,
+      "active": -5,
+      "recovered": 91,
       "dead": 0
     },
-    "confirmed": 9893,
-    "recovered": 8813,
+    "confirmed": 9979,
+    "recovered": 8904,
     "dead": 91,
-    "active": 986
+    "active": 981
   },
   "MN": {
     "state": "Manipur",
