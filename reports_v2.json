@@ -1,9 +1,9 @@
 {
-  "confirmed": 8455807,
-  "recovered": 7813908,
-  "dead": 125519,
-  "active": 514568,
-  "updatedTime": "06/11/2020 22:49:21",
+  "confirmed": 8456280,
+  "recovered": 7814312,
+  "dead": 125528,
+  "active": 514624,
+  "updatedTime": "06/11/2020 22:59:25",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -11,7 +11,7 @@
       "active": 102099,
       "recovered": 1562342,
       "dead": 44965,
-      "updatedTime": "06/11/2020 22:44:23",
+      "updatedTime": "06/11/2020 22:50:26",
       "note": "[Sep 9] :239 cases have been removed from the hospitalized figures owing to the removal of duplicates and change of addresses as per the original residence,\n[Aug 15] : MH bulletin has reduced 819 confirmed cases in Mumbai and 72 confirmed cases from 'Other States' from the tally\n[Jun 16] : 1328 deceased cases have been retroactively added to MH bulletin.\n[Jun 20] : 69 deceased cases have been reduced based on state bulletin.",
       "stateCode": "MH",
       "today": {
@@ -155,7 +155,7 @@
       "active": 39722,
       "recovered": 377276,
       "dead": 6833,
-      "updatedTime": "06/11/2020 22:49:24",
+      "updatedTime": "06/11/2020 22:58:30",
       "note": "[July 14]: Value for the total tests conducted has been reduced by 97008 in the state bulletin. Reason given : \"Reconciled with ICMR figures\". We have made the same change.\n[June 16]: 344 deceased cases have been retroactively added to DL bulletin.",
       "stateCode": "DL",
       "today": {
@@ -333,12 +333,12 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 1920238,
+        "tested": 1947127,
         "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "05/11/2020",
-        "source": "https://twitter.com/HealthCgGov/status/1324405588336336896"
+        "date": "06/11/2020",
+        "source": "https://twitter.com/HealthCgGov/status/1324768884151345152"
       }
     },
     "GJ": {
@@ -487,18 +487,18 @@
     },
     "UT": {
       "name": "Uttarakhand",
-      "confirmed": 64065,
-      "active": 3680,
-      "recovered": 58823,
-      "dead": 1047,
-      "updatedTime": "05/11/2020 22:02:03",
+      "confirmed": 64538,
+      "active": 3736,
+      "recovered": 59227,
+      "dead": 1056,
+      "updatedTime": "06/11/2020 22:59:29",
       "note": "[Oct 17]: 89 back-dated deaths included",
       "stateCode": "UT",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 473,
+        "recovered": 404,
+        "dead": 9,
+        "active": 60
       },
       "testing_data": {
         "tested": 1090119,
@@ -880,7 +880,7 @@
     }
   },
   "testing_data": {
-    "tested": 124130954,
+    "tested": 124157843,
     "positive": 656208,
     "negative": 25453706,
     "unconfirmed": 27565
@@ -890,9 +890,9 @@
     "source": "http://twitter.com/ICMRDELHI/status/1324573683118006275"
   },
   "today": {
-    "confirmed": 44773,
-    "recovered": 49145,
-    "dead": 490,
-    "active": -4862
+    "confirmed": 45246,
+    "recovered": 49549,
+    "dead": 499,
+    "active": -4802
   }
 }
