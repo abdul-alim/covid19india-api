@@ -1,9 +1,9 @@
 {
-  "confirmed": 8487242,
-  "recovered": 7846382,
-  "dead": 125986,
-  "active": 513043,
-  "updatedTime": "07/11/2020 22:19:25",
+  "confirmed": 8487761,
+  "recovered": 7846731,
+  "dead": 125993,
+  "active": 513206,
+  "updatedTime": "07/11/2020 22:38:19",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -35,7 +35,7 @@
       "active": 21434,
       "recovered": 812517,
       "dead": 6779,
-      "updatedTime": "07/11/2020 22:19:28",
+      "updatedTime": "07/11/2020 22:26:36",
       "note": "",
       "stateCode": "AP",
       "today": {
@@ -59,7 +59,7 @@
       "active": 33320,
       "recovered": 799439,
       "dead": 11369,
-      "updatedTime": "07/11/2020 22:19:31",
+      "updatedTime": "07/11/2020 22:26:42",
       "note": "",
       "stateCode": "KA",
       "today": {
@@ -179,7 +179,7 @@
       "active": 35088,
       "recovered": 359071,
       "dead": 7235,
-      "updatedTime": "07/11/2020 22:19:34",
+      "updatedTime": "07/11/2020 22:26:48",
       "note": "",
       "stateCode": "WB",
       "today": {
@@ -311,7 +311,7 @@
       "testing_data": {
         "tested": 3865194,
         "positive": 0,
-        "negative": 365279,
+        "negative": 3652769,
         "unconfirmed": 2987,
         "date": "07/11/2020",
         "source": "https://twitter.com/airnews_jaipur/status/1325060466855481345?s=20"
@@ -429,12 +429,12 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 2706741,
+        "tested": 2726398,
         "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "06/11/2020",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/3542"
+        "date": "07/11/2020",
+        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/3564"
       }
     },
     "JH": {
@@ -487,18 +487,18 @@
     },
     "UT": {
       "name": "Uttarakhand",
-      "confirmed": 64538,
-      "active": 3736,
-      "recovered": 59227,
-      "dead": 1056,
-      "updatedTime": "06/11/2020 23:15:32",
+      "confirmed": 65036,
+      "active": 3890,
+      "recovered": 59564,
+      "dead": 1063,
+      "updatedTime": "07/11/2020 22:38:21",
       "note": "[Oct 17]: 89 back-dated deaths included",
       "stateCode": "UT",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 498,
+        "recovered": 337,
+        "dead": 7,
+        "active": 154
       },
       "testing_data": {
         "tested": 1099557,
@@ -645,12 +645,12 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 329760,
+        "tested": 331244,
         "positive": 0,
-        "negative": 302951,
-        "unconfirmed": 43,
-        "date": "06/11/2020",
-        "source": "https://twitter.com/DirectorateofHS/status/1324751769897889792"
+        "negative": 304308,
+        "unconfirmed": 45,
+        "date": "07/11/2020",
+        "source": "https://twitter.com/DirectorateofHS/status/1325121034303885313"
       }
     },
     "CH": {
@@ -751,18 +751,18 @@
     },
     "AN": {
       "name": "Andaman and Nicobar",
-      "confirmed": 4420,
-      "active": 166,
-      "recovered": 4194,
+      "confirmed": 4441,
+      "active": 175,
+      "recovered": 4206,
       "dead": 60,
-      "updatedTime": "06/11/2020 23:56:29",
+      "updatedTime": "07/11/2020 22:38:24",
       "note": "",
       "stateCode": "AN",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 21,
+        "recovered": 12,
         "dead": 0,
-        "active": 0
+        "active": 9
       },
       "testing_data": {
         "tested": 96214,
@@ -789,12 +789,12 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 57670,
+        "tested": 57963,
         "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "06/11/2020",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/3550"
+        "date": "07/11/2020",
+        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/3565"
       }
     },
     "DN": {
@@ -880,19 +880,19 @@
     }
   },
   "testing_data": {
-    "tested": 125159183,
+    "tested": 125180617,
     "positive": 663926,
-    "negative": 14640946,
-    "unconfirmed": 28607
+    "negative": 17929793,
+    "unconfirmed": 28609
   },
   "testing_data_imcr": {
     "tested": 116542304,
     "source": "http://twitter.com/ICMRDELHI/status/1324920723220037632"
   },
   "today": {
-    "confirmed": 26191,
-    "recovered": 27673,
-    "dead": 381,
-    "active": -1863
+    "confirmed": 26710,
+    "recovered": 28022,
+    "dead": 388,
+    "active": -1700
   }
 }
