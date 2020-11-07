@@ -1,9 +1,9 @@
 {
-  "confirmed": 8464032,
-  "recovered": 7819720,
-  "dead": 125630,
-  "active": 516861,
-  "updatedTime": "07/11/2020 13:07:26",
+  "confirmed": 8467277,
+  "recovered": 7823418,
+  "dead": 125667,
+  "active": 516371,
+  "updatedTime": "07/11/2020 17:57:22",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -45,12 +45,12 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 8507230,
+        "tested": 8587312,
         "positive": 0,
-        "negative": 7668867,
+        "negative": 0,
         "unconfirmed": 0,
-        "date": "06/11/2020",
-        "source": "https://twitter.com/ArogyaAndhra/status/1324690341811818499?s=20"
+        "date": "07/11/2020",
+        "source": "https://twitter.com/ArogyaAndhra/status/1325050195411759104?s=20"
       }
     },
     "KA": {
@@ -103,18 +103,18 @@
     },
     "UP": {
       "name": "Uttar Pradesh",
-      "confirmed": 493527,
-      "active": 23132,
-      "recovered": 463240,
-      "dead": 7155,
-      "updatedTime": "06/11/2020 21:28:01",
+      "confirmed": 495421,
+      "active": 22991,
+      "recovered": 465250,
+      "dead": 7180,
+      "updatedTime": "07/11/2020 17:57:24",
       "note": "",
       "stateCode": "UP",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 1894,
+        "recovered": 2010,
+        "dead": 25,
+        "active": -141
       },
       "testing_data": {
         "tested": 15762543,
@@ -247,26 +247,26 @@
     },
     "BR": {
       "name": "Bihar",
-      "confirmed": 220992,
-      "active": 6951,
-      "recovered": 212911,
-      "dead": 1129,
-      "updatedTime": "06/11/2020 21:18:30",
+      "confirmed": 221811,
+      "active": 6763,
+      "recovered": 213911,
+      "dead": 1136,
+      "updatedTime": "07/11/2020 17:57:26",
       "note": "",
       "stateCode": "BR",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 819,
+        "recovered": 1000,
+        "dead": 7,
+        "active": -188
       },
       "testing_data": {
-        "tested": 11738124,
+        "tested": 11867267,
         "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "06/11/2020",
-        "source": "https://twitter.com/BiharHealthDept/status/1324675202777640969/photo/1"
+        "date": "07/11/2020",
+        "source": ""
       }
     },
     "AS": {
@@ -463,18 +463,18 @@
     },
     "JK": {
       "name": "Jammu and Kashmir",
-      "confirmed": 97805,
-      "active": 5745,
-      "recovered": 90537,
-      "dead": 1523,
-      "updatedTime": "06/11/2020 20:52:31",
+      "confirmed": 98337,
+      "active": 5584,
+      "recovered": 91225,
+      "dead": 1528,
+      "updatedTime": "07/11/2020 17:57:28",
       "note": "",
       "stateCode": "JK",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 532,
+        "recovered": 688,
+        "dead": 5,
+        "active": -161
       },
       "testing_data": {
         "tested": 2439196,
@@ -765,12 +765,12 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 94639,
-        "positive": 4403,
+        "tested": 96214,
+        "positive": 4420,
         "negative": 0,
-        "unconfirmed": 65,
-        "date": "05/11/2020",
-        "source": "https://dhs.andaman.gov.in/NewEvents/455.pdf"
+        "unconfirmed": 54,
+        "date": "06/11/2020",
+        "source": "https://dhs.andaman.gov.in/NewEvents/456.pdf"
       }
     },
     "SK": {
@@ -880,19 +880,19 @@
     }
   },
   "testing_data": {
-    "tested": 124204980,
-    "positive": 656295,
-    "negative": 25456102,
-    "unconfirmed": 27424
+    "tested": 124415780,
+    "positive": 656312,
+    "negative": 17787235,
+    "unconfirmed": 27413
   },
   "testing_data_imcr": {
     "tested": 116542304,
     "source": "http://twitter.com/ICMRDELHI/status/1324920723220037632"
   },
   "today": {
-    "confirmed": 3066,
-    "recovered": 1063,
-    "dead": 25,
-    "active": 1978
+    "confirmed": 6311,
+    "recovered": 4761,
+    "dead": 62,
+    "active": 1488
   }
 }
