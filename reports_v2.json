@@ -1,9 +1,9 @@
 {
-  "confirmed": 8519495,
-  "recovered": 7879478,
-  "dead": 126235,
-  "active": 511950,
-  "updatedTime": "08/11/2020 19:48:27",
+  "confirmed": 8520495,
+  "recovered": 7881523,
+  "dead": 126248,
+  "active": 510892,
+  "updatedTime": "08/11/2020 21:04:21",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -21,12 +21,12 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 9378531,
+        "tested": 9440535,
         "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "07/11/2020",
-        "source": "https://twitter.com/ANI/status/1325063309196890115?s=20"
+        "date": "08/11/2020",
+        "source": "https://twitter.com/ANI/status/1325454244930064384?s=20"
       }
     },
     "AP": {
@@ -189,28 +189,28 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 4869554,
+        "tested": 4914741,
         "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "07/11/2020",
-        "source": "https://www.wbhealth.gov.in/uploaded_files/corona/WB_DHFW_Bulletin_7th_NOVEMBER_REPORT_FINAL.pdf"
+        "date": "08/11/2020",
+        "source": "https://www.wbhealth.gov.in/uploaded_files/corona/WB_DHFW_Bulletin_8th_NOVEMBER_REPORT_FINAL.pdf"
       }
     },
     "OR": {
       "name": "Odisha",
       "confirmed": 301574,
-      "active": 13239,
-      "recovered": 286857,
+      "active": 11928,
+      "recovered": 288168,
       "dead": 1478,
-      "updatedTime": "08/11/2020 15:03:31",
+      "updatedTime": "08/11/2020 21:02:29",
       "note": "[July 12th] :20 non-covid deaths reported in state dashboard are included in the deceased count\n[June 22nd]: NDRF/ODRF cases have been redistributed to districts based on state dashboard",
       "stateCode": "OR",
       "today": {
         "confirmed": 1434,
-        "recovered": 0,
+        "recovered": 1311,
         "dead": 15,
-        "active": 1419
+        "active": 108
       },
       "testing_data": {
         "tested": 4939390,
@@ -367,26 +367,26 @@
     },
     "MP": {
       "name": "Madhya Pradesh",
-      "confirmed": 176468,
-      "active": 7736,
-      "recovered": 165715,
-      "dead": 3017,
-      "updatedTime": "07/11/2020 20:19:18",
+      "confirmed": 177359,
+      "active": 7928,
+      "recovered": 166403,
+      "dead": 3028,
+      "updatedTime": "08/11/2020 21:04:23",
       "note": "[Oct 14]: 4469 confirmed cases and 4469 recoveries added in MP bulletin as reconciliation with private labs and hospitals",
       "stateCode": "MP",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 891,
+        "recovered": 688,
+        "dead": 11,
+        "active": 192
       },
       "testing_data": {
-        "tested": 3123070,
+        "tested": 3151590,
         "positive": 0,
-        "negative": 2873976,
+        "negative": 2901605,
         "unconfirmed": 0,
-        "date": "07/11/2020",
-        "source": "https://twitter.com/healthminmp/status/1325076173412474880?s=20"
+        "date": "08/11/2020",
+        "source": "https://twitter.com/healthminmp/status/1325444475955499009?s=20"
       }
     },
     "HR": {
@@ -655,26 +655,26 @@
     },
     "CH": {
       "name": "Chandigarh",
-      "confirmed": 15025,
-      "active": 815,
-      "recovered": 13978,
-      "dead": 232,
-      "updatedTime": "07/11/2020 19:57:38",
+      "confirmed": 15134,
+      "active": 876,
+      "recovered": 14024,
+      "dead": 234,
+      "updatedTime": "08/11/2020 21:04:26",
       "note": "",
       "stateCode": "CH",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 109,
+        "recovered": 46,
+        "dead": 2,
+        "active": 61
       },
       "testing_data": {
-        "tested": 114773,
+        "tested": 115589,
         "positive": 0,
-        "negative": 99037,
-        "unconfirmed": 127,
-        "date": "07/11/2020",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/3561"
+        "negative": 99769,
+        "unconfirmed": 106,
+        "date": "08/11/2020",
+        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/3580"
       }
     },
     "ML": {
@@ -880,19 +880,19 @@
     }
   },
   "testing_data": {
-    "tested": 125792856,
+    "tested": 125929383,
     "positive": 664009,
-    "negative": 25829223,
-    "unconfirmed": 24249
+    "negative": 25857584,
+    "unconfirmed": 24228
   },
   "testing_data_imcr": {
     "tested": 117736791,
     "source": "http://twitter.com/ICMRDELHI/status/1325288495703732224"
   },
   "today": {
-    "confirmed": 12291,
-    "recovered": 12187,
-    "dead": 72,
-    "active": 32
+    "confirmed": 13291,
+    "recovered": 14232,
+    "dead": 85,
+    "active": -1026
   }
 }
