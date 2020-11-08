@@ -1,9 +1,9 @@
 {
-  "confirmed": 8541173,
-  "recovered": 7904079,
-  "dead": 126525,
-  "active": 508737,
-  "updatedTime": "08/11/2020 22:27:25",
+  "confirmed": 8550292,
+  "recovered": 7912405,
+  "dead": 126615,
+  "active": 509440,
+  "updatedTime": "08/11/2020 23:59:27",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -151,18 +151,18 @@
     },
     "DL": {
       "name": "Delhi",
-      "confirmed": 430784,
-      "active": 40258,
-      "recovered": 383614,
-      "dead": 6912,
-      "updatedTime": "07/11/2020 23:03:20",
+      "confirmed": 438529,
+      "active": 41857,
+      "recovered": 389683,
+      "dead": 6989,
+      "updatedTime": "08/11/2020 23:59:31",
       "note": "[July 14]: Value for the total tests conducted has been reduced by 97008 in the state bulletin. Reason given : \"Reconciled with ICMR figures\". We have made the same change.\n[June 16]: 344 deceased cases have been retroactively added to DL bulletin.",
       "stateCode": "DL",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 7745,
+        "recovered": 6069,
+        "dead": 77,
+        "active": 1599
       },
       "testing_data": {
         "tested": 5049020,
@@ -271,18 +271,18 @@
     },
     "AS": {
       "name": "Assam",
-      "confirmed": 208790,
-      "active": 6512,
+      "confirmed": 208789,
+      "active": 6511,
       "recovered": 201331,
       "dead": 944,
-      "updatedTime": "08/11/2020 22:27:37",
+      "updatedTime": "08/11/2020 23:59:34",
       "note": "",
       "stateCode": "AS",
       "today": {
-        "confirmed": 153,
+        "confirmed": 152,
         "recovered": 395,
         "dead": 4,
-        "active": -246
+        "active": -247
       },
       "testing_data": {
         "tested": 4845718,
@@ -319,18 +319,18 @@
     },
     "CT": {
       "name": "Chhattisgarh",
-      "confirmed": 199562,
-      "active": 23256,
-      "recovered": 173872,
-      "dead": 2434,
-      "updatedTime": "07/11/2020 23:57:21",
+      "confirmed": 200937,
+      "active": 22361,
+      "recovered": 176129,
+      "dead": 2447,
+      "updatedTime": "08/11/2020 23:59:37",
       "note": "",
       "stateCode": "CT",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 1375,
+        "recovered": 2257,
+        "dead": 13,
+        "active": -895
       },
       "testing_data": {
         "tested": 1991002,
@@ -890,9 +890,9 @@
     "source": "http://twitter.com/ICMRDELHI/status/1325288495703732224"
   },
   "today": {
-    "confirmed": 33969,
-    "recovered": 36788,
-    "dead": 362,
-    "active": -3181
+    "confirmed": 43088,
+    "recovered": 45114,
+    "dead": 452,
+    "active": -2478
   }
 }
