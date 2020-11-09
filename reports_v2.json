@@ -1,9 +1,9 @@
 {
-  "confirmed": 8575297,
-  "recovered": 7939545,
-  "dead": 126849,
-  "active": 507064,
-  "updatedTime": "09/11/2020 20:13:19",
+  "confirmed": 8576689,
+  "recovered": 7941094,
+  "dead": 126860,
+  "active": 506896,
+  "updatedTime": "09/11/2020 20:21:19",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -29,30 +29,6 @@
         "source": "https://twitter.com/ANI/status/1325454244930064384?s=20"
       }
     },
-    "AP": {
-      "name": "Andhra Pradesh",
-      "confirmed": 842967,
-      "active": 21403,
-      "recovered": 814773,
-      "dead": 6791,
-      "updatedTime": "08/11/2020 18:26:28",
-      "note": "",
-      "stateCode": "AP",
-      "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
-      },
-      "testing_data": {
-        "tested": 8725025,
-        "positive": 0,
-        "negative": 7880666,
-        "unconfirmed": 0,
-        "date": "09/11/2020",
-        "source": "https://twitter.com/ArogyaAndhra/status/1325782164215005185?s=20"
-      }
-    },
     "KA": {
       "name": "Karnataka",
       "confirmed": 846887,
@@ -75,6 +51,30 @@
         "unconfirmed": 0,
         "date": "08/11/2020",
         "source": "https://t.co/3iLJ1Nz9UY?amp=1"
+      }
+    },
+    "AP": {
+      "name": "Andhra Pradesh",
+      "confirmed": 844359,
+      "active": 21235,
+      "recovered": 816322,
+      "dead": 6802,
+      "updatedTime": "08/11/2020 18:26:28",
+      "note": "",
+      "stateCode": "AP",
+      "today": {
+        "confirmed": 1392,
+        "recovered": 1549,
+        "dead": 11,
+        "active": -168
+      },
+      "testing_data": {
+        "tested": 8725025,
+        "positive": 0,
+        "negative": 7880666,
+        "unconfirmed": 0,
+        "date": "09/11/2020",
+        "source": "https://twitter.com/ArogyaAndhra/status/1325782164215005185?s=20"
       }
     },
     "TN": {
@@ -107,7 +107,7 @@
       "active": 22956,
       "recovered": 469003,
       "dead": 7231,
-      "updatedTime": "09/11/2020 20:11:20",
+      "updatedTime": "09/11/2020 20:16:26",
       "note": "",
       "stateCode": "UP",
       "today": {
@@ -269,30 +269,6 @@
         "source": "https://twitter.com/BiharHealthDept/status/1325767815811399680?s=20"
       }
     },
-    "AS": {
-      "name": "Assam",
-      "confirmed": 208789,
-      "active": 6511,
-      "recovered": 201331,
-      "dead": 944,
-      "updatedTime": "09/11/2020 00:11:39",
-      "note": "",
-      "stateCode": "AS",
-      "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
-      },
-      "testing_data": {
-        "tested": 4845718,
-        "positive": 0,
-        "negative": 0,
-        "unconfirmed": 0,
-        "date": "08/11/2020",
-        "source": "https://twitter.com/himantabiswa/status/1325464838009544704?s=20"
-      }
-    },
     "RJ": {
       "name": "Rajasthan",
       "confirmed": 213169,
@@ -315,6 +291,30 @@
         "unconfirmed": 816,
         "date": "09/11/2020",
         "source": "https://twitter.com/airnews_jaipur/status/1325784600778477568?s=20"
+      }
+    },
+    "AS": {
+      "name": "Assam",
+      "confirmed": 208789,
+      "active": 6511,
+      "recovered": 201331,
+      "dead": 944,
+      "updatedTime": "09/11/2020 00:11:39",
+      "note": "",
+      "stateCode": "AS",
+      "today": {
+        "confirmed": 0,
+        "recovered": 0,
+        "dead": 0,
+        "active": 0
+      },
+      "testing_data": {
+        "tested": 4845718,
+        "positive": 0,
+        "negative": 0,
+        "unconfirmed": 0,
+        "date": "08/11/2020",
+        "source": "https://twitter.com/himantabiswa/status/1325464838009544704?s=20"
       }
     },
     "CT": {
@@ -341,13 +341,37 @@
         "source": "https://twitter.com/HealthCgGov/status/1325495503925075968"
       }
     },
+    "HR": {
+      "name": "Haryana",
+      "confirmed": 185231,
+      "active": 16717,
+      "recovered": 166595,
+      "dead": 1919,
+      "updatedTime": "09/11/2020 20:21:22",
+      "note": "",
+      "stateCode": "HR",
+      "today": {
+        "confirmed": 2427,
+        "recovered": 2151,
+        "dead": 7,
+        "active": 269
+      },
+      "testing_data": {
+        "tested": 2852300,
+        "positive": 0,
+        "negative": 2662908,
+        "unconfirmed": 4161,
+        "date": "09/11/2020",
+        "source": "http://www.nhmharyana.gov.in/WriteReadData/userfiles/file/CoronaVirus/Daily%20Bulletin%20of%20COVID%2019%20as%20on%2009-11-20.pdf"
+      }
+    },
     "GJ": {
       "name": "Gujarat",
       "confirmed": 181670,
       "active": 12213,
       "recovered": 165689,
       "dead": 3768,
-      "updatedTime": "09/11/2020 20:11:22",
+      "updatedTime": "09/11/2020 20:16:31",
       "note": "",
       "stateCode": "GJ",
       "today": {
@@ -371,7 +395,7 @@
       "active": 8050,
       "recovered": 167084,
       "dead": 3034,
-      "updatedTime": "09/11/2020 20:13:22",
+      "updatedTime": "09/11/2020 20:21:23",
       "note": "[Oct 14]: 4469 confirmed cases and 4469 recoveries added in MP bulletin as reconciliation with private labs and hospitals",
       "stateCode": "MP",
       "today": {
@@ -387,30 +411,6 @@
         "unconfirmed": 0,
         "date": "09/11/2020",
         "source": "https://twitter.com/healthminmp/status/1325801890337218560?s=20"
-      }
-    },
-    "HR": {
-      "name": "Haryana",
-      "confirmed": 185231,
-      "active": 16717,
-      "recovered": 166595,
-      "dead": 1919,
-      "updatedTime": "09/11/2020 20:13:24",
-      "note": "",
-      "stateCode": "HR",
-      "today": {
-        "confirmed": 2427,
-        "recovered": 2151,
-        "dead": 7,
-        "active": 269
-      },
-      "testing_data": {
-        "tested": 2852300,
-        "positive": 0,
-        "negative": 2662908,
-        "unconfirmed": 4161,
-        "date": "09/11/2020",
-        "source": "http://www.nhmharyana.gov.in/WriteReadData/userfiles/file/CoronaVirus/Daily%20Bulletin%20of%20COVID%2019%20as%20on%2009-11-20.pdf"
       }
     },
     "PB": {
@@ -611,7 +611,7 @@
       "active": 3101,
       "recovered": 17259,
       "dead": 198,
-      "updatedTime": "08/11/2020 22:01:03",
+      "updatedTime": "09/11/2020 20:21:26",
       "note": "",
       "stateCode": "MN",
       "today": {
@@ -890,9 +890,9 @@
     "source": "http://twitter.com/ICMRDELHI/status/1325646872417988608"
   },
   "today": {
-    "confirmed": 21386,
-    "recovered": 23789,
-    "dead": 195,
-    "active": -2598
+    "confirmed": 22778,
+    "recovered": 25338,
+    "dead": 206,
+    "active": -2766
   }
 }
