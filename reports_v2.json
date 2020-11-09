@@ -1,9 +1,9 @@
 {
   "confirmed": 8576689,
   "recovered": 7941094,
-  "dead": 126860,
-  "active": 506896,
-  "updatedTime": "09/11/2020 20:21:19",
+  "dead": 126864,
+  "active": 506892,
+  "updatedTime": "09/11/2020 20:40:19",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -59,7 +59,7 @@
       "active": 21235,
       "recovered": 816322,
       "dead": 6802,
-      "updatedTime": "08/11/2020 18:26:28",
+      "updatedTime": "09/11/2020 20:40:21",
       "note": "",
       "stateCode": "AP",
       "today": {
@@ -142,7 +142,7 @@
       },
       "testing_data": {
         "tested": 5130922,
-        "positive": 489702,
+        "positive": 489704,
         "negative": 0,
         "unconfirmed": 0,
         "date": "09/11/2020",
@@ -296,17 +296,17 @@
     "AS": {
       "name": "Assam",
       "confirmed": 208789,
-      "active": 6511,
+      "active": 6507,
       "recovered": 201331,
-      "dead": 944,
-      "updatedTime": "09/11/2020 00:11:39",
+      "dead": 948,
+      "updatedTime": "09/11/2020 20:40:23",
       "note": "",
       "stateCode": "AS",
       "today": {
         "confirmed": 0,
         "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "dead": 4,
+        "active": -4
       },
       "testing_data": {
         "tested": 4845718,
@@ -881,7 +881,7 @@
   },
   "testing_data": {
     "tested": 127059881,
-    "positive": 673394,
+    "positive": 673396,
     "negative": 26035501,
     "unconfirmed": 26889
   },
@@ -892,7 +892,7 @@
   "today": {
     "confirmed": 22778,
     "recovered": 25338,
-    "dead": 206,
-    "active": -2766
+    "dead": 210,
+    "active": -2770
   }
 }
