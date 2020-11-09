@@ -1,9 +1,9 @@
 {
-  "confirmed": 8555109,
-  "recovered": 7915767,
-  "dead": 126671,
-  "active": 510832,
-  "updatedTime": "09/11/2020 12:46:28",
+  "confirmed": 8556878,
+  "recovered": 7918221,
+  "dead": 126683,
+  "active": 510135,
+  "updatedTime": "09/11/2020 17:41:25",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -223,18 +223,18 @@
     },
     "TG": {
       "name": "Telangana",
-      "confirmed": 250331,
-      "active": 19890,
-      "recovered": 229064,
-      "dead": 1377,
-      "updatedTime": "08/11/2020 15:03:34",
+      "confirmed": 251188,
+      "active": 19239,
+      "recovered": 230568,
+      "dead": 1381,
+      "updatedTime": "09/11/2020 17:41:29",
       "note": "[July 27] : Telangana bulletin for the previous day is released on the next day. We will add the cases for Telangana against the date of release, as that is the convention that we are following for other states.\n--\nDistrict-wise numbers are not reported because cumulative counts for each district are not provided in Telangana bulletin",
       "stateCode": "TG",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 857,
+        "recovered": 1504,
+        "dead": 4,
+        "active": -651
       },
       "testing_data": {
         "tested": 4642276,
@@ -247,18 +247,18 @@
     },
     "BR": {
       "name": "Bihar",
-      "confirmed": 222612,
-      "active": 6731,
-      "recovered": 214736,
-      "dead": 1144,
-      "updatedTime": "08/11/2020 19:37:24",
+      "confirmed": 223477,
+      "active": 6738,
+      "recovered": 215587,
+      "dead": 1151,
+      "updatedTime": "09/11/2020 17:41:31",
       "note": "",
       "stateCode": "BR",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 865,
+        "recovered": 851,
+        "dead": 7,
+        "active": 7
       },
       "testing_data": {
         "tested": 11989797,
@@ -631,11 +631,11 @@
     },
     "AR": {
       "name": "Arunachal Pradesh",
-      "confirmed": 15389,
-      "active": 1559,
-      "recovered": 13785,
-      "dead": 45,
-      "updatedTime": "08/11/2020 01:20:27",
+      "confirmed": 15436,
+      "active": 1509,
+      "recovered": 13881,
+      "dead": 46,
+      "updatedTime": "09/11/2020 17:41:34",
       "note": "[July 25]: All numbers corresponding to Papum Pare and Captial Complex are tracked under Papum Pare district.",
       "stateCode": "AR",
       "today": {
@@ -800,17 +800,17 @@
     "DN": {
       "name": "Dadra and Nagar Haveli and Daman and Diu",
       "confirmed": 3269,
-      "active": 25,
-      "recovered": 3215,
+      "active": 22,
+      "recovered": 3218,
       "dead": 2,
-      "updatedTime": "08/11/2020 21:31:41",
+      "updatedTime": "09/11/2020 17:41:37",
       "note": "",
       "stateCode": "DN",
       "today": {
         "confirmed": 0,
-        "recovered": 0,
+        "recovered": 3,
         "dead": 0,
-        "active": 0
+        "active": -3
       },
       "isUnknown": true
     },
@@ -890,9 +890,9 @@
     "source": "http://twitter.com/ICMRDELHI/status/1325646872417988608"
   },
   "today": {
-    "confirmed": 1245,
-    "recovered": 107,
-    "dead": 18,
-    "active": 1120
+    "confirmed": 2967,
+    "recovered": 2465,
+    "dead": 29,
+    "active": 473
   }
 }
