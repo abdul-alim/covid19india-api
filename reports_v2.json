@@ -1,9 +1,9 @@
 {
-  "confirmed": 8617959,
-  "recovered": 7987854,
-  "dead": 127319,
-  "active": 500925,
-  "updatedTime": "10/11/2020 21:42:27",
+  "confirmed": 8618059,
+  "recovered": 7987969,
+  "dead": 127321,
+  "active": 500908,
+  "updatedTime": "10/11/2020 22:03:22",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -491,7 +491,7 @@
       "active": 3955,
       "recovered": 60429,
       "dead": 1080,
-      "updatedTime": "10/11/2020 21:41:31",
+      "updatedTime": "10/11/2020 21:49:36",
       "note": "[Oct 17]: 89 back-dated deaths included",
       "stateCode": "UT",
       "today": {
@@ -535,18 +535,18 @@
     },
     "PY": {
       "name": "Puducherry",
-      "confirmed": 35900,
-      "active": 1086,
-      "recovered": 34212,
-      "dead": 602,
-      "updatedTime": "09/11/2020 19:12:18",
+      "confirmed": 36000,
+      "active": 1071,
+      "recovered": 34325,
+      "dead": 604,
+      "updatedTime": "10/11/2020 22:03:25",
       "note": "",
       "stateCode": "PY",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 100,
+        "recovered": 113,
+        "dead": 2,
+        "active": -15
       },
       "testing_data": {
         "tested": 347785,
@@ -554,7 +554,7 @@
         "negative": 306196,
         "unconfirmed": 1358,
         "date": "10/11/2020",
-        "source": "https://health.py.gov.in/"
+        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/3626"
       }
     },
     "TR": {
@@ -693,12 +693,12 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 212448,
+        "tested": 213973,
         "positive": 0,
-        "negative": 202218,
+        "negative": 203677,
         "unconfirmed": 0,
-        "date": "09/11/2020",
-        "source": "https://twitter.com/PIBShillong/status/1325832255348989958"
+        "date": "10/11/2020",
+        "source": "https://www.syllad.com/meghalaya-129-more-recovered-from-covid-19-67-new-cases-detected/"
       }
     },
     "NL": {
@@ -741,12 +741,12 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 80291,
+        "tested": 81433,
         "positive": 0,
-        "negative": 69383,
-        "unconfirmed": 602,
-        "date": "07/11/2020",
-        "source": "https://twitter.com/DIPR_Leh/status/1325435437146464258/photo/3"
+        "negative": 0,
+        "unconfirmed": 0,
+        "date": "09/11/2020",
+        "source": "https://twitter.com/DIPR_Leh/status/1326152625402699777/photo/1"
       }
     },
     "AN": {
@@ -800,17 +800,17 @@
     "DN": {
       "name": "Dadra and Nagar Haveli and Daman and Diu",
       "confirmed": 3270,
-      "active": 21,
-      "recovered": 3220,
+      "active": 19,
+      "recovered": 3222,
       "dead": 2,
-      "updatedTime": "10/11/2020 21:41:35",
+      "updatedTime": "10/11/2020 22:03:28",
       "note": "",
       "stateCode": "DN",
       "today": {
         "confirmed": 1,
-        "recovered": 2,
+        "recovered": 4,
         "dead": 0,
-        "active": -1
+        "active": -3
       },
       "isUnknown": true
     },
@@ -820,7 +820,7 @@
       "active": 470,
       "recovered": 2684,
       "dead": 2,
-      "updatedTime": "10/11/2020 21:41:38",
+      "updatedTime": "10/11/2020 21:49:57",
       "note": "",
       "stateCode": "MZ",
       "today": {
@@ -880,19 +880,19 @@
     }
   },
   "testing_data": {
-    "tested": 128281718,
+    "tested": 128284385,
     "positive": 680161,
-    "negative": 26280890,
-    "unconfirmed": 28994
+    "negative": 26212966,
+    "unconfirmed": 28392
   },
   "testing_data_imcr": {
     "tested": 119615857,
     "source": "https://www.icmr.gov.in/pdf/covid/update/ICMR_testing_update_10Nov2020.pdf"
   },
   "today": {
-    "confirmed": 26884,
-    "recovered": 30648,
-    "dead": 215,
-    "active": -3979
+    "confirmed": 26984,
+    "recovered": 30763,
+    "dead": 217,
+    "active": -3996
   }
 }
