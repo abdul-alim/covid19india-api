@@ -1,9 +1,9 @@
 {
-  "confirmed": 8621871,
-  "recovered": 7998866,
-  "dead": 127431,
-  "active": 493698,
-  "updatedTime": "10/11/2020 22:48:31",
+  "confirmed": 8629701,
+  "recovered": 8005023,
+  "dead": 127514,
+  "active": 495288,
+  "updatedTime": "10/11/2020 22:54:35",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -11,7 +11,7 @@
       "active": 92461,
       "recovered": 1588091,
       "dead": 45435,
-      "updatedTime": "10/11/2020 22:47:39",
+      "updatedTime": "10/11/2020 22:54:39",
       "note": "[Sep 9] :239 cases have been removed from the hospitalized figures owing to the removal of duplicates and change of addresses as per the original residence,\n[Aug 15] : MH bulletin has reduced 819 confirmed cases in Mumbai and 72 confirmed cases from 'Other States' from the tally\n[Jun 16] : 1328 deceased cases have been retroactively added to MH bulletin.\n[Jun 20] : 69 deceased cases have been reduced based on state bulletin.",
       "stateCode": "MH",
       "today": {
@@ -151,18 +151,18 @@
     },
     "DL": {
       "name": "Delhi",
-      "confirmed": 443552,
-      "active": 39795,
-      "recovered": 396697,
-      "dead": 7060,
-      "updatedTime": "09/11/2020 22:27:22",
+      "confirmed": 451382,
+      "active": 41385,
+      "recovered": 402854,
+      "dead": 7143,
+      "updatedTime": "10/11/2020 22:54:42",
       "note": "[July 14]: Value for the total tests conducted has been reduced by 97008 in the state bulletin. Reason given : \"Reconciled with ICMR figures\". We have made the same change.\n[June 16]: 344 deceased cases have been retroactively added to DL bulletin.",
       "stateCode": "DL",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 7830,
+        "recovered": 6157,
+        "dead": 83,
+        "active": 1590
       },
       "testing_data": {
         "tested": 5197924,
@@ -309,12 +309,12 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 4874244,
+        "tested": 4899583,
         "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "09/11/2020",
-        "source": "https://twitter.com/himantabiswa/status/1325817010459045888?s=20"
+        "date": "10/11/2020",
+        "source": "https://twitter.com/himantabiswa/status/1326212569506328576"
       }
     },
     "CT": {
@@ -731,7 +731,7 @@
       "active": 846,
       "recovered": 6003,
       "dead": 85,
-      "updatedTime": "10/11/2020 22:47:46",
+      "updatedTime": "10/11/2020 22:54:45",
       "note": "[Sep 08] : Testing details are not available in Ladakh bulletin from Sep 06 onwards",
       "stateCode": "LA",
       "today": {
@@ -880,7 +880,7 @@
     }
   },
   "testing_data": {
-    "tested": 128345861,
+    "tested": 128371200,
     "positive": 680161,
     "negative": 26215261,
     "unconfirmed": 28392
@@ -890,9 +890,9 @@
     "source": "https://www.icmr.gov.in/pdf/covid/update/ICMR_testing_update_10Nov2020.pdf"
   },
   "today": {
-    "confirmed": 30841,
-    "recovered": 41661,
-    "dead": 327,
-    "active": -11147
+    "confirmed": 38671,
+    "recovered": 47818,
+    "dead": 410,
+    "active": -9557
   }
 }
