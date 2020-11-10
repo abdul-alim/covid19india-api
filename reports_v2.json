@@ -1,9 +1,9 @@
 {
-  "confirmed": 8617898,
-  "recovered": 7987805,
+  "confirmed": 8617959,
+  "recovered": 7987854,
   "dead": 127319,
-  "active": 500923,
-  "updatedTime": "10/11/2020 21:23:36",
+  "active": 500925,
+  "updatedTime": "10/11/2020 21:42:27",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -35,7 +35,7 @@
       "active": 31063,
       "recovered": 808700,
       "dead": 11430,
-      "updatedTime": "10/11/2020 21:23:39",
+      "updatedTime": "10/11/2020 21:36:23",
       "note": "",
       "stateCode": "KA",
       "today": {
@@ -59,7 +59,7 @@
       "active": 20958,
       "recovered": 818473,
       "dead": 6814,
-      "updatedTime": "10/11/2020 21:23:42",
+      "updatedTime": "10/11/2020 21:36:25",
       "note": "",
       "stateCode": "AP",
       "today": {
@@ -83,7 +83,7 @@
       "active": 18709,
       "recovered": 718129,
       "dead": 11387,
-      "updatedTime": "10/11/2020 21:23:44",
+      "updatedTime": "10/11/2020 21:36:27",
       "note": "[July 22]: 444 backdated deceased entries added to Chennai in TN bulletin.\n2 deaths cross notified to other states from Chennai and Coimbatore.\n1 patient died after turning negative for infection in Chengalpattu.\nThese cases have been added to TN deceased tally",
       "stateCode": "TN",
       "today": {
@@ -117,12 +117,12 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 16227845,
+        "tested": 16377058,
         "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "09/11/2020",
-        "source": "https://twitter.com/ShishirGoUP/status/1325808902898806785?s=20"
+        "date": "10/11/2020",
+        "source": "https://twitter.com/AHindinews/status/1326110611638345728/photo/1"
       }
     },
     "KL": {
@@ -275,7 +275,7 @@
       "active": 16725,
       "recovered": 196338,
       "dead": 2008,
-      "updatedTime": "10/11/2020 21:23:46",
+      "updatedTime": "10/11/2020 21:36:29",
       "note": "",
       "stateCode": "RJ",
       "today": {
@@ -395,7 +395,7 @@
       "active": 8149,
       "recovered": 167877,
       "dead": 3042,
-      "updatedTime": "10/11/2020 21:23:48",
+      "updatedTime": "10/11/2020 21:36:31",
       "note": "[Oct 14]: 4469 confirmed cases and 4469 recoveries added in MP bulletin as reconciliation with private labs and hospitals",
       "stateCode": "MP",
       "today": {
@@ -488,10 +488,10 @@
     "UT": {
       "name": "Uttarakhand",
       "confirmed": 66005,
-      "active": 3965,
+      "active": 3955,
       "recovered": 60429,
       "dead": 1080,
-      "updatedTime": "10/11/2020 21:23:51",
+      "updatedTime": "10/11/2020 21:41:31",
       "note": "[Oct 17]: 89 back-dated deaths included",
       "stateCode": "UT",
       "today": {
@@ -549,12 +549,12 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 344064,
-        "positive": 40129,
-        "negative": 302901,
-        "unconfirmed": 1034,
-        "date": "09/11/2020",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/3604"
+        "tested": 347785,
+        "positive": 40231,
+        "negative": 306196,
+        "unconfirmed": 1358,
+        "date": "10/11/2020",
+        "source": "https://health.py.gov.in/"
       }
     },
     "TR": {
@@ -597,12 +597,12 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 435604,
+        "tested": 441200,
         "positive": 0,
-        "negative": 406871,
-        "unconfirmed": 2536,
-        "date": "9/11/2020",
-        "source": "https://twitter.com/nhm_hp/status/1325834440669499395"
+        "negative": 411724,
+        "unconfirmed": 2668,
+        "date": "10/11/2020",
+        "source": "https://twitter.com/nhm_hp/status/1326192765240143874"
       }
     },
     "MN": {
@@ -799,35 +799,35 @@
     },
     "DN": {
       "name": "Dadra and Nagar Haveli and Daman and Diu",
-      "confirmed": 3269,
-      "active": 22,
-      "recovered": 3218,
+      "confirmed": 3270,
+      "active": 21,
+      "recovered": 3220,
       "dead": 2,
-      "updatedTime": "09/11/2020 17:57:32",
+      "updatedTime": "10/11/2020 21:41:35",
       "note": "",
       "stateCode": "DN",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 1,
+        "recovered": 2,
         "dead": 0,
-        "active": 0
+        "active": -1
       },
       "isUnknown": true
     },
     "MZ": {
       "name": "Mizoram",
-      "confirmed": 3096,
-      "active": 457,
-      "recovered": 2637,
+      "confirmed": 3156,
+      "active": 470,
+      "recovered": 2684,
       "dead": 2,
-      "updatedTime": "09/11/2020 19:27:23",
+      "updatedTime": "10/11/2020 21:41:38",
       "note": "",
       "stateCode": "MZ",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 60,
+        "recovered": 47,
         "dead": 0,
-        "active": 0
+        "active": 13
       },
       "testing_data": {
         "tested": 124730,
@@ -880,19 +880,19 @@
     }
   },
   "testing_data": {
-    "tested": 128123188,
-    "positive": 680059,
-    "negative": 26272742,
-    "unconfirmed": 28538
+    "tested": 128281718,
+    "positive": 680161,
+    "negative": 26280890,
+    "unconfirmed": 28994
   },
   "testing_data_imcr": {
     "tested": 119615857,
     "source": "https://www.icmr.gov.in/pdf/covid/update/ICMR_testing_update_10Nov2020.pdf"
   },
   "today": {
-    "confirmed": 26823,
-    "recovered": 30599,
+    "confirmed": 26884,
+    "recovered": 30648,
     "dead": 215,
-    "active": -3991
+    "active": -3979
   }
 }
