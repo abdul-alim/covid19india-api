@@ -1,9 +1,9 @@
 {
-  "confirmed": 8638393,
-  "recovered": 8013848,
-  "dead": 127641,
-  "active": 495024,
-  "updatedTime": "11/11/2020 19:23:21",
+  "confirmed": 8645890,
+  "recovered": 8021650,
+  "dead": 127720,
+  "active": 494640,
+  "updatedTime": "11/11/2020 19:38:18",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -141,12 +141,12 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 5185673,
-        "positive": 495714,
+        "tested": 5249865,
+        "positive": 502721,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "10/11/2020",
-        "source": "https://dhs.kerala.gov.in/wp-content/uploads/2020/11/Bulletin-HFWD-English-November-10.pdf"
+        "date": "11/11/2020",
+        "source": "https://dhs.kerala.gov.in/wp-content/uploads/2020/11/Bulletin-HFWD-English-November-11.pdf"
       }
     },
     "DL": {
@@ -175,18 +175,18 @@
     },
     "WB": {
       "name": "West Bengal",
-      "confirmed": 413112,
-      "active": 33444,
-      "recovered": 372265,
-      "dead": 7403,
+      "confirmed": 416984,
+      "active": 32836,
+      "recovered": 376696,
+      "dead": 7452,
       "updatedTime": "10/11/2020 20:58:32",
       "note": "",
       "stateCode": "WB",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 3872,
+        "recovered": 2202,
         "dead": 0,
-        "active": 0
+        "active": 1670
       },
       "testing_data": {
         "tested": 5003204,
@@ -224,17 +224,17 @@
     "TG": {
       "name": "Telangana",
       "confirmed": 253651,
-      "active": 18117,
-      "recovered": 234144,
+      "active": 18027,
+      "recovered": 234234,
       "dead": 1390,
-      "updatedTime": "11/11/2020 19:23:23",
+      "updatedTime": "11/11/2020 19:38:20",
       "note": "[July 27] : Telangana bulletin for the previous day is released on the next day. We will add the cases for Telangana against the date of release, as that is the convention that we are following for other states.\n--\nDistrict-wise numbers are not reported because cumulative counts for each district are not provided in Telangana bulletin",
       "stateCode": "TG",
       "today": {
-        "confirmed": 790,
-        "recovered": 0,
-        "dead": 0,
-        "active": 790
+        "confirmed": 1196,
+        "recovered": 1835,
+        "dead": 5,
+        "active": -644
       },
       "testing_data": {
         "tested": 4729401,
@@ -247,18 +247,18 @@
     },
     "BR": {
       "name": "Bihar",
-      "confirmed": 224275,
-      "active": 6517,
-      "recovered": 216601,
-      "dead": 1156,
-      "updatedTime": "10/11/2020 19:13:28",
+      "confirmed": 224977,
+      "active": 6392,
+      "recovered": 217422,
+      "dead": 1162,
+      "updatedTime": "11/11/2020 19:38:21",
       "note": "",
       "stateCode": "BR",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 702,
+        "recovered": 821,
+        "dead": 6,
+        "active": -125
       },
       "testing_data": {
         "tested": 12374768,
@@ -271,18 +271,18 @@
     },
     "RJ": {
       "name": "Rajasthan",
-      "confirmed": 215071,
-      "active": 16725,
-      "recovered": 196338,
-      "dead": 2008,
-      "updatedTime": "10/11/2020 21:36:29",
+      "confirmed": 217151,
+      "active": 16993,
+      "recovered": 198139,
+      "dead": 2019,
+      "updatedTime": "11/11/2020 19:38:23",
       "note": "",
       "stateCode": "RJ",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 2080,
+        "recovered": 1801,
+        "dead": 11,
+        "active": 268
       },
       "testing_data": {
         "tested": 3921623,
@@ -463,18 +463,18 @@
     },
     "JK": {
       "name": "Jammu and Kashmir",
-      "confirmed": 99844,
-      "active": 5415,
-      "recovered": 92880,
-      "dead": 1549,
-      "updatedTime": "10/11/2020 19:05:27",
+      "confirmed": 100351,
+      "active": 5480,
+      "recovered": 93313,
+      "dead": 1558,
+      "updatedTime": "11/11/2020 19:38:25",
       "note": "",
       "stateCode": "JK",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 507,
+        "recovered": 433,
+        "dead": 9,
+        "active": 65
       },
       "testing_data": {
         "tested": 2529786,
@@ -515,7 +515,7 @@
       "active": 1813,
       "recovered": 43029,
       "dead": 656,
-      "updatedTime": "11/11/2020 19:23:25",
+      "updatedTime": "11/11/2020 19:30:34",
       "note": "",
       "stateCode": "GA",
       "today": {
@@ -539,7 +539,7 @@
       "active": 1077,
       "recovered": 34432,
       "dead": 605,
-      "updatedTime": "11/11/2020 19:23:27",
+      "updatedTime": "11/11/2020 19:30:40",
       "note": "",
       "stateCode": "PY",
       "today": {
@@ -607,18 +607,18 @@
     },
     "MN": {
       "name": "Manipur",
-      "confirmed": 20777,
-      "active": 3043,
-      "recovered": 17534,
-      "dead": 200,
-      "updatedTime": "11/11/2020 02:30:32",
+      "confirmed": 20957,
+      "active": 3057,
+      "recovered": 17698,
+      "dead": 202,
+      "updatedTime": "11/11/2020 19:38:27",
       "note": "",
       "stateCode": "MN",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 180,
+        "recovered": 164,
+        "dead": 2,
+        "active": 14
       },
       "testing_data": {
         "tested": 370815,
@@ -655,18 +655,18 @@
     },
     "CH": {
       "name": "Chandigarh",
-      "confirmed": 15339,
-      "active": 922,
-      "recovered": 14176,
-      "dead": 241,
-      "updatedTime": "10/11/2020 23:39:52",
+      "confirmed": 15434,
+      "active": 958,
+      "recovered": 14233,
+      "dead": 243,
+      "updatedTime": "11/11/2020 19:38:29",
       "note": "",
       "stateCode": "CH",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 95,
+        "recovered": 57,
+        "dead": 2,
+        "active": 36
       },
       "testing_data": {
         "tested": 118279,
@@ -800,34 +800,34 @@
     "DN": {
       "name": "Dadra and Nagar Haveli and Daman and Diu",
       "confirmed": 3270,
-      "active": 19,
-      "recovered": 3222,
+      "active": 18,
+      "recovered": 3223,
       "dead": 2,
-      "updatedTime": "10/11/2020 22:17:31",
+      "updatedTime": "11/11/2020 19:38:31",
       "note": "",
       "stateCode": "DN",
       "today": {
         "confirmed": 0,
-        "recovered": 0,
+        "recovered": 1,
         "dead": 0,
-        "active": 0
+        "active": -1
       },
       "isUnknown": true
     },
     "MZ": {
       "name": "Mizoram",
-      "confirmed": 3156,
-      "active": 470,
-      "recovered": 2684,
+      "confirmed": 3217,
+      "active": 527,
+      "recovered": 2688,
       "dead": 2,
-      "updatedTime": "10/11/2020 21:49:57",
+      "updatedTime": "11/11/2020 19:38:33",
       "note": "",
       "stateCode": "MZ",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 61,
+        "recovered": 4,
         "dead": 0,
-        "active": 0
+        "active": 57
       },
       "testing_data": {
         "tested": 124730,
@@ -880,19 +880,19 @@
     }
   },
   "testing_data": {
-    "tested": 128699709,
-    "positive": 680259,
+    "tested": 128763901,
+    "positive": 687266,
     "negative": 26286841,
     "unconfirmed": 28384
   },
   "testing_data_imcr": {
-    "tested": 119615857,
-    "source": "https://www.icmr.gov.in/pdf/covid/update/ICMR_testing_update_10Nov2020.pdf"
+    "tested": 120769151,
+    "source": "http://twitter.com/ICMRDELHI/status/1326365809195716609"
   },
   "today": {
-    "confirmed": 2233,
-    "recovered": 259,
-    "dead": 21,
-    "active": 1953
+    "confirmed": 10136,
+    "recovered": 7577,
+    "dead": 56,
+    "active": 2503
   }
 }
