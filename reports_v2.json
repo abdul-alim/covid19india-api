@@ -1,9 +1,9 @@
 {
-  "confirmed": 8664365,
-  "recovered": 8042607,
-  "dead": 127861,
-  "active": 492007,
-  "updatedTime": "11/11/2020 21:23:18",
+  "confirmed": 8664725,
+  "recovered": 8042996,
+  "dead": 127864,
+  "active": 491975,
+  "updatedTime": "11/11/2020 21:42:18",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -35,7 +35,7 @@
       "active": 30743,
       "recovered": 811581,
       "dead": 11453,
-      "updatedTime": "11/11/2020 21:23:19",
+      "updatedTime": "11/11/2020 21:29:26",
       "note": "",
       "stateCode": "KA",
       "today": {
@@ -83,7 +83,7 @@
       "active": 18655,
       "recovered": 720339,
       "dead": 11415,
-      "updatedTime": "11/11/2020 21:23:21",
+      "updatedTime": "11/11/2020 21:29:28",
       "note": "[July 22]: 444 backdated deceased entries added to Chennai in TN bulletin.\n2 deaths cross notified to other states from Chennai and Coimbatore.\n1 patient died after turning negative for infection in Chengalpattu.\nThese cases have been added to TN deceased tally",
       "stateCode": "TN",
       "today": {
@@ -439,18 +439,18 @@
     },
     "JH": {
       "name": "Jharkhand",
-      "confirmed": 104940,
-      "active": 4042,
-      "recovered": 99988,
-      "dead": 910,
-      "updatedTime": "11/11/2020 00:29:30",
+      "confirmed": 105224,
+      "active": 4009,
+      "recovered": 100302,
+      "dead": 913,
+      "updatedTime": "11/11/2020 21:42:20",
       "note": "",
       "stateCode": "JH",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 284,
+        "recovered": 314,
+        "dead": 3,
+        "active": -33
       },
       "testing_data": {
         "tested": 3714582,
@@ -563,7 +563,7 @@
       "active": 1289,
       "recovered": 30035,
       "dead": 356,
-      "updatedTime": "11/11/2020 21:23:23",
+      "updatedTime": "11/11/2020 21:29:33",
       "note": "[Aug 4]: Tripura bulletin for the previous day is released on the next day. We will add the cases for Tripura against the date of release, as that is the convention that we are following for other states.",
       "stateCode": "TR",
       "today": {
@@ -597,12 +597,12 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 441200,
+        "tested": 446752,
         "positive": 0,
-        "negative": 411724,
-        "unconfirmed": 2668,
-        "date": "10/11/2020",
-        "source": "https://twitter.com/nhm_hp/status/1326192765240143874"
+        "negative": 416399,
+        "unconfirmed": 2935,
+        "date": "11/11/2020",
+        "source": "https://twitter.com/nhm_hp/status/1326556249136259078?s=20"
       }
     },
     "MN": {
@@ -631,26 +631,26 @@
     },
     "AR": {
       "name": "Arunachal Pradesh",
-      "confirmed": 15581,
-      "active": 1484,
-      "recovered": 14051,
+      "confirmed": 15657,
+      "active": 1485,
+      "recovered": 14126,
       "dead": 46,
-      "updatedTime": "11/11/2020 02:52:25",
+      "updatedTime": "11/11/2020 21:42:23",
       "note": "[July 25]: All numbers corresponding to Papum Pare and Captial Complex are tracked under Papum Pare district.",
       "stateCode": "AR",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 76,
+        "recovered": 75,
         "dead": 0,
-        "active": 0
+        "active": 1
       },
       "testing_data": {
-        "tested": 336558,
+        "tested": 338280,
         "positive": 0,
-        "negative": 309285,
-        "unconfirmed": 46,
-        "date": "10/11/2020",
-        "source": "https://twitter.com/DirectorateofHS/status/1326208418810486787"
+        "negative": 327363,
+        "unconfirmed": 0,
+        "date": "11/11/2020",
+        "source": "https://twitter.com/DirectorateofHS/status/1326553014014939141"
       }
     },
     "CH": {
@@ -880,19 +880,19 @@
     }
   },
   "testing_data": {
-    "tested": 129487070,
+    "tested": 129494344,
     "positive": 687550,
-    "negative": 26464547,
-    "unconfirmed": 28612
+    "negative": 26487300,
+    "unconfirmed": 28833
   },
   "testing_data_imcr": {
     "tested": 120769151,
     "source": "http://twitter.com/ICMRDELHI/status/1326365809195716609"
   },
   "today": {
-    "confirmed": 28611,
-    "recovered": 30763,
-    "dead": 246,
-    "active": -2398
+    "confirmed": 28971,
+    "recovered": 31152,
+    "dead": 249,
+    "active": -2430
   }
 }
