@@ -1,9 +1,9 @@
 {
-  "confirmed": 8656221,
-  "recovered": 8031785,
-  "dead": 127781,
-  "active": 494765,
-  "updatedTime": "11/11/2020 20:04:23",
+  "confirmed": 8656295,
+  "recovered": 8033166,
+  "dead": 127782,
+  "active": 493457,
+  "updatedTime": "11/11/2020 20:22:19",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -131,7 +131,7 @@
       "active": 78422,
       "recovered": 422410,
       "dead": 1772,
-      "updatedTime": "11/11/2020 20:04:25",
+      "updatedTime": "11/11/2020 20:10:24",
       "note": "Mahe native who expired in Kannur included in Kerala's deceased tally.\nSome non-covid deaths have also been reported in the bulletin.\nThese have been reduced from active count",
       "stateCode": "KL",
       "today": {
@@ -200,17 +200,17 @@
     "OR": {
       "name": "Odisha",
       "confirmed": 305000,
-      "active": 12341,
-      "recovered": 291137,
+      "active": 11001,
+      "recovered": 292477,
       "dead": 1522,
-      "updatedTime": "11/11/2020 13:53:26",
+      "updatedTime": "11/11/2020 20:22:21",
       "note": "[July 12th] :20 non-covid deaths reported in state dashboard are included in the deceased count\n[June 22nd]: NDRF/ODRF cases have been redistributed to districts based on state dashboard",
       "stateCode": "OR",
       "today": {
         "confirmed": 1220,
-        "recovered": 0,
+        "recovered": 1340,
         "dead": 15,
-        "active": 1205
+        "active": -135
       },
       "testing_data": {
         "tested": 5077119,
@@ -285,12 +285,12 @@
         "active": 268
       },
       "testing_data": {
-        "tested": 3921623,
+        "tested": 3943942,
         "positive": 0,
-        "negative": 3703657,
-        "unconfirmed": 2895,
-        "date": "10/11/2020",
-        "source": "https://twitter.com/airnews_jaipur/status/1326169016025587714?s=20"
+        "negative": 3724338,
+        "unconfirmed": 2453,
+        "date": "11/11/2020",
+        "source": "https://twitter.com/airnews_jaipur/status/1326510830284779525/photo/2"
       }
     },
     "AS": {
@@ -391,18 +391,18 @@
     },
     "MP": {
       "name": "Madhya Pradesh",
-      "confirmed": 179877,
-      "active": 8296,
-      "recovered": 168527,
-      "dead": 3054,
-      "updatedTime": "10/11/2020 21:36:31",
+      "confirmed": 179951,
+      "active": 8328,
+      "recovered": 168568,
+      "dead": 3055,
+      "updatedTime": "11/11/2020 20:22:22",
       "note": "[Oct 14]: 4469 confirmed cases and 4469 recoveries added in MP bulletin as reconciliation with private labs and hospitals",
       "stateCode": "MP",
       "today": {
-        "confirmed": 727,
-        "recovered": 0,
-        "dead": 0,
-        "active": 727
+        "confirmed": 883,
+        "recovered": 691,
+        "dead": 13,
+        "active": 179
       },
       "testing_data": {
         "tested": 3202500,
@@ -491,7 +491,7 @@
       "active": 4251,
       "recovered": 60900,
       "dead": 1086,
-      "updatedTime": "11/11/2020 20:04:29",
+      "updatedTime": "11/11/2020 20:18:28",
       "note": "[Oct 17]: 89 back-dated deaths included",
       "stateCode": "UT",
       "today": {
@@ -789,12 +789,12 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 58540,
+        "tested": 58792,
         "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "10/11/2020",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/3627"
+        "date": "11/11/2020",
+        "source": "https://covid19sikkim.org/"
       }
     },
     "DN": {
@@ -880,19 +880,19 @@
     }
   },
   "testing_data": {
-    "tested": 128895944,
+    "tested": 128918515,
     "positive": 687266,
-    "negative": 26357784,
-    "unconfirmed": 29039
+    "negative": 26378465,
+    "unconfirmed": 28597
   },
   "testing_data_imcr": {
     "tested": 120769151,
     "source": "http://twitter.com/ICMRDELHI/status/1326365809195716609"
   },
   "today": {
-    "confirmed": 20385,
-    "recovered": 19291,
-    "dead": 154,
-    "active": 940
+    "confirmed": 20541,
+    "recovered": 21322,
+    "dead": 167,
+    "active": -948
   }
 }
