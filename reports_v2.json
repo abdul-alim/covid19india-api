@@ -1,9 +1,9 @@
 {
-  "confirmed": 8716192,
-  "recovered": 8098884,
-  "dead": 128452,
-  "active": 486947,
-  "updatedTime": "12/11/2020 22:26:21",
+  "confirmed": 8723270,
+  "recovered": 8105400,
+  "dead": 128559,
+  "active": 487402,
+  "updatedTime": "12/11/2020 22:38:18",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -104,17 +104,17 @@
     "UP": {
       "name": "Uttar Pradesh",
       "confirmed": 505424,
-      "active": 22953,
-      "recovered": 475169,
+      "active": 22947,
+      "recovered": 475175,
       "dead": 7302,
-      "updatedTime": "12/11/2020 22:26:23",
+      "updatedTime": "12/11/2020 22:38:20",
       "note": "",
       "stateCode": "UP",
       "today": {
         "confirmed": 2265,
-        "recovered": 1853,
+        "recovered": 1859,
         "dead": 21,
-        "active": 391
+        "active": 385
       },
       "testing_data": {
         "tested": 16684729,
@@ -151,18 +151,18 @@
     },
     "DL": {
       "name": "Delhi",
-      "confirmed": 459975,
-      "active": 42629,
-      "recovered": 410118,
-      "dead": 7228,
-      "updatedTime": "11/11/2020 23:19:27",
+      "confirmed": 467028,
+      "active": 43116,
+      "recovered": 416580,
+      "dead": 7332,
+      "updatedTime": "12/11/2020 22:38:22",
       "note": "[July 14]: Value for the total tests conducted has been reduced by 97008 in the state bulletin. Reason given : \"Reconciled with ICMR figures\". We have made the same change.\n[June 16]: 344 deceased cases have been retroactively added to DL bulletin.",
       "stateCode": "DL",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 7053,
+        "recovered": 6462,
+        "dead": 104,
+        "active": 487
       },
       "testing_data": {
         "tested": 5322274,
@@ -443,7 +443,7 @@
       "active": 3668,
       "recovered": 100908,
       "dead": 917,
-      "updatedTime": "12/11/2020 22:26:30",
+      "updatedTime": "12/11/2020 22:31:28",
       "note": "",
       "stateCode": "JH",
       "today": {
@@ -645,12 +645,12 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 338280,
+        "tested": 339487,
         "positive": 0,
-        "negative": 327363,
-        "unconfirmed": 46,
-        "date": "11/11/2020",
-        "source": "https://twitter.com/DirectorateofHS/status/1326553014014939141"
+        "negative": 311977,
+        "unconfirmed": 47,
+        "date": "12/11/2020",
+        "source": "https://twitter.com/DirectorateofHS/status/1326930146650042368"
       }
     },
     "CH": {
@@ -683,7 +683,7 @@
       "active": 1045,
       "recovered": 9368,
       "dead": 98,
-      "updatedTime": "12/11/2020 22:26:37",
+      "updatedTime": "12/11/2020 22:31:30",
       "note": "",
       "stateCode": "ML",
       "today": {
@@ -775,18 +775,18 @@
     },
     "SK": {
       "name": "Sikkim",
-      "confirmed": 4344,
-      "active": 291,
-      "recovered": 3887,
-      "dead": 82,
-      "updatedTime": "11/11/2020 22:59:24",
+      "confirmed": 4369,
+      "active": 265,
+      "recovered": 3935,
+      "dead": 85,
+      "updatedTime": "12/11/2020 22:38:24",
       "note": "",
       "stateCode": "SK",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 25,
+        "recovered": 48,
+        "dead": 3,
+        "active": -26
       },
       "testing_data": {
         "tested": 58984,
@@ -880,19 +880,19 @@
     }
   },
   "testing_data": {
-    "tested": 130824428,
+    "tested": 130825635,
     "positive": 693596,
-    "negative": 26737307,
-    "unconfirmed": 27132
+    "negative": 26721921,
+    "unconfirmed": 27133
   },
   "testing_data_imcr": {
     "tested": 121962509,
     "source": "https://twitter.com/ICMRDELHI/status/1326732107004084224"
   },
   "today": {
-    "confirmed": 32153,
-    "recovered": 34336,
-    "dead": 287,
-    "active": -2470
+    "confirmed": 39231,
+    "recovered": 40852,
+    "dead": 394,
+    "active": -2015
   }
 }
