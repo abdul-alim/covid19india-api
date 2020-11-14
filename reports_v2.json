@@ -1,9 +1,9 @@
 {
-  "confirmed": 8790760,
-  "recovered": 8180967,
-  "dead": 129357,
-  "active": 478499,
-  "updatedTime": "14/11/2020 21:04:21",
+  "confirmed": 8792914,
+  "recovered": 8183165,
+  "dead": 129374,
+  "active": 478438,
+  "updatedTime": "14/11/2020 21:23:21",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -31,18 +31,18 @@
     },
     "KA": {
       "name": "Karnataka",
-      "confirmed": 857928,
-      "active": 28026,
-      "recovered": 818392,
-      "dead": 11491,
-      "updatedTime": "14/11/2020 21:02:27",
+      "confirmed": 860082,
+      "active": 27965,
+      "recovered": 820590,
+      "dead": 11508,
+      "updatedTime": "14/11/2020 21:23:22",
       "note": "",
       "stateCode": "KA",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 2154,
+        "recovered": 2198,
+        "dead": 17,
+        "active": -61
       },
       "testing_data": {
         "tested": 9392474,
@@ -131,7 +131,7 @@
       "active": 76929,
       "recovered": 441523,
       "dead": 1848,
-      "updatedTime": "14/11/2020 21:04:23",
+      "updatedTime": "14/11/2020 21:15:23",
       "note": "Mahe native who expired in Kannur included in Kerala's deceased tally.\nSome non-covid deaths have also been reported in the bulletin.\nThese have been reduced from active count",
       "stateCode": "KL",
       "today": {
@@ -179,7 +179,7 @@
       "active": 30792,
       "recovered": 390096,
       "dead": 7610,
-      "updatedTime": "14/11/2020 21:04:24",
+      "updatedTime": "14/11/2020 21:15:25",
       "note": "",
       "stateCode": "WB",
       "today": {
@@ -285,12 +285,12 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 3988281,
+        "tested": 4007392,
         "positive": 0,
-        "negative": 3764423,
-        "unconfirmed": 2387,
-        "date": "13/11/2020",
-        "source": "https://twitter.com/ANI/status/1327233728838451200/photo/2"
+        "negative": 3781300,
+        "unconfirmed": 2459,
+        "date": "14/11/2020",
+        "source": "http://rajswasthya.nic.in/"
       }
     },
     "AS": {
@@ -683,7 +683,7 @@
       "active": 1014,
       "recovered": 9518,
       "dead": 100,
-      "updatedTime": "14/11/2020 21:04:27",
+      "updatedTime": "14/11/2020 21:07:29",
       "note": "",
       "stateCode": "ML",
       "today": {
@@ -880,19 +880,19 @@
     }
   },
   "testing_data": {
-    "tested": 132816666,
+    "tested": 132835777,
     "positive": 674388,
-    "negative": 18848380,
-    "unconfirmed": 23390
+    "negative": 18865257,
+    "unconfirmed": 23462
   },
   "testing_data_imcr": {
-    "tested": 123101739,
+    "tested": 124031230,
     "source": "http://twitter.com/ICMRDELHI/status/1327452240676753408"
   },
   "today": {
-    "confirmed": 17517,
-    "recovered": 19447,
-    "dead": 132,
-    "active": -2062
+    "confirmed": 19671,
+    "recovered": 21645,
+    "dead": 149,
+    "active": -2123
   }
 }
