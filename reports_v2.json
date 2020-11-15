@@ -1,9 +1,9 @@
 {
-  "confirmed": 8835831,
-  "recovered": 8232580,
-  "dead": 129934,
-  "active": 471353,
-  "updatedTime": "15/11/2020 19:49:22",
+  "confirmed": 8835891,
+  "recovered": 8232740,
+  "dead": 129937,
+  "active": 471250,
+  "updatedTime": "15/11/2020 19:56:25",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -371,7 +371,7 @@
       "active": 12475,
       "recovered": 172032,
       "dead": 3803,
-      "updatedTime": "15/11/2020 19:47:24",
+      "updatedTime": "15/11/2020 19:54:23",
       "note": "",
       "stateCode": "GJ",
       "today": {
@@ -511,18 +511,18 @@
     },
     "GA": {
       "name": "Goa",
-      "confirmed": 45845,
-      "active": 1653,
-      "recovered": 43533,
-      "dead": 659,
-      "updatedTime": "14/11/2020 19:34:22",
+      "confirmed": 45903,
+      "active": 1585,
+      "recovered": 43656,
+      "dead": 662,
+      "updatedTime": "15/11/2020 19:56:27",
       "note": "",
       "stateCode": "GA",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 58,
+        "recovered": 123,
+        "dead": 3,
+        "active": -68
       },
       "testing_data": {
         "tested": 321769,
@@ -659,7 +659,7 @@
       "active": 1088,
       "recovered": 14468,
       "dead": 248,
-      "updatedTime": "15/11/2020 19:47:26",
+      "updatedTime": "15/11/2020 19:54:26",
       "note": "",
       "stateCode": "CH",
       "today": {
@@ -683,7 +683,7 @@
       "active": 971,
       "recovered": 9594,
       "dead": 100,
-      "updatedTime": "15/11/2020 19:49:24",
+      "updatedTime": "15/11/2020 19:56:29",
       "note": "",
       "stateCode": "ML",
       "today": {
@@ -741,12 +741,12 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 84408,
+        "tested": 84939,
         "positive": 0,
-        "negative": 72856,
-        "unconfirmed": 696,
-        "date": "13/11/2020",
-        "source": "https://twitter.com/DIPR_Leh/status/1327591903425044481/photo/1"
+        "negative": 73316,
+        "unconfirmed": 693,
+        "date": "14/11/2020",
+        "source": "https://twitter.com/DIPR_Leh/status/1327972141749346304/photo/2"
       }
     },
     "AN": {
@@ -789,26 +789,26 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 59499,
+        "tested": 59650,
         "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "14/11/2020",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/3710"
+        "date": "15/11/2020",
+        "source": "https://covid19sikkim.org/"
       }
     },
     "DN": {
       "name": "Dadra and Nagar Haveli and Daman and Diu",
-      "confirmed": 3280,
+      "confirmed": 3282,
       "active": 21,
-      "recovered": 3230,
+      "recovered": 3232,
       "dead": 2,
       "updatedTime": "14/11/2020 22:16:26",
       "note": "",
       "stateCode": "DN",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 2,
+        "recovered": 2,
         "dead": 0,
         "active": 0
       },
@@ -817,17 +817,17 @@
     "MZ": {
       "name": "Mizoram",
       "confirmed": 3393,
-      "active": 569,
-      "recovered": 2820,
+      "active": 534,
+      "recovered": 2855,
       "dead": 4,
-      "updatedTime": "15/11/2020 11:55:24",
+      "updatedTime": "15/11/2020 19:56:30",
       "note": "",
       "stateCode": "MZ",
       "today": {
         "confirmed": 25,
-        "recovered": 0,
+        "recovered": 35,
         "dead": 1,
-        "active": 24
+        "active": -11
       },
       "testing_data": {
         "tested": 129990,
@@ -880,19 +880,19 @@
     }
   },
   "testing_data": {
-    "tested": 133556162,
+    "tested": 133556844,
     "positive": 711113,
-    "negative": 18945276,
-    "unconfirmed": 17309
+    "negative": 18945736,
+    "unconfirmed": 17306
   },
   "testing_data_imcr": {
     "tested": 124836819,
     "source": "http://twitter.com/ICMRDELHI/status/1327818555035828224"
   },
   "today": {
-    "confirmed": 20895,
-    "recovered": 28741,
-    "dead": 259,
-    "active": -8105
+    "confirmed": 20955,
+    "recovered": 28901,
+    "dead": 262,
+    "active": -8208
   }
 }
