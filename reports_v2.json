@@ -1,9 +1,9 @@
 {
-  "confirmed": 8840090,
-  "recovered": 8239980,
-  "dead": 130020,
-  "active": 468124,
-  "updatedTime": "15/11/2020 21:20:21",
+  "confirmed": 8841784,
+  "recovered": 8242634,
+  "dead": 130043,
+  "active": 467141,
+  "updatedTime": "15/11/2020 21:56:23",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -31,18 +31,18 @@
     },
     "KA": {
       "name": "Karnataka",
-      "confirmed": 860082,
-      "active": 27965,
-      "recovered": 820590,
-      "dead": 11508,
-      "updatedTime": "14/11/2020 21:36:23",
+      "confirmed": 861647,
+      "active": 27146,
+      "recovered": 822953,
+      "dead": 11529,
+      "updatedTime": "15/11/2020 21:56:25",
       "note": "",
       "stateCode": "KA",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 1565,
+        "recovered": 2363,
+        "dead": 21,
+        "active": -819
       },
       "testing_data": {
         "tested": 9492080,
@@ -179,7 +179,7 @@
       "active": 29314,
       "recovered": 394576,
       "dead": 7661,
-      "updatedTime": "15/11/2020 21:20:24",
+      "updatedTime": "15/11/2020 21:25:24",
       "note": "",
       "stateCode": "WB",
       "today": {
@@ -203,7 +203,7 @@
       "active": 9217,
       "recovered": 297862,
       "dead": 1580,
-      "updatedTime": "15/11/2020 21:20:25",
+      "updatedTime": "15/11/2020 21:25:25",
       "note": "[July 12th] :20 non-covid deaths reported in state dashboard are included in the deceased count\n[June 22nd]: NDRF/ODRF cases have been redistributed to districts based on state dashboard",
       "stateCode": "OR",
       "today": {
@@ -299,7 +299,7 @@
       "active": 3665,
       "recovered": 205636,
       "dead": 964,
-      "updatedTime": "15/11/2020 21:20:26",
+      "updatedTime": "15/11/2020 21:25:27",
       "note": "",
       "stateCode": "AS",
       "today": {
@@ -439,26 +439,26 @@
     },
     "JH": {
       "name": "Jharkhand",
-      "confirmed": 105935,
-      "active": 3116,
-      "recovered": 101897,
-      "dead": 922,
-      "updatedTime": "14/11/2020 22:16:25",
+      "confirmed": 106064,
+      "active": 2952,
+      "recovered": 102188,
+      "dead": 924,
+      "updatedTime": "15/11/2020 21:56:29",
       "note": "",
       "stateCode": "JH",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 129,
+        "recovered": 291,
+        "dead": 2,
+        "active": -164
       },
       "testing_data": {
-        "tested": 3777488,
-        "positive": 105935,
-        "negative": 3671553,
+        "tested": 3790900,
+        "positive": 0,
+        "negative": 0,
         "unconfirmed": 0,
-        "date": "14/11/2020",
-        "source": "https://twitter.com/rnuddkranchi/status/1327639124170272770?s=20"
+        "date": "15/11/2020",
+        "source": "https://twitter.com/rnuddkranchi/status/1328001658689732609"
       }
     },
     "JK": {
@@ -597,12 +597,12 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 457668,
+        "tested": 458629,
         "positive": 0,
-        "negative": 427871,
-        "unconfirmed": 467,
-        "date": "14/11/2020",
-        "source": "https://twitter.com/nhm_hp/status/1327643601006854146"
+        "negative": 428778,
+        "unconfirmed": 138,
+        "date": "15/11/2020",
+        "source": "https://twitter.com/nhm_hp/status/1328003344820957185"
       }
     },
     "MN": {
@@ -880,19 +880,19 @@
     }
   },
   "testing_data": {
-    "tested": 133618586,
-    "positive": 711113,
-    "negative": 18945736,
-    "unconfirmed": 17306
+    "tested": 133632959,
+    "positive": 605178,
+    "negative": 15275090,
+    "unconfirmed": 16977
   },
   "testing_data_imcr": {
     "tested": 124836819,
     "source": "http://twitter.com/ICMRDELHI/status/1327818555035828224"
   },
   "today": {
-    "confirmed": 25154,
-    "recovered": 36141,
-    "dead": 345,
-    "active": -11332
+    "confirmed": 26848,
+    "recovered": 38795,
+    "dead": 368,
+    "active": -12315
   }
 }
