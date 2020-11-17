@@ -1,24 +1,24 @@
 {
-  "confirmed": 8900008,
-  "recovered": 8318778,
-  "dead": 130797,
-  "active": 448433,
-  "updatedTime": "17/11/2020 20:38:27",
+  "confirmed": 8902982,
+  "recovered": 8325573,
+  "dead": 130867,
+  "active": 444540,
+  "updatedTime": "17/11/2020 21:44:30",
   "states": {
     "MH": {
       "name": "Maharashtra",
-      "confirmed": 1749777,
-      "active": 84386,
-      "recovered": 1618380,
-      "dead": 46034,
-      "updatedTime": "16/11/2020 18:49:29",
+      "confirmed": 1752509,
+      "active": 81925,
+      "recovered": 1623503,
+      "dead": 46102,
+      "updatedTime": "17/11/2020 21:44:32",
       "note": "[Sep 9] :239 cases have been removed from the hospitalized figures owing to the removal of duplicates and change of addresses as per the original residence,\n[Aug 15] : MH bulletin has reduced 819 confirmed cases in Mumbai and 72 confirmed cases from 'Other States' from the tally\n[Jun 16] : 1328 deceased cases have been retroactively added to MH bulletin.\n[Jun 20] : 69 deceased cases have been reduced based on state bulletin.",
       "stateCode": "MH",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 2732,
+        "recovered": 5123,
+        "dead": 68,
+        "active": -2459
       },
       "testing_data": {
         "tested": 9847478,
@@ -200,17 +200,17 @@
     "OR": {
       "name": "Odisha",
       "confirmed": 310052,
-      "active": 9280,
-      "recovered": 299159,
+      "active": 7965,
+      "recovered": 300474,
       "dead": 1613,
-      "updatedTime": "17/11/2020 14:34:26",
+      "updatedTime": "17/11/2020 21:43:42",
       "note": "[July 12th] :20 non-covid deaths reported in state dashboard are included in the deceased count\n[June 22nd]: NDRF/ODRF cases have been redistributed to districts based on state dashboard",
       "stateCode": "OR",
       "today": {
         "confirmed": 644,
-        "recovered": 0,
+        "recovered": 1315,
         "dead": 17,
-        "active": 627
+        "active": -688
       },
       "testing_data": {
         "tested": 5330938,
@@ -295,18 +295,18 @@
     },
     "AS": {
       "name": "Assam",
-      "confirmed": 210454,
-      "active": 3445,
-      "recovered": 206041,
-      "dead": 965,
-      "updatedTime": "16/11/2020 20:45:28",
+      "confirmed": 210696,
+      "active": 3328,
+      "recovered": 206398,
+      "dead": 967,
+      "updatedTime": "17/11/2020 21:43:46",
       "note": "",
       "stateCode": "AS",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 242,
+        "recovered": 357,
+        "dead": 2,
+        "active": -117
       },
       "testing_data": {
         "tested": 5043594,
@@ -549,12 +549,12 @@
         "active": -59
       },
       "testing_data": {
-        "tested": 363331,
-        "positive": 40573,
-        "negative": 321971,
-        "unconfirmed": 787,
-        "date": "16/11/2020",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/3752"
+        "tested": 366689,
+        "positive": 40645,
+        "negative": 325636,
+        "unconfirmed": 408,
+        "date": "17/11/2020",
+        "source": "https://health.py.gov.in/"
       }
     },
     "TR": {
@@ -693,12 +693,12 @@
         "active": -199
       },
       "testing_data": {
-        "tested": 220717,
+        "tested": 223084,
         "positive": 0,
-        "negative": 210011,
+        "negative": 212293,
         "unconfirmed": 0,
-        "date": "16/11/2020",
-        "source": "https://www.syllad.com/meghalaya-one-more-dies-of-covid-19-toll-rises-to-101/"
+        "date": "17/11/2020",
+        "source": "https://www.syllad.com/meghalaya-record-283-recoveries-of-covid-19-patients-one-death/"
       }
     },
     "NL": {
@@ -880,19 +880,19 @@
     }
   },
   "testing_data": {
-    "tested": 135244803,
-    "positive": 720353,
-    "negative": 27533079,
-    "unconfirmed": 23471
+    "tested": 135250528,
+    "positive": 720425,
+    "negative": 27539026,
+    "unconfirmed": 23092
   },
   "testing_data_imcr": {
     "tested": 126542907,
     "source": "http://twitter.com/ICMRDELHI/status/1328542403368603654"
   },
   "today": {
-    "confirmed": 25782,
-    "recovered": 30436,
-    "dead": 237,
-    "active": -4891
+    "confirmed": 28756,
+    "recovered": 37231,
+    "dead": 307,
+    "active": -8782
   }
 }
