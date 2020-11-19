@@ -1,9 +1,9 @@
 {
-  "confirmed": 8968884,
-  "recovered": 8393154,
-  "dead": 131694,
-  "active": 442013,
-  "updatedTime": "19/11/2020 20:23:41",
+  "confirmed": 8970224,
+  "recovered": 8395286,
+  "dead": 131701,
+  "active": 441214,
+  "updatedTime": "19/11/2020 20:39:28",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -131,7 +131,7 @@
       "active": 68234,
       "recovered": 475320,
       "dead": 1970,
-      "updatedTime": "19/11/2020 20:23:43",
+      "updatedTime": "19/11/2020 20:36:33",
       "note": "Mahe native who expired in Kannur included in Kerala's deceased tally.\nSome non-covid deaths have also been reported in the bulletin.\nThese have been reduced from active count",
       "stateCode": "KL",
       "today": {
@@ -141,12 +141,12 @@
         "active": -1164
       },
       "testing_data": {
-        "tested": 5621634,
-        "positive": 539921,
+        "tested": 5688651,
+        "positive": 545643,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "18/11/2020",
-        "source": "https://dhs.kerala.gov.in/wp-content/uploads/2020/11/Bulletin-HFWD-English-November-18.pdf"
+        "date": "19/11/2020",
+        "source": "https://dhs.kerala.gov.in/wp-content/uploads/2020/11/Bulletin-HFWD-English-November-19.pdf"
       }
     },
     "DL": {
@@ -200,17 +200,17 @@
     "OR": {
       "name": "Odisha",
       "confirmed": 311788,
-      "active": 8366,
-      "recovered": 301777,
+      "active": 7347,
+      "recovered": 302796,
       "dead": 1645,
-      "updatedTime": "19/11/2020 12:24:29",
+      "updatedTime": "19/11/2020 20:39:30",
       "note": "[July 12th] :20 non-covid deaths reported in state dashboard are included in the deceased count\n[June 22nd]: NDRF/ODRF cases have been redistributed to districts based on state dashboard",
       "stateCode": "OR",
       "today": {
         "confirmed": 868,
-        "recovered": 0,
+        "recovered": 1019,
         "dead": 17,
-        "active": 851
+        "active": -168
       },
       "testing_data": {
         "tested": 5424761,
@@ -367,18 +367,18 @@
     },
     "GJ": {
       "name": "Gujarat",
-      "confirmed": 191642,
-      "active": 12357,
-      "recovered": 175462,
-      "dead": 3823,
-      "updatedTime": "18/11/2020 20:27:06",
+      "confirmed": 192982,
+      "active": 12577,
+      "recovered": 176575,
+      "dead": 3830,
+      "updatedTime": "19/11/2020 20:39:32",
       "note": "",
       "stateCode": "GJ",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 1340,
+        "recovered": 1113,
+        "dead": 7,
+        "active": 220
       },
       "testing_data": {
         "tested": 6978249,
@@ -659,7 +659,7 @@
       "active": 1105,
       "recovered": 14963,
       "dead": 254,
-      "updatedTime": "19/11/2020 20:23:46",
+      "updatedTime": "19/11/2020 20:36:46",
       "note": "",
       "stateCode": "CH",
       "today": {
@@ -669,12 +669,12 @@
         "active": 24
       },
       "testing_data": {
-        "tested": 126852,
+        "tested": 128558,
         "positive": 0,
-        "negative": 109943,
-        "unconfirmed": 161,
-        "date": "18/11/2020",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/3794"
+        "negative": 111487,
+        "unconfirmed": 254,
+        "date": "19/11/2020",
+        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/3815"
       }
     },
     "ML": {
@@ -693,12 +693,12 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 224381,
+        "tested": 225659,
         "positive": 0,
-        "negative": 213511,
+        "negative": 214680,
         "unconfirmed": 0,
-        "date": "18/11/2020",
-        "source": "https://twitter.com/PIBShillong/status/1329077261434118146?s=20"
+        "date": "19/11/2020",
+        "source": "https://twitter.com/PIBShillong/status/1329435343343525899?s=20"
       }
     },
     "NL": {
@@ -789,12 +789,12 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 60211,
+        "tested": 60375,
         "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "18/11/2020",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/3798"
+        "date": "19/11/2020",
+        "source": "https://covid19sikkim.org/"
       }
     },
     "DN": {
@@ -880,19 +880,19 @@
     }
   },
   "testing_data": {
-    "tested": 137271268,
-    "positive": 727365,
-    "negative": 27941125,
-    "unconfirmed": 26962
+    "tested": 137341433,
+    "positive": 733087,
+    "negative": 27943838,
+    "unconfirmed": 27055
   },
   "testing_data_imcr": {
     "tested": 128508389,
     "source": "http://twitter.com/ICMRDELHI/status/1329267164138803201"
   },
   "today": {
-    "confirmed": 10744,
-    "recovered": 11384,
-    "dead": 75,
-    "active": -715
+    "confirmed": 12084,
+    "recovered": 13516,
+    "dead": 82,
+    "active": -1514
   }
 }
