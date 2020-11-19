@@ -1,9 +1,9 @@
 {
-  "confirmed": 8960098,
-  "recovered": 8383251,
+  "confirmed": 8960205,
+  "recovered": 8383357,
   "dead": 131639,
-  "active": 443192,
-  "updatedTime": "19/11/2020 12:24:26",
+  "active": 443193,
+  "updatedTime": "19/11/2020 16:56:24",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -559,18 +559,18 @@
     },
     "TR": {
       "name": "Tripura",
-      "confirmed": 32109,
-      "active": 998,
-      "recovered": 30727,
+      "confirmed": 32214,
+      "active": 997,
+      "recovered": 30833,
       "dead": 361,
-      "updatedTime": "18/11/2020 18:59:34",
+      "updatedTime": "19/11/2020 16:56:26",
       "note": "[Aug 4]: Tripura bulletin for the previous day is released on the next day. We will add the cases for Tripura against the date of release, as that is the convention that we are following for other states.",
       "stateCode": "TR",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 105,
+        "recovered": 106,
         "dead": 0,
-        "active": 0
+        "active": -1
       },
       "testing_data": {
         "tested": 502948,
@@ -799,18 +799,18 @@
     },
     "DN": {
       "name": "Dadra and Nagar Haveli and Daman and Diu",
-      "confirmed": 3300,
-      "active": 32,
+      "confirmed": 3302,
+      "active": 34,
       "recovered": 3237,
       "dead": 2,
-      "updatedTime": "19/11/2020 00:55:27",
+      "updatedTime": "19/11/2020 16:56:27",
       "note": "",
       "stateCode": "DN",
       "today": {
-        "confirmed": 0,
+        "confirmed": 2,
         "recovered": 0,
         "dead": 0,
-        "active": 0
+        "active": 2
       },
       "isUnknown": true
     },
@@ -890,9 +890,9 @@
     "source": "http://twitter.com/ICMRDELHI/status/1329267164138803201"
   },
   "today": {
-    "confirmed": 1958,
-    "recovered": 1481,
+    "confirmed": 2065,
+    "recovered": 1587,
     "dead": 21,
-    "active": 456
+    "active": 457
   }
 }
