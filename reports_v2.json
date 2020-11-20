@@ -1,9 +1,9 @@
 {
-  "confirmed": 9029744,
-  "recovered": 8451310,
-  "dead": 132399,
-  "active": 444005,
-  "updatedTime": "20/11/2020 21:01:36",
+  "confirmed": 9029917,
+  "recovered": 8452495,
+  "dead": 132401,
+  "active": 442991,
+  "updatedTime": "20/11/2020 21:23:36",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -200,17 +200,17 @@
     "OR": {
       "name": "Odisha",
       "confirmed": 312545,
-      "active": 8088,
-      "recovered": 302796,
+      "active": 6987,
+      "recovered": 303897,
       "dead": 1661,
-      "updatedTime": "20/11/2020 13:15:38",
+      "updatedTime": "20/11/2020 21:23:40",
       "note": "[July 12th] :20 non-covid deaths reported in state dashboard are included in the deceased count\n[June 22nd]: NDRF/ODRF cases have been redistributed to districts based on state dashboard",
       "stateCode": "OR",
       "today": {
         "confirmed": 757,
-        "recovered": 0,
+        "recovered": 1101,
         "dead": 16,
-        "active": 741
+        "active": -360
       },
       "testing_data": {
         "tested": 5471180,
@@ -679,18 +679,18 @@
     },
     "ML": {
       "name": "Meghalaya",
-      "confirmed": 10979,
-      "active": 801,
-      "recovered": 10074,
-      "dead": 104,
-      "updatedTime": "20/11/2020 21:01:40",
+      "confirmed": 11152,
+      "active": 888,
+      "recovered": 10158,
+      "dead": 106,
+      "updatedTime": "20/11/2020 21:22:43",
       "note": "",
       "stateCode": "ML",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 173,
+        "recovered": 84,
+        "dead": 2,
+        "active": 87
       },
       "testing_data": {
         "tested": 227199,
@@ -890,9 +890,9 @@
     "source": "https://www.icmr.gov.in/pdf/covid/update/ICMR_testing_update_20Nov2020.pdf"
   },
   "today": {
-    "confirmed": 25419,
-    "recovered": 24294,
-    "dead": 197,
-    "active": 928
+    "confirmed": 25592,
+    "recovered": 25479,
+    "dead": 199,
+    "active": -86
   }
 }
