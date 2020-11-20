@@ -1,24 +1,24 @@
 {
-  "confirmed": 9044265,
-  "recovered": 8469955,
-  "dead": 132541,
-  "active": 439739,
-  "updatedTime": "20/11/2020 22:26:33",
+  "confirmed": 9047058,
+  "recovered": 8472135,
+  "dead": 132716,
+  "active": 440171,
+  "updatedTime": "20/11/2020 22:38:43",
   "states": {
     "MH": {
       "name": "Maharashtra",
       "confirmed": 1768695,
-      "active": 78433,
+      "active": 78272,
       "recovered": 1642916,
-      "dead": 46356,
-      "updatedTime": "20/11/2020 22:26:36",
+      "dead": 46511,
+      "updatedTime": "20/11/2020 22:38:46",
       "note": "[Sep 9] :239 cases have been removed from the hospitalized figures owing to the removal of duplicates and change of addresses as per the original residence,\n[Aug 15] : MH bulletin has reduced 819 confirmed cases in Mumbai and 72 confirmed cases from 'Other States' from the tally\n[Jun 16] : 1328 deceased cases have been retroactively added to MH bulletin.\n[Jun 20] : 69 deceased cases have been reduced based on state bulletin.",
       "stateCode": "MH",
       "today": {
         "confirmed": 5640,
         "recovered": 6945,
-        "dead": 0,
-        "active": -1305
+        "dead": 155,
+        "active": -1460
       },
       "testing_data": {
         "tested": 10035665,
@@ -103,18 +103,18 @@
     },
     "UP": {
       "name": "Uttar Pradesh",
-      "confirmed": 519148,
-      "active": 22757,
-      "recovered": 488911,
-      "dead": 7480,
-      "updatedTime": "20/11/2020 03:20:36",
+      "confirmed": 521941,
+      "active": 23350,
+      "recovered": 491091,
+      "dead": 7500,
+      "updatedTime": "20/11/2020 22:38:49",
       "note": "",
       "stateCode": "UP",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 2793,
+        "recovered": 2180,
+        "dead": 20,
+        "active": 593
       },
       "testing_data": {
         "tested": 17636904,
@@ -155,7 +155,7 @@
       "active": 40936,
       "recovered": 468143,
       "dead": 8159,
-      "updatedTime": "20/11/2020 22:24:20",
+      "updatedTime": "20/11/2020 22:27:39",
       "note": "[July 14]: Value for the total tests conducted has been reduced by 97008 in the state bulletin. Reason given : \"Reconciled with ICMR figures\". We have made the same change.\n[June 16]: 344 deceased cases have been retroactively added to DL bulletin.",
       "stateCode": "DL",
       "today": {
@@ -323,7 +323,7 @@
       "active": 19817,
       "recovered": 196896,
       "dead": 2691,
-      "updatedTime": "20/11/2020 22:24:24",
+      "updatedTime": "20/11/2020 22:27:41",
       "note": "",
       "stateCode": "CT",
       "today": {
@@ -443,7 +443,7 @@
       "active": 2594,
       "recovered": 103624,
       "dead": 939,
-      "updatedTime": "20/11/2020 22:24:27",
+      "updatedTime": "20/11/2020 22:27:43",
       "note": "",
       "stateCode": "JH",
       "today": {
@@ -731,7 +731,7 @@
       "active": 948,
       "recovered": 6743,
       "dead": 96,
-      "updatedTime": "20/11/2020 22:26:39",
+      "updatedTime": "20/11/2020 22:33:46",
       "note": "",
       "stateCode": "LA",
       "today": {
@@ -890,9 +890,9 @@
     "source": "https://www.icmr.gov.in/pdf/covid/update/ICMR_testing_update_20Nov2020.pdf"
   },
   "today": {
-    "confirmed": 39940,
-    "recovered": 42939,
-    "dead": 339,
-    "active": -3338
+    "confirmed": 42733,
+    "recovered": 45119,
+    "dead": 514,
+    "active": -2900
   }
 }
