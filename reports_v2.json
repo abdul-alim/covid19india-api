@@ -1,9 +1,9 @@
 {
-  "confirmed": 9051628,
-  "recovered": 8477380,
-  "dead": 132766,
-  "active": 439446,
-  "updatedTime": "21/11/2020 11:28:29",
+  "confirmed": 9052481,
+  "recovered": 8477496,
+  "dead": 132784,
+  "active": 440165,
+  "updatedTime": "21/11/2020 11:57:31",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -199,18 +199,18 @@
     },
     "OR": {
       "name": "Odisha",
-      "confirmed": 312545,
-      "active": 6987,
+      "confirmed": 313323,
+      "active": 7748,
       "recovered": 303897,
-      "dead": 1661,
-      "updatedTime": "20/11/2020 21:37:39",
+      "dead": 1678,
+      "updatedTime": "21/11/2020 11:57:33",
       "note": "[July 12th] :20 non-covid deaths reported in state dashboard are included in the deceased count\n[June 22nd]: NDRF/ODRF cases have been redistributed to districts based on state dashboard",
       "stateCode": "OR",
       "today": {
-        "confirmed": 0,
+        "confirmed": 778,
         "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "dead": 17,
+        "active": 761
       },
       "testing_data": {
         "tested": 5471180,
@@ -559,26 +559,26 @@
     },
     "TR": {
       "name": "Tripura",
-      "confirmed": 32289,
-      "active": 959,
-      "recovered": 30945,
-      "dead": 362,
-      "updatedTime": "20/11/2020 10:39:27",
+      "confirmed": 32364,
+      "active": 917,
+      "recovered": 31061,
+      "dead": 363,
+      "updatedTime": "21/11/2020 11:57:36",
       "note": "[Aug 4]: Tripura bulletin for the previous day is released on the next day. We will add the cases for Tripura against the date of release, as that is the convention that we are following for other states.",
       "stateCode": "TR",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 75,
+        "recovered": 116,
+        "dead": 1,
+        "active": -42
       },
       "testing_data": {
-        "tested": 505954,
-        "positive": 32289,
-        "negative": 473665,
+        "tested": 508813,
+        "positive": 32364,
+        "negative": 476449,
         "unconfirmed": 0,
-        "date": "20/11/2020",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/3825"
+        "date": "21/11/2020",
+        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/3851"
       }
     },
     "HP": {
@@ -880,9 +880,9 @@
     }
   },
   "testing_data": {
-    "tested": 138743578,
-    "positive": 739739,
-    "negative": 28188864,
+    "tested": 138746437,
+    "positive": 739814,
+    "negative": 28191648,
     "unconfirmed": 25707
   },
   "testing_data_imcr": {
@@ -890,9 +890,9 @@
     "source": "http://twitter.com/ICMRDELHI/status/1329993707647451138"
   },
   "today": {
-    "confirmed": 991,
-    "recovered": 1413,
-    "dead": 3,
-    "active": -425
+    "confirmed": 1844,
+    "recovered": 1529,
+    "dead": 21,
+    "active": 294
   }
 }
