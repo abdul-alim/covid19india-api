@@ -1,9 +1,9 @@
 {
-  "confirmed": 9052759,
-  "recovered": 8477958,
-  "dead": 132788,
-  "active": 439977,
-  "updatedTime": "21/11/2020 17:23:30",
+  "confirmed": 9053919,
+  "recovered": 8479735,
+  "dead": 132795,
+  "active": 439353,
+  "updatedTime": "21/11/2020 17:40:34",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -55,18 +55,18 @@
     },
     "AP": {
       "name": "Andhra Pradesh",
-      "confirmed": 859932,
-      "active": 15382,
-      "recovered": 837630,
-      "dead": 6920,
-      "updatedTime": "20/11/2020 19:18:34",
+      "confirmed": 861092,
+      "active": 14770,
+      "recovered": 839395,
+      "dead": 6927,
+      "updatedTime": "21/11/2020 17:40:36",
       "note": "",
       "stateCode": "AP",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 1160,
+        "recovered": 1765,
+        "dead": 7,
+        "active": -612
       },
       "testing_data": {
         "tested": 9474870,
@@ -251,7 +251,7 @@
       "active": 5415,
       "recovered": 223615,
       "dead": 1216,
-      "updatedTime": "21/11/2020 17:23:32",
+      "updatedTime": "21/11/2020 17:39:36",
       "note": "",
       "stateCode": "BR",
       "today": {
@@ -800,34 +800,34 @@
     "DN": {
       "name": "Dadra and Nagar Haveli and Daman and Diu",
       "confirmed": 3311,
-      "active": 42,
-      "recovered": 3238,
+      "active": 41,
+      "recovered": 3239,
       "dead": 2,
-      "updatedTime": "20/11/2020 17:39:34",
+      "updatedTime": "21/11/2020 17:40:43",
       "note": "",
       "stateCode": "DN",
       "today": {
         "confirmed": 0,
-        "recovered": 0,
+        "recovered": 1,
         "dead": 0,
-        "active": 0
+        "active": -1
       },
       "isUnknown": true
     },
     "MZ": {
       "name": "Mizoram",
       "confirmed": 3607,
-      "active": 491,
-      "recovered": 3111,
+      "active": 480,
+      "recovered": 3122,
       "dead": 5,
-      "updatedTime": "21/11/2020 11:13:35",
+      "updatedTime": "21/11/2020 17:40:45",
       "note": "",
       "stateCode": "MZ",
       "today": {
         "confirmed": 66,
-        "recovered": 46,
+        "recovered": 57,
         "dead": 0,
-        "active": 20
+        "active": 9
       },
       "testing_data": {
         "tested": 137933,
@@ -890,9 +890,9 @@
     "source": "http://twitter.com/ICMRDELHI/status/1329993707647451138"
   },
   "today": {
-    "confirmed": 2122,
-    "recovered": 1991,
-    "dead": 25,
-    "active": 106
+    "confirmed": 3282,
+    "recovered": 3768,
+    "dead": 32,
+    "active": -518
   }
 }
