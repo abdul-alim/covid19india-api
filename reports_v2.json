@@ -1,9 +1,9 @@
 {
-  "confirmed": 9061931,
-  "recovered": 8488436,
-  "dead": 132834,
-  "active": 438625,
-  "updatedTime": "21/11/2020 19:38:30",
+  "confirmed": 9065301,
+  "recovered": 8491462,
+  "dead": 132870,
+  "active": 438929,
+  "updatedTime": "21/11/2020 19:52:29",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -69,12 +69,12 @@
         "active": -612
       },
       "testing_data": {
-        "tested": 9474870,
+        "tested": 9543177,
         "positive": 0,
-        "negative": 8614938,
+        "negative": 0,
         "unconfirmed": 0,
-        "date": "20/11/2020",
-        "source": "https://twitter.com/ArogyaAndhra/status/1329776250148196352?s=20"
+        "date": "21/11/2020",
+        "source": "http://covid19.ap.gov.in/Covid19_Admin/index.html"
       }
     },
     "TN": {
@@ -343,18 +343,18 @@
     },
     "HR": {
       "name": "Haryana",
-      "confirmed": 212355,
-      "active": 20150,
-      "recovered": 190067,
-      "dead": 2138,
-      "updatedTime": "20/11/2020 20:22:43",
+      "confirmed": 215021,
+      "active": 20325,
+      "recovered": 192533,
+      "dead": 2163,
+      "updatedTime": "21/11/2020 19:52:32",
       "note": "",
       "stateCode": "HR",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 2666,
+        "recovered": 2466,
+        "dead": 25,
+        "active": 175
       },
       "testing_data": {
         "tested": 3106471,
@@ -371,7 +371,7 @@
       "active": 13185,
       "recovered": 178886,
       "dead": 3846,
-      "updatedTime": "21/11/2020 19:38:32",
+      "updatedTime": "21/11/2020 19:51:35",
       "note": "",
       "stateCode": "GJ",
       "today": {
@@ -487,18 +487,18 @@
     },
     "UT": {
       "name": "Uttarakhand",
-      "confirmed": 70205,
-      "active": 4051,
-      "recovered": 64393,
-      "dead": 1138,
-      "updatedTime": "21/11/2020 03:42:35",
+      "confirmed": 70790,
+      "active": 4166,
+      "recovered": 64851,
+      "dead": 1146,
+      "updatedTime": "21/11/2020 19:52:34",
       "note": "[Oct 17]: 89 back-dated deaths included",
       "stateCode": "UT",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 585,
+        "recovered": 458,
+        "dead": 8,
+        "active": 119
       },
       "testing_data": {
         "tested": 1224223,
@@ -515,7 +515,7 @@
       "active": 1261,
       "recovered": 44812,
       "dead": 675,
-      "updatedTime": "21/11/2020 19:38:34",
+      "updatedTime": "21/11/2020 19:51:39",
       "note": "",
       "stateCode": "GA",
       "today": {
@@ -655,18 +655,18 @@
     },
     "CH": {
       "name": "Chandigarh",
-      "confirmed": 16472,
-      "active": 1121,
-      "recovered": 15096,
-      "dead": 255,
-      "updatedTime": "20/11/2020 20:41:13",
+      "confirmed": 16591,
+      "active": 1135,
+      "recovered": 15198,
+      "dead": 258,
+      "updatedTime": "21/11/2020 19:52:36",
       "note": "",
       "stateCode": "CH",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 119,
+        "recovered": 102,
+        "dead": 3,
+        "active": 14
       },
       "testing_data": {
         "tested": 130070,
@@ -880,9 +880,9 @@
     }
   },
   "testing_data": {
-    "tested": 138837578,
+    "tested": 138905885,
     "positive": 739827,
-    "negative": 28191648,
+    "negative": 19576710,
     "unconfirmed": 25448
   },
   "testing_data_imcr": {
@@ -890,9 +890,9 @@
     "source": "http://twitter.com/ICMRDELHI/status/1329993707647451138"
   },
   "today": {
-    "confirmed": 11294,
-    "recovered": 12469,
-    "dead": 71,
-    "active": -1246
+    "confirmed": 14664,
+    "recovered": 15495,
+    "dead": 107,
+    "active": -938
   }
 }
