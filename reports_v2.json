@@ -1,9 +1,9 @@
 {
-  "confirmed": 9092177,
-  "recovered": 8516511,
-  "dead": 133218,
-  "active": 440399,
-  "updatedTime": "21/11/2020 22:22:34",
+  "confirmed": 9092308,
+  "recovered": 8516609,
+  "dead": 133220,
+  "active": 440430,
+  "updatedTime": "21/11/2020 22:48:37",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -11,7 +11,7 @@
       "active": 79873,
       "recovered": 1647004,
       "dead": 46573,
-      "updatedTime": "21/11/2020 22:21:41",
+      "updatedTime": "21/11/2020 22:27:35",
       "note": "[Sep 9] :239 cases have been removed from the hospitalized figures owing to the removal of duplicates and change of addresses as per the original residence,\n[Aug 15] : MH bulletin has reduced 819 confirmed cases in Mumbai and 72 confirmed cases from 'Other States' from the tally\n[Jun 16] : 1328 deceased cases have been retroactively added to MH bulletin.\n[Jun 20] : 69 deceased cases have been reduced based on state bulletin.",
       "stateCode": "MH",
       "today": {
@@ -299,7 +299,7 @@
       "active": 3232,
       "recovered": 207219,
       "dead": 973,
-      "updatedTime": "21/11/2020 22:21:45",
+      "updatedTime": "21/11/2020 22:27:40",
       "note": "",
       "stateCode": "AS",
       "today": {
@@ -395,7 +395,7 @@
       "active": 11192,
       "recovered": 176905,
       "dead": 3149,
-      "updatedTime": "21/11/2020 22:22:36",
+      "updatedTime": "21/11/2020 22:37:35",
       "note": "[Oct 14]: 4469 confirmed cases and 4469 recoveries added in MP bulletin as reconciliation with private labs and hospitals",
       "stateCode": "MP",
       "today": {
@@ -679,18 +679,18 @@
     },
     "ML": {
       "name": "Meghalaya",
-      "confirmed": 11152,
-      "active": 888,
-      "recovered": 10158,
-      "dead": 106,
-      "updatedTime": "20/11/2020 21:29:04",
+      "confirmed": 11269,
+      "active": 925,
+      "recovered": 10236,
+      "dead": 108,
+      "updatedTime": "21/11/2020 22:48:41",
       "note": "",
       "stateCode": "ML",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 117,
+        "recovered": 78,
+        "dead": 2,
+        "active": 37
       },
       "testing_data": {
         "tested": 228455,
@@ -731,7 +731,7 @@
       "active": 912,
       "recovered": 6856,
       "dead": 98,
-      "updatedTime": "21/11/2020 22:21:53",
+      "updatedTime": "21/11/2020 22:27:46",
       "note": "",
       "stateCode": "LA",
       "today": {
@@ -751,18 +751,18 @@
     },
     "AN": {
       "name": "Andaman and Nicobar",
-      "confirmed": 4617,
-      "active": 148,
-      "recovered": 4408,
+      "confirmed": 4631,
+      "active": 142,
+      "recovered": 4428,
       "dead": 61,
-      "updatedTime": "20/11/2020 23:29:35",
+      "updatedTime": "21/11/2020 22:48:45",
       "note": "",
       "stateCode": "AN",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 14,
+        "recovered": 20,
         "dead": 0,
-        "active": 0
+        "active": -6
       },
       "testing_data": {
         "tested": 114392,
@@ -890,9 +890,9 @@
     "source": "http://twitter.com/ICMRDELHI/status/1329993707647451138"
   },
   "today": {
-    "confirmed": 41540,
-    "recovered": 40544,
-    "dead": 455,
-    "active": 541
+    "confirmed": 41671,
+    "recovered": 40642,
+    "dead": 457,
+    "active": 572
   }
 }
