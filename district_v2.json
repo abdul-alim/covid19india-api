@@ -911,15 +911,15 @@
       {
         "district": "Jorhat",
         "notes": "",
-        "active": 6970,
+        "active": 6969,
         "confirmed": 8771,
         "recovered": 1752,
-        "dead": 49,
+        "dead": 50,
         "today": {
           "confirmed": 0,
           "recovered": 0,
-          "active": 0,
-          "dead": 0
+          "active": -1,
+          "dead": 1
         }
       },
       {
@@ -1163,14 +1163,14 @@
     ],
     "today": {
       "confirmed": 0,
-      "active": 0,
+      "active": -1,
       "recovered": 0,
-      "dead": 0
+      "dead": 1
     },
     "confirmed": 211427,
     "recovered": 207219,
-    "dead": 973,
-    "active": 3232
+    "dead": 974,
+    "active": 3231
   },
   "BR": {
     "state": "Bihar",
