@@ -1,24 +1,24 @@
 {
-  "confirmed": 9162570,
-  "recovered": 8583415,
-  "dead": 134003,
-  "active": 443090,
-  "updatedTime": "23/11/2020 20:26:48",
+  "confirmed": 9170900,
+  "recovered": 8592407,
+  "dead": 134088,
+  "active": 442328,
+  "updatedTime": "23/11/2020 21:15:28",
   "states": {
     "MH": {
       "name": "Maharashtra",
-      "confirmed": 1780208,
-      "active": 81512,
-      "recovered": 1651064,
-      "dead": 46623,
-      "updatedTime": "22/11/2020 20:05:38",
+      "confirmed": 1784361,
+      "active": 81902,
+      "recovered": 1654793,
+      "dead": 46653,
+      "updatedTime": "23/11/2020 21:05:41",
       "note": "[Sep 9] :239 cases have been removed from the hospitalized figures owing to the removal of duplicates and change of addresses as per the original residence,\n[Aug 15] : MH bulletin has reduced 819 confirmed cases in Mumbai and 72 confirmed cases from 'Other States' from the tally\n[Jun 16] : 1328 deceased cases have been retroactively added to MH bulletin.\n[Jun 20] : 69 deceased cases have been reduced based on state bulletin.",
       "stateCode": "MH",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 4153,
+        "recovered": 3729,
+        "dead": 30,
+        "active": 394
       },
       "testing_data": {
         "tested": 10281543,
@@ -175,18 +175,18 @@
     },
     "WB": {
       "name": "West Bengal",
-      "confirmed": 456361,
-      "active": 25207,
-      "recovered": 423129,
-      "dead": 8025,
-      "updatedTime": "22/11/2020 20:23:42",
+      "confirmed": 459918,
+      "active": 25030,
+      "recovered": 426816,
+      "dead": 8072,
+      "updatedTime": "23/11/2020 21:12:29",
       "note": "",
       "stateCode": "WB",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 3557,
+        "recovered": 3687,
+        "dead": 47,
+        "active": -177
       },
       "testing_data": {
         "tested": 5522964,
@@ -200,17 +200,17 @@
     "OR": {
       "name": "Odisha",
       "confirmed": 314629,
-      "active": 7106,
-      "recovered": 305813,
+      "active": 6193,
+      "recovered": 306726,
       "dead": 1710,
-      "updatedTime": "23/11/2020 13:40:32",
+      "updatedTime": "23/11/2020 21:12:30",
       "note": "[July 12th] :20 non-covid deaths reported in state dashboard are included in the deceased count\n[June 22nd]: NDRF/ODRF cases have been redistributed to districts based on state dashboard",
       "stateCode": "OR",
       "today": {
         "confirmed": 668,
-        "recovered": 0,
+        "recovered": 913,
         "dead": 17,
-        "active": 651
+        "active": -262
       },
       "testing_data": {
         "tested": 5604532,
@@ -295,26 +295,26 @@
     },
     "AS": {
       "name": "Assam",
-      "confirmed": 211513,
-      "active": 3142,
-      "recovered": 207394,
-      "dead": 974,
-      "updatedTime": "23/11/2020 03:55:39",
+      "confirmed": 211682,
+      "active": 3179,
+      "recovered": 207525,
+      "dead": 975,
+      "updatedTime": "23/11/2020 21:05:45",
       "note": "",
       "stateCode": "AS",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 169,
+        "recovered": 131,
+        "dead": 1,
+        "active": 37
       },
       "testing_data": {
-        "tested": 5137976,
+        "tested": 5163201,
         "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "22/11/2020",
-        "source": "https://twitter.com/himantabiswa/status/1330515802353647618?s=20"
+        "date": "23/11/2020",
+        "source": ""
       }
     },
     "CT": {
@@ -487,18 +487,18 @@
     },
     "UT": {
       "name": "Uttarakhand",
-      "confirmed": 71256,
-      "active": 4368,
-      "recovered": 65102,
-      "dead": 1155,
-      "updatedTime": "22/11/2020 18:54:46",
+      "confirmed": 71632,
+      "active": 4298,
+      "recovered": 65530,
+      "dead": 1162,
+      "updatedTime": "23/11/2020 21:12:32",
       "note": "[Oct 17]: 89 back-dated deaths included",
       "stateCode": "UT",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 376,
+        "recovered": 428,
+        "dead": 7,
+        "active": -59
       },
       "testing_data": {
         "tested": 1256524,
@@ -511,18 +511,18 @@
     },
     "GA": {
       "name": "Goa",
-      "confirmed": 46826,
-      "active": 1170,
-      "recovered": 44979,
+      "confirmed": 46901,
+      "active": 1141,
+      "recovered": 45083,
       "dead": 677,
-      "updatedTime": "22/11/2020 19:18:40",
+      "updatedTime": "23/11/2020 21:15:30",
       "note": "",
       "stateCode": "GA",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 75,
+        "recovered": 104,
         "dead": 0,
-        "active": 0
+        "active": -29
       },
       "testing_data": {
         "tested": 334198,
@@ -880,7 +880,7 @@
     }
   },
   "testing_data": {
-    "tested": 141616702,
+    "tested": 141641927,
     "positive": 751343,
     "negative": 28771248,
     "unconfirmed": 24878
@@ -890,9 +890,9 @@
     "source": "https://twitter.com/ICMRDELHI/status/1330715081617801217?s=20"
   },
   "today": {
-    "confirmed": 22258,
-    "recovered": 21971,
-    "dead": 230,
-    "active": 57
+    "confirmed": 30588,
+    "recovered": 30963,
+    "dead": 315,
+    "active": -690
   }
 }
