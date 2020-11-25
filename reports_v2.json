@@ -1,9 +1,9 @@
 {
-  "confirmed": 9244069,
-  "recovered": 8660055,
+  "confirmed": 9244839,
+  "recovered": 8661227,
   "dead": 134955,
-  "active": 446966,
-  "updatedTime": "25/11/2020 20:03:40",
+  "active": 446564,
+  "updatedTime": "25/11/2020 20:24:05",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -11,7 +11,7 @@
       "active": 84464,
       "recovered": 1663723,
       "dead": 46748,
-      "updatedTime": "25/11/2020 20:03:42",
+      "updatedTime": "25/11/2020 20:20:44",
       "note": "[Sep 9] :239 cases have been removed from the hospitalized figures owing to the removal of duplicates and change of addresses as per the original residence,\n[Aug 15] : MH bulletin has reduced 819 confirmed cases in Mumbai and 72 confirmed cases from 'Other States' from the tally",
       "stateCode": "MH",
       "today": {
@@ -131,7 +131,7 @@
       "active": 65116,
       "recovered": 511008,
       "dead": 2122,
-      "updatedTime": "25/11/2020 20:02:44",
+      "updatedTime": "25/11/2020 20:07:54",
       "note": "Mahe native who expired in Kannur included in Kerala's deceased tally.\nSome non-covid deaths have also been reported in the bulletin.\nThese have been reduced from active count",
       "stateCode": "KL",
       "today": {
@@ -200,17 +200,17 @@
     "OR": {
       "name": "Odisha",
       "confirmed": 316001,
-      "active": 6887,
-      "recovered": 307374,
+      "active": 6159,
+      "recovered": 308102,
       "dead": 1740,
-      "updatedTime": "25/11/2020 17:56:34",
+      "updatedTime": "25/11/2020 20:22:09",
       "note": "[July 12th] :20 non-covid deaths reported in state dashboard are included in the deceased count",
       "stateCode": "OR",
       "today": {
         "confirmed": 730,
-        "recovered": 0,
+        "recovered": 728,
         "dead": 16,
-        "active": 714
+        "active": -14
       },
       "testing_data": {
         "tested": 5685860,
@@ -415,18 +415,18 @@
     },
     "PB": {
       "name": "Punjab",
-      "confirmed": 147665,
-      "active": 6834,
-      "recovered": 136178,
+      "confirmed": 148435,
+      "active": 7160,
+      "recovered": 136622,
       "dead": 4653,
-      "updatedTime": "25/11/2020 02:16:46",
+      "updatedTime": "25/11/2020 20:23:25",
       "note": "",
       "stateCode": "PB",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 770,
+        "recovered": 444,
         "dead": 0,
-        "active": 0
+        "active": 326
       },
       "testing_data": {
         "tested": 3075865,
@@ -890,9 +890,9 @@
     "source": "https://www.icmr.gov.in/pdf/covid/update/ICMR_testing_update_25Nov2020.pdf"
   },
   "today": {
-    "confirmed": 22071,
-    "recovered": 18651,
+    "confirmed": 22841,
+    "recovered": 19823,
     "dead": 212,
-    "active": 3208
+    "active": 2806
   }
 }
