@@ -1,9 +1,9 @@
 {
-  "confirmed": 9306739,
-  "recovered": 8713256,
+  "confirmed": 9306744,
+  "recovered": 8713257,
   "dead": 135711,
-  "active": 455644,
-  "updatedTime": "26/11/2020 21:43:41",
+  "active": 455648,
+  "updatedTime": "26/11/2020 22:17:36",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -11,7 +11,7 @@
       "active": 85963,
       "recovered": 1668538,
       "dead": 46813,
-      "updatedTime": "26/11/2020 21:43:43",
+      "updatedTime": "26/11/2020 21:58:36",
       "note": "[Sep 9] :239 cases have been removed from the hospitalized figures owing to the removal of duplicates and change of addresses as per the original residence,\n[Aug 15] : MH bulletin has reduced 819 confirmed cases in Mumbai and 72 confirmed cases from 'Other States' from the tally",
       "stateCode": "MH",
       "today": {
@@ -35,7 +35,7 @@
       "active": 25316,
       "recovered": 842499,
       "dead": 11726,
-      "updatedTime": "26/11/2020 21:43:45",
+      "updatedTime": "26/11/2020 21:58:38",
       "note": "",
       "stateCode": "KA",
       "today": {
@@ -103,18 +103,18 @@
     },
     "UP": {
       "name": "Uttar Pradesh",
-      "confirmed": 535444,
-      "active": 25418,
-      "recovered": 502352,
+      "confirmed": 535449,
+      "active": 25422,
+      "recovered": 502353,
       "dead": 7674,
-      "updatedTime": "26/11/2020 21:43:47",
+      "updatedTime": "26/11/2020 22:17:39",
       "note": "",
       "stateCode": "UP",
       "today": {
-        "confirmed": 1627,
-        "recovered": 0,
-        "dead": 0,
-        "active": 1627
+        "confirmed": 2094,
+        "recovered": 1518,
+        "dead": 30,
+        "active": 546
       },
       "testing_data": {
         "tested": 18636313,
@@ -179,7 +179,7 @@
       "active": 24670,
       "recovered": 437604,
       "dead": 8224,
-      "updatedTime": "26/11/2020 21:43:51",
+      "updatedTime": "26/11/2020 21:58:41",
       "note": "",
       "stateCode": "WB",
       "today": {
@@ -395,7 +395,7 @@
       "active": 14199,
       "recovered": 182544,
       "dead": 3209,
-      "updatedTime": "26/11/2020 21:43:54",
+      "updatedTime": "26/11/2020 21:58:43",
       "note": "[Oct 14]: 4469 confirmed cases and 4469 recoveries added in MP bulletin as reconciliation with private labs and hospitals",
       "stateCode": "MP",
       "today": {
@@ -443,7 +443,7 @@
       "active": 2169,
       "recovered": 105258,
       "dead": 961,
-      "updatedTime": "26/11/2020 21:43:56",
+      "updatedTime": "26/11/2020 21:58:45",
       "note": "",
       "stateCode": "JH",
       "today": {
@@ -597,12 +597,12 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 502357,
+        "tested": 508837,
         "positive": 0,
-        "negative": 464816,
-        "unconfirmed": 975,
-        "date": "25/11/2020",
-        "source": "https://twitter.com/nhm_hp/status/1331628313354244100"
+        "negative": 470456,
+        "unconfirmed": 884,
+        "date": "26/11/2020",
+        "source": "https://twitter.com/nhm_hp/status/1331997130953617408"
       }
     },
     "MN": {
@@ -669,12 +669,12 @@
         "active": 32
       },
       "testing_data": {
-        "tested": 135876,
+        "tested": 137442,
         "positive": 0,
-        "negative": 118166,
-        "unconfirmed": 120,
-        "date": "25/11/2020",
-        "source": "https://twitter.com/ANI/status/1331608435918467072?s=20"
+        "negative": 0,
+        "unconfirmed": 0,
+        "date": "26/11/2020",
+        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/3967"
       }
     },
     "ML": {
@@ -880,19 +880,19 @@
     }
   },
   "testing_data": {
-    "tested": 145668908,
+    "tested": 145676954,
     "positive": 773642,
-    "negative": 29492416,
-    "unconfirmed": 27954
+    "negative": 29379890,
+    "unconfirmed": 27743
   },
   "testing_data_imcr": {
     "tested": 135931545,
     "source": "http://twitter.com/ICMRDELHI/status/1331805544739348480"
   },
   "today": {
-    "confirmed": 39580,
-    "recovered": 33753,
-    "dead": 420,
-    "active": 5407
+    "confirmed": 40047,
+    "recovered": 35271,
+    "dead": 450,
+    "active": 4326
   }
 }
