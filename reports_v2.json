@@ -1,9 +1,9 @@
 {
-  "confirmed": 9306744,
-  "recovered": 8713257,
+  "confirmed": 9306769,
+  "recovered": 8713290,
   "dead": 135711,
-  "active": 455648,
-  "updatedTime": "26/11/2020 22:17:36",
+  "active": 455640,
+  "updatedTime": "26/11/2020 22:28:34",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -107,7 +107,7 @@
       "active": 25422,
       "recovered": 502353,
       "dead": 7674,
-      "updatedTime": "26/11/2020 22:17:39",
+      "updatedTime": "26/11/2020 22:24:37",
       "note": "",
       "stateCode": "UP",
       "today": {
@@ -535,18 +535,18 @@
     },
     "PY": {
       "name": "Puducherry",
-      "confirmed": 36820,
-      "active": 545,
-      "recovered": 35666,
+      "confirmed": 36840,
+      "active": 544,
+      "recovered": 35687,
       "dead": 609,
-      "updatedTime": "25/11/2020 18:55:44",
+      "updatedTime": "26/11/2020 22:28:37",
       "note": "",
       "stateCode": "PY",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 20,
+        "recovered": 21,
         "dead": 0,
-        "active": 0
+        "active": -1
       },
       "testing_data": {
         "tested": 395113,
@@ -671,8 +671,8 @@
       "testing_data": {
         "tested": 137442,
         "positive": 0,
-        "negative": 0,
-        "unconfirmed": 0,
+        "negative": 119600,
+        "unconfirmed": 136,
         "date": "26/11/2020",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/3967"
       }
@@ -693,12 +693,12 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 234160,
+        "tested": 235838,
         "positive": 0,
-        "negative": 222647,
+        "negative": 224257,
         "unconfirmed": 0,
-        "date": "25/11/2020",
-        "source": "https://twitter.com/PIBShillong/status/1331630637665587201"
+        "date": "26/11/2020",
+        "source": "https://twitter.com/PIBShillong/status/1332004674908557315"
       }
     },
     "NL": {
@@ -751,18 +751,18 @@
     },
     "AN": {
       "name": "Andaman and Nicobar",
-      "confirmed": 4677,
-      "active": 137,
-      "recovered": 4479,
+      "confirmed": 4682,
+      "active": 130,
+      "recovered": 4491,
       "dead": 61,
-      "updatedTime": "25/11/2020 22:32:38",
+      "updatedTime": "26/11/2020 22:28:41",
       "note": "",
       "stateCode": "AN",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 5,
+        "recovered": 12,
         "dead": 0,
-        "active": 0
+        "active": -7
       },
       "testing_data": {
         "tested": 121931,
@@ -880,19 +880,19 @@
     }
   },
   "testing_data": {
-    "tested": 145676954,
+    "tested": 145678632,
     "positive": 773642,
-    "negative": 29379890,
-    "unconfirmed": 27743
+    "negative": 29501100,
+    "unconfirmed": 27879
   },
   "testing_data_imcr": {
     "tested": 135931545,
     "source": "http://twitter.com/ICMRDELHI/status/1331805544739348480"
   },
   "today": {
-    "confirmed": 40047,
-    "recovered": 35271,
+    "confirmed": 40072,
+    "recovered": 35304,
     "dead": 450,
-    "active": 4326
+    "active": 4318
   }
 }
