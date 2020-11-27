@@ -1,9 +1,9 @@
 {
-  "confirmed": 9324141,
-  "recovered": 8731921,
-  "dead": 135891,
-  "active": 454198,
-  "updatedTime": "27/11/2020 20:04:36",
+  "confirmed": 9325951,
+  "recovered": 8733279,
+  "dead": 135906,
+  "active": 454635,
+  "updatedTime": "27/11/2020 20:23:45",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -107,7 +107,7 @@
       "active": 25639,
       "recovered": 504411,
       "dead": 7697,
-      "updatedTime": "27/11/2020 20:04:38",
+      "updatedTime": "27/11/2020 20:12:38",
       "note": "",
       "stateCode": "UP",
       "today": {
@@ -295,18 +295,18 @@
     },
     "AS": {
       "name": "Assam",
-      "confirmed": 212171,
-      "active": 3283,
-      "recovered": 207905,
+      "confirmed": 212320,
+      "active": 3272,
+      "recovered": 208065,
       "dead": 980,
-      "updatedTime": "27/11/2020 19:57:09",
+      "updatedTime": "27/11/2020 20:23:47",
       "note": "",
       "stateCode": "AS",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 149,
+        "recovered": 160,
         "dead": 2,
-        "active": -2
+        "active": -13
       },
       "testing_data": {
         "tested": 5230177,
@@ -371,7 +371,7 @@
       "active": 14632,
       "recovered": 186546,
       "dead": 3938,
-      "updatedTime": "27/11/2020 20:04:41",
+      "updatedTime": "27/11/2020 20:10:43",
       "note": "",
       "stateCode": "GJ",
       "today": {
@@ -391,18 +391,18 @@
     },
     "MP": {
       "name": "Madhya Pradesh",
-      "confirmed": 199952,
-      "active": 14199,
-      "recovered": 182544,
-      "dead": 3209,
-      "updatedTime": "26/11/2020 21:58:43",
+      "confirmed": 201597,
+      "active": 14677,
+      "recovered": 183696,
+      "dead": 3224,
+      "updatedTime": "27/11/2020 20:23:50",
       "note": "[Oct 14]: 4469 confirmed cases and 4469 recoveries added in MP bulletin as reconciliation with private labs and hospitals",
       "stateCode": "MP",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 1645,
+        "recovered": 1152,
+        "dead": 15,
+        "active": 478
       },
       "testing_data": {
         "tested": 3660907,
@@ -535,18 +535,18 @@
     },
     "PY": {
       "name": "Puducherry",
-      "confirmed": 36840,
-      "active": 544,
-      "recovered": 35687,
+      "confirmed": 36856,
+      "active": 514,
+      "recovered": 35733,
       "dead": 609,
-      "updatedTime": "26/11/2020 22:45:49",
+      "updatedTime": "27/11/2020 20:23:53",
       "note": "",
       "stateCode": "PY",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 16,
+        "recovered": 46,
         "dead": 0,
-        "active": 0
+        "active": -30
       },
       "testing_data": {
         "tested": 395810,
@@ -659,7 +659,7 @@
       "active": 1190,
       "recovered": 15697,
       "dead": 270,
-      "updatedTime": "27/11/2020 20:04:44",
+      "updatedTime": "27/11/2020 20:10:49",
       "note": "",
       "stateCode": "CH",
       "today": {
@@ -830,12 +830,12 @@
         "active": 8
       },
       "testing_data": {
-        "tested": 145189,
+        "tested": 146556,
         "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "26/11/2020",
-        "source": "https://dipr.mizoram.gov.in/post/status-of-state-surveillance-of-covid-19-26112020-last-24hours-500pm-as-per-data-received-from-integrated-diseases-surveillance-programme-idsp"
+        "date": "27/11/2020",
+        "source": "https://dipr.mizoram.gov.in/post/status-of-state-surveillance-of-covid-19-27112020-last-24hours-500pm-as-per-data-received-from-integrated-diseases-surveillance-programme-idsp"
       }
     },
     "UN": {
@@ -880,7 +880,7 @@
     }
   },
   "testing_data": {
-    "tested": 146608595,
+    "tested": 146609962,
     "positive": 777666,
     "negative": 29691032,
     "unconfirmed": 27694
@@ -890,9 +890,9 @@
     "source": "https://www.icmr.gov.in/pdf/covid/update/ICMR_testing_update_27Nov2020.pdf"
   },
   "today": {
-    "confirmed": 14270,
-    "recovered": 14212,
-    "dead": 139,
-    "active": -81
+    "confirmed": 16080,
+    "recovered": 15570,
+    "dead": 154,
+    "active": 356
   }
 }
