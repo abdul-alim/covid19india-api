@@ -1,9 +1,9 @@
 {
-  "confirmed": 9337341,
-  "recovered": 8747146,
-  "dead": 136004,
-  "active": 452056,
-  "updatedTime": "27/11/2020 21:58:41",
+  "confirmed": 9343019,
+  "recovered": 8753295,
+  "dead": 136103,
+  "active": 451486,
+  "updatedTime": "27/11/2020 22:28:54",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -151,18 +151,18 @@
     },
     "DL": {
       "name": "Delhi",
-      "confirmed": 551262,
-      "active": 38734,
-      "recovered": 503717,
-      "dead": 8811,
-      "updatedTime": "26/11/2020 20:08:39",
+      "confirmed": 556744,
+      "active": 38181,
+      "recovered": 509654,
+      "dead": 8909,
+      "updatedTime": "27/11/2020 22:28:57",
       "note": "[July 14]: Value for the total tests conducted has been reduced by 97008 in the state bulletin. Reason given : \"Reconciled with ICMR figures\". We have made the same change.\n[June 16]: 344 deceased cases have been retroactively added to DL bulletin.",
       "stateCode": "DL",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 5482,
+        "recovered": 5937,
+        "dead": 98,
+        "active": -553
       },
       "testing_data": {
         "tested": 6104158,
@@ -439,18 +439,18 @@
     },
     "JH": {
       "name": "Jharkhand",
-      "confirmed": 108388,
-      "active": 2169,
-      "recovered": 105258,
-      "dead": 961,
-      "updatedTime": "26/11/2020 21:58:45",
+      "confirmed": 108577,
+      "active": 2162,
+      "recovered": 105453,
+      "dead": 962,
+      "updatedTime": "27/11/2020 22:29:00",
       "note": "",
       "stateCode": "JH",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 189,
+        "recovered": 195,
+        "dead": 1,
+        "active": -7
       },
       "testing_data": {
         "tested": 4004056,
@@ -751,18 +751,18 @@
     },
     "AN": {
       "name": "Andaman and Nicobar",
-      "confirmed": 4682,
-      "active": 130,
-      "recovered": 4491,
+      "confirmed": 4689,
+      "active": 120,
+      "recovered": 4508,
       "dead": 61,
-      "updatedTime": "26/11/2020 22:45:56",
+      "updatedTime": "27/11/2020 22:29:03",
       "note": "",
       "stateCode": "AN",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 7,
+        "recovered": 17,
         "dead": 0,
-        "active": 0
+        "active": -10
       },
       "testing_data": {
         "tested": 123165,
@@ -890,9 +890,9 @@
     "source": "https://www.icmr.gov.in/pdf/covid/update/ICMR_testing_update_27Nov2020.pdf"
   },
   "today": {
-    "confirmed": 27470,
-    "recovered": 29437,
-    "dead": 252,
-    "active": -2219
+    "confirmed": 33148,
+    "recovered": 35586,
+    "dead": 351,
+    "active": -2789
   }
 }
