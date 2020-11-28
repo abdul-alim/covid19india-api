@@ -1,9 +1,9 @@
 {
-  "confirmed": 9363817,
-  "recovered": 8772761,
-  "dead": 136388,
-  "active": 452528,
-  "updatedTime": "28/11/2020 19:23:37",
+  "confirmed": 9372089,
+  "recovered": 8779901,
+  "dead": 136441,
+  "active": 453602,
+  "updatedTime": "28/11/2020 19:54:40",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -93,12 +93,12 @@
         "active": -36
       },
       "testing_data": {
-        "tested": 11864177,
+        "tested": 11930240,
         "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "27/11/2020",
-        "source": "https://stopcorona.tn.gov.in/wp-content/uploads/2020/11/Media-Bulletin-27.11.2020-15-Pages-English-428-KB.pdf"
+        "date": "28/11/2020",
+        "source": "https://stopcorona.tn.gov.in/daily-bulletin/"
       }
     },
     "UP": {
@@ -127,18 +127,18 @@
     },
     "KL": {
       "name": "Kerala",
-      "confirmed": 587708,
-      "active": 63896,
-      "recovered": 521522,
-      "dead": 2172,
-      "updatedTime": "27/11/2020 20:57:52",
+      "confirmed": 593958,
+      "active": 64846,
+      "recovered": 526797,
+      "dead": 2197,
+      "updatedTime": "28/11/2020 19:54:42",
       "note": "Mahe native who expired in Kannur included in Kerala's deceased tally.\nSome non-covid deaths have also been reported in the bulletin.\nThese have been reduced from active count",
       "stateCode": "KL",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 6250,
+        "recovered": 5275,
+        "dead": 25,
+        "active": 950
       },
       "testing_data": {
         "tested": 6178012,
@@ -155,7 +155,7 @@
       "active": 36578,
       "recovered": 516166,
       "dead": 8998,
-      "updatedTime": "28/11/2020 19:23:39",
+      "updatedTime": "28/11/2020 19:37:46",
       "note": "[July 14]: Value for the total tests conducted has been reduced by 97008 in the state bulletin. Reason given : \"Reconciled with ICMR figures\". We have made the same change.\n[June 16]: 344 deceased cases have been retroactively added to DL bulletin.",
       "stateCode": "DL",
       "today": {
@@ -367,18 +367,18 @@
     },
     "GJ": {
       "name": "Gujarat",
-      "confirmed": 205116,
-      "active": 14632,
-      "recovered": 186546,
-      "dead": 3938,
-      "updatedTime": "27/11/2020 20:10:43",
+      "confirmed": 206714,
+      "active": 14692,
+      "recovered": 188069,
+      "dead": 3953,
+      "updatedTime": "28/11/2020 19:54:45",
       "note": "",
       "stateCode": "GJ",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 1598,
+        "recovered": 1523,
+        "dead": 15,
+        "active": 60
       },
       "testing_data": {
         "tested": 7620892,
@@ -407,7 +407,7 @@
       "testing_data": {
         "tested": 3691219,
         "positive": 0,
-        "negative": 0,
+        "negative": 3415362,
         "unconfirmed": 0,
         "date": "28/11/2020",
         "source": "https://twitter.com/healthminmp/status/1332687799720562692?s=20"
@@ -487,18 +487,18 @@
     },
     "UT": {
       "name": "Uttarakhand",
-      "confirmed": 73527,
-      "active": 4812,
-      "recovered": 66855,
-      "dead": 1201,
-      "updatedTime": "27/11/2020 21:28:49",
+      "confirmed": 73951,
+      "active": 4876,
+      "recovered": 67197,
+      "dead": 1214,
+      "updatedTime": "28/11/2020 19:54:47",
       "note": "[Oct 30]: Metric of capturing the testing data has switched to \"Samples Tested\" from \"Samples Collected\"",
       "stateCode": "UT",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 424,
+        "recovered": 342,
+        "dead": 13,
+        "active": 69
       },
       "testing_data": {
         "tested": 1315525,
@@ -880,9 +880,9 @@
     }
   },
   "testing_data": {
-    "tested": 147734108,
+    "tested": 147800171,
     "positive": 784159,
-    "negative": 26476883,
+    "negative": 29892245,
     "unconfirmed": 28891
   },
   "testing_data_imcr": {
@@ -890,9 +890,9 @@
     "source": "http://twitter.com/ICMRDELHI/status/1332552259826188291"
   },
   "today": {
-    "confirmed": 12593,
-    "recovered": 13875,
-    "dead": 150,
-    "active": -1432
+    "confirmed": 20865,
+    "recovered": 21015,
+    "dead": 203,
+    "active": -353
   }
 }
