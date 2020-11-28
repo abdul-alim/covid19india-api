@@ -1,9 +1,9 @@
 {
-  "confirmed": 9358819,
-  "recovered": 8766249,
-  "dead": 136299,
-  "active": 454131,
-  "updatedTime": "28/11/2020 19:11:39",
+  "confirmed": 9363817,
+  "recovered": 8772761,
+  "dead": 136388,
+  "active": 452528,
+  "updatedTime": "28/11/2020 19:23:37",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -151,18 +151,18 @@
     },
     "DL": {
       "name": "Delhi",
-      "confirmed": 556744,
-      "active": 38181,
-      "recovered": 509654,
-      "dead": 8909,
-      "updatedTime": "27/11/2020 22:41:46",
+      "confirmed": 561742,
+      "active": 36578,
+      "recovered": 516166,
+      "dead": 8998,
+      "updatedTime": "28/11/2020 19:23:39",
       "note": "[July 14]: Value for the total tests conducted has been reduced by 97008 in the state bulletin. Reason given : \"Reconciled with ICMR figures\". We have made the same change.\n[June 16]: 344 deceased cases have been retroactively added to DL bulletin.",
       "stateCode": "DL",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 4998,
+        "recovered": 6512,
+        "dead": 89,
+        "active": -1603
       },
       "testing_data": {
         "tested": 6173209,
@@ -429,12 +429,12 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 3128711,
+        "tested": 3156767,
         "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "27/11/2020",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/3979"
+        "date": "28/11/2020",
+        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/3999"
       }
     },
     "JH": {
@@ -501,12 +501,12 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 1303595,
+        "tested": 1315525,
         "positive": 0,
-        "negative": 1228441,
-        "unconfirmed": 18449,
-        "date": "27/11/2020",
-        "source": "https://twitter.com/PIBDehradun/status/1332345684175978496?s=20"
+        "negative": 1241574,
+        "unconfirmed": 18383,
+        "date": "28/11/2020",
+        "source": "https://health.uk.gov.in/pages/view/111-covid19-health-bulletin-for-uttarakhand-page-11"
       }
     },
     "GA": {
@@ -880,19 +880,19 @@
     }
   },
   "testing_data": {
-    "tested": 147663810,
+    "tested": 147703796,
     "positive": 784159,
-    "negative": 29850434,
-    "unconfirmed": 28957
+    "negative": 29863567,
+    "unconfirmed": 28891
   },
   "testing_data_imcr": {
     "tested": 138220354,
     "source": "http://twitter.com/ICMRDELHI/status/1332552259826188291"
   },
   "today": {
-    "confirmed": 7595,
-    "recovered": 7363,
-    "dead": 61,
-    "active": 171
+    "confirmed": 12593,
+    "recovered": 13875,
+    "dead": 150,
+    "active": -1432
   }
 }
