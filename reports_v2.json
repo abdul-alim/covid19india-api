@@ -1,9 +1,9 @@
 {
-  "confirmed": 9430507,
-  "recovered": 8844502,
+  "confirmed": 9430705,
+  "recovered": 8844716,
   "dead": 137151,
-  "active": 446691,
-  "updatedTime": "29/11/2020 22:29:35",
+  "active": 446675,
+  "updatedTime": "29/11/2020 22:48:34",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -439,18 +439,18 @@
     },
     "JH": {
       "name": "Jharkhand",
-      "confirmed": 108786,
-      "active": 2154,
-      "recovered": 105669,
+      "confirmed": 108984,
+      "active": 2138,
+      "recovered": 105883,
       "dead": 963,
-      "updatedTime": "28/11/2020 22:47:52",
+      "updatedTime": "29/11/2020 22:48:40",
       "note": "",
       "stateCode": "JH",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 198,
+        "recovered": 214,
         "dead": 0,
-        "active": 0
+        "active": -16
       },
       "testing_data": {
         "tested": 4134660,
@@ -645,12 +645,12 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 357695,
+        "tested": 358294,
         "positive": 0,
-        "negative": 329110,
-        "unconfirmed": 51,
-        "date": "28/11/2020",
-        "source": "https://twitter.com/DirectorateofHS/status/1332731462001467392"
+        "negative": 0,
+        "unconfirmed": 0,
+        "date": "29/11/2020",
+        "source": "https://twitter.com/DirectorateofHS/status/1333096360703188994"
       }
     },
     "CH": {
@@ -669,12 +669,12 @@
         "active": 25
       },
       "testing_data": {
-        "tested": 140730,
+        "tested": 141616,
         "positive": 0,
-        "negative": 122777,
-        "unconfirmed": 152,
-        "date": "27/11/2020",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/3986"
+        "negative": 123467,
+        "unconfirmed": 143,
+        "date": "29/11/2020",
+        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/4020"
       }
     },
     "ML": {
@@ -880,19 +880,19 @@
     }
   },
   "testing_data": {
-    "tested": 149528947,
+    "tested": 149530432,
     "positive": 790288,
-    "negative": 21122112,
-    "unconfirmed": 107896
+    "negative": 20793692,
+    "unconfirmed": 107836
   },
   "testing_data_imcr": {
     "tested": 139503803,
     "source": "https://www.icmr.gov.in/pdf/covid/update/ICMR_testing_update_29Nov2020.pdf"
   },
   "today": {
-    "confirmed": 37468,
-    "recovered": 43341,
+    "confirmed": 37666,
+    "recovered": 43555,
     "dead": 418,
-    "active": -6291
+    "active": -6307
   }
 }
