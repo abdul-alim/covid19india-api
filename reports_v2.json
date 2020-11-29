@@ -1,9 +1,9 @@
 {
-  "confirmed": 9406375,
-  "recovered": 8816107,
-  "dead": 136871,
-  "active": 451248,
-  "updatedTime": "29/11/2020 18:51:59",
+  "confirmed": 9406995,
+  "recovered": 8819896,
+  "dead": 136878,
+  "active": 448072,
+  "updatedTime": "29/11/2020 19:03:49",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -55,18 +55,18 @@
     },
     "AP": {
       "name": "Andhra Pradesh",
-      "confirmed": 867063,
-      "active": 11571,
-      "recovered": 848511,
-      "dead": 6981,
-      "updatedTime": "28/11/2020 18:18:50",
+      "confirmed": 867683,
+      "active": 8397,
+      "recovered": 852298,
+      "dead": 6988,
+      "updatedTime": "29/11/2020 19:03:53",
       "note": "",
       "stateCode": "AP",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 620,
+        "recovered": 3787,
+        "dead": 7,
+        "active": -3174
       },
       "testing_data": {
         "tested": 9962416,
@@ -83,7 +83,7 @@
       "active": 11052,
       "recovered": 757750,
       "dead": 11703,
-      "updatedTime": "29/11/2020 18:52:03",
+      "updatedTime": "29/11/2020 19:02:01",
       "note": "[July 22]: 444 backdated deceased entries added to Chennai in TN bulletin.\n2 deaths cross notified to other states from Chennai and Coimbatore.\n1 patient died after turning negative for infection in Chengalpattu.\nThese cases have been added to TN deceased tally",
       "stateCode": "TN",
       "today": {
@@ -107,7 +107,7 @@
       "active": 24575,
       "recovered": 509556,
       "dead": 7742,
-      "updatedTime": "29/11/2020 18:52:06",
+      "updatedTime": "29/11/2020 19:02:04",
       "note": "",
       "stateCode": "UP",
       "today": {
@@ -275,7 +275,7 @@
       "active": 28758,
       "recovered": 234336,
       "dead": 2292,
-      "updatedTime": "29/11/2020 18:52:10",
+      "updatedTime": "29/11/2020 19:02:08",
       "note": "",
       "stateCode": "RJ",
       "today": {
@@ -467,7 +467,7 @@
       "active": 5087,
       "recovered": 103082,
       "dead": 1685,
-      "updatedTime": "29/11/2020 18:52:14",
+      "updatedTime": "29/11/2020 18:56:07",
       "note": "",
       "stateCode": "JK",
       "today": {
@@ -800,17 +800,17 @@
     "DN": {
       "name": "Dadra and Nagar Haveli and Daman and Diu",
       "confirmed": 3325,
-      "active": 26,
-      "recovered": 3268,
+      "active": 24,
+      "recovered": 3270,
       "dead": 2,
-      "updatedTime": "28/11/2020 18:18:58",
+      "updatedTime": "29/11/2020 19:03:58",
       "note": "",
       "stateCode": "DN",
       "today": {
         "confirmed": 0,
-        "recovered": 0,
+        "recovered": 2,
         "dead": 0,
-        "active": 0
+        "active": -2
       },
       "isUnknown": true
     },
@@ -890,9 +890,9 @@
     "source": "https://www.icmr.gov.in/pdf/covid/update/ICMR_testing_update_29Nov2020.pdf"
   },
   "today": {
-    "confirmed": 13336,
-    "recovered": 14946,
-    "dead": 138,
-    "active": -1748
+    "confirmed": 13956,
+    "recovered": 18735,
+    "dead": 145,
+    "active": -4924
   }
 }
