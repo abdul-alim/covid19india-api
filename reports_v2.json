@@ -1,8 +1,8 @@
 {
-  "confirmed": 9457552,
-  "recovered": 8879252,
+  "confirmed": 9457551,
+  "recovered": 8879311,
   "dead": 137517,
-  "active": 438609,
+  "active": 438549,
   "updatedTime": "30/11/2020 21:22:25",
   "states": {
     "MH": {
@@ -50,7 +50,7 @@
         "negative": 0,
         "unconfirmed": 0,
         "date": "30/11/2020",
-        "source": ""
+        "source": "https://drive.google.com/file/d/1zy8wAonkqpHpMsU8IwFbzm3blXQI0QP8/view?usp=drivesdk"
       }
     },
     "AP": {
@@ -549,12 +549,12 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 403249,
-        "positive": 41181,
-        "negative": 361956,
-        "unconfirmed": 112,
-        "date": "29/11/2020",
-        "source": "https://covid19dashboard.py.gov.in/LabTestReport"
+        "tested": 405325,
+        "positive": 41214,
+        "negative": 364043,
+        "unconfirmed": 68,
+        "date": "30/11/2020",
+        "source": "https://health.py.gov.in/sites/default/files/bulletin30112020.pdf"
       }
     },
     "TR": {
@@ -597,12 +597,12 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 525941,
+        "tested": 529355,
         "positive": 0,
-        "negative": 485245,
-        "unconfirmed": 693,
-        "date": "29/11/2020",
-        "source": "https://twitter.com/nhm_hp/status/1333081658522681346"
+        "negative": 488217,
+        "unconfirmed": 620,
+        "date": "30/11/2020",
+        "source": "https://twitter.com/nhm_hp/status/1333439932833009664?s=20"
       }
     },
     "MN": {
@@ -816,18 +816,18 @@
     },
     "MZ": {
       "name": "Mizoram",
-      "confirmed": 3826,
-      "active": 381,
-      "recovered": 3440,
+      "confirmed": 3825,
+      "active": 321,
+      "recovered": 3499,
       "dead": 5,
       "updatedTime": "30/11/2020 16:08:39",
       "note": "",
       "stateCode": "MZ",
       "today": {
-        "confirmed": 3,
-        "recovered": 0,
+        "confirmed": 2,
+        "recovered": 59,
         "dead": 0,
-        "active": 3
+        "active": -57
       },
       "testing_data": {
         "tested": 150119,
@@ -880,19 +880,19 @@
     }
   },
   "testing_data": {
-    "tested": 150447986,
-    "positive": 793906,
-    "negative": 21277776,
-    "unconfirmed": 102875
+    "tested": 150453476,
+    "positive": 793939,
+    "negative": 21282835,
+    "unconfirmed": 102758
   },
   "testing_data_imcr": {
     "tested": 140379976,
     "source": "http://twitter.com/ICMRDELHI/status/1333254628410945536"
   },
   "today": {
-    "confirmed": 25477,
-    "recovered": 32939,
+    "confirmed": 25476,
+    "recovered": 32998,
     "dead": 340,
-    "active": -7802
+    "active": -7862
   }
 }
