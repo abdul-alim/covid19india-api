@@ -1,9 +1,9 @@
 {
   "confirmed": 9462727,
-  "recovered": 8887607,
+  "recovered": 8887660,
   "dead": 137648,
-  "active": 435298,
-  "updatedTime": "30/11/2020 23:16:13",
+  "active": 435245,
+  "updatedTime": "30/11/2020 23:24:07",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -632,25 +632,25 @@
     "AR": {
       "name": "Arunachal Pradesh",
       "confirmed": 16282,
-      "active": 864,
-      "recovered": 15364,
+      "active": 817,
+      "recovered": 15411,
       "dead": 54,
-      "updatedTime": "30/11/2020 23:16:22",
+      "updatedTime": "30/11/2020 23:24:10",
       "note": "[July 25]: All numbers corresponding to Papum Pare and Captial Complex are tracked under Papum Pare district.",
       "stateCode": "AR",
       "today": {
         "confirmed": 13,
-        "recovered": 0,
+        "recovered": 47,
         "dead": 0,
-        "active": 13
+        "active": -34
       },
       "testing_data": {
-        "tested": 358294,
+        "tested": 359123,
         "positive": 0,
-        "negative": 329702,
+        "negative": 330517,
         "unconfirmed": 54,
-        "date": "29/11/2020",
-        "source": "https://twitter.com/DirectorateofHS/status/1333096360703188994"
+        "date": "30/11/2020",
+        "source": "https://twitter.com/DirectorateofHS/status/1333464021043798016"
       }
     },
     "CH": {
@@ -800,17 +800,17 @@
     "DN": {
       "name": "Dadra and Nagar Haveli and Daman and Diu",
       "confirmed": 3327,
-      "active": 25,
-      "recovered": 3271,
+      "active": 19,
+      "recovered": 3277,
       "dead": 2,
-      "updatedTime": "30/11/2020 03:22:00",
+      "updatedTime": "30/11/2020 23:24:12",
       "note": "",
       "stateCode": "DN",
       "today": {
         "confirmed": 0,
-        "recovered": 0,
+        "recovered": 6,
         "dead": 0,
-        "active": 0
+        "active": -6
       },
       "isUnknown": true
     },
@@ -880,9 +880,9 @@
     }
   },
   "testing_data": {
-    "tested": 150533085,
+    "tested": 150533914,
     "positive": 793939,
-    "negative": 21285184,
+    "negative": 21285999,
     "unconfirmed": 102758
   },
   "testing_data_imcr": {
@@ -891,8 +891,8 @@
   },
   "today": {
     "confirmed": 30652,
-    "recovered": 41294,
+    "recovered": 41347,
     "dead": 471,
-    "active": -11113
+    "active": -11166
   }
 }
