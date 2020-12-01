@@ -1,9 +1,9 @@
 {
-  "confirmed": 9463285,
-  "recovered": 8888629,
-  "dead": 137659,
-  "active": 434818,
-  "updatedTime": "1/12/2020 13:12:36",
+  "confirmed": 9464188,
+  "recovered": 8889525,
+  "dead": 137667,
+  "active": 434817,
+  "updatedTime": "1/12/2020 16:18:38",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -199,18 +199,18 @@
     },
     "OR": {
       "name": "Odisha",
-      "confirmed": 318725,
-      "active": 4868,
+      "confirmed": 319103,
+      "active": 5241,
       "recovered": 312065,
-      "dead": 1792,
-      "updatedTime": "30/11/2020 20:50:05",
+      "dead": 1797,
+      "updatedTime": "01/12/2020 16:18:40",
       "note": "[July 12th] :20 non-covid deaths reported in state dashboard are included in the deceased count",
       "stateCode": "OR",
       "today": {
-        "confirmed": 0,
+        "confirmed": 378,
         "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "dead": 5,
+        "active": 373
       },
       "testing_data": {
         "tested": 5940901,
@@ -223,18 +223,18 @@
     },
     "TG": {
       "name": "Telangana",
-      "confirmed": 269816,
-      "active": 10022,
-      "recovered": 258336,
-      "dead": 1458,
-      "updatedTime": "30/11/2020 16:08:36",
+      "confirmed": 270318,
+      "active": 9627,
+      "recovered": 259230,
+      "dead": 1461,
+      "updatedTime": "01/12/2020 16:18:42",
       "note": "[July 27] : Telangana bulletin for the previous day is released on the next day. We will add the cases for Telangana against the date of release, as that is the convention that we are following for other states.\n--\nDistrict-wise numbers are not reported because cumulative counts for each district are not provided in Telangana bulletin",
       "stateCode": "TG",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 502,
+        "recovered": 894,
+        "dead": 3,
+        "active": -395
       },
       "testing_data": {
         "tested": 5500058,
@@ -799,35 +799,35 @@
     },
     "DN": {
       "name": "Dadra and Nagar Haveli and Daman and Diu",
-      "confirmed": 3327,
-      "active": 19,
-      "recovered": 3277,
+      "confirmed": 3328,
+      "active": 18,
+      "recovered": 3279,
       "dead": 2,
-      "updatedTime": "30/11/2020 23:29:40",
+      "updatedTime": "01/12/2020 16:18:44",
       "note": "",
       "stateCode": "DN",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 1,
+        "recovered": 2,
         "dead": 0,
-        "active": 0
+        "active": -1
       },
       "isUnknown": true
     },
     "MZ": {
       "name": "Mizoram",
-      "confirmed": 3825,
-      "active": 321,
+      "confirmed": 3847,
+      "active": 343,
       "recovered": 3499,
       "dead": 5,
-      "updatedTime": "30/11/2020 22:13:52",
+      "updatedTime": "01/12/2020 16:18:46",
       "note": "",
       "stateCode": "MZ",
       "today": {
-        "confirmed": 0,
+        "confirmed": 22,
         "recovered": 0,
         "dead": 0,
-        "active": 0
+        "active": 22
       },
       "testing_data": {
         "tested": 150119,
@@ -890,9 +890,9 @@
     "source": "https://twitter.com/ICMRDELHI/status/1333632992900567041?s=20"
   },
   "today": {
-    "confirmed": 31,
-    "recovered": 34,
-    "dead": 0,
-    "active": -3
+    "confirmed": 934,
+    "recovered": 930,
+    "dead": 8,
+    "active": -4
   }
 }
