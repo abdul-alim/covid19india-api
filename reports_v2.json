@@ -1,9 +1,9 @@
 {
-  "confirmed": 9536320,
-  "recovered": 8973618,
-  "dead": 138694,
-  "active": 421751,
-  "updatedTime": "3/12/2020 13:02:54",
+  "confirmed": 9536928,
+  "recovered": 8974260,
+  "dead": 138701,
+  "active": 421710,
+  "updatedTime": "3/12/2020 18:10:56",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -247,18 +247,18 @@
     },
     "BR": {
       "name": "Bihar",
-      "confirmed": 236778,
-      "active": 5502,
-      "recovered": 230001,
-      "dead": 1274,
-      "updatedTime": "02/12/2020 17:39:57",
+      "confirmed": 237349,
+      "active": 5564,
+      "recovered": 230503,
+      "dead": 1281,
+      "updatedTime": "03/12/2020 18:10:59",
       "note": "",
       "stateCode": "BR",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 571,
+        "recovered": 502,
+        "dead": 7,
+        "active": 62
       },
       "testing_data": {
         "tested": 14921021,
@@ -559,18 +559,18 @@
     },
     "TR": {
       "name": "Tripura",
-      "confirmed": 32792,
-      "active": 568,
-      "recovered": 31832,
+      "confirmed": 32800,
+      "active": 552,
+      "recovered": 31856,
       "dead": 369,
-      "updatedTime": "03/12/2020 11:29:56",
+      "updatedTime": "03/12/2020 18:11:03",
       "note": "[Aug 4]: Tripura bulletin for the previous day is released on the next day. We will add the cases for Tripura against the date of release, as that is the convention that we are following for other states.",
       "stateCode": "TR",
       "today": {
-        "confirmed": 31,
-        "recovered": 34,
+        "confirmed": 39,
+        "recovered": 58,
         "dead": 0,
-        "active": -3
+        "active": -19
       },
       "testing_data": {
         "tested": 533103,
@@ -703,18 +703,18 @@
     },
     "NL": {
       "name": "Nagaland",
-      "confirmed": 11254,
-      "active": 721,
-      "recovered": 10358,
+      "confirmed": 11283,
+      "active": 698,
+      "recovered": 10410,
       "dead": 64,
-      "updatedTime": "02/12/2020 20:11:07",
+      "updatedTime": "03/12/2020 18:11:05",
       "note": "",
       "stateCode": "NL",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 29,
+        "recovered": 52,
         "dead": 0,
-        "active": 0
+        "active": -23
       },
       "testing_data": {
         "tested": 113727,
@@ -765,12 +765,12 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 131080,
-        "positive": 4718,
+        "tested": 132784,
+        "positive": 4723,
         "negative": 0,
         "unconfirmed": 1,
-        "date": "01/12/2020",
-        "source": "https://dhs.andaman.gov.in/NewEvents/484.pdf"
+        "date": "02/12/2020",
+        "source": "https://dhs.andaman.gov.in/NewEvents/485.pdf"
       }
     },
     "SK": {
@@ -800,34 +800,34 @@
     "DN": {
       "name": "Dadra and Nagar Haveli and Daman and Diu",
       "confirmed": 3333,
-      "active": 17,
-      "recovered": 3285,
+      "active": 16,
+      "recovered": 3286,
       "dead": 2,
-      "updatedTime": "02/12/2020 20:28:57",
+      "updatedTime": "03/12/2020 18:11:07",
       "note": "",
       "stateCode": "DN",
       "today": {
         "confirmed": 0,
-        "recovered": 0,
+        "recovered": 1,
         "dead": 0,
-        "active": 0
+        "active": -1
       },
       "isUnknown": true
     },
     "MZ": {
       "name": "Mizoram",
       "confirmed": 3881,
-      "active": 291,
-      "recovered": 3584,
+      "active": 228,
+      "recovered": 3647,
       "dead": 6,
-      "updatedTime": "03/12/2020 11:09:01",
+      "updatedTime": "03/12/2020 18:11:09",
       "note": "",
       "stateCode": "MZ",
       "today": {
         "confirmed": 12,
-        "recovered": 0,
+        "recovered": 63,
         "dead": 0,
-        "active": 12
+        "active": -51
       },
       "testing_data": {
         "tested": 152137,
@@ -880,8 +880,8 @@
     }
   },
   "testing_data": {
-    "tested": 153006461,
-    "positive": 806252,
+    "tested": 153008165,
+    "positive": 806257,
     "negative": 30937855,
     "unconfirmed": 93251
   },
@@ -890,9 +890,9 @@
     "source": "http://twitter.com/ICMRDELHI/status/1334338099531243520"
   },
   "today": {
-    "confirmed": 1086,
-    "recovered": 907,
-    "dead": 8,
-    "active": 171
+    "confirmed": 1694,
+    "recovered": 1549,
+    "dead": 15,
+    "active": 130
   }
 }
