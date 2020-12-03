@@ -1,9 +1,9 @@
 {
-  "confirmed": 9535234,
-  "recovered": 8972711,
-  "dead": 138686,
-  "active": 421602,
-  "updatedTime": "3/12/2020 09:16:55",
+  "confirmed": 9536320,
+  "recovered": 8973618,
+  "dead": 138694,
+  "active": 421773,
+  "updatedTime": "3/12/2020 11:13:59",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -199,18 +199,18 @@
     },
     "OR": {
       "name": "Odisha",
-      "confirmed": 319583,
-      "active": 4386,
+      "confirmed": 320017,
+      "active": 4815,
       "recovered": 313394,
-      "dead": 1803,
-      "updatedTime": "02/12/2020 22:05:55",
+      "dead": 1808,
+      "updatedTime": "03/12/2020 11:14:01",
       "note": "[July 12th] :20 non-covid deaths reported in state dashboard are included in the deceased count",
       "stateCode": "OR",
       "today": {
-        "confirmed": 0,
+        "confirmed": 434,
         "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "dead": 5,
+        "active": 429
       },
       "testing_data": {
         "tested": 5977970,
@@ -223,18 +223,18 @@
     },
     "TG": {
       "name": "Telangana",
-      "confirmed": 270883,
-      "active": 9266,
-      "recovered": 260155,
-      "dead": 1462,
-      "updatedTime": "02/12/2020 16:15:56",
+      "confirmed": 271492,
+      "active": 8999,
+      "recovered": 261028,
+      "dead": 1465,
+      "updatedTime": "03/12/2020 11:08:58",
       "note": "[July 27] : Telangana bulletin for the previous day is released on the next day. We will add the cases for Telangana against the date of release, as that is the convention that we are following for other states.\n--\nDistrict-wise numbers are not reported because cumulative counts for each district are not provided in Telangana bulletin",
       "stateCode": "TG",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 609,
+        "recovered": 873,
+        "dead": 3,
+        "active": -267
       },
       "testing_data": {
         "tested": 5551620,
@@ -559,18 +559,18 @@
     },
     "TR": {
       "name": "Tripura",
-      "confirmed": 32761,
-      "active": 571,
-      "recovered": 31798,
+      "confirmed": 32792,
+      "active": 568,
+      "recovered": 31832,
       "dead": 369,
-      "updatedTime": "02/12/2020 16:15:58",
+      "updatedTime": "03/12/2020 11:14:03",
       "note": "[Aug 4]: Tripura bulletin for the previous day is released on the next day. We will add the cases for Tripura against the date of release, as that is the convention that we are following for other states.",
       "stateCode": "TR",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 31,
+        "recovered": 34,
         "dead": 0,
-        "active": 0
+        "active": -3
       },
       "testing_data": {
         "tested": 530422,
@@ -816,18 +816,18 @@
     },
     "MZ": {
       "name": "Mizoram",
-      "confirmed": 3869,
-      "active": 279,
+      "confirmed": 3881,
+      "active": 291,
       "recovered": 3584,
       "dead": 6,
-      "updatedTime": "02/12/2020 17:40:00",
+      "updatedTime": "03/12/2020 11:09:01",
       "note": "",
       "stateCode": "MZ",
       "today": {
-        "confirmed": 0,
+        "confirmed": 12,
         "recovered": 0,
         "dead": 0,
-        "active": 0
+        "active": 12
       },
       "testing_data": {
         "tested": 152137,
@@ -886,13 +886,13 @@
     "unconfirmed": 93191
   },
   "testing_data_imcr": {
-    "tested": 142445952,
-    "source": "http://twitter.com/ICMRDELHI/status/1333975480140259328"
+    "tested": 143557650,
+    "source": "http://twitter.com/ICMRDELHI/status/1334338099531243520"
   },
   "today": {
-    "confirmed": 0,
-    "recovered": 0,
-    "dead": 0,
-    "active": 0
+    "confirmed": 1086,
+    "recovered": 907,
+    "dead": 8,
+    "active": 171
   }
 }
