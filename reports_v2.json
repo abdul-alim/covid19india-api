@@ -1,9 +1,9 @@
 {
-  "confirmed": 9572164,
-  "recovered": 9015684,
-  "dead": 139232,
-  "active": 414951,
-  "updatedTime": "4/12/2020 13:22:57",
+  "confirmed": 9572856,
+  "recovered": 9016564,
+  "dead": 139234,
+  "active": 414761,
+  "updatedTime": "4/12/2020 15:59:56",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -223,18 +223,18 @@
     },
     "TG": {
       "name": "Telangana",
-      "confirmed": 271492,
-      "active": 8999,
-      "recovered": 261028,
-      "dead": 1465,
-      "updatedTime": "03/12/2020 11:08:58",
+      "confirmed": 272123,
+      "active": 8826,
+      "recovered": 261830,
+      "dead": 1467,
+      "updatedTime": "04/12/2020 15:59:58",
       "note": "[July 27] : Telangana bulletin for the previous day is released on the next day. We will add the cases for Telangana against the date of release, as that is the convention that we are following for other states.\n--\nDistrict-wise numbers are not reported because cumulative counts for each district are not provided in Telangana bulletin",
       "stateCode": "TG",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 631,
+        "recovered": 802,
+        "dead": 2,
+        "active": -173
       },
       "testing_data": {
         "tested": 5662711,
@@ -559,18 +559,18 @@
     },
     "TR": {
       "name": "Tripura",
-      "confirmed": 32800,
-      "active": 552,
-      "recovered": 31856,
+      "confirmed": 32833,
+      "active": 517,
+      "recovered": 31924,
       "dead": 369,
-      "updatedTime": "03/12/2020 18:28:01",
+      "updatedTime": "04/12/2020 16:00:00",
       "note": "[Aug 4]: Tripura bulletin for the previous day is released on the next day. We will add the cases for Tripura against the date of release, as that is the convention that we are following for other states.",
       "stateCode": "TR",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 33,
+        "recovered": 68,
         "dead": 0,
-        "active": 0
+        "active": -35
       },
       "testing_data": {
         "tested": 535379,
@@ -775,11 +775,11 @@
     },
     "SK": {
       "name": "Sikkim",
-      "confirmed": 5072,
-      "active": 300,
-      "recovered": 4572,
+      "confirmed": 5100,
+      "active": 320,
+      "recovered": 4580,
       "dead": 111,
-      "updatedTime": "04/12/2020 07:00:59",
+      "updatedTime": "04/12/2020 16:00:02",
       "note": "",
       "stateCode": "SK",
       "today": {
@@ -800,17 +800,17 @@
     "DN": {
       "name": "Dadra and Nagar Haveli and Daman and Diu",
       "confirmed": 3333,
-      "active": 16,
-      "recovered": 3286,
+      "active": 14,
+      "recovered": 3288,
       "dead": 2,
-      "updatedTime": "03/12/2020 18:28:04",
+      "updatedTime": "04/12/2020 16:00:03",
       "note": "",
       "stateCode": "DN",
       "today": {
         "confirmed": 0,
-        "recovered": 0,
+        "recovered": 2,
         "dead": 0,
-        "active": 0
+        "active": -2
       },
       "isUnknown": true
     },
@@ -890,9 +890,9 @@
     "source": "http://twitter.com/ICMRDELHI/status/1334701824960471044"
   },
   "today": {
-    "confirmed": 384,
-    "recovered": 0,
-    "dead": 5,
-    "active": 379
+    "confirmed": 1048,
+    "recovered": 872,
+    "dead": 7,
+    "active": 169
   }
 }
