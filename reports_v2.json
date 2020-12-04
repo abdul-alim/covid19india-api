@@ -1,9 +1,9 @@
 {
-  "confirmed": 9603779,
-  "recovered": 9053993,
-  "dead": 139669,
-  "active": 407795,
-  "updatedTime": "4/12/2020 21:25:05",
+  "confirmed": 9606810,
+  "recovered": 9056668,
+  "dead": 139700,
+  "active": 408120,
+  "updatedTime": "4/12/2020 21:45:00",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -11,7 +11,7 @@
       "active": 83859,
       "recovered": 1710050,
       "dead": 47599,
-      "updatedTime": "04/12/2020 21:25:07",
+      "updatedTime": "04/12/2020 21:42:04",
       "note": "",
       "stateCode": "MH",
       "today": {
@@ -31,18 +31,18 @@
     },
     "KA": {
       "name": "Karnataka",
-      "confirmed": 889113,
-      "active": 24689,
-      "recovered": 852584,
-      "dead": 11821,
-      "updatedTime": "03/12/2020 19:57:57",
+      "confirmed": 890360,
+      "active": 25046,
+      "recovered": 853461,
+      "dead": 11834,
+      "updatedTime": "04/12/2020 21:45:02",
       "note": "",
       "stateCode": "KA",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 1247,
+        "recovered": 877,
+        "dead": 13,
+        "active": 357
       },
       "testing_data": {
         "tested": 11509892,
@@ -319,18 +319,18 @@
     },
     "CT": {
       "name": "Chhattisgarh",
-      "confirmed": 242418,
-      "active": 19300,
-      "recovered": 220177,
-      "dead": 2941,
-      "updatedTime": "04/12/2020 06:04:00",
+      "confirmed": 243997,
+      "active": 19351,
+      "recovered": 221690,
+      "dead": 2956,
+      "updatedTime": "04/12/2020 21:44:15",
       "note": "",
       "stateCode": "CT",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 1579,
+        "recovered": 1513,
+        "dead": 15,
+        "active": 51
       },
       "testing_data": {
         "tested": 2667761,
@@ -443,7 +443,7 @@
       "active": 1938,
       "recovered": 107074,
       "dead": 978,
-      "updatedTime": "04/12/2020 21:25:10",
+      "updatedTime": "04/12/2020 21:42:14",
       "note": "",
       "stateCode": "JH",
       "today": {
@@ -511,18 +511,18 @@
     },
     "GA": {
       "name": "Goa",
-      "confirmed": 48365,
-      "active": 1418,
-      "recovered": 46251,
+      "confirmed": 48459,
+      "active": 1388,
+      "recovered": 46375,
       "dead": 696,
-      "updatedTime": "04/12/2020 06:04:04",
+      "updatedTime": "04/12/2020 21:44:18",
       "note": "",
       "stateCode": "GA",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 94,
+        "recovered": 124,
         "dead": 0,
-        "active": 0
+        "active": -30
       },
       "testing_data": {
         "tested": 356109,
@@ -549,11 +549,11 @@
         "active": -17
       },
       "testing_data": {
-        "tested": 414952,
-        "positive": 0,
-        "negative": 373481,
-        "unconfirmed": 102,
-        "date": "03/12/2020",
+        "tested": 417259,
+        "positive": 41415,
+        "negative": 375783,
+        "unconfirmed": 61,
+        "date": "04/12/2020",
         "source": "https://health.py.gov.in/"
       }
     },
@@ -655,18 +655,18 @@
     },
     "CH": {
       "name": "Chandigarh",
-      "confirmed": 17717,
-      "active": 981,
-      "recovered": 16452,
-      "dead": 284,
-      "updatedTime": "03/12/2020 19:58:06",
+      "confirmed": 17828,
+      "active": 928,
+      "recovered": 16613,
+      "dead": 287,
+      "updatedTime": "04/12/2020 21:44:26",
       "note": "",
       "stateCode": "CH",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 111,
+        "recovered": 161,
+        "dead": 3,
+        "active": -53
       },
       "testing_data": {
         "tested": 149019,
@@ -880,19 +880,19 @@
     }
   },
   "testing_data": {
-    "tested": 155295086,
-    "positive": 776515,
-    "negative": 22007402,
-    "unconfirmed": 82610
+    "tested": 155297393,
+    "positive": 817930,
+    "negative": 22009704,
+    "unconfirmed": 82569
   },
   "testing_data_imcr": {
     "tested": 144727749,
     "source": "http://twitter.com/ICMRDELHI/status/1334701824960471044"
   },
   "today": {
-    "confirmed": 31971,
-    "recovered": 38291,
-    "dead": 442,
-    "active": -6762
+    "confirmed": 35002,
+    "recovered": 40966,
+    "dead": 473,
+    "active": -6437
   }
 }
