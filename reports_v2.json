@@ -1,9 +1,9 @@
 {
-  "confirmed": 9614737,
-  "recovered": 9065312,
-  "dead": 139807,
-  "active": 407296,
-  "updatedTime": "5/12/2020 20:24:03",
+  "confirmed": 9616770,
+  "recovered": 9067630,
+  "dead": 139826,
+  "active": 406992,
+  "updatedTime": "5/12/2020 20:40:00",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -55,18 +55,18 @@
     },
     "AP": {
       "name": "Andhra Pradesh",
-      "confirmed": 870675,
-      "active": 6422,
-      "recovered": 857233,
-      "dead": 7020,
-      "updatedTime": "04/12/2020 20:50:02",
+      "confirmed": 871305,
+      "active": 6166,
+      "recovered": 858115,
+      "dead": 7024,
+      "updatedTime": "05/12/2020 20:40:02",
       "note": "",
       "stateCode": "AP",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 630,
+        "recovered": 882,
+        "dead": 4,
+        "active": -256
       },
       "testing_data": {
         "tested": 10350283,
@@ -79,18 +79,18 @@
     },
     "TN": {
       "name": "Tamil Nadu",
-      "confirmed": 787554,
-      "active": 10938,
-      "recovered": 764854,
-      "dead": 11762,
-      "updatedTime": "04/12/2020 21:08:17",
+      "confirmed": 788920,
+      "active": 10882,
+      "recovered": 766261,
+      "dead": 11777,
+      "updatedTime": "05/12/2020 20:40:04",
       "note": "[July 22]: 444 backdated deceased entries added to Chennai in TN bulletin.\n2 deaths cross notified to other states from Chennai and Coimbatore.\n1 patient died after turning negative for infection in Chengalpattu.\nThese cases have been added to TN deceased tally",
       "stateCode": "TN",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 1366,
+        "recovered": 1407,
+        "dead": 15,
+        "active": -56
       },
       "testing_data": {
         "tested": 12405328,
@@ -103,18 +103,18 @@
     },
     "UP": {
       "name": "Uttar Pradesh",
-      "confirmed": 552975,
-      "active": 22237,
-      "recovered": 522838,
+      "confirmed": 553012,
+      "active": 22245,
+      "recovered": 522867,
       "dead": 7900,
-      "updatedTime": "05/12/2020 20:24:06",
+      "updatedTime": "05/12/2020 20:40:06",
       "note": "",
       "stateCode": "UP",
       "today": {
-        "confirmed": 1796,
-        "recovered": 2201,
+        "confirmed": 1833,
+        "recovered": 2230,
         "dead": 23,
-        "active": -428
+        "active": -420
       },
       "testing_data": {
         "tested": 19960393,
@@ -203,7 +203,7 @@
       "active": 3715,
       "recovered": 315270,
       "dead": 1818,
-      "updatedTime": "05/12/2020 20:21:06",
+      "updatedTime": "05/12/2020 20:26:02",
       "note": "[July 12th] :20 non-covid deaths reported in state dashboard are included in the deceased count",
       "stateCode": "OR",
       "today": {
@@ -371,7 +371,7 @@
       "active": 14642,
       "recovered": 198627,
       "dead": 4064,
-      "updatedTime": "05/12/2020 20:24:10",
+      "updatedTime": "05/12/2020 20:39:11",
       "note": "",
       "stateCode": "GJ",
       "today": {
@@ -395,7 +395,7 @@
       "active": 13532,
       "recovered": 196192,
       "dead": 3326,
-      "updatedTime": "05/12/2020 20:24:12",
+      "updatedTime": "05/12/2020 20:39:13",
       "note": "[Oct 14]: 4469 confirmed cases and 4469 recoveries added in MP bulletin as reconciliation with private labs and hospitals",
       "stateCode": "MP",
       "today": {
@@ -467,7 +467,7 @@
       "active": 5009,
       "recovered": 106006,
       "dead": 1742,
-      "updatedTime": "05/12/2020 20:24:16",
+      "updatedTime": "05/12/2020 20:39:15",
       "note": "",
       "stateCode": "JK",
       "today": {
@@ -890,9 +890,9 @@
     "source": "http://twitter.com/ICMRDELHI/status/1335079645113327616"
   },
   "today": {
-    "confirmed": 6218,
-    "recovered": 7251,
-    "dead": 70,
-    "active": -1103
+    "confirmed": 8251,
+    "recovered": 9569,
+    "dead": 89,
+    "active": -1407
   }
 }
