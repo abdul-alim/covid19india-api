@@ -1,9 +1,9 @@
 {
-  "confirmed": 9644529,
-  "recovered": 9099946,
-  "dead": 140216,
-  "active": 402002,
-  "updatedTime": "6/12/2020 03:58:01",
+  "confirmed": 9645544,
+  "recovered": 9100939,
+  "dead": 140224,
+  "active": 402016,
+  "updatedTime": "6/12/2020 11:41:59",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -199,18 +199,18 @@
     },
     "OR": {
       "name": "Odisha",
-      "confirmed": 320803,
-      "active": 3715,
+      "confirmed": 321196,
+      "active": 4102,
       "recovered": 315270,
-      "dead": 1818,
-      "updatedTime": "05/12/2020 20:26:02",
+      "dead": 1824,
+      "updatedTime": "06/12/2020 11:42:01",
       "note": "[July 12th] :20 non-covid deaths reported in state dashboard are included in the deceased count",
       "stateCode": "OR",
       "today": {
-        "confirmed": 0,
+        "confirmed": 393,
         "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "dead": 6,
+        "active": 387
       },
       "testing_data": {
         "tested": 6102651,
@@ -223,18 +223,18 @@
     },
     "TG": {
       "name": "Telangana",
-      "confirmed": 272719,
-      "active": 8498,
-      "recovered": 262751,
-      "dead": 1470,
-      "updatedTime": "05/12/2020 16:24:01",
+      "confirmed": 273341,
+      "active": 8125,
+      "recovered": 263744,
+      "dead": 1472,
+      "updatedTime": "06/12/2020 11:42:03",
       "note": "[July 27] : Telangana bulletin for the previous day is released on the next day. We will add the cases for Telangana against the date of release, as that is the convention that we are following for other states.\n--\nDistrict-wise numbers are not reported because cumulative counts for each district are not provided in Telangana bulletin",
       "stateCode": "TG",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 622,
+        "recovered": 993,
+        "dead": 2,
+        "active": -373
       },
       "testing_data": {
         "tested": 5722182,
@@ -890,9 +890,9 @@
     "source": "https://www.icmr.gov.in/pdf/covid/update/ICMR_testing_update_06Dec2020.pdf"
   },
   "today": {
-    "confirmed": 0,
-    "recovered": 0,
-    "dead": 0,
-    "active": 0
+    "confirmed": 1015,
+    "recovered": 993,
+    "dead": 8,
+    "active": 14
   }
 }
