@@ -1,9 +1,9 @@
 {
-  "confirmed": 9660894,
-  "recovered": 9117479,
-  "dead": 140367,
-  "active": 400686,
-  "updatedTime": "6/12/2020 20:21:58",
+  "confirmed": 9664281,
+  "recovered": 9120957,
+  "dead": 140412,
+  "active": 400550,
+  "updatedTime": "6/12/2020 20:59:00",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -21,12 +21,12 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 11205118,
+        "tested": 11273705,
         "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "05/12/2020",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/4156"
+        "date": "06/12/2020",
+        "source": "https://arogya.maharashtra.gov.in/1175/Novel--Corona-Virus"
       }
     },
     "KA": {
@@ -103,18 +103,18 @@
     },
     "UP": {
       "name": "Uttar Pradesh",
-      "confirmed": 553012,
-      "active": 22245,
-      "recovered": 522867,
-      "dead": 7900,
-      "updatedTime": "05/12/2020 20:56:08",
+      "confirmed": 554944,
+      "active": 22160,
+      "recovered": 524860,
+      "dead": 7924,
+      "updatedTime": "06/12/2020 20:59:01",
       "note": "",
       "stateCode": "UP",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 1932,
+        "recovered": 1993,
+        "dead": 24,
+        "active": -85
       },
       "testing_data": {
         "tested": 20128312,
@@ -141,12 +141,12 @@
         "active": -468
       },
       "testing_data": {
-        "tested": 6556713,
-        "positive": 631617,
+        "tested": 6608606,
+        "positive": 636394,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "05/12/2020",
-        "source": "https://dhs.kerala.gov.in/wp-content/uploads/2020/12/Bulletin-HFWD-English-December-05.pdf"
+        "date": "06/12/2020",
+        "source": "https://dhs.kerala.gov.in/wp-content/uploads/2020/12/Bulletin-HFWD-English-December-06.pdf"
       }
     },
     "DL": {
@@ -296,17 +296,17 @@
     "AS": {
       "name": "Assam",
       "confirmed": 213662,
-      "active": 3543,
+      "active": 3539,
       "recovered": 209127,
-      "dead": 989,
-      "updatedTime": "05/12/2020 21:28:07",
+      "dead": 993,
+      "updatedTime": "06/12/2020 20:59:03",
       "note": "",
       "stateCode": "AS",
       "today": {
         "confirmed": 0,
         "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "dead": 4,
+        "active": -4
       },
       "testing_data": {
         "tested": 5449083,
@@ -367,18 +367,18 @@
     },
     "GJ": {
       "name": "Gujarat",
-      "confirmed": 217333,
-      "active": 14642,
-      "recovered": 198627,
-      "dead": 4064,
-      "updatedTime": "05/12/2020 20:41:09",
+      "confirmed": 218788,
+      "active": 14595,
+      "recovered": 200112,
+      "dead": 4081,
+      "updatedTime": "06/12/2020 20:56:05",
       "note": "",
       "stateCode": "GJ",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 1455,
+        "recovered": 1485,
+        "dead": 17,
+        "active": -47
       },
       "testing_data": {
         "tested": 8172380,
@@ -741,12 +741,12 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 95672,
+        "tested": 96751,
         "positive": 0,
-        "negative": 82032,
-        "unconfirmed": 160,
-        "date": "03/12/2020",
-        "source": "https://twitter.com/DIPR_Leh/status/1334791844627054592/photo/3"
+        "negative": 82977,
+        "unconfirmed": 96,
+        "date": "05/12/2020",
+        "source": "https://twitter.com/DIPR_Leh/status/1335424212085829632/photo/3"
       }
     },
     "AN": {
@@ -880,19 +880,19 @@
     }
   },
   "testing_data": {
-    "tested": 157265972,
-    "positive": 824086,
-    "negative": 22333211,
-    "unconfirmed": 74231
+    "tested": 157387531,
+    "positive": 828863,
+    "negative": 22334156,
+    "unconfirmed": 74167
   },
   "testing_data_imcr": {
     "tested": 146986575,
     "source": "https://www.icmr.gov.in/pdf/covid/update/ICMR_testing_update_06Dec2020.pdf"
   },
   "today": {
-    "confirmed": 16365,
-    "recovered": 17533,
-    "dead": 147,
-    "active": -1315
+    "confirmed": 19752,
+    "recovered": 21011,
+    "dead": 192,
+    "active": -1451
   }
 }
