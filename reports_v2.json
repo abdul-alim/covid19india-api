@@ -1,9 +1,9 @@
 {
-  "confirmed": 9695432,
-  "recovered": 9167277,
-  "dead": 140874,
-  "active": 384865,
-  "updatedTime": "7/12/2020 21:44:59",
+  "confirmed": 9697843,
+  "recovered": 9169826,
+  "dead": 140925,
+  "active": 384676,
+  "updatedTime": "7/12/2020 22:22:59",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -11,7 +11,7 @@
       "active": 75767,
       "recovered": 1730715,
       "dead": 47774,
-      "updatedTime": "07/12/2020 21:45:01",
+      "updatedTime": "07/12/2020 22:02:01",
       "note": "",
       "stateCode": "MH",
       "today": {
@@ -175,18 +175,18 @@
     },
     "WB": {
       "name": "West Bengal",
-      "confirmed": 502840,
-      "active": 23894,
-      "recovered": 470223,
-      "dead": 8723,
-      "updatedTime": "06/12/2020 22:37:02",
+      "confirmed": 505054,
+      "active": 23829,
+      "recovered": 472454,
+      "dead": 8771,
+      "updatedTime": "07/12/2020 22:23:01",
       "note": "",
       "stateCode": "WB",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 2214,
+        "recovered": 2231,
+        "dead": 48,
+        "active": -65
       },
       "testing_data": {
         "tested": 6167307,
@@ -439,26 +439,26 @@
     },
     "JH": {
       "name": "Jharkhand",
-      "confirmed": 110278,
-      "active": 1796,
-      "recovered": 107496,
-      "dead": 986,
-      "updatedTime": "07/12/2020 09:14:03",
+      "confirmed": 110457,
+      "active": 1759,
+      "recovered": 107710,
+      "dead": 988,
+      "updatedTime": "07/12/2020 22:23:03",
       "note": "",
       "stateCode": "JH",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 179,
+        "recovered": 214,
+        "dead": 2,
+        "active": -37
       },
       "testing_data": {
-        "tested": 4336774,
-        "positive": 110278,
-        "negative": 4226496,
+        "tested": 4355970,
+        "positive": 110457,
+        "negative": 4245513,
         "unconfirmed": 0,
-        "date": "06/12/2020",
-        "source": "https://twitter.com/rnuddkranchi/status/1335626002387488768"
+        "date": "07/12/2020",
+        "source": "https://twitter.com/rnuddkranchi/status/1335980717763776513"
       }
     },
     "JK": {
@@ -549,11 +549,11 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 421165,
-        "positive": 41494,
-        "negative": 379564,
-        "unconfirmed": 107,
-        "date": "06/12/2020",
+        "tested": 422816,
+        "positive": 41520,
+        "negative": 381224,
+        "unconfirmed": 72,
+        "date": "07/12/2020",
         "source": "https://health.py.gov.in/"
       }
     },
@@ -693,12 +693,12 @@
         "active": -43
       },
       "testing_data": {
-        "tested": 252594,
+        "tested": 256221,
         "positive": 0,
-        "negative": 240430,
+        "negative": 243907,
         "unconfirmed": 0,
-        "date": "05/12/2020",
-        "source": "https://www.syllad.com/meghalaya-97-more-test-positive-for-covid-19-tally-rises-to-12164/"
+        "date": "07/12/2020",
+        "source": "https://www.syllad.com/meghalaya-120-patients-recovered-from-covid-19-77-fresh-cases-detected/"
       }
     },
     "NL": {
@@ -727,18 +727,18 @@
     },
     "LA": {
       "name": "Ladakh",
-      "confirmed": 8893,
-      "active": 858,
-      "recovered": 7915,
-      "dead": 120,
-      "updatedTime": "07/12/2020 09:14:08",
+      "confirmed": 8896,
+      "active": 763,
+      "recovered": 8012,
+      "dead": 121,
+      "updatedTime": "07/12/2020 22:23:05",
       "note": "",
       "stateCode": "LA",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 3,
+        "recovered": 97,
+        "dead": 1,
+        "active": -95
       },
       "testing_data": {
         "tested": 97308,
@@ -751,18 +751,18 @@
     },
     "AN": {
       "name": "Andaman and Nicobar",
-      "confirmed": 4758,
-      "active": 73,
-      "recovered": 4624,
+      "confirmed": 4773,
+      "active": 81,
+      "recovered": 4631,
       "dead": 61,
-      "updatedTime": "07/12/2020 09:59:04",
+      "updatedTime": "07/12/2020 22:23:07",
       "note": "",
       "stateCode": "AN",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 15,
+        "recovered": 7,
         "dead": 0,
-        "active": 0
+        "active": 8
       },
       "testing_data": {
         "tested": 139326,
@@ -880,19 +880,19 @@
     }
   },
   "testing_data": {
-    "tested": 158773574,
-    "positive": 832284,
-    "negative": 32064511,
-    "unconfirmed": 65960
+    "tested": 158798048,
+    "positive": 832489,
+    "negative": 32088665,
+    "unconfirmed": 65925
   },
   "testing_data_imcr": {
     "tested": 147787656,
     "source": "http://twitter.com/ICMRDELHI/status/1335788462729924609"
   },
   "today": {
-    "confirmed": 17725,
-    "recovered": 28253,
-    "dead": 264,
-    "active": -10792
+    "confirmed": 20136,
+    "recovered": 30802,
+    "dead": 315,
+    "active": -10981
   }
 }
