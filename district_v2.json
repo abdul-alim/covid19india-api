@@ -827,15 +827,15 @@
       {
         "district": "Dibrugarh",
         "notes": "",
-        "active": 6976,
+        "active": 6975,
         "confirmed": 9486,
         "recovered": 2409,
-        "dead": 101,
+        "dead": 102,
         "today": {
           "confirmed": 0,
           "recovered": 0,
-          "active": 0,
-          "dead": 0
+          "active": -1,
+          "dead": 1
         }
       },
       {
@@ -939,14 +939,14 @@
       {
         "district": "Kamrup Metropolitan",
         "notes": "",
-        "active": 33887,
-        "confirmed": 49398,
+        "active": 33933,
+        "confirmed": 49444,
         "recovered": 15370,
         "dead": 141,
         "today": {
-          "confirmed": 0,
+          "confirmed": 46,
           "recovered": 0,
-          "active": 0,
+          "active": 46,
           "dead": 0
         }
       },
@@ -1162,15 +1162,15 @@
       }
     ],
     "today": {
-      "confirmed": 0,
-      "active": 0,
+      "confirmed": 46,
+      "active": 45,
       "recovered": 0,
-      "dead": 0
+      "dead": 1
     },
-    "confirmed": 214019,
-    "recovered": 209444,
-    "dead": 997,
-    "active": 3575
+    "confirmed": 214165,
+    "recovered": 209622,
+    "dead": 998,
+    "active": 3542
   },
   "BR": {
     "state": "Bihar",
