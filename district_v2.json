@@ -869,15 +869,15 @@
       {
         "district": "Golaghat",
         "notes": "",
-        "active": 2103,
+        "active": 2102,
         "confirmed": 3803,
         "recovered": 1656,
-        "dead": 44,
+        "dead": 45,
         "today": {
           "confirmed": 0,
           "recovered": 0,
-          "active": 0,
-          "dead": 0
+          "active": -1,
+          "dead": 1
         }
       },
       {
@@ -1163,14 +1163,14 @@
     ],
     "today": {
       "confirmed": 0,
-      "active": 0,
+      "active": -1,
       "recovered": 0,
-      "dead": 0
+      "dead": 1
     },
     "confirmed": 214584,
     "recovered": 210054,
-    "dead": 1000,
-    "active": 3527
+    "dead": 1002,
+    "active": 3525
   },
   "BR": {
     "state": "Bihar",
