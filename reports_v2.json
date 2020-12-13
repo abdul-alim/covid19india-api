@@ -1,9 +1,9 @@
 {
-  "confirmed": 9860304,
-  "recovered": 9359831,
-  "dead": 143085,
-  "active": 354846,
-  "updatedTime": "13/12/2020 17:15:02",
+  "confirmed": 9860810,
+  "recovered": 9360452,
+  "dead": 143090,
+  "active": 354726,
+  "updatedTime": "13/12/2020 17:44:04",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -55,26 +55,26 @@
     },
     "AP": {
       "name": "Andhra Pradesh",
-      "confirmed": 875025,
-      "active": 5078,
-      "recovered": 862895,
-      "dead": 7052,
-      "updatedTime": "12/12/2020 18:00:03",
+      "confirmed": 875531,
+      "active": 4966,
+      "recovered": 863508,
+      "dead": 7057,
+      "updatedTime": "13/12/2020 17:44:05",
       "note": "",
       "stateCode": "AP",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 506,
+        "recovered": 613,
+        "dead": 5,
+        "active": -112
       },
       "testing_data": {
-        "tested": 10767117,
+        "tested": 10830990,
         "positive": 0,
-        "negative": 0,
+        "negative": 9955459,
         "unconfirmed": 0,
-        "date": "12/12/2020",
-        "source": "https://twitter.com/ArogyaAndhra/status/1337730433723768833/photo/1"
+        "date": "13/12/2020",
+        "source": "https://twitter.com/ArogyaAndhra/status/1338081502928637954/photo/1"
       }
     },
     "TN": {
@@ -213,12 +213,12 @@
         "active": 388
       },
       "testing_data": {
-        "tested": 6345705,
+        "tested": 6378784,
         "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "12/12/2020",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/4304"
+        "date": "13/12/2020",
+        "source": "https://statedashboard.odisha.gov.in/"
       }
     },
     "TG": {
@@ -237,12 +237,12 @@
         "active": -40
       },
       "testing_data": {
-        "tested": 6081517,
+        "tested": 6128703,
         "positive": 0,
         "negative": 0,
-        "unconfirmed": 607,
-        "date": "12/12/2020",
-        "source": "https://twitter.com/drgsrao/status/1337593928107708418/photo/3"
+        "unconfirmed": 0,
+        "date": "13/12/2020",
+        "source": "https://covid19.telangana.gov.in/"
       }
     },
     "BR": {
@@ -261,12 +261,12 @@
         "active": -52
       },
       "testing_data": {
-        "tested": 16154121,
+        "tested": 16274624,
         "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "12/12/2020",
-        "source": "https://twitter.com/BiharHealthDept/status/1337716903259688960/photo/1"
+        "date": "13/12/2020",
+        "source": "https://twitter.com/BiharHealthDept/status/1338072982078410755/photo/1"
       }
     },
     "RJ": {
@@ -789,12 +789,12 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 65079,
+        "tested": 65261,
         "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "11/12/2020",
-        "source": "http://www.ptinews.com/news/12029593_Sikkim-reports-27-new-COVID-19-cases.html"
+        "date": "12/12/2020",
+        "source": "https://covid19sikkim.org/"
       }
     },
     "DN": {
@@ -817,17 +817,17 @@
     "MZ": {
       "name": "Mizoram",
       "confirmed": 4035,
-      "active": 192,
-      "recovered": 3836,
+      "active": 184,
+      "recovered": 3844,
       "dead": 7,
-      "updatedTime": "13/12/2020 16:32:08",
+      "updatedTime": "13/12/2020 17:44:08",
       "note": "",
       "stateCode": "MZ",
       "today": {
         "confirmed": 11,
-        "recovered": 0,
+        "recovered": 8,
         "dead": 0,
-        "active": 11
+        "active": 3
       },
       "testing_data": {
         "tested": 163202,
@@ -880,19 +880,19 @@
     }
   },
   "testing_data": {
-    "tested": 164557186,
+    "tested": 164822009,
     "positive": 825660,
-    "negative": 23339575,
-    "unconfirmed": 48691
+    "negative": 33295034,
+    "unconfirmed": 48084
   },
   "testing_data_imcr": {
     "tested": 153711833,
     "source": "https://twitter.com/ICMRDELHI/status/1337968190370897922"
   },
   "today": {
-    "confirmed": 2924,
-    "recovered": 2952,
-    "dead": 30,
-    "active": -58
+    "confirmed": 3430,
+    "recovered": 3573,
+    "dead": 35,
+    "active": -178
   }
 }
