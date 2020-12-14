@@ -1,9 +1,9 @@
 {
-  "confirmed": 9902262,
-  "recovered": 9415086,
-  "dead": 143667,
-  "active": 340943,
-  "updatedTime": "14/12/2020 21:04:11",
+  "confirmed": 9904096,
+  "recovered": 9418066,
+  "dead": 143710,
+  "active": 339754,
+  "updatedTime": "14/12/2020 21:23:12",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -11,7 +11,7 @@
       "active": 72383,
       "recovered": 1761615,
       "dead": 48269,
-      "updatedTime": "14/12/2020 21:04:13",
+      "updatedTime": "14/12/2020 21:13:15",
       "note": "",
       "stateCode": "MH",
       "today": {
@@ -93,12 +93,12 @@
         "active": -76
       },
       "testing_data": {
-        "tested": 13030594,
+        "tested": 13020594,
         "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
         "date": "14/12/2020",
-        "source": "https://stopcorona.tn.gov.in/daily-bulletin/"
+        "source": "https://stopcorona.tn.gov.in/wp-content/uploads/2020/12/Media-Bulletin-14.12.2020-16-Pages-English-601-KB.pdf%22"
       }
     },
     "UP": {
@@ -175,26 +175,26 @@
     },
     "WB": {
       "name": "West Bengal",
-      "confirmed": 521795,
-      "active": 22573,
-      "recovered": 490165,
-      "dead": 9057,
-      "updatedTime": "13/12/2020 20:37:12",
+      "confirmed": 523629,
+      "active": 21384,
+      "recovered": 493145,
+      "dead": 9100,
+      "updatedTime": "14/12/2020 21:23:15",
       "note": "",
       "stateCode": "WB",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 1834,
+        "recovered": 2980,
+        "dead": 43,
+        "active": -1189
       },
       "testing_data": {
-        "tested": 6423496,
+        "tested": 6455167,
         "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "13/12/2020",
-        "source": "https://www.wbhealth.gov.in/uploaded_files/corona/WB_DHFW_Bulletin_13th_DECEMBER_REPORT_FINAL.pdf"
+        "date": "14/12/2020",
+        "source": "https://www.wbhealth.gov.in/uploaded_files/corona/WB_DHFW_Bulletin_14th_DECEMBER_REPORT_FINAL.pdf"
       }
     },
     "OR": {
@@ -347,7 +347,7 @@
       "active": 9108,
       "recovered": 241544,
       "dead": 2733,
-      "updatedTime": "14/12/2020 21:04:16",
+      "updatedTime": "14/12/2020 21:13:21",
       "note": "",
       "stateCode": "HR",
       "today": {
@@ -371,7 +371,7 @@
       "active": 12918,
       "recovered": 211703,
       "dead": 4182,
-      "updatedTime": "14/12/2020 21:04:18",
+      "updatedTime": "14/12/2020 21:13:23",
       "note": "",
       "stateCode": "GJ",
       "today": {
@@ -503,8 +503,8 @@
       "testing_data": {
         "tested": 1527416,
         "positive": 0,
-        "negative": 0,
-        "unconfirmed": 0,
+        "negative": 1444410,
+        "unconfirmed": 16227,
         "date": "14/12/2020",
         "source": "https://twitter.com/PIBDehradun/status/1338467992510742528?s=20"
       }
@@ -830,12 +830,12 @@
         "active": -20
       },
       "testing_data": {
-        "tested": 164318,
+        "tested": 164617,
         "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "13/12/2020",
-        "source": "https://dipr.mizoram.gov.in/post/status-of-state-surveillance-of-covid-19-13122020-last-24hours-500pm-as-per-data-received-from-integrated-diseases-surveillance-programme-idsp"
+        "date": "14/12/2020",
+        "source": "https://dipr.mizoram.gov.in/post/status-of-state-surveillance-of-covid-19-14122020-last-24hours-500pm-as-per-data-received-from-integrated-diseases-surveillance-programme-idsp"
       }
     },
     "UN": {
@@ -880,19 +880,19 @@
     }
   },
   "testing_data": {
-    "tested": 166348065,
+    "tested": 166370035,
     "positive": 833229,
-    "negative": 32147953,
-    "unconfirmed": 20107
+    "negative": 33592363,
+    "unconfirmed": 36334
   },
   "testing_data_imcr": {
     "tested": 154566990,
     "source": "https://www.icmr.gov.in/pdf/covid/update/ICMR_testing_update_14Dec2020.pdf"
   },
   "today": {
-    "confirmed": 17546,
-    "recovered": 27478,
-    "dead": 274,
-    "active": -10206
+    "confirmed": 19380,
+    "recovered": 30458,
+    "dead": 317,
+    "active": -11395
   }
 }
