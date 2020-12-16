@@ -1,24 +1,24 @@
 {
-  "confirmed": 9957004,
-  "recovered": 9485244,
-  "dead": 144392,
-  "active": 324763,
-  "updatedTime": "16/12/2020 23:23:07",
+  "confirmed": 9951072,
+  "recovered": 9489143,
+  "dead": 144487,
+  "active": 314831,
+  "updatedTime": "16/12/2020 23:41:13",
   "states": {
     "MH": {
       "name": "Maharashtra",
-      "confirmed": 1886807,
-      "active": 71356,
-      "recovered": 1766010,
-      "dead": 48339,
-      "updatedTime": "16/12/2020 22:47:12",
+      "confirmed": 1880893,
+      "active": 61454,
+      "recovered": 1769897,
+      "dead": 48434,
+      "updatedTime": "16/12/2020 23:41:15",
       "note": "[Dec 16]:10,218 duplicate cases & other state cases removed from total cases.791 recovered cases also removed from total recovered cases while reconciling",
       "stateCode": "MH",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": -5914,
+        "recovered": 3887,
+        "dead": 95,
+        "active": -9896
       },
       "testing_data": {
         "tested": 11871449,
@@ -103,18 +103,18 @@
     },
     "UP": {
       "name": "Uttar Pradesh",
-      "confirmed": 569281,
-      "active": 17831,
-      "recovered": 543332,
+      "confirmed": 569263,
+      "active": 17801,
+      "recovered": 543344,
       "dead": 8118,
-      "updatedTime": "16/12/2020 23:23:09",
+      "updatedTime": "16/12/2020 23:41:17",
       "note": "",
       "stateCode": "UP",
       "today": {
-        "confirmed": 1217,
-        "recovered": 1753,
+        "confirmed": 1199,
+        "recovered": 1765,
         "dead": 15,
-        "active": -551
+        "active": -581
       },
       "testing_data": {
         "tested": 21844458,
@@ -683,7 +683,7 @@
       "active": 687,
       "recovered": 12252,
       "dead": 133,
-      "updatedTime": "16/12/2020 23:23:12",
+      "updatedTime": "16/12/2020 23:40:15",
       "note": "",
       "stateCode": "ML",
       "today": {
@@ -731,7 +731,7 @@
       "active": 539,
       "recovered": 8576,
       "dead": 123,
-      "updatedTime": "16/12/2020 23:23:14",
+      "updatedTime": "16/12/2020 23:40:17",
       "note": "",
       "stateCode": "LA",
       "today": {
@@ -890,9 +890,9 @@
     "source": "http://twitter.com/ICMRDELHI/status/1339049762482388992"
   },
   "today": {
-    "confirmed": 24096,
-    "recovered": 29451,
-    "dead": 261,
-    "active": -5616
+    "confirmed": 18164,
+    "recovered": 33350,
+    "dead": 356,
+    "active": -15542
   }
 }
