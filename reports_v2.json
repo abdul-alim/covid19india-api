@@ -1,9 +1,9 @@
 {
-  "confirmed": 9933475,
-  "recovered": 9456416,
-  "dead": 144134,
-  "active": 330335,
-  "updatedTime": "16/12/2020 10:58:05",
+  "confirmed": 9933906,
+  "recovered": 9456448,
+  "dead": 144141,
+  "active": 330727,
+  "updatedTime": "16/12/2020 14:41:13",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -199,18 +199,18 @@
     },
     "OR": {
       "name": "Odisha",
-      "confirmed": 324389,
-      "active": 2671,
+      "confirmed": 324796,
+      "active": 3073,
       "recovered": 319850,
-      "dead": 1868,
-      "updatedTime": "15/12/2020 23:09:18",
+      "dead": 1873,
+      "updatedTime": "16/12/2020 14:41:15",
       "note": "[July 12th] :20 non-covid deaths reported in state dashboard are included in the deceased count",
       "stateCode": "OR",
       "today": {
-        "confirmed": 0,
+        "confirmed": 407,
         "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "dead": 5,
+        "active": 402
       },
       "testing_data": {
         "tested": 6473365,
@@ -559,26 +559,26 @@
     },
     "TR": {
       "name": "Tripura",
-      "confirmed": 33054,
-      "active": 314,
-      "recovered": 32344,
-      "dead": 373,
-      "updatedTime": "15/12/2020 11:58:08",
+      "confirmed": 33078,
+      "active": 306,
+      "recovered": 32374,
+      "dead": 375,
+      "updatedTime": "16/12/2020 14:41:18",
       "note": "[Aug 4]: Tripura bulletin for the previous day is released on the next day. We will add the cases for Tripura against the date of release, as that is the convention that we are following for other states.",
       "stateCode": "TR",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 24,
+        "recovered": 30,
+        "dead": 2,
+        "active": -8
       },
       "testing_data": {
-        "tested": 556623,
-        "positive": 33054,
-        "negative": 523569,
+        "tested": 559048,
+        "positive": 33078,
+        "negative": 525970,
         "unconfirmed": 0,
-        "date": "15/12/2020",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/4370"
+        "date": "16/12/2020",
+        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/4390"
       }
     },
     "HP": {
@@ -800,17 +800,17 @@
     "DN": {
       "name": "Dadra and Nagar Haveli and Daman and Diu",
       "confirmed": 3349,
-      "active": 18,
-      "recovered": 3300,
+      "active": 16,
+      "recovered": 3302,
       "dead": 2,
-      "updatedTime": "14/12/2020 19:16:42",
+      "updatedTime": "16/12/2020 14:41:20",
       "note": "",
       "stateCode": "DN",
       "today": {
         "confirmed": 0,
-        "recovered": 0,
+        "recovered": 2,
         "dead": 0,
-        "active": 0
+        "active": -2
       },
       "isUnknown": true
     },
@@ -880,9 +880,9 @@
     }
   },
   "testing_data": {
-    "tested": 167700056,
-    "positive": 872030,
-    "negative": 33842114,
+    "tested": 167702481,
+    "positive": 872054,
+    "negative": 33844515,
     "unconfirmed": 38232
   },
   "testing_data_imcr": {
@@ -890,9 +890,9 @@
     "source": "http://twitter.com/ICMRDELHI/status/1339049762482388992"
   },
   "today": {
-    "confirmed": 567,
-    "recovered": 623,
-    "dead": 3,
-    "active": -59
+    "confirmed": 998,
+    "recovered": 655,
+    "dead": 10,
+    "active": 333
   }
 }
