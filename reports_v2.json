@@ -1,9 +1,9 @@
 {
-  "confirmed": 9977110,
-  "recovered": 9518753,
-  "dead": 144816,
-  "active": 310912,
-  "updatedTime": "17/12/2020 22:33:08",
+  "confirmed": 9977760,
+  "recovered": 9519928,
+  "dead": 144829,
+  "active": 310374,
+  "updatedTime": "17/12/2020 23:29:08",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -107,7 +107,7 @@
       "active": 18150,
       "recovered": 544503,
       "dead": 8138,
-      "updatedTime": "17/12/2020 22:33:10",
+      "updatedTime": "17/12/2020 22:50:14",
       "note": "",
       "stateCode": "UP",
       "today": {
@@ -200,17 +200,17 @@
     "OR": {
       "name": "Odisha",
       "confirmed": 325147,
-      "active": 3061,
-      "recovered": 320208,
+      "active": 2685,
+      "recovered": 320584,
       "dead": 1878,
-      "updatedTime": "17/12/2020 14:59:24",
+      "updatedTime": "17/12/2020 23:29:12",
       "note": "[July 12th] :20 non-covid deaths reported in state dashboard are included in the deceased count",
       "stateCode": "OR",
       "today": {
         "confirmed": 351,
-        "recovered": 0,
+        "recovered": 376,
         "dead": 5,
-        "active": 346
+        "active": -30
       },
       "testing_data": {
         "tested": 6502451,
@@ -295,18 +295,18 @@
     },
     "AS": {
       "name": "Assam",
-      "confirmed": 215042,
-      "active": 3541,
-      "recovered": 210488,
+      "confirmed": 215148,
+      "active": 3523,
+      "recovered": 210612,
       "dead": 1010,
-      "updatedTime": "17/12/2020 21:14:18",
+      "updatedTime": "17/12/2020 23:29:14",
       "note": "",
       "stateCode": "AS",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 106,
+        "recovered": 124,
         "dead": 3,
-        "active": -3
+        "active": -21
       },
       "testing_data": {
         "tested": 5717410,
@@ -491,7 +491,7 @@
       "active": 6062,
       "recovered": 76223,
       "dead": 1384,
-      "updatedTime": "17/12/2020 22:33:13",
+      "updatedTime": "17/12/2020 22:50:16",
       "note": "[Oct 30]: Metric of capturing the testing data has switched to \"Samples Tested\" from \"Samples Collected\"",
       "stateCode": "UT",
       "today": {
@@ -583,18 +583,18 @@
     },
     "HP": {
       "name": "Himachal Pradesh",
-      "confirmed": 50680,
-      "active": 6218,
-      "recovered": 43577,
-      "dead": 836,
-      "updatedTime": "16/12/2020 22:44:15",
+      "confirmed": 51143,
+      "active": 6139,
+      "recovered": 44109,
+      "dead": 846,
+      "updatedTime": "17/12/2020 23:29:17",
       "note": "",
       "stateCode": "HP",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 463,
+        "recovered": 532,
+        "dead": 10,
+        "active": -79
       },
       "testing_data": {
         "tested": 649519,
@@ -607,18 +607,18 @@
     },
     "MN": {
       "name": "Manipur",
-      "confirmed": 27373,
-      "active": 1937,
-      "recovered": 25107,
-      "dead": 329,
-      "updatedTime": "16/12/2020 23:21:29",
+      "confirmed": 27454,
+      "active": 1872,
+      "recovered": 25250,
+      "dead": 332,
+      "updatedTime": "17/12/2020 23:29:19",
       "note": "[Dec 14]:824 out of 980 recovered cases are backdated.",
       "stateCode": "MN",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 81,
+        "recovered": 143,
+        "dead": 3,
+        "active": -65
       },
       "testing_data": {
         "tested": 456528,
@@ -755,7 +755,7 @@
       "active": 92,
       "recovered": 4707,
       "dead": 61,
-      "updatedTime": "17/12/2020 22:33:16",
+      "updatedTime": "17/12/2020 22:50:19",
       "note": "",
       "stateCode": "AN",
       "today": {
@@ -779,7 +779,7 @@
       "active": 294,
       "recovered": 4896,
       "dead": 122,
-      "updatedTime": "17/12/2020 22:33:18",
+      "updatedTime": "17/12/2020 22:50:21",
       "note": "",
       "stateCode": "SK",
       "today": {
@@ -890,9 +890,9 @@
     "source": "https://www.icmr.gov.in/pdf/covid/update/ICMR_testing_update_17Dec2020.pdf"
   },
   "today": {
-    "confirmed": 26030,
-    "recovered": 29600,
-    "dead": 329,
-    "active": -3899
+    "confirmed": 26680,
+    "recovered": 30775,
+    "dead": 342,
+    "active": -4437
   }
 }
