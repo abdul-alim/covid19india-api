@@ -1,9 +1,9 @@
 {
-  "confirmed": 9951594,
-  "recovered": 9489671,
-  "dead": 144490,
-  "active": 314822,
-  "updatedTime": "17/12/2020 11:18:09",
+  "confirmed": 9951962,
+  "recovered": 9489703,
+  "dead": 144495,
+  "active": 315153,
+  "updatedTime": "17/12/2020 14:42:22",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -199,18 +199,18 @@
     },
     "OR": {
       "name": "Odisha",
-      "confirmed": 324796,
-      "active": 2715,
+      "confirmed": 325147,
+      "active": 3061,
       "recovered": 320208,
-      "dead": 1873,
-      "updatedTime": "16/12/2020 23:21:26",
+      "dead": 1878,
+      "updatedTime": "17/12/2020 14:42:25",
       "note": "[July 12th] :20 non-covid deaths reported in state dashboard are included in the deceased count",
       "stateCode": "OR",
       "today": {
-        "confirmed": 0,
+        "confirmed": 351,
         "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "dead": 5,
+        "active": 346
       },
       "testing_data": {
         "tested": 6502451,
@@ -559,26 +559,26 @@
     },
     "TR": {
       "name": "Tripura",
-      "confirmed": 33078,
-      "active": 306,
-      "recovered": 32374,
+      "confirmed": 33095,
+      "active": 291,
+      "recovered": 32406,
       "dead": 375,
-      "updatedTime": "16/12/2020 14:49:14",
+      "updatedTime": "17/12/2020 14:42:28",
       "note": "[Aug 4]: Tripura bulletin for the previous day is released on the next day. We will add the cases for Tripura against the date of release, as that is the convention that we are following for other states.",
       "stateCode": "TR",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 17,
+        "recovered": 32,
         "dead": 0,
-        "active": 0
+        "active": -15
       },
       "testing_data": {
-        "tested": 559048,
-        "positive": 33078,
-        "negative": 525970,
+        "tested": 560965,
+        "positive": 33095,
+        "negative": 527870,
         "unconfirmed": 0,
-        "date": "16/12/2020",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/4390"
+        "date": "17/12/2020",
+        "source": "https://covid19.tripura.gov.in/Visitor/ViewStatus.aspx"
       }
     },
     "HP": {
@@ -880,9 +880,9 @@
     }
   },
   "testing_data": {
-    "tested": 168863424,
-    "positive": 878539,
-    "negative": 34077097,
+    "tested": 168865341,
+    "positive": 878556,
+    "negative": 34078997,
     "unconfirmed": 35493
   },
   "testing_data_imcr": {
@@ -890,9 +890,9 @@
     "source": "https://www.icmr.gov.in/pdf/covid/update/ICMR_testing_update_17Dec2020.pdf"
   },
   "today": {
-    "confirmed": 514,
-    "recovered": 518,
-    "dead": 3,
-    "active": -7
+    "confirmed": 882,
+    "recovered": 550,
+    "dead": 8,
+    "active": 324
   }
 }
