@@ -1,9 +1,9 @@
 {
-  "confirmed": 9978394,
-  "recovered": 9520727,
-  "dead": 144830,
-  "active": 310208,
-  "updatedTime": "18/12/2020 11:21:14",
+  "confirmed": 9978769,
+  "recovered": 9520760,
+  "dead": 144834,
+  "active": 310546,
+  "updatedTime": "18/12/2020 11:54:13",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -199,18 +199,18 @@
     },
     "OR": {
       "name": "Odisha",
-      "confirmed": 325147,
-      "active": 2685,
+      "confirmed": 325505,
+      "active": 3039,
       "recovered": 320584,
-      "dead": 1878,
-      "updatedTime": "17/12/2020 23:30:13",
+      "dead": 1882,
+      "updatedTime": "18/12/2020 11:54:16",
       "note": "[July 12th] :20 non-covid deaths reported in state dashboard are included in the deceased count",
       "stateCode": "OR",
       "today": {
-        "confirmed": 0,
+        "confirmed": 358,
         "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "dead": 4,
+        "active": 354
       },
       "testing_data": {
         "tested": 6502451,
@@ -227,7 +227,7 @@
       "active": 7040,
       "recovered": 271649,
       "dead": 1506,
-      "updatedTime": "18/12/2020 11:21:16",
+      "updatedTime": "18/12/2020 11:36:27",
       "note": "[July 27] : Telangana bulletin for the previous day is released on the next day. We will add the cases for Telangana against the date of release, as that is the convention that we are following for other states.\n--\nDistrict-wise numbers are not reported because cumulative counts for each district are not provided in Telangana bulletin",
       "stateCode": "TG",
       "today": {
@@ -559,18 +559,18 @@
     },
     "TR": {
       "name": "Tripura",
-      "confirmed": 33095,
-      "active": 291,
-      "recovered": 32406,
+      "confirmed": 33112,
+      "active": 275,
+      "recovered": 32439,
       "dead": 375,
-      "updatedTime": "17/12/2020 14:59:28",
+      "updatedTime": "18/12/2020 11:54:19",
       "note": "[Aug 4]: Tripura bulletin for the previous day is released on the next day. We will add the cases for Tripura against the date of release, as that is the convention that we are following for other states.",
       "stateCode": "TR",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 17,
+        "recovered": 33,
         "dead": 0,
-        "active": 0
+        "active": -16
       },
       "testing_data": {
         "tested": 560965,
@@ -820,7 +820,7 @@
       "active": 164,
       "recovered": 3923,
       "dead": 7,
-      "updatedTime": "18/12/2020 11:21:20",
+      "updatedTime": "18/12/2020 11:36:30",
       "note": "",
       "stateCode": "MZ",
       "today": {
@@ -890,9 +890,9 @@
     "source": "https://www.icmr.gov.in/pdf/covid/update/ICMR_testing_update_17Dec2020.pdf"
   },
   "today": {
-    "confirmed": 560,
-    "recovered": 683,
-    "dead": 1,
-    "active": -124
+    "confirmed": 935,
+    "recovered": 716,
+    "dead": 5,
+    "active": 214
   }
 }
