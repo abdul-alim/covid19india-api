@@ -1,9 +1,9 @@
 {
-  "confirmed": 10030455,
-  "recovered": 9578137,
-  "dead": 145490,
-  "active": 304166,
-  "updatedTime": "19/12/2020 23:15:06",
+  "confirmed": 10031618,
+  "recovered": 9579658,
+  "dead": 145513,
+  "active": 303785,
+  "updatedTime": "19/12/2020 23:33:15",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -11,7 +11,7 @@
       "active": 61095,
       "recovered": 1781841,
       "dead": 48648,
-      "updatedTime": "19/12/2020 23:15:08",
+      "updatedTime": "19/12/2020 23:32:12",
       "note": "[Dec 16]:10,218 duplicate cases & other state cases removed from total cases.791 recovered cases also removed from total recovered cases while reconciling \n[Sep 9] :239 cases have been removed from the hospitalized figures owing to the removal of duplicates and change of addresses as per the original residence\n[Aug 15] : MH bulletin has reduced 819 confirmed cases in Mumbai and 72 confirmed cases from 'Other States' from the tally\n[Jun 16] : 1328 deceased cases have been retroactively added to MH bulletin.\n[Jun 20] : 69 deceased cases have been reduced based on state bulletin.",
       "stateCode": "MH",
       "today": {
@@ -103,18 +103,18 @@
     },
     "UP": {
       "name": "Uttar Pradesh",
-      "confirmed": 572196,
-      "active": 17955,
-      "recovered": 546087,
-      "dead": 8154,
-      "updatedTime": "18/12/2020 22:36:20",
+      "confirmed": 573360,
+      "active": 17575,
+      "recovered": 547608,
+      "dead": 8177,
+      "updatedTime": "19/12/2020 23:33:17",
       "note": "",
       "stateCode": "UP",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 1164,
+        "recovered": 1521,
+        "dead": 23,
+        "active": -380
       },
       "testing_data": {
         "tested": 22304404,
@@ -415,18 +415,18 @@
     },
     "PB": {
       "name": "Punjab",
-      "confirmed": 162706,
-      "active": 5838,
+      "confirmed": 162705,
+      "active": 5837,
       "recovered": 151679,
       "dead": 5189,
-      "updatedTime": "19/12/2020 23:15:10",
+      "updatedTime": "19/12/2020 23:33:19",
       "note": "",
       "stateCode": "PB",
       "today": {
-        "confirmed": 436,
+        "confirmed": 435,
         "recovered": 560,
         "dead": 19,
-        "active": -143
+        "active": -144
       },
       "testing_data": {
         "tested": 3634626,
@@ -611,7 +611,7 @@
       "active": 1750,
       "recovered": 25512,
       "dead": 336,
-      "updatedTime": "19/12/2020 23:15:12",
+      "updatedTime": "19/12/2020 23:32:18",
       "note": "[Dec 14]:824 out of 980 recovered cases are backdated.",
       "stateCode": "MN",
       "today": {
@@ -741,12 +741,12 @@
         "active": -50
       },
       "testing_data": {
-        "tested": 101651,
+        "tested": 101962,
         "positive": 0,
-        "negative": 87440,
-        "unconfirmed": 59,
-        "date": "18/12/2020",
-        "source": "https://twitter.com/DIPR_Leh/status/1340175276563603456/photo/1"
+        "negative": 87718,
+        "unconfirmed": 53,
+        "date": "19/12/2020",
+        "source": "https://twitter.com/DIPR_Leh/status/1340338434477420544"
       }
     },
     "AN": {
@@ -779,7 +779,7 @@
       "active": 401,
       "recovered": 4943,
       "dead": 123,
-      "updatedTime": "19/12/2020 23:15:14",
+      "updatedTime": "19/12/2020 23:32:21",
       "note": "",
       "stateCode": "SK",
       "today": {
@@ -880,19 +880,19 @@
     }
   },
   "testing_data": {
-    "tested": 172250534,
+    "tested": 172250845,
     "positive": 896191,
-    "negative": 24464259,
-    "unconfirmed": 32648
+    "negative": 24464537,
+    "unconfirmed": 32642
   },
   "testing_data_imcr": {
     "tested": 160090814,
     "source": "https://twitter.com/ICMRDELHI/status/1340135615648522240"
   },
   "today": {
-    "confirmed": 25630,
-    "recovered": 28214,
-    "dead": 319,
-    "active": -2903
+    "confirmed": 26793,
+    "recovered": 29735,
+    "dead": 342,
+    "active": -3284
   }
 }
