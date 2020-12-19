@@ -1,17 +1,17 @@
 {
-  "confirmed": 10029839,
-  "recovered": 9577411,
-  "dead": 145469,
-  "active": 304301,
-  "updatedTime": "19/12/2020 22:38:11",
+  "confirmed": 10030455,
+  "recovered": 9578137,
+  "dead": 145490,
+  "active": 304166,
+  "updatedTime": "19/12/2020 23:15:06",
   "states": {
     "MH": {
       "name": "Maharashtra",
       "confirmed": 1892707,
-      "active": 61099,
+      "active": 61095,
       "recovered": 1781841,
       "dead": 48648,
-      "updatedTime": "19/12/2020 22:38:13",
+      "updatedTime": "19/12/2020 23:15:08",
       "note": "[Dec 16]:10,218 duplicate cases & other state cases removed from total cases.791 recovered cases also removed from total recovered cases while reconciling \n[Sep 9] :239 cases have been removed from the hospitalized figures owing to the removal of duplicates and change of addresses as per the original residence\n[Aug 15] : MH bulletin has reduced 819 confirmed cases in Mumbai and 72 confirmed cases from 'Other States' from the tally\n[Jun 16] : 1328 deceased cases have been retroactively added to MH bulletin.\n[Jun 20] : 69 deceased cases have been reduced based on state bulletin.",
       "stateCode": "MH",
       "today": {
@@ -203,7 +203,7 @@
       "active": 2667,
       "recovered": 321309,
       "dead": 1885,
-      "updatedTime": "19/12/2020 22:38:16",
+      "updatedTime": "19/12/2020 22:55:13",
       "note": "[July 12th] :20 non-covid deaths reported in state dashboard are included in the deceased count",
       "stateCode": "OR",
       "today": {
@@ -299,7 +299,7 @@
       "active": 3526,
       "recovered": 210805,
       "dead": 1012,
-      "updatedTime": "19/12/2020 22:38:19",
+      "updatedTime": "19/12/2020 22:55:15",
       "note": "",
       "stateCode": "AS",
       "today": {
@@ -415,18 +415,18 @@
     },
     "PB": {
       "name": "Punjab",
-      "confirmed": 162270,
-      "active": 5981,
-      "recovered": 151119,
-      "dead": 5170,
-      "updatedTime": "18/12/2020 22:59:20",
+      "confirmed": 162706,
+      "active": 5838,
+      "recovered": 151679,
+      "dead": 5189,
+      "updatedTime": "19/12/2020 23:15:10",
       "note": "",
       "stateCode": "PB",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 436,
+        "recovered": 560,
+        "dead": 19,
+        "active": -143
       },
       "testing_data": {
         "tested": 3634626,
@@ -443,7 +443,7 @@
       "active": 1718,
       "recovered": 110125,
       "dead": 1010,
-      "updatedTime": "19/12/2020 22:38:22",
+      "updatedTime": "19/12/2020 22:55:17",
       "note": "",
       "stateCode": "JH",
       "today": {
@@ -587,7 +587,7 @@
       "active": 5966,
       "recovered": 45138,
       "dead": 858,
-      "updatedTime": "19/12/2020 22:38:24",
+      "updatedTime": "19/12/2020 22:55:19",
       "note": "",
       "stateCode": "HP",
       "today": {
@@ -607,18 +607,18 @@
     },
     "MN": {
       "name": "Manipur",
-      "confirmed": 27540,
-      "active": 1835,
-      "recovered": 25371,
-      "dead": 334,
-      "updatedTime": "19/12/2020 00:08:14",
+      "confirmed": 27598,
+      "active": 1750,
+      "recovered": 25512,
+      "dead": 336,
+      "updatedTime": "19/12/2020 23:15:12",
       "note": "[Dec 14]:824 out of 980 recovered cases are backdated.",
       "stateCode": "MN",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 58,
+        "recovered": 141,
+        "dead": 2,
+        "active": -85
       },
       "testing_data": {
         "tested": 456528,
@@ -683,7 +683,7 @@
       "active": 557,
       "recovered": 12531,
       "dead": 133,
-      "updatedTime": "19/12/2020 22:38:26",
+      "updatedTime": "19/12/2020 22:55:23",
       "note": "",
       "stateCode": "ML",
       "today": {
@@ -755,7 +755,7 @@
       "active": 95,
       "recovered": 4719,
       "dead": 61,
-      "updatedTime": "19/12/2020 22:38:28",
+      "updatedTime": "19/12/2020 22:55:26",
       "note": "",
       "stateCode": "AN",
       "today": {
@@ -775,18 +775,18 @@
     },
     "SK": {
       "name": "Sikkim",
-      "confirmed": 5439,
-      "active": 304,
-      "recovered": 4918,
+      "confirmed": 5561,
+      "active": 401,
+      "recovered": 4943,
       "dead": 123,
-      "updatedTime": "18/12/2020 23:40:28",
+      "updatedTime": "19/12/2020 23:15:14",
       "note": "",
       "stateCode": "SK",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 122,
+        "recovered": 25,
         "dead": 0,
-        "active": 0
+        "active": 97
       },
       "testing_data": {
         "tested": 66130,
@@ -890,9 +890,9 @@
     "source": "https://twitter.com/ICMRDELHI/status/1340135615648522240"
   },
   "today": {
-    "confirmed": 25014,
-    "recovered": 27488,
-    "dead": 298,
-    "active": -2772
+    "confirmed": 25630,
+    "recovered": 28214,
+    "dead": 319,
+    "active": -2903
   }
 }
