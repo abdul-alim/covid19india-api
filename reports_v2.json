@@ -1,9 +1,9 @@
 {
-  "confirmed": 10017161,
-  "recovered": 9566388,
-  "dead": 145366,
-  "active": 302761,
-  "updatedTime": "19/12/2020 21:25:08",
+  "confirmed": 10025133,
+  "recovered": 9573130,
+  "dead": 145390,
+  "active": 303955,
+  "updatedTime": "19/12/2020 21:50:10",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -35,7 +35,7 @@
       "active": 14370,
       "recovered": 881882,
       "dead": 12004,
-      "updatedTime": "19/12/2020 21:25:10",
+      "updatedTime": "19/12/2020 21:38:12",
       "note": "",
       "stateCode": "KA",
       "today": {
@@ -127,18 +127,18 @@
     },
     "KL": {
       "name": "Kerala",
-      "confirmed": 693866,
-      "active": 58866,
-      "recovered": 632065,
+      "confirmed": 700159,
+      "active": 60410,
+      "recovered": 636814,
       "dead": 2787,
-      "updatedTime": "19/12/2020 21:25:12",
+      "updatedTime": "19/12/2020 21:50:12",
       "note": "Mahe native who expired in Kannur included in Kerala's deceased tally.\nSome non-covid deaths have also been reported in the bulletin.\nThese have been reduced from active count",
       "stateCode": "KL",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 6293,
+        "recovered": 4749,
         "dead": 29,
-        "active": -29
+        "active": 1515
       },
       "testing_data": {
         "tested": 7293518,
@@ -391,18 +391,18 @@
     },
     "MP": {
       "name": "Madhya Pradesh",
-      "confirmed": 229130,
-      "active": 11876,
-      "recovered": 213801,
-      "dead": 3453,
-      "updatedTime": "18/12/2020 21:20:10",
+      "confirmed": 230215,
+      "active": 11536,
+      "recovered": 215211,
+      "dead": 3468,
+      "updatedTime": "19/12/2020 21:50:15",
       "note": "[Oct 14]: 4469 confirmed cases and 4469 recoveries added in MP bulletin as reconciliation with private labs and hospitals",
       "stateCode": "MP",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 1085,
+        "recovered": 1410,
+        "dead": 15,
+        "active": -340
       },
       "testing_data": {
         "tested": 4310531,
@@ -487,18 +487,18 @@
     },
     "UT": {
       "name": "Uttarakhand",
-      "confirmed": 85269,
-      "active": 6067,
-      "recovered": 76770,
-      "dead": 1399,
-      "updatedTime": "19/12/2020 18:41:18",
+      "confirmed": 85853,
+      "active": 6074,
+      "recovered": 77326,
+      "dead": 1408,
+      "updatedTime": "19/12/2020 21:50:17",
       "note": "[Oct 30]: Metric of capturing the testing data has switched to \"Samples Tested\" from \"Samples Collected\"",
       "stateCode": "UT",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 584,
+        "recovered": 556,
+        "dead": 9,
+        "active": 19
       },
       "testing_data": {
         "tested": 1602656,
@@ -635,7 +635,7 @@
       "active": 241,
       "recovered": 16333,
       "dead": 55,
-      "updatedTime": "19/12/2020 21:25:15",
+      "updatedTime": "19/12/2020 21:38:19",
       "note": "[July 25]: All numbers corresponding to Papum Pare and Captial Complex are tracked under Papum Pare district.",
       "stateCode": "AR",
       "today": {
@@ -703,18 +703,18 @@
     },
     "NL": {
       "name": "Nagaland",
-      "confirmed": 11832,
-      "active": 554,
-      "recovered": 11076,
+      "confirmed": 11841,
+      "active": 538,
+      "recovered": 11101,
       "dead": 73,
-      "updatedTime": "18/12/2020 23:40:21",
+      "updatedTime": "19/12/2020 21:50:19",
       "note": "",
       "stateCode": "NL",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 9,
+        "recovered": 25,
         "dead": 0,
-        "active": 0
+        "active": -16
       },
       "testing_data": {
         "tested": 118485,
@@ -731,7 +731,7 @@
       "active": 424,
       "recovered": 8722,
       "dead": 124,
-      "updatedTime": "19/12/2020 21:25:17",
+      "updatedTime": "19/12/2020 21:38:21",
       "note": "",
       "stateCode": "LA",
       "today": {
@@ -799,18 +799,18 @@
     },
     "DN": {
       "name": "Dadra and Nagar Haveli and Daman and Diu",
-      "confirmed": 3352,
-      "active": 9,
-      "recovered": 3312,
+      "confirmed": 3353,
+      "active": 8,
+      "recovered": 3314,
       "dead": 2,
-      "updatedTime": "18/12/2020 20:04:30",
+      "updatedTime": "19/12/2020 21:50:21",
       "note": "",
       "stateCode": "DN",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 1,
+        "recovered": 2,
         "dead": 0,
-        "active": 0
+        "active": -1
       },
       "isUnknown": true
     },
@@ -890,9 +890,9 @@
     "source": "https://twitter.com/ICMRDELHI/status/1340135615648522240"
   },
   "today": {
-    "confirmed": 12336,
-    "recovered": 16465,
-    "dead": 195,
-    "active": -4324
+    "confirmed": 20308,
+    "recovered": 23207,
+    "dead": 219,
+    "active": -3118
   }
 }
