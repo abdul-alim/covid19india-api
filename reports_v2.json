@@ -1,9 +1,9 @@
 {
-  "confirmed": 10005850,
-  "recovered": 9550677,
-  "dead": 145178,
-  "active": 307361,
-  "updatedTime": "19/12/2020 12:43:19",
+  "confirmed": 10006630,
+  "recovered": 9551653,
+  "dead": 145186,
+  "active": 307144,
+  "updatedTime": "19/12/2020 18:24:09",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -55,18 +55,18 @@
     },
     "AP": {
       "name": "Andhra Pradesh",
-      "confirmed": 877806,
-      "active": 4377,
-      "recovered": 866359,
-      "dead": 7070,
-      "updatedTime": "18/12/2020 20:04:12",
+      "confirmed": 878285,
+      "active": 4355,
+      "recovered": 866856,
+      "dead": 7074,
+      "updatedTime": "19/12/2020 18:24:11",
       "note": "",
       "stateCode": "AP",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 479,
+        "recovered": 497,
+        "dead": 4,
+        "active": -22
       },
       "testing_data": {
         "tested": 11134359,
@@ -463,18 +463,18 @@
     },
     "JK": {
       "name": "Jammu and Kashmir",
-      "confirmed": 117705,
-      "active": 4244,
-      "recovered": 111628,
-      "dead": 1833,
-      "updatedTime": "18/12/2020 22:36:57",
+      "confirmed": 118006,
+      "active": 4076,
+      "recovered": 112093,
+      "dead": 1837,
+      "updatedTime": "19/12/2020 18:24:14",
       "note": "",
       "stateCode": "JK",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 301,
+        "recovered": 465,
+        "dead": 4,
+        "active": -168
       },
       "testing_data": {
         "tested": 3475137,
@@ -488,10 +488,10 @@
     "UT": {
       "name": "Uttarakhand",
       "confirmed": 85269,
-      "active": 6080,
+      "active": 6067,
       "recovered": 76770,
       "dead": 1399,
-      "updatedTime": "18/12/2020 22:59:23",
+      "updatedTime": "19/12/2020 18:24:16",
       "note": "[Oct 30]: Metric of capturing the testing data has switched to \"Samples Tested\" from \"Samples Collected\"",
       "stateCode": "UT",
       "today": {
@@ -817,17 +817,17 @@
     "MZ": {
       "name": "Mizoram",
       "confirmed": 4110,
-      "active": 160,
-      "recovered": 3943,
+      "active": 146,
+      "recovered": 3957,
       "dead": 7,
-      "updatedTime": "19/12/2020 12:43:32",
+      "updatedTime": "19/12/2020 18:24:19",
       "note": "",
       "stateCode": "MZ",
       "today": {
         "confirmed": 16,
-        "recovered": 3,
+        "recovered": 17,
         "dead": 0,
-        "active": 13
+        "active": -1
       },
       "testing_data": {
         "tested": 169138,
@@ -890,9 +890,9 @@
     "source": "https://twitter.com/ICMRDELHI/status/1340135615648522240"
   },
   "today": {
-    "confirmed": 1025,
-    "recovered": 754,
-    "dead": 7,
-    "active": 264
+    "confirmed": 1805,
+    "recovered": 1730,
+    "dead": 15,
+    "active": 60
   }
 }
