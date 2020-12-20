@@ -1,9 +1,9 @@
 {
-  "confirmed": 10054946,
-  "recovered": 9603689,
-  "dead": 145804,
-  "active": 302781,
-  "updatedTime": "20/12/2020 23:14:20",
+  "confirmed": 10056162,
+  "recovered": 9605224,
+  "dead": 145843,
+  "active": 302423,
+  "updatedTime": "20/12/2020 23:32:20",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -80,17 +80,17 @@
     "TN": {
       "name": "Tamil Nadu",
       "confirmed": 806891,
-      "active": 9608,
+      "active": 9593,
       "recovered": 785315,
-      "dead": 11968,
-      "updatedTime": "20/12/2020 23:14:21",
+      "dead": 11983,
+      "updatedTime": "20/12/2020 23:32:22",
       "note": "[July 22]: 444 backdated deceased entries added to Chennai in TN bulletin.\n2 deaths cross notified to other states from Chennai and Coimbatore.\n1 patient died after turning negative for infection in Chengalpattu.\nThese cases have been added to TN deceased tally",
       "stateCode": "TN",
       "today": {
         "confirmed": 1114,
         "recovered": 1198,
-        "dead": 0,
-        "active": -84
+        "dead": 15,
+        "active": -99
       },
       "testing_data": {
         "tested": 13460016,
@@ -103,18 +103,18 @@
     },
     "UP": {
       "name": "Uttar Pradesh",
-      "confirmed": 573401,
-      "active": 17593,
-      "recovered": 547631,
-      "dead": 8177,
-      "updatedTime": "20/12/2020 00:18:19",
+      "confirmed": 574617,
+      "active": 17255,
+      "recovered": 549166,
+      "dead": 8196,
+      "updatedTime": "20/12/2020 23:32:23",
       "note": "",
       "stateCode": "UP",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 1216,
+        "recovered": 1535,
+        "dead": 19,
+        "active": -338
       },
       "testing_data": {
         "tested": 22439369,
@@ -296,17 +296,17 @@
     "AS": {
       "name": "Assam",
       "confirmed": 215346,
-      "active": 3526,
+      "active": 3521,
       "recovered": 210805,
-      "dead": 1012,
-      "updatedTime": "19/12/2020 22:55:15",
+      "dead": 1017,
+      "updatedTime": "20/12/2020 23:32:25",
       "note": "",
       "stateCode": "AS",
       "today": {
         "confirmed": 0,
         "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "dead": 5,
+        "active": -5
       },
       "testing_data": {
         "tested": 5760162,
@@ -890,9 +890,9 @@
     "source": "http://twitter.com/ICMRDELHI/status/1340500933642313732"
   },
   "today": {
-    "confirmed": 23287,
-    "recovered": 24008,
-    "dead": 291,
-    "active": -1012
+    "confirmed": 24503,
+    "recovered": 25543,
+    "dead": 330,
+    "active": -1370
   }
 }
