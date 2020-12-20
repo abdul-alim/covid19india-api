@@ -1,9 +1,9 @@
 {
-  "confirmed": 10052905,
-  "recovered": 9600391,
+  "confirmed": 10052906,
+  "recovered": 9600408,
   "dead": 145783,
-  "active": 304059,
-  "updatedTime": "20/12/2020 21:26:20",
+  "active": 304043,
+  "updatedTime": "20/12/2020 21:49:20",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -11,7 +11,7 @@
       "active": 62743,
       "recovered": 1783905,
       "dead": 48746,
-      "updatedTime": "20/12/2020 21:26:21",
+      "updatedTime": "20/12/2020 21:42:21",
       "note": "[Dec 16]:10,218 duplicate cases & other state cases removed from total cases.791 recovered cases also removed from total recovered cases while reconciling \n[Sep 9] :239 cases have been removed from the hospitalized figures owing to the removal of duplicates and change of addresses as per the original residence\n[Aug 15] : MH bulletin has reduced 819 confirmed cases in Mumbai and 72 confirmed cases from 'Other States' from the tally\n[Jun 16] : 1328 deceased cases have been retroactively added to MH bulletin.\n[Jun 20] : 69 deceased cases have been reduced based on state bulletin.",
       "stateCode": "MH",
       "today": {
@@ -117,12 +117,12 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 22304404,
+        "tested": 22439369,
         "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "19/12/2020",
-        "source": "https://twitter.com/ShishirGoUP/status/1340275088273227781?s=20"
+        "date": "20/12/2020",
+        "source": "https://twitter.com/ShishirGoUP/status/1340612278350016512"
       }
     },
     "KL": {
@@ -323,7 +323,7 @@
       "active": 16558,
       "recovered": 247480,
       "dead": 3181,
-      "updatedTime": "20/12/2020 21:26:23",
+      "updatedTime": "20/12/2020 21:42:23",
       "note": "",
       "stateCode": "CT",
       "today": {
@@ -371,7 +371,7 @@
       "active": 11840,
       "recovered": 219225,
       "dead": 4234,
-      "updatedTime": "20/12/2020 21:26:24",
+      "updatedTime": "20/12/2020 21:42:25",
       "note": "",
       "stateCode": "GJ",
       "today": {
@@ -631,18 +631,18 @@
     },
     "AR": {
       "name": "Arunachal Pradesh",
-      "confirmed": 16629,
-      "active": 241,
-      "recovered": 16333,
+      "confirmed": 16630,
+      "active": 225,
+      "recovered": 16350,
       "dead": 55,
-      "updatedTime": "19/12/2020 21:38:19",
+      "updatedTime": "20/12/2020 21:49:24",
       "note": "[July 25]: All numbers corresponding to Papum Pare and Captial Complex are tracked under Papum Pare district.",
       "stateCode": "AR",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 1,
+        "recovered": 17,
         "dead": 0,
-        "active": 0
+        "active": -16
       },
       "testing_data": {
         "tested": 372693,
@@ -880,7 +880,7 @@
     }
   },
   "testing_data": {
-    "tested": 173214341,
+    "tested": 173349306,
     "positive": 902096,
     "negative": 24616790,
     "unconfirmed": 26227
@@ -890,9 +890,9 @@
     "source": "http://twitter.com/ICMRDELHI/status/1340500933642313732"
   },
   "today": {
-    "confirmed": 21246,
-    "recovered": 20710,
+    "confirmed": 21247,
+    "recovered": 20727,
     "dead": 270,
-    "active": 266
+    "active": 250
   }
 }
