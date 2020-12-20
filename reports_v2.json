@@ -1,9 +1,9 @@
 {
-  "confirmed": 10037178,
-  "recovered": 9585896,
+  "confirmed": 10037179,
+  "recovered": 9586277,
   "dead": 145581,
-  "active": 303030,
-  "updatedTime": "20/12/2020 19:42:20",
+  "active": 302650,
+  "updatedTime": "20/12/2020 20:07:21",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -200,17 +200,17 @@
     "OR": {
       "name": "Odisha",
       "confirmed": 326233,
-      "active": 3035,
-      "recovered": 321309,
+      "active": 2697,
+      "recovered": 321647,
       "dead": 1889,
-      "updatedTime": "20/12/2020 12:48:08",
+      "updatedTime": "20/12/2020 20:07:23",
       "note": "[July 12th] :20 non-covid deaths reported in state dashboard are included in the deceased count",
       "stateCode": "OR",
       "today": {
         "confirmed": 372,
-        "recovered": 0,
+        "recovered": 338,
         "dead": 4,
-        "active": 368
+        "active": 30
       },
       "testing_data": {
         "tested": 6560279,
@@ -491,7 +491,7 @@
       "active": 6177,
       "recovered": 77673,
       "dead": 1413,
-      "updatedTime": "20/12/2020 19:42:22",
+      "updatedTime": "20/12/2020 19:52:22",
       "note": "[Oct 30]: Metric of capturing the testing data has switched to \"Samples Tested\" from \"Samples Collected\"",
       "stateCode": "UT",
       "today": {
@@ -703,18 +703,18 @@
     },
     "NL": {
       "name": "Nagaland",
-      "confirmed": 11841,
-      "active": 538,
-      "recovered": 11101,
+      "confirmed": 11842,
+      "active": 496,
+      "recovered": 11144,
       "dead": 73,
-      "updatedTime": "19/12/2020 22:02:24",
+      "updatedTime": "20/12/2020 20:07:25",
       "note": "",
       "stateCode": "NL",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 1,
+        "recovered": 43,
         "dead": 0,
-        "active": 0
+        "active": -42
       },
       "testing_data": {
         "tested": 118485,
@@ -890,9 +890,9 @@
     "source": "http://twitter.com/ICMRDELHI/status/1340500933642313732"
   },
   "today": {
-    "confirmed": 5519,
-    "recovered": 6215,
+    "confirmed": 5520,
+    "recovered": 6596,
     "dead": 68,
-    "active": -764
+    "active": -1144
   }
 }
