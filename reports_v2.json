@@ -1,9 +1,9 @@
 {
-  "confirmed": 10064903,
-  "recovered": 9618655,
-  "dead": 145995,
-  "active": 297566,
-  "updatedTime": "21/12/2020 20:50:23",
+  "confirmed": 10067196,
+  "recovered": 9621683,
+  "dead": 146025,
+  "active": 296801,
+  "updatedTime": "21/12/2020 21:14:21",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -35,7 +35,7 @@
       "active": 14001,
       "recovered": 884205,
       "dead": 12016,
-      "updatedTime": "21/12/2020 20:50:25",
+      "updatedTime": "21/12/2020 21:08:24",
       "note": "",
       "stateCode": "KA",
       "today": {
@@ -179,7 +179,7 @@
       "active": 16903,
       "recovered": 512039,
       "dead": 9401,
-      "updatedTime": "21/12/2020 20:49:32",
+      "updatedTime": "21/12/2020 21:08:26",
       "note": "",
       "stateCode": "WB",
       "today": {
@@ -296,17 +296,17 @@
     "AS": {
       "name": "Assam",
       "confirmed": 215409,
-      "active": 3520,
+      "active": 3517,
       "recovered": 210869,
-      "dead": 1017,
-      "updatedTime": "21/12/2020 00:43:22",
+      "dead": 1020,
+      "updatedTime": "21/12/2020 21:14:24",
       "note": "",
       "stateCode": "AS",
       "today": {
         "confirmed": 0,
         "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "dead": 3,
+        "active": -3
       },
       "testing_data": {
         "tested": 5770309,
@@ -319,18 +319,18 @@
     },
     "CT": {
       "name": "Chhattisgarh",
-      "confirmed": 267219,
-      "active": 16558,
-      "recovered": 247480,
-      "dead": 3181,
-      "updatedTime": "20/12/2020 21:42:23",
+      "confirmed": 268477,
+      "active": 16060,
+      "recovered": 249218,
+      "dead": 3199,
+      "updatedTime": "21/12/2020 21:14:25",
       "note": "",
       "stateCode": "CT",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 1258,
+        "recovered": 1738,
+        "dead": 18,
+        "active": -498
       },
       "testing_data": {
         "tested": 3204491,
@@ -347,7 +347,7 @@
       "active": 5525,
       "recovered": 249840,
       "dead": 2832,
-      "updatedTime": "21/12/2020 20:49:34",
+      "updatedTime": "21/12/2020 21:08:31",
       "note": "",
       "stateCode": "HR",
       "today": {
@@ -357,12 +357,12 @@
         "active": -363
       },
       "testing_data": {
-        "tested": 4219066,
+        "tested": 4239771,
         "positive": 0,
-        "negative": 3953224,
-        "unconfirmed": 8198,
-        "date": "20/12/2020",
-        "source": "http://www.nhmharyana.gov.in/WriteReadData/userfiles/file/CoronaVirus/Daily%20Bulletin%20of%20COVID%2019%20as%20on%2020-12-20.pdf"
+        "negative": 3974336,
+        "unconfirmed": 7238,
+        "date": "21/12/2020",
+        "source": "http://www.nhmharyana.gov.in/WriteReadData/userfiles/file/CoronaVirus/Daily%20Bulletin%20of%20COVID%2019%20as%20on%2021-12-20.docx.pdf"
       }
     },
     "GJ": {
@@ -391,18 +391,18 @@
     },
     "MP": {
       "name": "Madhya Pradesh",
-      "confirmed": 231284,
-      "active": 11318,
-      "recovered": 216485,
-      "dead": 3481,
-      "updatedTime": "20/12/2020 20:27:24",
+      "confirmed": 232319,
+      "active": 11054,
+      "recovered": 217775,
+      "dead": 3490,
+      "updatedTime": "21/12/2020 21:14:27",
       "note": "[Oct 14]: 4469 confirmed cases and 4469 recoveries added in MP bulletin as reconciliation with private labs and hospitals",
       "stateCode": "MP",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 1035,
+        "recovered": 1290,
+        "dead": 9,
+        "active": -264
       },
       "testing_data": {
         "tested": 4365507,
@@ -515,7 +515,7 @@
       "active": 941,
       "recovered": 48479,
       "dead": 723,
-      "updatedTime": "21/12/2020 20:49:36",
+      "updatedTime": "21/12/2020 21:08:35",
       "note": "",
       "stateCode": "GA",
       "today": {
@@ -659,7 +659,7 @@
       "active": 389,
       "recovered": 18429,
       "dead": 310,
-      "updatedTime": "21/12/2020 20:49:37",
+      "updatedTime": "21/12/2020 21:08:37",
       "note": "",
       "stateCode": "CH",
       "today": {
@@ -669,12 +669,12 @@
         "active": -48
       },
       "testing_data": {
-        "tested": 168234,
+        "tested": 169489,
         "positive": 0,
-        "negative": 148296,
-        "unconfirmed": 91,
-        "date": "20/12/2020",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/4465"
+        "negative": 149492,
+        "unconfirmed": 135,
+        "date": "21/12/2020",
+        "source": "http://chdcovid19.in/"
       }
     },
     "ML": {
@@ -765,12 +765,12 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 159027,
-        "positive": 4860,
+        "tested": 165024,
+        "positive": 4881,
         "negative": 0,
         "unconfirmed": 1,
-        "date": "17/12/2020",
-        "source": "https://dhs.andaman.gov.in/NewEvents/501.pdf"
+        "date": "20/12/2020",
+        "source": "https://dhs.andaman.gov.in/NewEvents/504.pdf"
       }
     },
     "SK": {
@@ -880,19 +880,19 @@
     }
   },
   "testing_data": {
-    "tested": 173826501,
-    "positive": 902104,
-    "negative": 35113561,
-    "unconfirmed": 27865
+    "tested": 173854458,
+    "positive": 902125,
+    "negative": 35135869,
+    "unconfirmed": 26949
   },
   "testing_data_imcr": {
     "tested": 162098629,
     "source": "http://twitter.com/ICMRDELHI/status/1340865870218711040"
   },
   "today": {
-    "confirmed": 8622,
-    "recovered": 13240,
-    "dead": 150,
-    "active": -4768
+    "confirmed": 10915,
+    "recovered": 16268,
+    "dead": 180,
+    "active": -5533
   }
 }
