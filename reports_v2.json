@@ -3,7 +3,7 @@
   "recovered": 9621683,
   "dead": 146025,
   "active": 296801,
-  "updatedTime": "21/12/2020 21:14:21",
+  "updatedTime": "21/12/2020 21:33:22",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -101,30 +101,6 @@
         "source": "https://stopcorona.tn.gov.in/wp-content/uploads/2020/12/Media-Bulletin-21.12.2020-14-Pages-English-415-KB.pdf"
       }
     },
-    "UP": {
-      "name": "Uttar Pradesh",
-      "confirmed": 574631,
-      "active": 17245,
-      "recovered": 549190,
-      "dead": 8196,
-      "updatedTime": "21/12/2020 00:20:22",
-      "note": "",
-      "stateCode": "UP",
-      "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
-      },
-      "testing_data": {
-        "tested": 22439369,
-        "positive": 0,
-        "negative": 0,
-        "unconfirmed": 0,
-        "date": "20/12/2020",
-        "source": "https://twitter.com/ShishirGoUP/status/1340612278350016512"
-      }
-    },
     "KL": {
       "name": "Kerala",
       "confirmed": 705870,
@@ -171,6 +147,30 @@
         "unconfirmed": 0,
         "date": "21/12/2020",
         "source": "https://twitter.com/ANI/status/1341000539748757504?s=20"
+      }
+    },
+    "UP": {
+      "name": "Uttar Pradesh",
+      "confirmed": 574631,
+      "active": 17245,
+      "recovered": 549190,
+      "dead": 8196,
+      "updatedTime": "21/12/2020 00:20:22",
+      "note": "",
+      "stateCode": "UP",
+      "today": {
+        "confirmed": 0,
+        "recovered": 0,
+        "dead": 0,
+        "active": 0
+      },
+      "testing_data": {
+        "tested": 22439369,
+        "positive": 0,
+        "negative": 0,
+        "unconfirmed": 0,
+        "date": "20/12/2020",
+        "source": "https://twitter.com/ShishirGoUP/status/1340612278350016512"
       }
     },
     "WB": {
@@ -221,54 +221,6 @@
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/4478"
       }
     },
-    "TG": {
-      "name": "Telangana",
-      "confirmed": 281730,
-      "active": 6590,
-      "recovered": 273625,
-      "dead": 1515,
-      "updatedTime": "21/12/2020 10:42:33",
-      "note": "[July 27] : Telangana bulletin for the previous day is released on the next day. We will add the cases for Telangana against the date of release, as that is the convention that we are following for other states.\n--\nDistrict-wise numbers are not reported because cumulative counts for each district are not provided in Telangana bulletin",
-      "stateCode": "TG",
-      "today": {
-        "confirmed": 316,
-        "recovered": 612,
-        "dead": 2,
-        "active": -298
-      },
-      "testing_data": {
-        "tested": 6475766,
-        "positive": 0,
-        "negative": 0,
-        "unconfirmed": 554,
-        "date": "21/12/2020",
-        "source": "https://twitter.com/drgsrao/status/1340866466963283968?s=20"
-      }
-    },
-    "BR": {
-      "name": "Bihar",
-      "confirmed": 247531,
-      "active": 4814,
-      "recovered": 241358,
-      "dead": 1358,
-      "updatedTime": "21/12/2020 19:51:23",
-      "note": "",
-      "stateCode": "BR",
-      "today": {
-        "confirmed": 287,
-        "recovered": 443,
-        "dead": 6,
-        "active": -162
-      },
-      "testing_data": {
-        "tested": 17217553,
-        "positive": 0,
-        "negative": 0,
-        "unconfirmed": 0,
-        "date": "21/12/2020",
-        "source": "https://twitter.com/BiharHealthDept/status/1340999600971239425/photo/1"
-      }
-    },
     "RJ": {
       "name": "Rajasthan",
       "confirmed": 299909,
@@ -293,28 +245,28 @@
         "source": "https://twitter.com/airnews_jaipur/status/1341010813281288192?s=20"
       }
     },
-    "AS": {
-      "name": "Assam",
-      "confirmed": 215409,
-      "active": 3517,
-      "recovered": 210869,
-      "dead": 1020,
-      "updatedTime": "21/12/2020 21:14:24",
-      "note": "",
-      "stateCode": "AS",
+    "TG": {
+      "name": "Telangana",
+      "confirmed": 281730,
+      "active": 6590,
+      "recovered": 273625,
+      "dead": 1515,
+      "updatedTime": "21/12/2020 10:42:33",
+      "note": "[July 27] : Telangana bulletin for the previous day is released on the next day. We will add the cases for Telangana against the date of release, as that is the convention that we are following for other states.\n--\nDistrict-wise numbers are not reported because cumulative counts for each district are not provided in Telangana bulletin",
+      "stateCode": "TG",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 3,
-        "active": -3
+        "confirmed": 316,
+        "recovered": 612,
+        "dead": 2,
+        "active": -298
       },
       "testing_data": {
-        "tested": 5770309,
+        "tested": 6475766,
         "positive": 0,
         "negative": 0,
-        "unconfirmed": 0,
-        "date": "20/12/2020",
-        "source": "https://twitter.com/himantabiswa/status/1340727266641231874?s=20"
+        "unconfirmed": 554,
+        "date": "21/12/2020",
+        "source": "https://twitter.com/drgsrao/status/1340866466963283968?s=20"
       }
     },
     "CT": {
@@ -323,7 +275,7 @@
       "active": 16060,
       "recovered": 249218,
       "dead": 3199,
-      "updatedTime": "21/12/2020 21:14:25",
+      "updatedTime": "21/12/2020 21:30:27",
       "note": "",
       "stateCode": "CT",
       "today": {
@@ -365,6 +317,30 @@
         "source": "http://www.nhmharyana.gov.in/WriteReadData/userfiles/file/CoronaVirus/Daily%20Bulletin%20of%20COVID%2019%20as%20on%2021-12-20.docx.pdf"
       }
     },
+    "BR": {
+      "name": "Bihar",
+      "confirmed": 247531,
+      "active": 4814,
+      "recovered": 241358,
+      "dead": 1358,
+      "updatedTime": "21/12/2020 19:51:23",
+      "note": "",
+      "stateCode": "BR",
+      "today": {
+        "confirmed": 287,
+        "recovered": 443,
+        "dead": 6,
+        "active": -162
+      },
+      "testing_data": {
+        "tested": 17217553,
+        "positive": 0,
+        "negative": 0,
+        "unconfirmed": 0,
+        "date": "21/12/2020",
+        "source": "https://twitter.com/BiharHealthDept/status/1340999600971239425/photo/1"
+      }
+    },
     "GJ": {
       "name": "Gujarat",
       "confirmed": 236259,
@@ -395,7 +371,7 @@
       "active": 11054,
       "recovered": 217775,
       "dead": 3490,
-      "updatedTime": "21/12/2020 21:14:27",
+      "updatedTime": "21/12/2020 21:30:29",
       "note": "[Oct 14]: 4469 confirmed cases and 4469 recoveries added in MP bulletin as reconciliation with private labs and hospitals",
       "stateCode": "MP",
       "today": {
@@ -411,6 +387,30 @@
         "unconfirmed": 0,
         "date": "21/12/2020",
         "source": "https://twitter.com/healthminmp/status/1341037364806701056/photo/1"
+      }
+    },
+    "AS": {
+      "name": "Assam",
+      "confirmed": 215409,
+      "active": 3517,
+      "recovered": 210869,
+      "dead": 1020,
+      "updatedTime": "21/12/2020 21:30:30",
+      "note": "",
+      "stateCode": "AS",
+      "today": {
+        "confirmed": 0,
+        "recovered": 0,
+        "dead": 3,
+        "active": -3
+      },
+      "testing_data": {
+        "tested": 5770309,
+        "positive": 0,
+        "negative": 0,
+        "unconfirmed": 0,
+        "date": "20/12/2020",
+        "source": "https://twitter.com/himantabiswa/status/1340727266641231874?s=20"
       }
     },
     "PB": {
@@ -437,30 +437,6 @@
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/4468"
       }
     },
-    "JH": {
-      "name": "Jharkhand",
-      "confirmed": 113025,
-      "active": 1708,
-      "recovered": 110307,
-      "dead": 1010,
-      "updatedTime": "20/12/2020 22:53:25",
-      "note": "",
-      "stateCode": "JH",
-      "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
-      },
-      "testing_data": {
-        "tested": 4624374,
-        "positive": 113025,
-        "negative": 4511349,
-        "unconfirmed": 0,
-        "date": "20/12/2020",
-        "source": "https://twitter.com/rnuddkranchi/status/1340682660063051776"
-      }
-    },
     "JK": {
       "name": "Jammu and Kashmir",
       "confirmed": 118495,
@@ -485,6 +461,30 @@
         "source": "https://twitter.com/diprjk/status/1340999544696279041?s=20"
       }
     },
+    "JH": {
+      "name": "Jharkhand",
+      "confirmed": 113025,
+      "active": 1708,
+      "recovered": 110307,
+      "dead": 1010,
+      "updatedTime": "20/12/2020 22:53:25",
+      "note": "",
+      "stateCode": "JH",
+      "today": {
+        "confirmed": 0,
+        "recovered": 0,
+        "dead": 0,
+        "active": 0
+      },
+      "testing_data": {
+        "tested": 4624374,
+        "positive": 113025,
+        "negative": 4511349,
+        "unconfirmed": 0,
+        "date": "20/12/2020",
+        "source": "https://twitter.com/rnuddkranchi/status/1340682660063051776"
+      }
+    },
     "UT": {
       "name": "Uttarakhand",
       "confirmed": 86765,
@@ -507,6 +507,30 @@
         "unconfirmed": 14714,
         "date": "21/12/2020",
         "source": "https://twitter.com/DDnews_dehradun/status/1341001918793932801?s=20"
+      }
+    },
+    "HP": {
+      "name": "Himachal Pradesh",
+      "confirmed": 52329,
+      "active": 5196,
+      "recovered": 46221,
+      "dead": 864,
+      "updatedTime": "20/12/2020 22:53:26",
+      "note": "",
+      "stateCode": "HP",
+      "today": {
+        "confirmed": 0,
+        "recovered": 0,
+        "dead": 0,
+        "active": 0
+      },
+      "testing_data": {
+        "tested": 674626,
+        "positive": 0,
+        "negative": 621047,
+        "unconfirmed": 1250,
+        "date": "20/12/2020",
+        "source": "https://twitter.com/nhm_hp/status/1340681103347048448"
       }
     },
     "GA": {
@@ -581,30 +605,6 @@
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/4479"
       }
     },
-    "HP": {
-      "name": "Himachal Pradesh",
-      "confirmed": 52329,
-      "active": 5196,
-      "recovered": 46221,
-      "dead": 864,
-      "updatedTime": "20/12/2020 22:53:26",
-      "note": "",
-      "stateCode": "HP",
-      "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
-      },
-      "testing_data": {
-        "tested": 674626,
-        "positive": 0,
-        "negative": 621047,
-        "unconfirmed": 1250,
-        "date": "20/12/2020",
-        "source": "https://twitter.com/nhm_hp/status/1340681103347048448"
-      }
-    },
     "MN": {
       "name": "Manipur",
       "confirmed": 27646,
@@ -629,30 +629,6 @@
         "source": "https://twitter.com/DiprManipur/status/1338853107581612037/photo/3"
       }
     },
-    "AR": {
-      "name": "Arunachal Pradesh",
-      "confirmed": 16630,
-      "active": 225,
-      "recovered": 16350,
-      "dead": 55,
-      "updatedTime": "20/12/2020 21:56:23",
-      "note": "[July 25]: All numbers corresponding to Papum Pare and Captial Complex are tracked under Papum Pare district.",
-      "stateCode": "AR",
-      "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
-      },
-      "testing_data": {
-        "tested": 373351,
-        "positive": 0,
-        "negative": 344351,
-        "unconfirmed": 0,
-        "date": "21/12/2020",
-        "source": "https://twitter.com/DirectorateofHS/status/1341048693953183744"
-      }
-    },
     "CH": {
       "name": "Chandigarh",
       "confirmed": 19128,
@@ -675,6 +651,30 @@
         "unconfirmed": 135,
         "date": "21/12/2020",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/4487"
+      }
+    },
+    "AR": {
+      "name": "Arunachal Pradesh",
+      "confirmed": 16630,
+      "active": 225,
+      "recovered": 16350,
+      "dead": 55,
+      "updatedTime": "20/12/2020 21:56:23",
+      "note": "[July 25]: All numbers corresponding to Papum Pare and Captial Complex are tracked under Papum Pare district.",
+      "stateCode": "AR",
+      "today": {
+        "confirmed": 0,
+        "recovered": 0,
+        "dead": 0,
+        "active": 0
+      },
+      "testing_data": {
+        "tested": 373351,
+        "positive": 0,
+        "negative": 344351,
+        "unconfirmed": 0,
+        "date": "21/12/2020",
+        "source": "https://twitter.com/DirectorateofHS/status/1341048693953183744"
       }
     },
     "ML": {
@@ -749,30 +749,6 @@
         "source": "https://twitter.com/DIPR_Leh/status/1340888046376374272"
       }
     },
-    "AN": {
-      "name": "Andaman and Nicobar",
-      "confirmed": 4881,
-      "active": 88,
-      "recovered": 4732,
-      "dead": 61,
-      "updatedTime": "20/12/2020 22:53:30",
-      "note": "",
-      "stateCode": "AN",
-      "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
-      },
-      "testing_data": {
-        "tested": 165024,
-        "positive": 4881,
-        "negative": 0,
-        "unconfirmed": 1,
-        "date": "20/12/2020",
-        "source": "https://dhs.andaman.gov.in/NewEvents/504.pdf"
-      }
-    },
     "SK": {
       "name": "Sikkim",
       "confirmed": 5573,
@@ -797,22 +773,29 @@
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/4418"
       }
     },
-    "DN": {
-      "name": "Dadra and Nagar Haveli and Daman and Diu",
-      "confirmed": 3353,
-      "active": 7,
-      "recovered": 3315,
-      "dead": 2,
-      "updatedTime": "20/12/2020 19:16:33",
+    "AN": {
+      "name": "Andaman and Nicobar",
+      "confirmed": 4881,
+      "active": 88,
+      "recovered": 4732,
+      "dead": 61,
+      "updatedTime": "20/12/2020 22:53:30",
       "note": "",
-      "stateCode": "DN",
+      "stateCode": "AN",
       "today": {
         "confirmed": 0,
         "recovered": 0,
         "dead": 0,
         "active": 0
       },
-      "isUnknown": true
+      "testing_data": {
+        "tested": 165024,
+        "positive": 4881,
+        "negative": 0,
+        "unconfirmed": 1,
+        "date": "20/12/2020",
+        "source": "https://dhs.andaman.gov.in/NewEvents/504.pdf"
+      }
     },
     "MZ": {
       "name": "Mizoram",
@@ -837,6 +820,23 @@
         "date": "20/12/2020",
         "source": "https://dipr.mizoram.gov.in/post/status-of-state-surveillance-of-covid-19-20122020-last-24hours-500pm-as-per-data-received-from-integrated-diseases-surveillance-programme-idsp"
       }
+    },
+    "DN": {
+      "name": "Dadra and Nagar Haveli and Daman and Diu",
+      "confirmed": 3353,
+      "active": 7,
+      "recovered": 3315,
+      "dead": 2,
+      "updatedTime": "20/12/2020 19:16:33",
+      "note": "",
+      "stateCode": "DN",
+      "today": {
+        "confirmed": 0,
+        "recovered": 0,
+        "dead": 0,
+        "active": 0
+      },
+      "isUnknown": true
     },
     "UN": {
       "name": "State Unassigned",
