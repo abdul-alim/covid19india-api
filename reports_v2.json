@@ -1,9 +1,9 @@
 {
-  "confirmed": 10155107,
-  "recovered": 9725571,
-  "dead": 147221,
-  "active": 279546,
-  "updatedTime": "25/12/2020 19:53:28",
+  "confirmed": 10157964,
+  "recovered": 9728842,
+  "dead": 147241,
+  "active": 279099,
+  "updatedTime": "25/12/2020 20:27:28",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -31,18 +31,18 @@
     },
     "KA": {
       "name": "Karnataka",
-      "confirmed": 913483,
-      "active": 13610,
-      "recovered": 887815,
-      "dead": 12039,
-      "updatedTime": "24/12/2020 23:38:26",
+      "confirmed": 914488,
+      "active": 13508,
+      "recovered": 888917,
+      "dead": 12044,
+      "updatedTime": "25/12/2020 20:23:31",
       "note": "",
       "stateCode": "KA",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 1005,
+        "recovered": 1102,
+        "dead": 5,
+        "active": -102
       },
       "testing_data": {
         "tested": 13514362,
@@ -117,12 +117,12 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 7564562,
-        "positive": 726689,
+        "tested": 7613415,
+        "positive": 732086,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "24/12/2020",
-        "source": "https://dhs.kerala.gov.in/wp-content/uploads/2020/12/Bulletin-HFWD-English-December-24.pdf"
+        "date": "25/12/2020",
+        "source": "https://dhs.kerala.gov.in/wp-content/uploads/2020/12/Bulletin-HFWD-English-December-25.pdf"
       }
     },
     "DL": {
@@ -131,7 +131,7 @@
       "active": 7267,
       "recovered": 603758,
       "dead": 10414,
-      "updatedTime": "25/12/2020 19:53:30",
+      "updatedTime": "25/12/2020 20:10:32",
       "note": "[July 14]: Value for the total tests conducted has been reduced by 97008 in the state bulletin. Reason given : \"Reconciled with ICMR figures\". We have made the same change.",
       "stateCode": "DL",
       "today": {
@@ -155,7 +155,7 @@
       "active": 16159,
       "recovered": 555544,
       "dead": 8279,
-      "updatedTime": "25/12/2020 19:53:31",
+      "updatedTime": "25/12/2020 20:10:35",
       "note": "",
       "stateCode": "UP",
       "today": {
@@ -295,18 +295,18 @@
     },
     "HR": {
       "name": "Haryana",
-      "confirmed": 259745,
-      "active": 4983,
-      "recovered": 251908,
-      "dead": 2854,
-      "updatedTime": "24/12/2020 21:00:30",
+      "confirmed": 260153,
+      "active": 4750,
+      "recovered": 252545,
+      "dead": 2858,
+      "updatedTime": "25/12/2020 20:27:30",
       "note": "",
       "stateCode": "HR",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 408,
+        "recovered": 637,
+        "dead": 4,
+        "active": -233
       },
       "testing_data": {
         "tested": 4355778,
@@ -343,18 +343,18 @@
     },
     "GJ": {
       "name": "Gujarat",
-      "confirmed": 239195,
-      "active": 10741,
-      "recovered": 224192,
-      "dead": 4262,
-      "updatedTime": "24/12/2020 21:00:31",
+      "confirmed": 240105,
+      "active": 10531,
+      "recovered": 225306,
+      "dead": 4268,
+      "updatedTime": "25/12/2020 20:23:33",
       "note": "",
       "stateCode": "GJ",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 910,
+        "recovered": 1114,
+        "dead": 6,
+        "active": -210
       },
       "testing_data": {
         "tested": 9273521,
@@ -391,18 +391,18 @@
     },
     "AS": {
       "name": "Assam",
-      "confirmed": 215775,
-      "active": 3456,
-      "recovered": 211283,
+      "confirmed": 215836,
+      "active": 3422,
+      "recovered": 211378,
       "dead": 1033,
       "updatedTime": "24/12/2020 23:38:28",
       "note": "",
       "stateCode": "AS",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 61,
+        "recovered": 95,
         "dead": 0,
-        "active": 0
+        "active": -34
       },
       "testing_data": {
         "tested": 5861134,
@@ -487,18 +487,18 @@
     },
     "UT": {
       "name": "Uttarakhand",
-      "confirmed": 88376,
-      "active": 5331,
-      "recovered": 80467,
-      "dead": 1458,
-      "updatedTime": "24/12/2020 22:49:33",
+      "confirmed": 88844,
+      "active": 5510,
+      "recovered": 80738,
+      "dead": 1463,
+      "updatedTime": "25/12/2020 20:23:35",
       "note": "[Oct 30]: Metric of capturing the testing data has switched to \"Samples Tested\" from \"Samples Collected\"",
       "stateCode": "UT",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 468,
+        "recovered": 271,
+        "dead": 5,
+        "active": 192
       },
       "testing_data": {
         "tested": 1695770,
@@ -656,17 +656,17 @@
     "AR": {
       "name": "Arunachal Pradesh",
       "confirmed": 16678,
-      "active": 184,
-      "recovered": 16438,
+      "active": 168,
+      "recovered": 16454,
       "dead": 56,
-      "updatedTime": "24/12/2020 21:55:32",
+      "updatedTime": "25/12/2020 20:27:32",
       "note": "[July 25]: All numbers corresponding to Papum Pare and Captial Complex are tracked under Papum Pare district.",
       "stateCode": "AR",
       "today": {
         "confirmed": 0,
-        "recovered": 0,
+        "recovered": 16,
         "dead": 0,
-        "active": 0
+        "active": -16
       },
       "testing_data": {
         "tested": 375058,
@@ -703,18 +703,18 @@
     },
     "NL": {
       "name": "Nagaland",
-      "confirmed": 11890,
-      "active": 305,
-      "recovered": 11377,
+      "confirmed": 11895,
+      "active": 274,
+      "recovered": 11413,
       "dead": 77,
-      "updatedTime": "24/12/2020 22:49:37",
+      "updatedTime": "25/12/2020 20:23:39",
       "note": "",
       "stateCode": "NL",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 5,
+        "recovered": 36,
         "dead": 0,
-        "active": 0
+        "active": -31
       },
       "testing_data": {
         "tested": 119611,
@@ -880,8 +880,8 @@
     }
   },
   "testing_data": {
-    "tested": 178534960,
-    "positive": 923942,
+    "tested": 178583813,
+    "positive": 929339,
     "negative": 35966994,
     "unconfirmed": 27006
   },
@@ -890,9 +890,9 @@
     "source": "https://twitter.com/ICMRDELHI/status/1342313771524476928"
   },
   "today": {
-    "confirmed": 7639,
-    "recovered": 8373,
-    "dead": 93,
-    "active": -827
+    "confirmed": 10496,
+    "recovered": 11644,
+    "dead": 113,
+    "active": -1261
   }
 }
