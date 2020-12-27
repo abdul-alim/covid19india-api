@@ -1,9 +1,9 @@
 {
-  "confirmed": 10188392,
-  "recovered": 9760848,
-  "dead": 147659,
-  "active": 277092,
-  "updatedTime": "27/12/2020 02:57:31",
+  "confirmed": 10188879,
+  "recovered": 9761380,
+  "dead": 147661,
+  "active": 277045,
+  "updatedTime": "27/12/2020 13:51:27",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -247,18 +247,18 @@
     },
     "TG": {
       "name": "Telangana",
-      "confirmed": 284391,
-      "active": 6618,
-      "recovered": 276244,
-      "dead": 1529,
-      "updatedTime": "26/12/2020 17:02:38",
+      "confirmed": 284863,
+      "active": 6579,
+      "recovered": 276753,
+      "dead": 1531,
+      "updatedTime": "27/12/2020 13:51:29",
       "note": "[July 27] : Telangana bulletin for the previous day is released on the next day. We will add the cases for Telangana against the date of release, as that is the convention that we are following for other states.\n--\nDistrict-wise numbers are not reported because cumulative counts for each district are not provided in Telangana bulletin",
       "stateCode": "TG",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 472,
+        "recovered": 509,
+        "dead": 2,
+        "active": -39
       },
       "testing_data": {
         "tested": 6723710,
@@ -583,18 +583,18 @@
     },
     "TR": {
       "name": "Tripura",
-      "confirmed": 33223,
-      "active": 169,
-      "recovered": 32649,
+      "confirmed": 33234,
+      "active": 157,
+      "recovered": 32672,
       "dead": 382,
-      "updatedTime": "26/12/2020 17:02:40",
+      "updatedTime": "27/12/2020 13:51:31",
       "note": "[Aug 4]: Tripura bulletin for the previous day is released on the next day. We will add the cases for Tripura against the date of release, as that is the convention that we are following for other states.",
       "stateCode": "TR",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 11,
+        "recovered": 23,
         "dead": 0,
-        "active": 0
+        "active": -12
       },
       "testing_data": {
         "tested": 573971,
@@ -799,18 +799,18 @@
     },
     "MZ": {
       "name": "Mizoram",
-      "confirmed": 4178,
-      "active": 124,
+      "confirmed": 4182,
+      "active": 128,
       "recovered": 4046,
       "dead": 8,
-      "updatedTime": "26/12/2020 20:18:52",
+      "updatedTime": "27/12/2020 13:51:32",
       "note": "",
       "stateCode": "MZ",
       "today": {
-        "confirmed": 0,
+        "confirmed": 4,
         "recovered": 0,
         "dead": 0,
-        "active": 0
+        "active": 4
       },
       "testing_data": {
         "tested": 175756,
@@ -886,13 +886,13 @@
     "unconfirmed": 24112
   },
   "testing_data_imcr": {
-    "tested": 168102957,
-    "source": "http://twitter.com/ICMRDELHI/status/1343043553375657984"
+    "tested": 0,
+    "source": ""
   },
   "today": {
-    "confirmed": 0,
-    "recovered": 0,
-    "dead": 0,
-    "active": 0
+    "confirmed": 487,
+    "recovered": 532,
+    "dead": 2,
+    "active": -47
   }
 }
