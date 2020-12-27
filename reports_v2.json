@@ -1,17 +1,17 @@
 {
   "confirmed": 10203308,
   "recovered": 9776893,
-  "dead": 147821,
-  "active": 275793,
-  "updatedTime": "27/12/2020 20:14:30",
+  "dead": 147823,
+  "active": 275790,
+  "updatedTime": "27/12/2020 20:27:27",
   "states": {
     "MH": {
       "name": "Maharashtra",
       "confirmed": 1916236,
-      "active": 58091,
+      "active": 58090,
       "recovered": 1807824,
       "dead": 49189,
-      "updatedTime": "26/12/2020 22:28:29",
+      "updatedTime": "27/12/2020 20:27:29",
       "note": "[Dec 16]:10,218 duplicate cases & other state cases removed from total cases.791 recovered cases also removed from total recovered cases while reconciling \n[Sep 9] :239 cases have been removed from the hospitalized figures owing to the removal of duplicates and change of addresses as per the original residence\n[Aug 15] : MH bulletin has reduced 819 confirmed cases in Mumbai and 72 confirmed cases from 'Other States' from the tally\n[Jun 16] : 1328 deceased cases have been retroactively added to MH bulletin.\n[Jun 20] : 69 deceased cases have been reduced based on state bulletin.",
       "stateCode": "MH",
       "today": {
@@ -35,7 +35,7 @@
       "active": 13080,
       "recovered": 891095,
       "dead": 12062,
-      "updatedTime": "27/12/2020 20:14:32",
+      "updatedTime": "27/12/2020 20:26:33",
       "note": "",
       "stateCode": "KA",
       "today": {
@@ -203,7 +203,7 @@
       "active": 2522,
       "recovered": 324068,
       "dead": 1914,
-      "updatedTime": "27/12/2020 20:14:35",
+      "updatedTime": "27/12/2020 20:26:35",
       "note": "[July 12th] :20 non-covid deaths reported in state dashboard are included in the deceased count",
       "stateCode": "OR",
       "today": {
@@ -347,7 +347,7 @@
       "active": 10335,
       "recovered": 227228,
       "dead": 4282,
-      "updatedTime": "27/12/2020 20:14:37",
+      "updatedTime": "27/12/2020 20:26:37",
       "note": "",
       "stateCode": "GJ",
       "today": {
@@ -392,17 +392,17 @@
     "AS": {
       "name": "Assam",
       "confirmed": 215910,
-      "active": 3389,
+      "active": 3387,
       "recovered": 211483,
-      "dead": 1035,
-      "updatedTime": "26/12/2020 20:52:43",
+      "dead": 1037,
+      "updatedTime": "27/12/2020 20:27:31",
       "note": "",
       "stateCode": "AS",
       "today": {
         "confirmed": 0,
         "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "dead": 2,
+        "active": -2
       },
       "testing_data": {
         "tested": 5891165,
@@ -892,7 +892,7 @@
   "today": {
     "confirmed": 14916,
     "recovered": 16045,
-    "dead": 162,
-    "active": -1291
+    "dead": 164,
+    "active": -1293
   }
 }

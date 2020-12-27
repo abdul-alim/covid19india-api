@@ -939,15 +939,15 @@
       {
         "district": "Kamrup Metropolitan",
         "notes": "",
-        "active": 34546,
+        "active": 34545,
         "confirmed": 50065,
         "recovered": 15370,
-        "dead": 149,
+        "dead": 150,
         "today": {
           "confirmed": 0,
           "recovered": 0,
-          "active": 0,
-          "dead": 0
+          "active": -1,
+          "dead": 1
         }
       },
       {
@@ -1121,15 +1121,15 @@
       {
         "district": "Tinsukia",
         "notes": "",
-        "active": 1526,
+        "active": 1525,
         "confirmed": 3366,
         "recovered": 1798,
-        "dead": 42,
+        "dead": 43,
         "today": {
           "confirmed": 0,
           "recovered": 0,
-          "active": 0,
-          "dead": 0
+          "active": -1,
+          "dead": 1
         }
       },
       {
@@ -1163,14 +1163,14 @@
     ],
     "today": {
       "confirmed": 0,
-      "active": 0,
+      "active": -2,
       "recovered": 0,
-      "dead": 0
+      "dead": 2
     },
     "confirmed": 215910,
     "recovered": 211483,
-    "dead": 1035,
-    "active": 3389
+    "dead": 1037,
+    "active": 3387
   },
   "BR": {
     "state": "Bihar",
@@ -5438,7 +5438,7 @@
     "confirmed": 1916236,
     "recovered": 1807824,
     "dead": 49189,
-    "active": 58091
+    "active": 58090
   },
   "ML": {
     "state": "Meghalaya",
