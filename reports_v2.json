@@ -1,9 +1,9 @@
 {
-  "confirmed": 10206901,
-  "recovered": 9779500,
+  "confirmed": 10207065,
+  "recovered": 9779696,
   "dead": 147907,
-  "active": 276692,
-  "updatedTime": "27/12/2020 20:45:30",
+  "active": 276660,
+  "updatedTime": "27/12/2020 21:13:29",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -11,7 +11,7 @@
       "active": 59214,
       "recovered": 1809948,
       "dead": 49255,
-      "updatedTime": "27/12/2020 20:45:31",
+      "updatedTime": "27/12/2020 21:01:31",
       "note": "[Dec 16]:10,218 duplicate cases & other state cases removed from total cases.791 recovered cases also removed from total recovered cases while reconciling \n[Sep 9] :239 cases have been removed from the hospitalized figures owing to the removal of duplicates and change of addresses as per the original residence\n[Aug 15] : MH bulletin has reduced 819 confirmed cases in Mumbai and 72 confirmed cases from 'Other States' from the tally\n[Jun 16] : 1328 deceased cases have been retroactively added to MH bulletin.\n[Jun 20] : 69 deceased cases have been reduced based on state bulletin.",
       "stateCode": "MH",
       "today": {
@@ -391,18 +391,18 @@
     },
     "AS": {
       "name": "Assam",
-      "confirmed": 215910,
-      "active": 3387,
-      "recovered": 211483,
+      "confirmed": 215939,
+      "active": 3356,
+      "recovered": 211543,
       "dead": 1037,
-      "updatedTime": "27/12/2020 20:44:35",
+      "updatedTime": "27/12/2020 21:13:32",
       "note": "",
       "stateCode": "AS",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 29,
+        "recovered": 60,
         "dead": 2,
-        "active": -2
+        "active": -33
       },
       "testing_data": {
         "tested": 5901470,
@@ -419,7 +419,7 @@
       "active": 4214,
       "recovered": 155892,
       "dead": 5299,
-      "updatedTime": "27/12/2020 20:45:34",
+      "updatedTime": "27/12/2020 21:01:36",
       "note": "",
       "stateCode": "PB",
       "today": {
@@ -535,18 +535,18 @@
     },
     "GA": {
       "name": "Goa",
-      "confirmed": 50595,
-      "active": 951,
-      "recovered": 48913,
+      "confirmed": 50667,
+      "active": 944,
+      "recovered": 48992,
       "dead": 731,
-      "updatedTime": "26/12/2020 19:46:36",
+      "updatedTime": "27/12/2020 21:13:34",
       "note": "",
       "stateCode": "GA",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 72,
+        "recovered": 79,
         "dead": 0,
-        "active": 0
+        "active": -7
       },
       "testing_data": {
         "tested": 392413,
@@ -631,18 +631,18 @@
     },
     "CH": {
       "name": "Chandigarh",
-      "confirmed": 19423,
-      "active": 354,
-      "recovered": 18754,
+      "confirmed": 19486,
+      "active": 361,
+      "recovered": 18810,
       "dead": 315,
-      "updatedTime": "26/12/2020 19:46:37",
+      "updatedTime": "27/12/2020 21:13:36",
       "note": "",
       "stateCode": "CH",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 63,
+        "recovered": 56,
         "dead": 0,
-        "active": 0
+        "active": 7
       },
       "testing_data": {
         "tested": 176337,
@@ -824,17 +824,17 @@
     "DN": {
       "name": "Dadra and Nagar Haveli and Daman and Diu",
       "confirmed": 3360,
-      "active": 12,
-      "recovered": 3317,
+      "active": 11,
+      "recovered": 3318,
       "dead": 2,
-      "updatedTime": "27/12/2020 19:08:43",
+      "updatedTime": "27/12/2020 21:12:41",
       "note": "",
       "stateCode": "DN",
       "today": {
         "confirmed": 1,
-        "recovered": 0,
+        "recovered": 1,
         "dead": 0,
-        "active": 1
+        "active": 0
       },
       "isUnknown": true
     },
@@ -890,9 +890,9 @@
     "source": ""
   },
   "today": {
-    "confirmed": 18509,
-    "recovered": 18652,
+    "confirmed": 18673,
+    "recovered": 18848,
     "dead": 248,
-    "active": -391
+    "active": -423
   }
 }
