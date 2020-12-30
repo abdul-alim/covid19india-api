@@ -1,9 +1,9 @@
 {
-  "confirmed": 10255513,
-  "recovered": 9844435,
-  "dead": 148600,
-  "active": 259639,
-  "updatedTime": "30/12/2020 20:30:28",
+  "confirmed": 10260618,
+  "recovered": 9850394,
+  "dead": 148660,
+  "active": 258725,
+  "updatedTime": "30/12/2020 21:01:47",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -11,7 +11,7 @@
       "active": 53066,
       "recovered": 1824934,
       "dead": 49463,
-      "updatedTime": "30/12/2020 20:30:29",
+      "updatedTime": "30/12/2020 20:44:29",
       "note": "[Dec 16]:10,218 duplicate cases & other state cases removed from total cases.791 recovered cases also removed from total recovered cases while reconciling \n[Sep 9] :239 cases have been removed from the hospitalized figures owing to the removal of duplicates and change of addresses as per the original residence\n[Aug 15] : MH bulletin has reduced 819 confirmed cases in Mumbai and 72 confirmed cases from 'Other States' from the tally\n[Jun 16] : 1328 deceased cases have been retroactively added to MH bulletin.\n[Jun 20] : 69 deceased cases have been reduced based on state bulletin.",
       "stateCode": "MH",
       "today": {
@@ -31,18 +31,18 @@
     },
     "KA": {
       "name": "Karnataka",
-      "confirmed": 917571,
-      "active": 11861,
-      "recovered": 893617,
-      "dead": 12074,
-      "updatedTime": "29/12/2020 21:16:28",
+      "confirmed": 918544,
+      "active": 11610,
+      "recovered": 894834,
+      "dead": 12081,
+      "updatedTime": "30/12/2020 21:01:48",
       "note": "",
       "stateCode": "KA",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 973,
+        "recovered": 1217,
+        "dead": 7,
+        "active": -251
       },
       "testing_data": {
         "tested": 13962707,
@@ -50,7 +50,7 @@
         "negative": 0,
         "unconfirmed": 0,
         "date": "30/12/2020",
-        "source": ""
+        "source": "https://t.co/P6YT9IEi6o?amp=1"
       }
     },
     "AP": {
@@ -74,7 +74,7 @@
         "negative": 10882470,
         "unconfirmed": 0,
         "date": "30/12/2020",
-        "source": "http://covid19.ap.gov.in/Covid19_Admin/index.html"
+        "source": "https://twitter.com/ArogyaAndhra/status/1344247468721020929/photo/1"
       }
     },
     "TN": {
@@ -117,12 +117,12 @@
         "active": 533
       },
       "testing_data": {
-        "tested": 7789764,
-        "positive": 749452,
+        "tested": 7853651,
+        "positive": 755720,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "29/12/2020",
-        "source": "https://dhs.kerala.gov.in/wp-content/uploads/2020/12/Bulletin-HFWD-English-December-29-1.pdf"
+        "date": "30/12/2020",
+        "source": "https://dhs.kerala.gov.in/wp-content/uploads/2020/12/Bulletin-HFWD-English-December-30.pdf"
       }
     },
     "DL": {
@@ -151,18 +151,18 @@
     },
     "UP": {
       "name": "Uttar Pradesh",
-      "confirmed": 583941,
-      "active": 14344,
-      "recovered": 561257,
-      "dead": 8340,
-      "updatedTime": "29/12/2020 21:16:33",
+      "confirmed": 584916,
+      "active": 14171,
+      "recovered": 562396,
+      "dead": 8349,
+      "updatedTime": "30/12/2020 21:01:50",
       "note": "",
       "stateCode": "UP",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 975,
+        "recovered": 1139,
+        "dead": 9,
+        "active": -173
       },
       "testing_data": {
         "tested": 23793270,
@@ -175,18 +175,18 @@
     },
     "WB": {
       "name": "West Bengal",
-      "confirmed": 549715,
-      "active": 12788,
-      "recovered": 527272,
-      "dead": 9655,
-      "updatedTime": "29/12/2020 21:16:35",
+      "confirmed": 550893,
+      "active": 12381,
+      "recovered": 528829,
+      "dead": 9683,
+      "updatedTime": "30/12/2020 21:01:52",
       "note": "",
       "stateCode": "WB",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 1178,
+        "recovered": 1557,
+        "dead": 28,
+        "active": -407
       },
       "testing_data": {
         "tested": 7031066,
@@ -199,18 +199,18 @@
     },
     "OR": {
       "name": "Odisha",
-      "confirmed": 329001,
-      "active": 2305,
+      "confirmed": 329306,
+      "active": 2607,
       "recovered": 324775,
-      "dead": 1921,
-      "updatedTime": "30/12/2020 01:51:34",
+      "dead": 1924,
+      "updatedTime": "30/12/2020 21:01:54",
       "note": "[July 12th] :20 non-covid deaths reported in state dashboard are included in the deceased count",
       "stateCode": "OR",
       "today": {
-        "confirmed": 0,
+        "confirmed": 305,
         "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "dead": 3,
+        "active": 302
       },
       "testing_data": {
         "tested": 6915438,
@@ -223,18 +223,18 @@
     },
     "RJ": {
       "name": "Rajasthan",
-      "confirmed": 306784,
-      "active": 10213,
-      "recovered": 293888,
-      "dead": 2683,
-      "updatedTime": "30/12/2020 01:32:33",
+      "confirmed": 307554,
+      "active": 9835,
+      "recovered": 295030,
+      "dead": 2689,
+      "updatedTime": "30/12/2020 21:01:56",
       "note": "",
       "stateCode": "RJ",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 770,
+        "recovered": 1142,
+        "dead": 6,
+        "active": -378
       },
       "testing_data": {
         "tested": 5239812,
@@ -299,7 +299,7 @@
       "active": 3799,
       "recovered": 255356,
       "dead": 2899,
-      "updatedTime": "30/12/2020 20:30:32",
+      "updatedTime": "30/12/2020 20:44:31",
       "note": "",
       "stateCode": "HR",
       "today": {
@@ -343,18 +343,18 @@
     },
     "GJ": {
       "name": "Gujarat",
-      "confirmed": 243459,
-      "active": 9921,
-      "recovered": 229243,
-      "dead": 4295,
-      "updatedTime": "29/12/2020 20:30:31",
+      "confirmed": 244258,
+      "active": 9879,
+      "recovered": 230077,
+      "dead": 4302,
+      "updatedTime": "30/12/2020 21:01:57",
       "note": "",
       "stateCode": "GJ",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 799,
+        "recovered": 834,
+        "dead": 7,
+        "active": -42
       },
       "testing_data": {
         "tested": 9543400,
@@ -386,7 +386,7 @@
         "negative": 4243849,
         "unconfirmed": 0,
         "date": "30/12/2020",
-        "source": "https://www.mpinfo.org/"
+        "source": "https://twitter.com/healthminmp/status/1344294655106510856/photo/1"
       }
     },
     "AS": {
@@ -559,16 +559,16 @@
     },
     "PY": {
       "name": "Puducherry",
-      "confirmed": 38070,
+      "confirmed": 38096,
       "active": 363,
-      "recovered": 37074,
+      "recovered": 37100,
       "dead": 633,
       "updatedTime": "29/12/2020 20:30:34",
       "note": "",
       "stateCode": "PY",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 26,
+        "recovered": 26,
         "dead": 0,
         "active": 0
       },
@@ -583,18 +583,18 @@
     },
     "TR": {
       "name": "Tripura",
-      "confirmed": 33243,
-      "active": 140,
-      "recovered": 32698,
+      "confirmed": 33255,
+      "active": 138,
+      "recovered": 32712,
       "dead": 382,
-      "updatedTime": "29/12/2020 15:27:33",
+      "updatedTime": "30/12/2020 21:01:59",
       "note": "[Aug 4]: Tripura bulletin for the previous day is released on the next day. We will add the cases for Tripura against the date of release, as that is the convention that we are following for other states.",
       "stateCode": "TR",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 12,
+        "recovered": 14,
         "dead": 0,
-        "active": 0
+        "active": -2
       },
       "testing_data": {
         "tested": 577343,
@@ -631,18 +631,18 @@
     },
     "CH": {
       "name": "Chandigarh",
-      "confirmed": 19615,
-      "active": 362,
-      "recovered": 18937,
+      "confirmed": 19682,
+      "active": 399,
+      "recovered": 18967,
       "dead": 316,
-      "updatedTime": "29/12/2020 20:30:35",
+      "updatedTime": "30/12/2020 21:02:01",
       "note": "",
       "stateCode": "CH",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 67,
+        "recovered": 30,
         "dead": 0,
-        "active": 0
+        "active": 37
       },
       "testing_data": {
         "tested": 180014,
@@ -789,12 +789,12 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 177926,
-        "positive": 4929,
+        "tested": 179444,
+        "positive": 4936,
         "negative": 0,
-        "unconfirmed": 3,
-        "date": "28/12/2020",
-        "source": "https://dhs.andaman.gov.in/NewEvents/512.pdf"
+        "unconfirmed": 2,
+        "date": "29/12/2020",
+        "source": "https://dhs.andaman.gov.in/NewEvents/513.pdf"
       }
     },
     "MZ": {
@@ -880,19 +880,19 @@
     }
   },
   "testing_data": {
-    "tested": 183394847,
-    "positive": 947820,
+    "tested": 183460252,
+    "positive": 954095,
     "negative": 32004370,
-    "unconfirmed": 23093
+    "unconfirmed": 23092
   },
   "testing_data_imcr": {
     "tested": 170922330,
     "source": "https://www.icmr.gov.in/pdf/covid/update/ICMR_testing_update_30Dec2020.pdf"
   },
   "today": {
-    "confirmed": 10187,
-    "recovered": 11096,
-    "dead": 125,
-    "active": -1034
+    "confirmed": 15292,
+    "recovered": 17055,
+    "dead": 185,
+    "active": -1948
   }
 }
