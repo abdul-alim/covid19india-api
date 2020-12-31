@@ -1,9 +1,9 @@
 {
-  "confirmed": 10281295,
-  "recovered": 9875220,
-  "dead": 148933,
-  "active": 254286,
-  "updatedTime": "31/12/2020 20:28:29",
+  "confirmed": 10282624,
+  "recovered": 9876557,
+  "dead": 148950,
+  "active": 254261,
+  "updatedTime": "31/12/2020 20:55:29",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -79,18 +79,18 @@
     },
     "TN": {
       "name": "Tamil Nadu",
-      "confirmed": 817077,
-      "active": 8615,
-      "recovered": 796353,
-      "dead": 12109,
-      "updatedTime": "31/12/2020 01:54:30",
+      "confirmed": 818014,
+      "active": 8501,
+      "recovered": 797391,
+      "dead": 12122,
+      "updatedTime": "31/12/2020 20:55:30",
       "note": "[July 22]: 444 backdated deceased entries added to Chennai in TN bulletin.\n2 deaths cross notified to other states from Chennai and Coimbatore.\n1 patient died after turning negative for infection in Chengalpattu.\nThese cases have been added to TN deceased tally",
       "stateCode": "TN",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 937,
+        "recovered": 1038,
+        "dead": 13,
+        "active": -114
       },
       "testing_data": {
         "tested": 14122733,
@@ -319,18 +319,18 @@
     },
     "BR": {
       "name": "Bihar",
-      "confirmed": 252400,
-      "active": 4620,
-      "recovered": 246386,
-      "dead": 1393,
-      "updatedTime": "30/12/2020 22:38:36",
+      "confirmed": 252792,
+      "active": 4709,
+      "recovered": 246685,
+      "dead": 1397,
+      "updatedTime": "31/12/2020 20:55:33",
       "note": "",
       "stateCode": "BR",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 392,
+        "recovered": 299,
+        "dead": 4,
+        "active": 89
       },
       "testing_data": {
         "tested": 18227119,
@@ -635,7 +635,7 @@
       "active": 386,
       "recovered": 19045,
       "dead": 317,
-      "updatedTime": "31/12/2020 20:28:32",
+      "updatedTime": "31/12/2020 20:45:33",
       "note": "",
       "stateCode": "CH",
       "today": {
@@ -789,12 +789,12 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 179444,
-        "positive": 4936,
+        "tested": 180626,
+        "positive": 4941,
         "negative": 0,
-        "unconfirmed": 2,
-        "date": "29/12/2020",
-        "source": "https://dhs.andaman.gov.in/NewEvents/513.pdf"
+        "unconfirmed": 1,
+        "date": "30/12/2020",
+        "source": "https://dhs.andaman.gov.in/NewEvents/514.pdf"
       }
     },
     "MZ": {
@@ -880,19 +880,19 @@
     }
   },
   "testing_data": {
-    "tested": 184056793,
-    "positive": 954350,
+    "tested": 184057975,
+    "positive": 954355,
     "negative": 32139426,
-    "unconfirmed": 23103
+    "unconfirmed": 23102
   },
   "testing_data_imcr": {
     "tested": 172049574,
     "source": "https://www.icmr.gov.in/pdf/covid/update/ICMR_testing_update_31Dec2020.pdf"
   },
   "today": {
-    "confirmed": 14012,
-    "recovered": 15458,
-    "dead": 159,
-    "active": -1605
+    "confirmed": 15341,
+    "recovered": 16795,
+    "dead": 176,
+    "active": -1630
   }
 }
