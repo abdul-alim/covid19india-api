@@ -1,9 +1,9 @@
 {
-  "confirmed": 10309648,
-  "recovered": 9909571,
-  "dead": 149284,
-  "active": 247932,
-  "updatedTime": "2/1/2021 19:22:29",
+  "confirmed": 10310778,
+  "recovered": 9910982,
+  "dead": 149305,
+  "active": 247630,
+  "updatedTime": "2/1/2021 19:44:31",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -35,7 +35,7 @@
       "active": 10834,
       "recovered": 898176,
       "dead": 12099,
-      "updatedTime": "01/01/2021 21:00:30",
+      "updatedTime": "02/01/2021 19:38:34",
       "note": "",
       "stateCode": "KA",
       "today": {
@@ -59,7 +59,7 @@
       "active": 3194,
       "recovered": 872545,
       "dead": 7111,
-      "updatedTime": "02/01/2021 19:22:31",
+      "updatedTime": "02/01/2021 19:38:35",
       "note": "",
       "stateCode": "AP",
       "today": {
@@ -83,7 +83,7 @@
       "active": 8272,
       "recovered": 799427,
       "dead": 12146,
-      "updatedTime": "02/01/2021 19:22:33",
+      "updatedTime": "02/01/2021 19:38:37",
       "note": "[July 22]: 444 backdated deceased entries added to Chennai in TN bulletin.\n2 deaths cross notified to other states from Chennai and Coimbatore.\n1 patient died after turning negative for infection in Chengalpattu.\nThese cases have been added to TN deceased tally",
       "stateCode": "TN",
       "today": {
@@ -127,18 +127,18 @@
     },
     "DL": {
       "name": "Delhi",
-      "confirmed": 625954,
-      "active": 5358,
-      "recovered": 610039,
-      "dead": 10557,
-      "updatedTime": "01/01/2021 21:30:43",
+      "confirmed": 626448,
+      "active": 5342,
+      "recovered": 610535,
+      "dead": 10571,
+      "updatedTime": "02/01/2021 19:44:33",
       "note": "[July 14]: Value for the total tests conducted has been reduced by 97008 in the state bulletin. Reason given : \"Reconciled with ICMR figures\". We have made the same change.",
       "stateCode": "DL",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 494,
+        "recovered": 496,
+        "dead": 14,
+        "active": -16
       },
       "testing_data": {
         "tested": 8740395,
@@ -227,7 +227,7 @@
       "active": 8795,
       "recovered": 297819,
       "dead": 2705,
-      "updatedTime": "02/01/2021 19:22:34",
+      "updatedTime": "02/01/2021 19:38:41",
       "note": "",
       "stateCode": "RJ",
       "today": {
@@ -295,18 +295,18 @@
     },
     "HR": {
       "name": "Haryana",
-      "confirmed": 262611,
-      "active": 3314,
-      "recovered": 256386,
-      "dead": 2911,
-      "updatedTime": "01/01/2021 20:18:33",
+      "confirmed": 262850,
+      "active": 3124,
+      "recovered": 256811,
+      "dead": 2915,
+      "updatedTime": "02/01/2021 19:44:35",
       "note": "",
       "stateCode": "HR",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 239,
+        "recovered": 425,
+        "dead": 4,
+        "active": -190
       },
       "testing_data": {
         "tested": 4580194,
@@ -319,18 +319,18 @@
     },
     "BR": {
       "name": "Bihar",
-      "confirmed": 253255,
-      "active": 4765,
-      "recovered": 247089,
-      "dead": 1400,
-      "updatedTime": "01/01/2021 19:43:37",
+      "confirmed": 253652,
+      "active": 4669,
+      "recovered": 247579,
+      "dead": 1403,
+      "updatedTime": "02/01/2021 19:44:36",
       "note": "",
       "stateCode": "BR",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 397,
+        "recovered": 490,
+        "dead": 3,
+        "active": -96
       },
       "testing_data": {
         "tested": 18442165,
@@ -443,7 +443,7 @@
       "active": 2999,
       "recovered": 116587,
       "dead": 1885,
-      "updatedTime": "02/01/2021 19:22:36",
+      "updatedTime": "02/01/2021 19:38:45",
       "note": "",
       "stateCode": "JK",
       "today": {
@@ -890,9 +890,9 @@
     "source": "https://www.icmr.gov.in/pdf/covid/update/ICMR_testing_update_02Jan2021.pdf"
   },
   "today": {
-    "confirmed": 3161,
-    "recovered": 3947,
-    "dead": 29,
-    "active": -815
+    "confirmed": 4291,
+    "recovered": 5358,
+    "dead": 50,
+    "active": -1117
   }
 }
