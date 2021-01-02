@@ -1,9 +1,9 @@
 {
-  "confirmed": 10306490,
+  "confirmed": 10306741,
   "recovered": 9905624,
-  "dead": 149255,
-  "active": 248750,
-  "updatedTime": "2/1/2021 09:55:29",
+  "dead": 149259,
+  "active": 248997,
+  "updatedTime": "2/1/2021 12:11:28",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -199,18 +199,18 @@
     },
     "OR": {
       "name": "Odisha",
-      "confirmed": 329866,
-      "active": 2204,
+      "confirmed": 330117,
+      "active": 2451,
       "recovered": 325733,
-      "dead": 1929,
-      "updatedTime": "01/01/2021 22:56:32",
+      "dead": 1933,
+      "updatedTime": "02/01/2021 12:11:30",
       "note": "[July 12th] :20 non-covid deaths reported in state dashboard are included in the deceased count",
       "stateCode": "OR",
       "today": {
-        "confirmed": 0,
+        "confirmed": 251,
         "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "dead": 4,
+        "active": 247
       },
       "testing_data": {
         "tested": 6976108,
@@ -886,13 +886,13 @@
     "unconfirmed": 21261
   },
   "testing_data_imcr": {
-    "tested": 0,
-    "source": ""
+    "tested": 173941958,
+    "source": "https://www.icmr.gov.in/pdf/covid/update/ICMR_testing_update_02Jan2021.pdf"
   },
   "today": {
-    "confirmed": 3,
+    "confirmed": 254,
     "recovered": 0,
-    "dead": 0,
-    "active": 3
+    "dead": 4,
+    "active": 250
   }
 }
