@@ -1,9 +1,9 @@
 {
-  "confirmed": 10339726,
-  "recovered": 9943560,
+  "confirmed": 10339728,
+  "recovered": 9943843,
   "dead": 149659,
-  "active": 243618,
-  "updatedTime": "3/1/2021 22:36:38",
+  "active": 243337,
+  "updatedTime": "3/1/2021 23:37:36",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -200,17 +200,17 @@
     "OR": {
       "name": "Odisha",
       "confirmed": 330309,
-      "active": 2408,
-      "recovered": 325965,
+      "active": 2164,
+      "recovered": 326209,
       "dead": 1936,
-      "updatedTime": "03/01/2021 11:47:32",
+      "updatedTime": "03/01/2021 23:37:38",
       "note": "[July 12th] :20 non-covid deaths reported in state dashboard are included in the deceased count",
       "stateCode": "OR",
       "today": {
         "confirmed": 192,
-        "recovered": 0,
+        "recovered": 244,
         "dead": 3,
-        "active": 189
+        "active": -55
       },
       "testing_data": {
         "tested": 7012893,
@@ -395,7 +395,7 @@
       "active": 3120,
       "recovered": 212129,
       "dead": 1052,
-      "updatedTime": "03/01/2021 22:36:41",
+      "updatedTime": "03/01/2021 22:53:39",
       "note": "",
       "stateCode": "AS",
       "today": {
@@ -467,7 +467,7 @@
       "active": 1601,
       "recovered": 112893,
       "dead": 1035,
-      "updatedTime": "03/01/2021 22:36:43",
+      "updatedTime": "03/01/2021 22:53:41",
       "note": "",
       "stateCode": "JH",
       "today": {
@@ -515,7 +515,7 @@
       "active": 1830,
       "recovered": 52876,
       "dead": 932,
-      "updatedTime": "03/01/2021 22:36:45",
+      "updatedTime": "03/01/2021 22:53:43",
       "note": "",
       "stateCode": "HP",
       "today": {
@@ -751,18 +751,18 @@
     },
     "SK": {
       "name": "Sikkim",
-      "confirmed": 5910,
-      "active": 530,
-      "recovered": 5157,
+      "confirmed": 5920,
+      "active": 507,
+      "recovered": 5190,
       "dead": 129,
-      "updatedTime": "02/01/2021 23:20:42",
+      "updatedTime": "03/01/2021 23:37:41",
       "note": "",
       "stateCode": "SK",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 9,
+        "recovered": 33,
         "dead": 0,
-        "active": 0
+        "active": -24
       },
       "testing_data": {
         "tested": 69260,
@@ -779,7 +779,7 @@
       "active": 40,
       "recovered": 4846,
       "dead": 62,
-      "updatedTime": "03/01/2021 22:36:48",
+      "updatedTime": "03/01/2021 22:53:46",
       "note": "",
       "stateCode": "AN",
       "today": {
@@ -799,18 +799,18 @@
     },
     "MZ": {
       "name": "Mizoram",
-      "confirmed": 4219,
-      "active": 108,
-      "recovered": 4103,
+      "confirmed": 4211,
+      "active": 94,
+      "recovered": 4109,
       "dead": 8,
-      "updatedTime": "02/01/2021 21:16:52",
+      "updatedTime": "03/01/2021 23:37:43",
       "note": "",
       "stateCode": "MZ",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": -8,
+        "recovered": 6,
         "dead": 0,
-        "active": 0
+        "active": -14
       },
       "testing_data": {
         "tested": 181165,
@@ -890,9 +890,9 @@
     "source": "http://twitter.com/ICMRDELHI/status/1345578137304764416"
   },
   "today": {
-    "confirmed": 15114,
-    "recovered": 17087,
+    "confirmed": 15115,
+    "recovered": 17370,
     "dead": 188,
-    "active": -2161
+    "active": -2443
   }
 }
