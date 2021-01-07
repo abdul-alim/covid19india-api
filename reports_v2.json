@@ -1,24 +1,24 @@
 {
-  "confirmed": 10405097,
-  "recovered": 10026751,
-  "dead": 150470,
-  "active": 223590,
-  "updatedTime": "7/1/2021 20:10:31",
+  "confirmed": 10408826,
+  "recovered": 10030101,
+  "dead": 150542,
+  "active": 223894,
+  "updatedTime": "7/1/2021 20:30:34",
   "states": {
     "MH": {
       "name": "Maharashtra",
-      "confirmed": 1954553,
-      "active": 50808,
-      "recovered": 1852759,
-      "dead": 49825,
-      "updatedTime": "07/01/2021 00:45:36",
+      "confirmed": 1958282,
+      "active": 51112,
+      "recovered": 1856109,
+      "dead": 49897,
+      "updatedTime": "07/01/2021 20:30:35",
       "note": "[Dec 16]:10,218 duplicate cases & other state cases removed from total cases.791 recovered cases also removed from total recovered cases while reconciling \n[Sep 9] :239 cases have been removed from the hospitalized figures owing to the removal of duplicates and change of addresses as per the original residence\n[Aug 15] : MH bulletin has reduced 819 confirmed cases in Mumbai and 72 confirmed cases from 'Other States' from the tally\n[Jun 16] : 1328 deceased cases have been retroactively added to MH bulletin.\n[Jun 20] : 69 deceased cases have been reduced based on state bulletin.",
       "stateCode": "MH",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 3729,
+        "recovered": 3350,
+        "dead": 72,
+        "active": 307
       },
       "testing_data": {
         "tested": 13199201,
@@ -45,12 +45,12 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 14788491,
+        "tested": 14918254,
         "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "06/01/2021",
-        "source": "https://t.co/ckz3VCQPrl?amp=1"
+        "date": "07/01/2021",
+        "source": ""
       }
     },
     "AP": {
@@ -83,7 +83,7 @@
       "active": 7547,
       "recovered": 804239,
       "dead": 12200,
-      "updatedTime": "07/01/2021 20:10:33",
+      "updatedTime": "07/01/2021 20:27:34",
       "note": "[July 22]: 444 backdated deceased entries added to Chennai in TN bulletin.\n2 deaths cross notified to other states from Chennai and Coimbatore.\n1 patient died after turning negative for infection in Chengalpattu.\nThese cases have been added to TN deceased tally",
       "stateCode": "TN",
       "today": {
@@ -107,7 +107,7 @@
       "active": 64447,
       "recovered": 728059,
       "dead": 3235,
-      "updatedTime": "07/01/2021 20:10:34",
+      "updatedTime": "07/01/2021 20:27:35",
       "note": "Mahe native who expired in Kannur included in Kerala's deceased tally.\nSome non-covid deaths have also been reported in the bulletin.\nThese have been reduced from active count",
       "stateCode": "KL",
       "today": {
@@ -179,7 +179,7 @@
       "active": 8476,
       "recovered": 539816,
       "dead": 9881,
-      "updatedTime": "07/01/2021 20:10:35",
+      "updatedTime": "07/01/2021 20:27:37",
       "note": "",
       "stateCode": "WB",
       "today": {
@@ -299,7 +299,7 @@
       "active": 2563,
       "recovered": 258658,
       "dead": 2940,
-      "updatedTime": "07/01/2021 20:10:37",
+      "updatedTime": "07/01/2021 20:27:38",
       "note": "",
       "stateCode": "HR",
       "today": {
@@ -323,7 +323,7 @@
       "active": 4106,
       "recovered": 249943,
       "dead": 1424,
-      "updatedTime": "07/01/2021 20:10:38",
+      "updatedTime": "07/01/2021 20:27:39",
       "note": "",
       "stateCode": "BR",
       "today": {
@@ -381,12 +381,12 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 4800862,
+        "tested": 4827887,
         "positive": 0,
-        "negative": 4425683,
+        "negative": 4451934,
         "unconfirmed": 0,
-        "date": "06/01/2021",
-        "source": "https://twitter.com/healthminmp/status/1346838905174151169/photo/1"
+        "date": "07/01/2021",
+        "source": "https://twitter.com/healthminmp/status/1347193590259216386?s=20"
       }
     },
     "AS": {
@@ -563,7 +563,7 @@
       "active": 359,
       "recovered": 37374,
       "dead": 636,
-      "updatedTime": "07/01/2021 20:10:39",
+      "updatedTime": "07/01/2021 20:27:41",
       "note": "",
       "stateCode": "PY",
       "today": {
@@ -635,7 +635,7 @@
       "active": 240,
       "recovered": 19582,
       "dead": 325,
-      "updatedTime": "07/01/2021 20:10:41",
+      "updatedTime": "07/01/2021 20:27:45",
       "note": "",
       "stateCode": "CH",
       "today": {
@@ -880,9 +880,9 @@
     }
   },
   "testing_data": {
-    "tested": 191356992,
+    "tested": 191513780,
     "positive": 990956,
-    "negative": 33339382,
+    "negative": 33365633,
     "unconfirmed": 21937
   },
   "testing_data_imcr": {
@@ -890,9 +890,9 @@
     "source": "https://twitter.com/ICMRDELHI/status/1347022699760021504"
   },
   "today": {
-    "confirmed": 9147,
-    "recovered": 10561,
-    "dead": 97,
-    "active": -1511
+    "confirmed": 12876,
+    "recovered": 13911,
+    "dead": 169,
+    "active": -1204
   }
 }
