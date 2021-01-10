@@ -1,9 +1,9 @@
 {
-  "confirmed": 10459508,
-  "recovered": 10083205,
+  "confirmed": 10460183,
+  "recovered": 10084009,
   "dead": 151145,
-  "active": 220843,
-  "updatedTime": "10/1/2021 19:50:47",
+  "active": 220714,
+  "updatedTime": "10/1/2021 20:20:46",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -11,7 +11,7 @@
       "active": 54179,
       "recovered": 1863702,
       "dead": 50061,
-      "updatedTime": "10/01/2021 19:50:49",
+      "updatedTime": "10/01/2021 20:09:48",
       "note": "[Dec 16]:10,218 duplicate cases & other state cases removed from total cases.791 recovered cases also removed from total recovered cases while reconciling \n[Sep 9] :239 cases have been removed from the hospitalized figures owing to the removal of duplicates and change of addresses as per the original residence\n[Aug 15] : MH bulletin has reduced 819 confirmed cases in Mumbai and 72 confirmed cases from 'Other States' from the tally\n[Jun 16] : 1328 deceased cases have been retroactively added to MH bulletin.\n[Jun 20] : 69 deceased cases have been reduced based on state bulletin.",
       "stateCode": "MH",
       "today": {
@@ -227,7 +227,7 @@
       "active": 6726,
       "recovered": 303536,
       "dead": 2734,
-      "updatedTime": "10/01/2021 19:50:51",
+      "updatedTime": "10/01/2021 20:09:50",
       "note": "",
       "stateCode": "RJ",
       "today": {
@@ -299,7 +299,7 @@
       "active": 2510,
       "recovered": 259495,
       "dead": 2950,
-      "updatedTime": "10/01/2021 19:50:57",
+      "updatedTime": "10/01/2021 20:09:51",
       "note": "",
       "stateCode": "HR",
       "today": {
@@ -309,12 +309,12 @@
         "active": -53
       },
       "testing_data": {
-        "tested": 4775390,
+        "tested": 4802354,
         "positive": 0,
-        "negative": 4504789,
-        "unconfirmed": 5880,
-        "date": "09/01/2021",
-        "source": "http://www.nhmharyana.gov.in/WriteReadData/userfiles/file/CoronaVirus/Daily%20Bulletin%20of%20COVID%2019%20as%20on%2009-01-2021.pdf"
+        "negative": 4531920,
+        "unconfirmed": 5479,
+        "date": "10/01/2021",
+        "source": "http://www.nhmharyana.gov.in/WriteReadData/userfiles/file/CoronaVirus/Daily%20Bulletin%20of%20COVID%2019%20as%20on%2010-01-2021.pdf"
       }
     },
     "BR": {
@@ -343,18 +343,18 @@
     },
     "GJ": {
       "name": "Gujarat",
-      "confirmed": 251273,
-      "active": 7868,
-      "recovered": 239065,
+      "confirmed": 251948,
+      "active": 7739,
+      "recovered": 239869,
       "dead": 4340,
-      "updatedTime": "09/01/2021 20:45:50",
+      "updatedTime": "10/01/2021 20:20:48",
       "note": "",
       "stateCode": "GJ",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 675,
+        "recovered": 804,
         "dead": 0,
-        "active": 0
+        "active": -129
       },
       "testing_data": {
         "tested": 10101064,
@@ -419,7 +419,7 @@
       "active": 2933,
       "recovered": 160655,
       "dead": 5445,
-      "updatedTime": "10/01/2021 19:50:59",
+      "updatedTime": "10/01/2021 20:09:53",
       "note": "",
       "stateCode": "PB",
       "today": {
@@ -453,12 +453,12 @@
         "active": -83
       },
       "testing_data": {
-        "tested": 4059790,
+        "tested": 4087291,
         "positive": 0,
-        "negative": 3937365,
+        "negative": 3964753,
         "unconfirmed": 0,
-        "date": "09/01/2021",
-        "source": "https://twitter.com/diprjk/status/1347886721581547520"
+        "date": "10/01/2021",
+        "source": "https://twitter.com/diprjk/status/1348265031247400966?s=20"
       }
     },
     "JH": {
@@ -549,12 +549,12 @@
         "active": -35
       },
       "testing_data": {
-        "tested": 414869,
+        "tested": 416392,
         "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "09/01/2021",
-        "source": "https://www.goa.gov.in/wp-content/uploads/2021/01/Media-Bulletin-09th-January-2021.pdf"
+        "date": "10/01/2021",
+        "source": "https://www.goa.gov.in/wp-content/uploads/2021/01/Media-Bulletin-10-th-January-2021.pdf"
       }
     },
     "PY": {
@@ -563,7 +563,7 @@
       "active": 316,
       "recovered": 37501,
       "dead": 638,
-      "updatedTime": "10/01/2021 19:51:01",
+      "updatedTime": "10/01/2021 20:09:55",
       "note": "",
       "stateCode": "PY",
       "today": {
@@ -635,7 +635,7 @@
       "active": 241,
       "recovered": 19727,
       "dead": 327,
-      "updatedTime": "10/01/2021 19:51:02",
+      "updatedTime": "10/01/2021 20:09:59",
       "note": "",
       "stateCode": "CH",
       "today": {
@@ -827,7 +827,7 @@
       "active": 5,
       "recovered": 3330,
       "dead": 2,
-      "updatedTime": "10/01/2021 19:51:04",
+      "updatedTime": "10/01/2021 20:10:01",
       "note": "",
       "stateCode": "DN",
       "today": {
@@ -880,19 +880,19 @@
     }
   },
   "testing_data": {
-    "tested": 194366143,
+    "tested": 194422131,
     "positive": 1007428,
-    "negative": 22366632,
-    "unconfirmed": 16892
+    "negative": 22421151,
+    "unconfirmed": 16491
   },
   "testing_data_imcr": {
     "tested": 181096622,
     "source": "http://twitter.com/ICMRDELHI/status/1348117201060982791"
   },
   "today": {
-    "confirmed": 8162,
-    "recovered": 7810,
+    "confirmed": 8837,
+    "recovered": 8614,
     "dead": 97,
-    "active": 255
+    "active": 126
   }
 }
