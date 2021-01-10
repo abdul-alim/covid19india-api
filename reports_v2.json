@@ -1,9 +1,9 @@
 {
-  "confirmed": 10452403,
-  "recovered": 10076455,
-  "dead": 151063,
-  "active": 220573,
-  "updatedTime": "10/1/2021 17:43:46",
+  "confirmed": 10452919,
+  "recovered": 10077147,
+  "dead": 151070,
+  "active": 220390,
+  "updatedTime": "10/1/2021 18:41:47",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -55,18 +55,18 @@
     },
     "AP": {
       "name": "Andhra Pradesh",
-      "confirmed": 884689,
-      "active": 2607,
-      "recovered": 874954,
-      "dead": 7128,
-      "updatedTime": "09/01/2021 19:48:47",
+      "confirmed": 884916,
+      "active": 2544,
+      "recovered": 875243,
+      "dead": 7129,
+      "updatedTime": "10/01/2021 18:40:48",
       "note": "",
       "stateCode": "AP",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 227,
+        "recovered": 289,
+        "dead": 1,
+        "active": -63
       },
       "testing_data": {
         "tested": 12274647,
@@ -487,18 +487,18 @@
     },
     "UT": {
       "name": "Uttarakhand",
-      "confirmed": 93398,
-      "active": 3215,
-      "recovered": 87370,
-      "dead": 1568,
-      "updatedTime": "09/01/2021 20:45:52",
+      "confirmed": 93621,
+      "active": 3130,
+      "recovered": 87673,
+      "dead": 1573,
+      "updatedTime": "10/01/2021 18:40:51",
       "note": "[Oct 30]: Metric of capturing the testing data has switched to \"Samples Tested\" from \"Samples Collected\"",
       "stateCode": "UT",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 223,
+        "recovered": 303,
+        "dead": 5,
+        "active": -85
       },
       "testing_data": {
         "tested": 1894977,
@@ -535,18 +535,18 @@
     },
     "GA": {
       "name": "Goa",
-      "confirmed": 51790,
-      "active": 867,
-      "recovered": 50177,
-      "dead": 746,
-      "updatedTime": "09/01/2021 21:21:17",
+      "confirmed": 51856,
+      "active": 832,
+      "recovered": 50277,
+      "dead": 747,
+      "updatedTime": "10/01/2021 18:40:52",
       "note": "",
       "stateCode": "GA",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 66,
+        "recovered": 100,
+        "dead": 1,
+        "active": -35
       },
       "testing_data": {
         "tested": 414869,
@@ -890,9 +890,9 @@
     "source": "http://twitter.com/ICMRDELHI/status/1348117201060982791"
   },
   "today": {
-    "confirmed": 1057,
-    "recovered": 1060,
-    "dead": 15,
-    "active": -18
+    "confirmed": 1573,
+    "recovered": 1752,
+    "dead": 22,
+    "active": -201
   }
 }
