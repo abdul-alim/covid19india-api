@@ -1,9 +1,9 @@
 {
-  "confirmed": 10518712,
-  "recovered": 10152111,
-  "dead": 151871,
-  "active": 210364,
-  "updatedTime": "14/1/2021 20:25:47",
+  "confirmed": 10525452,
+  "recovered": 10157879,
+  "dead": 151910,
+  "active": 211297,
+  "updatedTime": "14/1/2021 20:56:46",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -11,7 +11,7 @@
       "active": 52558,
       "recovered": 1877588,
       "dead": 50291,
-      "updatedTime": "14/01/2021 20:25:48",
+      "updatedTime": "14/01/2021 20:44:48",
       "note": "[Dec 16]:10,218 duplicate cases & other state cases removed from total cases.791 recovered cases also removed from total recovered cases while reconciling \n[Sep 9] :239 cases have been removed from the hospitalized figures owing to the removal of duplicates and change of addresses as per the original residence\n[Aug 15] : MH bulletin has reduced 819 confirmed cases in Mumbai and 72 confirmed cases from 'Other States' from the tally\n[Jun 16] : 1328 deceased cases have been retroactively added to MH bulletin.\n[Jun 20] : 69 deceased cases have been reduced based on state bulletin.",
       "stateCode": "MH",
       "today": {
@@ -103,18 +103,18 @@
     },
     "KL": {
       "name": "Kerala",
-      "confirmed": 825770,
-      "active": 65374,
-      "recovered": 756817,
-      "dead": 3374,
-      "updatedTime": "14/01/2021 05:10:45",
+      "confirmed": 831260,
+      "active": 66508,
+      "recovered": 761154,
+      "dead": 3393,
+      "updatedTime": "14/01/2021 20:56:47",
       "note": "Mahe native who expired in Kannur included in Kerala's deceased tally.\nSome non-covid deaths have also been reported in the bulletin.\nThese have been reduced from active count",
       "stateCode": "KL",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 5490,
+        "recovered": 4337,
+        "dead": 19,
+        "active": 1134
       },
       "testing_data": {
         "tested": 8620873,
@@ -131,7 +131,7 @@
       "active": 2937,
       "recovered": 617930,
       "dead": 10722,
-      "updatedTime": "14/01/2021 20:25:50",
+      "updatedTime": "14/01/2021 20:44:50",
       "note": "[July 14]: Value for the total tests conducted has been reduced by 97008 in the state bulletin. Reason given : \"Reconciled with ICMR figures\". We have made the same change.",
       "stateCode": "DL",
       "today": {
@@ -175,18 +175,18 @@
     },
     "WB": {
       "name": "West Bengal",
-      "confirmed": 562795,
-      "active": 7303,
-      "recovered": 545499,
-      "dead": 9993,
-      "updatedTime": "13/01/2021 21:02:49",
+      "confirmed": 563475,
+      "active": 7272,
+      "recovered": 546193,
+      "dead": 10010,
+      "updatedTime": "14/01/2021 20:56:49",
       "note": "",
       "stateCode": "WB",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 680,
+        "recovered": 694,
+        "dead": 17,
+        "active": -31
       },
       "testing_data": {
         "tested": 7527944,
@@ -343,18 +343,18 @@
     },
     "GJ": {
       "name": "Gujarat",
-      "confirmed": 253744,
-      "active": 7126,
-      "recovered": 242264,
-      "dead": 4354,
-      "updatedTime": "13/01/2021 21:02:51",
+      "confirmed": 254314,
+      "active": 6956,
+      "recovered": 243001,
+      "dead": 4357,
+      "updatedTime": "14/01/2021 20:56:50",
       "note": "",
       "stateCode": "GJ",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 570,
+        "recovered": 737,
+        "dead": 3,
+        "active": -170
       },
       "testing_data": {
         "tested": 10196158,
@@ -419,7 +419,7 @@
       "active": 2767,
       "recovered": 161710,
       "dead": 5473,
-      "updatedTime": "14/01/2021 20:25:52",
+      "updatedTime": "14/01/2021 20:44:52",
       "note": "",
       "stateCode": "PB",
       "today": {
@@ -890,9 +890,9 @@
     "source": "https://www.icmr.gov.in/pdf/covid/update/ICMR_testing_update_14Jan2021.pdf"
   },
   "today": {
-    "confirmed": 5881,
-    "recovered": 5877,
-    "dead": 106,
-    "active": -102
+    "confirmed": 12621,
+    "recovered": 11645,
+    "dead": 145,
+    "active": 831
   }
 }
