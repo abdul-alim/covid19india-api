@@ -1,9 +1,9 @@
 {
-  "confirmed": 10555559,
-  "recovered": 10191381,
-  "dead": 152266,
-  "active": 207515,
-  "updatedTime": "16/1/2021 20:22:48",
+  "confirmed": 10556184,
+  "recovered": 10192158,
+  "dead": 152272,
+  "active": 207357,
+  "updatedTime": "16/1/2021 20:53:50",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -11,7 +11,7 @@
       "active": 51965,
       "recovered": 1884127,
       "dead": 50388,
-      "updatedTime": "16/01/2021 20:22:50",
+      "updatedTime": "16/01/2021 20:40:12",
       "note": "[Dec 16]:10,218 duplicate cases & other state cases removed from total cases.791 recovered cases also removed from total recovered cases while reconciling \n[Sep 9] :239 cases have been removed from the hospitalized figures owing to the removal of duplicates and change of addresses as per the original residence\n[Aug 15] : MH bulletin has reduced 819 confirmed cases in Mumbai and 72 confirmed cases from 'Other States' from the tally\n[Jun 16] : 1328 deceased cases have been retroactively added to MH bulletin.\n[Jun 20] : 69 deceased cases have been reduced based on state bulletin.",
       "stateCode": "MH",
       "today": {
@@ -79,18 +79,18 @@
     },
     "TN": {
       "name": "Tamil Nadu",
-      "confirmed": 829573,
-      "active": 6299,
-      "recovered": 811023,
-      "dead": 12251,
-      "updatedTime": "15/01/2021 20:42:03",
+      "confirmed": 830183,
+      "active": 6128,
+      "recovered": 811798,
+      "dead": 12257,
+      "updatedTime": "16/01/2021 20:53:52",
       "note": "[July 22]: 444 backdated deceased entries added to Chennai in TN bulletin.\n2 deaths cross notified to other states from Chennai and Coimbatore.\n1 patient died after turning negative for infection in Chengalpattu.\nThese cases have been added to TN deceased tally",
       "stateCode": "TN",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 610,
+        "recovered": 775,
+        "dead": 6,
+        "active": -171
       },
       "testing_data": {
         "tested": 15177094,
@@ -107,7 +107,7 @@
       "active": 68414,
       "recovered": 770768,
       "dead": 3443,
-      "updatedTime": "16/01/2021 20:22:51",
+      "updatedTime": "16/01/2021 20:40:17",
       "note": "Mahe native who expired in Kannur included in Kerala's deceased tally.\nSome non-covid deaths have also been reported in the bulletin.\nThese have been reduced from active count",
       "stateCode": "KL",
       "today": {
@@ -179,7 +179,7 @@
       "active": 7151,
       "recovered": 547515,
       "dead": 10041,
-      "updatedTime": "16/01/2021 20:22:53",
+      "updatedTime": "16/01/2021 20:40:19",
       "note": "",
       "stateCode": "WB",
       "today": {
@@ -347,7 +347,7 @@
       "active": 6488,
       "recovered": 244503,
       "dead": 4363,
-      "updatedTime": "16/01/2021 20:22:56",
+      "updatedTime": "16/01/2021 20:40:21",
       "note": "",
       "stateCode": "GJ",
       "today": {
@@ -563,7 +563,7 @@
       "active": 286,
       "recovered": 37683,
       "dead": 642,
-      "updatedTime": "16/01/2021 20:22:58",
+      "updatedTime": "16/01/2021 20:40:23",
       "note": "",
       "stateCode": "PY",
       "today": {
@@ -683,7 +683,7 @@
       "active": 148,
       "recovered": 13401,
       "dead": 144,
-      "updatedTime": "16/01/2021 20:23:00",
+      "updatedTime": "16/01/2021 20:40:26",
       "note": "",
       "stateCode": "ML",
       "today": {
@@ -703,18 +703,18 @@
     },
     "NL": {
       "name": "Nagaland",
-      "confirmed": 12039,
-      "active": 104,
-      "recovered": 11707,
+      "confirmed": 12054,
+      "active": 117,
+      "recovered": 11709,
       "dead": 88,
-      "updatedTime": "16/01/2021 01:25:58",
+      "updatedTime": "16/01/2021 20:53:55",
       "note": "",
       "stateCode": "NL",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 15,
+        "recovered": 2,
         "dead": 0,
-        "active": 0
+        "active": 13
       },
       "testing_data": {
         "tested": 122899,
@@ -803,7 +803,7 @@
       "active": 77,
       "recovered": 4228,
       "dead": 9,
-      "updatedTime": "16/01/2021 20:23:02",
+      "updatedTime": "16/01/2021 20:40:30",
       "note": "",
       "stateCode": "MZ",
       "today": {
@@ -890,9 +890,9 @@
     "source": "https://www.icmr.gov.in/pdf/covid/update/ICMR_testing_update_16Jan2021.pdf"
   },
   "today": {
-    "confirmed": 11900,
-    "recovered": 12498,
-    "dead": 136,
-    "active": -734
+    "confirmed": 12525,
+    "recovered": 13275,
+    "dead": 142,
+    "active": -892
   }
 }
