@@ -1,9 +1,9 @@
 {
-  "confirmed": 10556976,
-  "recovered": 10193045,
-  "dead": 152283,
-  "active": 207244,
-  "updatedTime": "16/1/2021 21:34:49",
+  "confirmed": 10557646,
+  "recovered": 10193826,
+  "dead": 152288,
+  "active": 207128,
+  "updatedTime": "16/1/2021 22:56:53",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -31,18 +31,18 @@
     },
     "KA": {
       "name": "Karnataka",
-      "confirmed": 930668,
-      "active": 8790,
-      "recovered": 909701,
-      "dead": 12158,
-      "updatedTime": "15/01/2021 21:56:53",
+      "confirmed": 931252,
+      "active": 8694,
+      "recovered": 910377,
+      "dead": 12162,
+      "updatedTime": "16/01/2021 22:56:55",
       "note": "",
       "stateCode": "KA",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 584,
+        "recovered": 676,
+        "dead": 4,
+        "active": -96
       },
       "testing_data": {
         "tested": 15884994,
@@ -275,7 +275,7 @@
       "active": 6867,
       "recovered": 282760,
       "dead": 3551,
-      "updatedTime": "16/01/2021 21:34:51",
+      "updatedTime": "16/01/2021 21:52:51",
       "note": "",
       "stateCode": "CT",
       "today": {
@@ -491,7 +491,7 @@
       "active": 2349,
       "recovered": 89454,
       "dead": 1606,
-      "updatedTime": "16/01/2021 21:34:53",
+      "updatedTime": "16/01/2021 21:52:54",
       "note": "[Oct 30]: Metric of capturing the testing data has switched to \"Samples Tested\" from \"Samples Collected\"",
       "stateCode": "UT",
       "today": {
@@ -511,18 +511,18 @@
     },
     "HP": {
       "name": "Himachal Pradesh",
-      "confirmed": 56802,
-      "active": 767,
-      "recovered": 55036,
-      "dead": 951,
-      "updatedTime": "15/01/2021 23:18:05",
+      "confirmed": 56873,
+      "active": 755,
+      "recovered": 55118,
+      "dead": 952,
+      "updatedTime": "16/01/2021 22:56:58",
       "note": "",
       "stateCode": "HP",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 71,
+        "recovered": 82,
+        "dead": 1,
+        "active": -12
       },
       "testing_data": {
         "tested": 881083,
@@ -655,18 +655,18 @@
     },
     "AR": {
       "name": "Arunachal Pradesh",
-      "confirmed": 16798,
-      "active": 68,
-      "recovered": 16674,
+      "confirmed": 16805,
+      "active": 62,
+      "recovered": 16687,
       "dead": 56,
-      "updatedTime": "14/01/2021 23:17:50",
+      "updatedTime": "16/01/2021 22:57:00",
       "note": "[July 25]: All numbers corresponding to Papum Pare and Captial Complex are tracked under Papum Pare district.",
       "stateCode": "AR",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 6,
+        "recovered": 8,
         "dead": 0,
-        "active": 0
+        "active": -2
       },
       "testing_data": {
         "tested": 387121,
@@ -751,18 +751,18 @@
     },
     "SK": {
       "name": "Sikkim",
-      "confirmed": 6024,
-      "active": 258,
-      "recovered": 5541,
+      "confirmed": 6029,
+      "active": 253,
+      "recovered": 5551,
       "dead": 130,
-      "updatedTime": "16/01/2021 00:27:58",
+      "updatedTime": "16/01/2021 22:57:03",
       "note": "",
       "stateCode": "SK",
       "today": {
-        "confirmed": 0,
+        "confirmed": 5,
         "recovered": 0,
         "dead": 0,
-        "active": 0
+        "active": 5
       },
       "testing_data": {
         "tested": 72038,
@@ -775,18 +775,18 @@
     },
     "AN": {
       "name": "Andaman and Nicobar",
-      "confirmed": 4979,
-      "active": 22,
+      "confirmed": 4982,
+      "active": 25,
       "recovered": 4895,
       "dead": 62,
-      "updatedTime": "15/01/2021 23:18:07",
+      "updatedTime": "16/01/2021 22:57:05",
       "note": "",
       "stateCode": "AN",
       "today": {
-        "confirmed": 0,
+        "confirmed": 3,
         "recovered": 0,
         "dead": 0,
-        "active": 0
+        "active": 3
       },
       "testing_data": {
         "tested": 199805,
@@ -890,9 +890,9 @@
     "source": "https://www.icmr.gov.in/pdf/covid/update/ICMR_testing_update_16Jan2021.pdf"
   },
   "today": {
-    "confirmed": 13317,
-    "recovered": 14162,
-    "dead": 153,
-    "active": -998
+    "confirmed": 13986,
+    "recovered": 14928,
+    "dead": 158,
+    "active": -1100
   }
 }
