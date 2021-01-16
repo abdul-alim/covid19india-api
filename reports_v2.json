@@ -1,9 +1,9 @@
 {
-  "confirmed": 10558202,
-  "recovered": 10195154,
-  "dead": 152304,
-  "active": 206340,
-  "updatedTime": "17/1/2021 01:01:55",
+  "confirmed": 10558710,
+  "recovered": 10196184,
+  "dead": 152311,
+  "active": 205811,
+  "updatedTime": "17/1/2021 01:45:49",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -155,7 +155,7 @@
       "active": 9162,
       "recovered": 578405,
       "dead": 8570,
-      "updatedTime": "16/01/2021 00:27:51",
+      "updatedTime": "17/01/2021 01:15:53",
       "note": "[Jan 1]:As no bulletin was provided for 31'st Dec'20,its count has been combined with 1st Jan'21\n[Jan 9]:Due to reconcillation there are 1286 cases.",
       "stateCode": "UP",
       "today": {
@@ -203,7 +203,7 @@
       "active": 1857,
       "recovered": 329318,
       "dead": 1952,
-      "updatedTime": "17/01/2021 01:01:57",
+      "updatedTime": "17/01/2021 01:15:55",
       "note": "[July 12th] :20 non-covid deaths reported in state dashboard are included in the deceased count",
       "stateCode": "OR",
       "today": {
@@ -367,18 +367,18 @@
     },
     "MP": {
       "name": "Madhya Pradesh",
-      "confirmed": 250858,
-      "active": 6957,
-      "recovered": 240155,
-      "dead": 3746,
-      "updatedTime": "16/01/2021 00:27:54",
+      "confirmed": 251223,
+      "active": 6524,
+      "recovered": 240948,
+      "dead": 3751,
+      "updatedTime": "17/01/2021 01:45:52",
       "note": "[Oct 14]: 4469 confirmed cases and 4469 recoveries added in MP bulletin as reconciliation with private labs and hospitals",
       "stateCode": "MP",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 365,
+        "recovered": 793,
+        "dead": 5,
+        "active": -433
       },
       "testing_data": {
         "tested": 5045476,
@@ -463,18 +463,18 @@
     },
     "JH": {
       "name": "Jharkhand",
-      "confirmed": 117480,
-      "active": 1289,
-      "recovered": 115142,
-      "dead": 1049,
-      "updatedTime": "16/01/2021 01:25:54",
+      "confirmed": 117599,
+      "active": 1249,
+      "recovered": 115300,
+      "dead": 1050,
+      "updatedTime": "17/01/2021 01:45:54",
       "note": "",
       "stateCode": "JH",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 119,
+        "recovered": 158,
+        "dead": 1,
+        "active": -40
       },
       "testing_data": {
         "tested": 5035900,
@@ -607,18 +607,18 @@
     },
     "MN": {
       "name": "Manipur",
-      "confirmed": 28811,
-      "active": 436,
-      "recovered": 28010,
-      "dead": 365,
-      "updatedTime": "16/01/2021 01:25:56",
+      "confirmed": 28835,
+      "active": 380,
+      "recovered": 28089,
+      "dead": 366,
+      "updatedTime": "17/01/2021 01:45:56",
       "note": "[Dec 14]:824 out of 980 recovered cases are backdated.",
       "stateCode": "MN",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 24,
+        "recovered": 79,
+        "dead": 1,
+        "active": -56
       },
       "testing_data": {
         "tested": 495868,
@@ -890,9 +890,9 @@
     "source": "https://www.icmr.gov.in/pdf/covid/update/ICMR_testing_update_16Jan2021.pdf"
   },
   "today": {
-    "confirmed": 14542,
-    "recovered": 16171,
-    "dead": 174,
-    "active": -1803
+    "confirmed": 15050,
+    "recovered": 17201,
+    "dead": 181,
+    "active": -2332
   }
 }
