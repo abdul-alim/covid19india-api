@@ -1,9 +1,9 @@
 {
-  "confirmed": 10543659,
-  "recovered": 10178883,
-  "dead": 152130,
-  "active": 208261,
-  "updatedTime": "16/1/2021 01:25:49",
+  "confirmed": 10543841,
+  "recovered": 10178890,
+  "dead": 152144,
+  "active": 208422,
+  "updatedTime": "16/1/2021 13:51:50",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -199,18 +199,18 @@
     },
     "OR": {
       "name": "Odisha",
-      "confirmed": 332949,
-      "active": 1910,
+      "confirmed": 333127,
+      "active": 2087,
       "recovered": 329088,
-      "dead": 1951,
-      "updatedTime": "15/01/2021 21:56:55",
+      "dead": 1952,
+      "updatedTime": "16/01/2021 13:51:53",
       "note": "[July 12th] :20 non-covid deaths reported in state dashboard are included in the deceased count",
       "stateCode": "OR",
       "today": {
-        "confirmed": 0,
+        "confirmed": 178,
         "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "dead": 1,
+        "active": 177
       },
       "testing_data": {
         "tested": 7319608,
@@ -416,10 +416,10 @@
     "PB": {
       "name": "Punjab",
       "confirmed": 170191,
-      "active": 2739,
+      "active": 2727,
       "recovered": 161967,
-      "dead": 5485,
-      "updatedTime": "16/01/2021 01:25:51",
+      "dead": 5497,
+      "updatedTime": "16/01/2021 13:51:56",
       "note": "",
       "stateCode": "PB",
       "today": {
@@ -583,18 +583,18 @@
     },
     "TR": {
       "name": "Tripura",
-      "confirmed": 33322,
-      "active": 45,
-      "recovered": 32867,
-      "dead": 387,
-      "updatedTime": "15/01/2021 01:58:01",
+      "confirmed": 33326,
+      "active": 41,
+      "recovered": 32874,
+      "dead": 388,
+      "updatedTime": "16/01/2021 13:51:59",
       "note": "[Aug 4]: Tripura bulletin for the previous day is released on the next day. We will add the cases for Tripura against the date of release, as that is the convention that we are following for other states.",
       "stateCode": "TR",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 4,
+        "recovered": 7,
+        "dead": 1,
+        "active": -4
       },
       "testing_data": {
         "tested": 598570,
@@ -890,9 +890,9 @@
     "source": "https://www.icmr.gov.in/pdf/covid/update/ICMR_testing_update_16Jan2021.pdf"
   },
   "today": {
-    "confirmed": 0,
-    "recovered": 0,
-    "dead": 0,
-    "active": 0
+    "confirmed": 182,
+    "recovered": 7,
+    "dead": 2,
+    "active": 173
   }
 }
