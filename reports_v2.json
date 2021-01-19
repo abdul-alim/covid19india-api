@@ -1,9 +1,9 @@
 {
-  "confirmed": 10596107,
-  "recovered": 10244677,
-  "dead": 152743,
-  "active": 194292,
-  "updatedTime": "19/1/2021 21:52:48",
+  "confirmed": 10596228,
+  "recovered": 10244839,
+  "dead": 152747,
+  "active": 194247,
+  "updatedTime": "19/1/2021 23:28:50",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -59,7 +59,7 @@
       "active": 1660,
       "recovered": 877443,
       "dead": 7142,
-      "updatedTime": "19/01/2021 21:52:49",
+      "updatedTime": "19/01/2021 22:11:09",
       "note": "",
       "stateCode": "AP",
       "today": {
@@ -275,7 +275,7 @@
       "active": 5932,
       "recovered": 284848,
       "dead": 3575,
-      "updatedTime": "19/01/2021 21:52:51",
+      "updatedTime": "19/01/2021 22:11:12",
       "note": "",
       "stateCode": "CT",
       "today": {
@@ -371,7 +371,7 @@
       "active": 5732,
       "recovered": 242691,
       "dead": 3763,
-      "updatedTime": "19/01/2021 21:52:52",
+      "updatedTime": "19/01/2021 22:11:15",
       "note": "[Oct 14]: 4469 confirmed cases and 4469 recoveries added in MP bulletin as reconciliation with private labs and hospitals",
       "stateCode": "MP",
       "today": {
@@ -395,7 +395,7 @@
       "active": 1384,
       "recovered": 213081,
       "dead": 1075,
-      "updatedTime": "19/01/2021 21:52:54",
+      "updatedTime": "19/01/2021 22:11:17",
       "note": "[Jan 1]: 1347 cases i.e Covid +'tive patients dead for other reasons have been deducted fom active count",
       "stateCode": "AS",
       "today": {
@@ -463,26 +463,26 @@
     },
     "JH": {
       "name": "Jharkhand",
-      "confirmed": 117786,
-      "active": 1190,
-      "recovered": 115542,
-      "dead": 1054,
-      "updatedTime": "18/01/2021 23:19:04",
+      "confirmed": 117887,
+      "active": 1147,
+      "recovered": 115683,
+      "dead": 1057,
+      "updatedTime": "19/01/2021 23:28:53",
       "note": "",
       "stateCode": "JH",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 101,
+        "recovered": 141,
+        "dead": 3,
+        "active": -43
       },
       "testing_data": {
-        "tested": 5057812,
-        "positive": 117786,
-        "negative": 4940026,
+        "tested": 5072399,
+        "positive": 117887,
+        "negative": 4954512,
         "unconfirmed": 0,
-        "date": "18/01/2021",
-        "source": "https://twitter.com/rnuddkranchi/status/1351214589350993924"
+        "date": "19/01/2021",
+        "source": "https://twitter.com/rnuddkranchi/status/1351565653077966849"
       }
     },
     "UT": {
@@ -491,7 +491,7 @@
       "active": 1992,
       "recovered": 90133,
       "dead": 1619,
-      "updatedTime": "19/01/2021 21:52:56",
+      "updatedTime": "19/01/2021 22:11:22",
       "note": "[Oct 30]: Metric of capturing the testing data has switched to \"Samples Tested\" from \"Samples Collected\"",
       "stateCode": "UT",
       "today": {
@@ -515,7 +515,7 @@
       "active": 584,
       "recovered": 55464,
       "dead": 955,
-      "updatedTime": "19/01/2021 21:52:57",
+      "updatedTime": "19/01/2021 22:11:24",
       "note": "",
       "stateCode": "HP",
       "today": {
@@ -751,18 +751,18 @@
     },
     "SK": {
       "name": "Sikkim",
-      "confirmed": 6038,
-      "active": 152,
-      "recovered": 5661,
-      "dead": 130,
-      "updatedTime": "19/01/2021 00:27:59",
+      "confirmed": 6052,
+      "active": 156,
+      "recovered": 5670,
+      "dead": 131,
+      "updatedTime": "19/01/2021 23:28:55",
       "note": "",
       "stateCode": "SK",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 14,
+        "recovered": 9,
+        "dead": 1,
+        "active": 4
       },
       "testing_data": {
         "tested": 72544,
@@ -799,18 +799,18 @@
     },
     "MZ": {
       "name": "Mizoram",
-      "confirmed": 4323,
-      "active": 74,
-      "recovered": 4240,
+      "confirmed": 4329,
+      "active": 69,
+      "recovered": 4251,
       "dead": 9,
-      "updatedTime": "19/01/2021 00:28:01",
+      "updatedTime": "19/01/2021 23:28:59",
       "note": "",
       "stateCode": "MZ",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 6,
+        "recovered": 11,
         "dead": 0,
-        "active": 0
+        "active": -5
       },
       "testing_data": {
         "tested": 194415,
@@ -824,17 +824,17 @@
     "DN": {
       "name": "Dadra and Nagar Haveli and Daman and Diu",
       "confirmed": 3374,
-      "active": 10,
-      "recovered": 3333,
+      "active": 9,
+      "recovered": 3334,
       "dead": 2,
-      "updatedTime": "18/01/2021 23:19:24",
+      "updatedTime": "19/01/2021 23:29:01",
       "note": "",
       "stateCode": "DN",
       "today": {
         "confirmed": 0,
-        "recovered": 0,
+        "recovered": 1,
         "dead": 0,
-        "active": 0
+        "active": -1
       },
       "isUnknown": true
     },
@@ -880,9 +880,9 @@
     }
   },
   "testing_data": {
-    "tested": 202894975,
-    "positive": 1059658,
-    "negative": 35136872,
+    "tested": 202909562,
+    "positive": 1059759,
+    "negative": 35151358,
     "unconfirmed": 19741
   },
   "testing_data_imcr": {
@@ -890,9 +890,9 @@
     "source": "https://www.icmr.gov.in/pdf/covid/update/ICMR_testing_update_19Jan2021.pdf"
   },
   "today": {
-    "confirmed": 13445,
-    "recovered": 16814,
-    "dead": 150,
-    "active": -3519
+    "confirmed": 13566,
+    "recovered": 16976,
+    "dead": 154,
+    "active": -3564
   }
 }
