@@ -1,9 +1,9 @@
 {
-  "confirmed": 10596228,
-  "recovered": 10244839,
-  "dead": 152747,
-  "active": 194247,
-  "updatedTime": "19/1/2021 23:45:50",
+  "confirmed": 10596442,
+  "recovered": 10245092,
+  "dead": 152754,
+  "active": 194201,
+  "updatedTime": "20/1/2021 04:02:49",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -415,18 +415,18 @@
     },
     "PB": {
       "name": "Punjab",
-      "confirmed": 170729,
-      "active": 2458,
-      "recovered": 162762,
-      "dead": 5509,
-      "updatedTime": "19/01/2021 00:27:52",
+      "confirmed": 170937,
+      "active": 2412,
+      "recovered": 163009,
+      "dead": 5516,
+      "updatedTime": "20/01/2021 04:02:51",
       "note": "",
       "stateCode": "PB",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 208,
+        "recovered": 247,
+        "dead": 7,
+        "active": -46
       },
       "testing_data": {
         "tested": 4271814,
@@ -727,18 +727,18 @@
     },
     "LA": {
       "name": "Ladakh",
-      "confirmed": 9657,
-      "active": 81,
-      "recovered": 9448,
+      "confirmed": 9662,
+      "active": 80,
+      "recovered": 9454,
       "dead": 128,
-      "updatedTime": "19/01/2021 12:47:50",
+      "updatedTime": "20/01/2021 04:02:52",
       "note": "",
       "stateCode": "LA",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 5,
+        "recovered": 6,
         "dead": 0,
-        "active": 0
+        "active": -1
       },
       "testing_data": {
         "tested": 110068,
@@ -775,18 +775,18 @@
     },
     "AN": {
       "name": "Andaman and Nicobar",
-      "confirmed": 4988,
-      "active": 29,
+      "confirmed": 4989,
+      "active": 30,
       "recovered": 4897,
       "dead": 62,
-      "updatedTime": "18/01/2021 23:19:22",
+      "updatedTime": "20/01/2021 04:02:54",
       "note": "",
       "stateCode": "AN",
       "today": {
-        "confirmed": 0,
+        "confirmed": 1,
         "recovered": 0,
         "dead": 0,
-        "active": 0
+        "active": 1
       },
       "testing_data": {
         "tested": 205411,
@@ -890,9 +890,9 @@
     "source": "https://www.icmr.gov.in/pdf/covid/update/ICMR_testing_update_19Jan2021.pdf"
   },
   "today": {
-    "confirmed": 13566,
-    "recovered": 16976,
-    "dead": 154,
-    "active": -3564
+    "confirmed": 13780,
+    "recovered": 17229,
+    "dead": 161,
+    "active": -3610
   }
 }
