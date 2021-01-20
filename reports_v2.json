@@ -1,24 +1,24 @@
 {
-  "confirmed": 10607585,
-  "recovered": 10258209,
-  "dead": 152827,
-  "active": 192148,
-  "updatedTime": "20/1/2021 23:04:49",
+  "confirmed": 10610632,
+  "recovered": 10262843,
+  "dead": 152886,
+  "active": 190498,
+  "updatedTime": "21/1/2021 00:10:48",
   "states": {
     "MH": {
       "name": "Maharashtra",
-      "confirmed": 1994977,
-      "active": 48406,
-      "recovered": 1894839,
-      "dead": 50523,
-      "updatedTime": "19/01/2021 21:36:53",
+      "confirmed": 1997992,
+      "active": 46769,
+      "recovered": 1899428,
+      "dead": 50582,
+      "updatedTime": "21/01/2021 00:10:50",
       "note": "[Dec 16]:10,218 duplicate cases & other state cases removed from total cases.791 recovered cases also removed from total recovered cases while reconciling \n[Sep 9] :239 cases have been removed from the hospitalized figures owing to the removal of duplicates and change of addresses as per the original residence\n[Aug 15] : MH bulletin has reduced 819 confirmed cases in Mumbai and 72 confirmed cases from 'Other States' from the tally\n[Jun 16] : 1328 deceased cases have been retroactively added to MH bulletin.\n[Jun 20] : 69 deceased cases have been reduced based on state bulletin.",
       "stateCode": "MH",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 3015,
+        "recovered": 4589,
+        "dead": 59,
+        "active": -1633
       },
       "testing_data": {
         "tested": 13957469,
@@ -59,7 +59,7 @@
       "active": 1637,
       "recovered": 877639,
       "dead": 7142,
-      "updatedTime": "20/01/2021 23:04:51",
+      "updatedTime": "20/01/2021 23:17:49",
       "note": "",
       "stateCode": "AP",
       "today": {
@@ -419,7 +419,7 @@
       "active": 2412,
       "recovered": 163009,
       "dead": 5516,
-      "updatedTime": "20/01/2021 04:19:52",
+      "updatedTime": "21/01/2021 00:07:55",
       "note": "",
       "stateCode": "PB",
       "today": {
@@ -467,7 +467,7 @@
       "active": 1102,
       "recovered": 115853,
       "dead": 1057,
-      "updatedTime": "20/01/2021 23:04:52",
+      "updatedTime": "20/01/2021 23:17:51",
       "note": "",
       "stateCode": "JH",
       "today": {
@@ -583,18 +583,18 @@
     },
     "TR": {
       "name": "Tripura",
-      "confirmed": 33332,
-      "active": 39,
-      "recovered": 32882,
+      "confirmed": 33333,
+      "active": 38,
+      "recovered": 32884,
       "dead": 388,
-      "updatedTime": "18/01/2021 21:16:17",
+      "updatedTime": "21/01/2021 00:10:51",
       "note": "[Aug 4]: Tripura bulletin for the previous day is released on the next day. We will add the cases for Tripura against the date of release, as that is the convention that we are following for other states.",
       "stateCode": "TR",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 1,
+        "recovered": 2,
         "dead": 0,
-        "active": 0
+        "active": -1
       },
       "testing_data": {
         "tested": 601506,
@@ -607,18 +607,18 @@
     },
     "MN": {
       "name": "Manipur",
-      "confirmed": 28900,
-      "active": 235,
-      "recovered": 28298,
+      "confirmed": 28919,
+      "active": 244,
+      "recovered": 28308,
       "dead": 367,
-      "updatedTime": "19/01/2021 20:51:10",
+      "updatedTime": "21/01/2021 00:10:53",
       "note": "[Dec 14]:824 out of 980 recovered cases are backdated.",
       "stateCode": "MN",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 19,
+        "recovered": 10,
         "dead": 0,
-        "active": 0
+        "active": 9
       },
       "testing_data": {
         "tested": 501237,
@@ -703,18 +703,18 @@
     },
     "NL": {
       "name": "Nagaland",
-      "confirmed": 12066,
-      "active": 112,
-      "recovered": 11724,
+      "confirmed": 12067,
+      "active": 106,
+      "recovered": 11731,
       "dead": 88,
-      "updatedTime": "19/01/2021 20:51:16",
+      "updatedTime": "21/01/2021 00:10:54",
       "note": "",
       "stateCode": "NL",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 1,
+        "recovered": 7,
         "dead": 0,
-        "active": 0
+        "active": -6
       },
       "testing_data": {
         "tested": 123470,
@@ -727,18 +727,18 @@
     },
     "LA": {
       "name": "Ladakh",
-      "confirmed": 9662,
-      "active": 80,
-      "recovered": 9454,
+      "confirmed": 9668,
+      "active": 77,
+      "recovered": 9463,
       "dead": 128,
-      "updatedTime": "20/01/2021 04:19:54",
+      "updatedTime": "21/01/2021 00:10:55",
       "note": "",
       "stateCode": "LA",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 6,
+        "recovered": 9,
         "dead": 0,
-        "active": 0
+        "active": -3
       },
       "testing_data": {
         "tested": 110068,
@@ -779,7 +779,7 @@
       "active": 29,
       "recovered": 4900,
       "dead": 62,
-      "updatedTime": "20/01/2021 23:04:54",
+      "updatedTime": "20/01/2021 23:17:52",
       "note": "",
       "stateCode": "AN",
       "today": {
@@ -799,18 +799,18 @@
     },
     "MZ": {
       "name": "Mizoram",
-      "confirmed": 4329,
-      "active": 69,
-      "recovered": 4251,
+      "confirmed": 4334,
+      "active": 57,
+      "recovered": 4268,
       "dead": 9,
-      "updatedTime": "19/01/2021 23:45:55",
+      "updatedTime": "21/01/2021 00:10:57",
       "note": "",
       "stateCode": "MZ",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 5,
+        "recovered": 17,
         "dead": 0,
-        "active": 0
+        "active": -12
       },
       "testing_data": {
         "tested": 195534,
@@ -890,9 +890,9 @@
     "source": "https://twitter.com/ICMRDELHI/status/1351736539982647296"
   },
   "today": {
-    "confirmed": 11136,
-    "recovered": 13117,
-    "dead": 73,
-    "active": -2054
+    "confirmed": 14183,
+    "recovered": 17751,
+    "dead": 132,
+    "active": -3700
   }
 }
