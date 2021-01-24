@@ -1,24 +1,24 @@
 {
-  "confirmed": 10655641,
-  "recovered": 10316472,
-  "dead": 153378,
-  "active": 181355,
-  "updatedTime": "24/1/2021 10:59:49",
+  "confirmed": 10658886,
+  "recovered": 10318691,
+  "dead": 153433,
+  "active": 182323,
+  "updatedTime": "24/1/2021 19:02:51",
   "states": {
     "MH": {
       "name": "Maharashtra",
-      "confirmed": 2006354,
-      "active": 43870,
-      "recovered": 1910521,
-      "dead": 50740,
-      "updatedTime": "23/01/2021 20:39:52",
+      "confirmed": 2009106,
+      "active": 44831,
+      "recovered": 1912264,
+      "dead": 50785,
+      "updatedTime": "24/01/2021 19:02:52",
       "note": "[Dec 16]:10,218 duplicate cases & other state cases removed from total cases.791 recovered cases also removed from total recovered cases while reconciling \n[Sep 9] :239 cases have been removed from the hospitalized figures owing to the removal of duplicates and change of addresses as per the original residence\n[Aug 15] : MH bulletin has reduced 819 confirmed cases in Mumbai and 72 confirmed cases from 'Other States' from the tally\n[Jun 16] : 1328 deceased cases have been retroactively added to MH bulletin.\n[Jun 20] : 69 deceased cases have been reduced based on state bulletin.",
       "stateCode": "MH",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 2752,
+        "recovered": 1743,
+        "dead": 45,
+        "active": 964
       },
       "testing_data": {
         "tested": 14145829,
@@ -55,18 +55,18 @@
     },
     "AP": {
       "name": "Andhra Pradesh",
-      "confirmed": 886852,
-      "active": 1473,
-      "recovered": 878232,
+      "confirmed": 887010,
+      "active": 1476,
+      "recovered": 878387,
       "dead": 7147,
-      "updatedTime": "23/01/2021 20:39:54",
+      "updatedTime": "24/01/2021 19:02:53",
       "note": "",
       "stateCode": "AP",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 158,
+        "recovered": 155,
         "dead": 0,
-        "active": 0
+        "active": 3
       },
       "testing_data": {
         "tested": 12831731,
@@ -127,18 +127,18 @@
     },
     "DL": {
       "name": "Delhi",
-      "confirmed": 633739,
-      "active": 1880,
-      "recovered": 621060,
-      "dead": 10799,
-      "updatedTime": "23/01/2021 19:49:58",
+      "confirmed": 633924,
+      "active": 1741,
+      "recovered": 621375,
+      "dead": 10808,
+      "updatedTime": "24/01/2021 19:02:55",
       "note": "[July 14]: Value for the total tests conducted has been reduced by 97008 in the state bulletin. Reason given : \"Reconciled with ICMR figures\". We have made the same change.",
       "stateCode": "DL",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 185,
+        "recovered": 315,
+        "dead": 9,
+        "active": -139
       },
       "testing_data": {
         "tested": 10289461,
@@ -199,18 +199,18 @@
     },
     "OR": {
       "name": "Odisha",
-      "confirmed": 334150,
-      "active": 1231,
+      "confirmed": 334300,
+      "active": 1380,
       "recovered": 330962,
-      "dead": 1957,
-      "updatedTime": "24/01/2021 02:53:50",
+      "dead": 1958,
+      "updatedTime": "24/01/2021 19:02:56",
       "note": "[July 12th] :20 non-covid deaths reported in state dashboard are included in the deceased count",
       "stateCode": "OR",
       "today": {
-        "confirmed": 0,
+        "confirmed": 150,
         "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "dead": 1,
+        "active": 149
       },
       "testing_data": {
         "tested": 7548428,
@@ -704,17 +704,17 @@
     "NL": {
       "name": "Nagaland",
       "confirmed": 12076,
-      "active": 104,
-      "recovered": 11742,
+      "active": 103,
+      "recovered": 11743,
       "dead": 88,
-      "updatedTime": "22/01/2021 23:17:07",
+      "updatedTime": "24/01/2021 19:02:58",
       "note": "",
       "stateCode": "NL",
       "today": {
         "confirmed": 0,
-        "recovered": 0,
+        "recovered": 1,
         "dead": 0,
-        "active": 0
+        "active": -1
       },
       "testing_data": {
         "tested": 123935,
@@ -800,17 +800,17 @@
     "MZ": {
       "name": "Mizoram",
       "confirmed": 4351,
-      "active": 58,
-      "recovered": 4284,
+      "active": 53,
+      "recovered": 4289,
       "dead": 9,
-      "updatedTime": "24/01/2021 10:59:53",
+      "updatedTime": "24/01/2021 19:02:59",
       "note": "",
       "stateCode": "MZ",
       "today": {
         "confirmed": 2,
-        "recovered": 0,
+        "recovered": 5,
         "dead": 0,
-        "active": 2
+        "active": -3
       },
       "testing_data": {
         "tested": 200128,
@@ -890,9 +890,9 @@
     "source": "https://twitter.com/ICMRDELHI/status/1352819480624205827"
   },
   "today": {
-    "confirmed": 199,
-    "recovered": 376,
-    "dead": 1,
-    "active": -178
+    "confirmed": 3444,
+    "recovered": 2595,
+    "dead": 56,
+    "active": 793
   }
 }
