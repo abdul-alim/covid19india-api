@@ -1,9 +1,9 @@
 {
-  "confirmed": 10672035,
-  "recovered": 10334850,
-  "dead": 153525,
-  "active": 179211,
-  "updatedTime": "25/1/2021 19:17:55",
+  "confirmed": 10672185,
+  "recovered": 10335153,
+  "dead": 153526,
+  "active": 179057,
+  "updatedTime": "25/1/2021 20:39:55",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -247,18 +247,18 @@
     },
     "TG": {
       "name": "Telangana",
-      "confirmed": 293253,
-      "active": 3389,
-      "recovered": 288275,
-      "dead": 1589,
-      "updatedTime": "24/01/2021 10:59:51",
+      "confirmed": 293401,
+      "active": 3234,
+      "recovered": 288577,
+      "dead": 1590,
+      "updatedTime": "25/01/2021 20:39:58",
       "note": "[July 27] : Telangana bulletin for the previous day is released on the next day. We will add the cases for Telangana against the date of release, as that is the convention that we are following for other states.\n--\nDistrict-wise numbers are not reported because cumulative counts for each district are not provided in Telangana bulletin",
       "stateCode": "TG",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 148,
+        "recovered": 302,
+        "dead": 1,
+        "active": -155
       },
       "testing_data": {
         "tested": 7682361,
@@ -824,17 +824,17 @@
     "DN": {
       "name": "Dadra and Nagar Haveli and Daman and Diu",
       "confirmed": 3377,
-      "active": 8,
-      "recovered": 3338,
+      "active": 7,
+      "recovered": 3339,
       "dead": 2,
-      "updatedTime": "24/01/2021 20:10:01",
+      "updatedTime": "25/01/2021 20:40:18",
       "note": "",
       "stateCode": "DN",
       "today": {
         "confirmed": 0,
-        "recovered": 0,
+        "recovered": 1,
         "dead": 0,
-        "active": 0
+        "active": -1
       },
       "isUnknown": true
     },
@@ -857,11 +857,11 @@
     },
     "LD": {
       "name": "Laccadives",
-      "confirmed": 57,
-      "active": 57,
+      "confirmed": 59,
+      "active": 59,
       "recovered": 0,
       "dead": 0,
-      "updatedTime": "24/01/2021 09:58:52",
+      "updatedTime": "25/01/2021 20:40:23",
       "note": "",
       "stateCode": "LD",
       "today": {
@@ -891,9 +891,9 @@
     "source": "http://twitter.com/ICMRDELHI/status/1353543219938648065"
   },
   "today": {
-    "confirmed": 3361,
-    "recovered": 5606,
-    "dead": 17,
-    "active": -2262
+    "confirmed": 3509,
+    "recovered": 5909,
+    "dead": 18,
+    "active": -2418
   }
 }
