@@ -1,9 +1,9 @@
 {
-  "confirmed": 10689202,
-  "recovered": 10356476,
-  "dead": 153722,
-  "active": 174545,
-  "updatedTime": "26/1/2021 21:24:03",
+  "confirmed": 10689255,
+  "recovered": 10356684,
+  "dead": 153724,
+  "active": 174384,
+  "updatedTime": "26/1/2021 21:53:10",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -261,12 +261,12 @@
         "active": -162
       },
       "testing_data": {
-        "tested": 7682361,
+        "tested": 7711810,
         "positive": 0,
         "negative": 0,
-        "unconfirmed": 260,
-        "date": "25/01/2021",
-        "source": "https://twitter.com/IPRTelangana/status/1353579127949860866?s=20"
+        "unconfirmed": 204,
+        "date": "26/01/2021",
+        "source": "https://twitter.com/IPRTelangana/status/1353920122709106689?s=20"
       }
     },
     "CT": {
@@ -391,18 +391,18 @@
     },
     "AS": {
       "name": "Assam",
-      "confirmed": 217017,
-      "active": 918,
-      "recovered": 213674,
-      "dead": 1078,
-      "updatedTime": "25/01/2021 22:32:30",
+      "confirmed": 217025,
+      "active": 836,
+      "recovered": 213763,
+      "dead": 1079,
+      "updatedTime": "26/01/2021 21:53:13",
       "note": "[Jan 1]: 1347 cases i.e Covid +'tive patients dead for other reasons have been deducted fom active count",
       "stateCode": "AS",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 8,
+        "recovered": 89,
+        "dead": 1,
+        "active": -82
       },
       "testing_data": {
         "tested": 6395713,
@@ -487,18 +487,18 @@
     },
     "UT": {
       "name": "Uttarakhand",
-      "confirmed": 95702,
-      "active": 1523,
-      "recovered": 91221,
-      "dead": 1635,
-      "updatedTime": "25/01/2021 22:32:36",
+      "confirmed": 95741,
+      "active": 1455,
+      "recovered": 91323,
+      "dead": 1636,
+      "updatedTime": "26/01/2021 21:53:26",
       "note": "[Oct 30]: Metric of capturing the testing data has switched to \"Samples Tested\" from \"Samples Collected\"",
       "stateCode": "UT",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 39,
+        "recovered": 102,
+        "dead": 1,
+        "active": -64
       },
       "testing_data": {
         "tested": 2086012,
@@ -525,12 +525,12 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 909300,
+        "tested": 911204,
         "positive": 0,
-        "negative": 852034,
-        "unconfirmed": 21,
-        "date": "25/01/2021",
-        "source": "https://twitter.com/nhm_hp/status/1353730797153312768?s=20"
+        "negative": 853924,
+        "unconfirmed": 23,
+        "date": "26/01/2021",
+        "source": "https://twitter.com/nhm_hp/status/1354096475307823104"
       }
     },
     "GA": {
@@ -597,12 +597,12 @@
         "active": -4
       },
       "testing_data": {
-        "tested": 604330,
-        "positive": 33342,
-        "negative": 570988,
+        "tested": 604952,
+        "positive": 33343,
+        "negative": 571609,
         "unconfirmed": 0,
-        "date": "25/01/2021",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/5231"
+        "date": "26/01/2021",
+        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/5344"
       }
     },
     "MN": {
@@ -751,18 +751,18 @@
     },
     "SK": {
       "name": "Sikkim",
-      "confirmed": 6072,
-      "active": 115,
-      "recovered": 5729,
+      "confirmed": 6078,
+      "active": 104,
+      "recovered": 5746,
       "dead": 133,
-      "updatedTime": "25/01/2021 22:32:47",
+      "updatedTime": "26/01/2021 21:53:29",
       "note": "",
       "stateCode": "SK",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 6,
+        "recovered": 17,
         "dead": 0,
-        "active": 0
+        "active": -11
       },
       "testing_data": {
         "tested": 73775,
@@ -881,19 +881,19 @@
     }
   },
   "testing_data": {
-    "tested": 208673513,
-    "positive": 1059823,
-    "negative": 36089389,
-    "unconfirmed": 12049
+    "tested": 208705488,
+    "positive": 1059824,
+    "negative": 36091900,
+    "unconfirmed": 11995
   },
   "testing_data_imcr": {
     "tested": 193062694,
     "source": "https://twitter.com/ICMRDELHI/status/1353905187883126784"
   },
   "today": {
-    "confirmed": 11460,
-    "recovered": 11169,
-    "dead": 98,
-    "active": 193
+    "confirmed": 11513,
+    "recovered": 11377,
+    "dead": 100,
+    "active": 36
   }
 }
