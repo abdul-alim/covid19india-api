@@ -1,9 +1,9 @@
 {
-  "confirmed": 10690281,
-  "recovered": 10358328,
-  "dead": 153751,
-  "active": 173733,
-  "updatedTime": "27/1/2021 11:21:55",
+  "confirmed": 10690733,
+  "recovered": 10359008,
+  "dead": 153761,
+  "active": 173495,
+  "updatedTime": "27/1/2021 20:26:04",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -127,18 +127,18 @@
     },
     "DL": {
       "name": "Delhi",
-      "confirmed": 634229,
-      "active": 1626,
-      "recovered": 621783,
-      "dead": 10820,
-      "updatedTime": "26/01/2021 19:11:01",
+      "confirmed": 634325,
+      "active": 1501,
+      "recovered": 621995,
+      "dead": 10829,
+      "updatedTime": "27/01/2021 20:26:07",
       "note": "[July 14]: Value for the total tests conducted has been reduced by 97008 in the state bulletin. Reason given : \"Reconciled with ICMR figures\". We have made the same change.",
       "stateCode": "DL",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 96,
+        "recovered": 212,
+        "dead": 9,
+        "active": -125
       },
       "testing_data": {
         "tested": 10465191,
@@ -343,18 +343,18 @@
     },
     "GJ": {
       "name": "Gujarat",
-      "confirmed": 259867,
-      "active": 3986,
-      "recovered": 251500,
-      "dead": 4381,
-      "updatedTime": "26/01/2021 20:42:11",
+      "confirmed": 260220,
+      "active": 3876,
+      "recovered": 251962,
+      "dead": 4382,
+      "updatedTime": "27/01/2021 20:26:14",
       "note": "",
       "stateCode": "GJ",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 353,
+        "recovered": 462,
+        "dead": 1,
+        "active": -110
       },
       "testing_data": {
         "tested": 10655600,
@@ -789,28 +789,28 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 213467,
-        "positive": 4993,
+        "tested": 215858,
+        "positive": 4994,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "24/1/2021",
-        "source": "https://dhs.andaman.gov.in/NewEvents/543.pdf"
+        "date": "26/1/2021",
+        "source": "https://dhs.andaman.gov.in/"
       }
     },
     "MZ": {
       "name": "Mizoram",
-      "confirmed": 4356,
-      "active": 47,
-      "recovered": 4300,
+      "confirmed": 4359,
+      "active": 44,
+      "recovered": 4306,
       "dead": 9,
-      "updatedTime": "26/01/2021 19:11:17",
+      "updatedTime": "27/01/2021 20:26:18",
       "note": "",
       "stateCode": "MZ",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 3,
+        "recovered": 6,
         "dead": 0,
-        "active": 0
+        "active": -3
       },
       "testing_data": {
         "tested": 201360,
@@ -881,8 +881,8 @@
     }
   },
   "testing_data": {
-    "tested": 208705966,
-    "positive": 1059824,
+    "tested": 208708357,
+    "positive": 1059825,
     "negative": 36092077,
     "unconfirmed": 11995
   },
@@ -891,9 +891,9 @@
     "source": "https://twitter.com/ICMRDELHI/status/1354273593148862467"
   },
   "today": {
-    "confirmed": 0,
-    "recovered": 0,
-    "dead": 0,
-    "active": 0
+    "confirmed": 452,
+    "recovered": 680,
+    "dead": 10,
+    "active": -238
   }
 }
