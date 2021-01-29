@@ -1,9 +1,9 @@
 {
-  "confirmed": 10731435,
-  "recovered": 10404327,
-  "dead": 154147,
-  "active": 168480,
-  "updatedTime": "30/1/2021 04:43:58",
+  "confirmed": 10733137,
+  "recovered": 10406732,
+  "dead": 154173,
+  "active": 167751,
+  "updatedTime": "30/1/2021 05:14:00",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -11,7 +11,7 @@
       "active": 43147,
       "recovered": 1925800,
       "dead": 51000,
-      "updatedTime": "30/01/2021 04:44:00",
+      "updatedTime": "30/01/2021 05:01:00",
       "note": "[Dec 16]:10,218 duplicate cases & other state cases removed from total cases.791 recovered cases also removed from total recovered cases while reconciling \n[Sep 9] :239 cases have been removed from the hospitalized figures owing to the removal of duplicates and change of addresses as per the original residence\n[Aug 15] : MH bulletin has reduced 819 confirmed cases in Mumbai and 72 confirmed cases from 'Other States' from the tally\n[Jun 16] : 1328 deceased cases have been retroactively added to MH bulletin.\n[Jun 20] : 69 deceased cases have been reduced based on state bulletin.",
       "stateCode": "MH",
       "today": {
@@ -31,18 +31,18 @@
     },
     "KA": {
       "name": "Karnataka",
-      "confirmed": 937933,
-      "active": 6202,
-      "recovered": 919503,
-      "dead": 12209,
-      "updatedTime": "29/01/2021 00:14:58",
+      "confirmed": 938401,
+      "active": 6061,
+      "recovered": 920110,
+      "dead": 12211,
+      "updatedTime": "30/01/2021 05:14:02",
       "note": "",
       "stateCode": "KA",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 468,
+        "recovered": 607,
+        "dead": 2,
+        "active": -141
       },
       "testing_data": {
         "tested": 16884991,
@@ -83,7 +83,7 @@
       "active": 4601,
       "recovered": 820381,
       "dead": 12345,
-      "updatedTime": "30/01/2021 04:40:01",
+      "updatedTime": "30/01/2021 04:45:02",
       "note": "[July 22]: 444 backdated deceased entries added to Chennai in TN bulletin.\n2 deaths cross notified to other states from Chennai and Coimbatore.\n1 patient died after turning negative for infection in Chengalpattu.\nThese cases have been added to TN deceased tally",
       "stateCode": "TN",
       "today": {
@@ -131,7 +131,7 @@
       "active": 1551,
       "recovered": 622381,
       "dead": 10841,
-      "updatedTime": "30/01/2021 04:40:04",
+      "updatedTime": "30/01/2021 04:45:04",
       "note": "[July 14]: Value for the total tests conducted has been reduced by 97008 in the state bulletin. Reason given : \"Reconciled with ICMR figures\". We have made the same change.",
       "stateCode": "DL",
       "today": {
@@ -155,7 +155,7 @@
       "active": 5918,
       "recovered": 585273,
       "dead": 8646,
-      "updatedTime": "30/01/2021 04:40:06",
+      "updatedTime": "30/01/2021 04:45:06",
       "note": "[Jan 1]:As no bulletin was provided for 31'st Dec'20,its count has been combined with 1st Jan'21\n[Jan 9]:Due to reconcillation there are 1286 cases.",
       "stateCode": "UP",
       "today": {
@@ -203,7 +203,7 @@
       "active": 1067,
       "recovered": 331824,
       "dead": 1959,
-      "updatedTime": "30/01/2021 04:40:08",
+      "updatedTime": "30/01/2021 04:45:08",
       "note": "[July 12th] :20 non-covid deaths reported in state dashboard are included in the deceased count",
       "stateCode": "OR",
       "today": {
@@ -223,18 +223,18 @@
     },
     "RJ": {
       "name": "Rajasthan",
-      "confirmed": 317189,
-      "active": 2559,
-      "recovered": 311867,
-      "dead": 2763,
-      "updatedTime": "28/01/2021 21:54:23",
+      "confirmed": 317292,
+      "active": 2395,
+      "recovered": 312132,
+      "dead": 2765,
+      "updatedTime": "30/01/2021 05:14:05",
       "note": "",
       "stateCode": "RJ",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 103,
+        "recovered": 265,
+        "dead": 2,
+        "active": -164
       },
       "testing_data": {
         "tested": 5814009,
@@ -251,7 +251,7 @@
       "active": 2535,
       "recovered": 289987,
       "dead": 1596,
-      "updatedTime": "30/01/2021 04:40:10",
+      "updatedTime": "30/01/2021 04:45:10",
       "note": "[July 27] : Telangana bulletin for the previous day is released on the next day. We will add the cases for Telangana against the date of release, as that is the convention that we are following for other states.\n--\nDistrict-wise numbers are not reported because cumulative counts for each district are not provided in Telangana bulletin",
       "stateCode": "TG",
       "today": {
@@ -271,18 +271,18 @@
     },
     "CT": {
       "name": "Chhattisgarh",
-      "confirmed": 304319,
-      "active": 4450,
-      "recovered": 296187,
-      "dead": 3682,
-      "updatedTime": "28/01/2021 23:40:06",
+      "confirmed": 304689,
+      "active": 4358,
+      "recovered": 296642,
+      "dead": 3689,
+      "updatedTime": "30/01/2021 05:14:07",
       "note": "",
       "stateCode": "CT",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 370,
+        "recovered": 455,
+        "dead": 7,
+        "active": -92
       },
       "testing_data": {
         "tested": 4183581,
@@ -319,18 +319,18 @@
     },
     "BR": {
       "name": "Bihar",
-      "confirmed": 260359,
-      "active": 1475,
-      "recovered": 257391,
-      "dead": 1492,
-      "updatedTime": "28/01/2021 22:43:07",
+      "confirmed": 260480,
+      "active": 1315,
+      "recovered": 257669,
+      "dead": 1495,
+      "updatedTime": "30/01/2021 05:14:09",
       "note": "",
       "stateCode": "BR",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 121,
+        "recovered": 278,
+        "dead": 3,
+        "active": -160
       },
       "testing_data": {
         "tested": 20864841,
@@ -343,18 +343,18 @@
     },
     "GJ": {
       "name": "Gujarat",
-      "confirmed": 260566,
-      "active": 3618,
-      "recovered": 252564,
-      "dead": 4384,
-      "updatedTime": "28/01/2021 20:36:19",
+      "confirmed": 260901,
+      "active": 3489,
+      "recovered": 253027,
+      "dead": 4385,
+      "updatedTime": "30/01/2021 05:14:13",
       "note": "",
       "stateCode": "GJ",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 335,
+        "recovered": 463,
+        "dead": 1,
+        "active": -129
       },
       "testing_data": {
         "tested": 10751067,
@@ -371,7 +371,7 @@
       "active": 2826,
       "recovered": 248036,
       "dead": 3805,
-      "updatedTime": "30/01/2021 04:40:12",
+      "updatedTime": "30/01/2021 04:45:14",
       "note": "[Oct 14]: 4469 confirmed cases and 4469 recoveries added in MP bulletin as reconciliation with private labs and hospitals",
       "stateCode": "MP",
       "today": {
@@ -391,18 +391,18 @@
     },
     "AS": {
       "name": "Assam",
-      "confirmed": 217071,
-      "active": 691,
-      "recovered": 213952,
+      "confirmed": 217091,
+      "active": 609,
+      "recovered": 214054,
       "dead": 1081,
-      "updatedTime": "28/01/2021 21:54:29",
+      "updatedTime": "30/01/2021 05:14:15",
       "note": "[Jan 1]: 1347 cases i.e Covid +'tive patients dead for other reasons have been deducted fom active count",
       "stateCode": "AS",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 20,
+        "recovered": 102,
         "dead": 0,
-        "active": 0
+        "active": -82
       },
       "testing_data": {
         "tested": 6429030,
@@ -415,18 +415,18 @@
     },
     "PB": {
       "name": "Punjab",
-      "confirmed": 172606,
-      "active": 2079,
-      "recovered": 164937,
-      "dead": 5590,
-      "updatedTime": "29/01/2021 00:15:07",
+      "confirmed": 172860,
+      "active": 2114,
+      "recovered": 165145,
+      "dead": 5601,
+      "updatedTime": "30/01/2021 05:14:17",
       "note": "",
       "stateCode": "PB",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 254,
+        "recovered": 208,
+        "dead": 11,
+        "active": 35
       },
       "testing_data": {
         "tested": 4444257,
@@ -559,18 +559,18 @@
     },
     "PY": {
       "name": "Puducherry",
-      "confirmed": 38973,
-      "active": 291,
-      "recovered": 38035,
+      "confirmed": 39004,
+      "active": 295,
+      "recovered": 38062,
       "dead": 647,
-      "updatedTime": "28/01/2021 21:54:35",
+      "updatedTime": "30/01/2021 05:14:19",
       "note": "",
       "stateCode": "PY",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 31,
+        "recovered": 27,
         "dead": 0,
-        "active": 0
+        "active": 4
       },
       "testing_data": {
         "tested": 573656,
@@ -611,7 +611,7 @@
       "active": 142,
       "recovered": 28524,
       "dead": 371,
-      "updatedTime": "30/01/2021 04:44:03",
+      "updatedTime": "30/01/2021 05:01:17",
       "note": "[Dec 14]:824 out of 980 recovered cases are backdated.",
       "stateCode": "MN",
       "today": {
@@ -891,9 +891,9 @@
     "source": "https://twitter.com/ICMRDELHI/status/1354990493608804352"
   },
   "today": {
-    "confirmed": 10464,
-    "recovered": 11165,
-    "dead": 100,
-    "active": -801
+    "confirmed": 12166,
+    "recovered": 13570,
+    "dead": 126,
+    "active": -1530
   }
 }
