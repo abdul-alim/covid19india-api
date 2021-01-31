@@ -1,24 +1,24 @@
 {
-  "confirmed": 10747661,
-  "recovered": 10422784,
-  "dead": 154318,
-  "active": 166063,
-  "updatedTime": "31/1/2021 19:28:10",
+  "confirmed": 10750289,
+  "recovered": 10424630,
+  "dead": 154358,
+  "active": 166802,
+  "updatedTime": "31/1/2021 19:48:02",
   "states": {
     "MH": {
       "name": "Maharashtra",
-      "confirmed": 2023814,
-      "active": 44199,
-      "recovered": 1927335,
-      "dead": 51042,
-      "updatedTime": "30/01/2021 23:04:06",
+      "confirmed": 2026321,
+      "active": 45023,
+      "recovered": 1928975,
+      "dead": 51082,
+      "updatedTime": "31/01/2021 19:48:05",
       "note": "[Dec 16]:10,218 duplicate cases & other state cases removed from total cases.791 recovered cases also removed from total recovered cases while reconciling \n[Sep 9] :239 cases have been removed from the hospitalized figures owing to the removal of duplicates and change of addresses as per the original residence\n[Aug 15] : MH bulletin has reduced 819 confirmed cases in Mumbai and 72 confirmed cases from 'Other States' from the tally\n[Jun 16] : 1328 deceased cases have been retroactively added to MH bulletin.\n[Jun 20] : 69 deceased cases have been reduced based on state bulletin.",
       "stateCode": "MH",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 2507,
+        "recovered": 1640,
+        "dead": 40,
+        "active": 827
       },
       "testing_data": {
         "tested": 14559160,
@@ -131,7 +131,7 @@
       "active": 1361,
       "recovered": 622882,
       "dead": 10853,
-      "updatedTime": "31/01/2021 19:28:12",
+      "updatedTime": "31/01/2021 19:40:15",
       "note": "[July 14]: Value for the total tests conducted has been reduced by 97008 in the state bulletin. Reason given : \"Reconciled with ICMR figures\". We have made the same change.",
       "stateCode": "DL",
       "today": {
@@ -223,18 +223,18 @@
     },
     "RJ": {
       "name": "Rajasthan",
-      "confirmed": 317396,
-      "active": 2260,
-      "recovered": 312370,
+      "confirmed": 317491,
+      "active": 2161,
+      "recovered": 312564,
       "dead": 2766,
-      "updatedTime": "30/01/2021 23:49:11",
+      "updatedTime": "31/01/2021 19:48:18",
       "note": "",
       "stateCode": "RJ",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 95,
+        "recovered": 194,
         "dead": 0,
-        "active": 0
+        "active": -99
       },
       "testing_data": {
         "tested": 5832977,
@@ -443,7 +443,7 @@
       "active": 748,
       "recovered": 121822,
       "dead": 1936,
-      "updatedTime": "31/01/2021 19:28:15",
+      "updatedTime": "31/01/2021 19:40:19",
       "note": "",
       "stateCode": "JK",
       "today": {
@@ -491,7 +491,7 @@
       "active": 1175,
       "recovered": 91966,
       "dead": 1644,
-      "updatedTime": "31/01/2021 19:28:18",
+      "updatedTime": "31/01/2021 19:40:22",
       "note": "[Oct 30]: Metric of capturing the testing data has switched to \"Samples Tested\" from \"Samples Collected\"",
       "stateCode": "UT",
       "today": {
@@ -611,7 +611,7 @@
       "active": 144,
       "recovered": 28553,
       "dead": 371,
-      "updatedTime": "31/01/2021 19:28:20",
+      "updatedTime": "31/01/2021 19:34:16",
       "note": "[Dec 14]:824 out of 980 recovered cases are backdated.",
       "stateCode": "MN",
       "today": {
@@ -631,18 +631,18 @@
     },
     "CH": {
       "name": "Chandigarh",
-      "confirmed": 20899,
-      "active": 151,
-      "recovered": 20414,
+      "confirmed": 20925,
+      "active": 165,
+      "recovered": 20426,
       "dead": 334,
-      "updatedTime": "30/01/2021 23:49:22",
+      "updatedTime": "31/01/2021 19:48:21",
       "note": "",
       "stateCode": "CH",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 26,
+        "recovered": 12,
         "dead": 0,
-        "active": 0
+        "active": 14
       },
       "testing_data": {
         "tested": 215242,
@@ -707,7 +707,7 @@
       "active": 56,
       "recovered": 11806,
       "dead": 88,
-      "updatedTime": "31/01/2021 19:28:23",
+      "updatedTime": "31/01/2021 19:34:21",
       "note": "",
       "stateCode": "NL",
       "today": {
@@ -803,7 +803,7 @@
       "active": 33,
       "recovered": 4330,
       "dead": 9,
-      "updatedTime": "31/01/2021 19:28:25",
+      "updatedTime": "31/01/2021 19:34:23",
       "note": "",
       "stateCode": "MZ",
       "today": {
@@ -891,9 +891,9 @@
     "source": "https://twitter.com/ICMRDELHI/status/1355734045641089026"
   },
   "today": {
-    "confirmed": 561,
-    "recovered": 659,
-    "dead": 6,
-    "active": -104
+    "confirmed": 3189,
+    "recovered": 2505,
+    "dead": 46,
+    "active": 638
   }
 }
