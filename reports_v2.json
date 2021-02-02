@@ -1,24 +1,24 @@
 {
-  "confirmed": 10775617,
-  "recovered": 10456635,
-  "dead": 154575,
-  "active": 159900,
-  "updatedTime": "2/2/2021 21:13:13",
+  "confirmed": 10777551,
+  "recovered": 10460683,
+  "dead": 154605,
+  "active": 157755,
+  "updatedTime": "2/2/2021 21:34:15",
   "states": {
     "MH": {
       "name": "Maharashtra",
-      "confirmed": 2028347,
-      "active": 43701,
-      "recovered": 1932294,
-      "dead": 51109,
-      "updatedTime": "01/02/2021 21:32:16",
+      "confirmed": 2030274,
+      "active": 41586,
+      "recovered": 1936305,
+      "dead": 51139,
+      "updatedTime": "02/02/2021 21:34:16",
       "note": "[Dec 16]:10,218 duplicate cases & other state cases removed from total cases.791 recovered cases also removed from total recovered cases while reconciling \n[Sep 9] :239 cases have been removed from the hospitalized figures owing to the removal of duplicates and change of addresses as per the original residence\n[Aug 15] : MH bulletin has reduced 819 confirmed cases in Mumbai and 72 confirmed cases from 'Other States' from the tally\n[Jun 16] : 1328 deceased cases have been retroactively added to MH bulletin.\n[Jun 20] : 69 deceased cases have been reduced based on state bulletin.",
       "stateCode": "MH",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 1927,
+        "recovered": 4011,
+        "dead": 30,
+        "active": -2114
       },
       "testing_data": {
         "tested": 14706992,
@@ -275,7 +275,7 @@
       "active": 4173,
       "recovered": 298135,
       "dead": 3711,
-      "updatedTime": "02/02/2021 21:13:15",
+      "updatedTime": "02/02/2021 21:31:17",
       "note": "",
       "stateCode": "CT",
       "today": {
@@ -285,12 +285,12 @@
         "active": 49
       },
       "testing_data": {
-        "tested": 4241595,
+        "tested": 4265378,
         "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "01/02/2021",
-        "source": "https://twitter.com/HealthCgGov/status/1356260400497455105/photo/1"
+        "date": "02/02/2021",
+        "source": "https://twitter.com/HealthCgGov/status/1356624280163868672"
       }
     },
     "HR": {
@@ -323,7 +323,7 @@
       "active": 1095,
       "recovered": 258309,
       "dead": 1507,
-      "updatedTime": "02/02/2021 21:13:17",
+      "updatedTime": "02/02/2021 21:31:18",
       "note": "",
       "stateCode": "BR",
       "today": {
@@ -338,7 +338,7 @@
         "negative": 0,
         "unconfirmed": 0,
         "date": "02/02/2021",
-        "source": ""
+        "source": "https://twitter.com/BiharHealthDept/status/1356615850556420097"
       }
     },
     "GJ": {
@@ -391,26 +391,26 @@
     },
     "AS": {
       "name": "Assam",
-      "confirmed": 217154,
-      "active": 476,
-      "recovered": 214248,
+      "confirmed": 217161,
+      "active": 446,
+      "recovered": 214285,
       "dead": 1083,
-      "updatedTime": "01/02/2021 22:49:06",
+      "updatedTime": "02/02/2021 21:34:18",
       "note": "[Jan 1]: 1347 cases i.e Covid +'tive patients dead for other reasons have been deducted fom active count.\n--\nDistrict-wise numbers are not reported because cumulative counts for each district are not provided in Assam bulletin",
       "stateCode": "AS",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 7,
+        "recovered": 37,
         "dead": 0,
-        "active": 0
+        "active": -30
       },
       "testing_data": {
-        "tested": 6482747,
+        "tested": 6498609,
         "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "1/2/2021",
-        "source": "https://twitter.com/nhm_assam/status/1356264842919866373"
+        "date": "2/2/2021",
+        "source": "https://twitter.com/nhm_assam/status/1356629919028047873"
       }
     },
     "PB": {
@@ -611,7 +611,7 @@
       "active": 138,
       "recovered": 28568,
       "dead": 371,
-      "updatedTime": "02/02/2021 21:13:19",
+      "updatedTime": "02/02/2021 21:31:30",
       "note": "[Dec 14]:824 out of 980 recovered cases are backdated.\n--\nDistrict-wise numbers are not reported because cumulative counts for each district are not provided in Manipur bulletin",
       "stateCode": "MN",
       "today": {
@@ -669,12 +669,12 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 392211,
+        "tested": 392762,
         "positive": 0,
-        "negative": 0,
+        "negative": 363583,
         "unconfirmed": 0,
-        "date": "31/1/2021",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/5545?single"
+        "date": "1/2/2021",
+        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/5616"
       }
     },
     "ML": {
@@ -881,9 +881,9 @@
     }
   },
   "testing_data": {
-    "tested": 213937527,
+    "tested": 213977723,
     "positive": 41536,
-    "negative": 36497176,
+    "negative": 36860759,
     "unconfirmed": 12764
   },
   "testing_data_imcr": {
@@ -891,9 +891,9 @@
     "source": "http://twitter.com/ICMRDELHI/status/1356448283288297473"
   },
   "today": {
-    "confirmed": 8411,
-    "recovered": 9185,
-    "dead": 53,
-    "active": -827
+    "confirmed": 10345,
+    "recovered": 13233,
+    "dead": 83,
+    "active": -2971
   }
 }
