@@ -1,24 +1,24 @@
 {
-  "confirmed": 10784563,
-  "recovered": 10468080,
-  "dead": 154655,
-  "active": 157318,
-  "updatedTime": "3/2/2021 20:08:14",
+  "confirmed": 10788026,
+  "recovered": 10475835,
+  "dead": 154689,
+  "active": 152990,
+  "updatedTime": "3/2/2021 20:46:13",
   "states": {
     "MH": {
       "name": "Maharashtra",
-      "confirmed": 2030274,
-      "active": 41586,
-      "recovered": 1936305,
-      "dead": 51139,
-      "updatedTime": "02/02/2021 21:51:16",
+      "confirmed": 2033266,
+      "active": 37516,
+      "recovered": 1943335,
+      "dead": 51169,
+      "updatedTime": "03/02/2021 20:46:15",
       "note": "[Dec 16]:10,218 duplicate cases & other state cases removed from total cases.791 recovered cases also removed from total recovered cases while reconciling \n[Sep 9] :239 cases have been removed from the hospitalized figures owing to the removal of duplicates and change of addresses as per the original residence\n[Aug 15] : MH bulletin has reduced 819 confirmed cases in Mumbai and 72 confirmed cases from 'Other States' from the tally\n[Jun 16] : 1328 deceased cases have been retroactively added to MH bulletin.\n[Jun 20] : 69 deceased cases have been reduced based on state bulletin.",
       "stateCode": "MH",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 2992,
+        "recovered": 7030,
+        "dead": 30,
+        "active": -4068
       },
       "testing_data": {
         "tested": 14764744,
@@ -247,18 +247,18 @@
     },
     "TG": {
       "name": "Telangana",
-      "confirmed": 294739,
-      "active": 2022,
-      "recovered": 291115,
-      "dead": 1602,
-      "updatedTime": "02/02/2021 20:35:06",
+      "confirmed": 294924,
+      "active": 2008,
+      "recovered": 291312,
+      "dead": 1604,
+      "updatedTime": "03/02/2021 20:46:17",
       "note": "[July 27] : Telangana bulletin for the previous day is released on the next day. We will add the cases for Telangana against the date of release, as that is the convention that we are following for other states.\n--\nDistrict-wise numbers are not reported because cumulative counts for each district are not provided in Telangana bulletin",
       "stateCode": "TG",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 185,
+        "recovered": 197,
+        "dead": 2,
+        "active": -14
       },
       "testing_data": {
         "tested": 7915105,
@@ -343,18 +343,18 @@
     },
     "GJ": {
       "name": "Gujarat",
-      "confirmed": 262123,
-      "active": 3103,
-      "recovered": 254631,
-      "dead": 4389,
-      "updatedTime": "02/02/2021 21:09:18",
+      "confirmed": 262406,
+      "active": 2856,
+      "recovered": 255159,
+      "dead": 4391,
+      "updatedTime": "03/02/2021 20:46:18",
       "note": "",
       "stateCode": "GJ",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 283,
+        "recovered": 528,
+        "dead": 2,
+        "active": -247
       },
       "testing_data": {
         "tested": 10900068,
@@ -429,12 +429,12 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 4506064,
+        "tested": 4520789,
         "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "02/02/2021",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/5669"
+        "date": "03/02/2021",
+        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/5679"
       }
     },
     "JK": {
@@ -799,18 +799,18 @@
     },
     "MZ": {
       "name": "Mizoram",
-      "confirmed": 4373,
-      "active": 30,
+      "confirmed": 4376,
+      "active": 33,
       "recovered": 4334,
       "dead": 9,
-      "updatedTime": "02/02/2021 21:09:28",
+      "updatedTime": "03/02/2021 20:46:21",
       "note": "",
       "stateCode": "MZ",
       "today": {
-        "confirmed": 0,
+        "confirmed": 3,
         "recovered": 0,
         "dead": 0,
-        "active": 0
+        "active": 3
       },
       "testing_data": {
         "tested": 209012,
@@ -881,7 +881,7 @@
     }
   },
   "testing_data": {
-    "tested": 214621781,
+    "tested": 214636506,
     "positive": 203719,
     "negative": 36949392,
     "unconfirmed": 12836
@@ -891,9 +891,9 @@
     "source": "https://twitter.com/ICMRDELHI/status/1356804259443060737"
   },
   "today": {
-    "confirmed": 6356,
-    "recovered": 6380,
-    "dead": 20,
-    "active": -44
+    "confirmed": 9819,
+    "recovered": 14135,
+    "dead": 54,
+    "active": -4370
   }
 }
