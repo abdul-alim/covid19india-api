@@ -1,9 +1,9 @@
 {
-  "confirmed": 10802831,
-  "recovered": 10494493,
-  "dead": 154841,
-  "active": 148979,
-  "updatedTime": "4/2/2021 21:47:13",
+  "confirmed": 10802954,
+  "recovered": 10494629,
+  "dead": 154846,
+  "active": 148959,
+  "updatedTime": "4/2/2021 22:26:13",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -275,7 +275,7 @@
       "active": 4295,
       "recovered": 298724,
       "dead": 3724,
-      "updatedTime": "04/02/2021 21:47:14",
+      "updatedTime": "04/02/2021 22:04:14",
       "note": "",
       "stateCode": "CT",
       "today": {
@@ -391,18 +391,18 @@
     },
     "AS": {
       "name": "Assam",
-      "confirmed": 217175,
-      "active": 401,
-      "recovered": 214344,
-      "dead": 1083,
-      "updatedTime": "03/02/2021 22:51:17",
+      "confirmed": 217186,
+      "active": 381,
+      "recovered": 214374,
+      "dead": 1084,
+      "updatedTime": "04/02/2021 22:26:15",
       "note": "[Jan 1]: 1347 cases i.e Covid +'tive patients dead for other reasons have been deducted fom active count.\n--\nDistrict-wise numbers are not reported because cumulative counts for each district are not provided in Assam bulletin",
       "stateCode": "AS",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 11,
+        "recovered": 30,
+        "dead": 1,
+        "active": -20
       },
       "testing_data": {
         "tested": 6530025,
@@ -487,18 +487,18 @@
     },
     "UT": {
       "name": "Uttarakhand",
-      "confirmed": 96281,
-      "active": 997,
-      "recovered": 92280,
-      "dead": 1655,
-      "updatedTime": "03/02/2021 22:51:20",
+      "confirmed": 96384,
+      "active": 1002,
+      "recovered": 92372,
+      "dead": 1659,
+      "updatedTime": "04/02/2021 22:26:16",
       "note": "[Oct 30]: Metric of capturing the testing data has switched to \"Samples Tested\" from \"Samples Collected\"",
       "stateCode": "UT",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 103,
+        "recovered": 92,
+        "dead": 4,
+        "active": 7
       },
       "testing_data": {
         "tested": 2167413,
@@ -584,17 +584,17 @@
     "TR": {
       "name": "Tripura",
       "confirmed": 33348,
-      "active": 17,
-      "recovered": 32920,
+      "active": 12,
+      "recovered": 32925,
       "dead": 388,
-      "updatedTime": "02/02/2021 22:50:27",
+      "updatedTime": "04/02/2021 22:26:17",
       "note": "[Aug 4]: Tripura bulletin for the previous day is released on the next day. We will add the cases for Tripura against the date of release, as that is the convention that we are following for other states.",
       "stateCode": "TR",
       "today": {
         "confirmed": 0,
-        "recovered": 0,
+        "recovered": 5,
         "dead": 0,
-        "active": 0
+        "active": -5
       },
       "testing_data": {
         "tested": 608947,
@@ -751,18 +751,18 @@
     },
     "SK": {
       "name": "Sikkim",
-      "confirmed": 6098,
-      "active": 86,
-      "recovered": 5782,
+      "confirmed": 6103,
+      "active": 82,
+      "recovered": 5791,
       "dead": 135,
-      "updatedTime": "03/02/2021 22:51:26",
+      "updatedTime": "04/02/2021 22:26:18",
       "note": "District-wise numbers are not reported because cumulative counts for each district are not provided in Sikkim bulletin",
       "stateCode": "SK",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 5,
+        "recovered": 9,
         "dead": 0,
-        "active": 0
+        "active": -4
       },
       "testing_data": {
         "tested": 75367,
@@ -857,18 +857,18 @@
     },
     "LD": {
       "name": "Laccadives",
-      "confirmed": 122,
-      "active": 61,
+      "confirmed": 126,
+      "active": 65,
       "recovered": 61,
       "dead": 0,
-      "updatedTime": "03/02/2021 22:51:28",
+      "updatedTime": "04/02/2021 22:26:19",
       "note": "",
       "stateCode": "LD",
       "today": {
-        "confirmed": 0,
+        "confirmed": 4,
         "recovered": 0,
         "dead": 0,
-        "active": 0
+        "active": 4
       },
       "testing_data": {
         "tested": 5321,
@@ -891,9 +891,9 @@
     "source": "https://twitter.com/ICMRDELHI/status/1357165480595906563"
   },
   "today": {
-    "confirmed": 11699,
-    "recovered": 14980,
-    "dead": 99,
-    "active": -3380
+    "confirmed": 11822,
+    "recovered": 15116,
+    "dead": 104,
+    "active": -3398
   }
 }
