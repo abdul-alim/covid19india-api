@@ -1,17 +1,17 @@
 {
-  "confirmed": 10814258,
-  "recovered": 10508473,
-  "dead": 154946,
-  "active": 146317,
-  "updatedTime": "5/2/2021 21:26:16",
+  "confirmed": 10814656,
+  "recovered": 10508782,
+  "dead": 154954,
+  "active": 146397,
+  "updatedTime": "5/2/2021 21:47:16",
   "states": {
     "MH": {
       "name": "Maharashtra",
       "confirmed": 2038630,
-      "active": 33937,
+      "active": 33936,
       "recovered": 1952187,
       "dead": 51255,
-      "updatedTime": "05/02/2021 21:26:18",
+      "updatedTime": "05/02/2021 21:47:17",
       "note": "[Dec 16]:10,218 duplicate cases & other state cases removed from total cases.791 recovered cases also removed from total recovered cases while reconciling \n[Sep 9] :239 cases have been removed from the hospitalized figures owing to the removal of duplicates and change of addresses as per the original residence\n[Aug 15] : MH bulletin has reduced 819 confirmed cases in Mumbai and 72 confirmed cases from 'Other States' from the tally\n[Jun 16] : 1328 deceased cases have been retroactively added to MH bulletin.\n[Jun 20] : 69 deceased cases have been reduced based on state bulletin.",
       "stateCode": "MH",
       "today": {
@@ -107,7 +107,7 @@
       "active": 67807,
       "recovered": 884542,
       "dead": 3833,
-      "updatedTime": "05/02/2021 21:26:20",
+      "updatedTime": "05/02/2021 21:44:19",
       "note": "Mahe native who expired in Kannur included in Kerala's deceased tally.\nSome non-covid deaths have also been reported in the bulletin.\nThese have been reduced from active count",
       "stateCode": "KL",
       "today": {
@@ -261,28 +261,28 @@
         "active": -21
       },
       "testing_data": {
-        "tested": 7996651,
+        "tested": 8834038,
         "positive": 0,
         "negative": 0,
-        "unconfirmed": 1323,
-        "date": "04/02/2021",
-        "source": "https://twitter.com/IPRTelangana/status/1357188895335620608/photo/1"
+        "unconfirmed": 858,
+        "date": "05/02/2021",
+        "source": "https://twitter.com/IPRTelangana"
       }
     },
     "CT": {
       "name": "Chhattisgarh",
-      "confirmed": 306743,
-      "active": 4295,
-      "recovered": 298724,
-      "dead": 3724,
-      "updatedTime": "04/02/2021 22:04:14",
+      "confirmed": 307079,
+      "active": 4360,
+      "recovered": 298987,
+      "dead": 3732,
+      "updatedTime": "05/02/2021 21:47:19",
       "note": "",
       "stateCode": "CT",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 336,
+        "recovered": 263,
+        "dead": 8,
+        "active": 65
       },
       "testing_data": {
         "tested": 4336764,
@@ -391,18 +391,18 @@
     },
     "AS": {
       "name": "Assam",
-      "confirmed": 217186,
-      "active": 381,
-      "recovered": 214374,
+      "confirmed": 217193,
+      "active": 359,
+      "recovered": 214403,
       "dead": 1084,
-      "updatedTime": "04/02/2021 22:41:15",
+      "updatedTime": "05/02/2021 21:47:21",
       "note": "[Jan 1]: 1347 cases i.e Covid +'tive patients dead for other reasons have been deducted fom active count.",
       "stateCode": "AS",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 7,
+        "recovered": 29,
         "dead": 0,
-        "active": 0
+        "active": -22
       },
       "testing_data": {
         "tested": 6530025,
@@ -511,18 +511,18 @@
     },
     "HP": {
       "name": "Himachal Pradesh",
-      "confirmed": 57711,
-      "active": 419,
-      "recovered": 56306,
+      "confirmed": 57764,
+      "active": 462,
+      "recovered": 56316,
       "dead": 970,
-      "updatedTime": "05/02/2021 19:12:20",
+      "updatedTime": "05/02/2021 21:47:23",
       "note": "",
       "stateCode": "HP",
       "today": {
-        "confirmed": 18,
-        "recovered": 38,
+        "confirmed": 71,
+        "recovered": 48,
         "dead": 0,
-        "active": -20
+        "active": 23
       },
       "testing_data": {
         "tested": 952997,
@@ -751,18 +751,18 @@
     },
     "SK": {
       "name": "Sikkim",
-      "confirmed": 6103,
-      "active": 82,
-      "recovered": 5791,
+      "confirmed": 6105,
+      "active": 77,
+      "recovered": 5798,
       "dead": 135,
-      "updatedTime": "04/02/2021 22:41:18",
+      "updatedTime": "05/02/2021 21:47:25",
       "note": "",
       "stateCode": "SK",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 2,
+        "recovered": 7,
         "dead": 0,
-        "active": 0
+        "active": -5
       },
       "testing_data": {
         "tested": 75516,
@@ -827,7 +827,7 @@
       "active": 5,
       "recovered": 3344,
       "dead": 2,
-      "updatedTime": "05/02/2021 21:26:23",
+      "updatedTime": "05/02/2021 21:32:46",
       "note": "",
       "stateCode": "DN",
       "today": {
@@ -881,19 +881,19 @@
     }
   },
   "testing_data": {
-    "tested": 216488890,
+    "tested": 217326277,
     "positive": 203936,
     "negative": 37232634,
-    "unconfirmed": 13554
+    "unconfirmed": 13089
   },
   "testing_data_imcr": {
     "tested": 199931795,
     "source": "https://twitter.com/ICMRDELHI/status/1357526132107665408"
   },
   "today": {
-    "confirmed": 10723,
-    "recovered": 13172,
-    "dead": 84,
-    "active": -2533
+    "confirmed": 11121,
+    "recovered": 13481,
+    "dead": 92,
+    "active": -2452
   }
 }
