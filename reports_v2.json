@@ -1,9 +1,9 @@
 {
-  "confirmed": 10805810,
-  "recovered": 10498006,
-  "dead": 154885,
-  "active": 148399,
-  "updatedTime": "5/2/2021 20:40:16",
+  "confirmed": 10806020,
+  "recovered": 10498307,
+  "dead": 154887,
+  "active": 148304,
+  "updatedTime": "5/2/2021 21:15:17",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -175,18 +175,18 @@
     },
     "WB": {
       "name": "West Bengal",
-      "confirmed": 570787,
-      "active": 5097,
-      "recovered": 555491,
-      "dead": 10199,
-      "updatedTime": "04/02/2021 21:34:14",
+      "confirmed": 570981,
+      "active": 4992,
+      "recovered": 555788,
+      "dead": 10201,
+      "updatedTime": "05/02/2021 21:15:20",
       "note": "",
       "stateCode": "WB",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 194,
+        "recovered": 297,
+        "dead": 2,
+        "active": -105
       },
       "testing_data": {
         "tested": 8081172,
@@ -285,12 +285,12 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 4313849,
+        "tested": 4336764,
         "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "04/02/2021",
-        "source": "https://twitter.com/HealthCgGov/status/1357357753904230401"
+        "date": "05/02/2021",
+        "source": "https://twitter.com/HealthCgGov/status/1357711058459381762"
       }
     },
     "HR": {
@@ -347,7 +347,7 @@
       "active": 2641,
       "recovered": 255914,
       "dead": 4393,
-      "updatedTime": "05/02/2021 20:40:20",
+      "updatedTime": "05/02/2021 20:57:18",
       "note": "",
       "stateCode": "GJ",
       "today": {
@@ -583,16 +583,16 @@
     },
     "TR": {
       "name": "Tripura",
-      "confirmed": 33348,
+      "confirmed": 33349,
       "active": 12,
-      "recovered": 32925,
+      "recovered": 32926,
       "dead": 388,
       "updatedTime": "04/02/2021 22:41:17",
       "note": "[Aug 4]: Tripura bulletin for the previous day is released on the next day. We will add the cases for Tripura against the date of release, as that is the convention that we are following for other states.",
       "stateCode": "TR",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 1,
+        "recovered": 1,
         "dead": 0,
         "active": 0
       },
@@ -671,7 +671,7 @@
       "testing_data": {
         "tested": 395200,
         "positive": 0,
-        "negative": 0,
+        "negative": 366020,
         "unconfirmed": 0,
         "date": "5/2/2021",
         "source": "https://twitter.com/DirectorateofHS/status/1357703404135477249?s=20"
@@ -824,17 +824,17 @@
     "DN": {
       "name": "Dadra and Nagar Haveli and Daman and Diu",
       "confirmed": 3380,
-      "active": 6,
-      "recovered": 3343,
+      "active": 5,
+      "recovered": 3344,
       "dead": 2,
-      "updatedTime": "01/02/2021 19:44:46",
+      "updatedTime": "05/02/2021 21:15:22",
       "note": "",
       "stateCode": "DN",
       "today": {
         "confirmed": 0,
-        "recovered": 0,
+        "recovered": 1,
         "dead": 0,
-        "active": 0
+        "active": -1
       },
       "isUnknown": true
     },
@@ -857,18 +857,18 @@
     },
     "LD": {
       "name": "Laccadives",
-      "confirmed": 126,
-      "active": 65,
-      "recovered": 61,
+      "confirmed": 141,
+      "active": 76,
+      "recovered": 63,
       "dead": 0,
-      "updatedTime": "04/02/2021 22:41:19",
+      "updatedTime": "05/02/2021 21:15:24",
       "note": "",
       "stateCode": "LD",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 15,
+        "recovered": 2,
         "dead": 0,
-        "active": 0
+        "active": 13
       },
       "testing_data": {
         "tested": 5321,
@@ -881,9 +881,9 @@
     }
   },
   "testing_data": {
-    "tested": 216346276,
+    "tested": 216369191,
     "positive": 203885,
-    "negative": 36862952,
+    "negative": 37228972,
     "unconfirmed": 13513
   },
   "testing_data_imcr": {
@@ -891,9 +891,9 @@
     "source": "https://twitter.com/ICMRDELHI/status/1357526132107665408"
   },
   "today": {
-    "confirmed": 2275,
-    "recovered": 2705,
-    "dead": 23,
-    "active": -453
+    "confirmed": 2485,
+    "recovered": 3006,
+    "dead": 25,
+    "active": -546
   }
 }

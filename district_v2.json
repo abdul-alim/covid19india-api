@@ -2358,14 +2358,14 @@
       {
         "district": "Dadra and Nagar Haveli",
         "notes": "",
-        "active": 8,
+        "active": 7,
         "confirmed": 1656,
-        "recovered": 1647,
+        "recovered": 1648,
         "dead": 1,
         "today": {
           "confirmed": 0,
-          "recovered": 0,
-          "active": 0,
+          "recovered": 1,
+          "active": -1,
           "dead": 0
         }
       },
@@ -2400,8 +2400,8 @@
     ],
     "today": {
       "confirmed": 0,
-      "active": 0,
-      "recovered": 0,
+      "active": -1,
+      "recovered": 1,
       "dead": 0
     }
   },
@@ -4902,10 +4902,10 @@
       "recovered": 2,
       "dead": 0
     },
-    "confirmed": 126,
-    "recovered": 61,
+    "confirmed": 141,
+    "recovered": 63,
     "dead": 0,
-    "active": 65
+    "active": 76
   },
   "MH": {
     "state": "Maharashtra",
@@ -9634,8 +9634,8 @@
       "recovered": 1,
       "dead": 0
     },
-    "confirmed": 33348,
-    "recovered": 32925,
+    "confirmed": 33349,
+    "recovered": 32926,
     "dead": 388,
     "active": 12
   },
@@ -11247,10 +11247,10 @@
       "recovered": 297,
       "dead": 2
     },
-    "confirmed": 570787,
-    "recovered": 555491,
-    "dead": 10199,
-    "active": 5097
+    "confirmed": 570981,
+    "recovered": 555788,
+    "dead": 10201,
+    "active": 4992
   },
   "DD": {
     "confirmed": 0,
