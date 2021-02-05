@@ -1,9 +1,9 @@
 {
-  "confirmed": 10814656,
-  "recovered": 10508782,
-  "dead": 154954,
-  "active": 146397,
-  "updatedTime": "5/2/2021 22:02:16",
+  "confirmed": 10814855,
+  "recovered": 10509152,
+  "dead": 154956,
+  "active": 146224,
+  "updatedTime": "6/2/2021 00:05:16",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -151,18 +151,18 @@
     },
     "UP": {
       "name": "Uttar Pradesh",
-      "confirmed": 600970,
-      "active": 4629,
-      "recovered": 587661,
-      "dead": 8680,
-      "updatedTime": "05/02/2021 00:22:14",
+      "confirmed": 601128,
+      "active": 4462,
+      "recovered": 587984,
+      "dead": 8682,
+      "updatedTime": "06/02/2021 00:05:18",
       "note": "[Jan 1]:As no bulletin was provided for 31'st Dec'20,its count has been combined with 1st Jan'21\n[Jan 9]:Due to reconcillation there are 1286 cases.",
       "stateCode": "UP",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 158,
+        "recovered": 323,
+        "dead": 2,
+        "active": -167
       },
       "testing_data": {
         "tested": 28453058,
@@ -463,26 +463,26 @@
     },
     "JH": {
       "name": "Jharkhand",
-      "confirmed": 118897,
-      "active": 447,
-      "recovered": 117373,
+      "confirmed": 118938,
+      "active": 441,
+      "recovered": 117420,
       "dead": 1077,
-      "updatedTime": "04/02/2021 23:29:17",
+      "updatedTime": "06/02/2021 00:05:19",
       "note": "",
       "stateCode": "JH",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 41,
+        "recovered": 47,
         "dead": 0,
-        "active": 0
+        "active": -6
       },
       "testing_data": {
-        "tested": 5252988,
-        "positive": 118897,
-        "negative": 5134091,
+        "tested": 5264414,
+        "positive": 0,
+        "negative": 0,
         "unconfirmed": 0,
-        "date": "04/02/2021",
-        "source": "https://twitter.com/rnuddkranchi/status/1357361947268808713"
+        "date": "05/02/2021",
+        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/5838"
       }
     },
     "UT": {
@@ -881,9 +881,9 @@
     }
   },
   "testing_data": {
-    "tested": 217451928,
-    "positive": 203936,
-    "negative": 37255005,
+    "tested": 217463354,
+    "positive": 85039,
+    "negative": 32120914,
     "unconfirmed": 13304
   },
   "testing_data_imcr": {
@@ -891,9 +891,9 @@
     "source": "https://twitter.com/ICMRDELHI/status/1357526132107665408"
   },
   "today": {
-    "confirmed": 11121,
-    "recovered": 13481,
-    "dead": 92,
-    "active": -2452
+    "confirmed": 11320,
+    "recovered": 13851,
+    "dead": 94,
+    "active": -2625
   }
 }
