@@ -1,9 +1,9 @@
 {
-  "confirmed": 10815687,
-  "recovered": 10510245,
-  "dead": 154964,
-  "active": 145955,
-  "updatedTime": "6/2/2021 17:11:14",
+  "confirmed": 10815940,
+  "recovered": 10510646,
+  "dead": 154965,
+  "active": 145806,
+  "updatedTime": "6/2/2021 20:24:14",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -333,28 +333,28 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 21383874,
+        "tested": 21458338,
         "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "05/02/2021",
-        "source": "https://twitter.com/BiharHealthDept/status/1357696979837407233?s=20"
+        "date": "06/02/2021",
+        "source": "https://twitter.com/BiharHealthDept/status/1358060861328265216?s=20"
       }
     },
     "GJ": {
       "name": "Gujarat",
-      "confirmed": 262948,
-      "active": 2641,
-      "recovered": 255914,
-      "dead": 4393,
-      "updatedTime": "05/02/2021 20:57:18",
+      "confirmed": 263200,
+      "active": 2491,
+      "recovered": 256315,
+      "dead": 4394,
+      "updatedTime": "06/02/2021 20:24:16",
       "note": "",
       "stateCode": "GJ",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 252,
+        "recovered": 401,
+        "dead": 1,
+        "active": -150
       },
       "testing_data": {
         "tested": 10998755,
@@ -799,18 +799,18 @@
     },
     "MZ": {
       "name": "Mizoram",
-      "confirmed": 4380,
-      "active": 26,
+      "confirmed": 4381,
+      "active": 27,
       "recovered": 4345,
       "dead": 9,
-      "updatedTime": "05/02/2021 20:10:22",
+      "updatedTime": "06/02/2021 20:24:17",
       "note": "",
       "stateCode": "MZ",
       "today": {
-        "confirmed": 0,
+        "confirmed": 1,
         "recovered": 0,
         "dead": 0,
-        "active": 0
+        "active": 1
       },
       "testing_data": {
         "tested": 214309,
@@ -881,7 +881,7 @@
     }
   },
   "testing_data": {
-    "tested": 217262962,
+    "tested": 217337426,
     "positive": 85042,
     "negative": 32187409,
     "unconfirmed": 13063
@@ -891,9 +891,9 @@
     "source": "https://twitter.com/ICMRDELHI/status/1357890953546256384"
   },
   "today": {
-    "confirmed": 441,
-    "recovered": 432,
-    "dead": 7,
-    "active": 2
+    "confirmed": 694,
+    "recovered": 833,
+    "dead": 8,
+    "active": -147
   }
 }
