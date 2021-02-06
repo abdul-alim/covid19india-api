@@ -1,24 +1,24 @@
 {
-  "confirmed": 10823691,
-  "recovered": 10518725,
-  "dead": 154992,
-  "active": 145450,
-  "updatedTime": "6/2/2021 21:25:16",
+  "confirmed": 10826560,
+  "recovered": 10520522,
+  "dead": 155018,
+  "active": 146490,
+  "updatedTime": "6/2/2021 21:46:14",
   "states": {
     "MH": {
       "name": "Maharashtra",
-      "confirmed": 2038630,
-      "active": 33936,
-      "recovered": 1952187,
-      "dead": 51255,
-      "updatedTime": "05/02/2021 22:02:17",
+      "confirmed": 2041398,
+      "active": 34934,
+      "recovered": 1953926,
+      "dead": 51280,
+      "updatedTime": "06/02/2021 21:46:15",
       "note": "[Dec 16]:10,218 duplicate cases & other state cases removed from total cases.791 recovered cases also removed from total recovered cases while reconciling \n[Sep 9] :239 cases have been removed from the hospitalized figures owing to the removal of duplicates and change of addresses as per the original residence\n[Aug 15] : MH bulletin has reduced 819 confirmed cases in Mumbai and 72 confirmed cases from 'Other States' from the tally\n[Jun 16] : 1328 deceased cases have been retroactively added to MH bulletin.\n[Jun 20] : 69 deceased cases have been reduced based on state bulletin.",
       "stateCode": "MH",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 2768,
+        "recovered": 1739,
+        "dead": 25,
+        "active": 1004
       },
       "testing_data": {
         "tested": 14928130,
@@ -107,7 +107,7 @@
       "active": 67555,
       "recovered": 890720,
       "dead": 3849,
-      "updatedTime": "06/02/2021 21:25:17",
+      "updatedTime": "06/02/2021 21:30:17",
       "note": "Mahe native who expired in Kannur included in Kerala's deceased tally.\nSome non-covid deaths have also been reported in the bulletin.\nThese have been reduced from active count",
       "stateCode": "KL",
       "today": {
@@ -122,7 +122,7 @@
         "negative": 0,
         "unconfirmed": 0,
         "date": "06/02/2021",
-        "source": "https://dhs.kerala.gov.in/2021/02/06/06-02-2021/"
+        "source": "https://dhs.kerala.gov.in/wp-content/uploads/2021/02/Bulletin-HFWD-English-February-06.pdf"
       }
     },
     "DL": {
@@ -179,7 +179,7 @@
       "active": 4895,
       "recovered": 556081,
       "dead": 10202,
-      "updatedTime": "06/02/2021 21:25:18",
+      "updatedTime": "06/02/2021 21:42:17",
       "note": "",
       "stateCode": "WB",
       "today": {
@@ -285,12 +285,12 @@
         "active": -40
       },
       "testing_data": {
-        "tested": 4336764,
+        "tested": 4357998,
         "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "05/02/2021",
-        "source": "https://twitter.com/HealthCgGov/status/1357711058459381762"
+        "date": "06/02/2021",
+        "source": "https://twitter.com/HealthCgGov/status/1358068979890196483"
       }
     },
     "HR": {
@@ -395,7 +395,7 @@
       "active": 348,
       "recovered": 214423,
       "dead": 1084,
-      "updatedTime": "06/02/2021 21:25:19",
+      "updatedTime": "06/02/2021 21:42:18",
       "note": "[Jan 1]: 1347 cases i.e Covid +'tive patients dead for other reasons have been deducted fom active count.",
       "stateCode": "AS",
       "today": {
@@ -477,12 +477,12 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 5264414,
-        "positive": 0,
-        "negative": 0,
+        "tested": 5265585,
+        "positive": 118938,
+        "negative": 5146647,
         "unconfirmed": 0,
         "date": "05/02/2021",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/5838"
+        "source": "https://twitter.com/rnuddkranchi/status/1357756458092253184"
       }
     },
     "UT": {
@@ -511,26 +511,26 @@
     },
     "HP": {
       "name": "Himachal Pradesh",
-      "confirmed": 57764,
-      "active": 462,
-      "recovered": 56316,
-      "dead": 970,
-      "updatedTime": "05/02/2021 22:02:26",
+      "confirmed": 57851,
+      "active": 497,
+      "recovered": 56367,
+      "dead": 971,
+      "updatedTime": "06/02/2021 21:46:17",
       "note": "",
       "stateCode": "HP",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 87,
+        "recovered": 51,
+        "dead": 1,
+        "active": 35
       },
       "testing_data": {
-        "tested": 959153,
+        "tested": 965756,
         "positive": 0,
-        "negative": 901112,
-        "unconfirmed": 277,
-        "date": "05/02/2021",
-        "source": "https://twitter.com/nhm_hp/status/1357719436380102658"
+        "negative": 907774,
+        "unconfirmed": 131,
+        "date": "06/02/2021",
+        "source": "https://twitter.com/nhm_hp/status/1358078904724987904"
       }
     },
     "GA": {
@@ -539,7 +539,7 @@
       "active": 769,
       "recovered": 52299,
       "dead": 770,
-      "updatedTime": "06/02/2021 21:25:20",
+      "updatedTime": "06/02/2021 21:42:19",
       "note": "",
       "stateCode": "GA",
       "today": {
@@ -655,18 +655,18 @@
     },
     "AR": {
       "name": "Arunachal Pradesh",
-      "confirmed": 16829,
-      "active": 8,
-      "recovered": 16765,
+      "confirmed": 16830,
+      "active": 7,
+      "recovered": 16767,
       "dead": 56,
-      "updatedTime": "04/02/2021 21:33:27",
+      "updatedTime": "06/02/2021 21:46:18",
       "note": "[July 25]: All numbers corresponding to Papum Pare and Captial Complex are tracked under Papum Pare district.",
       "stateCode": "AR",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 1,
+        "recovered": 2,
         "dead": 0,
-        "active": 0
+        "active": -1
       },
       "testing_data": {
         "tested": 395795,
@@ -751,18 +751,18 @@
     },
     "SK": {
       "name": "Sikkim",
-      "confirmed": 6105,
-      "active": 77,
-      "recovered": 5798,
+      "confirmed": 6108,
+      "active": 75,
+      "recovered": 5803,
       "dead": 135,
-      "updatedTime": "05/02/2021 22:02:28",
+      "updatedTime": "06/02/2021 21:46:19",
       "note": "",
       "stateCode": "SK",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 3,
+        "recovered": 5,
         "dead": 0,
-        "active": 0
+        "active": -2
       },
       "testing_data": {
         "tested": 75644,
@@ -857,43 +857,43 @@
     },
     "LD": {
       "name": "Laccadives",
-      "confirmed": 141,
-      "active": 76,
+      "confirmed": 151,
+      "active": 86,
       "recovered": 63,
       "dead": 0,
-      "updatedTime": "05/02/2021 21:17:36",
+      "updatedTime": "06/02/2021 21:46:20",
       "note": "",
       "stateCode": "LD",
       "today": {
-        "confirmed": 0,
+        "confirmed": 10,
         "recovered": 0,
         "dead": 0,
-        "active": 0
+        "active": 10
       },
       "testing_data": {
-        "tested": 6141,
+        "tested": 7537,
         "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "05/02/2021",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/5827"
+        "date": "06/02/2021",
+        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/5879"
       }
     }
   },
   "testing_data": {
-    "tested": 217405340,
-    "positive": 85042,
-    "negative": 32216194,
-    "unconfirmed": 12839
+    "tested": 217435744,
+    "positive": 203980,
+    "negative": 37369503,
+    "unconfirmed": 12693
   },
   "testing_data_imcr": {
     "tested": 200672589,
     "source": "https://twitter.com/ICMRDELHI/status/1357890953546256384"
   },
   "today": {
-    "confirmed": 8445,
-    "recovered": 8912,
-    "dead": 35,
-    "active": -502
+    "confirmed": 11314,
+    "recovered": 10709,
+    "dead": 61,
+    "active": 544
   }
 }
