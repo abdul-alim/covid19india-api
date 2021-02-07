@@ -1,9 +1,9 @@
 {
-  "confirmed": 10827877,
-  "recovered": 10522191,
-  "dead": 155036,
-  "active": 146113,
-  "updatedTime": "7/2/2021 19:06:14",
+  "confirmed": 10828049,
+  "recovered": 10522921,
+  "dead": 155037,
+  "active": 145554,
+  "updatedTime": "7/2/2021 19:22:15",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -59,7 +59,7 @@
       "active": 1003,
       "recovered": 880261,
       "dead": 7159,
-      "updatedTime": "07/02/2021 19:06:15",
+      "updatedTime": "07/02/2021 19:17:17",
       "note": "",
       "stateCode": "AP",
       "today": {
@@ -93,12 +93,12 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 16334713,
+        "tested": 16388243,
         "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "6/2/2021",
-        "source": "https://stopcorona.tn.gov.in/wp-content/uploads/2020/03/Media-Bulletin-06-02-21-COVID-19-6-PM.pdf"
+        "date": "7/2/2021",
+        "source": "https://stopcorona.tn.gov.in/wp-content/uploads/2020/03/Media-Bulletin-07-02-21-COVID-19-6-PM.pdf"
       }
     },
     "KL": {
@@ -151,26 +151,26 @@
     },
     "UP": {
       "name": "Uttar Pradesh",
-      "confirmed": 601272,
-      "active": 4438,
-      "recovered": 588148,
-      "dead": 8686,
-      "updatedTime": "07/02/2021 10:27:16",
+      "confirmed": 601385,
+      "active": 3880,
+      "recovered": 588818,
+      "dead": 8687,
+      "updatedTime": "07/02/2021 19:22:16",
       "note": "[Jan 1]:As no bulletin was provided for 31'st Dec'20,its count has been combined with 1st Jan'21\n[Jan 9]:Due to reconcillation there are 1286 cases.",
       "stateCode": "UP",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 113,
+        "recovered": 670,
+        "dead": 1,
+        "active": -558
       },
       "testing_data": {
-        "tested": 28578777,
+        "tested": 28693975,
         "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "06/02/2021",
-        "source": "https://twitter.com/UPGovt/status/1358016000915087365?s=20"
+        "date": "07/02/2021",
+        "source": "https://twitter.com/ShishirGoUP/status/1358369369290534916?s=19"
       }
     },
     "WB": {
@@ -227,7 +227,7 @@
       "active": 1464,
       "recovered": 313957,
       "dead": 2772,
-      "updatedTime": "07/02/2021 19:06:16",
+      "updatedTime": "07/02/2021 19:17:21",
       "note": "",
       "stateCode": "RJ",
       "today": {
@@ -381,12 +381,12 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 5454653,
+        "tested": 5470099,
         "positive": 0,
-        "negative": 5068946,
+        "negative": 5084208,
         "unconfirmed": 0,
-        "date": "06/02/2021",
-        "source": "https://twitter.com/healthminmp/status/1358086857901281283"
+        "date": "07/02/2021",
+        "source": "https://www.mpinfo.org/"
       }
     },
     "AS": {
@@ -439,18 +439,18 @@
     },
     "JK": {
       "name": "Jammu and Kashmir",
-      "confirmed": 124850,
-      "active": 631,
-      "recovered": 122275,
+      "confirmed": 124909,
+      "active": 630,
+      "recovered": 122335,
       "dead": 1944,
-      "updatedTime": "06/02/2021 21:15:22",
+      "updatedTime": "07/02/2021 19:22:17",
       "note": "",
       "stateCode": "JK",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 59,
+        "recovered": 60,
         "dead": 0,
-        "active": 0
+        "active": -1
       },
       "testing_data": {
         "tested": 4666171,
@@ -563,7 +563,7 @@
       "active": 312,
       "recovered": 38326,
       "dead": 654,
-      "updatedTime": "07/02/2021 19:06:17",
+      "updatedTime": "07/02/2021 19:17:23",
       "note": "",
       "stateCode": "PY",
       "today": {
@@ -683,7 +683,7 @@
       "active": 137,
       "recovered": 13601,
       "dead": 147,
-      "updatedTime": "07/02/2021 19:06:18",
+      "updatedTime": "07/02/2021 19:17:24",
       "note": "",
       "stateCode": "ML",
       "today": {
@@ -707,7 +707,7 @@
       "active": 95,
       "recovered": 11826,
       "dead": 88,
-      "updatedTime": "07/02/2021 19:06:19",
+      "updatedTime": "07/02/2021 19:17:25",
       "note": "",
       "stateCode": "NL",
       "today": {
@@ -881,9 +881,9 @@
     }
   },
   "testing_data": {
-    "tested": 217685059,
+    "tested": 217869233,
     "positive": 204056,
-    "negative": 24975875,
+    "negative": 24991137,
     "unconfirmed": 12768
   },
   "testing_data_imcr": {
@@ -891,9 +891,9 @@
     "source": "https://twitter.com/ICMRDELHI/status/1358260774020534272"
   },
   "today": {
-    "confirmed": 562,
-    "recovered": 617,
-    "dead": 4,
-    "active": -59
+    "confirmed": 734,
+    "recovered": 1347,
+    "dead": 5,
+    "active": -618
   }
 }
