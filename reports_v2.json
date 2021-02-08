@@ -1,9 +1,9 @@
 {
-  "confirmed": 10846028,
-  "recovered": 10544069,
-  "dead": 155158,
-  "active": 142233,
-  "updatedTime": "8/2/2021 20:25:19",
+  "confirmed": 10846092,
+  "recovered": 10544183,
+  "dead": 155159,
+  "active": 142180,
+  "updatedTime": "8/2/2021 21:01:30",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -55,18 +55,18 @@
     },
     "AP": {
       "name": "Andhra Pradesh",
-      "confirmed": 888423,
-      "active": 1003,
-      "recovered": 880261,
-      "dead": 7159,
-      "updatedTime": "07/02/2021 19:17:17",
+      "confirmed": 888485,
+      "active": 962,
+      "recovered": 880363,
+      "dead": 7160,
+      "updatedTime": "08/02/2021 21:01:44",
       "note": "",
       "stateCode": "AP",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 62,
+        "recovered": 102,
+        "dead": 1,
+        "active": -41
       },
       "testing_data": {
         "tested": 13367616,
@@ -314,7 +314,7 @@
         "negative": 5065497,
         "unconfirmed": 3263,
         "date": "08/02/2021",
-        "source": "http://www.nhmharyana.gov.in/page.aspx?id=208"
+        "source": "http://www.nhmharyana.gov.in/WriteReadData/userfiles/file/CoronaVirus/Daily%20Bulletin%20of%20COVID%2019%20as%20on%2008-02-2021.pdf"
       }
     },
     "BR": {
@@ -525,12 +525,12 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 968162,
+        "tested": 968691,
         "positive": 0,
-        "negative": 910259,
-        "unconfirmed": 7,
-        "date": "07/02/2021",
-        "source": "https://twitter.com/nhm_hp/status/1358446457838129152"
+        "negative": 910672,
+        "unconfirmed": 114,
+        "date": "08/02/2021",
+        "source": "https://twitter.com/nhm_hp/status/1358755705851842560"
       }
     },
     "GA": {
@@ -669,12 +669,12 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 395994,
+        "tested": 397038,
         "positive": 0,
-        "negative": 366813,
+        "negative": 367856,
         "unconfirmed": 0,
-        "date": "7/2/2021",
-        "source": "https://twitter.com/DirectorateofHS/status/1358440240914993152"
+        "date": "8/2/2021",
+        "source": "https://twitter.com/DirectorateofHS/status/1358791757454954496?s=20"
       }
     },
     "ML": {
@@ -703,18 +703,18 @@
     },
     "NL": {
       "name": "Nagaland",
-      "confirmed": 12158,
-      "active": 95,
-      "recovered": 11826,
+      "confirmed": 12160,
+      "active": 84,
+      "recovered": 11837,
       "dead": 88,
-      "updatedTime": "07/02/2021 19:17:25",
+      "updatedTime": "08/02/2021 21:01:52",
       "note": "",
       "stateCode": "NL",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 2,
+        "recovered": 11,
         "dead": 0,
-        "active": 0
+        "active": -9
       },
       "testing_data": {
         "tested": 126877,
@@ -824,17 +824,17 @@
     "DN": {
       "name": "Dadra and Nagar Haveli and Daman and Diu",
       "confirmed": 3380,
-      "active": 4,
-      "recovered": 3345,
+      "active": 3,
+      "recovered": 3346,
       "dead": 2,
-      "updatedTime": "06/02/2021 17:11:20",
+      "updatedTime": "08/02/2021 21:02:05",
       "note": "",
       "stateCode": "DN",
       "today": {
         "confirmed": 0,
-        "recovered": 0,
+        "recovered": 1,
         "dead": 0,
-        "active": 0
+        "active": -1
       },
       "isUnknown": true
     },
@@ -881,19 +881,19 @@
     }
   },
   "testing_data": {
-    "tested": 218713553,
+    "tested": 218715126,
     "positive": 204120,
-    "negative": 37568278,
-    "unconfirmed": 9392
+    "negative": 37569734,
+    "unconfirmed": 9499
   },
   "testing_data_imcr": {
     "tested": 201900614,
     "source": "https://twitter.com/ICMRDELHI/status/1358619618894618625"
   },
   "today": {
-    "confirmed": 6928,
-    "recovered": 10739,
-    "dead": 40,
-    "active": -3851
+    "confirmed": 6992,
+    "recovered": 10853,
+    "dead": 41,
+    "active": -3902
   }
 }
