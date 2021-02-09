@@ -1,9 +1,9 @@
 {
-  "confirmed": 10848750,
-  "recovered": 10548004,
-  "dead": 155203,
-  "active": 140968,
-  "updatedTime": "9/2/2021 21:00:18",
+  "confirmed": 10854007,
+  "recovered": 10554554,
+  "dead": 155224,
+  "active": 139654,
+  "updatedTime": "9/2/2021 21:16:18",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -83,7 +83,7 @@
       "active": 4328,
       "recovered": 826011,
       "dead": 12391,
-      "updatedTime": "09/02/2021 21:00:19",
+      "updatedTime": "09/02/2021 21:16:20",
       "note": "[July 22]: 444 backdated deceased entries added to Chennai in TN bulletin.\n2 deaths cross notified to other states from Chennai and Coimbatore.\n1 patient died after turning negative for infection in Chengalpattu.\nThese cases have been added to TN deceased tally",
       "stateCode": "TN",
       "today": {
@@ -103,18 +103,18 @@
     },
     "KL": {
       "name": "Kerala",
-      "confirmed": 972181,
-      "active": 65413,
-      "recovered": 902627,
-      "dead": 3884,
-      "updatedTime": "08/02/2021 19:12:19",
+      "confirmed": 977395,
+      "active": 64133,
+      "recovered": 909102,
+      "dead": 3903,
+      "updatedTime": "09/02/2021 21:16:21",
       "note": "Mahe native who expired in Kannur included in Kerala's deceased tally.\nSome non-covid deaths have also been reported in the bulletin.\nThese have been reduced from active count",
       "stateCode": "KL",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 5214,
+        "recovered": 6475,
+        "dead": 19,
+        "active": -1280
       },
       "testing_data": {
         "tested": 10214097,
@@ -227,7 +227,7 @@
       "active": 1435,
       "recovered": 314175,
       "dead": 2774,
-      "updatedTime": "09/02/2021 21:00:21",
+      "updatedTime": "09/02/2021 21:16:23",
       "note": "",
       "stateCode": "RJ",
       "today": {
@@ -285,12 +285,12 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 4392639,
+        "tested": 4415825,
         "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "08/02/2021",
-        "source": "https://twitter.com/HealthCgGov/status/1358795391404101634"
+        "date": "09/02/2021",
+        "source": "https://twitter.com/HealthCgGov/status/1359161289021480966"
       }
     },
     "HR": {
@@ -491,7 +491,7 @@
       "active": 790,
       "recovered": 92763,
       "dead": 1673,
-      "updatedTime": "09/02/2021 21:00:22",
+      "updatedTime": "09/02/2021 21:16:27",
       "note": "[Oct 30]: Metric of capturing the testing data has switched to \"Samples Tested\" from \"Samples Collected\"",
       "stateCode": "UT",
       "today": {
@@ -511,18 +511,18 @@
     },
     "HP": {
       "name": "Himachal Pradesh",
-      "confirmed": 57925,
-      "active": 458,
-      "recovered": 56479,
-      "dead": 972,
-      "updatedTime": "08/02/2021 22:48:26",
+      "confirmed": 57962,
+      "active": 421,
+      "recovered": 56551,
+      "dead": 974,
+      "updatedTime": "09/02/2021 21:16:30",
       "note": "",
       "stateCode": "HP",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 37,
+        "recovered": 72,
+        "dead": 2,
+        "active": -37
       },
       "testing_data": {
         "tested": 968691,
@@ -645,12 +645,12 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 225242,
+        "tested": 226503,
         "positive": 0,
-        "negative": 203192,
-        "unconfirmed": 62,
-        "date": "07/02/2021",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/5979"
+        "negative": 204427,
+        "unconfirmed": 55,
+        "date": "08/02/2021",
+        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/6007"
       }
     },
     "AR": {
@@ -703,18 +703,18 @@
     },
     "NL": {
       "name": "Nagaland",
-      "confirmed": 12160,
-      "active": 84,
-      "recovered": 11837,
+      "confirmed": 12166,
+      "active": 87,
+      "recovered": 11840,
       "dead": 88,
-      "updatedTime": "08/02/2021 21:19:35",
+      "updatedTime": "09/02/2021 21:16:34",
       "note": "",
       "stateCode": "NL",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 6,
+        "recovered": 3,
         "dead": 0,
-        "active": 0
+        "active": 3
       },
       "testing_data": {
         "tested": 127149,
@@ -881,19 +881,19 @@
     }
   },
   "testing_data": {
-    "tested": 219541930,
+    "tested": 219566377,
     "positive": 204189,
-    "negative": 37679323,
-    "unconfirmed": 13768
+    "negative": 37680558,
+    "unconfirmed": 13761
   },
   "testing_data_imcr": {
     "tested": 202587752,
     "source": "https://twitter.com/ICMRDELHI/status/1358980917730099205"
   },
   "today": {
-    "confirmed": 960,
-    "recovered": 1099,
-    "dead": 8,
-    "active": -147
+    "confirmed": 6217,
+    "recovered": 7649,
+    "dead": 29,
+    "active": -1461
   }
 }
