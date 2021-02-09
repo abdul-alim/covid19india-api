@@ -1,9 +1,9 @@
 {
-  "confirmed": 10847939,
-  "recovered": 10547091,
+  "confirmed": 10848045,
+  "recovered": 10547093,
   "dead": 155196,
-  "active": 141080,
-  "updatedTime": "9/2/2021 17:24:17",
+  "active": 141184,
+  "updatedTime": "9/2/2021 17:44:17",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -199,18 +199,18 @@
     },
     "OR": {
       "name": "Odisha",
-      "confirmed": 335692,
-      "active": 698,
+      "confirmed": 335797,
+      "active": 803,
       "recovered": 333031,
       "dead": 1963,
-      "updatedTime": "08/02/2021 22:48:24",
+      "updatedTime": "09/02/2021 17:44:18",
       "note": "[July 12th] :20 non-covid deaths reported in state dashboard are included in the deceased count",
       "stateCode": "OR",
       "today": {
-        "confirmed": 0,
+        "confirmed": 105,
         "recovered": 0,
         "dead": 0,
-        "active": 0
+        "active": 105
       },
       "testing_data": {
         "tested": 7905339,
@@ -251,14 +251,14 @@
       "active": 1804,
       "recovered": 292415,
       "dead": 1612,
-      "updatedTime": "09/02/2021 17:24:18",
+      "updatedTime": "09/02/2021 17:41:20",
       "note": "[July 27] : Telangana bulletin for the previous day is released on the next day. We will add the cases for Telangana against the date of release, as that is the convention that we are following for other states.",
       "stateCode": "TG",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 149,
+        "recovered": 186,
+        "dead": 1,
+        "active": -38
       },
       "testing_data": {
         "tested": 8154347,
@@ -583,18 +583,18 @@
     },
     "TR": {
       "name": "Tripura",
-      "confirmed": 33349,
-      "active": 8,
-      "recovered": 32930,
+      "confirmed": 33350,
+      "active": 7,
+      "recovered": 32932,
       "dead": 388,
-      "updatedTime": "08/02/2021 11:43:21",
+      "updatedTime": "09/02/2021 17:44:20",
       "note": "[Aug 4]: Tripura bulletin for the previous day is released on the next day. We will add the cases for Tripura against the date of release, as that is the convention that we are following for other states.",
       "stateCode": "TR",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 1,
+        "recovered": 2,
         "dead": 0,
-        "active": 0
+        "active": -1
       },
       "testing_data": {
         "tested": 611468,
@@ -891,9 +891,9 @@
     "source": "https://twitter.com/ICMRDELHI/status/1358980917730099205"
   },
   "today": {
-    "confirmed": 0,
-    "recovered": 0,
-    "dead": 0,
-    "active": 0
+    "confirmed": 255,
+    "recovered": 188,
+    "dead": 1,
+    "active": 66
   }
 }
