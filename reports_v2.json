@@ -1,9 +1,9 @@
 {
-  "confirmed": 10859057,
-  "recovered": 10560593,
-  "dead": 155286,
-  "active": 138597,
-  "updatedTime": "10/2/2021 20:19:22",
+  "confirmed": 10859236,
+  "recovered": 10560876,
+  "dead": 155291,
+  "active": 138488,
+  "updatedTime": "10/2/2021 20:26:21",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -175,18 +175,18 @@
     },
     "WB": {
       "name": "West Bengal",
-      "confirmed": 571636,
-      "active": 4496,
-      "recovered": 556925,
-      "dead": 10215,
-      "updatedTime": "09/02/2021 21:44:26",
+      "confirmed": 571815,
+      "active": 4387,
+      "recovered": 557208,
+      "dead": 10220,
+      "updatedTime": "10/02/2021 20:26:23",
       "note": "",
       "stateCode": "WB",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 179,
+        "recovered": 283,
+        "dead": 5,
+        "active": -109
       },
       "testing_data": {
         "tested": 8209892,
@@ -309,12 +309,12 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 5358526,
+        "tested": 5380061,
         "positive": 0,
-        "negative": 5086133,
-        "unconfirmed": 3793,
-        "date": "09/02/2021",
-        "source": "http://www.nhmharyana.gov.in/WriteReadData/userfiles/file/CoronaVirus/Daily%20Bulletin%20of%20COVID%2019%20as%20on%2009-02-2021.pdf"
+        "negative": 5107320,
+        "unconfirmed": 4064,
+        "date": "10/02/2021",
+        "source": "http://www.nhmharyana.gov.in/WriteReadData/userfiles/file/CoronaVirus/Daily%20Bulletin%20of%20COVID%2019%20as%20on%2010-02-2021.pdf"
       }
     },
     "BR": {
@@ -347,7 +347,7 @@
       "active": 1800,
       "recovered": 257968,
       "dead": 4397,
-      "updatedTime": "10/02/2021 20:19:25",
+      "updatedTime": "10/02/2021 20:26:25",
       "note": "",
       "stateCode": "GJ",
       "today": {
@@ -443,7 +443,7 @@
       "active": 605,
       "recovered": 122502,
       "dead": 1945,
-      "updatedTime": "10/02/2021 20:19:26",
+      "updatedTime": "10/02/2021 20:26:27",
       "note": "",
       "stateCode": "JK",
       "today": {
@@ -707,7 +707,7 @@
       "active": 87,
       "recovered": 11843,
       "dead": 88,
-      "updatedTime": "10/02/2021 20:12:24",
+      "updatedTime": "10/02/2021 20:25:30",
       "note": "",
       "stateCode": "NL",
       "today": {
@@ -803,7 +803,7 @@
       "active": 20,
       "recovered": 4359,
       "dead": 9,
-      "updatedTime": "10/02/2021 20:19:28",
+      "updatedTime": "10/02/2021 20:26:29",
       "note": "",
       "stateCode": "MZ",
       "today": {
@@ -881,19 +881,19 @@
     }
   },
   "testing_data": {
-    "tested": 220345838,
+    "tested": 220367373,
     "positive": 204287,
-    "negative": 37779904,
-    "unconfirmed": 14002
+    "negative": 37801091,
+    "unconfirmed": 14273
   },
   "testing_data_imcr": {
     "tested": 203324655,
     "source": "https://twitter.com/ICMRDELHI/status/1359345726862602243"
   },
   "today": {
-    "confirmed": 752,
-    "recovered": 972,
-    "dead": 6,
-    "active": -226
+    "confirmed": 931,
+    "recovered": 1255,
+    "dead": 11,
+    "active": -335
   }
 }
