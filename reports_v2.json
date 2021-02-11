@@ -1,9 +1,9 @@
 {
-  "confirmed": 10873254,
-  "recovered": 10573642,
-  "dead": 155422,
-  "active": 139599,
-  "updatedTime": "11/2/2021 20:41:20",
+  "confirmed": 10878758,
+  "recovered": 10579622,
+  "dead": 155443,
+  "active": 139097,
+  "updatedTime": "11/2/2021 21:00:21",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -103,18 +103,18 @@
     },
     "KL": {
       "name": "Kerala",
-      "confirmed": 983375,
-      "active": 64350,
-      "recovered": 914847,
-      "dead": 3921,
-      "updatedTime": "10/02/2021 20:59:25",
+      "confirmed": 988656,
+      "active": 63918,
+      "recovered": 920539,
+      "dead": 3937,
+      "updatedTime": "11/02/2021 21:00:22",
       "note": "Mahe native who expired in Kannur included in Kerala's deceased tally.\nSome non-covid deaths have also been reported in the bulletin.\nThese have been reduced from active count",
       "stateCode": "KL",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 5281,
+        "recovered": 5692,
+        "dead": 16,
+        "active": -427
       },
       "testing_data": {
         "tested": 10365859,
@@ -175,26 +175,26 @@
     },
     "WB": {
       "name": "West Bengal",
-      "confirmed": 571815,
-      "active": 4387,
-      "recovered": 557208,
-      "dead": 10220,
-      "updatedTime": "10/02/2021 20:42:27",
+      "confirmed": 572032,
+      "active": 4313,
+      "recovered": 557494,
+      "dead": 10225,
+      "updatedTime": "11/02/2021 21:00:24",
       "note": "",
       "stateCode": "WB",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 217,
+        "recovered": 286,
+        "dead": 5,
+        "active": -74
       },
       "testing_data": {
-        "tested": 8209892,
+        "tested": 8231998,
         "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "10/02/2021",
-        "source": "https://www.wbhealth.gov.in/uploaded_files/corona/WB_DHFW_Bulletin_10th_FEBRUARY_REPORT_FINAL.pdf"
+        "date": "11/02/2021",
+        "source": "https://www.wbhealth.gov.in/uploaded_files/corona/WB_DHFW_Bulletin_11th_FEBRUARY_REPORT_FINAL.pdf"
       }
     },
     "OR": {
@@ -347,7 +347,7 @@
       "active": 1781,
       "recovered": 258270,
       "dead": 4399,
-      "updatedTime": "11/02/2021 20:41:23",
+      "updatedTime": "11/02/2021 20:59:27",
       "note": "",
       "stateCode": "GJ",
       "today": {
@@ -611,7 +611,7 @@
       "active": 53,
       "recovered": 28729,
       "dead": 373,
-      "updatedTime": "11/02/2021 20:40:24",
+      "updatedTime": "11/02/2021 20:59:30",
       "note": "[Dec 14]:824 out of 980 recovered cases are backdated.",
       "stateCode": "MN",
       "today": {
@@ -656,17 +656,17 @@
     "AR": {
       "name": "Arunachal Pradesh",
       "confirmed": 16831,
-      "active": 4,
-      "recovered": 16771,
+      "active": 3,
+      "recovered": 16772,
       "dead": 56,
-      "updatedTime": "09/02/2021 23:14:35",
+      "updatedTime": "11/02/2021 21:00:28",
       "note": "[July 25]: All numbers corresponding to Papum Pare and Captial Complex are tracked under Papum Pare district.",
       "stateCode": "AR",
       "today": {
         "confirmed": 0,
-        "recovered": 0,
+        "recovered": 1,
         "dead": 0,
-        "active": 0
+        "active": -1
       },
       "testing_data": {
         "tested": 398385,
@@ -857,18 +857,18 @@
     },
     "LD": {
       "name": "Laccadives",
-      "confirmed": 181,
-      "active": 63,
-      "recovered": 115,
+      "confirmed": 187,
+      "active": 68,
+      "recovered": 116,
       "dead": 0,
-      "updatedTime": "10/02/2021 21:35:12",
+      "updatedTime": "11/02/2021 21:00:30",
       "note": "",
       "stateCode": "LD",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 6,
+        "recovered": 1,
         "dead": 0,
-        "active": 0
+        "active": 5
       },
       "testing_data": {
         "tested": 11391,
@@ -881,7 +881,7 @@
     }
   },
   "testing_data": {
-    "tested": 221172465,
+    "tested": 221194571,
     "positive": 204351,
     "negative": 37895921,
     "unconfirmed": 14671
@@ -891,9 +891,9 @@
     "source": "https://twitter.com/ICMRDELHI/status/1359718800548061192"
   },
   "today": {
-    "confirmed": 2194,
-    "recovered": 2013,
-    "dead": 23,
-    "active": 158
+    "confirmed": 7698,
+    "recovered": 7993,
+    "dead": 44,
+    "active": -339
   }
 }
