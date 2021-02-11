@@ -1,9 +1,9 @@
 {
-  "confirmed": 10879104,
-  "recovered": 10580581,
-  "dead": 155450,
-  "active": 138470,
-  "updatedTime": "11/2/2021 21:46:20",
+  "confirmed": 10879162,
+  "recovered": 10580724,
+  "dead": 155451,
+  "active": 138384,
+  "updatedTime": "11/2/2021 22:29:21",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -69,12 +69,12 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 13422878,
+        "tested": 13453405,
         "positive": 0,
-        "negative": 12534273,
+        "negative": 12564713,
         "unconfirmed": 0,
-        "date": "10/2/2021",
-        "source": "https://twitter.com/ArogyaAndhra/status/1359498177288630276"
+        "date": "11/2/2021",
+        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/6158"
       }
     },
     "TN": {
@@ -200,17 +200,17 @@
     "OR": {
       "name": "Odisha",
       "confirmed": 335984,
-      "active": 801,
-      "recovered": 333220,
+      "active": 741,
+      "recovered": 333280,
       "dead": 1963,
-      "updatedTime": "11/02/2021 12:42:26",
+      "updatedTime": "11/02/2021 22:29:23",
       "note": "[July 12th] :20 non-covid deaths reported in state dashboard are included in the deceased count",
       "stateCode": "OR",
       "today": {
         "confirmed": 95,
-        "recovered": 0,
+        "recovered": 60,
         "dead": 0,
-        "active": 95
+        "active": 35
       },
       "testing_data": {
         "tested": 7955917,
@@ -275,7 +275,7 @@
       "active": 3475,
       "recovered": 301238,
       "dead": 3759,
-      "updatedTime": "11/02/2021 21:46:23",
+      "updatedTime": "11/02/2021 22:03:27",
       "note": "",
       "stateCode": "CT",
       "today": {
@@ -405,12 +405,12 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 6621149,
+        "tested": 6636931,
         "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "10/2/2021",
-        "source": "https://twitter.com/nhm_assam/status/1359530240825978882"
+        "date": "11/2/2021",
+        "source": "https://twitter.com/nhm_assam/status/1359909242128396290"
       }
     },
     "PB": {
@@ -463,26 +463,26 @@
     },
     "JH": {
       "name": "Jharkhand",
-      "confirmed": 119161,
-      "active": 464,
-      "recovered": 117616,
+      "confirmed": 119206,
+      "active": 456,
+      "recovered": 117669,
       "dead": 1081,
-      "updatedTime": "10/02/2021 22:09:33",
+      "updatedTime": "11/02/2021 22:29:25",
       "note": "",
       "stateCode": "JH",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 45,
+        "recovered": 53,
         "dead": 0,
-        "active": 0
+        "active": -8
       },
       "testing_data": {
-        "tested": 5311257,
-        "positive": 119161,
-        "negative": 5192096,
+        "tested": 5322362,
+        "positive": 119206,
+        "negative": 5203156,
         "unconfirmed": 0,
-        "date": "10/02/2021",
-        "source": "https://twitter.com/rnuddkranchi/status/1359539732468756480"
+        "date": "11/02/2021",
+        "source": "https://twitter.com/rnuddkranchi/status/1359908846924308480"
       }
     },
     "UT": {
@@ -515,7 +515,7 @@
       "active": 493,
       "recovered": 56630,
       "dead": 977,
-      "updatedTime": "11/02/2021 21:46:25",
+      "updatedTime": "11/02/2021 22:03:29",
       "note": "",
       "stateCode": "HP",
       "today": {
@@ -573,12 +573,12 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 599234,
-        "positive": 43639,
-        "negative": 555120,
-        "unconfirmed": 475,
-        "date": "10/02/2021",
-        "source": "https://covid19dashboard.py.gov.in/LabTestReport"
+        "tested": 601600,
+        "positive": 43664,
+        "negative": 531772,
+        "unconfirmed": 293,
+        "date": "11/02/2021",
+        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/6157"
       }
     },
     "TR": {
@@ -631,18 +631,18 @@
     },
     "CH": {
       "name": "Chandigarh",
-      "confirmed": 21145,
-      "active": 158,
-      "recovered": 20645,
-      "dead": 342,
-      "updatedTime": "10/02/2021 23:15:24",
+      "confirmed": 21158,
+      "active": 140,
+      "recovered": 20675,
+      "dead": 343,
+      "updatedTime": "11/02/2021 22:29:27",
       "note": "",
       "stateCode": "CH",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 13,
+        "recovered": 30,
+        "dead": 1,
+        "active": -18
       },
       "testing_data": {
         "tested": 228973,
@@ -683,7 +683,7 @@
       "active": 166,
       "recovered": 13617,
       "dead": 148,
-      "updatedTime": "11/02/2021 21:46:27",
+      "updatedTime": "11/02/2021 22:03:31",
       "note": "",
       "stateCode": "ML",
       "today": {
@@ -881,19 +881,19 @@
     }
   },
   "testing_data": {
-    "tested": 221283827,
-    "positive": 204351,
-    "negative": 37905075,
-    "unconfirmed": 14654
+    "tested": 221343607,
+    "positive": 204421,
+    "negative": 37923227,
+    "unconfirmed": 14472
   },
   "testing_data_imcr": {
     "tested": 204023840,
     "source": "https://twitter.com/ICMRDELHI/status/1359718800548061192"
   },
   "today": {
-    "confirmed": 8044,
-    "recovered": 8952,
-    "dead": 51,
-    "active": -959
+    "confirmed": 8102,
+    "recovered": 9095,
+    "dead": 52,
+    "active": -1045
   }
 }
