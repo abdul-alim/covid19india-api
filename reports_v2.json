@@ -1,9 +1,9 @@
 {
-  "confirmed": 10871060,
-  "recovered": 10571629,
+  "confirmed": 10871301,
+  "recovered": 10571747,
   "dead": 155399,
-  "active": 139441,
-  "updatedTime": "11/2/2021 02:58:19",
+  "active": 139564,
+  "updatedTime": "11/2/2021 12:23:17",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -199,18 +199,18 @@
     },
     "OR": {
       "name": "Odisha",
-      "confirmed": 335889,
-      "active": 706,
+      "confirmed": 335984,
+      "active": 801,
       "recovered": 333220,
       "dead": 1963,
       "updatedTime": "10/02/2021 19:57:21",
       "note": "[July 12th] :20 non-covid deaths reported in state dashboard are included in the deceased count",
       "stateCode": "OR",
       "today": {
-        "confirmed": 0,
+        "confirmed": 95,
         "recovered": 0,
         "dead": 0,
-        "active": 0
+        "active": 95
       },
       "testing_data": {
         "tested": 7930729,
@@ -247,26 +247,26 @@
     },
     "TG": {
       "name": "Telangana",
-      "confirmed": 295988,
-      "active": 1797,
-      "recovered": 292578,
+      "confirmed": 296134,
+      "active": 1825,
+      "recovered": 292696,
       "dead": 1613,
-      "updatedTime": "10/02/2021 12:00:17",
+      "updatedTime": "11/02/2021 12:23:19",
       "note": "[July 27] : Telangana bulletin for the previous day is released on the next day. We will add the cases for Telangana against the date of release, as that is the convention that we are following for other states.",
       "stateCode": "TG",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 146,
+        "recovered": 118,
         "dead": 0,
-        "active": 0
+        "active": 28
       },
       "testing_data": {
-        "tested": 8184013,
+        "tested": 8213768,
         "positive": 0,
         "negative": 0,
-        "unconfirmed": 727,
-        "date": "10/02/2021",
-        "source": "https://twitter.com/IPRTelangana/status/1359363633566785536"
+        "unconfirmed": 640,
+        "date": "11/02/2021",
+        "source": "https://twitter.com/IPRTelangana/status/1359722921246085127"
       }
     },
     "CT": {
@@ -881,19 +881,19 @@
     }
   },
   "testing_data": {
-    "tested": 220556710,
+    "tested": 220586465,
     "positive": 204351,
     "negative": 37838239,
-    "unconfirmed": 14273
+    "unconfirmed": 14186
   },
   "testing_data_imcr": {
     "tested": 204023840,
     "source": "https://twitter.com/ICMRDELHI/status/1359718800548061192"
   },
   "today": {
-    "confirmed": 0,
-    "recovered": 0,
+    "confirmed": 241,
+    "recovered": 118,
     "dead": 0,
-    "active": 0
+    "active": 123
   }
 }
