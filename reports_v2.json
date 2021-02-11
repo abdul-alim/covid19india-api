@@ -1,9 +1,9 @@
 {
   "confirmed": 10871301,
-  "recovered": 10571747,
+  "recovered": 10571749,
   "dead": 155399,
-  "active": 139564,
-  "updatedTime": "11/2/2021 12:23:17",
+  "active": 139562,
+  "updatedTime": "11/2/2021 12:39:18",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -203,7 +203,7 @@
       "active": 801,
       "recovered": 333220,
       "dead": 1963,
-      "updatedTime": "10/02/2021 19:57:21",
+      "updatedTime": "11/02/2021 12:39:19",
       "note": "[July 12th] :20 non-covid deaths reported in state dashboard are included in the deceased count",
       "stateCode": "OR",
       "today": {
@@ -251,7 +251,7 @@
       "active": 1825,
       "recovered": 292696,
       "dead": 1613,
-      "updatedTime": "11/02/2021 12:23:19",
+      "updatedTime": "11/02/2021 12:39:21",
       "note": "[July 27] : Telangana bulletin for the previous day is released on the next day. We will add the cases for Telangana against the date of release, as that is the convention that we are following for other states.",
       "stateCode": "TG",
       "today": {
@@ -584,25 +584,25 @@
     "TR": {
       "name": "Tripura",
       "confirmed": 33350,
-      "active": 7,
-      "recovered": 32932,
+      "active": 5,
+      "recovered": 32934,
       "dead": 388,
-      "updatedTime": "09/02/2021 18:02:21",
+      "updatedTime": "11/02/2021 12:39:22",
       "note": "[Aug 4]: Tripura bulletin for the previous day is released on the next day. We will add the cases for Tripura against the date of release, as that is the convention that we are following for other states.",
       "stateCode": "TR",
       "today": {
         "confirmed": 0,
-        "recovered": 0,
+        "recovered": 2,
         "dead": 0,
-        "active": 0
+        "active": -2
       },
       "testing_data": {
-        "tested": 612192,
+        "tested": 612813,
         "positive": 33350,
-        "negative": 578842,
+        "negative": 579463,
         "unconfirmed": 0,
-        "date": "10/02/2021",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/6054"
+        "date": "11/02/2021",
+        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/6107"
       }
     },
     "MN": {
@@ -881,9 +881,9 @@
     }
   },
   "testing_data": {
-    "tested": 220586465,
+    "tested": 220587086,
     "positive": 204351,
-    "negative": 37838239,
+    "negative": 37838860,
     "unconfirmed": 14186
   },
   "testing_data_imcr": {
@@ -892,8 +892,8 @@
   },
   "today": {
     "confirmed": 241,
-    "recovered": 118,
+    "recovered": 120,
     "dead": 0,
-    "active": 123
+    "active": 121
   }
 }
