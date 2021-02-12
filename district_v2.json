@@ -9546,14 +9546,14 @@
       {
         "district": "Khowai",
         "notes": "",
-        "active": 3,
+        "active": 2,
         "confirmed": 1843,
-        "recovered": 1809,
+        "recovered": 1810,
         "dead": 31,
         "today": {
           "confirmed": 0,
-          "recovered": 0,
-          "active": 0,
+          "recovered": 1,
+          "active": -1,
           "dead": 0
         }
       },
@@ -9616,22 +9616,22 @@
       {
         "district": "West Tripura",
         "notes": "",
-        "active": 12,
+        "active": 11,
         "confirmed": 11641,
-        "recovered": 11435,
+        "recovered": 11436,
         "dead": 194,
         "today": {
           "confirmed": 0,
-          "recovered": 0,
-          "active": 0,
+          "recovered": 1,
+          "active": -1,
           "dead": 0
         }
       }
     ],
     "today": {
       "confirmed": 0,
-      "active": 0,
-      "recovered": 0,
+      "active": -2,
+      "recovered": 2,
       "dead": 0
     },
     "confirmed": 33350,
