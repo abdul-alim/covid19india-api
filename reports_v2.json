@@ -1,9 +1,9 @@
 {
   "confirmed": 10880556,
-  "recovered": 10587503,
+  "recovered": 10587505,
   "dead": 155485,
-  "active": 133076,
-  "updatedTime": "12/2/2021 10:35:19",
+  "active": 133074,
+  "updatedTime": "12/2/2021 11:42:18",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -584,17 +584,17 @@
     "TR": {
       "name": "Tripura",
       "confirmed": 33350,
-      "active": 5,
-      "recovered": 32934,
+      "active": 3,
+      "recovered": 32936,
       "dead": 388,
-      "updatedTime": "11/02/2021 12:58:26",
+      "updatedTime": "12/02/2021 11:42:20",
       "note": "[Aug 4]: Tripura bulletin for the previous day is released on the next day. We will add the cases for Tripura against the date of release, as that is the convention that we are following for other states.",
       "stateCode": "TR",
       "today": {
         "confirmed": 0,
-        "recovered": 0,
+        "recovered": 2,
         "dead": 0,
-        "active": 0
+        "active": -2
       },
       "testing_data": {
         "tested": 613231,
@@ -892,8 +892,8 @@
   },
   "today": {
     "confirmed": 143,
-    "recovered": 152,
+    "recovered": 154,
     "dead": 1,
-    "active": -10
+    "active": -12
   }
 }
