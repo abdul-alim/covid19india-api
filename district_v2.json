@@ -448,14 +448,14 @@
       {
         "district": "Lower Dibang Valley",
         "notes": "",
-        "active": 1,
+        "active": 0,
         "confirmed": 475,
-        "recovered": 474,
+        "recovered": 475,
         "dead": 0,
         "today": {
           "confirmed": 0,
-          "recovered": 0,
-          "active": 0,
+          "recovered": 1,
+          "active": -1,
           "dead": 0
         }
       },
@@ -658,8 +658,8 @@
     ],
     "today": {
       "confirmed": 0,
-      "active": 0,
-      "recovered": 0,
+      "active": -1,
+      "recovered": 1,
       "dead": 0
     },
     "confirmed": 16832,
@@ -2959,84 +2959,84 @@
       {
         "district": "Bilaspur",
         "notes": "",
-        "active": 24,
-        "confirmed": 2940,
+        "active": 25,
+        "confirmed": 2941,
         "recovered": 2892,
         "dead": 24,
         "today": {
-          "confirmed": 0,
+          "confirmed": 1,
           "recovered": 0,
-          "active": 0,
+          "active": 1,
           "dead": 0
         }
       },
       {
         "district": "Chamba",
         "notes": "One death of COVID-19 positive patient has occured due to non-covid reasons",
-        "active": 16,
+        "active": 14,
         "confirmed": 2969,
-        "recovered": 2901,
+        "recovered": 2903,
         "dead": 52,
         "today": {
           "confirmed": 0,
-          "recovered": 0,
-          "active": 0,
+          "recovered": 2,
+          "active": -2,
           "dead": 0
         }
       },
       {
         "district": "Hamirpur",
         "notes": "",
-        "active": 6,
+        "active": 4,
         "confirmed": 3043,
-        "recovered": 2988,
+        "recovered": 2990,
         "dead": 49,
         "today": {
           "confirmed": 0,
-          "recovered": 0,
-          "active": 0,
+          "recovered": 2,
+          "active": -2,
           "dead": 0
         }
       },
       {
         "district": "Kangra",
         "notes": "Death of Tibetan refugee on March 22 included in Kangra district's tally",
-        "active": 95,
-        "confirmed": 8304,
+        "active": 108,
+        "confirmed": 8317,
         "recovered": 8003,
         "dead": 206,
         "today": {
-          "confirmed": 0,
+          "confirmed": 13,
           "recovered": 0,
-          "active": 0,
+          "active": 13,
           "dead": 0
         }
       },
       {
         "district": "Kinnaur",
         "notes": "",
-        "active": 13,
+        "active": 10,
         "confirmed": 1373,
-        "recovered": 1344,
+        "recovered": 1347,
         "dead": 16,
         "today": {
           "confirmed": 0,
-          "recovered": 0,
-          "active": 0,
+          "recovered": 3,
+          "active": -3,
           "dead": 0
         }
       },
       {
         "district": "Kullu",
         "notes": "",
-        "active": 13,
-        "confirmed": 4430,
+        "active": 14,
+        "confirmed": 4431,
         "recovered": 4334,
         "dead": 83,
         "today": {
-          "confirmed": 0,
+          "confirmed": 1,
           "recovered": 0,
-          "active": 0,
+          "active": 1,
           "dead": 0
         }
       },
@@ -3057,78 +3057,78 @@
       {
         "district": "Mandi",
         "notes": "",
-        "active": 197,
-        "confirmed": 10228,
-        "recovered": 9906,
+        "active": 198,
+        "confirmed": 10249,
+        "recovered": 9926,
         "dead": 125,
         "today": {
-          "confirmed": 0,
-          "recovered": 0,
-          "active": 0,
+          "confirmed": 21,
+          "recovered": 20,
+          "active": 1,
           "dead": 0
         }
       },
       {
         "district": "Shimla",
         "notes": "One death of COVID-19 positive patient has occured due to non-covid reasons",
-        "active": 36,
-        "confirmed": 10431,
+        "active": 42,
+        "confirmed": 10437,
         "recovered": 10130,
         "dead": 265,
         "today": {
-          "confirmed": 0,
+          "confirmed": 6,
           "recovered": 0,
-          "active": 0,
+          "active": 6,
           "dead": 0
         }
       },
       {
         "district": "Sirmaur",
         "notes": "",
-        "active": 19,
-        "confirmed": 3459,
-        "recovered": 3409,
+        "active": 15,
+        "confirmed": 3462,
+        "recovered": 3416,
         "dead": 31,
         "today": {
-          "confirmed": 0,
-          "recovered": 0,
-          "active": 0,
+          "confirmed": 3,
+          "recovered": 7,
+          "active": -4,
           "dead": 0
         }
       },
       {
         "district": "Solan",
         "notes": "",
-        "active": 14,
-        "confirmed": 6747,
+        "active": 18,
+        "confirmed": 6751,
         "recovered": 6660,
         "dead": 73,
         "today": {
-          "confirmed": 0,
+          "confirmed": 4,
           "recovered": 0,
-          "active": 0,
+          "active": 4,
           "dead": 0
         }
       },
       {
         "district": "Una",
         "notes": "",
-        "active": 84,
-        "confirmed": 2960,
-        "recovered": 2834,
+        "active": 90,
+        "confirmed": 2970,
+        "recovered": 2838,
         "dead": 42,
         "today": {
-          "confirmed": 0,
-          "recovered": 0,
-          "active": 0,
+          "confirmed": 10,
+          "recovered": 4,
+          "active": 6,
           "dead": 0
         }
       }
     ],
     "today": {
-      "confirmed": 0,
-      "active": 0,
-      "recovered": 0,
+      "confirmed": 59,
+      "active": 21,
+      "recovered": 38,
       "dead": 0
     },
     "confirmed": 58142,
