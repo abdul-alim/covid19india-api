@@ -1,9 +1,9 @@
 {
-  "confirmed": 10894075,
-  "recovered": 10600288,
-  "dead": 155604,
-  "active": 133669,
-  "updatedTime": "13/2/2021 20:18:30",
+  "confirmed": 10894556,
+  "recovered": 10600835,
+  "dead": 155605,
+  "active": 133602,
+  "updatedTime": "13/2/2021 20:40:21",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -35,7 +35,7 @@
       "active": 5910,
       "recovered": 926664,
       "dead": 12263,
-      "updatedTime": "13/02/2021 20:18:32",
+      "updatedTime": "13/02/2021 20:22:25",
       "note": "",
       "stateCode": "KA",
       "today": {
@@ -175,26 +175,26 @@
     },
     "WB": {
       "name": "West Bengal",
-      "confirmed": 572220,
-      "active": 4233,
-      "recovered": 557758,
-      "dead": 10229,
-      "updatedTime": "12/02/2021 22:05:23",
+      "confirmed": 572405,
+      "active": 4160,
+      "recovered": 558015,
+      "dead": 10230,
+      "updatedTime": "13/02/2021 20:40:23",
       "note": "",
       "stateCode": "WB",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 185,
+        "recovered": 257,
+        "dead": 1,
+        "active": -73
       },
       "testing_data": {
-        "tested": 8256108,
+        "tested": 8278163,
         "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "12/02/2021",
-        "source": "https://www.wbhealth.gov.in/uploaded_files/corona/WB_DHFW_Bulletin_12th_FEBRUARY_REPORT_FINAL_(1).pdf"
+        "date": "13/02/2021",
+        "source": "https://www.wbhealth.gov.in/uploaded_files/corona/WB_DHFW_Bulletin_13th_FEBRUARY_REPORT_FINAL.pdf"
       }
     },
     "OR": {
@@ -343,18 +343,18 @@
     },
     "GJ": {
       "name": "Gujarat",
-      "confirmed": 264718,
-      "active": 1767,
-      "recovered": 258551,
+      "confirmed": 264997,
+      "active": 1763,
+      "recovered": 258834,
       "dead": 4400,
-      "updatedTime": "12/02/2021 22:05:29",
+      "updatedTime": "13/02/2021 20:40:25",
       "note": "",
       "stateCode": "GJ",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 279,
+        "recovered": 283,
         "dead": 0,
-        "active": 0
+        "active": -4
       },
       "testing_data": {
         "tested": 11216545,
@@ -573,11 +573,11 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 603831,
+        "tested": 606413,
         "positive": 43683,
-        "negative": 560001,
+        "negative": 562583,
         "unconfirmed": 147,
-        "date": "12/02/2021",
+        "date": "13/02/2021",
         "source": "Lab Test Results Summary - Covid-19 Dashboard Puducherry (py.gov.in)"
       }
     },
@@ -607,18 +607,18 @@
     },
     "MN": {
       "name": "Manipur",
-      "confirmed": 29166,
-      "active": 56,
-      "recovered": 28737,
+      "confirmed": 29183,
+      "active": 66,
+      "recovered": 28744,
       "dead": 373,
-      "updatedTime": "13/02/2021 00:00:30",
+      "updatedTime": "13/02/2021 20:40:27",
       "note": "[Dec 14]:824 out of 980 recovered cases are backdated.",
       "stateCode": "MN",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 17,
+        "recovered": 7,
         "dead": 0,
-        "active": 0
+        "active": 10
       },
       "testing_data": {
         "tested": 531521,
@@ -861,7 +861,7 @@
       "active": 90,
       "recovered": 131,
       "dead": 0,
-      "updatedTime": "13/02/2021 20:18:39",
+      "updatedTime": "13/02/2021 20:22:28",
       "note": "",
       "stateCode": "LD",
       "today": {
@@ -871,19 +871,19 @@
         "active": 21
       },
       "testing_data": {
-        "tested": 14179,
+        "tested": 15895,
         "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "12/02/2021",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/6173"
+        "date": "13/02/2021",
+        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/6250"
       }
     }
   },
   "testing_data": {
-    "tested": 222760084,
+    "tested": 222786437,
     "positive": 204476,
-    "negative": 25529204,
+    "negative": 25531786,
     "unconfirmed": 19043
   },
   "testing_data_imcr": {
@@ -891,9 +891,9 @@
     "source": "https://twitter.com/ICMRDELHI/status/1360450493512876033"
   },
   "today": {
-    "confirmed": 1525,
-    "recovered": 1579,
-    "dead": 16,
-    "active": -70
+    "confirmed": 2006,
+    "recovered": 2126,
+    "dead": 17,
+    "active": -137
   }
 }
