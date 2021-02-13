@@ -1,24 +1,24 @@
 {
-  "confirmed": 10895052,
-  "recovered": 10601338,
-  "dead": 155614,
-  "active": 133586,
-  "updatedTime": "13/2/2021 21:26:21",
+  "confirmed": 10898663,
+  "recovered": 10603113,
+  "dead": 155653,
+  "active": 135377,
+  "updatedTime": "13/2/2021 21:46:20",
   "states": {
     "MH": {
       "name": "Maharashtra",
-      "confirmed": 2056575,
-      "active": 31474,
-      "recovered": 1972475,
-      "dead": 51451,
-      "updatedTime": "12/02/2021 22:47:22",
+      "confirmed": 2060186,
+      "active": 33269,
+      "recovered": 1974248,
+      "dead": 51489,
+      "updatedTime": "13/02/2021 21:46:21",
       "note": "[Dec 16]:10,218 duplicate cases & other state cases removed from total cases.791 recovered cases also removed from total recovered cases while reconciling \n[Sep 9] :239 cases have been removed from the hospitalized figures owing to the removal of duplicates and change of addresses as per the original residence\n[Aug 15] : MH bulletin has reduced 819 confirmed cases in Mumbai and 72 confirmed cases from 'Other States' from the tally\n[Jun 16] : 1328 deceased cases have been retroactively added to MH bulletin.\n[Jun 20] : 69 deceased cases have been reduced based on state bulletin.",
       "stateCode": "MH",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 3611,
+        "recovered": 1773,
+        "dead": 38,
+        "active": 1800
       },
       "testing_data": {
         "tested": 15272826,
@@ -131,7 +131,7 @@
       "active": 1041,
       "recovered": 624866,
       "dead": 10889,
-      "updatedTime": "13/02/2021 21:26:22",
+      "updatedTime": "13/02/2021 21:42:22",
       "note": "[July 14]: Value for the total tests conducted has been reduced by 97008 in the state bulletin. Reason given : \"Reconciled with ICMR figures\". We have made the same change.",
       "stateCode": "DL",
       "today": {
@@ -275,7 +275,7 @@
       "active": 3255,
       "recovered": 301904,
       "dead": 3771,
-      "updatedTime": "13/02/2021 21:26:24",
+      "updatedTime": "13/02/2021 21:32:22",
       "note": "",
       "stateCode": "CT",
       "today": {
@@ -512,17 +512,17 @@
     "HP": {
       "name": "Himachal Pradesh",
       "confirmed": 58201,
-      "active": 526,
+      "active": 524,
       "recovered": 56685,
-      "dead": 978,
-      "updatedTime": "13/02/2021 21:26:26",
+      "dead": 979,
+      "updatedTime": "13/02/2021 21:46:23",
       "note": "",
       "stateCode": "HP",
       "today": {
         "confirmed": 59,
         "recovered": 38,
-        "dead": 0,
-        "active": 21
+        "dead": 1,
+        "active": 20
       },
       "testing_data": {
         "tested": 1010862,
@@ -659,7 +659,7 @@
       "active": 4,
       "recovered": 16772,
       "dead": 56,
-      "updatedTime": "13/02/2021 21:26:28",
+      "updatedTime": "13/02/2021 21:42:25",
       "note": "[July 25]: All numbers corresponding to Papum Pare and Captial Complex are tracked under Papum Pare district.",
       "stateCode": "AR",
       "today": {
@@ -752,17 +752,17 @@
     "SK": {
       "name": "Sikkim",
       "confirmed": 6116,
-      "active": 61,
-      "recovered": 5824,
+      "active": 59,
+      "recovered": 5826,
       "dead": 135,
-      "updatedTime": "12/02/2021 22:47:35",
+      "updatedTime": "13/02/2021 21:46:25",
       "note": "",
       "stateCode": "SK",
       "today": {
         "confirmed": 0,
-        "recovered": 0,
+        "recovered": 2,
         "dead": 0,
-        "active": 0
+        "active": -2
       },
       "testing_data": {
         "tested": 76624,
@@ -891,9 +891,9 @@
     "source": "https://twitter.com/ICMRDELHI/status/1360450493512876033"
   },
   "today": {
-    "confirmed": 2502,
-    "recovered": 2629,
-    "dead": 26,
-    "active": -153
+    "confirmed": 6113,
+    "recovered": 4404,
+    "dead": 65,
+    "active": 1644
   }
 }
