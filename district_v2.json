@@ -630,14 +630,14 @@
       {
         "district": "West Kameng",
         "notes": "",
-        "active": 1,
+        "active": 0,
         "confirmed": 949,
-        "recovered": 944,
+        "recovered": 945,
         "dead": 4,
         "today": {
           "confirmed": 0,
-          "recovered": 0,
-          "active": 0,
+          "recovered": 1,
+          "active": -1,
           "dead": 0
         }
       },
@@ -658,14 +658,14 @@
     ],
     "today": {
       "confirmed": 0,
-      "active": 0,
-      "recovered": 0,
+      "active": -1,
+      "recovered": 1,
       "dead": 0
     },
     "confirmed": 16832,
-    "recovered": 16772,
+    "recovered": 16773,
     "dead": 56,
-    "active": 4
+    "active": 3
   },
   "AS": {
     "state": "Assam",
@@ -939,14 +939,14 @@
       {
         "district": "Kamrup Metropolitan",
         "notes": "",
-        "active": 34990,
-        "confirmed": 50512,
+        "active": 34994,
+        "confirmed": 50516,
         "recovered": 15370,
         "dead": 152,
         "today": {
-          "confirmed": 0,
+          "confirmed": 4,
           "recovered": 0,
-          "active": 0,
+          "active": 4,
           "dead": 0
         }
       },
@@ -1037,14 +1037,14 @@
       {
         "district": "Nagaon",
         "notes": "",
-        "active": 1999,
-        "confirmed": 4531,
+        "active": 2000,
+        "confirmed": 4532,
         "recovered": 2506,
         "dead": 26,
         "today": {
-          "confirmed": 0,
+          "confirmed": 1,
           "recovered": 0,
-          "active": 0,
+          "active": 1,
           "dead": 0
         }
       },
@@ -1162,15 +1162,15 @@
       }
     ],
     "today": {
-      "confirmed": 0,
-      "active": 0,
+      "confirmed": 5,
+      "active": 5,
       "recovered": 0,
       "dead": 0
     },
-    "confirmed": 217285,
-    "recovered": 214542,
-    "dead": 1086,
-    "active": 310
+    "confirmed": 217293,
+    "recovered": 214585,
+    "dead": 1087,
+    "active": 274
   },
   "BR": {
     "state": "Bihar",
@@ -1743,10 +1743,10 @@
       "recovered": 0,
       "dead": 0
     },
-    "confirmed": 21194,
-    "recovered": 20727,
-    "dead": 344,
-    "active": 123
+    "confirmed": 21212,
+    "recovered": 20740,
+    "dead": 345,
+    "active": 127
   },
   "CT": {
     "state": "Chhattisgarh",
@@ -3057,29 +3057,29 @@
       {
         "district": "Mandi",
         "notes": "",
-        "active": 140,
+        "active": 98,
         "confirmed": 10250,
-        "recovered": 9985,
+        "recovered": 10027,
         "dead": 125,
         "today": {
           "confirmed": 1,
-          "recovered": 59,
-          "active": -58,
+          "recovered": 101,
+          "active": -100,
           "dead": 0
         }
       },
       {
         "district": "Shimla",
         "notes": "One death of COVID-19 positive patient has occured due to non-covid reasons",
-        "active": 41,
+        "active": 40,
         "confirmed": 10440,
         "recovered": 10134,
-        "dead": 265,
+        "dead": 266,
         "today": {
           "confirmed": 3,
           "recovered": 4,
-          "active": -1,
-          "dead": 0
+          "active": -2,
+          "dead": 1
         }
       },
       {
@@ -3113,28 +3113,28 @@
       {
         "district": "Una",
         "notes": "",
-        "active": 87,
+        "active": 86,
         "confirmed": 2974,
         "recovered": 2844,
-        "dead": 43,
+        "dead": 44,
         "today": {
           "confirmed": 4,
           "recovered": 6,
-          "active": -2,
-          "dead": 0
+          "active": -3,
+          "dead": 1
         }
       }
     ],
     "today": {
       "confirmed": 21,
-      "active": -69,
-      "recovered": 90,
-      "dead": 0
+      "active": -113,
+      "recovered": 132,
+      "dead": 2
     },
     "confirmed": 58222,
-    "recovered": 56775,
-    "dead": 979,
-    "active": 455
+    "recovered": 56817,
+    "dead": 981,
+    "active": 411
   },
   "HR": {
     "state": "Haryana",
