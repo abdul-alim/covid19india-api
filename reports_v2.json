@@ -1,9 +1,9 @@
 {
-  "confirmed": 10904957,
-  "recovered": 10609966,
-  "dead": 155678,
-  "active": 134792,
-  "updatedTime": "14/2/2021 13:30:27",
+  "confirmed": 10905113,
+  "recovered": 10610136,
+  "dead": 155680,
+  "active": 134776,
+  "updatedTime": "14/2/2021 18:15:22",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -127,26 +127,26 @@
     },
     "DL": {
       "name": "Delhi",
-      "confirmed": 636796,
-      "active": 1041,
-      "recovered": 624866,
-      "dead": 10889,
-      "updatedTime": "13/02/2021 21:42:22",
+      "confirmed": 636946,
+      "active": 1031,
+      "recovered": 625024,
+      "dead": 10891,
+      "updatedTime": "14/02/2021 18:15:24",
       "note": "[July 14]: Value for the total tests conducted has been reduced by 97008 in the state bulletin. Reason given : \"Reconciled with ICMR figures\". We have made the same change.",
       "stateCode": "DL",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 150,
+        "recovered": 158,
+        "dead": 2,
+        "active": -10
       },
       "testing_data": {
-        "tested": 11511990,
+        "tested": 11568892,
         "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "13/02/2021",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/6265"
+        "date": "14/02/2021",
+        "source": "https://twitter.com/ANI/status/1360918058592706560"
       }
     },
     "UP": {
@@ -703,26 +703,26 @@
     },
     "NL": {
       "name": "Nagaland",
-      "confirmed": 12183,
-      "active": 76,
-      "recovered": 11868,
+      "confirmed": 12189,
+      "active": 73,
+      "recovered": 11877,
       "dead": 88,
-      "updatedTime": "13/02/2021 19:58:29",
+      "updatedTime": "14/02/2021 18:15:26",
       "note": "",
       "stateCode": "NL",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 6,
+        "recovered": 9,
         "dead": 0,
-        "active": 0
+        "active": -3
       },
       "testing_data": {
-        "tested": 127927,
+        "tested": 128108,
         "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "13/2/2021",
-        "source": "https://twitter.com/MyGovNagaland/status/1360579812197244928"
+        "date": "14/2/2021",
+        "source": "https://twitter.com/MyGovNagaland/status/1360918512508669954"
       }
     },
     "LA": {
@@ -800,25 +800,25 @@
     "MZ": {
       "name": "Mizoram",
       "confirmed": 4392,
-      "active": 20,
-      "recovered": 4363,
+      "active": 17,
+      "recovered": 4366,
       "dead": 9,
-      "updatedTime": "13/02/2021 19:40:36",
+      "updatedTime": "14/02/2021 18:15:28",
       "note": "",
       "stateCode": "MZ",
       "today": {
         "confirmed": 0,
-        "recovered": 0,
+        "recovered": 3,
         "dead": 0,
-        "active": 0
+        "active": -3
       },
       "testing_data": {
-        "tested": 219250,
+        "tested": 220482,
         "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "12/2/2021",
-        "source": "https://dipr.mizoram.gov.in/post/status-of-state-surveillance-of-covid-19-1222021-last-24-hours-500pm-as-per-data-received-from-integrated-diseases-surveillance-programme-idsp"
+        "date": "14/2/2021",
+        "source": "https://dipr.mizoram.gov.in/post/status-of-state-surveillance-of-covid-19-1422021-last-24-hours-500pm-as-per-data-received-from-integrated-diseases-surveillance-programme-idsp"
       }
     },
     "DN": {
@@ -881,7 +881,7 @@
     }
   },
   "testing_data": {
-    "tested": 223091493,
+    "tested": 223149808,
     "positive": 204517,
     "negative": 25587916,
     "unconfirmed": 19035
@@ -891,9 +891,9 @@
     "source": "https://twitter.com/ICMRDELHI/status/1360789224275005441"
   },
   "today": {
-    "confirmed": 219,
-    "recovered": 178,
-    "dead": 2,
-    "active": 39
+    "confirmed": 375,
+    "recovered": 348,
+    "dead": 4,
+    "active": 23
   }
 }
