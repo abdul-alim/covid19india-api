@@ -9546,14 +9546,14 @@
       {
         "district": "Khowai",
         "notes": "",
-        "active": 2,
+        "active": 1,
         "confirmed": 1843,
-        "recovered": 1810,
+        "recovered": 1811,
         "dead": 31,
         "today": {
           "confirmed": 0,
-          "recovered": 0,
-          "active": 0,
+          "recovered": 1,
+          "active": -1,
           "dead": 0
         }
       },
@@ -9630,14 +9630,14 @@
     ],
     "today": {
       "confirmed": 0,
-      "active": 0,
-      "recovered": 0,
+      "active": -1,
+      "recovered": 1,
       "dead": 0
     },
     "confirmed": 33350,
-    "recovered": 32936,
+    "recovered": 32937,
     "dead": 388,
-    "active": 3
+    "active": 2
   },
   "UP": {
     "state": "Uttar Pradesh",
