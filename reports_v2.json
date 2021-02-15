@@ -1,9 +1,9 @@
 {
-  "confirmed": 10916692,
-  "recovered": 10619623,
-  "dead": 155774,
-  "active": 136770,
-  "updatedTime": "15/2/2021 18:59:25",
+  "confirmed": 10919616,
+  "recovered": 10624838,
+  "dead": 155789,
+  "active": 134464,
+  "updatedTime": "15/2/2021 19:24:26",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -69,12 +69,12 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 13546228,
+        "tested": 13565062,
         "positive": 0,
-        "negative": 0,
+        "negative": 12676163,
         "unconfirmed": 0,
-        "date": "14/2/2021",
-        "source": "https://twitter.com/ArogyaAndhra/status/1360933720983670785"
+        "date": "15/2/2021",
+        "source": "https://twitter.com/ArogyaAndhra/status/1361308583992860672?s=20"
       }
     },
     "TN": {
@@ -103,18 +103,18 @@
     },
     "KL": {
       "name": "Kerala",
-      "confirmed": 1004136,
-      "active": 63482,
-      "recovered": 936398,
-      "dead": 3986,
-      "updatedTime": "14/02/2021 21:44:51",
+      "confirmed": 1007020,
+      "active": 61280,
+      "recovered": 941471,
+      "dead": 3999,
+      "updatedTime": "15/02/2021 19:24:28",
       "note": "Mahe native who expired in Kannur included in Kerala's deceased tally.\nSome non-covid deaths have also been reported in the bulletin.\nThese have been reduced from active count",
       "stateCode": "KL",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 2884,
+        "recovered": 5073,
+        "dead": 13,
+        "active": -2202
       },
       "testing_data": {
         "tested": 10627542,
@@ -141,12 +141,12 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 11568892,
+        "tested": 11607957,
         "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "14/02/2021",
-        "source": "https://twitter.com/ANI/status/1360918058592706560"
+        "date": "15/02/2021",
+        "source": "https://twitter.com/ANI/status/1361310582247288833?s=20"
       }
     },
     "UP": {
@@ -155,7 +155,7 @@
       "active": 2974,
       "recovered": 590570,
       "dead": 8704,
-      "updatedTime": "15/02/2021 18:59:27",
+      "updatedTime": "15/02/2021 19:17:23",
       "note": "[Jan 1]:As no bulletin was provided for 31'st Dec'20,its count has been combined with 1st Jan'21\n[Jan 9]:Due to reconcillation there are 1286 cases.",
       "stateCode": "UP",
       "today": {
@@ -200,17 +200,17 @@
     "OR": {
       "name": "Odisha",
       "confirmed": 336262,
-      "active": 744,
-      "recovered": 333554,
+      "active": 661,
+      "recovered": 333637,
       "dead": 1964,
-      "updatedTime": "15/02/2021 12:00:26",
+      "updatedTime": "15/02/2021 19:24:30",
       "note": "[July 12th] :20 non-covid deaths reported in state dashboard are included in the deceased count",
       "stateCode": "OR",
       "today": {
         "confirmed": 88,
-        "recovered": 0,
+        "recovered": 83,
         "dead": 1,
-        "active": 87
+        "active": 4
       },
       "testing_data": {
         "tested": 8043817,
@@ -237,12 +237,12 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 6087241,
+        "tested": 6093518,
         "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "14/02/2021",
-        "source": "https://twitter.com/airnews_jaipur/status/1360943396697694211"
+        "date": "16/02/2021",
+        "source": "https://twitter.com/airnews_jaipur/status/1361304750902308864"
       }
     },
     "TG": {
@@ -501,12 +501,12 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 2247287,
+        "tested": 2255193,
         "positive": 0,
-        "negative": 2150467,
-        "unconfirmed": 6092,
-        "date": "14/02/2021",
-        "source": "https://health.uk.gov.in/files/2021.02.14_Health_Bulletin.pdf"
+        "negative": 2158326,
+        "unconfirmed": 9528,
+        "date": "15/02/2021",
+        "source": "https://twitter.com/DDnews_dehradun/status/1361305765072445441"
       }
     },
     "HP": {
@@ -535,18 +535,18 @@
     },
     "GA": {
       "name": "Goa",
-      "confirmed": 54235,
-      "active": 546,
-      "recovered": 52910,
-      "dead": 779,
-      "updatedTime": "14/02/2021 18:49:38",
+      "confirmed": 54275,
+      "active": 525,
+      "recovered": 52969,
+      "dead": 781,
+      "updatedTime": "15/02/2021 19:24:33",
       "note": "",
       "stateCode": "GA",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 40,
+        "recovered": 59,
+        "dead": 2,
+        "active": -21
       },
       "testing_data": {
         "tested": 473449,
@@ -881,19 +881,19 @@
     }
   },
   "testing_data": {
-    "tested": 223982638,
+    "tested": 224054720,
     "positive": 204560,
-    "negative": 25686469,
-    "unconfirmed": 10739
+    "negative": 38370491,
+    "unconfirmed": 14175
   },
   "testing_data_imcr": {
     "tested": 206716634,
     "source": "https://twitter.com/ICMRDELHI/status/1361154967537659907"
   },
   "today": {
-    "confirmed": 245,
-    "recovered": 307,
-    "dead": 6,
-    "active": -68
+    "confirmed": 3169,
+    "recovered": 5522,
+    "dead": 21,
+    "active": -2374
   }
 }
