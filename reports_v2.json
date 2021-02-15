@@ -1,9 +1,9 @@
 {
-  "confirmed": 10921307,
-  "recovered": 10626802,
-  "dead": 155806,
-  "active": 134154,
-  "updatedTime": "15/2/2021 20:41:32",
+  "confirmed": 10921461,
+  "recovered": 10627129,
+  "dead": 155808,
+  "active": 133979,
+  "updatedTime": "15/2/2021 21:01:25",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -35,7 +35,7 @@
       "active": 5772,
       "recovered": 927580,
       "dead": 12267,
-      "updatedTime": "15/02/2021 20:40:33",
+      "updatedTime": "15/02/2021 20:58:24",
       "note": "",
       "stateCode": "KA",
       "today": {
@@ -175,18 +175,18 @@
     },
     "WB": {
       "name": "West Bengal",
-      "confirmed": 572595,
-      "active": 4086,
-      "recovered": 558277,
-      "dead": 10232,
+      "confirmed": 572728,
+      "active": 3960,
+      "recovered": 558535,
+      "dead": 10233,
       "updatedTime": "14/02/2021 20:55:26",
       "note": "",
       "stateCode": "WB",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 133,
+        "recovered": 258,
+        "dead": 1,
+        "active": -126
       },
       "testing_data": {
         "tested": 8300367,
@@ -347,7 +347,7 @@
       "active": 1708,
       "recovered": 259384,
       "dead": 4401,
-      "updatedTime": "14/02/2021 20:12:30",
+      "updatedTime": "15/02/2021 20:58:25",
       "note": "",
       "stateCode": "GJ",
       "today": {
@@ -434,7 +434,7 @@
         "negative": 0,
         "unconfirmed": 0,
         "date": "15/02/2021",
-        "source": "http://diprpunjab.gov.in/?q=press-release"
+        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/6334?single"
       }
     },
     "JK": {
@@ -559,18 +559,18 @@
     },
     "PY": {
       "name": "Puducherry",
-      "confirmed": 39448,
-      "active": 258,
-      "recovered": 38533,
-      "dead": 657,
-      "updatedTime": "14/02/2021 20:25:37",
+      "confirmed": 39468,
+      "active": 236,
+      "recovered": 38574,
+      "dead": 658,
+      "updatedTime": "15/02/2021 21:01:30",
       "note": "",
       "stateCode": "PY",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 20,
+        "recovered": 41,
+        "dead": 1,
+        "active": -22
       },
       "testing_data": {
         "tested": 609743,
@@ -680,17 +680,17 @@
     "ML": {
       "name": "Meghalaya",
       "confirmed": 13942,
-      "active": 149,
-      "recovered": 13645,
+      "active": 128,
+      "recovered": 13666,
       "dead": 148,
-      "updatedTime": "14/02/2021 20:25:39",
+      "updatedTime": "15/02/2021 21:01:33",
       "note": "",
       "stateCode": "ML",
       "today": {
         "confirmed": 0,
-        "recovered": 0,
+        "recovered": 21,
         "dead": 0,
-        "active": 0
+        "active": -21
       },
       "testing_data": {
         "tested": 354157,
@@ -857,31 +857,31 @@
     },
     "LD": {
       "name": "Laccadives",
-      "confirmed": 233,
-      "active": 97,
-      "recovered": 133,
+      "confirmed": 234,
+      "active": 91,
+      "recovered": 140,
       "dead": 0,
-      "updatedTime": "14/02/2021 20:55:32",
+      "updatedTime": "15/02/2021 21:01:37",
       "note": "",
       "stateCode": "LD",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 1,
+        "recovered": 7,
         "dead": 0,
-        "active": 0
+        "active": -6
       },
       "testing_data": {
-        "tested": 16808,
+        "tested": 17518,
         "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "14/02/2021",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/6308"
+        "date": "15/02/2021",
+        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/6335"
       }
     }
   },
   "testing_data": {
-    "tested": 224240596,
+    "tested": 224241306,
     "positive": 204580,
     "negative": 38385197,
     "unconfirmed": 14020
@@ -891,9 +891,9 @@
     "source": "https://twitter.com/ICMRDELHI/status/1361154967537659907"
   },
   "today": {
-    "confirmed": 4860,
-    "recovered": 7486,
-    "dead": 38,
-    "active": -2664
+    "confirmed": 5014,
+    "recovered": 7813,
+    "dead": 40,
+    "active": -2839
   }
 }
