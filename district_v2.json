@@ -420,14 +420,14 @@
       {
         "district": "Lohit",
         "notes": "",
-        "active": 1,
+        "active": 0,
         "confirmed": 573,
-        "recovered": 572,
+        "recovered": 573,
         "dead": 0,
         "today": {
           "confirmed": 0,
-          "recovered": 0,
-          "active": 0,
+          "recovered": 1,
+          "active": -1,
           "dead": 0
         }
       },
@@ -630,14 +630,14 @@
       {
         "district": "West Kameng",
         "notes": "",
-        "active": 0,
-        "confirmed": 949,
+        "active": 1,
+        "confirmed": 950,
         "recovered": 945,
         "dead": 4,
         "today": {
-          "confirmed": 0,
+          "confirmed": 1,
           "recovered": 0,
-          "active": 0,
+          "active": 1,
           "dead": 0
         }
       },
@@ -657,13 +657,13 @@
       }
     ],
     "today": {
-      "confirmed": 0,
+      "confirmed": 1,
       "active": 0,
-      "recovered": 0,
+      "recovered": 1,
       "dead": 0
     },
-    "confirmed": 16832,
-    "recovered": 16773,
+    "confirmed": 16833,
+    "recovered": 16774,
     "dead": 56,
     "active": 3
   },
@@ -1743,10 +1743,10 @@
       "recovered": 0,
       "dead": 0
     },
-    "confirmed": 21212,
-    "recovered": 20740,
+    "confirmed": 21238,
+    "recovered": 20764,
     "dead": 345,
-    "active": 127
+    "active": 129
   },
   "CT": {
     "state": "Chhattisgarh",
@@ -4841,42 +4841,42 @@
       {
         "district": "Kargil",
         "notes": "",
-        "active": 7,
-        "confirmed": 2113,
+        "active": 9,
+        "confirmed": 2115,
         "recovered": 2062,
         "dead": 44,
         "today": {
-          "confirmed": 0,
+          "confirmed": 2,
           "recovered": 0,
-          "active": 0,
+          "active": 2,
           "dead": 0
         }
       },
       {
         "district": "Leh",
         "notes": "",
-        "active": 38,
-        "confirmed": 7654,
-        "recovered": 7530,
+        "active": 39,
+        "confirmed": 7658,
+        "recovered": 7533,
         "dead": 86,
         "today": {
-          "confirmed": 0,
-          "recovered": 0,
-          "active": 0,
+          "confirmed": 4,
+          "recovered": 3,
+          "active": 1,
           "dead": 0
         }
       }
     ],
     "today": {
-      "confirmed": 0,
-      "active": 0,
-      "recovered": 0,
+      "confirmed": 6,
+      "active": 3,
+      "recovered": 3,
       "dead": 0
     },
-    "confirmed": 9767,
-    "recovered": 9592,
+    "confirmed": 9773,
+    "recovered": 9595,
     "dead": 130,
-    "active": 45
+    "active": 48
   },
   "LD": {
     "state": "Lakshadweep",
@@ -8428,9 +8428,9 @@
       "dead": 0
     },
     "confirmed": 6118,
-    "recovered": 5831,
+    "recovered": 5833,
     "dead": 135,
-    "active": 56
+    "active": 54
   },
   "TG": {
     "state": "Telangana",
