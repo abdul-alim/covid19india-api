@@ -6625,15 +6625,15 @@
       {
         "district": "Aizawl",
         "notes": "",
-        "active": 11,
+        "active": 10,
         "confirmed": 2884,
         "recovered": 2865,
-        "dead": 8,
+        "dead": 9,
         "today": {
           "confirmed": 0,
           "recovered": 0,
-          "active": 0,
-          "dead": 0
+          "active": -1,
+          "dead": 1
         }
       },
       {
@@ -6709,14 +6709,14 @@
       {
         "district": "Lunglei",
         "notes": "",
-        "active": 3,
+        "active": 2,
         "confirmed": 416,
-        "recovered": 413,
+        "recovered": 414,
         "dead": 0,
         "today": {
           "confirmed": 0,
-          "recovered": 0,
-          "active": 0,
+          "recovered": 1,
+          "active": -1,
           "dead": 0
         }
       },
@@ -6779,14 +6779,14 @@
     ],
     "today": {
       "confirmed": 0,
-      "active": 0,
-      "recovered": 0,
-      "dead": 0
+      "active": -2,
+      "recovered": 1,
+      "dead": 1
     },
     "confirmed": 4392,
-    "recovered": 4366,
-    "dead": 9,
-    "active": 17
+    "recovered": 4367,
+    "dead": 10,
+    "active": 15
   },
   "NL": {
     "state": "Nagaland",
@@ -6836,14 +6836,14 @@
       {
         "district": "Kohima",
         "notes": "",
-        "active": 104,
+        "active": 89,
         "confirmed": 3873,
-        "recovered": 3748,
+        "recovered": 3763,
         "dead": 21,
         "today": {
           "confirmed": 0,
-          "recovered": 0,
-          "active": 0,
+          "recovered": 15,
+          "active": -15,
           "dead": 0
         }
       },
@@ -6962,14 +6962,14 @@
     ],
     "today": {
       "confirmed": 0,
-      "active": 0,
-      "recovered": 0,
+      "active": -15,
+      "recovered": 15,
       "dead": 0
     },
     "confirmed": 12189,
-    "recovered": 11877,
+    "recovered": 11892,
     "dead": 88,
-    "active": 73
+    "active": 58
   },
   "OR": {
     "state": "Odisha",
