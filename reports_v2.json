@@ -1,9 +1,9 @@
 {
-  "confirmed": 10919924,
-  "recovered": 10625273,
-  "dead": 155792,
-  "active": 134314,
-  "updatedTime": "15/2/2021 20:00:25",
+  "confirmed": 10920032,
+  "recovered": 10625421,
+  "dead": 155794,
+  "active": 134272,
+  "updatedTime": "15/2/2021 20:13:23",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -59,7 +59,7 @@
       "active": 695,
       "recovered": 881041,
       "dead": 7163,
-      "updatedTime": "15/02/2021 20:00:28",
+      "updatedTime": "15/02/2021 20:11:24",
       "note": "",
       "stateCode": "AP",
       "today": {
@@ -241,7 +241,7 @@
         "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "16/02/2021",
+        "date": "15/02/2021",
         "source": "https://twitter.com/airnews_jaipur/status/1361304750902308864"
       }
     },
@@ -319,26 +319,26 @@
     },
     "BR": {
       "name": "Bihar",
-      "confirmed": 261741,
-      "active": 624,
-      "recovered": 259591,
-      "dead": 1525,
+      "confirmed": 261785,
+      "active": 587,
+      "recovered": 259670,
+      "dead": 1527,
       "updatedTime": "14/02/2021 20:36:34",
       "note": "",
       "stateCode": "BR",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 44,
+        "recovered": 79,
+        "dead": 2,
+        "active": -37
       },
       "testing_data": {
-        "tested": 21987741,
+        "tested": 22018681,
         "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "14/02/2021",
-        "source": "https://twitter.com/BiharHealthDept/status/1360943108825837569"
+        "date": "15/02/2021",
+        "source": "https://twitter.com/BiharHealthDept/status/1361321924245155843?s=20"
       }
     },
     "GJ": {
@@ -439,18 +439,18 @@
     },
     "JK": {
       "name": "Jammu and Kashmir",
-      "confirmed": 125341,
-      "active": 622,
-      "recovered": 122768,
+      "confirmed": 125405,
+      "active": 617,
+      "recovered": 122837,
       "dead": 1951,
-      "updatedTime": "14/02/2021 18:49:36",
+      "updatedTime": "15/02/2021 20:13:25",
       "note": "",
       "stateCode": "JK",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 64,
+        "recovered": 69,
         "dead": 0,
-        "active": 0
+        "active": -5
       },
       "testing_data": {
         "tested": 4868541,
@@ -491,7 +491,7 @@
       "active": 615,
       "recovered": 93160,
       "dead": 1680,
-      "updatedTime": "15/02/2021 20:00:34",
+      "updatedTime": "15/02/2021 20:11:27",
       "note": "[Oct 30]: Metric of capturing the testing data has switched to \"Samples Tested\" from \"Samples Collected\"",
       "stateCode": "UT",
       "today": {
@@ -611,7 +611,7 @@
       "active": 76,
       "recovered": 28755,
       "dead": 373,
-      "updatedTime": "15/02/2021 20:00:37",
+      "updatedTime": "15/02/2021 20:11:29",
       "note": "[Dec 14]:824 out of 980 recovered cases are backdated.",
       "stateCode": "MN",
       "today": {
@@ -881,7 +881,7 @@
     }
   },
   "testing_data": {
-    "tested": 224094869,
+    "tested": 224125809,
     "positive": 204580,
     "negative": 38372026,
     "unconfirmed": 14020
@@ -891,9 +891,9 @@
     "source": "https://twitter.com/ICMRDELHI/status/1361154967537659907"
   },
   "today": {
-    "confirmed": 3477,
-    "recovered": 5957,
-    "dead": 24,
-    "active": -2504
+    "confirmed": 3585,
+    "recovered": 6105,
+    "dead": 26,
+    "active": -2546
   }
 }
