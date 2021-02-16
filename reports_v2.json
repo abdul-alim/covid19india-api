@@ -1,9 +1,9 @@
 {
-  "confirmed": 10930965,
-  "recovered": 10637172,
+  "confirmed": 10931025,
+  "recovered": 10637375,
   "dead": 155876,
-  "active": 133371,
-  "updatedTime": "16/2/2021 19:08:22",
+  "active": 133228,
+  "updatedTime": "16/2/2021 19:25:23",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -45,36 +45,36 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 17998276,
+        "tested": 18045304,
         "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "15/02/2021",
-        "source": "https://t.co/K9L23zs0II?amp=1"
+        "date": "16/02/2021",
+        "source": ""
       }
     },
     "AP": {
       "name": "Andhra Pradesh",
-      "confirmed": 888899,
-      "active": 695,
-      "recovered": 881041,
+      "confirmed": 888959,
+      "active": 615,
+      "recovered": 881181,
       "dead": 7163,
-      "updatedTime": "15/02/2021 20:11:24",
+      "updatedTime": "16/02/2021 19:25:26",
       "note": "",
       "stateCode": "AP",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 60,
+        "recovered": 140,
         "dead": 0,
-        "active": 0
+        "active": -80
       },
       "testing_data": {
-        "tested": 13565062,
+        "tested": 13589373,
         "positive": 0,
-        "negative": 12676163,
+        "negative": 12700414,
         "unconfirmed": 0,
-        "date": "15/2/2021",
-        "source": "https://twitter.com/ArogyaAndhra/status/1361308583992860672?s=20"
+        "date": "16/2/2021",
+        "source": "https://twitter.com/ArogyaAndhra/status/1361670384953659394"
       }
     },
     "TN": {
@@ -107,7 +107,7 @@
       "active": 60760,
       "recovered": 946910,
       "dead": 4017,
-      "updatedTime": "16/02/2021 19:08:24",
+      "updatedTime": "16/02/2021 19:14:28",
       "note": "Mahe native who expired in Kannur included in Kerala's deceased tally.\nSome non-covid deaths have also been reported in the bulletin.\nThese have been reduced from active count",
       "stateCode": "KL",
       "today": {
@@ -155,7 +155,7 @@
       "active": 2862,
       "recovered": 590787,
       "dead": 8704,
-      "updatedTime": "16/02/2021 19:08:26",
+      "updatedTime": "16/02/2021 19:14:29",
       "note": "[Jan 1]:As no bulletin was provided for 31'st Dec'20,its count has been combined with 1st Jan'21\n[Jan 9]:Due to reconcillation there are 1286 cases.",
       "stateCode": "UP",
       "today": {
@@ -200,17 +200,17 @@
     "OR": {
       "name": "Odisha",
       "confirmed": 336322,
-      "active": 720,
-      "recovered": 333637,
+      "active": 657,
+      "recovered": 333700,
       "dead": 1965,
-      "updatedTime": "16/02/2021 16:35:25",
+      "updatedTime": "16/02/2021 19:25:30",
       "note": "[July 12th] :20 non-covid deaths reported in state dashboard are included in the deceased count",
       "stateCode": "OR",
       "today": {
         "confirmed": 60,
-        "recovered": 0,
+        "recovered": 63,
         "dead": 1,
-        "active": 59
+        "active": -4
       },
       "testing_data": {
         "tested": 8061146,
@@ -333,12 +333,12 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 22018681,
+        "tested": 22055937,
         "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "15/02/2021",
-        "source": "https://twitter.com/BiharHealthDept/status/1361321924245155843?s=20"
+        "date": "16/02/2021",
+        "source": "https://twitter.com/BiharHealthDept/status/1361669745502654467"
       }
     },
     "GJ": {
@@ -443,7 +443,7 @@
       "active": 629,
       "recovered": 122883,
       "dead": 1951,
-      "updatedTime": "16/02/2021 19:08:28",
+      "updatedTime": "16/02/2021 19:14:33",
       "note": "",
       "stateCode": "JK",
       "today": {
@@ -539,7 +539,7 @@
       "active": 504,
       "recovered": 53035,
       "dead": 784,
-      "updatedTime": "16/02/2021 19:08:30",
+      "updatedTime": "16/02/2021 19:20:26",
       "note": "",
       "stateCode": "GA",
       "today": {
@@ -881,9 +881,9 @@
     }
   },
   "testing_data": {
-    "tested": 224669182,
+    "tested": 224777777,
     "positive": 204618,
-    "negative": 38434179,
+    "negative": 38458430,
     "unconfirmed": 13418
   },
   "testing_data_imcr": {
@@ -891,9 +891,9 @@
     "source": "http://twitter.com/ICMRDELHI/status/1361518286756798464"
   },
   "today": {
-    "confirmed": 5432,
-    "recovered": 6063,
+    "confirmed": 5492,
+    "recovered": 6266,
     "dead": 26,
-    "active": -657
+    "active": -800
   }
 }
