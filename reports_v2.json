@@ -1,9 +1,9 @@
 {
-  "confirmed": 10925533,
-  "recovered": 10631109,
-  "dead": 155850,
-  "active": 134028,
-  "updatedTime": "16/2/2021 16:06:23",
+  "confirmed": 10925722,
+  "recovered": 10631278,
+  "dead": 155852,
+  "active": 134046,
+  "updatedTime": "16/2/2021 16:20:23",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -199,18 +199,18 @@
     },
     "OR": {
       "name": "Odisha",
-      "confirmed": 336262,
-      "active": 661,
+      "confirmed": 336322,
+      "active": 720,
       "recovered": 333637,
-      "dead": 1964,
-      "updatedTime": "15/02/2021 19:40:31",
+      "dead": 1965,
+      "updatedTime": "16/02/2021 16:20:25",
       "note": "[July 12th] :20 non-covid deaths reported in state dashboard are included in the deceased count",
       "stateCode": "OR",
       "today": {
-        "confirmed": 0,
+        "confirmed": 60,
         "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "dead": 1,
+        "active": 59
       },
       "testing_data": {
         "tested": 8061146,
@@ -247,18 +247,18 @@
     },
     "TG": {
       "name": "Telangana",
-      "confirmed": 296666,
-      "active": 1669,
-      "recovered": 293379,
-      "dead": 1618,
-      "updatedTime": "15/02/2021 12:00:28",
+      "confirmed": 296795,
+      "active": 1628,
+      "recovered": 293548,
+      "dead": 1619,
+      "updatedTime": "16/02/2021 16:20:26",
       "note": "[July 27] : Telangana bulletin for the previous day is released on the next day. We will add the cases for Telangana against the date of release, as that is the convention that we are following for other states.",
       "stateCode": "TG",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 129,
+        "recovered": 169,
+        "dead": 1,
+        "active": -41
       },
       "testing_data": {
         "tested": 8336255,
@@ -419,7 +419,7 @@
       "active": 2357,
       "recovered": 168456,
       "dead": 5707,
-      "updatedTime": "16/02/2021 16:06:25",
+      "updatedTime": "16/02/2021 16:19:29",
       "note": "",
       "stateCode": "PB",
       "today": {
@@ -891,9 +891,9 @@
     "source": "http://twitter.com/ICMRDELHI/status/1361518286756798464"
   },
   "today": {
-    "confirmed": 0,
-    "recovered": 0,
-    "dead": 0,
-    "active": 0
+    "confirmed": 189,
+    "recovered": 169,
+    "dead": 2,
+    "active": 18
   }
 }
