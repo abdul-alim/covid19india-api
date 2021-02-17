@@ -1,9 +1,9 @@
 {
-  "confirmed": 10937126,
-  "recovered": 10642953,
-  "dead": 155949,
-  "active": 133672,
-  "updatedTime": "17/2/2021 09:39:22",
+  "confirmed": 10937274,
+  "recovered": 10643103,
+  "dead": 155950,
+  "active": 133669,
+  "updatedTime": "17/2/2021 11:13:23",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -247,26 +247,26 @@
     },
     "TG": {
       "name": "Telangana",
-      "confirmed": 296795,
-      "active": 1628,
-      "recovered": 293548,
-      "dead": 1619,
-      "updatedTime": "16/02/2021 16:35:26",
+      "confirmed": 296943,
+      "active": 1625,
+      "recovered": 293698,
+      "dead": 1620,
+      "updatedTime": "17/02/2021 11:12:23",
       "note": "[July 27] : Telangana bulletin for the previous day is released on the next day. We will add the cases for Telangana against the date of release, as that is the convention that we are following for other states.",
       "stateCode": "TG",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 148,
+        "recovered": 150,
+        "dead": 1,
+        "active": -3
       },
       "testing_data": {
-        "tested": 8336255,
+        "tested": 8360950,
         "positive": 0,
         "negative": 0,
-        "unconfirmed": 516,
-        "date": "16/02/2021",
-        "source": "https://twitter.com/IPRTelangana/status/1361531693522280448"
+        "unconfirmed": 0,
+        "date": "17/02/2021",
+        "source": "https://twitter.com/IPRTelangana/status/1361888052012982275"
       }
     },
     "CT": {
@@ -881,19 +881,19 @@
     }
   },
   "testing_data": {
-    "tested": 225022398,
+    "tested": 225047093,
     "positive": 204678,
     "negative": 38519677,
-    "unconfirmed": 13605
+    "unconfirmed": 13089
   },
   "testing_data_imcr": {
     "tested": 207977229,
     "source": "https://twitter.com/ICMRDELHI/status/1361879974995615746"
   },
   "today": {
-    "confirmed": 1,
-    "recovered": 0,
-    "dead": 0,
-    "active": 1
+    "confirmed": 149,
+    "recovered": 150,
+    "dead": 1,
+    "active": -2
   }
 }
