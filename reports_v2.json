@@ -1,9 +1,9 @@
 {
-  "confirmed": 10943829,
-  "recovered": 10649772,
-  "dead": 155984,
-  "active": 133521,
-  "updatedTime": "17/2/2021 20:58:22",
+  "confirmed": 10944165,
+  "recovered": 10650028,
+  "dead": 155986,
+  "active": 133599,
+  "updatedTime": "17/2/2021 21:17:32",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -55,18 +55,18 @@
     },
     "AP": {
       "name": "Andhra Pradesh",
-      "confirmed": 888959,
-      "active": 615,
-      "recovered": 881181,
-      "dead": 7163,
-      "updatedTime": "16/02/2021 19:44:26",
+      "confirmed": 889010,
+      "active": 607,
+      "recovered": 881238,
+      "dead": 7165,
+      "updatedTime": "17/02/2021 21:17:35",
       "note": "",
       "stateCode": "AP",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 51,
+        "recovered": 57,
+        "dead": 2,
+        "active": -8
       },
       "testing_data": {
         "tested": 13615847,
@@ -93,7 +93,7 @@
         "active": -14
       },
       "testing_data": {
-        "tested": 1616170,
+        "tested": 16916170,
         "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
@@ -165,12 +165,11 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 29916634,
+        "tested": 0,
         "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "17/02/2021",
-        "source": "https://twitter.com/ShishirGoUP/status/1361990798837907457"
+        "updated": false
       }
     },
     "WB": {
@@ -189,12 +188,11 @@
         "active": -118
       },
       "testing_data": {
-        "tested": 8349281,
+        "tested": 0,
         "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "17/02/2021",
-        "source": "https://www.wbhealth.gov.in/uploaded_files/corona/WB_DHFW_Bulletin_17th_FEBRUARY_REPORT_FINAL.pdf"
+        "updated": false
       }
     },
     "OR": {
@@ -264,7 +262,7 @@
         "tested": 8360950,
         "positive": 0,
         "negative": 0,
-        "unconfirmed": 0,
+        "unconfirmed": 459,
         "date": "17/02/2021",
         "source": "https://twitter.com/IPRTelangana/status/1361888052012982275"
       }
@@ -285,12 +283,12 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 4564098,
+        "tested": 4584157,
         "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "16/02/2021",
-        "source": "https://twitter.com/HealthCgGov/status/1361711330210680834"
+        "date": "17/02/2021",
+        "source": "https://twitter.com/HealthCgGov/status/1362062500536021174"
       }
     },
     "HR": {
@@ -367,18 +365,18 @@
     },
     "MP": {
       "name": "Madhya Pradesh",
-      "confirmed": 258082,
-      "active": 1856,
-      "recovered": 252385,
+      "confirmed": 258333,
+      "active": 1958,
+      "recovered": 252534,
       "dead": 3841,
-      "updatedTime": "16/02/2021 21:31:26",
+      "updatedTime": "17/02/2021 21:15:37",
       "note": "[Oct 14]: 4469 confirmed cases and 4469 recoveries added in MP bulletin as reconciliation with private labs and hospitals",
       "stateCode": "MP",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 251,
+        "recovered": 149,
         "dead": 0,
-        "active": 0
+        "active": 102
       },
       "testing_data": {
         "tested": 5603016,
@@ -501,28 +499,27 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 2286792,
+        "tested": 0,
         "positive": 0,
-        "negative": 2189828,
-        "unconfirmed": 6672,
-        "date": "17/02/2021",
-        "source": "https://twitter.com/DDnews_dehradun/status/1362041050089447428"
+        "negative": 0,
+        "unconfirmed": 0,
+        "updated": false
       }
     },
     "HP": {
       "name": "Himachal Pradesh",
-      "confirmed": 58262,
-      "active": 370,
-      "recovered": 56898,
+      "confirmed": 58296,
+      "active": 354,
+      "recovered": 56948,
       "dead": 981,
-      "updatedTime": "17/02/2021 09:39:24",
+      "updatedTime": "17/02/2021 21:17:39",
       "note": "",
       "stateCode": "HP",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 34,
+        "recovered": 50,
         "dead": 0,
-        "active": 0
+        "active": -16
       },
       "testing_data": {
         "tested": 1032535,
@@ -601,7 +598,7 @@
         "positive": 33352,
         "negative": 581828,
         "unconfirmed": 0,
-        "date": "17/02/2021",
+        "date": "16/02/2021",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/6397"
       }
     },
@@ -881,19 +878,19 @@
     }
   },
   "testing_data": {
-    "tested": 210277756,
+    "tested": 185045108,
     "positive": 204702,
-    "negative": 38612275,
-    "unconfirmed": 10793
+    "negative": 36422447,
+    "unconfirmed": 4580
   },
   "testing_data_imcr": {
     "tested": 207977229,
     "source": "https://twitter.com/ICMRDELHI/status/1361879974995615746"
   },
   "today": {
-    "confirmed": 6704,
-    "recovered": 6819,
-    "dead": 35,
-    "active": -150
+    "confirmed": 7040,
+    "recovered": 7075,
+    "dead": 37,
+    "active": -72
   }
 }
