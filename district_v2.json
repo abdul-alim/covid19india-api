@@ -2372,14 +2372,14 @@
       {
         "district": "Daman",
         "notes": "",
-        "active": 26,
-        "confirmed": 1414,
+        "active": 28,
+        "confirmed": 1416,
         "recovered": 1387,
         "dead": 1,
         "today": {
-          "confirmed": 0,
+          "confirmed": 2,
           "recovered": 0,
-          "active": 0,
+          "active": 2,
           "dead": 0
         }
       },
@@ -2399,8 +2399,8 @@
       }
     ],
     "today": {
-      "confirmed": 0,
-      "active": 0,
+      "confirmed": 2,
+      "active": 2,
       "recovered": 0,
       "dead": 0
     }
@@ -6625,14 +6625,14 @@
       {
         "district": "Aizawl",
         "notes": "",
-        "active": 11,
+        "active": 10,
         "confirmed": 2886,
-        "recovered": 2866,
+        "recovered": 2867,
         "dead": 9,
         "today": {
           "confirmed": 1,
-          "recovered": 0,
-          "active": 1,
+          "recovered": 1,
+          "active": 0,
           "dead": 0
         }
       },
@@ -6779,14 +6779,14 @@
     ],
     "today": {
       "confirmed": 1,
-      "active": 1,
-      "recovered": 0,
+      "active": 0,
+      "recovered": 1,
       "dead": 0
     },
     "confirmed": 4396,
-    "recovered": 4368,
+    "recovered": 4369,
     "dead": 10,
-    "active": 18
+    "active": 17
   },
   "NL": {
     "state": "Nagaland",
@@ -6808,14 +6808,14 @@
       {
         "district": "Dimapur",
         "notes": "",
-        "active": 87,
+        "active": 84,
         "confirmed": 6477,
-        "recovered": 6329,
+        "recovered": 6332,
         "dead": 61,
         "today": {
           "confirmed": 0,
-          "recovered": 0,
-          "active": 0,
+          "recovered": 3,
+          "active": -3,
           "dead": 0
         }
       },
@@ -6836,14 +6836,14 @@
       {
         "district": "Kohima",
         "notes": "",
-        "active": 73,
+        "active": 71,
         "confirmed": 3873,
-        "recovered": 3779,
+        "recovered": 3781,
         "dead": 21,
         "today": {
           "confirmed": 0,
-          "recovered": 0,
-          "active": 0,
+          "recovered": 2,
+          "active": -2,
           "dead": 0
         }
       },
@@ -6962,14 +6962,14 @@
     ],
     "today": {
       "confirmed": 0,
-      "active": 0,
-      "recovered": 0,
+      "active": -5,
+      "recovered": 5,
       "dead": 0
     },
     "confirmed": 12190,
-    "recovered": 11908,
+    "recovered": 11913,
     "dead": 90,
-    "active": 41
+    "active": 36
   },
   "OR": {
     "state": "Odisha",
@@ -7763,27 +7763,27 @@
       {
         "district": "Karaikal",
         "notes": "2 case of TN has been transferred,so has been reduced from the total count.",
-        "active": 27,
-        "confirmed": 3953,
-        "recovered": 3860,
-        "dead": 66,
+        "active": 23,
+        "confirmed": 3954,
+        "recovered": 3864,
+        "dead": 67,
         "today": {
-          "confirmed": 0,
-          "recovered": 0,
-          "active": 0,
-          "dead": 0
+          "confirmed": 1,
+          "recovered": 4,
+          "active": -4,
+          "dead": 1
         }
       },
       {
         "district": "Mahe",
         "notes": "1 case of KL have been transferred,so have been reduced from the total count",
         "active": 34,
-        "confirmed": 2142,
-        "recovered": 2098,
+        "confirmed": 2147,
+        "recovered": 2103,
         "dead": 10,
         "today": {
-          "confirmed": 0,
-          "recovered": 0,
+          "confirmed": 5,
+          "recovered": 5,
           "active": 0,
           "dead": 0
         }
@@ -7791,15 +7791,15 @@
       {
         "district": "Puducherry",
         "notes": "209 cases(204 of TN, 1 of AP and 4 other) have been transferred,so have been reduced from the total count.[July 18]4 cases have transferred to TN and have been reduced from recovered cases.",
-        "active": 152,
-        "confirmed": 31273,
-        "recovered": 30584,
-        "dead": 537,
+        "active": 145,
+        "confirmed": 31285,
+        "recovered": 30602,
+        "dead": 538,
         "today": {
-          "confirmed": 0,
-          "recovered": 0,
-          "active": 0,
-          "dead": 0
+          "confirmed": 12,
+          "recovered": 18,
+          "active": -7,
+          "dead": 1
         }
       },
       {
@@ -7818,15 +7818,15 @@
       }
     ],
     "today": {
-      "confirmed": 0,
-      "active": 0,
-      "recovered": 0,
-      "dead": 0
+      "confirmed": 18,
+      "active": -11,
+      "recovered": 27,
+      "dead": 2
     },
-    "confirmed": 39488,
-    "recovered": 38617,
-    "dead": 658,
-    "active": 213
+    "confirmed": 39506,
+    "recovered": 38644,
+    "dead": 660,
+    "active": 202
   },
   "RJ": {
     "state": "Rajasthan",
@@ -9013,15 +9013,15 @@
       {
         "district": "Chennai",
         "notes": "[July 22]: 444 backdated deceased entries added to Chennai in TN bulletin.",
-        "active": 1604,
+        "active": 1607,
         "confirmed": 233779,
         "recovered": 228048,
-        "dead": 4127,
+        "dead": 4124,
         "today": {
           "confirmed": 160,
           "recovered": 120,
-          "active": 37,
-          "dead": 3
+          "active": 40,
+          "dead": 0
         }
       },
       {
@@ -9503,14 +9503,14 @@
     ],
     "today": {
       "confirmed": 454,
-      "active": -17,
+      "active": -14,
       "recovered": 462,
-      "dead": 9
+      "dead": 6
     },
     "confirmed": 846480,
     "recovered": 829850,
-    "dead": 12441,
-    "active": 4189
+    "dead": 12438,
+    "active": 4192
   },
   "TR": {
     "state": "Tripura",

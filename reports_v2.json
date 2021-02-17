@@ -1,9 +1,9 @@
 {
-  "confirmed": 10942928,
-  "recovered": 10648600,
-  "dead": 155978,
-  "active": 133798,
-  "updatedTime": "17/2/2021 19:22:23",
+  "confirmed": 10942948,
+  "recovered": 10648633,
+  "dead": 155977,
+  "active": 133786,
+  "updatedTime": "17/2/2021 20:00:22",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -80,17 +80,17 @@
     "TN": {
       "name": "Tamil Nadu",
       "confirmed": 846480,
-      "active": 4189,
+      "active": 4192,
       "recovered": 829850,
-      "dead": 12441,
-      "updatedTime": "17/02/2021 19:15:24",
+      "dead": 12438,
+      "updatedTime": "17/02/2021 20:00:23",
       "note": "[July 22]: 444 backdated deceased entries added to Chennai in TN bulletin.\n2 deaths cross notified to other states from Chennai and Coimbatore.\n1 patient died after turning negative for infection in Chengalpattu.\nThese cases have been added to TN deceased tally",
       "stateCode": "TN",
       "today": {
         "confirmed": 454,
         "recovered": 462,
-        "dead": 9,
-        "active": -17
+        "dead": 6,
+        "active": -14
       },
       "testing_data": {
         "tested": 1616170,
@@ -333,12 +333,12 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 22055937,
+        "tested": 22086083,
         "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "16/02/2021",
-        "source": "https://twitter.com/BiharHealthDept/status/1361669745502654467"
+        "date": "17/02/2021",
+        "source": "https://twitter.com/BiharHealthDept/status/1362041018888056835"
       }
     },
     "GJ": {
@@ -554,23 +554,23 @@
         "negative": 0,
         "unconfirmed": 0,
         "date": "17/02/2021",
-        "source": "https://www.goa.gov.in/"
+        "source": "https://www.goa.gov.in/wp-content/uploads/2021/02/Media-Bulletin-17th-February-2021-.pdf"
       }
     },
     "PY": {
       "name": "Puducherry",
-      "confirmed": 39488,
-      "active": 213,
-      "recovered": 38617,
-      "dead": 658,
-      "updatedTime": "16/02/2021 20:16:34",
+      "confirmed": 39506,
+      "active": 202,
+      "recovered": 38644,
+      "dead": 660,
+      "updatedTime": "17/02/2021 20:00:34",
       "note": "",
       "stateCode": "PY",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 18,
+        "recovered": 27,
+        "dead": 2,
+        "active": -11
       },
       "testing_data": {
         "tested": 611825,
@@ -704,17 +704,17 @@
     "NL": {
       "name": "Nagaland",
       "confirmed": 12190,
-      "active": 41,
-      "recovered": 11908,
+      "active": 36,
+      "recovered": 11913,
       "dead": 90,
-      "updatedTime": "16/02/2021 18:24:26",
+      "updatedTime": "17/02/2021 20:00:37",
       "note": "",
       "stateCode": "NL",
       "today": {
         "confirmed": 0,
-        "recovered": 0,
+        "recovered": 5,
         "dead": 0,
-        "active": 0
+        "active": -5
       },
       "testing_data": {
         "tested": 128623,
@@ -800,17 +800,17 @@
     "MZ": {
       "name": "Mizoram",
       "confirmed": 4396,
-      "active": 18,
-      "recovered": 4368,
+      "active": 17,
+      "recovered": 4369,
       "dead": 10,
-      "updatedTime": "17/02/2021 09:39:25",
+      "updatedTime": "17/02/2021 20:00:38",
       "note": "",
       "stateCode": "MZ",
       "today": {
         "confirmed": 1,
-        "recovered": 0,
+        "recovered": 1,
         "dead": 0,
-        "active": 1
+        "active": 0
       },
       "testing_data": {
         "tested": 222475,
@@ -823,18 +823,18 @@
     },
     "DN": {
       "name": "Dadra and Nagar Haveli and Daman and Diu",
-      "confirmed": 3382,
-      "active": 2,
+      "confirmed": 3384,
+      "active": 4,
       "recovered": 3349,
       "dead": 2,
-      "updatedTime": "17/02/2021 09:21:35",
+      "updatedTime": "17/02/2021 20:00:40",
       "note": "",
       "stateCode": "DN",
       "today": {
-        "confirmed": 0,
+        "confirmed": 2,
         "recovered": 0,
         "dead": 0,
-        "active": 0
+        "active": 2
       },
       "isUnknown": true
     },
@@ -881,7 +881,7 @@
     }
   },
   "testing_data": {
-    "tested": 210123418,
+    "tested": 210153564,
     "positive": 204684,
     "negative": 38579382,
     "unconfirmed": 13250
@@ -891,9 +891,9 @@
     "source": "https://twitter.com/ICMRDELHI/status/1361879974995615746"
   },
   "today": {
-    "confirmed": 5803,
-    "recovered": 5647,
-    "dead": 29,
-    "active": 127
+    "confirmed": 5823,
+    "recovered": 5680,
+    "dead": 28,
+    "active": 115
   }
 }
