@@ -1,9 +1,9 @@
 {
-  "confirmed": 10949355,
-  "recovered": 10654405,
-  "dead": 156035,
-  "active": 134357,
-  "updatedTime": "17/2/2021 22:43:23",
+  "confirmed": 10949546,
+  "recovered": 10654706,
+  "dead": 156038,
+  "active": 134244,
+  "updatedTime": "17/2/2021 23:15:22",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -127,18 +127,18 @@
     },
     "DL": {
       "name": "Delhi",
-      "confirmed": 637181,
-      "active": 1019,
-      "recovered": 625268,
+      "confirmed": 637315,
+      "active": 1078,
+      "recovered": 625343,
       "dead": 10894,
-      "updatedTime": "16/02/2021 18:24:24",
+      "updatedTime": "17/02/2021 23:15:23",
       "note": "[July 14]: Value for the total tests conducted has been reduced by 97008 in the state bulletin. Reason given : \"Reconciled with ICMR figures\". We have made the same change.",
       "stateCode": "DL",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 134,
+        "recovered": 75,
         "dead": 0,
-        "active": 0
+        "active": 59
       },
       "testing_data": {
         "tested": 11664901,
@@ -151,18 +151,18 @@
     },
     "UP": {
       "name": "Uttar Pradesh",
-      "confirmed": 602353,
-      "active": 2862,
-      "recovered": 590787,
-      "dead": 8704,
-      "updatedTime": "17/02/2021 19:15:27",
+      "confirmed": 602410,
+      "active": 2690,
+      "recovered": 591013,
+      "dead": 8707,
+      "updatedTime": "17/02/2021 23:15:25",
       "note": "[Jan 1]:As no bulletin was provided for 31'st Dec'20,its count has been combined with 1st Jan'21\n[Jan 9]:Due to reconcillation there are 1286 cases.",
       "stateCode": "UP",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 57,
+        "recovered": 226,
+        "dead": 3,
+        "active": -172
       },
       "testing_data": {
         "tested": 29916634,
@@ -891,9 +891,9 @@
     "source": "https://twitter.com/ICMRDELHI/status/1361879974995615746"
   },
   "today": {
-    "confirmed": 12227,
-    "recovered": 11449,
-    "dead": 86,
-    "active": 692
+    "confirmed": 12418,
+    "recovered": 11750,
+    "dead": 89,
+    "active": 579
   }
 }
