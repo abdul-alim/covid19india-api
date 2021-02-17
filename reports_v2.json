@@ -1,9 +1,9 @@
 {
-  "confirmed": 10937351,
-  "recovered": 10643225,
-  "dead": 155952,
-  "active": 133622,
-  "updatedTime": "17/2/2021 18:33:23",
+  "confirmed": 10942928,
+  "recovered": 10648600,
+  "dead": 155978,
+  "active": 133798,
+  "updatedTime": "17/2/2021 19:08:30",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -79,18 +79,18 @@
     },
     "TN": {
       "name": "Tamil Nadu",
-      "confirmed": 846026,
-      "active": 4206,
-      "recovered": 829388,
-      "dead": 12432,
-      "updatedTime": "16/02/2021 20:58:43",
+      "confirmed": 846480,
+      "active": 4189,
+      "recovered": 829850,
+      "dead": 12441,
+      "updatedTime": "17/02/2021 19:07:46",
       "note": "[July 22]: 444 backdated deceased entries added to Chennai in TN bulletin.\n2 deaths cross notified to other states from Chennai and Coimbatore.\n1 patient died after turning negative for infection in Chengalpattu.\nThese cases have been added to TN deceased tally",
       "stateCode": "TN",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 454,
+        "recovered": 462,
+        "dead": 9,
+        "active": -17
       },
       "testing_data": {
         "tested": 1616170,
@@ -103,18 +103,18 @@
     },
     "KL": {
       "name": "Kerala",
-      "confirmed": 1011957,
-      "active": 60760,
-      "recovered": 946910,
-      "dead": 4017,
-      "updatedTime": "16/02/2021 19:14:28",
+      "confirmed": 1016849,
+      "active": 60804,
+      "recovered": 951742,
+      "dead": 4033,
+      "updatedTime": "17/02/2021 19:08:33",
       "note": "Mahe native who expired in Kannur included in Kerala's deceased tally.\nSome non-covid deaths have also been reported in the bulletin.\nThese have been reduced from active count",
       "stateCode": "KL",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 4892,
+        "recovered": 4832,
+        "dead": 16,
+        "active": 44
       },
       "testing_data": {
         "tested": 10771847,
@@ -152,17 +152,17 @@
     "UP": {
       "name": "Uttar Pradesh",
       "confirmed": 602353,
-      "active": 2738,
-      "recovered": 590909,
-      "dead": 8706,
-      "updatedTime": "17/02/2021 18:33:26",
+      "active": 2862,
+      "recovered": 590787,
+      "dead": 8704,
+      "updatedTime": "17/02/2021 19:08:00",
       "note": "[Jan 1]:As no bulletin was provided for 31'st Dec'20,its count has been combined with 1st Jan'21\n[Jan 9]:Due to reconcillation there are 1286 cases.",
       "stateCode": "UP",
       "today": {
         "confirmed": 0,
-        "recovered": 49,
-        "dead": 2,
-        "active": -51
+        "recovered": 0,
+        "dead": 0,
+        "active": 0
       },
       "testing_data": {
         "tested": 29916634,
@@ -223,26 +223,26 @@
     },
     "RJ": {
       "name": "Rajasthan",
-      "confirmed": 319065,
-      "active": 1257,
-      "recovered": 315027,
-      "dead": 2781,
-      "updatedTime": "16/02/2021 20:16:27",
+      "confirmed": 319166,
+      "active": 1249,
+      "recovered": 315135,
+      "dead": 2782,
+      "updatedTime": "17/02/2021 19:08:35",
       "note": "",
       "stateCode": "RJ",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 101,
+        "recovered": 108,
+        "dead": 1,
+        "active": -8
       },
       "testing_data": {
-        "tested": 6111693,
+        "tested": 6126862,
         "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "16/02/2021",
-        "source": "https://twitter.com/airnews_jaipur/status/1361677003800338432"
+        "date": "17/02/2021",
+        "source": "https://twitter.com/airnews_jaipur/status/1362027116758409219"
       }
     },
     "TG": {
@@ -439,18 +439,18 @@
     },
     "JK": {
       "name": "Jammu and Kashmir",
-      "confirmed": 125463,
-      "active": 629,
-      "recovered": 122883,
+      "confirmed": 125547,
+      "active": 657,
+      "recovered": 122939,
       "dead": 1951,
-      "updatedTime": "16/02/2021 19:14:33",
+      "updatedTime": "17/02/2021 19:08:06",
       "note": "",
       "stateCode": "JK",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 84,
+        "recovered": 56,
         "dead": 0,
-        "active": 0
+        "active": 28
       },
       "testing_data": {
         "tested": 4917708,
@@ -535,18 +535,18 @@
     },
     "GA": {
       "name": "Goa",
-      "confirmed": 54323,
-      "active": 504,
-      "recovered": 53035,
-      "dead": 784,
-      "updatedTime": "16/02/2021 19:20:26",
+      "confirmed": 54369,
+      "active": 509,
+      "recovered": 53074,
+      "dead": 786,
+      "updatedTime": "17/02/2021 19:08:08",
       "note": "",
       "stateCode": "GA",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 46,
+        "recovered": 39,
+        "dead": 2,
+        "active": 5
       },
       "testing_data": {
         "tested": 476682,
@@ -881,7 +881,7 @@
     }
   },
   "testing_data": {
-    "tested": 210101180,
+    "tested": 210116349,
     "positive": 204684,
     "negative": 38572508,
     "unconfirmed": 13089
@@ -891,9 +891,9 @@
     "source": "https://twitter.com/ICMRDELHI/status/1361879974995615746"
   },
   "today": {
-    "confirmed": 226,
-    "recovered": 199,
-    "dead": 3,
-    "active": 24
+    "confirmed": 5803,
+    "recovered": 5647,
+    "dead": 29,
+    "active": 127
   }
 }
