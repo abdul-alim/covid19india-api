@@ -1,9 +1,9 @@
 {
-  "confirmed": 10962086,
-  "recovered": 10664971,
+  "confirmed": 10962106,
+  "recovered": 10664994,
   "dead": 156121,
-  "active": 136419,
-  "updatedTime": "18/2/2021 21:27:28",
+  "active": 136416,
+  "updatedTime": "18/2/2021 21:47:22",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -71,7 +71,7 @@
       "testing_data": {
         "tested": 13644086,
         "positive": 0,
-        "negative": 0,
+        "negative": 12755009,
         "unconfirmed": 0,
         "date": "18/2/2021",
         "source": "https://twitter.com/ArogyaAndhra/status/1362429021464580099"
@@ -131,7 +131,7 @@
       "active": 1053,
       "recovered": 625496,
       "dead": 10896,
-      "updatedTime": "18/02/2021 21:27:31",
+      "updatedTime": "18/02/2021 21:34:26",
       "note": "[July 14]: Value for the total tests conducted has been reduced by 97008 in the state bulletin. Reason given : \"Reconciled with ICMR figures\". We have made the same change.",
       "stateCode": "DL",
       "today": {
@@ -179,7 +179,7 @@
       "active": 3672,
       "recovered": 559282,
       "dead": 10239,
-      "updatedTime": "18/02/2021 21:27:32",
+      "updatedTime": "18/02/2021 21:45:53",
       "note": "",
       "stateCode": "WB",
       "today": {
@@ -194,7 +194,7 @@
         "negative": 0,
         "unconfirmed": 0,
         "date": "18/02/2021",
-        "source": ""
+        "source": "https://www.wbhealth.gov.in/uploaded_files/corona/WB_DHFW_Bulletin_18th_FEBRUARY_REPORT_FINAL.pdf"
       }
     },
     "OR": {
@@ -275,7 +275,7 @@
       "active": 3005,
       "recovered": 303415,
       "dead": 3790,
-      "updatedTime": "18/02/2021 21:27:37",
+      "updatedTime": "18/02/2021 21:45:55",
       "note": "",
       "stateCode": "CT",
       "today": {
@@ -381,12 +381,12 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 5618355,
+        "tested": 5632931,
         "positive": 0,
-        "negative": 5230529,
+        "negative": 5244864,
         "unconfirmed": 0,
-        "date": "17/02/2021",
-        "source": "https://twitter.com/healthminmp/status/1362057440443785217"
+        "date": "18/02/2021",
+        "source": "https://twitter.com/healthminmp/status/1362432982489866240"
       }
     },
     "AS": {
@@ -515,7 +515,7 @@
       "active": 301,
       "recovered": 57017,
       "dead": 981,
-      "updatedTime": "18/02/2021 21:27:44",
+      "updatedTime": "18/02/2021 21:34:33",
       "note": "",
       "stateCode": "HP",
       "today": {
@@ -559,18 +559,18 @@
     },
     "PY": {
       "name": "Puducherry",
-      "confirmed": 39506,
-      "active": 202,
-      "recovered": 38644,
+      "confirmed": 39526,
+      "active": 199,
+      "recovered": 38667,
       "dead": 660,
-      "updatedTime": "17/02/2021 20:11:39",
+      "updatedTime": "18/02/2021 21:47:24",
       "note": "",
       "stateCode": "PY",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 20,
+        "recovered": 23,
         "dead": 0,
-        "active": 0
+        "active": -3
       },
       "testing_data": {
         "tested": 615362,
@@ -611,7 +611,7 @@
       "active": 83,
       "recovered": 28769,
       "dead": 373,
-      "updatedTime": "18/02/2021 21:27:47",
+      "updatedTime": "18/02/2021 21:34:35",
       "note": "[Dec 14]:824 out of 980 recovered cases are backdated.",
       "stateCode": "MN",
       "today": {
@@ -861,7 +861,7 @@
       "active": 96,
       "recovered": 164,
       "dead": 0,
-      "updatedTime": "18/02/2021 21:26:59",
+      "updatedTime": "18/02/2021 21:34:38",
       "note": "",
       "stateCode": "LD",
       "today": {
@@ -881,9 +881,9 @@
     }
   },
   "testing_data": {
-    "tested": 226467279,
+    "tested": 226481855,
     "positive": 204770,
-    "negative": 25973256,
+    "negative": 38742600,
     "unconfirmed": 13564
   },
   "testing_data_imcr": {
@@ -891,9 +891,9 @@
     "source": "https://twitter.com/ICMRDELHI/status/1362240154283298818"
   },
   "today": {
-    "confirmed": 12440,
-    "recovered": 10169,
+    "confirmed": 12460,
+    "recovered": 10192,
     "dead": 82,
-    "active": 2189
+    "active": 2186
   }
 }
