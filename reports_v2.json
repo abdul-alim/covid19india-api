@@ -1,9 +1,9 @@
 {
-  "confirmed": 10962839,
-  "recovered": 10665495,
-  "dead": 156136,
-  "active": 136632,
-  "updatedTime": "19/2/2021 10:24:24",
+  "confirmed": 10963272,
+  "recovered": 10665813,
+  "dead": 156147,
+  "active": 136736,
+  "updatedTime": "19/2/2021 10:59:23",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -247,26 +247,26 @@
     },
     "TG": {
       "name": "Telangana",
-      "confirmed": 297106,
-      "active": 1685,
-      "recovered": 293799,
-      "dead": 1622,
-      "updatedTime": "18/02/2021 20:17:39",
+      "confirmed": 297271,
+      "active": 1700,
+      "recovered": 293948,
+      "dead": 1623,
+      "updatedTime": "19/02/2021 10:59:24",
       "note": "[July 27] : Telangana bulletin for the previous day is released on the next day. We will add the cases for Telangana against the date of release, as that is the convention that we are following for other states.",
       "stateCode": "TG",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 165,
+        "recovered": 149,
+        "dead": 1,
+        "active": 15
       },
       "testing_data": {
-        "tested": 8385870,
+        "tested": 8409631,
         "positive": 0,
         "negative": 0,
-        "unconfirmed": 637,
-        "date": "18/02/2021",
-        "source": "https://twitter.com/IPRTelangana/status/1362257115524390916"
+        "unconfirmed": 440,
+        "date": "19/02/2021",
+        "source": "https://twitter.com/IPRTelangana/status/1362604073258680322"
       }
     },
     "CT": {
@@ -415,11 +415,11 @@
     },
     "PB": {
       "name": "Punjab",
-      "confirmed": 177108,
-      "active": 2553,
-      "recovered": 168833,
-      "dead": 5722,
-      "updatedTime": "19/02/2021 10:24:27",
+      "confirmed": 177376,
+      "active": 2642,
+      "recovered": 169002,
+      "dead": 5732,
+      "updatedTime": "19/02/2021 10:58:27",
       "note": "",
       "stateCode": "PB",
       "today": {
@@ -789,12 +789,12 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 251774,
+        "tested": 253718,
         "positive": 5014,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "17/02/2021",
-        "source": "https://dhs.andaman.gov.in/NewEvents/571.pdf"
+        "date": "18/02/2021",
+        "source": "https://dhs.andaman.gov.in/NewEvents/572.pdf"
       }
     },
     "MZ": {
@@ -881,19 +881,19 @@
     }
   },
   "testing_data": {
-    "tested": 226540727,
+    "tested": 226566432,
     "positive": 204808,
     "negative": 38757073,
-    "unconfirmed": 13564
+    "unconfirmed": 13367
   },
   "testing_data_imcr": {
     "tested": 209474862,
     "source": "https://twitter.com/ICMRDELHI/status/1362607186510192646"
   },
   "today": {
-    "confirmed": 0,
-    "recovered": 0,
-    "dead": 0,
-    "active": 0
+    "confirmed": 165,
+    "recovered": 149,
+    "dead": 1,
+    "active": 15
   }
 }
