@@ -1,9 +1,9 @@
 {
-  "confirmed": 10963681,
-  "recovered": 10666280,
-  "dead": 156154,
+  "confirmed": 10963839,
+  "recovered": 10666437,
+  "dead": 156155,
   "active": 136671,
-  "updatedTime": "19/2/2021 18:16:27",
+  "updatedTime": "19/2/2021 18:34:28",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -59,7 +59,7 @@
       "active": 620,
       "recovered": 881369,
       "dead": 7167,
-      "updatedTime": "19/02/2021 18:16:30",
+      "updatedTime": "19/02/2021 18:34:31",
       "note": "",
       "stateCode": "AP",
       "today": {
@@ -127,26 +127,26 @@
     },
     "DL": {
       "name": "Delhi",
-      "confirmed": 637445,
+      "confirmed": 637603,
       "active": 1053,
-      "recovered": 625496,
-      "dead": 10896,
+      "recovered": 625653,
+      "dead": 10897,
       "updatedTime": "18/02/2021 21:34:26",
       "note": "[July 14]: Value for the total tests conducted has been reduced by 97008 in the state bulletin. Reason given : \"Reconciled with ICMR figures\". We have made the same change.",
       "stateCode": "DL",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
+        "confirmed": 158,
+        "recovered": 157,
+        "dead": 1,
         "active": 0
       },
       "testing_data": {
-        "tested": 11785228,
+        "tested": 11846064,
         "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "18/02/2021",
-        "source": "https://twitter.com/ANI/status/1362424064590057476"
+        "date": "19/02/2021",
+        "source": "https://twitter.com/ANI/status/1362741070421913601"
       }
     },
     "UP": {
@@ -443,7 +443,7 @@
       "active": 702,
       "recovered": 123059,
       "dead": 1954,
-      "updatedTime": "19/02/2021 18:16:35",
+      "updatedTime": "19/02/2021 18:29:30",
       "note": "",
       "stateCode": "JK",
       "today": {
@@ -501,12 +501,12 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 2294135,
+        "tested": 2303686,
         "positive": 0,
-        "negative": 2197130,
-        "unconfirmed": 8249,
-        "date": "18/02/2021",
-        "source": "https://twitter.com/DDnews_dehradun/status/1362385220570279943"
+        "negative": 2206655,
+        "unconfirmed": 9602,
+        "date": "19/02/2021",
+        "source": "https://twitter.com/DDnews_dehradun/status/1362745731585433601"
       }
     },
     "HP": {
@@ -539,7 +539,7 @@
       "active": 498,
       "recovered": 53181,
       "dead": 787,
-      "updatedTime": "19/02/2021 18:16:37",
+      "updatedTime": "19/02/2021 18:29:32",
       "note": "",
       "stateCode": "GA",
       "today": {
@@ -881,19 +881,19 @@
     }
   },
   "testing_data": {
-    "tested": 226779265,
+    "tested": 226849652,
     "positive": 204808,
-    "negative": 38808260,
-    "unconfirmed": 13367
+    "negative": 38817785,
+    "unconfirmed": 14720
   },
   "testing_data_imcr": {
     "tested": 209474862,
     "source": "https://twitter.com/ICMRDELHI/status/1362607186510192646"
   },
   "today": {
-    "confirmed": 429,
-    "recovered": 359,
-    "dead": 4,
+    "confirmed": 587,
+    "recovered": 516,
+    "dead": 5,
     "active": 66
   }
 }
