@@ -1,9 +1,9 @@
 {
-  "confirmed": 10990603,
-  "recovered": 10686936,
-  "dead": 156332,
-  "active": 142811,
-  "updatedTime": "20/2/2021 21:46:26",
+  "confirmed": 10990976,
+  "recovered": 10687330,
+  "dead": 156337,
+  "active": 142785,
+  "updatedTime": "20/2/2021 22:29:28",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -35,7 +35,7 @@
       "active": 5978,
       "recovered": 929447,
       "dead": 12292,
-      "updatedTime": "20/02/2021 21:46:27",
+      "updatedTime": "20/02/2021 22:04:41",
       "note": "",
       "stateCode": "KA",
       "today": {
@@ -200,17 +200,17 @@
     "OR": {
       "name": "Odisha",
       "confirmed": 336578,
-      "active": 631,
-      "recovered": 333980,
+      "active": 558,
+      "recovered": 334053,
       "dead": 1967,
-      "updatedTime": "20/02/2021 19:13:40",
+      "updatedTime": "20/02/2021 22:29:30",
       "note": "[July 12th] :20 non-covid deaths reported in state dashboard are included in the deceased count",
       "stateCode": "OR",
       "today": {
         "confirmed": 65,
-        "recovered": 0,
+        "recovered": 73,
         "dead": 0,
-        "active": 65
+        "active": -8
       },
       "testing_data": {
         "tested": 8147058,
@@ -275,7 +275,7 @@
       "active": 3102,
       "recovered": 303835,
       "dead": 3795,
-      "updatedTime": "20/02/2021 21:46:29",
+      "updatedTime": "20/02/2021 22:04:47",
       "note": "",
       "stateCode": "CT",
       "today": {
@@ -367,50 +367,50 @@
     },
     "MP": {
       "name": "Madhya Pradesh",
-      "confirmed": 258871,
-      "active": 1954,
-      "recovered": 253071,
-      "dead": 3846,
-      "updatedTime": "19/02/2021 23:40:33",
+      "confirmed": 259128,
+      "active": 1994,
+      "recovered": 253284,
+      "dead": 3850,
+      "updatedTime": "20/02/2021 22:29:32",
       "note": "[Oct 14]: 4469 confirmed cases and 4469 recoveries added in MP bulletin as reconciliation with private labs and hospitals",
       "stateCode": "MP",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 257,
+        "recovered": 213,
+        "dead": 4,
+        "active": 40
       },
       "testing_data": {
-        "tested": 5647841,
+        "tested": 5662175,
         "positive": 0,
-        "negative": 5259477,
+        "negative": 5273554,
         "unconfirmed": 0,
-        "date": "19/02/2021",
-        "source": "https://twitter.com/healthminmp/status/1362804939215368196"
+        "date": "20/02/2021",
+        "source": "https://twitter.com/healthminmp/status/1363157600188080128"
       }
     },
     "AS": {
       "name": "Assam",
-      "confirmed": 217367,
-      "active": 271,
-      "recovered": 214658,
+      "confirmed": 217383,
+      "active": 269,
+      "recovered": 214676,
       "dead": 1091,
-      "updatedTime": "19/02/2021 22:04:24",
+      "updatedTime": "20/02/2021 22:29:34",
       "note": "[Jan 1]: 1347 cases i.e Covid +'tive patients dead for other reasons have been deducted fom active count.",
       "stateCode": "AS",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 16,
+        "recovered": 18,
         "dead": 0,
-        "active": 0
+        "active": -2
       },
       "testing_data": {
-        "tested": 6741534,
+        "tested": 6755773,
         "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "19/02/2021",
-        "source": "https://twitter.com/nhm_assam/status/1362791897165533189"
+        "date": "20/02/2021",
+        "source": "https://twitter.com/nhm_assam/status/1363160363483557888"
       }
     },
     "PB": {
@@ -419,7 +419,7 @@
       "active": 2883,
       "recovered": 169480,
       "dead": 5748,
-      "updatedTime": "20/02/2021 21:46:32",
+      "updatedTime": "20/02/2021 22:04:52",
       "note": "",
       "stateCode": "PB",
       "today": {
@@ -463,26 +463,26 @@
     },
     "JH": {
       "name": "Jharkhand",
-      "confirmed": 119528,
-      "active": 467,
-      "recovered": 117977,
+      "confirmed": 119565,
+      "active": 459,
+      "recovered": 118022,
       "dead": 1084,
-      "updatedTime": "18/02/2021 22:48:30",
+      "updatedTime": "20/02/2021 22:29:36",
       "note": "",
       "stateCode": "JH",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 37,
+        "recovered": 45,
         "dead": 0,
-        "active": 0
+        "active": -8
       },
       "testing_data": {
-        "tested": 5415597,
-        "positive": 119528,
-        "negative": 5296069,
+        "tested": 5431160,
+        "positive": 119565,
+        "negative": 5311595,
         "unconfirmed": 0,
-        "date": "19/02/2021",
-        "source": "https://twitter.com/rnuddkranchi/status/1362811752019238913"
+        "date": "20/02/2021",
+        "source": "https://twitter.com/rnuddkranchi/status/1363166580318695426"
       }
     },
     "UT": {
@@ -559,18 +559,18 @@
     },
     "PY": {
       "name": "Puducherry",
-      "confirmed": 39540,
-      "active": 177,
-      "recovered": 38701,
+      "confirmed": 39569,
+      "active": 188,
+      "recovered": 38719,
       "dead": 662,
-      "updatedTime": "20/02/2021 12:00:27",
+      "updatedTime": "20/02/2021 22:29:38",
       "note": "",
       "stateCode": "PY",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 29,
+        "recovered": 18,
         "dead": 0,
-        "active": 0
+        "active": 11
       },
       "testing_data": {
         "tested": 618788,
@@ -607,18 +607,18 @@
     },
     "MN": {
       "name": "Manipur",
-      "confirmed": 29230,
-      "active": 85,
-      "recovered": 28772,
+      "confirmed": 29233,
+      "active": 84,
+      "recovered": 28776,
       "dead": 373,
-      "updatedTime": "19/02/2021 20:40:04",
+      "updatedTime": "20/02/2021 22:29:40",
       "note": "[Dec 14]:824 out of 980 recovered cases are backdated.",
       "stateCode": "MN",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 3,
+        "recovered": 4,
         "dead": 0,
-        "active": 0
+        "active": -1
       },
       "testing_data": {
         "tested": 541446,
@@ -631,26 +631,26 @@
     },
     "CH": {
       "name": "Chandigarh",
-      "confirmed": 21371,
-      "active": 156,
-      "recovered": 20867,
-      "dead": 348,
-      "updatedTime": "19/02/2021 22:04:26",
+      "confirmed": 21397,
+      "active": 169,
+      "recovered": 20879,
+      "dead": 349,
+      "updatedTime": "20/02/2021 22:29:42",
       "note": "",
       "stateCode": "CH",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 26,
+        "recovered": 12,
+        "dead": 1,
+        "active": 13
       },
       "testing_data": {
-        "tested": 240935,
+        "tested": 242302,
         "positive": 0,
-        "negative": 218619,
-        "unconfirmed": 177,
-        "date": "19/02/2021",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/6545"
+        "negative": 219960,
+        "unconfirmed": 185,
+        "date": "20/02/2021",
+        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/6596"
       }
     },
     "AR": {
@@ -669,12 +669,12 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 403063,
+        "tested": 403289,
         "positive": 0,
-        "negative": 373876,
+        "negative": 374102,
         "unconfirmed": 0,
-        "date": "19/02/2021",
-        "source": "https://twitter.com/DirectorateofHS/status/1362776619824291844?s=20"
+        "date": "20/02/2021",
+        "source": "https://twitter.com/DirectorateofHS/status/1363149719657082890"
       }
     },
     "ML": {
@@ -693,12 +693,12 @@
         "active": -12
       },
       "testing_data": {
-        "tested": 358903,
+        "tested": 360092,
         "positive": 0,
-        "negative": 344952,
+        "negative": 346140,
         "unconfirmed": 0,
-        "date": "19/02/2021",
-        "source": "https://www.uniindia.com/five-more-covid-19-case-24-recoveries-in-meghalaya/east/news/2323509.html"
+        "date": "20/02/2021",
+        "source": "https://www.syllad.com/meghalaya-records-26-covid-19-active-cases/"
       }
     },
     "NL": {
@@ -857,18 +857,18 @@
     },
     "LD": {
       "name": "Laccadives",
-      "confirmed": 272,
-      "active": 91,
-      "recovered": 178,
+      "confirmed": 277,
+      "active": 85,
+      "recovered": 189,
       "dead": 0,
-      "updatedTime": "19/02/2021 20:31:33",
+      "updatedTime": "20/02/2021 22:29:44",
       "note": "",
       "stateCode": "LD",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 5,
+        "recovered": 11,
         "dead": 0,
-        "active": 0
+        "active": -6
       },
       "testing_data": {
         "tested": 22895,
@@ -881,19 +881,19 @@
     }
   },
   "testing_data": {
-    "tested": 227882724,
-    "positive": 204937,
-    "negative": 26163211,
-    "unconfirmed": 13208
+    "tested": 227929642,
+    "positive": 204974,
+    "negative": 26195569,
+    "unconfirmed": 13216
   },
   "testing_data_imcr": {
     "tested": 210261480,
     "source": "https://twitter.com/ICMRDELHI/status/1362968214427234304"
   },
   "today": {
-    "confirmed": 13430,
-    "recovered": 10814,
-    "dead": 82,
-    "active": 2534
+    "confirmed": 13803,
+    "recovered": 11208,
+    "dead": 87,
+    "active": 2508
   }
 }
