@@ -1,9 +1,9 @@
 {
-  "confirmed": 10977367,
-  "recovered": 10676287,
-  "dead": 156250,
-  "active": 140242,
-  "updatedTime": "20/2/2021 12:21:21",
+  "confirmed": 10977521,
+  "recovered": 10676458,
+  "dead": 156251,
+  "active": 140224,
+  "updatedTime": "20/2/2021 18:32:29",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -127,18 +127,18 @@
     },
     "DL": {
       "name": "Delhi",
-      "confirmed": 637603,
-      "active": 1053,
-      "recovered": 625653,
-      "dead": 10897,
-      "updatedTime": "18/02/2021 21:34:26",
+      "confirmed": 637755,
+      "active": 1025,
+      "recovered": 625832,
+      "dead": 10898,
+      "updatedTime": "20/02/2021 18:32:31",
       "note": "[July 14]: Value for the total tests conducted has been reduced by 97008 in the state bulletin. Reason given : \"Reconciled with ICMR figures\". We have made the same change.",
       "stateCode": "DL",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 152,
+        "recovered": 179,
+        "dead": 1,
+        "active": -28
       },
       "testing_data": {
         "tested": 11846064,
@@ -248,10 +248,10 @@
     "TG": {
       "name": "Telangana",
       "confirmed": 297435,
-      "active": 1707,
-      "recovered": 294105,
+      "active": 1715,
+      "recovered": 294097,
       "dead": 1623,
-      "updatedTime": "20/02/2021 11:41:34",
+      "updatedTime": "20/02/2021 18:32:37",
       "note": "[July 27] : Telangana bulletin for the previous day is released on the next day. We will add the cases for Telangana against the date of release, as that is the convention that we are following for other states.",
       "stateCode": "TG",
       "today": {
@@ -799,18 +799,18 @@
     },
     "MZ": {
       "name": "Mizoram",
-      "confirmed": 4405,
-      "active": 22,
+      "confirmed": 4407,
+      "active": 24,
       "recovered": 4373,
       "dead": 10,
-      "updatedTime": "19/02/2021 18:02:29",
+      "updatedTime": "20/02/2021 18:32:40",
       "note": "",
       "stateCode": "MZ",
       "today": {
-        "confirmed": 0,
+        "confirmed": 2,
         "recovered": 0,
         "dead": 0,
-        "active": 0
+        "active": 2
       },
       "testing_data": {
         "tested": 224471,
@@ -891,9 +891,9 @@
     "source": "https://twitter.com/ICMRDELHI/status/1362968214427234304"
   },
   "today": {
-    "confirmed": 192,
-    "recovered": 157,
-    "dead": 0,
-    "active": 35
+    "confirmed": 346,
+    "recovered": 336,
+    "dead": 1,
+    "active": 9
   }
 }
