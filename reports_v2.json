@@ -1,24 +1,24 @@
 {
-  "confirmed": 11004795,
-  "recovered": 10696696,
-  "dead": 156411,
-  "active": 147150,
-  "updatedTime": "21/2/2021 21:26:24",
+  "confirmed": 11004887,
+  "recovered": 10696840,
+  "dead": 156412,
+  "active": 147096,
+  "updatedTime": "21/2/2021 21:46:26",
   "states": {
     "MH": {
       "name": "Maharashtra",
       "confirmed": 2100884,
-      "active": 52937,
-      "recovered": 1994967,
+      "active": 52956,
+      "recovered": 1994947,
       "dead": 51788,
-      "updatedTime": "21/02/2021 21:26:25",
+      "updatedTime": "21/02/2021 21:46:28",
       "note": "[Dec 16]:10,218 duplicate cases & other state cases removed from total cases.791 recovered cases also removed from total recovered cases while reconciling \n[Sep 9] :239 cases have been removed from the hospitalized figures owing to the removal of duplicates and change of addresses as per the original residence\n[Aug 15] : MH bulletin has reduced 819 confirmed cases in Mumbai and 72 confirmed cases from 'Other States' from the tally\n[Jun 16] : 1328 deceased cases have been retroactively added to MH bulletin.\n[Jun 20] : 69 deceased cases have been reduced based on state bulletin.",
       "stateCode": "MH",
       "today": {
         "confirmed": 6971,
-        "recovered": 2437,
+        "recovered": 2417,
         "dead": 35,
-        "active": 4499
+        "active": 4519
       },
       "testing_data": {
         "tested": 15720259,
@@ -151,18 +151,18 @@
     },
     "UP": {
       "name": "Uttar Pradesh",
-      "confirmed": 602706,
-      "active": 2433,
-      "recovered": 591559,
-      "dead": 8714,
-      "updatedTime": "21/02/2021 21:26:27",
+      "confirmed": 602785,
+      "active": 2370,
+      "recovered": 591700,
+      "dead": 8715,
+      "updatedTime": "21/02/2021 21:46:29",
       "note": "[Jan 1]:As no bulletin was provided for 31'st Dec'20,its count has been combined with 1st Jan'21\n[Jan 9]:Due to reconcillation there are 1286 cases.",
       "stateCode": "UP",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 79,
+        "recovered": 141,
+        "dead": 1,
+        "active": -63
       },
       "testing_data": {
         "tested": 30434156,
@@ -203,7 +203,7 @@
       "active": 562,
       "recovered": 334107,
       "dead": 1967,
-      "updatedTime": "21/02/2021 21:26:28",
+      "updatedTime": "21/02/2021 21:33:31",
       "note": "[July 12th] :20 non-covid deaths reported in state dashboard are included in the deceased count",
       "stateCode": "OR",
       "today": {
@@ -391,26 +391,26 @@
     },
     "AS": {
       "name": "Assam",
-      "confirmed": 217383,
-      "active": 269,
-      "recovered": 214676,
+      "confirmed": 217392,
+      "active": 260,
+      "recovered": 214694,
       "dead": 1091,
-      "updatedTime": "20/02/2021 22:46:35",
+      "updatedTime": "21/02/2021 21:46:31",
       "note": "[Jan 1]: 1347 cases i.e Covid +'tive patients dead for other reasons have been deducted fom active count.",
       "stateCode": "AS",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 9,
+        "recovered": 18,
         "dead": 0,
-        "active": 0
+        "active": -9
       },
       "testing_data": {
-        "tested": 6755773,
+        "tested": 6761696,
         "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "20/02/2021",
-        "source": "https://twitter.com/nhm_assam/status/1363160363483557888"
+        "date": "21/02/2021",
+        "source": "https://twitter.com/nhm_assam/status/1363519131916460033"
       }
     },
     "PB": {
@@ -477,12 +477,12 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 5431160,
-        "positive": 119565,
-        "negative": 5311595,
+        "tested": 5445617,
+        "positive": 119596,
+        "negative": 5326021,
         "unconfirmed": 0,
-        "date": "20/02/2021",
-        "source": "https://twitter.com/rnuddkranchi/status/1363166580318695426"
+        "date": "21/02/2021",
+        "source": "https://twitter.com/rnuddkranchi/status/1363519823297138690"
       }
     },
     "UT": {
@@ -573,11 +573,11 @@
         "active": 4
       },
       "testing_data": {
-        "tested": 618788,
-        "positive": 43812,
-        "negative": 574693,
-        "unconfirmed": 128,
-        "date": "20/02/2021",
+        "tested": 620331,
+        "positive": 43835,
+        "negative": 576227,
+        "unconfirmed": 269,
+        "date": "21/02/2021",
         "source": "https://health.py.gov.in/"
       }
     },
@@ -645,12 +645,12 @@
         "active": 17
       },
       "testing_data": {
-        "tested": 242302,
+        "tested": 243429,
         "positive": 0,
-        "negative": 219960,
-        "unconfirmed": 185,
-        "date": "20/02/2021",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/6596"
+        "negative": 221056,
+        "unconfirmed": 63,
+        "date": "21/02/2021",
+        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/6644"
       }
     },
     "AR": {
@@ -751,18 +751,18 @@
     },
     "SK": {
       "name": "Sikkim",
-      "confirmed": 6128,
-      "active": 53,
-      "recovered": 5843,
+      "confirmed": 6132,
+      "active": 52,
+      "recovered": 5848,
       "dead": 135,
-      "updatedTime": "20/02/2021 23:16:34",
+      "updatedTime": "21/02/2021 21:46:34",
       "note": "",
       "stateCode": "SK",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 4,
+        "recovered": 5,
         "dead": 0,
-        "active": 0
+        "active": -1
       },
       "testing_data": {
         "tested": 77760,
@@ -861,7 +861,7 @@
       "active": 76,
       "recovered": 201,
       "dead": 0,
-      "updatedTime": "21/02/2021 21:26:30",
+      "updatedTime": "21/02/2021 21:33:34",
       "note": "",
       "stateCode": "LD",
       "today": {
@@ -881,19 +881,19 @@
     }
   },
   "testing_data": {
-    "tested": 228772400,
-    "positive": 204974,
-    "negative": 39085103,
-    "unconfirmed": 9616
+    "tested": 228795450,
+    "positive": 205028,
+    "negative": 39102159,
+    "unconfirmed": 9635
   },
   "testing_data_imcr": {
     "tested": 210931530,
     "source": "https://twitter.com/ICMRDELHI/status/1363331322995826689"
   },
   "today": {
-    "confirmed": 13703,
-    "recovered": 9158,
-    "dead": 72,
-    "active": 4473
+    "confirmed": 13795,
+    "recovered": 9302,
+    "dead": 73,
+    "active": 4420
   }
 }
