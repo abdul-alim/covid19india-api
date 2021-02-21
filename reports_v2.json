@@ -1,9 +1,9 @@
 {
-  "confirmed": 10991611,
-  "recovered": 10687904,
-  "dead": 156343,
-  "active": 142840,
-  "updatedTime": "21/2/2021 18:55:26",
+  "confirmed": 10991806,
+  "recovered": 10688133,
+  "dead": 156344,
+  "active": 142805,
+  "updatedTime": "21/2/2021 19:15:27",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -55,26 +55,26 @@
     },
     "AP": {
       "name": "Andhra Pradesh",
-      "confirmed": 889210,
-      "active": 604,
-      "recovered": 881439,
+      "confirmed": 889298,
+      "active": 620,
+      "recovered": 881511,
       "dead": 7167,
-      "updatedTime": "20/02/2021 19:13:28",
+      "updatedTime": "21/02/2021 19:15:29",
       "note": "",
       "stateCode": "AP",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 88,
+        "recovered": 72,
         "dead": 0,
-        "active": 0
+        "active": 16
       },
       "testing_data": {
-        "tested": 13697048,
+        "tested": 13728728,
         "positive": 0,
-        "negative": 0,
+        "negative": 12839430,
         "unconfirmed": 0,
-        "date": "20/2/2021",
-        "source": "https://twitter.com/ArogyaAndhra/status/1363094003005071362?s=20"
+        "date": "21/2/2021",
+        "source": "https://twitter.com/ArogyaAndhra/status/1363453162108055553"
       }
     },
     "TN": {
@@ -223,26 +223,26 @@
     },
     "RJ": {
       "name": "Rajasthan",
-      "confirmed": 319461,
-      "active": 1300,
-      "recovered": 315376,
+      "confirmed": 319543,
+      "active": 1245,
+      "recovered": 315513,
       "dead": 2785,
-      "updatedTime": "20/02/2021 19:25:32",
+      "updatedTime": "21/02/2021 19:15:32",
       "note": "",
       "stateCode": "RJ",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 82,
+        "recovered": 137,
         "dead": 0,
-        "active": 0
+        "active": -55
       },
       "testing_data": {
-        "tested": 6178593,
+        "tested": 6196348,
         "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "20/02/2021",
-        "source": "https://twitter.com/airnews_jaipur/status/1363120951639105540"
+        "date": "21/02/2021",
+        "source": "https://twitter.com/airnews_jaipur/status/1363481199138779139"
       }
     },
     "TG": {
@@ -443,7 +443,7 @@
       "active": 721,
       "recovered": 123192,
       "dead": 1954,
-      "updatedTime": "21/02/2021 18:55:28",
+      "updatedTime": "21/02/2021 19:10:28",
       "note": "",
       "stateCode": "JK",
       "today": {
@@ -491,7 +491,7 @@
       "active": 467,
       "recovered": 93158,
       "dead": 1687,
-      "updatedTime": "21/02/2021 18:55:30",
+      "updatedTime": "21/02/2021 19:10:29",
       "note": "[Oct 30]: Metric of capturing the testing data has switched to \"Samples Tested\" from \"Samples Collected\"",
       "stateCode": "UT",
       "today": {
@@ -539,7 +539,7 @@
       "active": 488,
       "recovered": 53287,
       "dead": 787,
-      "updatedTime": "21/02/2021 18:55:32",
+      "updatedTime": "21/02/2021 19:10:31",
       "note": "",
       "stateCode": "GA",
       "today": {
@@ -559,18 +559,18 @@
     },
     "PY": {
       "name": "Puducherry",
-      "confirmed": 39569,
-      "active": 188,
-      "recovered": 38719,
-      "dead": 662,
-      "updatedTime": "20/02/2021 22:46:39",
+      "confirmed": 39592,
+      "active": 192,
+      "recovered": 38737,
+      "dead": 663,
+      "updatedTime": "21/02/2021 19:15:34",
       "note": "",
       "stateCode": "PY",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 23,
+        "recovered": 18,
+        "dead": 1,
+        "active": 4
       },
       "testing_data": {
         "tested": 618788,
@@ -799,18 +799,18 @@
     },
     "MZ": {
       "name": "Mizoram",
-      "confirmed": 4407,
-      "active": 20,
+      "confirmed": 4409,
+      "active": 22,
       "recovered": 4377,
       "dead": 10,
-      "updatedTime": "20/02/2021 19:20:39",
+      "updatedTime": "21/02/2021 19:15:36",
       "note": "",
       "stateCode": "MZ",
       "today": {
-        "confirmed": 0,
+        "confirmed": 2,
         "recovered": 0,
         "dead": 0,
-        "active": 0
+        "active": 2
       },
       "testing_data": {
         "tested": 225762,
@@ -824,17 +824,17 @@
     "DN": {
       "name": "Dadra and Nagar Haveli and Daman and Diu",
       "confirmed": 3384,
-      "active": 4,
-      "recovered": 3349,
+      "active": 2,
+      "recovered": 3351,
       "dead": 2,
       "updatedTime": "17/02/2021 20:11:44",
       "note": "",
       "stateCode": "DN",
       "today": {
         "confirmed": 0,
-        "recovered": 0,
+        "recovered": 2,
         "dead": 0,
-        "active": 0
+        "active": -2
       },
       "isUnknown": true
     },
@@ -881,9 +881,9 @@
     }
   },
   "testing_data": {
-    "tested": 228080500,
+    "tested": 228129935,
     "positive": 204974,
-    "negative": 26226940,
+    "negative": 39066370,
     "unconfirmed": 10196
   },
   "testing_data_imcr": {
@@ -891,9 +891,9 @@
     "source": "https://twitter.com/ICMRDELHI/status/1363331322995826689"
   },
   "today": {
-    "confirmed": 519,
-    "recovered": 366,
-    "dead": 4,
-    "active": 149
+    "confirmed": 714,
+    "recovered": 595,
+    "dead": 5,
+    "active": 114
   }
 }
