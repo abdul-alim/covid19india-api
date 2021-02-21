@@ -1,9 +1,9 @@
 {
-  "confirmed": 11004887,
-  "recovered": 10696840,
-  "dead": 156412,
-  "active": 147096,
-  "updatedTime": "21/2/2021 21:46:26",
+  "confirmed": 11005071,
+  "recovered": 10697014,
+  "dead": 156418,
+  "active": 147100,
+  "updatedTime": "21/2/2021 22:29:27",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -11,7 +11,7 @@
       "active": 52956,
       "recovered": 1994947,
       "dead": 51788,
-      "updatedTime": "21/02/2021 21:46:28",
+      "updatedTime": "21/02/2021 22:00:30",
       "note": "[Dec 16]:10,218 duplicate cases & other state cases removed from total cases.791 recovered cases also removed from total recovered cases while reconciling \n[Sep 9] :239 cases have been removed from the hospitalized figures owing to the removal of duplicates and change of addresses as per the original residence\n[Aug 15] : MH bulletin has reduced 819 confirmed cases in Mumbai and 72 confirmed cases from 'Other States' from the tally\n[Jun 16] : 1328 deceased cases have been retroactively added to MH bulletin.\n[Jun 20] : 69 deceased cases have been reduced based on state bulletin.",
       "stateCode": "MH",
       "today": {
@@ -155,7 +155,7 @@
       "active": 2370,
       "recovered": 591700,
       "dead": 8715,
-      "updatedTime": "21/02/2021 21:46:29",
+      "updatedTime": "21/02/2021 22:00:31",
       "note": "[Jan 1]:As no bulletin was provided for 31'st Dec'20,its count has been combined with 1st Jan'21\n[Jan 9]:Due to reconcillation there are 1286 cases.",
       "stateCode": "UP",
       "today": {
@@ -271,18 +271,18 @@
     },
     "CT": {
       "name": "Chhattisgarh",
-      "confirmed": 310732,
-      "active": 3102,
-      "recovered": 303835,
-      "dead": 3795,
-      "updatedTime": "20/02/2021 22:04:47",
+      "confirmed": 310885,
+      "active": 3112,
+      "recovered": 303973,
+      "dead": 3800,
+      "updatedTime": "21/02/2021 22:29:28",
       "note": "",
       "stateCode": "CT",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 153,
+        "recovered": 138,
+        "dead": 5,
+        "active": 10
       },
       "testing_data": {
         "tested": 4661484,
@@ -381,12 +381,12 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 5662175,
+        "tested": 5677009,
         "positive": 0,
-        "negative": 5273554,
+        "negative": 5288089,
         "unconfirmed": 0,
-        "date": "20/02/2021",
-        "source": "https://twitter.com/healthminmp/status/1363157600188080128"
+        "date": "21/02/2021",
+        "source": "https://twitter.com/healthminmp/status/1363525516603482112"
       }
     },
     "AS": {
@@ -395,7 +395,7 @@
       "active": 260,
       "recovered": 214694,
       "dead": 1091,
-      "updatedTime": "21/02/2021 21:46:31",
+      "updatedTime": "21/02/2021 22:00:35",
       "note": "[Jan 1]: 1347 cases i.e Covid +'tive patients dead for other reasons have been deducted fom active count.",
       "stateCode": "AS",
       "today": {
@@ -463,18 +463,18 @@
     },
     "JH": {
       "name": "Jharkhand",
-      "confirmed": 119565,
-      "active": 459,
-      "recovered": 118022,
-      "dead": 1084,
-      "updatedTime": "20/02/2021 22:46:37",
+      "confirmed": 119596,
+      "active": 453,
+      "recovered": 118058,
+      "dead": 1085,
+      "updatedTime": "21/02/2021 22:29:30",
       "note": "",
       "stateCode": "JH",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 31,
+        "recovered": 36,
+        "dead": 1,
+        "active": -6
       },
       "testing_data": {
         "tested": 5445617,
@@ -755,7 +755,7 @@
       "active": 52,
       "recovered": 5848,
       "dead": 135,
-      "updatedTime": "21/02/2021 21:46:34",
+      "updatedTime": "21/02/2021 22:00:39",
       "note": "",
       "stateCode": "SK",
       "today": {
@@ -881,9 +881,9 @@
     }
   },
   "testing_data": {
-    "tested": 228795450,
+    "tested": 228810284,
     "positive": 205028,
-    "negative": 39102159,
+    "negative": 39116694,
     "unconfirmed": 9635
   },
   "testing_data_imcr": {
@@ -891,9 +891,9 @@
     "source": "https://twitter.com/ICMRDELHI/status/1363331322995826689"
   },
   "today": {
-    "confirmed": 13795,
-    "recovered": 9302,
-    "dead": 73,
-    "active": 4420
+    "confirmed": 13979,
+    "recovered": 9476,
+    "dead": 79,
+    "active": 4424
   }
 }
