@@ -1,9 +1,9 @@
 {
-  "confirmed": 10991458,
-  "recovered": 10687781,
-  "dead": 156342,
-  "active": 142811,
-  "updatedTime": "21/2/2021 16:55:28",
+  "confirmed": 10991611,
+  "recovered": 10687904,
+  "dead": 156343,
+  "active": 142840,
+  "updatedTime": "21/2/2021 18:55:26",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -439,26 +439,26 @@
     },
     "JK": {
       "name": "Jammu and Kashmir",
-      "confirmed": 125783,
-      "active": 700,
-      "recovered": 123129,
+      "confirmed": 125867,
+      "active": 721,
+      "recovered": 123192,
       "dead": 1954,
-      "updatedTime": "20/02/2021 19:13:43",
+      "updatedTime": "21/02/2021 18:55:28",
       "note": "",
       "stateCode": "JK",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 84,
+        "recovered": 63,
         "dead": 0,
-        "active": 0
+        "active": 21
       },
       "testing_data": {
-        "tested": 4993409,
+        "tested": 5018612,
         "positive": 0,
-        "negative": 4867626,
+        "negative": 4892745,
         "unconfirmed": 0,
-        "date": "20/02/2021",
-        "source": "https://twitter.com/diprjk/status/1363089483923677184?s=20"
+        "date": "21/02/2021",
+        "source": "https://twitter.com/diprjk/status/1363473973783138305"
       }
     },
     "JH": {
@@ -487,26 +487,26 @@
     },
     "UT": {
       "name": "Uttarakhand",
-      "confirmed": 96657,
-      "active": 454,
-      "recovered": 93142,
-      "dead": 1686,
-      "updatedTime": "20/02/2021 19:59:35",
+      "confirmed": 96687,
+      "active": 467,
+      "recovered": 93158,
+      "dead": 1687,
+      "updatedTime": "21/02/2021 18:55:30",
       "note": "[Oct 30]: Metric of capturing the testing data has switched to \"Samples Tested\" from \"Samples Collected\"",
       "stateCode": "UT",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 30,
+        "recovered": 16,
+        "dead": 1,
+        "active": 13
       },
       "testing_data": {
-        "tested": 2312851,
+        "tested": 2319133,
         "positive": 0,
-        "negative": 2216194,
-        "unconfirmed": 7929,
-        "date": "20/02/2021",
-        "source": "https://twitter.com/DDnews_dehradun/status/1363121986944163840"
+        "negative": 2222446,
+        "unconfirmed": 4755,
+        "date": "21/02/2021",
+        "source": "https://twitter.com/DDnews_dehradun/status/1363471623643222017"
       }
     },
     "HP": {
@@ -535,26 +535,26 @@
     },
     "GA": {
       "name": "Goa",
-      "confirmed": 54523,
-      "active": 493,
-      "recovered": 53243,
+      "confirmed": 54562,
+      "active": 488,
+      "recovered": 53287,
       "dead": 787,
-      "updatedTime": "20/02/2021 19:13:45",
+      "updatedTime": "21/02/2021 18:55:32",
       "note": "",
       "stateCode": "GA",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 39,
+        "recovered": 44,
         "dead": 0,
-        "active": 0
+        "active": -5
       },
       "testing_data": {
-        "tested": 481571,
+        "tested": 482622,
         "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "20/02/2021",
-        "source": "https://www.goa.gov.in/wp-content/uploads/2021/02/Media-Bulletin-20th-February-2021.pdf"
+        "date": "21/02/2021",
+        "source": "https://www.goa.gov.in/"
       }
     },
     "PY": {
@@ -881,19 +881,19 @@
     }
   },
   "testing_data": {
-    "tested": 228047964,
+    "tested": 228080500,
     "positive": 204974,
-    "negative": 26195569,
-    "unconfirmed": 13370
+    "negative": 26226940,
+    "unconfirmed": 10196
   },
   "testing_data_imcr": {
     "tested": 210931530,
     "source": "https://twitter.com/ICMRDELHI/status/1363331322995826689"
   },
   "today": {
-    "confirmed": 366,
-    "recovered": 243,
-    "dead": 3,
-    "active": 120
+    "confirmed": 519,
+    "recovered": 366,
+    "dead": 4,
+    "active": 149
   }
 }
