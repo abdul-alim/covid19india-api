@@ -1,24 +1,24 @@
 {
-  "confirmed": 11009784,
-  "recovered": 10704590,
-  "dead": 156470,
-  "active": 144178,
-  "updatedTime": "22/2/2021 21:33:30",
+  "confirmed": 11015776,
+  "recovered": 10710348,
+  "dead": 156495,
+  "active": 144387,
+  "updatedTime": "22/2/2021 23:25:24",
   "states": {
     "MH": {
       "name": "Maharashtra",
-      "confirmed": 2100884,
-      "active": 52956,
-      "recovered": 1994947,
-      "dead": 51788,
-      "updatedTime": "21/02/2021 22:00:30",
+      "confirmed": 2106094,
+      "active": 53113,
+      "recovered": 1999982,
+      "dead": 51806,
+      "updatedTime": "22/02/2021 23:25:26",
       "note": "[Dec 16]:10,218 duplicate cases & other state cases removed from total cases.791 recovered cases also removed from total recovered cases while reconciling \n[Sep 9] :239 cases have been removed from the hospitalized figures owing to the removal of duplicates and change of addresses as per the original residence\n[Aug 15] : MH bulletin has reduced 819 confirmed cases in Mumbai and 72 confirmed cases from 'Other States' from the tally\n[Jun 16] : 1328 deceased cases have been retroactively added to MH bulletin.\n[Jun 20] : 69 deceased cases have been reduced based on state bulletin.",
       "stateCode": "MH",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 5210,
+        "recovered": 5035,
+        "dead": 18,
+        "active": 157
       },
       "testing_data": {
         "tested": 15793424,
@@ -79,18 +79,18 @@
     },
     "TN": {
       "name": "Tamil Nadu",
-      "confirmed": 848275,
-      "active": 4109,
-      "recovered": 831706,
-      "dead": 12460,
-      "updatedTime": "21/02/2021 19:58:35",
+      "confirmed": 848724,
+      "active": 4091,
+      "recovered": 832167,
+      "dead": 12466,
+      "updatedTime": "22/02/2021 23:25:28",
       "note": "[July 22]: 444 backdated deceased entries added to Chennai in TN bulletin.\n2 deaths cross notified to other states from Chennai and Coimbatore.\n1 patient died after turning negative for infection in Chengalpattu.\nThese cases have been added to TN deceased tally",
       "stateCode": "TN",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 449,
+        "recovered": 461,
+        "dead": 6,
+        "active": -18
       },
       "testing_data": {
         "tested": 17170947,
@@ -367,18 +367,18 @@
     },
     "MP": {
       "name": "Madhya Pradesh",
-      "confirmed": 259427,
-      "active": 2051,
-      "recovered": 253522,
+      "confirmed": 259721,
+      "active": 2104,
+      "recovered": 253763,
       "dead": 3854,
-      "updatedTime": "22/02/2021 10:31:23",
+      "updatedTime": "22/02/2021 23:25:29",
       "note": "[Oct 14]: 4469 confirmed cases and 4469 recoveries added in MP bulletin as reconciliation with private labs and hospitals",
       "stateCode": "MP",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 294,
+        "recovered": 241,
         "dead": 0,
-        "active": 0
+        "active": 53
       },
       "testing_data": {
         "tested": 5690292,
@@ -631,18 +631,18 @@
     },
     "CH": {
       "name": "Chandigarh",
-      "confirmed": 21425,
-      "active": 186,
-      "recovered": 20890,
-      "dead": 349,
-      "updatedTime": "21/02/2021 20:59:31",
+      "confirmed": 21463,
+      "active": 205,
+      "recovered": 20908,
+      "dead": 350,
+      "updatedTime": "22/02/2021 23:25:31",
       "note": "",
       "stateCode": "CH",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 38,
+        "recovered": 18,
+        "dead": 1,
+        "active": 19
       },
       "testing_data": {
         "tested": 244956,
@@ -752,17 +752,17 @@
     "SK": {
       "name": "Sikkim",
       "confirmed": 6132,
-      "active": 52,
-      "recovered": 5848,
+      "active": 49,
+      "recovered": 5851,
       "dead": 135,
-      "updatedTime": "21/02/2021 22:00:39",
+      "updatedTime": "22/02/2021 23:25:33",
       "note": "",
       "stateCode": "SK",
       "today": {
         "confirmed": 0,
-        "recovered": 0,
+        "recovered": 3,
         "dead": 0,
-        "active": 0
+        "active": -3
       },
       "testing_data": {
         "tested": 77760,
@@ -775,18 +775,18 @@
     },
     "AN": {
       "name": "Andaman and Nicobar",
-      "confirmed": 5014,
-      "active": 3,
+      "confirmed": 5015,
+      "active": 4,
       "recovered": 4949,
       "dead": 62,
-      "updatedTime": "21/02/2021 01:40:28",
+      "updatedTime": "22/02/2021 23:25:34",
       "note": "",
       "stateCode": "AN",
       "today": {
-        "confirmed": 0,
+        "confirmed": 1,
         "recovered": 0,
         "dead": 0,
-        "active": 0
+        "active": 1
       },
       "testing_data": {
         "tested": 258773,
@@ -891,9 +891,9 @@
     "source": "https://twitter.com/ICMRDELHI/status/1363700241740886019"
   },
   "today": {
-    "confirmed": 4414,
-    "recovered": 7337,
-    "dead": 48,
-    "active": -2971
+    "confirmed": 10406,
+    "recovered": 13095,
+    "dead": 73,
+    "active": -2762
   }
 }
