@@ -1,9 +1,9 @@
 {
-  "confirmed": 11005753,
-  "recovered": 10697679,
+  "confirmed": 11005814,
+  "recovered": 10697757,
   "dead": 156424,
-  "active": 147111,
-  "updatedTime": "22/2/2021 18:06:26",
+  "active": 147094,
+  "updatedTime": "22/2/2021 18:22:28",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -439,26 +439,26 @@
     },
     "JK": {
       "name": "Jammu and Kashmir",
-      "confirmed": 125867,
-      "active": 721,
-      "recovered": 123192,
+      "confirmed": 125925,
+      "active": 735,
+      "recovered": 123236,
       "dead": 1954,
-      "updatedTime": "21/02/2021 19:10:28",
+      "updatedTime": "22/02/2021 18:22:33",
       "note": "",
       "stateCode": "JK",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 58,
+        "recovered": 44,
         "dead": 0,
-        "active": 0
+        "active": 14
       },
       "testing_data": {
-        "tested": 5018612,
+        "tested": 5038661,
         "positive": 0,
-        "negative": 4892745,
+        "negative": 4912736,
         "unconfirmed": 0,
-        "date": "21/02/2021",
-        "source": "https://twitter.com/diprjk/status/1363473973783138305"
+        "date": "22/02/2021",
+        "source": "https://twitter.com/diprjk/status/1363829675080912898"
       }
     },
     "JH": {
@@ -539,7 +539,7 @@
       "active": 464,
       "recovered": 53340,
       "dead": 787,
-      "updatedTime": "22/02/2021 18:06:30",
+      "updatedTime": "22/02/2021 18:21:29",
       "note": "",
       "stateCode": "GA",
       "today": {
@@ -607,18 +607,18 @@
     },
     "MN": {
       "name": "Manipur",
-      "confirmed": 29237,
-      "active": 80,
-      "recovered": 28784,
+      "confirmed": 29240,
+      "active": 49,
+      "recovered": 28818,
       "dead": 373,
-      "updatedTime": "21/02/2021 19:42:42",
+      "updatedTime": "22/02/2021 18:22:36",
       "note": "[Dec 14]:824 out of 980 recovered cases are backdated.",
       "stateCode": "MN",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 3,
+        "recovered": 34,
         "dead": 0,
-        "active": 0
+        "active": -31
       },
       "testing_data": {
         "tested": 542337,
@@ -881,9 +881,9 @@
     }
   },
   "testing_data": {
-    "tested": 228912991,
+    "tested": 228933040,
     "positive": 205030,
-    "negative": 39136019,
+    "negative": 39156010,
     "unconfirmed": 9202
   },
   "testing_data_imcr": {
@@ -891,9 +891,9 @@
     "source": "https://twitter.com/ICMRDELHI/status/1363700241740886019"
   },
   "today": {
-    "confirmed": 383,
-    "recovered": 426,
+    "confirmed": 444,
+    "recovered": 504,
     "dead": 2,
-    "active": -45
+    "active": -62
   }
 }
