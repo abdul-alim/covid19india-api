@@ -1,9 +1,9 @@
 {
-  "confirmed": 11005683,
-  "recovered": 10697555,
+  "confirmed": 11005724,
+  "recovered": 10697626,
   "dead": 156424,
-  "active": 147165,
-  "updatedTime": "22/2/2021 17:24:27",
+  "active": 147135,
+  "updatedTime": "22/2/2021 17:43:24",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -55,26 +55,26 @@
     },
     "AP": {
       "name": "Andhra Pradesh",
-      "confirmed": 889298,
-      "active": 620,
-      "recovered": 881511,
+      "confirmed": 889339,
+      "active": 590,
+      "recovered": 881582,
       "dead": 7167,
-      "updatedTime": "21/02/2021 19:23:35",
+      "updatedTime": "22/02/2021 17:43:25",
       "note": "",
       "stateCode": "AP",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 41,
+        "recovered": 71,
         "dead": 0,
-        "active": 0
+        "active": -30
       },
       "testing_data": {
-        "tested": 13728728,
+        "tested": 13746985,
         "positive": 0,
-        "negative": 12839430,
+        "negative": 12857646,
         "unconfirmed": 0,
-        "date": "21/2/2021",
-        "source": "https://twitter.com/ArogyaAndhra/status/1363453162108055553"
+        "date": "22/2/2021",
+        "source": "https://twitter.com/ArogyaAndhra/status/1363818145358643201"
       }
     },
     "TN": {
@@ -131,7 +131,7 @@
       "active": 1041,
       "recovered": 626086,
       "dead": 10901,
-      "updatedTime": "22/02/2021 17:24:30",
+      "updatedTime": "22/02/2021 17:43:27",
       "note": "[July 14]: Value for the total tests conducted has been reduced by 97008 in the state bulletin. Reason given : \"Reconciled with ICMR figures\". We have made the same change.",
       "stateCode": "DL",
       "today": {
@@ -141,12 +141,12 @@
         "active": -30
       },
       "testing_data": {
-        "tested": 11971940,
+        "tested": 12014182,
         "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "21/02/2021",
-        "source": "https://twitter.com/ANI/status/1363440543515238410"
+        "date": "22/02/2021",
+        "source": "https://twitter.com/ANI/status/1363810780458573831"
       }
     },
     "UP": {
@@ -707,7 +707,7 @@
       "active": 12,
       "recovered": 11937,
       "dead": 91,
-      "updatedTime": "22/02/2021 17:24:33",
+      "updatedTime": "22/02/2021 17:43:30",
       "note": "",
       "stateCode": "NL",
       "today": {
@@ -881,9 +881,9 @@
     }
   },
   "testing_data": {
-    "tested": 228851439,
+    "tested": 228911938,
     "positive": 205030,
-    "negative": 39117803,
+    "negative": 39136019,
     "unconfirmed": 9202
   },
   "testing_data_imcr": {
@@ -891,9 +891,9 @@
     "source": "https://twitter.com/ICMRDELHI/status/1363700241740886019"
   },
   "today": {
-    "confirmed": 313,
-    "recovered": 302,
+    "confirmed": 354,
+    "recovered": 373,
     "dead": 2,
-    "active": 9
+    "active": -21
   }
 }
