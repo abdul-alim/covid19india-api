@@ -1,9 +1,9 @@
 {
-  "confirmed": 11015776,
-  "recovered": 10710348,
-  "dead": 156495,
-  "active": 144387,
-  "updatedTime": "22/2/2021 23:25:24",
+  "confirmed": 11015831,
+  "recovered": 10710411,
+  "dead": 156496,
+  "active": 144378,
+  "updatedTime": "22/2/2021 23:42:24",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -11,7 +11,7 @@
       "active": 53113,
       "recovered": 1999982,
       "dead": 51806,
-      "updatedTime": "22/02/2021 23:25:26",
+      "updatedTime": "22/02/2021 23:42:25",
       "note": "[Dec 16]:10,218 duplicate cases & other state cases removed from total cases.791 recovered cases also removed from total recovered cases while reconciling \n[Sep 9] :239 cases have been removed from the hospitalized figures owing to the removal of duplicates and change of addresses as per the original residence\n[Aug 15] : MH bulletin has reduced 819 confirmed cases in Mumbai and 72 confirmed cases from 'Other States' from the tally\n[Jun 16] : 1328 deceased cases have been retroactively added to MH bulletin.\n[Jun 20] : 69 deceased cases have been reduced based on state bulletin.",
       "stateCode": "MH",
       "today": {
@@ -83,7 +83,7 @@
       "active": 4091,
       "recovered": 832167,
       "dead": 12466,
-      "updatedTime": "22/02/2021 23:25:28",
+      "updatedTime": "22/02/2021 23:42:27",
       "note": "[July 22]: 444 backdated deceased entries added to Chennai in TN bulletin.\n2 deaths cross notified to other states from Chennai and Coimbatore.\n1 patient died after turning negative for infection in Chengalpattu.\nThese cases have been added to TN deceased tally",
       "stateCode": "TN",
       "today": {
@@ -371,7 +371,7 @@
       "active": 2104,
       "recovered": 253763,
       "dead": 3854,
-      "updatedTime": "22/02/2021 23:25:29",
+      "updatedTime": "22/02/2021 23:42:29",
       "note": "[Oct 14]: 4469 confirmed cases and 4469 recoveries added in MP bulletin as reconciliation with private labs and hospitals",
       "stateCode": "MP",
       "today": {
@@ -391,18 +391,18 @@
     },
     "AS": {
       "name": "Assam",
-      "confirmed": 217392,
-      "active": 260,
-      "recovered": 214694,
+      "confirmed": 217406,
+      "active": 256,
+      "recovered": 214712,
       "dead": 1091,
-      "updatedTime": "21/02/2021 22:00:35",
+      "updatedTime": "22/02/2021 23:42:30",
       "note": "[Jan 1]: 1347 cases i.e Covid +'tive patients dead for other reasons have been deducted fom active count.",
       "stateCode": "AS",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 14,
+        "recovered": 18,
         "dead": 0,
-        "active": 0
+        "active": -4
       },
       "testing_data": {
         "tested": 6777232,
@@ -463,18 +463,18 @@
     },
     "JH": {
       "name": "Jharkhand",
-      "confirmed": 119596,
-      "active": 453,
-      "recovered": 118058,
-      "dead": 1085,
-      "updatedTime": "21/02/2021 22:41:44",
+      "confirmed": 119637,
+      "active": 448,
+      "recovered": 118103,
+      "dead": 1086,
+      "updatedTime": "22/02/2021 23:42:32",
       "note": "",
       "stateCode": "JH",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 41,
+        "recovered": 45,
+        "dead": 1,
+        "active": -5
       },
       "testing_data": {
         "tested": 5457670,
@@ -635,7 +635,7 @@
       "active": 205,
       "recovered": 20908,
       "dead": 350,
-      "updatedTime": "22/02/2021 23:25:31",
+      "updatedTime": "22/02/2021 23:42:33",
       "note": "",
       "stateCode": "CH",
       "today": {
@@ -755,7 +755,7 @@
       "active": 49,
       "recovered": 5851,
       "dead": 135,
-      "updatedTime": "22/02/2021 23:25:33",
+      "updatedTime": "22/02/2021 23:42:35",
       "note": "",
       "stateCode": "SK",
       "today": {
@@ -779,7 +779,7 @@
       "active": 4,
       "recovered": 4949,
       "dead": 62,
-      "updatedTime": "22/02/2021 23:25:34",
+      "updatedTime": "22/02/2021 23:42:36",
       "note": "",
       "stateCode": "AN",
       "today": {
@@ -891,9 +891,9 @@
     "source": "https://twitter.com/ICMRDELHI/status/1363700241740886019"
   },
   "today": {
-    "confirmed": 10406,
-    "recovered": 13095,
-    "dead": 73,
-    "active": -2762
+    "confirmed": 10461,
+    "recovered": 13158,
+    "dead": 74,
+    "active": -2771
   }
 }
