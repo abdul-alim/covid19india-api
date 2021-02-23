@@ -1,24 +1,24 @@
 {
-  "confirmed": 11016264,
-  "recovered": 10710845,
-  "dead": 156502,
-  "active": 144367,
-  "updatedTime": "23/2/2021 19:11:26",
+  "confirmed": 11022582,
+  "recovered": 10716713,
+  "dead": 156553,
+  "active": 144766,
+  "updatedTime": "23/2/2021 19:19:33",
   "states": {
     "MH": {
       "name": "Maharashtra",
-      "confirmed": 2106094,
-      "active": 53113,
-      "recovered": 1999982,
-      "dead": 51806,
-      "updatedTime": "22/02/2021 23:42:25",
+      "confirmed": 2112412,
+      "active": 53512,
+      "recovered": 2005850,
+      "dead": 51857,
+      "updatedTime": "23/02/2021 19:19:34",
       "note": "[Dec 16]:10,218 duplicate cases & other state cases removed from total cases.791 recovered cases also removed from total recovered cases while reconciling \n[Sep 9] :239 cases have been removed from the hospitalized figures owing to the removal of duplicates and change of addresses as per the original residence\n[Aug 15] : MH bulletin has reduced 819 confirmed cases in Mumbai and 72 confirmed cases from 'Other States' from the tally\n[Jun 16] : 1328 deceased cases have been retroactively added to MH bulletin.\n[Jun 20] : 69 deceased cases have been reduced based on state bulletin.",
       "stateCode": "MH",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 6318,
+        "recovered": 5868,
+        "dead": 51,
+        "active": 399
       },
       "testing_data": {
         "tested": 15793424,
@@ -69,12 +69,12 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 13746985,
+        "tested": 13775253,
         "positive": 0,
-        "negative": 12857646,
+        "negative": 0,
         "unconfirmed": 0,
-        "date": "22/2/2021",
-        "source": "https://twitter.com/ArogyaAndhra/status/1363818145358643201"
+        "date": "23/2/2021",
+        "source": "http://covid19.ap.gov.in/Covid19_Admin/index.html"
       }
     },
     "TN": {
@@ -179,7 +179,7 @@
       "active": 3399,
       "recovered": 560447,
       "dead": 10253,
-      "updatedTime": "23/02/2021 19:11:27",
+      "updatedTime": "23/02/2021 19:18:37",
       "note": "",
       "stateCode": "WB",
       "today": {
@@ -881,9 +881,9 @@
     }
   },
   "testing_data": {
-    "tested": 229427818,
+    "tested": 229456086,
     "positive": 205077,
-    "negative": 39203360,
+    "negative": 26345714,
     "unconfirmed": 10000
   },
   "testing_data_imcr": {
@@ -891,9 +891,9 @@
     "source": "https://twitter.com/ICMRDELHI/status/1364065091948138501"
   },
   "today": {
-    "confirmed": 400,
-    "recovered": 358,
-    "dead": 4,
-    "active": 38
+    "confirmed": 6718,
+    "recovered": 6226,
+    "dead": 55,
+    "active": 437
   }
 }
