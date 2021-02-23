@@ -1,9 +1,9 @@
 {
-  "confirmed": 11028641,
-  "recovered": 10723515,
-  "dead": 156593,
-  "active": 143978,
-  "updatedTime": "23/2/2021 21:28:23",
+  "confirmed": 11028937,
+  "recovered": 10723764,
+  "dead": 156594,
+  "active": 144024,
+  "updatedTime": "23/2/2021 21:49:26",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -367,18 +367,18 @@
     },
     "MP": {
       "name": "Madhya Pradesh",
-      "confirmed": 259721,
-      "active": 2104,
-      "recovered": 253763,
-      "dead": 3854,
-      "updatedTime": "22/02/2021 23:42:29",
+      "confirmed": 259967,
+      "active": 2149,
+      "recovered": 253963,
+      "dead": 3855,
+      "updatedTime": "23/02/2021 21:49:28",
       "note": "[Oct 14]: 4469 confirmed cases and 4469 recoveries added in MP bulletin as reconciliation with private labs and hospitals",
       "stateCode": "MP",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 246,
+        "recovered": 200,
+        "dead": 1,
+        "active": 45
       },
       "testing_data": {
         "tested": 5704677,
@@ -463,26 +463,26 @@
     },
     "JH": {
       "name": "Jharkhand",
-      "confirmed": 119637,
-      "active": 448,
-      "recovered": 118103,
+      "confirmed": 119687,
+      "active": 449,
+      "recovered": 118152,
       "dead": 1086,
-      "updatedTime": "22/02/2021 23:58:32",
+      "updatedTime": "23/02/2021 21:49:29",
       "note": "",
       "stateCode": "JH",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 50,
+        "recovered": 49,
         "dead": 0,
-        "active": 0
+        "active": 1
       },
       "testing_data": {
-        "tested": 5457670,
-        "positive": 119637,
-        "negative": 5338033,
+        "tested": 5468632,
+        "positive": 119687,
+        "negative": 5348945,
         "unconfirmed": 0,
-        "date": "22/02/2021",
-        "source": "https://twitter.com/rnuddkranchi/status/1363886238223097861"
+        "date": "23/02/2021",
+        "source": "https://twitter.com/rnuddkranchi/status/1364241340700053504"
       }
     },
     "UT": {
@@ -491,7 +491,7 @@
       "active": 423,
       "recovered": 93268,
       "dead": 1690,
-      "updatedTime": "23/02/2021 21:28:25",
+      "updatedTime": "23/02/2021 21:34:26",
       "note": "[Oct 30]: Metric of capturing the testing data has switched to \"Samples Tested\" from \"Samples Collected\"",
       "stateCode": "UT",
       "today": {
@@ -573,11 +573,11 @@
         "active": 5
       },
       "testing_data": {
-        "tested": 621084,
-        "positive": 43840,
-        "negative": 576657,
-        "unconfirmed": 269,
-        "date": "22/02/2021",
+        "tested": 622216,
+        "positive": 43871,
+        "negative": 578102,
+        "unconfirmed": 243,
+        "date": "23/02/2021",
         "source": "https://health.py.gov.in/"
       }
     },
@@ -881,19 +881,19 @@
     }
   },
   "testing_data": {
-    "tested": 230088700,
-    "positive": 205081,
-    "negative": 39305872,
-    "unconfirmed": 11330
+    "tested": 230100794,
+    "positive": 205162,
+    "negative": 39318229,
+    "unconfirmed": 11304
   },
   "testing_data_imcr": {
     "tested": 212230431,
     "source": "https://twitter.com/ICMRDELHI/status/1364065091948138501"
   },
   "today": {
-    "confirmed": 12777,
-    "recovered": 13028,
-    "dead": 95,
-    "active": -346
+    "confirmed": 13073,
+    "recovered": 13277,
+    "dead": 96,
+    "active": -300
   }
 }
