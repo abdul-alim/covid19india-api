@@ -1,9 +1,9 @@
 {
-  "confirmed": 11033652,
-  "recovered": 10730341,
-  "dead": 156618,
-  "active": 142134,
-  "updatedTime": "24/2/2021 19:17:25",
+  "confirmed": 11034000,
+  "recovered": 10730639,
+  "dead": 156622,
+  "active": 142180,
+  "updatedTime": "24/2/2021 19:31:26",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -247,11 +247,11 @@
     },
     "TG": {
       "name": "Telangana",
-      "confirmed": 297712,
-      "active": 1701,
-      "recovered": 294386,
-      "dead": 1625,
-      "updatedTime": "22/02/2021 13:11:28",
+      "confirmed": 298057,
+      "active": 1745,
+      "recovered": 294683,
+      "dead": 1629,
+      "updatedTime": "24/02/2021 19:31:28",
       "note": "[July 27] : Telangana bulletin for the previous day is released on the next day. We will add the cases for Telangana against the date of release, as that is the convention that we are following for other states.",
       "stateCode": "TG",
       "today": {
@@ -501,12 +501,12 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 2333530,
+        "tested": 2341175,
         "positive": 0,
-        "negative": 2236757,
-        "unconfirmed": 6517,
-        "date": "23/02/2021",
-        "source": "https://twitter.com/DDnews_dehradun/status/1364222189440917510?s=20"
+        "negative": 0,
+        "unconfirmed": 0,
+        "date": "24/02/2021",
+        "source": "https://twitter.com/DDnews_dehradun/status/1364561356385439744?s=20"
       }
     },
     "HP": {
@@ -731,7 +731,7 @@
       "active": 45,
       "recovered": 9621,
       "dead": 130,
-      "updatedTime": "24/02/2021 19:17:27",
+      "updatedTime": "24/02/2021 19:31:30",
       "note": "",
       "stateCode": "LA",
       "today": {
@@ -799,18 +799,18 @@
     },
     "MZ": {
       "name": "Mizoram",
-      "confirmed": 4410,
-      "active": 21,
-      "recovered": 4379,
+      "confirmed": 4413,
+      "active": 23,
+      "recovered": 4380,
       "dead": 10,
-      "updatedTime": "23/02/2021 20:02:35",
+      "updatedTime": "24/02/2021 19:31:31",
       "note": "",
       "stateCode": "MZ",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 3,
+        "recovered": 1,
         "dead": 0,
-        "active": 0
+        "active": 2
       },
       "testing_data": {
         "tested": 227698,
@@ -881,19 +881,19 @@
     }
   },
   "testing_data": {
-    "tested": 230151783,
+    "tested": 230159428,
     "positive": 205163,
-    "negative": 39319447,
-    "unconfirmed": 11304
+    "negative": 37082690,
+    "unconfirmed": 4787
   },
   "testing_data_imcr": {
     "tested": 213036275,
     "source": "http://twitter.com/ICMRDELHI/status/1364415136618868737"
   },
   "today": {
-    "confirmed": 4106,
-    "recovered": 5885,
+    "confirmed": 4109,
+    "recovered": 5886,
     "dead": 17,
-    "active": -1796
+    "active": -1794
   }
 }
