@@ -1,9 +1,9 @@
 {
-  "confirmed": 11063557,
-  "recovered": 10749123,
-  "dead": 156867,
-  "active": 152998,
-  "updatedTime": "26/2/2021 17:44:30",
+  "confirmed": 11063660,
+  "recovered": 10749202,
+  "dead": 156868,
+  "active": 153021,
+  "updatedTime": "26/2/2021 18:17:25",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -55,26 +55,26 @@
     },
     "AP": {
       "name": "Andhra Pradesh",
-      "confirmed": 889585,
-      "active": 611,
-      "recovered": 881806,
-      "dead": 7168,
-      "updatedTime": "25/02/2021 18:52:39",
+      "confirmed": 889681,
+      "active": 637,
+      "recovered": 881875,
+      "dead": 7169,
+      "updatedTime": "26/02/2021 18:17:26",
       "note": "",
       "stateCode": "AP",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 96,
+        "recovered": 69,
+        "dead": 1,
+        "active": 26
       },
       "testing_data": {
-        "tested": 13843190,
+        "tested": 13877968,
         "positive": 0,
-        "negative": 12953605,
+        "negative": 0,
         "unconfirmed": 0,
-        "date": "25/2/2021",
-        "source": "https://twitter.com/ArogyaAndhra/status/1364920276677353472"
+        "date": "26/2/2021",
+        "source": "http://covid19.ap.gov.in/Covid19_Admin/index.html"
       }
     },
     "TN": {
@@ -443,7 +443,7 @@
       "active": 803,
       "recovered": 123527,
       "dead": 1956,
-      "updatedTime": "26/02/2021 17:44:32",
+      "updatedTime": "26/02/2021 18:02:33",
       "note": "",
       "stateCode": "JK",
       "today": {
@@ -539,7 +539,7 @@
       "active": 587,
       "recovered": 53490,
       "dead": 794,
-      "updatedTime": "25/02/2021 18:36:34",
+      "updatedTime": "26/02/2021 18:02:35",
       "note": "",
       "stateCode": "GA",
       "today": {
@@ -554,7 +554,7 @@
         "negative": 0,
         "unconfirmed": 0,
         "date": "26/02/2021",
-        "source": "https://www.goa.gov.in/"
+        "source": "https://www.goa.gov.in/wp-content/uploads/2021/02/Media-Bulletin-26th-February-2021.pdf"
       }
     },
     "PY": {
@@ -607,26 +607,26 @@
     },
     "MN": {
       "name": "Manipur",
-      "confirmed": 29253,
-      "active": 40,
-      "recovered": 28840,
+      "confirmed": 29260,
+      "active": 37,
+      "recovered": 28850,
       "dead": 373,
-      "updatedTime": "25/02/2021 18:52:43",
+      "updatedTime": "26/02/2021 18:17:28",
       "note": "[Dec 14]:824 out of 980 recovered cases are backdated.",
       "stateCode": "MN",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 7,
+        "recovered": 10,
         "dead": 0,
-        "active": 0
+        "active": -3
       },
       "testing_data": {
-        "tested": 546862,
+        "tested": 547871,
         "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "25/02/2021",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/6805"
+        "date": "26/02/2021",
+        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/6858"
       }
     },
     "CH": {
@@ -683,7 +683,7 @@
       "active": 19,
       "recovered": 13794,
       "dead": 148,
-      "updatedTime": "26/02/2021 17:44:34",
+      "updatedTime": "26/02/2021 18:02:38",
       "note": "",
       "stateCode": "ML",
       "today": {
@@ -707,7 +707,7 @@
       "active": 9,
       "recovered": 11946,
       "dead": 91,
-      "updatedTime": "26/02/2021 17:44:35",
+      "updatedTime": "26/02/2021 18:02:39",
       "note": "",
       "stateCode": "NL",
       "today": {
@@ -803,7 +803,7 @@
       "active": 23,
       "recovered": 4386,
       "dead": 10,
-      "updatedTime": "26/02/2021 17:44:36",
+      "updatedTime": "26/02/2021 18:02:40",
       "note": "",
       "stateCode": "MZ",
       "today": {
@@ -813,12 +813,12 @@
         "active": 2
       },
       "testing_data": {
-        "tested": 229425,
+        "tested": 230420,
         "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "25/02/2021",
-        "source": "https://dipr.mizoram.gov.in/post/status-of-state-surveillance-of-covid-19-2522021-last-24-hours-400pm-as-per-data-received-from-integrated-diseases-surveillance-programme-idsp-status-of-state-surveillance-of-covid-19-2522021-last-24-hours-400pm-as-per-data-received-from-integrated-diseas"
+        "date": "26/02/2021",
+        "source": "https://dipr.mizoram.gov.in/post/status-of-state-surveillance-of-covid-19-2622021-last-24-hours-400pm-as-per-data-received-from-integrated-diseases-surveillance-programme-idsp"
       }
     },
     "DN": {
@@ -881,9 +881,9 @@
     }
   },
   "testing_data": {
-    "tested": 231927957,
+    "tested": 231964739,
     "positive": 205329,
-    "negative": 39611687,
+    "negative": 26658082,
     "unconfirmed": 13159
   },
   "testing_data_imcr": {
@@ -891,9 +891,9 @@
     "source": "https://twitter.com/ICMRDELHI/status/1365143682190483457"
   },
   "today": {
-    "confirmed": 482,
-    "recovered": 345,
-    "dead": 6,
-    "active": 131
+    "confirmed": 585,
+    "recovered": 424,
+    "dead": 7,
+    "active": 154
   }
 }
