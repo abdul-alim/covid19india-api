@@ -1,9 +1,9 @@
 {
-  "confirmed": 11112295,
-  "recovered": 10784883,
+  "confirmed": 11112322,
+  "recovered": 10784909,
   "dead": 157198,
-  "active": 165636,
-  "updatedTime": "1/3/2021 19:00:33",
+  "active": 165632,
+  "updatedTime": "1/3/2021 19:13:32",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -487,26 +487,26 @@
     },
     "UT": {
       "name": "Uttarakhand",
-      "confirmed": 96992,
-      "active": 451,
-      "recovered": 93453,
+      "confirmed": 97019,
+      "active": 447,
+      "recovered": 93479,
       "dead": 1692,
-      "updatedTime": "28/02/2021 20:17:44",
+      "updatedTime": "01/03/2021 19:13:34",
       "note": "[Oct 30]: Metric of capturing the testing data has switched to \"Samples Tested\" from \"Samples Collected\"",
       "stateCode": "UT",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 27,
+        "recovered": 26,
         "dead": 0,
-        "active": 0
+        "active": 1
       },
       "testing_data": {
-        "tested": 2406703,
+        "tested": 2417419,
         "positive": 0,
-        "negative": 2309111,
-        "unconfirmed": 7649,
-        "date": "28/02/2021",
-        "source": "https://twitter.com/DDnews_dehradun/status/1366020297623699457/photo/2"
+        "negative": 2320400,
+        "unconfirmed": 7450,
+        "date": "01/03/2021",
+        "source": "https://twitter.com/DDnews_dehradun/status/1366380676770013187"
       }
     },
     "HP": {
@@ -563,7 +563,7 @@
       "active": 177,
       "recovered": 38888,
       "dead": 669,
-      "updatedTime": "01/03/2021 19:00:37",
+      "updatedTime": "01/03/2021 19:12:39",
       "note": "",
       "stateCode": "PY",
       "today": {
@@ -587,7 +587,7 @@
       "active": 39,
       "recovered": 32964,
       "dead": 388,
-      "updatedTime": "01/03/2021 18:59:36",
+      "updatedTime": "01/03/2021 19:12:40",
       "note": "[Aug 4]: Tripura bulletin for the previous day is released on the next day. We will add the cases for Tripura against the date of release, as that is the convention that we are following for other states.",
       "stateCode": "TR",
       "today": {
@@ -881,19 +881,19 @@
     }
   },
   "testing_data": {
-    "tested": 234364017,
+    "tested": 234374733,
     "positive": 205541,
-    "negative": 40011319,
-    "unconfirmed": 11707
+    "negative": 40022608,
+    "unconfirmed": 11508
   },
   "testing_data_imcr": {
     "tested": 216858774,
     "source": "https://twitter.com/ICMRDELHI/status/1366225888774291462"
   },
   "today": {
-    "confirmed": 239,
-    "recovered": 315,
+    "confirmed": 266,
+    "recovered": 341,
     "dead": 3,
-    "active": -79
+    "active": -78
   }
 }
