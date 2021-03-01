@@ -1,9 +1,9 @@
 {
-  "confirmed": 11112276,
-  "recovered": 10784864,
-  "dead": 157197,
-  "active": 165637,
-  "updatedTime": "1/3/2021 18:32:33",
+  "confirmed": 11112295,
+  "recovered": 10784883,
+  "dead": 157198,
+  "active": 165636,
+  "updatedTime": "1/3/2021 19:00:33",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -443,7 +443,7 @@
       "active": 829,
       "recovered": 123717,
       "dead": 1958,
-      "updatedTime": "01/03/2021 18:32:35",
+      "updatedTime": "01/03/2021 18:35:35",
       "note": "",
       "stateCode": "JK",
       "today": {
@@ -539,7 +539,7 @@
       "active": 583,
       "recovered": 53647,
       "dead": 796,
-      "updatedTime": "01/03/2021 18:32:37",
+      "updatedTime": "01/03/2021 18:35:37",
       "note": "",
       "stateCode": "GA",
       "today": {
@@ -559,18 +559,18 @@
     },
     "PY": {
       "name": "Puducherry",
-      "confirmed": 39725,
-      "active": 185,
-      "recovered": 38872,
-      "dead": 668,
-      "updatedTime": "28/02/2021 20:58:34",
+      "confirmed": 39734,
+      "active": 177,
+      "recovered": 38888,
+      "dead": 669,
+      "updatedTime": "01/03/2021 19:00:37",
       "note": "",
       "stateCode": "PY",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 9,
+        "recovered": 16,
+        "dead": 1,
+        "active": -8
       },
       "testing_data": {
         "tested": 630827,
@@ -583,26 +583,26 @@
     },
     "TR": {
       "name": "Tripura",
-      "confirmed": 33404,
-      "active": 32,
-      "recovered": 32961,
+      "confirmed": 33414,
+      "active": 39,
+      "recovered": 32964,
       "dead": 388,
-      "updatedTime": "26/02/2021 10:31:39",
+      "updatedTime": "01/03/2021 18:59:36",
       "note": "[Aug 4]: Tripura bulletin for the previous day is released on the next day. We will add the cases for Tripura against the date of release, as that is the convention that we are following for other states.",
       "stateCode": "TR",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 10,
+        "recovered": 3,
         "dead": 0,
-        "active": 0
+        "active": 7
       },
       "testing_data": {
-        "tested": 620416,
-        "positive": 33404,
-        "negative": 587012,
+        "tested": 621754,
+        "positive": 33414,
+        "negative": 588340,
         "unconfirmed": 0,
-        "date": "26/02/2021",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/6852"
+        "date": "01/03/2021",
+        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/7018"
       }
     },
     "MN": {
@@ -611,7 +611,7 @@
       "active": 21,
       "recovered": 28880,
       "dead": 373,
-      "updatedTime": "01/03/2021 18:32:38",
+      "updatedTime": "01/03/2021 18:35:38",
       "note": "[Dec 14]:824 out of 980 recovered cases are backdated.",
       "stateCode": "MN",
       "today": {
@@ -881,9 +881,9 @@
     }
   },
   "testing_data": {
-    "tested": 234362679,
-    "positive": 205531,
-    "negative": 40009991,
+    "tested": 234364017,
+    "positive": 205541,
+    "negative": 40011319,
     "unconfirmed": 11707
   },
   "testing_data_imcr": {
@@ -891,9 +891,9 @@
     "source": "https://twitter.com/ICMRDELHI/status/1366225888774291462"
   },
   "today": {
-    "confirmed": 220,
-    "recovered": 296,
-    "dead": 2,
-    "active": -78
+    "confirmed": 239,
+    "recovered": 315,
+    "dead": 3,
+    "active": -79
   }
 }
