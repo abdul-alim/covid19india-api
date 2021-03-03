@@ -1,9 +1,9 @@
 {
-  "confirmed": 11139731,
-  "recovered": 10810410,
+  "confirmed": 11139907,
+  "recovered": 10810504,
   "dead": 157386,
-  "active": 167342,
-  "updatedTime": "3/3/2021 18:02:35",
+  "active": 167424,
+  "updatedTime": "3/3/2021 18:35:34",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -93,12 +93,12 @@
         "active": 52
       },
       "testing_data": {
-        "tested": 14010204,
+        "tested": 14047174,
         "positive": 0,
-        "negative": 13120124,
+        "negative": 13156959,
         "unconfirmed": 0,
-        "date": "2/3/2021",
-        "source": "https://twitter.com/ArogyaAndhra/status/1366724244541906945"
+        "date": "3/3/2021",
+        "source": "https://twitter.com/ArogyaAndhra/status/1367065110070484995"
       }
     },
     "TN": {
@@ -439,26 +439,26 @@
     },
     "JK": {
       "name": "Jammu and Kashmir",
-      "confirmed": 126589,
-      "active": 820,
-      "recovered": 123811,
+      "confirmed": 126693,
+      "active": 875,
+      "recovered": 123860,
       "dead": 1958,
-      "updatedTime": "02/03/2021 18:20:38",
+      "updatedTime": "03/03/2021 18:34:37",
       "note": "",
       "stateCode": "JK",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 104,
+        "recovered": 49,
         "dead": 0,
-        "active": 0
+        "active": 55
       },
       "testing_data": {
-        "tested": 5253071,
+        "tested": 5281141,
         "positive": 0,
-        "negative": 5126482,
+        "negative": 5154448,
         "unconfirmed": 0,
-        "date": "02/03/2021",
-        "source": "https://twitter.com/diprjk/status/1366722240767614981"
+        "date": "03/03/2021",
+        "source": ""
       }
     },
     "JH": {
@@ -535,26 +535,26 @@
     },
     "GA": {
       "name": "Goa",
-      "confirmed": 55073,
-      "active": 582,
-      "recovered": 53695,
+      "confirmed": 55143,
+      "active": 610,
+      "recovered": 53737,
       "dead": 796,
-      "updatedTime": "02/03/2021 18:20:40",
+      "updatedTime": "03/03/2021 18:34:38",
       "note": "",
       "stateCode": "GA",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 70,
+        "recovered": 42,
         "dead": 0,
-        "active": 0
+        "active": 28
       },
       "testing_data": {
-        "tested": 496089,
+        "tested": 497806,
         "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "02/03/2021",
-        "source": "https://www.goa.gov.in/wp-content/uploads/2021/03/Media-Bulletin-02nd-March-2021.pdf"
+        "date": "03/03/2021",
+        "source": "https://www.goa.gov.in/"
       }
     },
     "PY": {
@@ -607,26 +607,26 @@
     },
     "MN": {
       "name": "Manipur",
-      "confirmed": 29281,
-      "active": 23,
-      "recovered": 28885,
+      "confirmed": 29282,
+      "active": 22,
+      "recovered": 28887,
       "dead": 373,
-      "updatedTime": "02/03/2021 18:39:39",
+      "updatedTime": "03/03/2021 18:34:40",
       "note": "[Dec 14]:824 out of 980 recovered cases are backdated.",
       "stateCode": "MN",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 1,
+        "recovered": 2,
         "dead": 0,
-        "active": 0
+        "active": -1
       },
       "testing_data": {
-        "tested": 551409,
+        "tested": 552172,
         "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "02/03/2021",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/7072"
+        "date": "03/03/2021",
+        "source": "http://nrhmmanipur.org/?page_id=2493"
       }
     },
     "CH": {
@@ -799,16 +799,16 @@
     },
     "MZ": {
       "name": "Mizoram",
-      "confirmed": 4426,
+      "confirmed": 4427,
       "active": 19,
-      "recovered": 4397,
+      "recovered": 4398,
       "dead": 10,
       "updatedTime": "02/03/2021 17:57:46",
       "note": "",
       "stateCode": "MZ",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 1,
+        "recovered": 1,
         "dead": 0,
         "active": 0
       },
@@ -881,9 +881,9 @@
     }
   },
   "testing_data": {
-    "tested": 235809433,
+    "tested": 235876953,
     "positive": 205674,
-    "negative": 40210958,
+    "negative": 40275759,
     "unconfirmed": 11869
   },
   "testing_data_imcr": {
@@ -891,9 +891,9 @@
     "source": ""
   },
   "today": {
-    "confirmed": 408,
-    "recovered": 248,
+    "confirmed": 584,
+    "recovered": 342,
     "dead": 1,
-    "active": 159
+    "active": 241
   }
 }
