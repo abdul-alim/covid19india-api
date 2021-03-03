@@ -1,9 +1,9 @@
 {
-  "confirmed": 11139591,
-  "recovered": 10810327,
+  "confirmed": 11139596,
+  "recovered": 10810328,
   "dead": 157385,
-  "active": 167286,
-  "updatedTime": "3/3/2021 14:29:34",
+  "active": 167290,
+  "updatedTime": "3/3/2021 16:59:34",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -680,17 +680,17 @@
     "ML": {
       "name": "Meghalaya",
       "confirmed": 13966,
-      "active": 15,
-      "recovered": 13803,
+      "active": 14,
+      "recovered": 13804,
       "dead": 148,
-      "updatedTime": "02/03/2021 19:57:40",
+      "updatedTime": "03/03/2021 16:59:37",
       "note": "",
       "stateCode": "ML",
       "today": {
         "confirmed": 0,
-        "recovered": 0,
+        "recovered": 1,
         "dead": 0,
-        "active": 0
+        "active": -1
       },
       "testing_data": {
         "tested": 371538,
@@ -703,18 +703,18 @@
     },
     "NL": {
       "name": "Nagaland",
-      "confirmed": 12200,
-      "active": 7,
+      "confirmed": 12205,
+      "active": 12,
       "recovered": 11949,
       "dead": 91,
-      "updatedTime": "01/03/2021 21:44:43",
+      "updatedTime": "03/03/2021 16:59:42",
       "note": "",
       "stateCode": "NL",
       "today": {
-        "confirmed": 0,
+        "confirmed": 5,
         "recovered": 0,
         "dead": 0,
-        "active": 0
+        "active": 5
       },
       "testing_data": {
         "tested": 130743,
@@ -891,9 +891,9 @@
     "source": ""
   },
   "today": {
-    "confirmed": 268,
-    "recovered": 165,
+    "confirmed": 273,
+    "recovered": 166,
     "dead": 0,
-    "active": 103
+    "active": 107
   }
 }
