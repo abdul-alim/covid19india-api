@@ -1,9 +1,9 @@
 {
-  "confirmed": 11140129,
-  "recovered": 10810605,
-  "dead": 157386,
-  "active": 167544,
-  "updatedTime": "3/3/2021 19:42:36",
+  "confirmed": 11140934,
+  "recovered": 10811284,
+  "dead": 157391,
+  "active": 167664,
+  "updatedTime": "3/3/2021 20:16:35",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -55,18 +55,18 @@
     },
     "KA": {
       "name": "Karnataka",
-      "confirmed": 952037,
-      "active": 5945,
-      "recovered": 933730,
-      "dead": 12343,
-      "updatedTime": "02/03/2021 20:41:35",
+      "confirmed": 952565,
+      "active": 6057,
+      "recovered": 934143,
+      "dead": 12346,
+      "updatedTime": "03/03/2021 20:15:38",
       "note": "",
       "stateCode": "KA",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 528,
+        "recovered": 413,
+        "dead": 3,
+        "active": 112
       },
       "testing_data": {
         "tested": 18989488,
@@ -175,18 +175,18 @@
     },
     "WB": {
       "name": "West Bengal",
-      "confirmed": 575487,
-      "active": 3253,
-      "recovered": 561964,
-      "dead": 10270,
-      "updatedTime": "02/03/2021 20:20:39",
+      "confirmed": 575712,
+      "active": 3245,
+      "recovered": 562195,
+      "dead": 10272,
+      "updatedTime": "03/03/2021 20:15:40",
       "note": "",
       "stateCode": "WB",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 225,
+        "recovered": 231,
+        "dead": 2,
+        "active": -8
       },
       "testing_data": {
         "tested": 8598257,
@@ -487,26 +487,26 @@
     },
     "UT": {
       "name": "Uttarakhand",
-      "confirmed": 97089,
-      "active": 451,
-      "recovered": 93544,
+      "confirmed": 97134,
+      "active": 463,
+      "recovered": 93575,
       "dead": 1692,
-      "updatedTime": "02/03/2021 22:39:40",
+      "updatedTime": "03/03/2021 20:16:37",
       "note": "[Oct 30]: Metric of capturing the testing data has switched to \"Samples Tested\" from \"Samples Collected\"",
       "stateCode": "UT",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 45,
+        "recovered": 31,
         "dead": 0,
-        "active": 0
+        "active": 14
       },
       "testing_data": {
-        "tested": 2426085,
+        "tested": 2436780,
         "positive": 0,
-        "negative": 2328996,
-        "unconfirmed": 7318,
-        "date": "02/03/2021",
-        "source": "https://twitter.com/DDnews_dehradun/status/1366778677439074308"
+        "negative": 2339646,
+        "unconfirmed": 8512,
+        "date": "03/03/2021",
+        "source": "https://twitter.com/DDnews_dehradun/status/1367119543449972736"
       }
     },
     "HP": {
@@ -559,26 +559,26 @@
     },
     "PY": {
       "name": "Puducherry",
-      "confirmed": 39763,
-      "active": 174,
-      "recovered": 38920,
+      "confirmed": 39777,
+      "active": 168,
+      "recovered": 38940,
       "dead": 669,
-      "updatedTime": "02/03/2021 22:39:41",
+      "updatedTime": "03/03/2021 20:15:44",
       "note": "",
       "stateCode": "PY",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 14,
+        "recovered": 20,
         "dead": 0,
-        "active": 0
+        "active": -6
       },
       "testing_data": {
-        "tested": 634561,
-        "positive": 0,
-        "negative": 0,
-        "unconfirmed": 0,
-        "date": "03/03/2021",
-        "source": ""
+        "tested": 633005,
+        "positive": 44006,
+        "negative": 588788,
+        "unconfirmed": 211,
+        "date": "02/03/2021",
+        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/7084"
       }
     },
     "TR": {
@@ -840,18 +840,18 @@
     },
     "LD": {
       "name": "Laccadives",
-      "confirmed": 414,
-      "active": 126,
-      "recovered": 281,
+      "confirmed": 407,
+      "active": 136,
+      "recovered": 265,
       "dead": 1,
-      "updatedTime": "03/03/2021 19:42:40",
+      "updatedTime": "03/03/2021 20:15:46",
       "note": "",
       "stateCode": "LD",
       "today": {
-        "confirmed": 7,
-        "recovered": 16,
+        "confirmed": 0,
+        "recovered": 0,
         "dead": 0,
-        "active": -9
+        "active": 0
       },
       "testing_data": {
         "tested": 33417,
@@ -881,19 +881,19 @@
     }
   },
   "testing_data": {
-    "tested": 236172525,
-    "positive": 161668,
-    "negative": 39686971,
-    "unconfirmed": 11658
+    "tested": 236181664,
+    "positive": 205674,
+    "negative": 40286409,
+    "unconfirmed": 13063
   },
   "testing_data_imcr": {
     "tested": 218403277,
     "source": ""
   },
   "today": {
-    "confirmed": 806,
-    "recovered": 443,
-    "dead": 1,
-    "active": 362
+    "confirmed": 1611,
+    "recovered": 1122,
+    "dead": 6,
+    "active": 483
   }
 }
