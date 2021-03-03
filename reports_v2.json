@@ -1,9 +1,9 @@
 {
-  "confirmed": 11156254,
-  "recovered": 10823806,
+  "confirmed": 11156331,
+  "recovered": 10823940,
   "dead": 157471,
-  "active": 170376,
-  "updatedTime": "3/3/2021 23:11:39",
+  "active": 170319,
+  "updatedTime": "3/3/2021 23:32:38",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -151,18 +151,18 @@
     },
     "UP": {
       "name": "Uttar Pradesh",
-      "confirmed": 603711,
-      "active": 2082,
-      "recovered": 592901,
+      "confirmed": 603788,
+      "active": 2025,
+      "recovered": 593035,
       "dead": 8728,
-      "updatedTime": "03/03/2021 00:16:35",
+      "updatedTime": "03/03/2021 23:31:54",
       "note": "[Jan 1]:As no bulletin was provided for 31'st Dec'20,its count has been combined with 1st Jan'21\n[Jan 9]:Due to reconcillation there are 1286 cases.",
       "stateCode": "UP",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 77,
+        "recovered": 134,
         "dead": 0,
-        "active": 0
+        "active": -57
       },
       "testing_data": {
         "tested": 31631238,
@@ -731,7 +731,7 @@
       "active": 42,
       "recovered": 9649,
       "dead": 130,
-      "updatedTime": "03/03/2021 23:16:50",
+      "updatedTime": "03/03/2021 23:31:59",
       "note": "",
       "stateCode": "LA",
       "today": {
@@ -779,7 +779,7 @@
       "active": 8,
       "recovered": 4952,
       "dead": 62,
-      "updatedTime": "03/03/2021 23:16:53",
+      "updatedTime": "03/03/2021 23:32:02",
       "note": "",
       "stateCode": "AN",
       "today": {
@@ -891,9 +891,9 @@
     "source": "https://www.icmr.gov.in/pdf/covid/update/ICMR_testing_update_03Mar2021.pdf"
   },
   "today": {
-    "confirmed": 16931,
-    "recovered": 13644,
+    "confirmed": 17008,
+    "recovered": 13778,
     "dead": 87,
-    "active": 3200
+    "active": 3143
   }
 }
