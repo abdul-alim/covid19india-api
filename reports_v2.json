@@ -1,9 +1,9 @@
 {
   "confirmed": 11139323,
-  "recovered": 10810162,
+  "recovered": 10810325,
   "dead": 157385,
-  "active": 167183,
-  "updatedTime": "3/3/2021 04:30:34",
+  "active": 167020,
+  "updatedTime": "3/3/2021 10:20:33",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -272,25 +272,25 @@
     "TG": {
       "name": "Telangana",
       "confirmed": 299086,
-      "active": 1907,
-      "recovered": 295544,
+      "active": 1744,
+      "recovered": 295707,
       "dead": 1635,
-      "updatedTime": "02/03/2021 15:18:39",
+      "updatedTime": "03/03/2021 10:20:35",
       "note": "[July 27] : Telangana bulletin for the previous day is released on the next day. We will add the cases for Telangana against the date of release, as that is the convention that we are following for other states.",
       "stateCode": "TG",
       "today": {
         "confirmed": 0,
-        "recovered": 0,
+        "recovered": 163,
         "dead": 0,
-        "active": 0
+        "active": -163
       },
       "testing_data": {
-        "tested": 8761207,
+        "tested": 8801651,
         "positive": 0,
         "negative": 0,
-        "unconfirmed": 488,
-        "date": "02/03/2021",
-        "source": "https://twitter.com/IPRTelangana/status/1366599988797607937"
+        "unconfirmed": 786,
+        "date": "03/03/2021",
+        "source": "https://twitter.com/IPRTelangana/status/1366962435786088450"
       }
     },
     "HR": {
@@ -597,12 +597,12 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 621754,
-        "positive": 33414,
-        "negative": 588340,
+        "tested": 622896,
+        "positive": 33417,
+        "negative": 589479,
         "unconfirmed": 0,
-        "date": "01/03/2021",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/7018"
+        "date": "03/03/2021",
+        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/7086"
       }
     },
     "MN": {
@@ -881,10 +881,10 @@
     }
   },
   "testing_data": {
-    "tested": 235767847,
-    "positive": 205671,
-    "negative": 40209819,
-    "unconfirmed": 11571
+    "tested": 235809433,
+    "positive": 205674,
+    "negative": 40210958,
+    "unconfirmed": 11869
   },
   "testing_data_imcr": {
     "tested": 218403277,
@@ -892,8 +892,8 @@
   },
   "today": {
     "confirmed": 0,
-    "recovered": 0,
+    "recovered": 163,
     "dead": 0,
-    "active": 0
+    "active": -163
   }
 }
