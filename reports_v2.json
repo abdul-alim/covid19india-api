@@ -1,9 +1,9 @@
 {
-  "confirmed": 11171166,
-  "recovered": 10836798,
-  "dead": 157562,
-  "active": 172203,
-  "updatedTime": "4/3/2021 20:29:36",
+  "confirmed": 11172690,
+  "recovered": 10837486,
+  "dead": 157579,
+  "active": 173022,
+  "updatedTime": "4/3/2021 21:02:36",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -93,12 +93,12 @@
         "active": 45
       },
       "testing_data": {
-        "tested": 14047174,
+        "tested": 14092251,
         "positive": 0,
-        "negative": 13156959,
+        "negative": 0,
         "unconfirmed": 0,
-        "date": "3/3/2021",
-        "source": "https://twitter.com/ArogyaAndhra/status/1367065110070484995"
+        "date": "4/3/2021",
+        "source": "https://twitter.com/ArogyaAndhra/status/1367454557639376897"
       }
     },
     "TN": {
@@ -151,18 +151,18 @@
     },
     "UP": {
       "name": "Uttar Pradesh",
-      "confirmed": 603788,
-      "active": 2025,
-      "recovered": 593035,
-      "dead": 8728,
-      "updatedTime": "03/03/2021 23:46:40",
+      "confirmed": 603907,
+      "active": 2029,
+      "recovered": 593149,
+      "dead": 8729,
+      "updatedTime": "04/03/2021 21:02:38",
       "note": "[Jan 1]:As no bulletin was provided for 31'st Dec'20,its count has been combined with 1st Jan'21\n[Jan 9]:Due to reconcillation there are 1286 cases.",
       "stateCode": "UP",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 119,
+        "recovered": 114,
+        "dead": 1,
+        "active": 4
       },
       "testing_data": {
         "tested": 31631238,
@@ -295,18 +295,18 @@
     },
     "HR": {
       "name": "Haryana",
-      "confirmed": 271365,
-      "active": 1470,
-      "recovered": 266843,
+      "confirmed": 271659,
+      "active": 1615,
+      "recovered": 266992,
       "dead": 3052,
-      "updatedTime": "03/03/2021 21:35:48",
+      "updatedTime": "04/03/2021 21:02:40",
       "note": "",
       "stateCode": "HR",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 294,
+        "recovered": 149,
         "dead": 0,
-        "active": 0
+        "active": 145
       },
       "testing_data": {
         "tested": 5717809,
@@ -343,18 +343,18 @@
     },
     "BR": {
       "name": "Bihar",
-      "confirmed": 262628,
-      "active": 348,
-      "recovered": 260737,
-      "dead": 1542,
-      "updatedTime": "03/03/2021 21:19:48",
+      "confirmed": 262668,
+      "active": 347,
+      "recovered": 260777,
+      "dead": 1543,
+      "updatedTime": "04/03/2021 21:02:41",
       "note": "",
       "stateCode": "BR",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 40,
+        "recovered": 40,
+        "dead": 1,
+        "active": -1
       },
       "testing_data": {
         "tested": 22525216,
@@ -415,18 +415,18 @@
     },
     "PB": {
       "name": "Punjab",
-      "confirmed": 184310,
-      "active": 5593,
-      "recovered": 172845,
-      "dead": 5872,
+      "confirmed": 185381,
+      "active": 6264,
+      "recovered": 173230,
+      "dead": 5887,
       "updatedTime": "03/03/2021 20:58:40",
       "note": "",
       "stateCode": "PB",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 1071,
+        "recovered": 385,
+        "dead": 15,
+        "active": 671
       },
       "testing_data": {
         "tested": 5069381,
@@ -881,9 +881,9 @@
     }
   },
   "testing_data": {
-    "tested": 236706884,
+    "tested": 236751961,
     "positive": 205723,
-    "negative": 40372005,
+    "negative": 27215046,
     "unconfirmed": 13492
   },
   "testing_data_imcr": {
@@ -891,9 +891,9 @@
     "source": "https://twitter.com/ICMRDELHI/status/1367321076099772418"
   },
   "today": {
-    "confirmed": 14418,
-    "recovered": 12565,
-    "dead": 91,
-    "active": 1762
+    "confirmed": 15942,
+    "recovered": 13253,
+    "dead": 108,
+    "active": 2581
   }
 }
