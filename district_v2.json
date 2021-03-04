@@ -5474,14 +5474,14 @@
       {
         "district": "East Khasi Hills",
         "notes": "",
-        "active": 10,
+        "active": 9,
         "confirmed": 8680,
-        "recovered": 8548,
+        "recovered": 8549,
         "dead": 122,
         "today": {
           "confirmed": 0,
-          "recovered": 0,
-          "active": 0,
+          "recovered": 1,
+          "active": -1,
           "dead": 0
         }
       },
@@ -5600,14 +5600,14 @@
     ],
     "today": {
       "confirmed": 0,
-      "active": 0,
-      "recovered": 0,
+      "active": -1,
+      "recovered": 1,
       "dead": 0
     },
     "confirmed": 13966,
-    "recovered": 13804,
+    "recovered": 13805,
     "dead": 148,
-    "active": 14
+    "active": 13
   },
   "MN": {
     "state": "Manipur",
@@ -8356,10 +8356,10 @@
       "recovered": 0,
       "dead": 0
     },
-    "confirmed": 320772,
-    "recovered": 316515,
-    "dead": 2787,
-    "active": 1470
+    "confirmed": 320928,
+    "recovered": 316631,
+    "dead": 2788,
+    "active": 1509
   },
   "SK": {
     "state": "Sikkim",
