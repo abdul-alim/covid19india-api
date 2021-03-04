@@ -1,9 +1,9 @@
 {
-  "confirmed": 11173023,
-  "recovered": 10837770,
-  "dead": 157583,
-  "active": 173067,
-  "updatedTime": "4/3/2021 22:19:43",
+  "confirmed": 11173567,
+  "recovered": 10838018,
+  "dead": 157584,
+  "active": 173362,
+  "updatedTime": "4/3/2021 23:16:35",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -367,18 +367,18 @@
     },
     "MP": {
       "name": "Madhya Pradesh",
-      "confirmed": 262850,
-      "active": 3097,
-      "recovered": 255888,
-      "dead": 3865,
-      "updatedTime": "04/03/2021 00:39:38",
+      "confirmed": 263290,
+      "active": 3308,
+      "recovered": 256116,
+      "dead": 3866,
+      "updatedTime": "04/03/2021 23:16:37",
       "note": "[Oct 14]: 4469 confirmed cases and 4469 recoveries added in MP bulletin as reconciliation with private labs and hospitals",
       "stateCode": "MP",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 440,
+        "recovered": 228,
+        "dead": 1,
+        "active": 211
       },
       "testing_data": {
         "tested": 5846420,
@@ -487,26 +487,26 @@
     },
     "UT": {
       "name": "Uttarakhand",
-      "confirmed": 97134,
-      "active": 463,
-      "recovered": 93575,
+      "confirmed": 97234,
+      "active": 544,
+      "recovered": 93594,
       "dead": 1692,
-      "updatedTime": "03/03/2021 20:30:42",
+      "updatedTime": "04/03/2021 23:16:39",
       "note": "[Oct 30]: Metric of capturing the testing data has switched to \"Samples Tested\" from \"Samples Collected\"",
       "stateCode": "UT",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 100,
+        "recovered": 19,
         "dead": 0,
-        "active": 0
+        "active": 81
       },
       "testing_data": {
-        "tested": 2436780,
+        "tested": 2445312,
         "positive": 0,
-        "negative": 2339646,
-        "unconfirmed": 8512,
-        "date": "03/03/2021",
-        "source": "https://twitter.com/DDnews_dehradun/status/1367119543449972736"
+        "negative": 2348078,
+        "unconfirmed": 7885,
+        "date": "04/03/2021",
+        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/7116"
       }
     },
     "HP": {
@@ -751,18 +751,18 @@
     },
     "SK": {
       "name": "Sikkim",
-      "confirmed": 6150,
-      "active": 29,
-      "recovered": 5889,
+      "confirmed": 6154,
+      "active": 32,
+      "recovered": 5890,
       "dead": 135,
-      "updatedTime": "03/03/2021 22:13:49",
+      "updatedTime": "04/03/2021 23:16:40",
       "note": "",
       "stateCode": "SK",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 4,
+        "recovered": 1,
         "dead": 0,
-        "active": 0
+        "active": 3
       },
       "testing_data": {
         "tested": 79197,
@@ -881,19 +881,19 @@
     }
   },
   "testing_data": {
-    "tested": 237457336,
+    "tested": 237465868,
     "positive": 205801,
-    "negative": 40475303,
-    "unconfirmed": 13611
+    "negative": 40483735,
+    "unconfirmed": 12984
   },
   "testing_data_imcr": {
     "tested": 219178908,
     "source": "https://twitter.com/ICMRDELHI/status/1367321076099772418"
   },
   "today": {
-    "confirmed": 16275,
-    "recovered": 13537,
-    "dead": 112,
-    "active": 2626
+    "confirmed": 16819,
+    "recovered": 13785,
+    "dead": 113,
+    "active": 2921
   }
 }
