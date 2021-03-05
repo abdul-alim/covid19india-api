@@ -1,9 +1,9 @@
 {
-  "confirmed": 11174111,
-  "recovered": 10838373,
-  "dead": 157589,
-  "active": 173546,
-  "updatedTime": "5/3/2021 18:17:34",
+  "confirmed": 11176892,
+  "recovered": 10842085,
+  "dead": 157605,
+  "active": 172598,
+  "updatedTime": "5/3/2021 18:35:34",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -31,26 +31,26 @@
     },
     "KL": {
       "name": "Kerala",
-      "confirmed": 1069661,
-      "active": 44438,
-      "recovered": 1020671,
-      "dead": 4256,
-      "updatedTime": "04/03/2021 20:20:51",
+      "confirmed": 1072437,
+      "active": 43559,
+      "recovered": 1024309,
+      "dead": 4272,
+      "updatedTime": "05/03/2021 18:35:35",
       "note": "Mahe native who expired in Kannur included in Kerala's deceased tally.\nSome non-covid deaths have also been reported in the bulletin.\nThese have been reduced from active count",
       "stateCode": "KL",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 2776,
+        "recovered": 3638,
+        "dead": 16,
+        "active": -878
       },
       "testing_data": {
-        "tested": 11713060,
+        "tested": 11779163,
         "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "04/03/2021",
-        "source": "http://dhs.kerala.gov.in/wp-content/uploads/2021/03/Bulletin-HFWD-English-March-04.pdf"
+        "date": "05/03/2021",
+        "source": "http://dhs.kerala.gov.in/wp-content/uploads/2021/03/Bulletin-HFWD-English-March-05.pdf"
       }
     },
     "KA": {
@@ -79,26 +79,26 @@
     },
     "AP": {
       "name": "Andhra Pradesh",
-      "confirmed": 890436,
-      "active": 905,
-      "recovered": 882359,
+      "confirmed": 890441,
+      "active": 900,
+      "recovered": 882369,
       "dead": 7172,
-      "updatedTime": "04/03/2021 18:35:38",
+      "updatedTime": "05/03/2021 18:35:36",
       "note": "",
       "stateCode": "AP",
       "today": {
-        "confirmed": 119,
-        "recovered": 84,
+        "confirmed": 124,
+        "recovered": 94,
         "dead": 1,
-        "active": 34
+        "active": 29
       },
       "testing_data": {
-        "tested": 14092251,
+        "tested": 14143911,
         "positive": 0,
-        "negative": 13201934,
+        "negative": 13253470,
         "unconfirmed": 0,
-        "date": "4/3/2021",
-        "source": "https://twitter.com/ArogyaAndhra/status/1367454557639376897"
+        "date": "5/3/2021",
+        "source": "https://twitter.com/ArogyaAndhra/status/1367817871749902340"
       }
     },
     "TN": {
@@ -200,25 +200,25 @@
     "OR": {
       "name": "Odisha",
       "confirmed": 337620,
-      "active": 812,
-      "recovered": 334838,
+      "active": 748,
+      "recovered": 334902,
       "dead": 1970,
-      "updatedTime": "05/03/2021 13:26:36",
+      "updatedTime": "05/03/2021 18:35:38",
       "note": "[July 12th] :20 non-covid deaths reported in state dashboard are included in the deceased count",
       "stateCode": "OR",
       "today": {
         "confirmed": 91,
-        "recovered": 0,
+        "recovered": 64,
         "dead": 0,
-        "active": 91
+        "active": 27
       },
       "testing_data": {
-        "tested": 8405042,
+        "tested": 8427174,
         "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "04/03/2021",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/7099"
+        "date": "05/03/2021",
+        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/7117"
       }
     },
     "RJ": {
@@ -443,7 +443,7 @@
       "active": 891,
       "recovered": 124002,
       "dead": 1960,
-      "updatedTime": "05/03/2021 18:17:37",
+      "updatedTime": "05/03/2021 18:35:39",
       "note": "",
       "stateCode": "JK",
       "today": {
@@ -803,7 +803,7 @@
       "active": 14,
       "recovered": 4404,
       "dead": 10,
-      "updatedTime": "05/03/2021 18:17:38",
+      "updatedTime": "05/03/2021 18:35:41",
       "note": "",
       "stateCode": "MZ",
       "today": {
@@ -881,9 +881,9 @@
     }
   },
   "testing_data": {
-    "tested": 237537211,
+    "tested": 237677106,
     "positive": 205803,
-    "negative": 40510860,
+    "negative": 40562396,
     "unconfirmed": 12862
   },
   "testing_data_imcr": {
@@ -891,9 +891,9 @@
     "source": "https://twitter.com/ICMRDELHI/status/1367677953916608518"
   },
   "today": {
-    "confirmed": 539,
-    "recovered": 352,
-    "dead": 5,
-    "active": 182
+    "confirmed": 3320,
+    "recovered": 4064,
+    "dead": 21,
+    "active": -765
   }
 }
