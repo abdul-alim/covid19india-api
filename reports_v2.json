@@ -1,9 +1,9 @@
 {
-  "confirmed": 11173910,
-  "recovered": 10838213,
-  "dead": 157587,
-  "active": 173507,
-  "updatedTime": "5/3/2021 17:44:34",
+  "confirmed": 11174111,
+  "recovered": 10838373,
+  "dead": 157589,
+  "active": 173546,
+  "updatedTime": "5/3/2021 18:17:34",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -50,7 +50,7 @@
         "negative": 0,
         "unconfirmed": 0,
         "date": "04/03/2021",
-        "source": "https://www.facebook.com/539381006153734/posts/3849534308471704/"
+        "source": "http://dhs.kerala.gov.in/wp-content/uploads/2021/03/Bulletin-HFWD-English-March-04.pdf"
       }
     },
     "KA": {
@@ -79,18 +79,18 @@
     },
     "AP": {
       "name": "Andhra Pradesh",
-      "confirmed": 890317,
-      "active": 871,
-      "recovered": 882275,
-      "dead": 7171,
+      "confirmed": 890436,
+      "active": 905,
+      "recovered": 882359,
+      "dead": 7172,
       "updatedTime": "04/03/2021 18:35:38",
       "note": "",
       "stateCode": "AP",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 119,
+        "recovered": 84,
+        "dead": 1,
+        "active": 34
       },
       "testing_data": {
         "tested": 14092251,
@@ -439,18 +439,18 @@
     },
     "JK": {
       "name": "Jammu and Kashmir",
-      "confirmed": 126772,
-      "active": 883,
-      "recovered": 123930,
-      "dead": 1959,
-      "updatedTime": "04/03/2021 18:35:40",
+      "confirmed": 126853,
+      "active": 891,
+      "recovered": 124002,
+      "dead": 1960,
+      "updatedTime": "05/03/2021 18:17:37",
       "note": "",
       "stateCode": "JK",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 81,
+        "recovered": 72,
+        "dead": 1,
+        "active": 8
       },
       "testing_data": {
         "tested": 5336858,
@@ -458,7 +458,7 @@
         "negative": 5210005,
         "unconfirmed": 0,
         "date": "05/03/2021",
-        "source": ""
+        "source": "https://twitter.com/diprjk/status/1367805319842131968"
       }
     },
     "JH": {
@@ -539,7 +539,7 @@
       "active": 675,
       "recovered": 53817,
       "dead": 799,
-      "updatedTime": "05/03/2021 17:44:36",
+      "updatedTime": "05/03/2021 17:53:37",
       "note": "",
       "stateCode": "GA",
       "today": {
@@ -554,7 +554,7 @@
         "negative": 0,
         "unconfirmed": 0,
         "date": "05/03/2021",
-        "source": "https://www.goa.gov.in/"
+        "source": "https://www.goa.gov.in/wp-content/uploads/2021/03/Power-Shut-Down-Loliem.pdf"
       }
     },
     "PY": {
@@ -683,7 +683,7 @@
       "active": 14,
       "recovered": 13806,
       "dead": 148,
-      "updatedTime": "05/03/2021 17:44:37",
+      "updatedTime": "05/03/2021 17:53:38",
       "note": "",
       "stateCode": "ML",
       "today": {
@@ -717,12 +717,12 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 131243,
+        "tested": 131491,
         "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "4/3/2021",
-        "source": "https://twitter.com/MyGovNagaland/status/1367429989864337409"
+        "date": "05/03/2021",
+        "source": "https://twitter.com/MyGovNagaland/status/1367815495747956744"
       }
     },
     "LA": {
@@ -789,28 +789,28 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 273010,
-        "positive": 5022,
+        "tested": 274849,
+        "positive": 5024,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "03/03/2021",
-        "source": "https://dhs.andaman.gov.in/NewEvents/585.pdf"
+        "date": "04/03/2021",
+        "source": "https://dhs.andaman.gov.in/NewEvents/586.pdf"
       }
     },
     "MZ": {
       "name": "Mizoram",
-      "confirmed": 4427,
-      "active": 17,
-      "recovered": 4400,
+      "confirmed": 4428,
+      "active": 14,
+      "recovered": 4404,
       "dead": 10,
-      "updatedTime": "04/03/2021 17:30:43",
+      "updatedTime": "05/03/2021 18:17:38",
       "note": "",
       "stateCode": "MZ",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 1,
+        "recovered": 4,
         "dead": 0,
-        "active": 0
+        "active": -3
       },
       "testing_data": {
         "tested": 235319,
@@ -881,8 +881,8 @@
     }
   },
   "testing_data": {
-    "tested": 237535124,
-    "positive": 205801,
+    "tested": 237537211,
+    "positive": 205803,
     "negative": 40510860,
     "unconfirmed": 12862
   },
@@ -891,9 +891,9 @@
     "source": "https://twitter.com/ICMRDELHI/status/1367677953916608518"
   },
   "today": {
-    "confirmed": 338,
-    "recovered": 192,
-    "dead": 3,
-    "active": 143
+    "confirmed": 539,
+    "recovered": 352,
+    "dead": 5,
+    "active": 182
   }
 }
