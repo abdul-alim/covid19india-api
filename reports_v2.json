@@ -1,9 +1,9 @@
 {
   "confirmed": 11192639,
-  "recovered": 10852899,
+  "recovered": 10852992,
   "dead": 157697,
-  "active": 177435,
-  "updatedTime": "6/3/2021 18:34:35",
+  "active": 177342,
+  "updatedTime": "6/3/2021 18:59:35",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -200,17 +200,17 @@
     "OR": {
       "name": "Odisha",
       "confirmed": 337674,
-      "active": 802,
-      "recovered": 334902,
+      "active": 714,
+      "recovered": 334990,
       "dead": 1970,
-      "updatedTime": "06/03/2021 12:25:37",
+      "updatedTime": "06/03/2021 18:59:37",
       "note": "[July 12th] :20 non-covid deaths reported in state dashboard are included in the deceased count",
       "stateCode": "OR",
       "today": {
         "confirmed": 54,
-        "recovered": 0,
+        "recovered": 88,
         "dead": 0,
-        "active": 54
+        "active": -34
       },
       "testing_data": {
         "tested": 8451396,
@@ -443,7 +443,7 @@
       "active": 882,
       "recovered": 124089,
       "dead": 1961,
-      "updatedTime": "06/03/2021 18:34:37",
+      "updatedTime": "06/03/2021 18:51:38",
       "note": "",
       "stateCode": "JK",
       "today": {
@@ -453,12 +453,12 @@
         "active": -9
       },
       "testing_data": {
-        "tested": 5336858,
+        "tested": 5363489,
         "positive": 0,
-        "negative": 5210005,
+        "negative": 5236557,
         "unconfirmed": 0,
-        "date": "05/03/2021",
-        "source": "https://twitter.com/diprjk/status/1367805319842131968"
+        "date": "06/03/2021",
+        "source": "https://twitter.com/diprjk/status/1368168214912507915"
       }
     },
     "JH": {
@@ -800,17 +800,17 @@
     "MZ": {
       "name": "Mizoram",
       "confirmed": 4428,
-      "active": 14,
-      "recovered": 4404,
+      "active": 9,
+      "recovered": 4409,
       "dead": 10,
-      "updatedTime": "05/03/2021 18:35:41",
+      "updatedTime": "06/03/2021 18:59:39",
       "note": "",
       "stateCode": "MZ",
       "today": {
         "confirmed": 0,
-        "recovered": 0,
+        "recovered": 5,
         "dead": 0,
-        "active": 0
+        "active": -5
       },
       "testing_data": {
         "tested": 236334,
@@ -881,9 +881,9 @@
     }
   },
   "testing_data": {
-    "tested": 238502256,
+    "tested": 238528887,
     "positive": 205407,
-    "negative": 27376310,
+    "negative": 27402862,
     "unconfirmed": 14913
   },
   "testing_data_imcr": {
@@ -892,8 +892,8 @@
   },
   "today": {
     "confirmed": 743,
-    "recovered": 701,
+    "recovered": 794,
     "dead": 4,
-    "active": 38
+    "active": -55
   }
 }
