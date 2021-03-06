@@ -1,9 +1,9 @@
 {
-  "confirmed": 11193435,
-  "recovered": 10853667,
-  "dead": 157701,
-  "active": 177459,
-  "updatedTime": "6/3/2021 19:14:39",
+  "confirmed": 11193816,
+  "recovered": 10853971,
+  "dead": 157703,
+  "active": 177534,
+  "updatedTime": "6/3/2021 19:24:47",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -107,7 +107,7 @@
       "active": 3952,
       "recovered": 838085,
       "dead": 12517,
-      "updatedTime": "06/03/2021 19:14:43",
+      "updatedTime": "06/03/2021 19:24:48",
       "note": "[July 22]: 444 backdated deceased entries added to Chennai in TN bulletin.\n2 deaths cross notified to other states from Chennai and Coimbatore.\n1 patient died after turning negative for infection in Chengalpattu.\nThese cases have been added to TN deceased tally",
       "stateCode": "TN",
       "today": {
@@ -175,26 +175,26 @@
     },
     "WB": {
       "name": "West Bengal",
-      "confirmed": 576176,
-      "active": 3226,
-      "recovered": 562675,
-      "dead": 10275,
-      "updatedTime": "05/03/2021 20:42:38",
+      "confirmed": 576435,
+      "active": 3213,
+      "recovered": 562945,
+      "dead": 10277,
+      "updatedTime": "06/03/2021 19:24:50",
       "note": "",
       "stateCode": "WB",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 259,
+        "recovered": 270,
+        "dead": 2,
+        "active": -13
       },
       "testing_data": {
-        "tested": 8658929,
+        "tested": 8678594,
         "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "05/03/2021",
-        "source": "https://www.wbhealth.gov.in/uploaded_files/corona/WB_DHFW_Bulletin_5th_MARCH_REPORT_FINAL.pdf"
+        "date": "06/03/2021",
+        "source": "https://www.wbhealth.gov.in/uploaded_files/corona/WB_DHFW_Bulletin_6th_MARCH_REPORT_FINAL.pdf"
       }
     },
     "OR": {
@@ -203,7 +203,7 @@
       "active": 714,
       "recovered": 334990,
       "dead": 1970,
-      "updatedTime": "06/03/2021 19:12:42",
+      "updatedTime": "06/03/2021 19:17:41",
       "note": "[July 12th] :20 non-covid deaths reported in state dashboard are included in the deceased count",
       "stateCode": "OR",
       "today": {
@@ -227,7 +227,7 @@
       "active": 1703,
       "recovered": 316864,
       "dead": 2789,
-      "updatedTime": "06/03/2021 19:14:53",
+      "updatedTime": "06/03/2021 19:24:52",
       "note": "",
       "stateCode": "RJ",
       "today": {
@@ -631,26 +631,26 @@
     },
     "CH": {
       "name": "Chandigarh",
-      "confirmed": 22116,
-      "active": 587,
-      "recovered": 21174,
+      "confirmed": 22238,
+      "active": 675,
+      "recovered": 21208,
       "dead": 355,
-      "updatedTime": "05/03/2021 20:00:42",
+      "updatedTime": "06/03/2021 19:24:54",
       "note": "",
       "stateCode": "CH",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 122,
+        "recovered": 34,
         "dead": 0,
-        "active": 0
+        "active": 88
       },
       "testing_data": {
-        "tested": 263410,
+        "tested": 265479,
         "positive": 0,
-        "negative": 240330,
-        "unconfirmed": 155,
-        "date": "05/03/2021",
-        "source": "https://twitter.com/nagarkoti/status/1367832745276141569"
+        "negative": 242276,
+        "unconfirmed": 138,
+        "date": "06/03/2021",
+        "source": "https://twitter.com/nagarkoti/status/1368193196769959936"
       }
     },
     "AR": {
@@ -803,7 +803,7 @@
       "active": 9,
       "recovered": 4409,
       "dead": 10,
-      "updatedTime": "06/03/2021 19:12:46",
+      "updatedTime": "06/03/2021 19:17:51",
       "note": "",
       "stateCode": "MZ",
       "today": {
@@ -881,19 +881,19 @@
     }
   },
   "testing_data": {
-    "tested": 238601106,
+    "tested": 238622840,
     "positive": 205407,
-    "negative": 27402862,
-    "unconfirmed": 14913
+    "negative": 27404808,
+    "unconfirmed": 14896
   },
   "testing_data_imcr": {
     "tested": 220692677,
     "source": "https://twitter.com/ICMRDELHI/status/1368041015911743493"
   },
   "today": {
-    "confirmed": 1539,
-    "recovered": 1469,
-    "dead": 8,
-    "active": 62
+    "confirmed": 1920,
+    "recovered": 1773,
+    "dead": 10,
+    "active": 137
   }
 }
