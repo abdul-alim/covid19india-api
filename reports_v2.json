@@ -1,17 +1,17 @@
 {
-  "confirmed": 11204179,
-  "recovered": 10860512,
-  "dead": 157750,
-  "active": 181309,
-  "updatedTime": "6/3/2021 19:41:45",
+  "confirmed": 11207066,
+  "recovered": 10864104,
+  "dead": 157767,
+  "active": 180586,
+  "updatedTime": "6/3/2021 20:15:37",
   "states": {
     "MH": {
       "name": "Maharashtra",
       "confirmed": 2208586,
-      "active": 92898,
+      "active": 92897,
       "recovered": 2062031,
       "dead": 52440,
-      "updatedTime": "06/03/2021 19:41:46",
+      "updatedTime": "06/03/2021 20:14:38",
       "note": "[Dec 16]:10,218 duplicate cases & other state cases removed from total cases.791 recovered cases also removed from total recovered cases while reconciling \n[Sep 9] :239 cases have been removed from the hospitalized figures owing to the removal of duplicates and change of addresses as per the original residence\n[Aug 15] : MH bulletin has reduced 819 confirmed cases in Mumbai and 72 confirmed cases from 'Other States' from the tally\n[Jun 16] : 1328 deceased cases have been retroactively added to MH bulletin.\n[Jun 20] : 69 deceased cases have been reduced based on state bulletin.",
       "stateCode": "MH",
       "today": {
@@ -31,18 +31,18 @@
     },
     "KL": {
       "name": "Kerala",
-      "confirmed": 1072437,
-      "active": 43559,
-      "recovered": 1024309,
-      "dead": 4272,
-      "updatedTime": "05/03/2021 18:52:36",
+      "confirmed": 1075228,
+      "active": 42817,
+      "recovered": 1027826,
+      "dead": 4288,
+      "updatedTime": "06/03/2021 20:14:40",
       "note": "Mahe native who expired in Kannur included in Kerala's deceased tally.\nSome non-covid deaths have also been reported in the bulletin.\nThese have been reduced from active count",
       "stateCode": "KL",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 2791,
+        "recovered": 3517,
+        "dead": 16,
+        "active": -742
       },
       "testing_data": {
         "tested": 11779163,
@@ -151,18 +151,18 @@
     },
     "UP": {
       "name": "Uttar Pradesh",
-      "confirmed": 604165,
-      "active": 1732,
+      "confirmed": 604164,
+      "active": 1731,
       "recovered": 593704,
       "dead": 8729,
-      "updatedTime": "06/03/2021 19:41:48",
+      "updatedTime": "06/03/2021 20:14:41",
       "note": "[Jan 1]:As no bulletin was provided for 31'st Dec'20,its count has been combined with 1st Jan'21\n[Jan 9]:Due to reconcillation there are 1286 cases.",
       "stateCode": "UP",
       "today": {
-        "confirmed": 131,
+        "confirmed": 130,
         "recovered": 416,
         "dead": 0,
-        "active": -285
+        "active": -286
       },
       "testing_data": {
         "tested": 31868690,
@@ -343,18 +343,18 @@
     },
     "BR": {
       "name": "Bihar",
-      "confirmed": 262706,
-      "active": 340,
-      "recovered": 260821,
-      "dead": 1544,
-      "updatedTime": "05/03/2021 20:31:39",
+      "confirmed": 262728,
+      "active": 333,
+      "recovered": 260849,
+      "dead": 1545,
+      "updatedTime": "06/03/2021 20:14:43",
       "note": "",
       "stateCode": "BR",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 22,
+        "recovered": 28,
+        "dead": 1,
+        "active": -7
       },
       "testing_data": {
         "tested": 22594432,
@@ -535,18 +535,18 @@
     },
     "GA": {
       "name": "Goa",
-      "confirmed": 55291,
-      "active": 675,
-      "recovered": 53817,
+      "confirmed": 55361,
+      "active": 700,
+      "recovered": 53862,
       "dead": 799,
-      "updatedTime": "05/03/2021 17:53:37",
+      "updatedTime": "06/03/2021 20:15:39",
       "note": "",
       "stateCode": "GA",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 70,
+        "recovered": 45,
         "dead": 0,
-        "active": 0
+        "active": 25
       },
       "testing_data": {
         "tested": 500978,
@@ -840,18 +840,18 @@
     },
     "LD": {
       "name": "Laccadives",
-      "confirmed": 469,
-      "active": 156,
-      "recovered": 307,
+      "confirmed": 474,
+      "active": 159,
+      "recovered": 309,
       "dead": 1,
-      "updatedTime": "05/03/2021 21:47:39",
+      "updatedTime": "06/03/2021 20:14:46",
       "note": "",
       "stateCode": "LD",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 5,
+        "recovered": 2,
         "dead": 0,
-        "active": 0
+        "active": 3
       },
       "testing_data": {
         "tested": 35498,
@@ -891,9 +891,9 @@
     "source": "https://twitter.com/ICMRDELHI/status/1368041015911743493"
   },
   "today": {
-    "confirmed": 12283,
-    "recovered": 8314,
-    "dead": 57,
-    "active": 3912
+    "confirmed": 15170,
+    "recovered": 11906,
+    "dead": 74,
+    "active": 3190
   }
 }
