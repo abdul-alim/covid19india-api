@@ -1,9 +1,9 @@
 {
-  "confirmed": 11211144,
-  "recovered": 10867052,
-  "dead": 157796,
-  "active": 181687,
-  "updatedTime": "7/3/2021 17:03:36",
+  "confirmed": 11211763,
+  "recovered": 10867639,
+  "dead": 157797,
+  "active": 181718,
+  "updatedTime": "7/3/2021 19:13:35",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -103,18 +103,18 @@
     },
     "TN": {
       "name": "Tamil Nadu",
-      "confirmed": 854554,
-      "active": 3952,
-      "recovered": 838085,
-      "dead": 12517,
-      "updatedTime": "06/03/2021 19:30:38",
+      "confirmed": 855121,
+      "active": 3997,
+      "recovered": 838606,
+      "dead": 12518,
+      "updatedTime": "07/03/2021 19:08:39",
       "note": "[July 22]: 444 backdated deceased entries added to Chennai in TN bulletin.\n2 deaths cross notified to other states from Chennai and Coimbatore.\n1 patient died after turning negative for infection in Chengalpattu.\nThese cases have been added to TN deceased tally",
       "stateCode": "TN",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 567,
+        "recovered": 521,
+        "dead": 1,
+        "active": 45
       },
       "testing_data": {
         "tested": 17791275,
@@ -535,18 +535,18 @@
     },
     "GA": {
       "name": "Goa",
-      "confirmed": 55361,
-      "active": 700,
-      "recovered": 53862,
+      "confirmed": 55409,
+      "active": 688,
+      "recovered": 53922,
       "dead": 799,
-      "updatedTime": "06/03/2021 20:24:50",
+      "updatedTime": "07/03/2021 19:13:36",
       "note": "",
       "stateCode": "GA",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 48,
+        "recovered": 60,
         "dead": 0,
-        "active": 0
+        "active": -12
       },
       "testing_data": {
         "tested": 502509,
@@ -607,18 +607,18 @@
     },
     "MN": {
       "name": "Manipur",
-      "confirmed": 29287,
-      "active": 30,
-      "recovered": 28884,
+      "confirmed": 29291,
+      "active": 28,
+      "recovered": 28890,
       "dead": 373,
-      "updatedTime": "06/03/2021 21:19:39",
+      "updatedTime": "07/03/2021 19:08:41",
       "note": "[Dec 14]:824 out of 980 recovered cases are backdated.",
       "stateCode": "MN",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 3,
+        "recovered": 6,
         "dead": 0,
-        "active": 0
+        "active": -3
       },
       "testing_data": {
         "tested": 553091,
@@ -891,9 +891,9 @@
     "source": "https://twitter.com/ICMRDELHI/status/1368400047642013705"
   },
   "today": {
-    "confirmed": 524,
-    "recovered": 475,
-    "dead": 3,
-    "active": 46
+    "confirmed": 1142,
+    "recovered": 1062,
+    "dead": 4,
+    "active": 76
   }
 }
