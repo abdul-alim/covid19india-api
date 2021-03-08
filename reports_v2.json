@@ -1,9 +1,9 @@
 {
-  "confirmed": 11241990,
-  "recovered": 10893442,
-  "dead": 157949,
-  "active": 185984,
-  "updatedTime": "8/3/2021 20:41:42",
+  "confirmed": 11243953,
+  "recovered": 10896869,
+  "dead": 157964,
+  "active": 184505,
+  "updatedTime": "8/3/2021 21:03:49",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -11,7 +11,7 @@
       "active": 97637,
       "recovered": 2077112,
       "dead": 52500,
-      "updatedTime": "08/03/2021 20:41:44",
+      "updatedTime": "08/03/2021 20:43:44",
       "note": "[Dec 16]:10,218 duplicate cases & other state cases removed from total cases.791 recovered cases also removed from total recovered cases while reconciling \n[Sep 9] :239 cases have been removed from the hospitalized figures owing to the removal of duplicates and change of addresses as per the original residence\n[Aug 15] : MH bulletin has reduced 819 confirmed cases in Mumbai and 72 confirmed cases from 'Other States' from the tally\n[Jun 16] : 1328 deceased cases have been retroactively added to MH bulletin.\n[Jun 20] : 69 deceased cases have been reduced based on state bulletin.",
       "stateCode": "MH",
       "today": {
@@ -31,18 +31,18 @@
     },
     "KL": {
       "name": "Kerala",
-      "confirmed": 1077328,
-      "active": 40863,
-      "recovered": 1031865,
-      "dead": 4301,
-      "updatedTime": "07/03/2021 21:00:37",
+      "confirmed": 1078740,
+      "active": 39233,
+      "recovered": 1034895,
+      "dead": 4313,
+      "updatedTime": "08/03/2021 21:03:56",
       "note": "Mahe native who expired in Kannur included in Kerala's deceased tally.\nSome non-covid deaths have also been reported in the bulletin.\nThese have been reduced from active count",
       "stateCode": "KL",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 1412,
+        "recovered": 3030,
+        "dead": 12,
+        "active": -1630
       },
       "testing_data": {
         "tested": 11892875,
@@ -59,7 +59,7 @@
       "active": 6815,
       "recovered": 936250,
       "dead": 12367,
-      "updatedTime": "08/03/2021 20:41:47",
+      "updatedTime": "08/03/2021 21:00:49",
       "note": "",
       "stateCode": "KA",
       "today": {
@@ -179,7 +179,7 @@
       "active": 3155,
       "recovered": 563403,
       "dead": 10280,
-      "updatedTime": "08/03/2021 20:41:50",
+      "updatedTime": "08/03/2021 20:43:49",
       "note": "",
       "stateCode": "WB",
       "today": {
@@ -247,18 +247,18 @@
     },
     "CT": {
       "name": "Chhattisgarh",
-      "confirmed": 314320,
-      "active": 2820,
-      "recovered": 307642,
-      "dead": 3858,
-      "updatedTime": "07/03/2021 23:47:38",
+      "confirmed": 314640,
+      "active": 2919,
+      "recovered": 307862,
+      "dead": 3859,
+      "updatedTime": "08/03/2021 21:04:03",
       "note": "",
       "stateCode": "CT",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 320,
+        "recovered": 220,
+        "dead": 1,
+        "active": 99
       },
       "testing_data": {
         "tested": 4990336,
@@ -295,18 +295,18 @@
     },
     "HR": {
       "name": "Haryana",
-      "confirmed": 272520,
-      "active": 2031,
-      "recovered": 267433,
-      "dead": 3056,
-      "updatedTime": "07/03/2021 23:47:39",
+      "confirmed": 272751,
+      "active": 2083,
+      "recovered": 267610,
+      "dead": 3058,
+      "updatedTime": "08/03/2021 21:04:15",
       "note": "",
       "stateCode": "HR",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 231,
+        "recovered": 177,
+        "dead": 2,
+        "active": 52
       },
       "testing_data": {
         "tested": 5796997,
@@ -347,7 +347,7 @@
       "active": 289,
       "recovered": 260942,
       "dead": 1547,
-      "updatedTime": "08/03/2021 20:41:52",
+      "updatedTime": "08/03/2021 21:00:52",
       "note": "",
       "stateCode": "BR",
       "today": {
@@ -635,7 +635,7 @@
       "active": 725,
       "recovered": 21316,
       "dead": 356,
-      "updatedTime": "08/03/2021 20:41:55",
+      "updatedTime": "08/03/2021 21:00:56",
       "note": "",
       "stateCode": "CH",
       "today": {
@@ -789,12 +789,12 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 276471,
+        "tested": 278437,
         "positive": 5024,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "05/03/2021",
-        "source": "https://dhs.andaman.gov.in/NewEvents/587.pdf"
+        "date": "06/03/2021",
+        "source": "https://dhs.andaman.gov.in/NewEvents/588.pdf"
       }
     },
     "MZ": {
@@ -881,7 +881,7 @@
     }
   },
   "testing_data": {
-    "tested": 240376045,
+    "tested": 240378011,
     "positive": 161898,
     "negative": 41051589,
     "unconfirmed": 11567
@@ -891,9 +891,9 @@
     "source": "https://twitter.com/ICMRDELHI/status/1368775059402153984"
   },
   "today": {
-    "confirmed": 12719,
-    "recovered": 12562,
-    "dead": 59,
-    "active": 98
+    "confirmed": 14682,
+    "recovered": 15989,
+    "dead": 74,
+    "active": -1381
   }
 }
