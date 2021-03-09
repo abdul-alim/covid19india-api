@@ -4841,14 +4841,14 @@
       {
         "district": "Kargil",
         "notes": "",
-        "active": 20,
+        "active": 19,
         "confirmed": 2141,
-        "recovered": 2077,
+        "recovered": 2078,
         "dead": 44,
         "today": {
           "confirmed": 0,
-          "recovered": 0,
-          "active": 0,
+          "recovered": 1,
+          "active": -1,
           "dead": 0
         }
       },
@@ -4856,27 +4856,27 @@
         "district": "Leh",
         "notes": "",
         "active": 24,
-        "confirmed": 7692,
-        "recovered": 7582,
+        "confirmed": 7694,
+        "recovered": 7584,
         "dead": 86,
         "today": {
-          "confirmed": 0,
-          "recovered": 0,
+          "confirmed": 2,
+          "recovered": 2,
           "active": 0,
           "dead": 0
         }
       }
     ],
     "today": {
-      "confirmed": 0,
-      "active": 0,
-      "recovered": 0,
+      "confirmed": 2,
+      "active": -1,
+      "recovered": 3,
       "dead": 0
     },
-    "confirmed": 9833,
-    "recovered": 9659,
+    "confirmed": 9835,
+    "recovered": 9662,
     "dead": 130,
-    "active": 44
+    "active": 43
   },
   "LD": {
     "state": "Lakshadweep",
@@ -8367,14 +8367,14 @@
       {
         "district": "East Sikkim",
         "notes": "",
-        "active": 551,
-        "confirmed": 1660,
+        "active": 552,
+        "confirmed": 1661,
         "recovered": 1106,
         "dead": 3,
         "today": {
-          "confirmed": 0,
+          "confirmed": 1,
           "recovered": 0,
-          "active": 0,
+          "active": 1,
           "dead": 0
         }
       },
@@ -8422,13 +8422,13 @@
       }
     ],
     "today": {
-      "confirmed": 0,
-      "active": 0,
+      "confirmed": 1,
+      "active": 1,
       "recovered": 0,
       "dead": 0
     },
-    "confirmed": 6174,
-    "recovered": 5892,
+    "confirmed": 6175,
+    "recovered": 5893,
     "dead": 135,
     "active": 50
   },
