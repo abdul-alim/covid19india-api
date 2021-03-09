@@ -1,9 +1,9 @@
 {
-  "confirmed": 11245020,
-  "recovered": 10897797,
-  "dead": 157971,
-  "active": 184635,
-  "updatedTime": "9/3/2021 18:31:39",
+  "confirmed": 11245528,
+  "recovered": 10898174,
+  "dead": 157977,
+  "active": 184760,
+  "updatedTime": "9/3/2021 19:24:39",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -117,28 +117,28 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 17900716,
+        "tested": 17955850,
         "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "08/03/2021",
-        "source": "https://stopcorona.tn.gov.in/wp-content/uploads/2020/03/Media-Bulletin-08-03-21-COVID-19-6-PM.pdf"
+        "date": "09/03/2021",
+        "source": "https://stopcorona.tn.gov.in/daily-bulletin/"
       }
     },
     "DL": {
       "name": "Delhi",
-      "confirmed": 641340,
-      "active": 1730,
-      "recovered": 628686,
-      "dead": 10924,
-      "updatedTime": "08/03/2021 17:24:52",
+      "confirmed": 641660,
+      "active": 1812,
+      "recovered": 628920,
+      "dead": 10928,
+      "updatedTime": "09/03/2021 19:21:41",
       "note": "[July 14]: Value for the total tests conducted has been reduced by 97008 in the state bulletin. Reason given : \"Reconciled with ICMR figures\". We have made the same change.",
       "stateCode": "DL",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 320,
+        "recovered": 234,
+        "dead": 4,
+        "active": 82
       },
       "testing_data": {
         "tested": 12873806,
@@ -165,12 +165,12 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 32170019,
+        "tested": 32270637,
         "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "08/03/2021",
-        "source": "https://twitter.com/ShishirGoUP/status/1368893957359497216"
+        "date": "09/03/2021",
+        "source": "https://twitter.com/ShishirGoUP/status/1369270869403525122?s=20"
       }
     },
     "WB": {
@@ -439,18 +439,18 @@
     },
     "JK": {
       "name": "Jammu and Kashmir",
-      "confirmed": 127114,
-      "active": 871,
-      "recovered": 124280,
-      "dead": 1963,
-      "updatedTime": "08/03/2021 19:19:53",
+      "confirmed": 127191,
+      "active": 859,
+      "recovered": 124367,
+      "dead": 1965,
+      "updatedTime": "09/03/2021 19:21:45",
       "note": "",
       "stateCode": "JK",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 77,
+        "recovered": 87,
+        "dead": 2,
+        "active": -12
       },
       "testing_data": {
         "tested": 5411801,
@@ -607,18 +607,18 @@
     },
     "MN": {
       "name": "Manipur",
-      "confirmed": 29296,
-      "active": 29,
-      "recovered": 28894,
+      "confirmed": 29298,
+      "active": 30,
+      "recovered": 28895,
       "dead": 373,
-      "updatedTime": "08/03/2021 20:33:22",
+      "updatedTime": "09/03/2021 19:21:48",
       "note": "[Dec 14]:824 out of 980 recovered cases are backdated.",
       "stateCode": "MN",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 2,
+        "recovered": 1,
         "dead": 0,
-        "active": 0
+        "active": 1
       },
       "testing_data": {
         "tested": 556094,
@@ -631,18 +631,18 @@
     },
     "CH": {
       "name": "Chandigarh",
-      "confirmed": 22397,
-      "active": 725,
-      "recovered": 21316,
+      "confirmed": 22502,
+      "active": 778,
+      "recovered": 21368,
       "dead": 356,
-      "updatedTime": "08/03/2021 21:00:56",
+      "updatedTime": "09/03/2021 19:24:42",
       "note": "",
       "stateCode": "CH",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 105,
+        "recovered": 52,
         "dead": 0,
-        "active": 0
+        "active": 53
       },
       "testing_data": {
         "tested": 268392,
@@ -799,18 +799,18 @@
     },
     "MZ": {
       "name": "Mizoram",
-      "confirmed": 4428,
-      "active": 6,
-      "recovered": 4412,
+      "confirmed": 4432,
+      "active": 7,
+      "recovered": 4415,
       "dead": 10,
-      "updatedTime": "08/03/2021 19:19:59",
+      "updatedTime": "09/03/2021 19:21:51",
       "note": "",
       "stateCode": "MZ",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 4,
+        "recovered": 3,
         "dead": 0,
-        "active": 0
+        "active": 1
       },
       "testing_data": {
         "tested": 237957,
@@ -881,7 +881,7 @@
     }
   },
   "testing_data": {
-    "tested": 240674674,
+    "tested": 240830426,
     "positive": 161953,
     "negative": 41097217,
     "unconfirmed": 11914
@@ -891,9 +891,9 @@
     "source": "https://twitter.com/ICMRDELHI/status/1369124091932778498"
   },
   "today": {
-    "confirmed": 396,
-    "recovered": 311,
-    "dead": 5,
-    "active": 80
+    "confirmed": 904,
+    "recovered": 688,
+    "dead": 11,
+    "active": 205
   }
 }
