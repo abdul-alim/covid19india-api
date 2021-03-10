@@ -1,9 +1,9 @@
 {
-  "confirmed": 11262755,
-  "recovered": 10918305,
-  "dead": 158101,
-  "active": 181725,
-  "updatedTime": "10/3/2021 13:37:37",
+  "confirmed": 11263247,
+  "recovered": 10918685,
+  "dead": 158105,
+  "active": 181833,
+  "updatedTime": "10/3/2021 17:24:36",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -79,18 +79,18 @@
     },
     "AP": {
       "name": "Andhra Pradesh",
-      "confirmed": 890884,
-      "active": 1038,
-      "recovered": 882670,
-      "dead": 7176,
-      "updatedTime": "09/03/2021 18:31:41",
+      "confirmed": 891004,
+      "active": 1064,
+      "recovered": 882763,
+      "dead": 7177,
+      "updatedTime": "10/03/2021 17:24:38",
       "note": "",
       "stateCode": "AP",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 120,
+        "recovered": 93,
+        "dead": 1,
+        "active": 26
       },
       "testing_data": {
         "tested": 14307165,
@@ -127,18 +127,18 @@
     },
     "DL": {
       "name": "Delhi",
-      "confirmed": 641660,
-      "active": 1812,
-      "recovered": 628920,
-      "dead": 10928,
-      "updatedTime": "09/03/2021 19:21:41",
+      "confirmed": 642030,
+      "active": 1900,
+      "recovered": 629199,
+      "dead": 10931,
+      "updatedTime": "10/03/2021 17:24:39",
       "note": "[July 14]: Value for the total tests conducted has been reduced by 97008 in the state bulletin. Reason given : \"Reconciled with ICMR figures\". We have made the same change.",
       "stateCode": "DL",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 370,
+        "recovered": 279,
+        "dead": 3,
+        "active": 88
       },
       "testing_data": {
         "tested": 12940550,
@@ -704,17 +704,17 @@
     "NL": {
       "name": "Nagaland",
       "confirmed": 12217,
-      "active": 18,
-      "recovered": 11955,
+      "active": 10,
+      "recovered": 11963,
       "dead": 91,
-      "updatedTime": "09/03/2021 16:58:40",
+      "updatedTime": "10/03/2021 17:24:41",
       "note": "",
       "stateCode": "NL",
       "today": {
         "confirmed": 0,
-        "recovered": 0,
+        "recovered": 8,
         "dead": 0,
-        "active": 0
+        "active": -8
       },
       "testing_data": {
         "tested": 132242,
@@ -823,18 +823,18 @@
     },
     "DN": {
       "name": "Dadra and Nagar Haveli and Daman and Diu",
-      "confirmed": 3406,
-      "active": 17,
+      "confirmed": 3408,
+      "active": 19,
       "recovered": 3357,
       "dead": 2,
-      "updatedTime": "08/03/2021 20:33:26",
+      "updatedTime": "10/03/2021 17:24:42",
       "note": "",
       "stateCode": "DN",
       "today": {
-        "confirmed": 0,
+        "confirmed": 2,
         "recovered": 0,
         "dead": 0,
-        "active": 0
+        "active": 2
       },
       "isUnknown": true
     },
@@ -891,9 +891,9 @@
     "source": "https://twitter.com/ICMRDELHI/status/1369491100126257152"
   },
   "today": {
-    "confirmed": 258,
-    "recovered": 176,
-    "dead": 2,
-    "active": 80
+    "confirmed": 750,
+    "recovered": 556,
+    "dead": 6,
+    "active": 188
   }
 }
