@@ -1,9 +1,9 @@
 {
-  "confirmed": 11266078,
-  "recovered": 10923107,
-  "dead": 158122,
-  "active": 180225,
-  "updatedTime": "10/3/2021 19:24:41",
+  "confirmed": 11266216,
+  "recovered": 10923264,
+  "dead": 158123,
+  "active": 180205,
+  "updatedTime": "10/3/2021 19:42:39",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -35,7 +35,7 @@
       "active": 35415,
       "recovered": 1043473,
       "dead": 4343,
-      "updatedTime": "10/03/2021 19:24:43",
+      "updatedTime": "10/03/2021 19:29:40",
       "note": "Mahe native who expired in Kannur included in Kerala's deceased tally.\nSome non-covid deaths have also been reported in the bulletin.\nThese have been reduced from active count",
       "stateCode": "KL",
       "today": {
@@ -165,12 +165,11 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 32270637,
+        "tested": 0,
         "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "09/03/2021",
-        "source": "https://twitter.com/ShishirGoUP/status/1369270869403525122?s=20"
+        "updated": false
       }
     },
     "WB": {
@@ -189,12 +188,11 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 8730503,
+        "tested": 0,
         "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "09/03/2021",
-        "source": "https://www.wbhealth.gov.in/uploaded_files/corona/WB_DHFW_Bulletin_9th_MARCH_REPORT_FINAL.pdf"
+        "updated": false
       }
     },
     "OR": {
@@ -227,7 +225,7 @@
       "active": 2032,
       "recovered": 317257,
       "dead": 2789,
-      "updatedTime": "10/03/2021 19:24:45",
+      "updatedTime": "10/03/2021 19:29:43",
       "note": "",
       "stateCode": "RJ",
       "today": {
@@ -443,7 +441,7 @@
       "active": 899,
       "recovered": 124421,
       "dead": 1968,
-      "updatedTime": "10/03/2021 19:24:47",
+      "updatedTime": "10/03/2021 19:29:45",
       "note": "",
       "stateCode": "JK",
       "today": {
@@ -501,28 +499,27 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 2487980,
+        "tested": 0,
         "positive": 0,
-        "negative": 2390451,
-        "unconfirmed": 9599,
-        "date": "09/03/2021",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/7186"
+        "negative": 0,
+        "unconfirmed": 0,
+        "updated": false
       }
     },
     "HP": {
       "name": "Himachal Pradesh",
-      "confirmed": 59239,
-      "active": 621,
-      "recovered": 57616,
-      "dead": 989,
-      "updatedTime": "09/03/2021 19:58:45",
+      "confirmed": 59347,
+      "active": 599,
+      "recovered": 57745,
+      "dead": 990,
+      "updatedTime": "10/03/2021 19:42:41",
       "note": "",
       "stateCode": "HP",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 108,
+        "recovered": 129,
+        "dead": 1,
+        "active": -22
       },
       "testing_data": {
         "tested": 1139563,
@@ -539,7 +536,7 @@
       "active": 675,
       "recovered": 54130,
       "dead": 802,
-      "updatedTime": "10/03/2021 19:24:49",
+      "updatedTime": "10/03/2021 19:42:45",
       "note": "",
       "stateCode": "GA",
       "today": {
@@ -559,18 +556,18 @@
     },
     "PY": {
       "name": "Puducherry",
-      "confirmed": 39908,
-      "active": 178,
-      "recovered": 39060,
+      "confirmed": 39932,
+      "active": 175,
+      "recovered": 39087,
       "dead": 670,
-      "updatedTime": "09/03/2021 20:18:47",
+      "updatedTime": "10/03/2021 19:42:54",
       "note": "",
       "stateCode": "PY",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 24,
+        "recovered": 27,
         "dead": 0,
-        "active": 0
+        "active": -3
       },
       "testing_data": {
         "tested": 640132,
@@ -597,12 +594,11 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 625498,
-        "positive": 33421,
-        "negative": 592077,
+        "tested": 0,
+        "positive": 0,
+        "negative": 0,
         "unconfirmed": 0,
-        "date": "08/03/2021",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/7160"
+        "updated": false
       }
     },
     "MN": {
@@ -679,18 +675,18 @@
     },
     "ML": {
       "name": "Meghalaya",
-      "confirmed": 13977,
-      "active": 14,
-      "recovered": 13815,
+      "confirmed": 13983,
+      "active": 19,
+      "recovered": 13816,
       "dead": 148,
-      "updatedTime": "09/03/2021 16:27:47",
+      "updatedTime": "10/03/2021 19:42:58",
       "note": "",
       "stateCode": "ML",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 6,
+        "recovered": 1,
         "dead": 0,
-        "active": 0
+        "active": 5
       },
       "testing_data": {
         "tested": 379237,
@@ -803,7 +799,7 @@
       "active": 9,
       "recovered": 4415,
       "dead": 10,
-      "updatedTime": "10/03/2021 19:24:52",
+      "updatedTime": "10/03/2021 19:29:50",
       "note": "",
       "stateCode": "MZ",
       "today": {
@@ -881,19 +877,19 @@
     }
   },
   "testing_data": {
-    "tested": 241471170,
-    "positive": 162017,
-    "negative": 41116832,
-    "unconfirmed": 21290
+    "tested": 197356552,
+    "positive": 128596,
+    "negative": 38134304,
+    "unconfirmed": 11691
   },
   "testing_data_imcr": {
     "tested": 223479877,
     "source": "https://twitter.com/ICMRDELHI/status/1369491100126257152"
   },
   "today": {
-    "confirmed": 3581,
-    "recovered": 4978,
-    "dead": 23,
-    "active": -1420
+    "confirmed": 3719,
+    "recovered": 5135,
+    "dead": 24,
+    "active": -1440
   }
 }
