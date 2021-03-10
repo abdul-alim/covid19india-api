@@ -1,24 +1,24 @@
 {
-  "confirmed": 11270609,
-  "recovered": 10925771,
-  "dead": 158159,
-  "active": 182055,
-  "updatedTime": "10/3/2021 20:41:42",
+  "confirmed": 11284285,
+  "recovered": 10935709,
+  "dead": 158213,
+  "active": 185733,
+  "updatedTime": "10/3/2021 21:03:40",
   "states": {
     "MH": {
       "name": "Maharashtra",
-      "confirmed": 2238398,
-      "active": 95322,
-      "recovered": 2089294,
-      "dead": 52556,
-      "updatedTime": "09/03/2021 21:18:41",
+      "confirmed": 2252057,
+      "active": 99008,
+      "recovered": 2099207,
+      "dead": 52610,
+      "updatedTime": "10/03/2021 21:03:42",
       "note": "[Dec 16]:10,218 duplicate cases & other state cases removed from total cases.791 recovered cases also removed from total recovered cases while reconciling \n[Sep 9] :239 cases have been removed from the hospitalized figures owing to the removal of duplicates and change of addresses as per the original residence\n[Aug 15] : MH bulletin has reduced 819 confirmed cases in Mumbai and 72 confirmed cases from 'Other States' from the tally\n[Jun 16] : 1328 deceased cases have been retroactively added to MH bulletin.\n[Jun 20] : 69 deceased cases have been reduced based on state bulletin.",
       "stateCode": "MH",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 13659,
+        "recovered": 9913,
+        "dead": 54,
+        "active": 3692
       },
       "testing_data": {
         "tested": 17022315,
@@ -59,7 +59,7 @@
       "active": 7456,
       "recovered": 936947,
       "dead": 12379,
-      "updatedTime": "10/03/2021 20:41:44",
+      "updatedTime": "10/03/2021 21:00:47",
       "note": "",
       "stateCode": "KA",
       "today": {
@@ -107,7 +107,7 @@
       "active": 4207,
       "recovered": 840180,
       "dead": 12530,
-      "updatedTime": "10/03/2021 20:41:47",
+      "updatedTime": "10/03/2021 21:00:49",
       "note": "[July 22]: 444 backdated deceased entries added to Chennai in TN bulletin.\n2 deaths cross notified to other states from Chennai and Coimbatore.\n1 patient died after turning negative for infection in Chengalpattu.\nThese cases have been added to TN deceased tally",
       "stateCode": "TN",
       "today": {
@@ -122,7 +122,7 @@
         "negative": 0,
         "unconfirmed": 0,
         "date": "10/03/2021",
-        "source": "https://stopcorona.tn.gov.in/daily-bulletin/"
+        "source": "https://stopcorona.tn.gov.in/wp-content/uploads/2020/03/Media-Bulletin-10-03-21-COVID-19-6-PM.pdf"
       }
     },
     "DL": {
@@ -179,7 +179,7 @@
       "active": 3127,
       "recovered": 563857,
       "dead": 10283,
-      "updatedTime": "10/03/2021 20:38:49",
+      "updatedTime": "10/03/2021 20:42:58",
       "note": "",
       "stateCode": "WB",
       "today": {
@@ -189,12 +189,12 @@
         "active": -17
       },
       "testing_data": {
-        "tested": 8730503,
+        "tested": 8748775,
         "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "09/03/2021",
-        "source": "https://www.wbhealth.gov.in/uploaded_files/corona/WB_DHFW_Bulletin_9th_MARCH_REPORT_FINAL.pdf"
+        "date": "10/03/2021",
+        "source": "https://www.wbhealth.gov.in/uploaded_files/corona/WB_DHFW_Bulletin_10th_MARCH_REPORT_FINAL.pdf"
       }
     },
     "OR": {
@@ -237,7 +237,7 @@
         "active": 69
       },
       "testing_data": {
-        "tested": 6458572,
+        "tested": 6456572,
         "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
@@ -323,7 +323,7 @@
       "active": 3529,
       "recovered": 267250,
       "dead": 4418,
-      "updatedTime": "10/03/2021 20:41:49",
+      "updatedTime": "10/03/2021 21:00:51",
       "note": "",
       "stateCode": "GJ",
       "today": {
@@ -419,7 +419,7 @@
       "active": 9402,
       "recovered": 176660,
       "dead": 5978,
-      "updatedTime": "10/03/2021 20:38:54",
+      "updatedTime": "10/03/2021 20:43:04",
       "note": "",
       "stateCode": "PB",
       "today": {
@@ -453,12 +453,12 @@
         "active": 40
       },
       "testing_data": {
-        "tested": 5436662,
+        "tested": 5462245,
         "positive": 0,
-        "negative": 5309471,
+        "negative": 5334957,
         "unconfirmed": 0,
-        "date": "09/03/2021",
-        "source": "https://twitter.com/diprjk/status/1369255737470320644"
+        "date": "10/03/2021",
+        "source": "https://twitter.com/diprjk/status/1369619706307440646"
       }
     },
     "JH": {
@@ -491,7 +491,7 @@
       "active": 600,
       "recovered": 93858,
       "dead": 1697,
-      "updatedTime": "10/03/2021 20:41:51",
+      "updatedTime": "10/03/2021 21:00:53",
       "note": "[Oct 30]: Metric of capturing the testing data has switched to \"Samples Tested\" from \"Samples Collected\"",
       "stateCode": "UT",
       "today": {
@@ -559,18 +559,18 @@
     },
     "PY": {
       "name": "Puducherry",
-      "confirmed": 39922,
-      "active": 192,
-      "recovered": 39060,
+      "confirmed": 39932,
+      "active": 179,
+      "recovered": 39083,
       "dead": 670,
-      "updatedTime": "10/03/2021 20:21:47",
+      "updatedTime": "10/03/2021 21:03:46",
       "note": "",
       "stateCode": "PY",
       "today": {
-        "confirmed": 14,
-        "recovered": 0,
+        "confirmed": 24,
+        "recovered": 23,
         "dead": 0,
-        "active": 14
+        "active": 1
       },
       "testing_data": {
         "tested": 640132,
@@ -607,18 +607,18 @@
     },
     "MN": {
       "name": "Manipur",
-      "confirmed": 29298,
-      "active": 30,
-      "recovered": 28895,
+      "confirmed": 29305,
+      "active": 35,
+      "recovered": 28897,
       "dead": 373,
-      "updatedTime": "09/03/2021 19:21:48",
+      "updatedTime": "10/03/2021 21:03:48",
       "note": "[Dec 14]:824 out of 980 recovered cases are backdated.",
       "stateCode": "MN",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 7,
+        "recovered": 2,
         "dead": 0,
-        "active": 0
+        "active": 5
       },
       "testing_data": {
         "tested": 556094,
@@ -813,12 +813,12 @@
         "active": 2
       },
       "testing_data": {
-        "tested": 239090,
+        "tested": 239750,
         "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "09/03/2021",
-        "source": "https://dipr.mizoram.gov.in/post/status-of-state-surveillance-of-covid-19-932021-last-24-hours-500pm-as-per-data-received-from-integrated-diseases-surveillance-programme-idsp"
+        "date": "10/03/2021",
+        "source": "https://dipr.mizoram.gov.in/post/status-of-state-surveillance-of-covid-19-532021-last-24-hours-500pm-as-per-data-received-from-integrated-diseases-surveillance-programme-idsp"
       }
     },
     "DN": {
@@ -844,7 +844,7 @@
       "active": 168,
       "recovered": 351,
       "dead": 1,
-      "updatedTime": "10/03/2021 20:41:54",
+      "updatedTime": "10/03/2021 21:01:00",
       "note": "",
       "stateCode": "LD",
       "today": {
@@ -881,9 +881,9 @@
     }
   },
   "testing_data": {
-    "tested": 241939363,
+    "tested": 241981878,
     "positive": 162017,
-    "negative": 41202585,
+    "negative": 41228071,
     "unconfirmed": 22468
   },
   "testing_data_imcr": {
@@ -891,9 +891,9 @@
     "source": "https://twitter.com/ICMRDELHI/status/1369491100126257152"
   },
   "today": {
-    "confirmed": 8112,
-    "recovered": 7642,
-    "dead": 60,
-    "active": 410
+    "confirmed": 21788,
+    "recovered": 17580,
+    "dead": 114,
+    "active": 4094
   }
 }
