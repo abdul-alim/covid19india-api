@@ -1,9 +1,9 @@
 {
-  "confirmed": 11385543,
-  "recovered": 11005732,
-  "dead": 158765,
-  "active": 216392,
-  "updatedTime": "15/3/2021 17:24:47",
+  "confirmed": 11385634,
+  "recovered": 11005796,
+  "dead": 158766,
+  "active": 216418,
+  "updatedTime": "15/3/2021 17:44:52",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -83,7 +83,7 @@
       "active": 1443,
       "recovered": 883380,
       "dead": 7185,
-      "updatedTime": "15/03/2021 17:24:49",
+      "updatedTime": "15/03/2021 17:31:56",
       "note": "",
       "stateCode": "AP",
       "today": {
@@ -95,10 +95,10 @@
       "testing_data": {
         "tested": 14557366,
         "positive": 0,
-        "negative": 0,
+        "negative": 13665358,
         "unconfirmed": 0,
         "date": "15/3/2021",
-        "source": "http://covid19.ap.gov.in/Covid19_Admin/index.html"
+        "source": "https://twitter.com/ArogyaAndhra/status/1371428915403661320"
       }
     },
     "TN": {
@@ -535,26 +535,26 @@
     },
     "GA": {
       "name": "Goa",
-      "confirmed": 55917,
-      "active": 749,
-      "recovered": 54362,
-      "dead": 806,
-      "updatedTime": "14/03/2021 20:00:33",
+      "confirmed": 56006,
+      "active": 775,
+      "recovered": 54424,
+      "dead": 807,
+      "updatedTime": "15/03/2021 17:44:55",
       "note": "",
       "stateCode": "GA",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 89,
+        "recovered": 62,
+        "dead": 1,
+        "active": 26
       },
       "testing_data": {
-        "tested": 514309,
+        "tested": 515663,
         "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "14/03/2021",
-        "source": "https://www.goa.gov.in/wp-content/uploads/2021/03/Media-Bulletin-14th-March-2021.pdf"
+        "date": "15/03/2021",
+        "source": "https://www.goa.gov.in/wp-content/uploads/2021/03/Media-Bulletin-15th-March-2021.pdf"
       }
     },
     "PY": {
@@ -823,16 +823,16 @@
     },
     "DN": {
       "name": "Dadra and Nagar Haveli and Daman and Diu",
-      "confirmed": 3420,
+      "confirmed": 3422,
       "active": 30,
-      "recovered": 3358,
+      "recovered": 3360,
       "dead": 2,
       "updatedTime": "14/03/2021 20:00:41",
       "note": "",
       "stateCode": "DN",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 2,
+        "recovered": 2,
         "dead": 0,
         "active": 0
       },
@@ -881,9 +881,9 @@
     }
   },
   "testing_data": {
-    "tested": 245715947,
+    "tested": 245717301,
     "positive": 437416,
-    "negative": 22524175,
+    "negative": 36189533,
     "unconfirmed": 10258
   },
   "testing_data_imcr": {
@@ -891,9 +891,9 @@
     "source": "http://twitter.com/ICMRDELHI/status/1371306945504628740"
   },
   "today": {
-    "confirmed": 385,
-    "recovered": 287,
-    "dead": 3,
-    "active": 95
+    "confirmed": 476,
+    "recovered": 351,
+    "dead": 4,
+    "active": 121
   }
 }
