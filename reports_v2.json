@@ -1,9 +1,9 @@
 {
   "confirmed": 11409372,
-  "recovered": 11025331,
+  "recovered": 11025406,
   "dead": 158890,
-  "active": 220480,
-  "updatedTime": "15/3/2021 21:52:51",
+  "active": 220405,
+  "updatedTime": "15/3/2021 22:39:47",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -155,7 +155,7 @@
       "active": 1851,
       "recovered": 594693,
       "dead": 8746,
-      "updatedTime": "15/03/2021 21:51:47",
+      "updatedTime": "15/03/2021 21:53:03",
       "note": "[Jan 1]:As no bulletin was provided for 31'st Dec'20,its count has been combined with 1st Jan'21\n[Jan 9]:Due to reconcillation there are 1286 cases.",
       "stateCode": "UP",
       "today": {
@@ -200,17 +200,17 @@
     "OR": {
       "name": "Odisha",
       "confirmed": 338258,
-      "active": 627,
-      "recovered": 335660,
+      "active": 557,
+      "recovered": 335730,
       "dead": 1971,
-      "updatedTime": "15/03/2021 13:03:49",
+      "updatedTime": "15/03/2021 22:39:50",
       "note": "[July 12th] :20 non-covid deaths reported in state dashboard are included in the deceased count",
       "stateCode": "OR",
       "today": {
         "confirmed": 66,
-        "recovered": 0,
+        "recovered": 70,
         "dead": 0,
-        "active": 66
+        "active": -4
       },
       "testing_data": {
         "tested": 8642121,
@@ -251,7 +251,7 @@
       "active": 4098,
       "recovered": 309979,
       "dead": 3897,
-      "updatedTime": "15/03/2021 21:51:49",
+      "updatedTime": "15/03/2021 22:09:58",
       "note": "",
       "stateCode": "CT",
       "today": {
@@ -371,7 +371,7 @@
       "active": 5024,
       "recovered": 260477,
       "dead": 3890,
-      "updatedTime": "15/03/2021 21:51:51",
+      "updatedTime": "15/03/2021 22:10:02",
       "note": "[Oct 14]: 4469 confirmed cases and 4469 recoveries added in MP bulletin as reconciliation with private labs and hospitals",
       "stateCode": "MP",
       "today": {
@@ -395,7 +395,7 @@
       "active": 265,
       "recovered": 215106,
       "dead": 1099,
-      "updatedTime": "15/03/2021 21:51:53",
+      "updatedTime": "15/03/2021 22:10:04",
       "note": "[Jan 1]: 1347 cases i.e Covid +'tive patients dead for other reasons have been deducted fom active count.",
       "stateCode": "AS",
       "today": {
@@ -491,7 +491,7 @@
       "active": 581,
       "recovered": 94168,
       "dead": 1704,
-      "updatedTime": "15/03/2021 21:51:55",
+      "updatedTime": "15/03/2021 22:10:07",
       "note": "[Oct 30]: Metric of capturing the testing data has switched to \"Samples Tested\" from \"Samples Collected\"",
       "stateCode": "UT",
       "today": {
@@ -752,17 +752,17 @@
     "SK": {
       "name": "Sikkim",
       "confirmed": 6184,
-      "active": 46,
-      "recovered": 5906,
+      "active": 41,
+      "recovered": 5911,
       "dead": 135,
-      "updatedTime": "14/03/2021 21:42:01",
+      "updatedTime": "15/03/2021 22:39:53",
       "note": "",
       "stateCode": "SK",
       "today": {
         "confirmed": 0,
-        "recovered": 0,
+        "recovered": 5,
         "dead": 0,
-        "active": 0
+        "active": -5
       },
       "testing_data": {
         "tested": 80684,
@@ -892,8 +892,8 @@
   },
   "today": {
     "confirmed": 24214,
-    "recovered": 19886,
+    "recovered": 19961,
     "dead": 128,
-    "active": 4200
+    "active": 4125
   }
 }
