@@ -1,9 +1,9 @@
 {
-  "confirmed": 11385634,
-  "recovered": 11005796,
+  "confirmed": 11385728,
+  "recovered": 11005875,
   "dead": 158766,
-  "active": 216418,
-  "updatedTime": "15/3/2021 17:44:52",
+  "active": 216433,
+  "updatedTime": "15/3/2021 18:18:47",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -45,12 +45,12 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 12291194,
+        "tested": 12329604,
         "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "14/03/2021",
-        "source": "https://dhs.kerala.gov.in/wp-content/uploads/2021/03/Bulletin-HFWD-English-March-14.pdf"
+        "date": "15/03/2021",
+        "source": ""
       }
     },
     "KA": {
@@ -439,26 +439,26 @@
     },
     "JK": {
       "name": "Jammu and Kashmir",
-      "confirmed": 127640,
-      "active": 920,
-      "recovered": 124746,
+      "confirmed": 127734,
+      "active": 937,
+      "recovered": 124823,
       "dead": 1974,
-      "updatedTime": "14/03/2021 20:00:28",
+      "updatedTime": "15/03/2021 18:18:49",
       "note": "",
       "stateCode": "JK",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 94,
+        "recovered": 77,
         "dead": 0,
-        "active": 0
+        "active": 17
       },
       "testing_data": {
-        "tested": 5558779,
+        "tested": 5581500,
         "positive": 0,
-        "negative": 5431139,
+        "negative": 5453766,
         "unconfirmed": 0,
-        "date": "14/03/2021",
-        "source": "https://twitter.com/diprjk/status/1371066732790513665"
+        "date": "15/03/2021",
+        "source": "https://twitter.com/diprjk/status/1371439154815365121"
       }
     },
     "JH": {
@@ -539,7 +539,7 @@
       "active": 775,
       "recovered": 54424,
       "dead": 807,
-      "updatedTime": "15/03/2021 17:44:55",
+      "updatedTime": "15/03/2021 18:02:50",
       "note": "",
       "stateCode": "GA",
       "today": {
@@ -608,25 +608,25 @@
     "MN": {
       "name": "Manipur",
       "confirmed": 29313,
-      "active": 26,
-      "recovered": 28914,
+      "active": 24,
+      "recovered": 28916,
       "dead": 373,
-      "updatedTime": "14/03/2021 20:00:35",
+      "updatedTime": "15/03/2021 18:18:52",
       "note": "[Dec 14]:824 out of 980 recovered cases are backdated.",
       "stateCode": "MN",
       "today": {
         "confirmed": 0,
-        "recovered": 0,
+        "recovered": 2,
         "dead": 0,
-        "active": 0
+        "active": -2
       },
       "testing_data": {
-        "tested": 562916,
+        "tested": 563479,
         "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "14/03/2021",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/7264"
+        "date": "15/03/2021",
+        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/7275"
       }
     },
     "CH": {
@@ -881,9 +881,9 @@
     }
   },
   "testing_data": {
-    "tested": 245717301,
+    "tested": 245778995,
     "positive": 437416,
-    "negative": 36189533,
+    "negative": 36212160,
     "unconfirmed": 10258
   },
   "testing_data_imcr": {
@@ -891,9 +891,9 @@
     "source": "http://twitter.com/ICMRDELHI/status/1371306945504628740"
   },
   "today": {
-    "confirmed": 476,
-    "recovered": 351,
+    "confirmed": 570,
+    "recovered": 430,
     "dead": 4,
-    "active": 121
+    "active": 136
   }
 }
