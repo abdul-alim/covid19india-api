@@ -1,24 +1,24 @@
 {
-  "confirmed": 11386564,
-  "recovered": 11006428,
-  "dead": 158770,
-  "active": 216712,
-  "updatedTime": "15/3/2021 19:20:47",
+  "confirmed": 11401838,
+  "recovered": 11017243,
+  "dead": 158822,
+  "active": 221103,
+  "updatedTime": "15/3/2021 19:46:45",
   "states": {
     "MH": {
       "name": "Maharashtra",
-      "confirmed": 2314413,
-      "active": 126231,
-      "recovered": 2134072,
-      "dead": 52861,
-      "updatedTime": "14/03/2021 19:59:56",
+      "confirmed": 2329464,
+      "active": 130547,
+      "recovered": 2144743,
+      "dead": 52909,
+      "updatedTime": "15/03/2021 19:46:46",
       "note": "[Dec 16]:10,218 duplicate cases & other state cases removed from total cases.791 recovered cases also removed from total recovered cases while reconciling \n[Sep 9] :239 cases have been removed from the hospitalized figures owing to the removal of duplicates and change of addresses as per the original residence\n[Aug 15] : MH bulletin has reduced 819 confirmed cases in Mumbai and 72 confirmed cases from 'Other States' from the tally\n[Jun 16] : 1328 deceased cases have been retroactively added to MH bulletin.\n[Jun 20] : 69 deceased cases have been reduced based on state bulletin.",
       "stateCode": "MH",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 15051,
+        "recovered": 10671,
+        "dead": 48,
+        "active": 4332
       },
       "testing_data": {
         "tested": 17516885,
@@ -107,7 +107,7 @@
       "active": 5149,
       "recovered": 842862,
       "dead": 12551,
-      "updatedTime": "15/03/2021 19:20:50",
+      "updatedTime": "15/03/2021 19:39:50",
       "note": "[July 22]: 444 backdated deceased entries added to Chennai in TN bulletin.\n2 deaths cross notified to other states from Chennai and Coimbatore.\n1 patient died after turning negative for infection in Chengalpattu.\nThese cases have been added to TN deceased tally",
       "stateCode": "TN",
       "today": {
@@ -511,26 +511,26 @@
     },
     "HP": {
       "name": "Himachal Pradesh",
-      "confirmed": 59675,
-      "active": 760,
-      "recovered": 57908,
-      "dead": 993,
-      "updatedTime": "14/03/2021 20:19:50",
+      "confirmed": 59750,
+      "active": 757,
+      "recovered": 57982,
+      "dead": 997,
+      "updatedTime": "15/03/2021 19:46:49",
       "note": "",
       "stateCode": "HP",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 75,
+        "recovered": 74,
+        "dead": 4,
+        "active": -3
       },
       "testing_data": {
-        "tested": 1156208,
+        "tested": 1161506,
         "positive": 0,
-        "negative": 1096491,
-        "unconfirmed": 42,
-        "date": "14/03/2021",
-        "source": "https://twitter.com/nhm_hp/status/1371101125789683713"
+        "negative": 1101551,
+        "unconfirmed": 205,
+        "date": "15/03/2021",
+        "source": "https://twitter.com/nhm_hp/status/1371458834443608068"
       }
     },
     "GA": {
@@ -631,26 +631,26 @@
     },
     "CH": {
       "name": "Chandigarh",
-      "confirmed": 23096,
-      "active": 1088,
-      "recovered": 21650,
+      "confirmed": 23244,
+      "active": 1166,
+      "recovered": 21720,
       "dead": 358,
-      "updatedTime": "14/03/2021 20:00:37",
+      "updatedTime": "15/03/2021 19:46:51",
       "note": "",
       "stateCode": "CH",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 148,
+        "recovered": 70,
         "dead": 0,
-        "active": 0
+        "active": 78
       },
       "testing_data": {
-        "tested": 278390,
+        "tested": 280183,
         "positive": 0,
-        "negative": 254318,
-        "unconfirmed": 103,
-        "date": "14/03/2021",
-        "source": "https://twitter.com/nagarkoti/status/1371097364425969672"
+        "negative": 255961,
+        "unconfirmed": 137,
+        "date": "15/03/2021",
+        "source": "https://twitter.com/nagarkoti/status/1371460026167029764"
       }
     },
     "AR": {
@@ -881,19 +881,19 @@
     }
   },
   "testing_data": {
-    "tested": 245941444,
+    "tested": 245948535,
     "positive": 437416,
-    "negative": 36212160,
-    "unconfirmed": 10258
+    "negative": 36218863,
+    "unconfirmed": 10455
   },
   "testing_data_imcr": {
     "tested": 227407413,
     "source": "http://twitter.com/ICMRDELHI/status/1371306945504628740"
   },
   "today": {
-    "confirmed": 1406,
-    "recovered": 983,
-    "dead": 8,
-    "active": 415
+    "confirmed": 16680,
+    "recovered": 11798,
+    "dead": 60,
+    "active": 4822
   }
 }
