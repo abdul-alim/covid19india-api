@@ -1,9 +1,9 @@
 {
-  "confirmed": 11414981,
-  "recovered": 11030532,
-  "dead": 158926,
-  "active": 220851,
-  "updatedTime": "16/3/2021 20:30:56",
+  "confirmed": 11416168,
+  "recovered": 11031448,
+  "dead": 158933,
+  "active": 221115,
+  "updatedTime": "16/3/2021 20:47:40",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -59,7 +59,7 @@
       "active": 9428,
       "recovered": 940489,
       "dead": 12403,
-      "updatedTime": "16/03/2021 20:30:58",
+      "updatedTime": "16/03/2021 20:46:52",
       "note": "",
       "stateCode": "KA",
       "today": {
@@ -103,18 +103,18 @@
     },
     "TN": {
       "name": "Tamil Nadu",
-      "confirmed": 860562,
-      "active": 5149,
-      "recovered": 842862,
-      "dead": 12551,
-      "updatedTime": "15/03/2021 19:39:50",
+      "confirmed": 861429,
+      "active": 5450,
+      "recovered": 843423,
+      "dead": 12556,
+      "updatedTime": "16/03/2021 20:47:42",
       "note": "[July 22]: 444 backdated deceased entries added to Chennai in TN bulletin.\n2 deaths cross notified to other states from Chennai and Coimbatore.\n1 patient died after turning negative for infection in Chengalpattu.\nThese cases have been added to TN deceased tally",
       "stateCode": "TN",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 867,
+        "recovered": 561,
+        "dead": 5,
+        "active": 301
       },
       "testing_data": {
         "tested": 18413572,
@@ -175,18 +175,18 @@
     },
     "WB": {
       "name": "West Bengal",
-      "confirmed": 578598,
-      "active": 3147,
-      "recovered": 565156,
-      "dead": 10295,
-      "updatedTime": "15/03/2021 20:38:49",
+      "confirmed": 578853,
+      "active": 3158,
+      "recovered": 565398,
+      "dead": 10297,
+      "updatedTime": "16/03/2021 20:47:43",
       "note": "",
       "stateCode": "WB",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 255,
+        "recovered": 242,
+        "dead": 2,
+        "active": 11
       },
       "testing_data": {
         "tested": 8840344,
@@ -200,17 +200,17 @@
     "OR": {
       "name": "Odisha",
       "confirmed": 338323,
-      "active": 622,
-      "recovered": 335730,
+      "active": 556,
+      "recovered": 335796,
       "dead": 1971,
-      "updatedTime": "16/03/2021 13:44:42",
+      "updatedTime": "16/03/2021 20:47:44",
       "note": "[July 12th] :20 non-covid deaths reported in state dashboard are included in the deceased count",
       "stateCode": "OR",
       "today": {
         "confirmed": 65,
-        "recovered": 0,
+        "recovered": 66,
         "dead": 0,
-        "active": 65
+        "active": -1
       },
       "testing_data": {
         "tested": 8661732,
@@ -227,7 +227,7 @@
       "active": 2661,
       "recovered": 318009,
       "dead": 2791,
-      "updatedTime": "16/03/2021 20:31:02",
+      "updatedTime": "16/03/2021 20:33:06",
       "note": "",
       "stateCode": "RJ",
       "today": {
@@ -347,7 +347,7 @@
       "active": 346,
       "recovered": 261200,
       "dead": 1553,
-      "updatedTime": "16/03/2021 20:31:05",
+      "updatedTime": "16/03/2021 20:47:01",
       "note": "",
       "stateCode": "BR",
       "today": {
@@ -357,12 +357,12 @@
         "active": 19
       },
       "testing_data": {
-        "tested": 22858540,
+        "tested": 22899132,
         "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "15/03/2021",
-        "source": "https://twitter.com/BiharHealthDept/status/1371478431490220038"
+        "date": "16/03/2021",
+        "source": ""
       }
     },
     "MP": {
@@ -371,7 +371,7 @@
       "active": 5286,
       "recovered": 261031,
       "dead": 3891,
-      "updatedTime": "16/03/2021 20:31:07",
+      "updatedTime": "16/03/2021 20:47:02",
       "note": "[Oct 14]: 4469 confirmed cases and 4469 recoveries added in MP bulletin as reconciliation with private labs and hospitals",
       "stateCode": "MP",
       "today": {
@@ -487,18 +487,18 @@
     },
     "UT": {
       "name": "Uttarakhand",
-      "confirmed": 97866,
-      "active": 581,
-      "recovered": 94168,
+      "confirmed": 97931,
+      "active": 599,
+      "recovered": 94215,
       "dead": 1704,
-      "updatedTime": "15/03/2021 22:10:07",
+      "updatedTime": "16/03/2021 20:47:46",
       "note": "[Oct 30]: Metric of capturing the testing data has switched to \"Samples Tested\" from \"Samples Collected\"",
       "stateCode": "UT",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 65,
+        "recovered": 47,
         "dead": 0,
-        "active": 0
+        "active": 18
       },
       "testing_data": {
         "tested": 2569444,
@@ -881,7 +881,7 @@
     }
   },
   "testing_data": {
-    "tested": 246831760,
+    "tested": 246872352,
     "positive": 162346,
     "negative": 35708693,
     "unconfirmed": 11704
@@ -891,9 +891,9 @@
     "source": "https://twitter.com/ICMRDELHI/status/1371673191391760385"
   },
   "today": {
-    "confirmed": 5386,
-    "recovered": 4901,
-    "dead": 34,
-    "active": 451
+    "confirmed": 6573,
+    "recovered": 5817,
+    "dead": 41,
+    "active": 715
   }
 }
