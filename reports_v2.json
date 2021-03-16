@@ -1,9 +1,9 @@
 {
-  "confirmed": 11410769,
-  "recovered": 11026353,
-  "dead": 158902,
-  "active": 220843,
-  "updatedTime": "16/3/2021 18:41:40",
+  "confirmed": 11412739,
+  "recovered": 11029237,
+  "dead": 158917,
+  "active": 219913,
+  "updatedTime": "16/3/2021 19:24:06",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -31,18 +31,18 @@
     },
     "KL": {
       "name": "Kerala",
-      "confirmed": 1092325,
-      "active": 27054,
-      "recovered": 1060560,
-      "dead": 4408,
-      "updatedTime": "15/03/2021 21:28:00",
+      "confirmed": 1094295,
+      "active": 26124,
+      "recovered": 1063444,
+      "dead": 4423,
+      "updatedTime": "16/03/2021 19:24:09",
       "note": "Mahe native who expired in Kannur included in Kerala's deceased tally.\nSome non-covid deaths have also been reported in the bulletin.\nThese have been reduced from active count",
       "stateCode": "KL",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 1970,
+        "recovered": 2884,
+        "dead": 15,
+        "active": -929
       },
       "testing_data": {
         "tested": 12329604,
@@ -117,12 +117,11 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 18349379,
+        "tested": 0,
         "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "15/03/2021",
-        "source": "https://stopcorona.tn.gov.in/wp-content/uploads/2020/03/Media-Bulletin-15-03-21-COVID-19-6-PM.pdf"
+        "updated": false
       }
     },
     "DL": {
@@ -165,12 +164,11 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 32848018,
+        "tested": 0,
         "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "15/03/2021",
-        "source": "https://twitter.com/UPGovt/status/1371446140848144391"
+        "updated": false
       }
     },
     "WB": {
@@ -189,12 +187,11 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 8840344,
+        "tested": 0,
         "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "15/03/2021",
-        "source": "https://www.wbhealth.gov.in/uploaded_files/corona/WB_DHFW_Bulletin_15th_MARCH_REPORT_FINAL.pdf"
+        "updated": false
       }
     },
     "OR": {
@@ -285,12 +282,11 @@
         "active": 32
       },
       "testing_data": {
-        "tested": 9299245,
+        "tested": 0,
         "positive": 0,
         "negative": 0,
-        "unconfirmed": 439,
-        "date": "16/03/2021",
-        "source": "https://twitter.com/IPRTelangana/status/1371673206256324608"
+        "unconfirmed": 0,
+        "updated": false
       }
     },
     "HR": {
@@ -501,12 +497,11 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 2569444,
+        "tested": 0,
         "positive": 0,
-        "negative": 2471578,
-        "unconfirmed": 10009,
-        "date": "15/03/2021",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/7280"
+        "negative": 0,
+        "unconfirmed": 0,
+        "updated": false
       }
     },
     "HP": {
@@ -597,12 +592,11 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 628767,
-        "positive": 33426,
-        "negative": 595341,
+        "tested": 0,
+        "positive": 0,
+        "negative": 0,
         "unconfirmed": 0,
-        "date": "14/03/2021",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/7256"
+        "updated": false
       }
     },
     "MN": {
@@ -765,12 +759,12 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 80684,
+        "tested": 80939,
         "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "14/03/2021",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/7262"
+        "date": "16/03/2021",
+        "source": "https://covid19sikkim.org/"
       }
     },
     "AN": {
@@ -881,19 +875,19 @@
     }
   },
   "testing_data": {
-    "tested": 246578868,
-    "positive": 162346,
-    "negative": 35700859,
-    "unconfirmed": 11092
+    "tested": 174043926,
+    "positive": 128920,
+    "negative": 32633940,
+    "unconfirmed": 644
   },
   "testing_data_imcr": {
     "tested": 228280763,
     "source": "https://twitter.com/ICMRDELHI/status/1371673191391760385"
   },
   "today": {
-    "confirmed": 1174,
-    "recovered": 722,
-    "dead": 10,
-    "active": 442
+    "confirmed": 3144,
+    "recovered": 3606,
+    "dead": 25,
+    "active": -487
   }
 }
