@@ -1,9 +1,9 @@
 {
-  "confirmed": 11410243,
-  "recovered": 11025991,
-  "dead": 158899,
-  "active": 220682,
-  "updatedTime": "16/3/2021 17:46:05",
+  "confirmed": 11410769,
+  "recovered": 11026353,
+  "dead": 158902,
+  "active": 220843,
+  "updatedTime": "16/3/2021 18:25:48",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -80,25 +80,25 @@
     "AP": {
       "name": "Andhra Pradesh",
       "confirmed": 892269,
-      "active": 1616,
-      "recovered": 883468,
+      "active": 1579,
+      "recovered": 883505,
       "dead": 7185,
-      "updatedTime": "16/03/2021 17:46:09",
+      "updatedTime": "16/03/2021 18:25:51",
       "note": "",
       "stateCode": "AP",
       "today": {
         "confirmed": 261,
-        "recovered": 88,
+        "recovered": 125,
         "dead": 0,
-        "active": 173
+        "active": 136
       },
       "testing_data": {
-        "tested": 14557366,
+        "tested": 14580783,
         "positive": 0,
-        "negative": 13665358,
+        "negative": 13688514,
         "unconfirmed": 0,
-        "date": "15/3/2021",
-        "source": "https://twitter.com/ArogyaAndhra/status/1371428915403661320"
+        "date": "16/3/2021",
+        "source": "https://twitter.com/ArogyaAndhra/status/1371792847645544451"
       }
     },
     "TN": {
@@ -127,26 +127,26 @@
     },
     "DL": {
       "name": "Delhi",
-      "confirmed": 644064,
-      "active": 2321,
-      "recovered": 630799,
-      "dead": 10944,
-      "updatedTime": "15/03/2021 20:28:54",
+      "confirmed": 644489,
+      "active": 2488,
+      "recovered": 631056,
+      "dead": 10945,
+      "updatedTime": "16/03/2021 18:25:54",
       "note": "[July 14]: Value for the total tests conducted has been reduced by 97008 in the state bulletin. Reason given : \"Reconciled with ICMR figures\". We have made the same change.",
       "stateCode": "DL",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 425,
+        "recovered": 257,
+        "dead": 1,
+        "active": 167
       },
       "testing_data": {
-        "tested": 13358365,
+        "tested": 13428414,
         "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "15/03/2021",
-        "source": "https://twitter.com/ANI/status/1371465751949766660?s=20"
+        "date": "16/03/2021",
+        "source": "https://twitter.com/ANI/status/1371777904024035330"
       }
     },
     "UP": {
@@ -439,26 +439,26 @@
     },
     "JK": {
       "name": "Jammu and Kashmir",
-      "confirmed": 127734,
-      "active": 937,
-      "recovered": 124823,
-      "dead": 1974,
-      "updatedTime": "15/03/2021 18:37:51",
+      "confirmed": 127831,
+      "active": 973,
+      "recovered": 124882,
+      "dead": 1976,
+      "updatedTime": "16/03/2021 18:25:59",
       "note": "",
       "stateCode": "JK",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 97,
+        "recovered": 59,
+        "dead": 2,
+        "active": 36
       },
       "testing_data": {
-        "tested": 5581500,
+        "tested": 5606242,
         "positive": 0,
-        "negative": 5453766,
+        "negative": 5478411,
         "unconfirmed": 0,
-        "date": "15/03/2021",
-        "source": "https://twitter.com/diprjk/status/1371439154815365121"
+        "date": "16/03/2021",
+        "source": "https://twitter.com/diprjk/status/1371791037425872908"
       }
     },
     "JH": {
@@ -539,7 +539,7 @@
       "active": 792,
       "recovered": 54497,
       "dead": 811,
-      "updatedTime": "16/03/2021 17:46:21",
+      "updatedTime": "16/03/2021 17:56:52",
       "note": "",
       "stateCode": "GA",
       "today": {
@@ -823,18 +823,18 @@
     },
     "DN": {
       "name": "Dadra and Nagar Haveli and Daman and Diu",
-      "confirmed": 3422,
-      "active": 30,
-      "recovered": 3360,
+      "confirmed": 3426,
+      "active": 25,
+      "recovered": 3369,
       "dead": 2,
-      "updatedTime": "14/03/2021 20:00:41",
+      "updatedTime": "16/03/2021 18:26:07",
       "note": "",
       "stateCode": "DN",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 4,
+        "recovered": 9,
         "dead": 0,
-        "active": 0
+        "active": -5
       },
       "isUnknown": true
     },
@@ -881,9 +881,9 @@
     }
   },
   "testing_data": {
-    "tested": 246460660,
+    "tested": 246578868,
     "positive": 162346,
-    "negative": 35653058,
+    "negative": 35700859,
     "unconfirmed": 11092
   },
   "testing_data_imcr": {
@@ -891,9 +891,9 @@
     "source": "https://twitter.com/ICMRDELHI/status/1371673191391760385"
   },
   "today": {
-    "confirmed": 648,
-    "recovered": 360,
-    "dead": 7,
-    "active": 281
+    "confirmed": 1174,
+    "recovered": 722,
+    "dead": 10,
+    "active": 442
   }
 }
