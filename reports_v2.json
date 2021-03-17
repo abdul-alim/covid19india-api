@@ -1,9 +1,9 @@
 {
-  "confirmed": 11438464,
-  "recovered": 11043377,
-  "dead": 159079,
-  "active": 231335,
-  "updatedTime": "16/3/2021 22:58:41",
+  "confirmed": 11438712,
+  "recovered": 11043545,
+  "dead": 159082,
+  "active": 231412,
+  "updatedTime": "17/3/2021 11:18:42",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -271,26 +271,26 @@
     },
     "TG": {
       "name": "Telangana",
-      "confirmed": 301522,
-      "active": 2015,
-      "recovered": 297851,
-      "dead": 1656,
-      "updatedTime": "16/03/2021 11:13:42",
+      "confirmed": 301769,
+      "active": 2101,
+      "recovered": 298009,
+      "dead": 1659,
+      "updatedTime": "17/03/2021 11:18:44",
       "note": "[July 27] : Telangana bulletin for the previous day is released on the next day. We will add the cases for Telangana against the date of release, as that is the convention that we are following for other states.",
       "stateCode": "TG",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 247,
+        "recovered": 158,
+        "dead": 3,
+        "active": 86
       },
       "testing_data": {
-        "tested": 9299245,
+        "tested": 9359772,
         "positive": 0,
         "negative": 0,
-        "unconfirmed": 439,
-        "date": "16/03/2021",
-        "source": "https://twitter.com/IPRTelangana/status/1371673206256324608"
+        "unconfirmed": 588,
+        "date": "17/03/2021",
+        "source": "https://twitter.com/IPRTelangana/status/1372042405017391106"
       }
     },
     "HR": {
@@ -583,26 +583,26 @@
     },
     "TR": {
       "name": "Tripura",
-      "confirmed": 33437,
-      "active": 20,
-      "recovered": 33006,
+      "confirmed": 33438,
+      "active": 11,
+      "recovered": 33016,
       "dead": 388,
-      "updatedTime": "16/03/2021 21:51:00",
+      "updatedTime": "17/03/2021 11:18:46",
       "note": "[Aug 4]: Tripura bulletin for the previous day is released on the next day. We will add the cases for Tripura against the date of release, as that is the convention that we are following for other states.",
       "stateCode": "TR",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 1,
+        "recovered": 10,
         "dead": 0,
-        "active": 0
+        "active": -9
       },
       "testing_data": {
-        "tested": 629661,
-        "positive": 0,
-        "negative": 596224,
+        "tested": 630274,
+        "positive": 33438,
+        "negative": 596836,
         "unconfirmed": 0,
-        "date": "15/03/2021",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/7298"
+        "date": "17/03/2021",
+        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/7300"
       }
     },
     "MN": {
@@ -789,12 +789,12 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 294094,
-        "positive": 5031,
+        "tested": 295827,
+        "positive": 5032,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "15/03/2021",
-        "source": "https://dhs.andaman.gov.in/NewEvents/603.pdf"
+        "date": "16/03/2021",
+        "source": "https://dhs.andaman.gov.in/NewEvents/604.pdf"
       }
     },
     "MZ": {
@@ -881,19 +881,19 @@
     }
   },
   "testing_data": {
-    "tested": 247260553,
-    "positive": 128996,
-    "negative": 35747023,
-    "unconfirmed": 11493
+    "tested": 247323426,
+    "positive": 162435,
+    "negative": 35747635,
+    "unconfirmed": 11642
   },
   "testing_data_imcr": {
     "tested": 229249784,
     "source": "https://twitter.com/ICMRDELHI/status/1372029445406556167"
   },
   "today": {
-    "confirmed": 0,
-    "recovered": 0,
-    "dead": 0,
-    "active": 0
+    "confirmed": 248,
+    "recovered": 168,
+    "dead": 3,
+    "active": 77
   }
 }
