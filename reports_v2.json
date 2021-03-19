@@ -1,9 +1,9 @@
 {
-  "confirmed": 11513989,
-  "recovered": 11081526,
-  "dead": 159406,
-  "active": 268363,
-  "updatedTime": "19/3/2021 08:40:47",
+  "confirmed": 11514422,
+  "recovered": 11081669,
+  "dead": 159408,
+  "active": 268651,
+  "updatedTime": "19/3/2021 12:12:44",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -199,18 +199,18 @@
     },
     "OR": {
       "name": "Odisha",
-      "confirmed": 338489,
-      "active": 595,
+      "confirmed": 338599,
+      "active": 705,
       "recovered": 335923,
       "dead": 1971,
-      "updatedTime": "18/03/2021 20:01:06",
+      "updatedTime": "19/03/2021 12:12:46",
       "note": "[July 12th] :20 non-covid deaths reported in state dashboard are included in the deceased count",
       "stateCode": "OR",
       "today": {
-        "confirmed": 0,
+        "confirmed": 110,
         "recovered": 0,
         "dead": 0,
-        "active": 0
+        "active": 110
       },
       "testing_data": {
         "tested": 8712117,
@@ -271,26 +271,26 @@
     },
     "TG": {
       "name": "Telangana",
-      "confirmed": 302047,
-      "active": 2265,
-      "recovered": 298120,
-      "dead": 1662,
-      "updatedTime": "18/03/2021 12:00:52",
+      "confirmed": 302360,
+      "active": 2434,
+      "recovered": 298262,
+      "dead": 1664,
+      "updatedTime": "19/03/2021 12:12:47",
       "note": "[July 27] : Telangana bulletin for the previous day is released on the next day. We will add the cases for Telangana against the date of release, as that is the convention that we are following for other states.",
       "stateCode": "TG",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 313,
+        "recovered": 142,
+        "dead": 2,
+        "active": 169
       },
       "testing_data": {
-        "tested": 9419677,
+        "tested": 9482649,
         "positive": 0,
         "negative": 0,
-        "unconfirmed": 542,
-        "date": "18/03/2021",
-        "source": "https://twitter.com/IPRTelangana/status/1372399219978297347"
+        "unconfirmed": 642,
+        "date": "19/03/2021",
+        "source": "https://twitter.com/IPRTelangana/status/1372756705709223944"
       }
     },
     "HR": {
@@ -583,26 +583,26 @@
     },
     "TR": {
       "name": "Tripura",
-      "confirmed": 33441,
-      "active": 12,
-      "recovered": 33018,
+      "confirmed": 33451,
+      "active": 21,
+      "recovered": 33019,
       "dead": 388,
-      "updatedTime": "18/03/2021 12:00:55",
+      "updatedTime": "19/03/2021 12:12:49",
       "note": "[Aug 4]: Tripura bulletin for the previous day is released on the next day. We will add the cases for Tripura against the date of release, as that is the convention that we are following for other states.",
       "stateCode": "TR",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 10,
+        "recovered": 1,
         "dead": 0,
-        "active": 0
+        "active": 9
       },
       "testing_data": {
-        "tested": 631045,
-        "positive": 33441,
-        "negative": 597604,
+        "tested": 631809,
+        "positive": 33451,
+        "negative": 598358,
         "unconfirmed": 0,
-        "date": "18/03/2021",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/7316"
+        "date": "19/03/2021",
+        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/7336"
       }
     },
     "MN": {
@@ -881,19 +881,19 @@
     }
   },
   "testing_data": {
-    "tested": 249258842,
-    "positive": 162620,
-    "negative": 36572406,
-    "unconfirmed": 9893
+    "tested": 249322578,
+    "positive": 162630,
+    "negative": 36573160,
+    "unconfirmed": 9993
   },
   "testing_data_imcr": {
-    "tested": 0,
-    "source": ""
+    "tested": 231370546,
+    "source": "http://twitter.com/ICMRDELHI/status/1372750226876821505"
   },
   "today": {
-    "confirmed": 0,
-    "recovered": 0,
-    "dead": 0,
-    "active": 0
+    "confirmed": 433,
+    "recovered": 143,
+    "dead": 2,
+    "active": 288
   }
 }
