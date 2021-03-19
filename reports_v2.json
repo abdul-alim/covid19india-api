@@ -1,9 +1,9 @@
 {
-  "confirmed": 11514990,
-  "recovered": 11081963,
-  "dead": 159412,
-  "active": 268921,
-  "updatedTime": "19/3/2021 18:42:46",
+  "confirmed": 11515434,
+  "recovered": 11082306,
+  "dead": 159414,
+  "active": 269020,
+  "updatedTime": "19/3/2021 19:07:47",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -223,18 +223,18 @@
     },
     "RJ": {
       "name": "Rajasthan",
-      "confirmed": 324101,
-      "active": 3023,
-      "recovered": 318284,
-      "dead": 2794,
-      "updatedTime": "18/03/2021 19:26:53",
+      "confirmed": 324331,
+      "active": 2991,
+      "recovered": 318545,
+      "dead": 2795,
+      "updatedTime": "19/03/2021 19:07:49",
       "note": "",
       "stateCode": "RJ",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 230,
+        "recovered": 261,
+        "dead": 1,
+        "active": -32
       },
       "testing_data": {
         "tested": 6574421,
@@ -631,26 +631,26 @@
     },
     "CH": {
       "name": "Chandigarh",
-      "confirmed": 23803,
-      "active": 1466,
-      "recovered": 21978,
-      "dead": 359,
-      "updatedTime": "18/03/2021 21:22:22",
+      "confirmed": 24017,
+      "active": 1597,
+      "recovered": 22060,
+      "dead": 360,
+      "updatedTime": "19/03/2021 19:07:52",
       "note": "",
       "stateCode": "CH",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 214,
+        "recovered": 82,
+        "dead": 1,
+        "active": 131
       },
       "testing_data": {
-        "tested": 286187,
+        "tested": 287941,
         "positive": 0,
-        "negative": 261398,
-        "unconfirmed": 135,
-        "date": "18/03/2021",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/7326"
+        "negative": 262938,
+        "unconfirmed": 141,
+        "date": "19/03/2021",
+        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/7339"
       }
     },
     "AR": {
@@ -683,7 +683,7 @@
       "active": 31,
       "recovered": 13829,
       "dead": 148,
-      "updatedTime": "19/03/2021 18:42:53",
+      "updatedTime": "19/03/2021 18:52:58",
       "note": "",
       "stateCode": "ML",
       "today": {
@@ -717,12 +717,12 @@
         "active": -5
       },
       "testing_data": {
-        "tested": 134580,
+        "tested": 134721,
         "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "18/03/2021",
-        "source": "https://twitter.com/MyGovNagaland/status/1372542297724751872?s=20"
+        "date": "19/03/2021",
+        "source": "https://twitter.com/MyGovNagaland/status/1372882348564357123"
       }
     },
     "LA": {
@@ -881,19 +881,19 @@
     }
   },
   "testing_data": {
-    "tested": 249409179,
+    "tested": 249411074,
     "positive": 162630,
-    "negative": 36632679,
-    "unconfirmed": 9993
+    "negative": 36634219,
+    "unconfirmed": 9999
   },
   "testing_data_imcr": {
     "tested": 231370546,
     "source": "http://twitter.com/ICMRDELHI/status/1372750226876821505"
   },
   "today": {
-    "confirmed": 1001,
-    "recovered": 437,
-    "dead": 6,
-    "active": 558
+    "confirmed": 1445,
+    "recovered": 780,
+    "dead": 8,
+    "active": 657
   }
 }
