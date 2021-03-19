@@ -1,9 +1,9 @@
 {
-  "confirmed": 11549033,
-  "recovered": 11102083,
-  "dead": 159536,
-  "active": 282711,
-  "updatedTime": "19/3/2021 20:23:45",
+  "confirmed": 11551980,
+  "recovered": 11103681,
+  "dead": 159578,
+  "active": 284018,
+  "updatedTime": "19/3/2021 20:46:57",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -11,7 +11,7 @@
       "active": 177560,
       "recovered": 2189965,
       "dead": 53208,
-      "updatedTime": "19/03/2021 20:23:47",
+      "updatedTime": "19/03/2021 20:39:48",
       "note": "[Dec 16]:10,218 duplicate cases & other state cases removed from total cases.791 recovered cases also removed from total recovered cases while reconciling \n[Sep 9] :239 cases have been removed from the hospitalized figures owing to the removal of duplicates and change of addresses as per the original residence\n[Aug 15] : MH bulletin has reduced 819 confirmed cases in Mumbai and 72 confirmed cases from 'Other States' from the tally\n[Jun 16] : 1328 deceased cases have been retroactively added to MH bulletin.\n[Jun 20] : 69 deceased cases have been reduced based on state bulletin.",
       "stateCode": "MH",
       "today": {
@@ -21,12 +21,12 @@
         "active": 11211
       },
       "testing_data": {
-        "tested": 17956830,
+        "tested": 18083977,
         "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "18/03/2021",
-        "source": "https://twitter.com/ANI/status/1372557976490274823"
+        "date": "19/03/2021",
+        "source": "https://twitter.com/ANI/status/1372914254391635975"
       }
     },
     "KL": {
@@ -45,12 +45,12 @@
         "active": 2
       },
       "testing_data": {
-        "tested": 12505085,
+        "tested": 12558269,
         "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "18/03/2021",
-        "source": "https://dhs.kerala.gov.in/wp-content/uploads/2021/03/Bulletin-HFWD-English-March-18.pdf"
+        "date": "19/03/2021",
+        "source": "https://dhs.kerala.gov.in/wp-content/uploads/2021/03/Bulletin-HFWD-English-March-19.pdf"
       }
     },
     "KA": {
@@ -151,18 +151,18 @@
     },
     "UP": {
       "name": "Uttar Pradesh",
-      "confirmed": 606229,
-      "active": 2217,
-      "recovered": 595259,
-      "dead": 8753,
-      "updatedTime": "19/03/2021 00:20:45",
+      "confirmed": 606606,
+      "active": 2476,
+      "recovered": 595373,
+      "dead": 8757,
+      "updatedTime": "19/03/2021 20:46:59",
       "note": "[Jan 1]:As no bulletin was provided for 31'st Dec'20,its count has been combined with 1st Jan'21\n[Jan 9]:Due to reconcillation there are 1286 cases.",
       "stateCode": "UP",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 377,
+        "recovered": 114,
+        "dead": 4,
+        "active": 259
       },
       "testing_data": {
         "tested": 33315662,
@@ -179,7 +179,7 @@
       "active": 3297,
       "recovered": 566228,
       "dead": 10301,
-      "updatedTime": "19/03/2021 20:23:51",
+      "updatedTime": "19/03/2021 20:39:51",
       "note": "",
       "stateCode": "WB",
       "today": {
@@ -200,17 +200,17 @@
     "OR": {
       "name": "Odisha",
       "confirmed": 338599,
-      "active": 705,
-      "recovered": 335923,
+      "active": 634,
+      "recovered": 335994,
       "dead": 1971,
-      "updatedTime": "19/03/2021 12:31:48",
+      "updatedTime": "19/03/2021 20:47:01",
       "note": "[July 12th] :20 non-covid deaths reported in state dashboard are included in the deceased count",
       "stateCode": "OR",
       "today": {
         "confirmed": 110,
-        "recovered": 0,
+        "recovered": 71,
         "dead": 0,
-        "active": 110
+        "active": 39
       },
       "testing_data": {
         "tested": 8736689,
@@ -323,7 +323,7 @@
       "active": 6147,
       "recovered": 273280,
       "dead": 4437,
-      "updatedTime": "19/03/2021 20:23:53",
+      "updatedTime": "19/03/2021 20:40:00",
       "note": "",
       "stateCode": "GJ",
       "today": {
@@ -415,18 +415,18 @@
     },
     "PB": {
       "name": "Punjab",
-      "confirmed": 205418,
-      "active": 14366,
-      "recovered": 184848,
-      "dead": 6204,
-      "updatedTime": "18/03/2021 21:22:14",
+      "confirmed": 207888,
+      "active": 15459,
+      "recovered": 186187,
+      "dead": 6242,
+      "updatedTime": "19/03/2021 20:47:04",
       "note": "",
       "stateCode": "PB",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 2470,
+        "recovered": 1339,
+        "dead": 38,
+        "active": 1093
       },
       "testing_data": {
         "tested": 5528559,
@@ -487,26 +487,26 @@
     },
     "UT": {
       "name": "Uttarakhand",
-      "confirmed": 98129,
-      "active": 698,
-      "recovered": 94311,
+      "confirmed": 98228,
+      "active": 728,
+      "recovered": 94380,
       "dead": 1704,
-      "updatedTime": "18/03/2021 21:22:17",
+      "updatedTime": "19/03/2021 20:47:06",
       "note": "[Oct 30]: Metric of capturing the testing data has switched to \"Samples Tested\" from \"Samples Collected\"",
       "stateCode": "UT",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 99,
+        "recovered": 69,
         "dead": 0,
-        "active": 0
+        "active": 30
       },
       "testing_data": {
-        "tested": 2599595,
+        "tested": 2610397,
         "positive": 0,
-        "negative": 2501466,
-        "unconfirmed": 8587,
-        "date": "18/03/2021",
-        "source": "https://twitter.com/DDnews_dehradun/status/1372554042535120898?s=20"
+        "negative": 2512169,
+        "unconfirmed": 12399,
+        "date": "19/03/2021",
+        "source": "https://twitter.com/DDnews_dehradun/status/1372916195221905409"
       }
     },
     "HP": {
@@ -515,7 +515,7 @@
       "active": 1124,
       "recovered": 58248,
       "dead": 1003,
-      "updatedTime": "19/03/2021 20:23:57",
+      "updatedTime": "19/03/2021 20:40:11",
       "note": "",
       "stateCode": "HP",
       "today": {
@@ -525,12 +525,12 @@
         "active": 81
       },
       "testing_data": {
-        "tested": 1184160,
+        "tested": 1189809,
         "positive": 0,
-        "negative": 1123626,
-        "unconfirmed": 327,
-        "date": "18/03/2021",
-        "source": "https://twitter.com/nhm_hp/status/1372559092552593409"
+        "negative": 1128992,
+        "unconfirmed": 428,
+        "date": "19/03/2021",
+        "source": "https://twitter.com/nhm_hp/status/1372905430045790208"
       }
     },
     "GA": {
@@ -607,18 +607,18 @@
     },
     "MN": {
       "name": "Manipur",
-      "confirmed": 29325,
-      "active": 28,
-      "recovered": 28924,
+      "confirmed": 29326,
+      "active": 24,
+      "recovered": 28929,
       "dead": 373,
-      "updatedTime": "17/03/2021 20:22:04",
+      "updatedTime": "19/03/2021 20:47:09",
       "note": "[Dec 14]:824 out of 980 recovered cases are backdated.",
       "stateCode": "MN",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 1,
+        "recovered": 5,
         "dead": 0,
-        "active": 0
+        "active": -4
       },
       "testing_data": {
         "tested": 566178,
@@ -693,12 +693,12 @@
         "active": -1
       },
       "testing_data": {
-        "tested": 388592,
+        "tested": 389679,
         "positive": 0,
-        "negative": 374587,
+        "negative": 375671,
         "unconfirmed": 0,
-        "date": "18/03/2021",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/7331"
+        "date": "19/03/2021",
+        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/7353"
       }
     },
     "NL": {
@@ -789,12 +789,12 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 297433,
-        "positive": 5035,
+        "tested": 299048,
+        "positive": 5036,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "17/03/2021",
-        "source": "https://dhs.andaman.gov.in/NewEvents/605.pdf"
+        "date": "18/03/2021",
+        "source": "https://dhs.andaman.gov.in/NewEvents/606.pdf"
       }
     },
     "MZ": {
@@ -854,12 +854,12 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 43602,
+        "tested": 43956,
         "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "18/03/2021",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/7328"
+        "date": "19/03/2021",
+        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/7352"
       }
     },
     "UN": {
@@ -881,19 +881,19 @@
     }
   },
   "testing_data": {
-    "tested": 249776494,
-    "positive": 162630,
-    "negative": 36653849,
-    "unconfirmed": 9999
+    "tested": 249976332,
+    "positive": 162631,
+    "negative": 36671002,
+    "unconfirmed": 13912
   },
   "testing_data_imcr": {
     "tested": 231370546,
     "source": "http://twitter.com/ICMRDELHI/status/1372750226876821505"
   },
   "today": {
-    "confirmed": 35044,
-    "recovered": 20557,
-    "dead": 130,
-    "active": 14357
+    "confirmed": 37991,
+    "recovered": 22155,
+    "dead": 172,
+    "active": 15664
   }
 }
