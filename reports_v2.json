@@ -1,9 +1,9 @@
 {
   "confirmed": 11682440,
-  "recovered": 11176854,
+  "recovered": 11176859,
   "dead": 160181,
-  "active": 340678,
-  "updatedTime": "22/3/2021 21:08:49",
+  "active": 340673,
+  "updatedTime": "22/3/2021 21:24:45",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -11,7 +11,7 @@
       "active": 215241,
       "recovered": 2234330,
       "dead": 53457,
-      "updatedTime": "22/03/2021 21:08:51",
+      "updatedTime": "22/03/2021 21:24:47",
       "note": "[Dec 16]:10,218 duplicate cases & other state cases removed from total cases.791 recovered cases also removed from total recovered cases while reconciling \n[Sep 9] :239 cases have been removed from the hospitalized figures owing to the removal of duplicates and change of addresses as per the original residence\n[Aug 15] : MH bulletin has reduced 819 confirmed cases in Mumbai and 72 confirmed cases from 'Other States' from the tally\n[Jun 16] : 1328 deceased cases have been retroactively added to MH bulletin.\n[Jun 20] : 69 deceased cases have been reduced based on state bulletin.",
       "stateCode": "MH",
       "today": {
@@ -107,7 +107,7 @@
       "active": 8619,
       "recovered": 847139,
       "dead": 12609,
-      "updatedTime": "22/03/2021 21:08:52",
+      "updatedTime": "22/03/2021 21:24:48",
       "note": "[July 22]: 444 backdated deceased entries added to Chennai in TN bulletin.\n2 deaths cross notified to other states from Chennai and Coimbatore.\n1 patient died after turning negative for infection in Chengalpattu.\nThese cases have been added to TN deceased tally",
       "stateCode": "TN",
       "today": {
@@ -131,7 +131,7 @@
       "active": 3934,
       "recovered": 633975,
       "dead": 10963,
-      "updatedTime": "22/03/2021 21:08:54",
+      "updatedTime": "22/03/2021 21:24:49",
       "note": "[July 14]: Value for the total tests conducted has been reduced by 97008 in the state bulletin. Reason given : \"Reconciled with ICMR figures\". We have made the same change.",
       "stateCode": "DL",
       "today": {
@@ -347,7 +347,7 @@
       "active": 560,
       "recovered": 261537,
       "dead": 1561,
-      "updatedTime": "22/03/2021 21:08:56",
+      "updatedTime": "22/03/2021 21:24:51",
       "note": "",
       "stateCode": "BR",
       "today": {
@@ -419,7 +419,7 @@
       "active": 18628,
       "recovered": 190399,
       "dead": 6382,
-      "updatedTime": "22/03/2021 21:08:58",
+      "updatedTime": "22/03/2021 21:24:52",
       "note": "",
       "stateCode": "PB",
       "today": {
@@ -515,7 +515,7 @@
       "active": 1385,
       "recovered": 58466,
       "dead": 1008,
-      "updatedTime": "22/03/2021 21:09:00",
+      "updatedTime": "22/03/2021 21:24:54",
       "note": "",
       "stateCode": "HP",
       "today": {
@@ -752,17 +752,17 @@
     "SK": {
       "name": "Sikkim",
       "confirmed": 6206,
-      "active": 55,
-      "recovered": 5919,
+      "active": 50,
+      "recovered": 5924,
       "dead": 135,
-      "updatedTime": "21/03/2021 23:03:00",
+      "updatedTime": "22/03/2021 21:24:56",
       "note": "",
       "stateCode": "SK",
       "today": {
         "confirmed": 0,
-        "recovered": 0,
+        "recovered": 5,
         "dead": 0,
-        "active": 0
+        "active": -5
       },
       "testing_data": {
         "tested": 81749,
@@ -892,8 +892,8 @@
   },
   "today": {
     "confirmed": 36721,
-    "recovered": 27530,
+    "recovered": 27535,
     "dead": 178,
-    "active": 9013
+    "active": 9008
   }
 }
