@@ -1,9 +1,9 @@
 {
-  "confirmed": 11908373,
-  "recovered": 11292849,
-  "dead": 161275,
-  "active": 449447,
-  "updatedTime": "27/3/2021 01:13:53",
+  "confirmed": 11908871,
+  "recovered": 11293097,
+  "dead": 161277,
+  "active": 449695,
+  "updatedTime": "27/3/2021 12:14:52",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -271,26 +271,26 @@
     },
     "TG": {
       "name": "Telangana",
-      "confirmed": 305309,
-      "active": 3995,
-      "recovered": 299631,
-      "dead": 1683,
-      "updatedTime": "26/03/2021 23:03:02",
+      "confirmed": 305804,
+      "active": 4241,
+      "recovered": 299878,
+      "dead": 1685,
+      "updatedTime": "27/03/2021 12:14:55",
       "note": "[July 27] : Telangana bulletin for the previous day is released on the next day. We will add the cases for Telangana against the date of release, as that is the convention that we are following for other states.",
       "stateCode": "TG",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 495,
+        "recovered": 247,
+        "dead": 2,
+        "active": 246
       },
       "testing_data": {
-        "tested": 9903125,
+        "tested": 996115,
         "positive": 0,
         "negative": 0,
-        "unconfirmed": 894,
-        "date": "26/03/2021",
-        "source": "https://twitter.com/IPRTelangana/status/1375291847048753152"
+        "unconfirmed": 984,
+        "date": "27/03/2021",
+        "source": "https://twitter.com/IPRTelangana/status/1375661998193565706"
       }
     },
     "HR": {
@@ -799,18 +799,18 @@
     },
     "MZ": {
       "name": "Mizoram",
-      "confirmed": 4460,
-      "active": 24,
-      "recovered": 4425,
+      "confirmed": 4463,
+      "active": 26,
+      "recovered": 4426,
       "dead": 11,
-      "updatedTime": "26/03/2021 13:02:55",
+      "updatedTime": "27/03/2021 12:14:57",
       "note": "",
       "stateCode": "MZ",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 3,
+        "recovered": 1,
         "dead": 0,
-        "active": 0
+        "active": 2
       },
       "testing_data": {
         "tested": 249029,
@@ -881,19 +881,19 @@
     }
   },
   "testing_data": {
-    "tested": 257813018,
+    "tested": 248906008,
     "positive": 163994,
     "negative": 37522499,
-    "unconfirmed": 15582
+    "unconfirmed": 15672
   },
   "testing_data_imcr": {
-    "tested": 238604638,
-    "source": "http://twitter.com/ICMRDELHI/status/1375297856622391297"
+    "tested": 239769553,
+    "source": "https://twitter.com/ICMRDELHI/status/1375661955516538887"
   },
   "today": {
-    "confirmed": 0,
-    "recovered": 0,
-    "dead": 0,
-    "active": 0
+    "confirmed": 498,
+    "recovered": 248,
+    "dead": 2,
+    "active": 248
   }
 }
