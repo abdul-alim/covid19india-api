@@ -1,9 +1,9 @@
 {
-  "confirmed": 12299987,
-  "recovered": 11522224,
+  "confirmed": 12299994,
+  "recovered": 11522235,
   "dead": 163421,
-  "active": 609469,
-  "updatedTime": "1/4/2021 21:40:44",
+  "active": 609465,
+  "updatedTime": "1/4/2021 22:06:44",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -11,7 +11,7 @@
       "active": 366533,
       "recovered": 2433368,
       "dead": 54898,
-      "updatedTime": "01/04/2021 21:40:46",
+      "updatedTime": "01/04/2021 21:57:45",
       "note": "[Dec 16]:10,218 duplicate cases & other state cases removed from total cases.791 recovered cases also removed from total recovered cases while reconciling \n[Sep 9] :239 cases have been removed from the hospitalized figures owing to the removal of duplicates and change of addresses as per the original residence\n[Aug 15] : MH bulletin has reduced 819 confirmed cases in Mumbai and 72 confirmed cases from 'Other States' from the tally\n[Jun 16] : 1328 deceased cases have been retroactively added to MH bulletin.\n[Jun 20] : 69 deceased cases have been reduced based on state bulletin.",
       "stateCode": "MH",
       "today": {
@@ -155,7 +155,7 @@
       "active": 11918,
       "recovered": 599045,
       "dead": 8820,
-      "updatedTime": "01/04/2021 21:40:48",
+      "updatedTime": "01/04/2021 21:57:47",
       "note": "[Jan 1]:As no bulletin was provided for 31'st Dec'20,its count has been combined with 1st Jan'21\n[Jan 9]:Due to reconcillation there are 1286 cases.",
       "stateCode": "UP",
       "today": {
@@ -251,7 +251,7 @@
       "active": 28987,
       "recovered": 320613,
       "dead": 4204,
-      "updatedTime": "01/04/2021 21:40:51",
+      "updatedTime": "01/04/2021 21:57:48",
       "note": "",
       "stateCode": "CT",
       "today": {
@@ -347,7 +347,7 @@
       "active": 1907,
       "recovered": 262529,
       "dead": 1578,
-      "updatedTime": "01/04/2021 21:40:53",
+      "updatedTime": "01/04/2021 21:57:50",
       "note": "",
       "stateCode": "BR",
       "today": {
@@ -371,7 +371,7 @@
       "active": 18057,
       "recovered": 276002,
       "dead": 3998,
-      "updatedTime": "01/04/2021 21:40:54",
+      "updatedTime": "01/04/2021 21:57:51",
       "note": "[Oct 14]: 4469 confirmed cases and 4469 recoveries added in MP bulletin as reconciliation with private labs and hospitals",
       "stateCode": "MP",
       "today": {
@@ -419,7 +419,7 @@
       "active": 24644,
       "recovered": 211325,
       "dead": 6926,
-      "updatedTime": "01/04/2021 21:40:56",
+      "updatedTime": "01/04/2021 21:57:52",
       "note": "",
       "stateCode": "PB",
       "today": {
@@ -751,18 +751,18 @@
     },
     "SK": {
       "name": "Sikkim",
-      "confirmed": 6235,
-      "active": 47,
-      "recovered": 5956,
+      "confirmed": 6241,
+      "active": 46,
+      "recovered": 5963,
       "dead": 135,
-      "updatedTime": "31/03/2021 22:15:58",
+      "updatedTime": "01/04/2021 22:06:46",
       "note": "",
       "stateCode": "SK",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 6,
+        "recovered": 7,
         "dead": 0,
-        "active": 0
+        "active": -1
       },
       "testing_data": {
         "tested": 83021,
@@ -775,18 +775,18 @@
     },
     "AN": {
       "name": "Andaman and Nicobar",
-      "confirmed": 5083,
-      "active": 45,
-      "recovered": 4976,
+      "confirmed": 5084,
+      "active": 42,
+      "recovered": 4980,
       "dead": 62,
-      "updatedTime": "31/03/2021 23:23:04",
+      "updatedTime": "01/04/2021 22:06:47",
       "note": "",
       "stateCode": "AN",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 1,
+        "recovered": 4,
         "dead": 0,
-        "active": 0
+        "active": -3
       },
       "testing_data": {
         "tested": 319864,
@@ -844,7 +844,7 @@
       "active": 37,
       "recovered": 683,
       "dead": 1,
-      "updatedTime": "01/04/2021 21:41:01",
+      "updatedTime": "01/04/2021 21:57:55",
       "note": "",
       "stateCode": "LD",
       "today": {
@@ -891,9 +891,9 @@
     "source": "https://twitter.com/ICMRDELHI/status/1377462224977977346"
   },
   "today": {
-    "confirmed": 79275,
-    "recovered": 49724,
+    "confirmed": 79282,
+    "recovered": 49735,
     "dead": 461,
-    "active": 29090
+    "active": 29086
   }
 }
