@@ -1,24 +1,24 @@
 {
-  "confirmed": 12568689,
-  "recovered": 11670038,
-  "dead": 165017,
-  "active": 728712,
-  "updatedTime": "4/4/2021 21:22:45",
+  "confirmed": 12574457,
+  "recovered": 11673605,
+  "dead": 165044,
+  "active": 730871,
+  "updatedTime": "4/4/2021 21:56:46",
   "states": {
     "MH": {
       "name": "Maharashtra",
       "confirmed": 3010597,
-      "active": 430517,
+      "active": 430503,
       "recovered": 2522823,
-      "dead": 55877,
-      "updatedTime": "03/04/2021 20:50:48",
+      "dead": 55878,
+      "updatedTime": "04/04/2021 21:56:47",
       "note": "[Dec 16]:10,218 duplicate cases & other state cases removed from total cases.791 recovered cases also removed from total recovered cases while reconciling \n[Sep 9] :239 cases have been removed from the hospitalized figures owing to the removal of duplicates and change of addresses as per the original residence\n[Aug 15] : MH bulletin has reduced 819 confirmed cases in Mumbai and 72 confirmed cases from 'Other States' from the tally\n[Jun 16] : 1328 deceased cases have been retroactively added to MH bulletin.\n[Jun 20] : 69 deceased cases have been reduced based on state bulletin.",
       "stateCode": "MH",
       "today": {
         "confirmed": 57074,
         "recovered": 27508,
-        "dead": 221,
-        "active": 29345
+        "dead": 222,
+        "active": 29344
       },
       "testing_data": {
         "tested": 0,
@@ -31,17 +31,17 @@
     "KL": {
       "name": "Kerala",
       "confirmed": 1135234,
-      "active": 27894,
+      "active": 27891,
       "recovered": 1102359,
-      "dead": 4666,
-      "updatedTime": "04/04/2021 20:22:47",
+      "dead": 4669,
+      "updatedTime": "04/04/2021 21:56:49",
       "note": "Mahe native who expired in Kannur included in Kerala's deceased tally.\nSome non-covid deaths have also been reported in the bulletin.\nThese have been reduced from active count",
       "stateCode": "KL",
       "today": {
         "confirmed": 2802,
         "recovered": 2173,
-        "dead": 7,
-        "active": 622
+        "dead": 10,
+        "active": 619
       },
       "testing_data": {
         "tested": 0,
@@ -123,26 +123,26 @@
     },
     "DL": {
       "name": "Delhi",
-      "confirmed": 672381,
-      "active": 12647,
-      "recovered": 648674,
-      "dead": 11060,
-      "updatedTime": "03/04/2021 16:50:47",
+      "confirmed": 676414,
+      "active": 13982,
+      "recovered": 651351,
+      "dead": 11081,
+      "updatedTime": "04/04/2021 21:56:50",
       "note": "[July 14]: Value for the total tests conducted has been reduced by 97008 in the state bulletin. Reason given : \"Reconciled with ICMR figures\". We have made the same change.",
       "stateCode": "DL",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 4033,
+        "recovered": 2677,
+        "dead": 21,
+        "active": 1335
       },
       "testing_data": {
-        "tested": 14820857,
+        "tested": 14907756,
         "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "03/04/2021",
-        "source": "https://twitter.com/ANI/status/1378296176110264321"
+        "date": "04/04/2021",
+        "source": "https://twitter.com/ANI/status/1378734107992018944"
       }
     },
     "UP": {
@@ -194,17 +194,17 @@
     "OR": {
       "name": "Odisha",
       "confirmed": 342695,
-      "active": 3085,
-      "recovered": 337635,
+      "active": 2785,
+      "recovered": 337935,
       "dead": 1975,
-      "updatedTime": "04/04/2021 12:30:46",
+      "updatedTime": "04/04/2021 21:56:51",
       "note": "[July 12th] :20 non-covid deaths reported in state dashboard are included in the deceased count",
       "stateCode": "OR",
       "today": {
         "confirmed": 471,
-        "recovered": 0,
+        "recovered": 300,
         "dead": 1,
-        "active": 470
+        "active": 170
       },
       "testing_data": {
         "tested": 0,
@@ -216,18 +216,18 @@
     },
     "RJ": {
       "name": "Rajasthan",
-      "confirmed": 337596,
-      "active": 11738,
-      "recovered": 323031,
-      "dead": 2827,
-      "updatedTime": "03/04/2021 19:27:48",
+      "confirmed": 339325,
+      "active": 12878,
+      "recovered": 323618,
+      "dead": 2829,
+      "updatedTime": "04/04/2021 21:56:52",
       "note": "",
       "stateCode": "RJ",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 1729,
+        "recovered": 587,
+        "dead": 2,
+        "active": 1140
       },
       "testing_data": {
         "tested": 0,
@@ -300,11 +300,12 @@
         "active": 787
       },
       "testing_data": {
-        "tested": 0,
+        "tested": 6342732,
         "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "updated": false
+        "date": "03/04/2021",
+        "source": "http://www.nhmharyana.gov.in/WriteReadData/userfiles/file/CoronaVirus/Daily%20Bulletin%20of%20COVID%2019%20as%20on%2003-04-2021.pdf"
       }
     },
     "GJ": {
@@ -323,11 +324,12 @@
         "active": 837
       },
       "testing_data": {
-        "tested": 0,
+        "tested": 13932822,
         "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "updated": false
+        "date": "04/04/2021",
+        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/7631"
       }
     },
     "BR": {
@@ -440,11 +442,12 @@
         "active": 381
       },
       "testing_data": {
-        "tested": 0,
+        "tested": 6168752,
         "positive": 0,
-        "negative": 0,
+        "negative": 6036313,
         "unconfirmed": 0,
-        "updated": false
+        "date": "03/04/2021",
+        "source": "https://twitter.com/diprjk/status/1378320456537677830"
       }
     },
     "JH": {
@@ -509,11 +512,12 @@
         "active": 138
       },
       "testing_data": {
-        "tested": 0,
+        "tested": 1278357,
         "positive": 0,
-        "negative": 0,
-        "unconfirmed": 0,
-        "updated": false
+        "negative": 1212460,
+        "unconfirmed": 1059,
+        "date": "03/04/2021",
+        "source": "https://twitter.com/nhm_hp/status/1378364340412116993"
       }
     },
     "GA": {
@@ -532,11 +536,12 @@
         "active": 97
       },
       "testing_data": {
-        "tested": 0,
+        "tested": 553411,
         "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "updated": false
+        "date": "04/04/2021",
+        "source": "https://www.goa.gov.in/wp-content/uploads/2021/04/Media-Bulletin-4th-April-2021.pdf"
       }
     },
     "PY": {
@@ -624,12 +629,12 @@
         "active": -12
       },
       "testing_data": {
-        "tested": 318451,
+        "tested": 321189,
         "positive": 0,
-        "negative": 289564,
-        "unconfirmed": 191,
-        "date": "03/04/2021",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/7603"
+        "negative": 291960,
+        "unconfirmed": 251,
+        "date": "04/04/2021",
+        "source": "https://twitter.com/ANI/status/1378682153215479808"
       }
     },
     "AR": {
@@ -727,18 +732,18 @@
     },
     "SK": {
       "name": "Sikkim",
-      "confirmed": 6251,
-      "active": 49,
-      "recovered": 5968,
+      "confirmed": 6257,
+      "active": 50,
+      "recovered": 5971,
       "dead": 135,
-      "updatedTime": "03/04/2021 21:46:54",
+      "updatedTime": "04/04/2021 21:56:54",
       "note": "",
       "stateCode": "SK",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 6,
+        "recovered": 3,
         "dead": 0,
-        "active": 0
+        "active": 3
       },
       "testing_data": {
         "tested": 0,
@@ -854,19 +859,19 @@
     }
   },
   "testing_data": {
-    "tested": 68259828,
+    "tested": 96625539,
     "positive": 8278,
-    "negative": 15044406,
-    "unconfirmed": 493
+    "negative": 22295575,
+    "unconfirmed": 1612
   },
   "testing_data_imcr": {
     "tested": 248125908,
     "source": "https://twitter.com/ICMRDELHI/status/1378556801319235584"
   },
   "today": {
-    "confirmed": 84562,
-    "recovered": 42916,
-    "dead": 362,
-    "active": 41284
+    "confirmed": 90330,
+    "recovered": 46483,
+    "dead": 389,
+    "active": 43458
   }
 }
