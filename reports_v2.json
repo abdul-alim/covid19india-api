@@ -1,9 +1,9 @@
 {
-  "confirmed": 12929009,
-  "recovered": 11849208,
+  "confirmed": 12929339,
+  "recovered": 11849324,
   "dead": 166899,
-  "active": 907657,
-  "updatedTime": "8/4/2021 11:03:48",
+  "active": 907871,
+  "updatedTime": "8/4/2021 12:17:48",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -559,18 +559,18 @@
     },
     "PY": {
       "name": "Puducherry",
-      "confirmed": 42949,
-      "active": 1820,
-      "recovered": 40442,
+      "confirmed": 43242,
+      "active": 2000,
+      "recovered": 40555,
       "dead": 687,
-      "updatedTime": "07/04/2021 20:27:40",
+      "updatedTime": "08/04/2021 12:17:49",
       "note": "",
       "stateCode": "PY",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 293,
+        "recovered": 113,
         "dead": 0,
-        "active": 0
+        "active": 180
       },
       "testing_data": {
         "tested": 689359,
@@ -583,18 +583,18 @@
     },
     "TR": {
       "name": "Tripura",
-      "confirmed": 33572,
-      "active": 90,
-      "recovered": 33069,
+      "confirmed": 33609,
+      "active": 124,
+      "recovered": 33072,
       "dead": 390,
-      "updatedTime": "07/04/2021 18:00:53",
+      "updatedTime": "08/04/2021 12:17:50",
       "note": "[Aug 4]: Tripura bulletin for the previous day is released on the next day. We will add the cases for Tripura against the date of release, as that is the convention that we are following for other states.",
       "stateCode": "TR",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 37,
+        "recovered": 3,
         "dead": 0,
-        "active": 0
+        "active": 34
       },
       "testing_data": {
         "tested": 647320,
@@ -888,12 +888,12 @@
   },
   "testing_data_imcr": {
     "tested": 252677379,
-    "source": ""
+    "source": "http://twitter.com/ICMRDELHI/status/1380001638388101124"
   },
   "today": {
-    "confirmed": 2948,
-    "recovered": 303,
+    "confirmed": 3278,
+    "recovered": 419,
     "dead": 7,
-    "active": 2638
+    "active": 2852
   }
 }
