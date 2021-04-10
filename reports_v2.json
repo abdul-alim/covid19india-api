@@ -1,9 +1,9 @@
 {
-  "confirmed": 13268523,
+  "confirmed": 13268537,
   "recovered": 12011124,
   "dead": 168719,
-  "active": 1083289,
-  "updatedTime": "10/4/2021 20:18:50",
+  "active": 1083303,
+  "updatedTime": "10/4/2021 20:29:55",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -34,7 +34,7 @@
       "active": 39774,
       "recovered": 1115342,
       "dead": 4768,
-      "updatedTime": "10/04/2021 20:18:52",
+      "updatedTime": "10/04/2021 20:29:57",
       "note": "Mahe native who expired in Kannur included in Kerala's deceased tally.\nSome non-covid deaths have also been reported in the bulletin.\nThese have been reduced from active count",
       "stateCode": "KL",
       "today": {
@@ -137,11 +137,12 @@
         "active": 2142
       },
       "testing_data": {
-        "tested": 0,
+        "tested": 15443955,
         "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "updated": false
+        "date": "10/04/2021",
+        "source": "https://twitter.com/ANI/status/1380871552485367808"
       }
     },
     "UP": {
@@ -252,11 +253,12 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 0,
+        "tested": 6126295,
         "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "updated": false
+        "date": "09/04/2021",
+        "source": "https://twitter.com/HealthCgGov/status/1380572852605181952?s=19"
       }
     },
     "TG": {
@@ -298,11 +300,12 @@
         "active": 1311
       },
       "testing_data": {
-        "tested": 0,
+        "tested": 6524024,
         "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "updated": false
+        "date": "09/04/2021",
+        "source": "http://www.nhmharyana.gov.in/WriteReadData/userfiles/file/CoronaVirus/Daily%20Bulletin%20of%20COVID%2019%20as%20on%2009-04-2021.pdf"
       }
     },
     "GJ": {
@@ -321,11 +324,12 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 0,
+        "tested": 14567455,
         "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "updated": false
+        "date": "09/04/2021",
+        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/7746"
       }
     },
     "BR": {
@@ -344,12 +348,12 @@
         "active": 2641
       },
       "testing_data": {
-        "tested": 24375830,
+        "tested": 24470942,
         "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "09/04/2021",
-        "source": "https://twitter.com/BiharHealthDept/status/1380523989408247821"
+        "date": "10/04/2021",
+        "source": "https://twitter.com/BiharHealthDept/status/1380890437196541959"
       }
     },
     "MP": {
@@ -493,18 +497,18 @@
     },
     "HP": {
       "name": "Himachal Pradesh",
-      "confirmed": 69116,
-      "active": 5217,
+      "confirmed": 69130,
+      "active": 5231,
       "recovered": 62671,
       "dead": 1102,
-      "updatedTime": "10/04/2021 20:18:56",
+      "updatedTime": "10/04/2021 20:30:03",
       "note": "",
       "stateCode": "HP",
       "today": {
-        "confirmed": 943,
+        "confirmed": 957,
         "recovered": 373,
         "dead": 12,
-        "active": 558
+        "active": 572
       },
       "testing_data": {
         "tested": 0,
@@ -530,11 +534,12 @@
         "active": 372
       },
       "testing_data": {
-        "tested": 0,
+        "tested": 569832,
         "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "updated": false
+        "date": "10/04/2021",
+        "source": "https://www.goa.gov.in/"
       }
     },
     "PY": {
@@ -622,11 +627,12 @@
         "active": 52
       },
       "testing_data": {
-        "tested": 0,
+        "tested": 337663,
         "positive": 0,
-        "negative": 0,
-        "unconfirmed": 0,
-        "updated": false
+        "negative": 306276,
+        "unconfirmed": 130,
+        "date": "10/04/2021",
+        "source": "https://t.co/OukisYiWzp?amp=1"
       }
     },
     "AR": {
@@ -815,7 +821,7 @@
       "active": 60,
       "recovered": 728,
       "dead": 1,
-      "updatedTime": "10/04/2021 20:18:06",
+      "updatedTime": "10/04/2021 20:30:06",
       "note": "",
       "stateCode": "LD",
       "today": {
@@ -851,19 +857,19 @@
     }
   },
   "testing_data": {
-    "tested": 47904337,
-    "positive": 5161,
-    "negative": 14863038,
-    "unconfirmed": 0
+    "tested": 91641083,
+    "positive": 8355,
+    "negative": 15238208,
+    "unconfirmed": 432
   },
   "testing_data_imcr": {
     "tested": 255214803,
     "source": "https://twitter.com/ICMRDELHI/status/1380724913208664066?s=19"
   },
   "today": {
-    "confirmed": 65623,
+    "confirmed": 65637,
     "recovered": 23119,
     "dead": 252,
-    "active": 42252
+    "active": 42266
   }
 }
