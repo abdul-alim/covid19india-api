@@ -1,17 +1,17 @@
 {
-  "confirmed": 14257238,
-  "recovered": 12524755,
-  "dead": 174092,
-  "active": 1552554,
-  "updatedTime": "15/4/2021 20:24:56",
+  "confirmed": 14268441,
+  "recovered": 12530565,
+  "dead": 174171,
+  "active": 1557866,
+  "updatedTime": "15/4/2021 20:47:58",
   "states": {
     "MH": {
       "name": "Maharashtra",
       "confirmed": 3639855,
-      "active": 620061,
+      "active": 620060,
       "recovered": 2959056,
       "dead": 59153,
-      "updatedTime": "15/04/2021 20:24:59",
+      "updatedTime": "15/04/2021 20:47:59",
       "note": "[Dec 16]:10,218 duplicate cases & other state cases removed from total cases.791 recovered cases also removed from total recovered cases while reconciling \n[Sep 9] :239 cases have been removed from the hospitalized figures owing to the removal of duplicates and change of addresses as per the original residence\n[Aug 15] : MH bulletin has reduced 819 confirmed cases in Mumbai and 72 confirmed cases from 'Other States' from the tally\n[Jun 16] : 1328 deceased cases have been retroactively added to MH bulletin.\n[Jun 20] : 69 deceased cases have been reduced based on state bulletin.",
       "stateCode": "MH",
       "today": {
@@ -127,7 +127,7 @@
       "active": 54309,
       "recovered": 718176,
       "dead": 11652,
-      "updatedTime": "15/04/2021 20:23:59",
+      "updatedTime": "15/04/2021 20:32:20",
       "note": "[July 14]: Value for the total tests conducted has been reduced by 97008 in the state bulletin. Reason given : \"Reconciled with ICMR figures\". We have made the same change.",
       "stateCode": "DL",
       "today": {
@@ -284,18 +284,18 @@
     },
     "HR": {
       "name": "Haryana",
-      "confirmed": 329942,
-      "active": 27421,
-      "recovered": 299205,
-      "dead": 3316,
-      "updatedTime": "14/04/2021 22:26:57",
+      "confirmed": 335800,
+      "active": 30518,
+      "recovered": 301948,
+      "dead": 3334,
+      "updatedTime": "15/04/2021 20:48:01",
       "note": "",
       "stateCode": "HR",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 5858,
+        "recovered": 2743,
+        "dead": 18,
+        "active": 3097
       },
       "testing_data": {
         "tested": 0,
@@ -311,7 +311,7 @@
       "active": 44298,
       "recovered": 326394,
       "dead": 5076,
-      "updatedTime": "15/04/2021 20:24:01",
+      "updatedTime": "15/04/2021 20:32:31",
       "note": "",
       "stateCode": "GJ",
       "today": {
@@ -334,7 +334,7 @@
       "active": 29078,
       "recovered": 270550,
       "dead": 1675,
-      "updatedTime": "15/04/2021 20:24:10",
+      "updatedTime": "15/04/2021 20:32:33",
       "note": "",
       "stateCode": "BR",
       "today": {
@@ -399,18 +399,18 @@
     },
     "PB": {
       "name": "Punjab",
-      "confirmed": 282505,
-      "active": 28250,
-      "recovered": 246583,
-      "dead": 7672,
-      "updatedTime": "14/04/2021 22:27:01",
+      "confirmed": 286816,
+      "active": 30033,
+      "recovered": 249061,
+      "dead": 7722,
+      "updatedTime": "15/04/2021 20:48:03",
       "note": "",
       "stateCode": "PB",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 4311,
+        "recovered": 2478,
+        "dead": 50,
+        "active": 1783
       },
       "testing_data": {
         "tested": 0,
@@ -491,18 +491,18 @@
     },
     "HP": {
       "name": "Himachal Pradesh",
-      "confirmed": 72319,
-      "active": 6929,
-      "recovered": 64218,
-      "dead": 1135,
-      "updatedTime": "14/04/2021 20:31:10",
+      "confirmed": 73353,
+      "active": 7362,
+      "recovered": 64807,
+      "dead": 1146,
+      "updatedTime": "15/04/2021 20:48:04",
       "note": "",
       "stateCode": "HP",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 1034,
+        "recovered": 589,
+        "dead": 11,
+        "active": 434
       },
       "testing_data": {
         "tested": 0,
@@ -643,12 +643,11 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 418290,
+        "tested": 0,
         "positive": 0,
-        "negative": 388947,
+        "negative": 0,
         "unconfirmed": 0,
-        "date": "14/04/2021",
-        "source": "https://twitter.com/DirectorateofHS/status/1382360805241331717?s=19"
+        "updated": false
       }
     },
     "ML": {
@@ -849,9 +848,9 @@
     }
   },
   "testing_data": {
-    "tested": 16296181,
+    "tested": 15877891,
     "positive": 5247,
-    "negative": 14986358,
+    "negative": 14597411,
     "unconfirmed": 0
   },
   "testing_data_imcr": {
@@ -859,9 +858,9 @@
     "source": "https://twitter.com/ICMRDELHI/status/1382533843811389444"
   },
   "today": {
-    "confirmed": 186140,
-    "recovered": 98602,
-    "dead": 939,
-    "active": 86599
+    "confirmed": 197343,
+    "recovered": 104412,
+    "dead": 1018,
+    "active": 91913
   }
 }
