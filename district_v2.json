@@ -322,14 +322,14 @@
       {
         "district": "Changlang",
         "notes": "",
-        "active": 2,
+        "active": 1,
         "confirmed": 1285,
-        "recovered": 1279,
+        "recovered": 1280,
         "dead": 4,
         "today": {
           "confirmed": 0,
-          "recovered": 0,
-          "active": 0,
+          "recovered": 1,
+          "active": -1,
           "dead": 0
         }
       },
@@ -406,14 +406,14 @@
       {
         "district": "Lepa Rada",
         "notes": "",
-        "active": 3,
+        "active": 0,
         "confirmed": 289,
-        "recovered": 286,
+        "recovered": 289,
         "dead": 0,
         "today": {
           "confirmed": 0,
-          "recovered": 0,
-          "active": 0,
+          "recovered": 3,
+          "active": -3,
           "dead": 0
         }
       },
@@ -448,14 +448,14 @@
       {
         "district": "Lower Dibang Valley",
         "notes": "",
-        "active": 23,
-        "confirmed": 502,
+        "active": 26,
+        "confirmed": 505,
         "recovered": 479,
         "dead": 0,
         "today": {
-          "confirmed": 0,
+          "confirmed": 3,
           "recovered": 0,
-          "active": 0,
+          "active": 3,
           "dead": 0
         }
       },
@@ -518,14 +518,14 @@
       {
         "district": "Papum Pare",
         "notes": "",
-        "active": 22,
-        "confirmed": 6804,
+        "active": 25,
+        "confirmed": 6807,
         "recovered": 6753,
         "dead": 29,
         "today": {
-          "confirmed": 0,
+          "confirmed": 3,
           "recovered": 0,
-          "active": 0,
+          "active": 3,
           "dead": 0
         }
       },
@@ -560,28 +560,28 @@
       {
         "district": "Tawang",
         "notes": "",
-        "active": 0,
-        "confirmed": 492,
+        "active": 1,
+        "confirmed": 493,
         "recovered": 490,
         "dead": 2,
         "today": {
-          "confirmed": 0,
+          "confirmed": 1,
           "recovered": 0,
-          "active": 0,
+          "active": 1,
           "dead": 0
         }
       },
       {
         "district": "Tirap",
         "notes": "",
-        "active": 2,
+        "active": 0,
         "confirmed": 591,
-        "recovered": 587,
+        "recovered": 589,
         "dead": 2,
         "today": {
           "confirmed": 0,
-          "recovered": 0,
-          "active": 0,
+          "recovered": 2,
+          "active": -2,
           "dead": 0
         }
       },
@@ -630,14 +630,14 @@
       {
         "district": "West Kameng",
         "notes": "",
-        "active": 2,
-        "confirmed": 953,
+        "active": 3,
+        "confirmed": 954,
         "recovered": 947,
         "dead": 4,
         "today": {
-          "confirmed": 0,
+          "confirmed": 1,
           "recovered": 0,
-          "active": 0,
+          "active": 1,
           "dead": 0
         }
       },
@@ -657,15 +657,15 @@
       }
     ],
     "today": {
-      "confirmed": 0,
-      "active": 0,
-      "recovered": 0,
+      "confirmed": 8,
+      "active": 2,
+      "recovered": 6,
       "dead": 0
     },
-    "confirmed": 16912,
-    "recovered": 16792,
+    "confirmed": 16920,
+    "recovered": 16798,
     "dead": 56,
-    "active": 64
+    "active": 66
   },
   "AS": {
     "state": "Assam",
