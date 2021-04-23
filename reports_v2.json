@@ -1,9 +1,9 @@
 {
-  "confirmed": 16582740,
-  "recovered": 13853255,
-  "dead": 189344,
-  "active": 2533267,
-  "updatedTime": "23/4/2021 23:07:13",
+  "confirmed": 16602456,
+  "recovered": 13862119,
+  "dead": 189549,
+  "active": 2543914,
+  "updatedTime": "23/4/2021 23:51:13",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -131,7 +131,7 @@
       "active": 92029,
       "recovered": 875109,
       "dead": 13541,
-      "updatedTime": "23/04/2021 23:07:15",
+      "updatedTime": "23/04/2021 23:23:15",
       "note": "[July 14]: Value for the total tests conducted has been reduced by 97008 in the state bulletin. Reason given : \"Reconciled with ICMR figures\". We have made the same change.",
       "stateCode": "DL",
       "today": {
@@ -319,18 +319,18 @@
     },
     "GJ": {
       "name": "Gujarat",
-      "confirmed": 453836,
-      "active": 92084,
-      "recovered": 355875,
-      "dead": 5877,
-      "updatedTime": "22/04/2021 20:33:20",
+      "confirmed": 467640,
+      "active": 100128,
+      "recovered": 361493,
+      "dead": 6019,
+      "updatedTime": "23/04/2021 23:51:16",
       "note": "",
       "stateCode": "GJ",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 13804,
+        "recovered": 5618,
+        "dead": 142,
+        "active": 8044
       },
       "testing_data": {
         "tested": 16860142,
@@ -395,7 +395,7 @@
       "active": 12595,
       "recovered": 218339,
       "dead": 1172,
-      "updatedTime": "23/04/2021 23:07:16",
+      "updatedTime": "23/04/2021 23:23:19",
       "note": "[Jan 1]: 1347 cases i.e Covid +'tive patients dead for other reasons have been deducted fom active count.",
       "stateCode": "AS",
       "today": {
@@ -463,26 +463,26 @@
     },
     "JH": {
       "name": "Jharkhand",
-      "confirmed": 184951,
-      "active": 40942,
-      "recovered": 142294,
-      "dead": 1715,
-      "updatedTime": "23/04/2021 00:10:14",
+      "confirmed": 190692,
+      "active": 43415,
+      "recovered": 145499,
+      "dead": 1778,
+      "updatedTime": "23/04/2021 23:51:18",
       "note": "",
       "stateCode": "JH",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 5741,
+        "recovered": 3205,
+        "dead": 63,
+        "active": 2473
       },
       "testing_data": {
-        "tested": 6599651,
-        "positive": 184951,
-        "negative": 6414700,
+        "tested": 6642174,
+        "positive": 190692,
+        "negative": 6451482,
         "unconfirmed": 0,
-        "date": "22/04/2021",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/7990"
+        "date": "23/04/2021",
+        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/8011"
       }
     },
     "UT": {
@@ -607,18 +607,18 @@
     },
     "MN": {
       "name": "Manipur",
-      "confirmed": 30047,
-      "active": 513,
-      "recovered": 29153,
+      "confirmed": 30151,
+      "active": 590,
+      "recovered": 29180,
       "dead": 381,
-      "updatedTime": "22/04/2021 21:41:19",
+      "updatedTime": "23/04/2021 23:51:20",
       "note": "[Dec 14]:824 out of 980 recovered cases are backdated.",
       "stateCode": "MN",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 104,
+        "recovered": 27,
         "dead": 0,
-        "active": 0
+        "active": 77
       },
       "testing_data": {
         "tested": 601600,
@@ -659,7 +659,7 @@
       "active": 453,
       "recovered": 16921,
       "dead": 56,
-      "updatedTime": "23/04/2021 23:07:18",
+      "updatedTime": "23/04/2021 23:23:21",
       "note": "[July 25]: All numbers corresponding to Papum Pare and Captial Complex are tracked under Papum Pare district.",
       "stateCode": "AR",
       "today": {
@@ -751,18 +751,18 @@
     },
     "SK": {
       "name": "Sikkim",
-      "confirmed": 6970,
-      "active": 641,
-      "recovered": 6041,
+      "confirmed": 7037,
+      "active": 694,
+      "recovered": 6055,
       "dead": 137,
-      "updatedTime": "23/04/2021 00:10:18",
+      "updatedTime": "23/04/2021 23:51:22",
       "note": "",
       "stateCode": "SK",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 67,
+        "recovered": 14,
         "dead": 0,
-        "active": 0
+        "active": 53
       },
       "testing_data": {
         "tested": 83701,
@@ -779,7 +779,7 @@
       "active": 146,
       "recovered": 5358,
       "dead": 65,
-      "updatedTime": "23/04/2021 23:07:20",
+      "updatedTime": "23/04/2021 23:23:25",
       "note": "",
       "stateCode": "AN",
       "today": {
@@ -881,9 +881,9 @@
     }
   },
   "testing_data": {
-    "tested": 300583898,
-    "positive": 227971,
-    "negative": 42187930,
+    "tested": 300626421,
+    "positive": 233712,
+    "negative": 42224712,
     "unconfirmed": 38385
   },
   "testing_data_imcr": {
@@ -891,9 +891,9 @@
     "source": "https://twitter.com/ICMRDELHI/status/1385432266013233154"
   },
   "today": {
-    "confirmed": 325233,
-    "recovered": 211518,
-    "dead": 2415,
-    "active": 111300
+    "confirmed": 344949,
+    "recovered": 220382,
+    "dead": 2620,
+    "active": 121947
   }
 }
