@@ -1,9 +1,9 @@
 {
-  "confirmed": 16431795,
-  "recovered": 13717779,
-  "dead": 187708,
-  "active": 2519611,
-  "updatedTime": "23/4/2021 19:58:19",
+  "confirmed": 16445939,
+  "recovered": 13727711,
+  "dead": 187770,
+  "active": 2523761,
+  "updatedTime": "23/4/2021 20:26:12",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -59,7 +59,7 @@
       "active": 214311,
       "recovered": 1046554,
       "dead": 14075,
-      "updatedTime": "23/04/2021 19:58:21",
+      "updatedTime": "23/04/2021 20:15:17",
       "note": "",
       "stateCode": "KA",
       "today": {
@@ -175,18 +175,18 @@
     },
     "WB": {
       "name": "West Bengal",
-      "confirmed": 700904,
-      "active": 68798,
-      "recovered": 621340,
-      "dead": 10766,
-      "updatedTime": "22/04/2021 21:13:15",
+      "confirmed": 713780,
+      "active": 74737,
+      "recovered": 628218,
+      "dead": 10825,
+      "updatedTime": "23/04/2021 20:26:14",
       "note": "",
       "stateCode": "WB",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 12876,
+        "recovered": 6878,
+        "dead": 59,
+        "active": 5939
       },
       "testing_data": {
         "tested": 10003490,
@@ -200,17 +200,17 @@
     "OR": {
       "name": "Odisha",
       "confirmed": 394694,
-      "active": 39117,
-      "recovered": 353551,
+      "active": 36665,
+      "recovered": 356003,
       "dead": 2026,
-      "updatedTime": "23/04/2021 12:48:17",
+      "updatedTime": "23/04/2021 20:26:15",
       "note": "[July 12th] :20 non-covid deaths reported in state dashboard are included in the deceased count",
       "stateCode": "OR",
       "today": {
         "confirmed": 6215,
-        "recovered": 0,
+        "recovered": 2452,
         "dead": 8,
-        "active": 6207
+        "active": 3755
       },
       "testing_data": {
         "tested": 9793470,
@@ -279,10 +279,10 @@
       "note": "[July 27] : Telangana bulletin for the previous day is released on the next day. We will add the cases for Telangana against the date of release, as that is the convention that we are following for other states.",
       "stateCode": "TG",
       "today": {
-        "confirmed": 6206,
+        "confirmed": 6026,
         "recovered": 3052,
         "dead": 29,
-        "active": 3125
+        "active": 2945
       },
       "testing_data": {
         "tested": 12281027,
@@ -347,7 +347,7 @@
       "active": 76419,
       "recovered": 300012,
       "dead": 2010,
-      "updatedTime": "23/04/2021 19:58:23",
+      "updatedTime": "23/04/2021 20:15:32",
       "note": "",
       "stateCode": "BR",
       "today": {
@@ -357,12 +357,12 @@
         "active": 6551
       },
       "testing_data": {
-        "tested": 25642999,
+        "tested": 25751146,
         "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "22/04/2021",
-        "source": "https://twitter.com/BiharHealthDept/status/1385238325376675843"
+        "date": "23/04/2021",
+        "source": "https://twitter.com/BiharHealthDept/status/1385591640274833410/photo/2"
       }
     },
     "MP": {
@@ -371,7 +371,7 @@
       "active": 87640,
       "recovered": 380208,
       "dead": 4937,
-      "updatedTime": "23/04/2021 19:58:25",
+      "updatedTime": "23/04/2021 20:15:35",
       "note": "[Oct 14]: 4469 confirmed cases and 4469 recoveries added in MP bulletin as reconciliation with private labs and hospitals",
       "stateCode": "MP",
       "today": {
@@ -631,18 +631,18 @@
     },
     "CH": {
       "name": "Chandigarh",
-      "confirmed": 36404,
-      "active": 4273,
-      "recovered": 31704,
-      "dead": 427,
-      "updatedTime": "22/04/2021 19:37:15",
+      "confirmed": 37232,
+      "active": 4622,
+      "recovered": 32180,
+      "dead": 430,
+      "updatedTime": "23/04/2021 20:26:18",
       "note": "",
       "stateCode": "CH",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 828,
+        "recovered": 476,
+        "dead": 3,
+        "active": 349
       },
       "testing_data": {
         "tested": 374392,
@@ -679,18 +679,18 @@
     },
     "ML": {
       "name": "Meghalaya",
-      "confirmed": 15488,
-      "active": 1133,
-      "recovered": 14198,
+      "confirmed": 15631,
+      "active": 1238,
+      "recovered": 14236,
       "dead": 157,
-      "updatedTime": "22/04/2021 18:22:34",
+      "updatedTime": "23/04/2021 20:26:19",
       "note": "",
       "stateCode": "ML",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 143,
+        "recovered": 38,
         "dead": 0,
-        "active": 0
+        "active": 105
       },
       "testing_data": {
         "tested": 443730,
@@ -823,35 +823,35 @@
     },
     "DN": {
       "name": "Dadra and Nagar Haveli and Daman and Diu",
-      "confirmed": 5852,
-      "active": 1680,
-      "recovered": 4137,
+      "confirmed": 6015,
+      "active": 1772,
+      "recovered": 4208,
       "dead": 4,
-      "updatedTime": "22/04/2021 21:41:20",
+      "updatedTime": "23/04/2021 20:26:21",
       "note": "",
       "stateCode": "DN",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 163,
+        "recovered": 71,
         "dead": 0,
-        "active": 0
+        "active": 92
       },
       "isUnknown": true
     },
     "LD": {
       "name": "Laccadives",
-      "confirmed": 1671,
-      "active": 803,
-      "recovered": 862,
+      "confirmed": 1805,
+      "active": 920,
+      "recovered": 879,
       "dead": 1,
-      "updatedTime": "23/04/2021 00:54:13",
+      "updatedTime": "23/04/2021 20:26:23",
       "note": "",
       "stateCode": "LD",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 134,
+        "recovered": 17,
         "dead": 0,
-        "active": 0
+        "active": 117
       },
       "testing_data": {
         "tested": 64484,
@@ -859,7 +859,7 @@
         "negative": 0,
         "unconfirmed": 0,
         "date": "23/04/2021",
-        "source": "https://twitter.com/lakshadweep_ld/status/1353708468230742016?s=21"
+        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/8003"
       }
     },
     "UN": {
@@ -881,7 +881,7 @@
     }
   },
   "testing_data": {
-    "tested": 299214819,
+    "tested": 299322966,
     "positive": 227894,
     "negative": 42095843,
     "unconfirmed": 35774
@@ -891,9 +891,9 @@
     "source": "https://twitter.com/ICMRDELHI/status/1385432266013233154"
   },
   "today": {
-    "confirmed": 174468,
-    "recovered": 76042,
-    "dead": 779,
-    "active": 97647
+    "confirmed": 188432,
+    "recovered": 85974,
+    "dead": 841,
+    "active": 101617
   }
 }
