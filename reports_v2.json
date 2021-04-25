@@ -1,9 +1,9 @@
 {
-  "confirmed": 17242919,
-  "recovered": 14247192,
-  "dead": 194303,
-  "active": 2794217,
-  "updatedTime": "25/4/2021 21:24:13",
+  "confirmed": 17285627,
+  "recovered": 14281111,
+  "dead": 194797,
+  "active": 2802508,
+  "updatedTime": "25/4/2021 22:12:15",
   "states": {
     "MH": {
       "name": "Maharashtra",
@@ -11,7 +11,7 @@
       "active": 698354,
       "recovered": 3530060,
       "dead": 64760,
-      "updatedTime": "25/04/2021 21:24:15",
+      "updatedTime": "25/04/2021 21:41:14",
       "note": "[Dec 16]:10,218 duplicate cases & other state cases removed from total cases.791 recovered cases also removed from total recovered cases while reconciling \n[Sep 9] :239 cases have been removed from the hospitalized figures owing to the removal of duplicates and change of addresses as per the original residence\n[Aug 15] : MH bulletin has reduced 819 confirmed cases in Mumbai and 72 confirmed cases from 'Other States' from the tally\n[Jun 16] : 1328 deceased cases have been retroactively added to MH bulletin.\n[Jun 20] : 69 deceased cases have been reduced based on state bulletin.",
       "stateCode": "MH",
       "today": {
@@ -117,27 +117,28 @@
         "active": 4512
       },
       "testing_data": {
-        "tested": 0,
+        "tested": 22006472,
         "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "updated": false
+        "date": "25/04/2021",
+        "source": "https://stopcorona.tn.gov.in/wp-content/uploads/2020/03/Media-Bulletin-25-04-21-COVID-19-6-PM.pdf"
       }
     },
     "DL": {
       "name": "Delhi",
-      "confirmed": 1004782,
-      "active": 93080,
-      "recovered": 897804,
-      "dead": 13898,
-      "updatedTime": "24/04/2021 23:24:25",
+      "confirmed": 1027715,
+      "active": 94592,
+      "recovered": 918875,
+      "dead": 14248,
+      "updatedTime": "25/04/2021 22:12:16",
       "note": "[July 14]: Value for the total tests conducted has been reduced by 97008 in the state bulletin. Reason given : \"Reconciled with ICMR figures\". We have made the same change.",
       "stateCode": "DL",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 22933,
+        "recovered": 21071,
+        "dead": 350,
+        "active": 1512
       },
       "testing_data": {
         "tested": 16705947,
@@ -164,11 +165,12 @@
         "active": 9472
       },
       "testing_data": {
-        "tested": 0,
+        "tested": 39780573,
         "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "updated": false
+        "date": "25/04/2021",
+        "source": "https://twitter.com/ShishirGoUP/status/1386274567480434690"
       }
     },
     "WB": {
@@ -187,11 +189,12 @@
         "active": 7425
       },
       "testing_data": {
-        "tested": 0,
+        "tested": 10166796,
         "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "updated": false
+        "date": "25/04/2021",
+        "source": "https://www.wbhealth.gov.in/uploaded_files/corona/WB_DHFW_Bulletin_25th_APRIL_REPORT_FINAL.pdf"
       }
     },
     "OR": {
@@ -210,12 +213,12 @@
         "active": 2645
       },
       "testing_data": {
-        "tested": 9834487,
+        "tested": 9878252,
         "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "24/04/2021",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/8024"
+        "date": "25/04/2021",
+        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/8046"
       }
     },
     "RJ": {
@@ -234,11 +237,12 @@
         "active": 9086
       },
       "testing_data": {
-        "tested": 0,
+        "tested": 8277809,
         "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "updated": false
+        "date": "25/04/2021",
+        "source": "http://rajswasthya.nic.in/"
       }
     },
     "CT": {
@@ -281,11 +285,12 @@
         "active": 4781
       },
       "testing_data": {
-        "tested": 0,
+        "tested": 12493399,
         "positive": 0,
         "negative": 0,
-        "unconfirmed": 0,
-        "updated": false
+        "unconfirmed": 5429,
+        "date": "25/4/2021",
+        "source": "https://twitter.com/IPRTelangana/status/1386175926514323458"
       }
     },
     "HR": {
@@ -338,18 +343,18 @@
     },
     "BR": {
       "name": "Bihar",
-      "confirmed": 390801,
-      "active": 81960,
-      "recovered": 306753,
-      "dead": 2087,
-      "updatedTime": "24/04/2021 20:10:20",
+      "confirmed": 403596,
+      "active": 87154,
+      "recovered": 314286,
+      "dead": 2155,
+      "updatedTime": "25/04/2021 22:12:19",
       "note": "",
       "stateCode": "BR",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 12795,
+        "recovered": 7533,
+        "dead": 68,
+        "active": 5194
       },
       "testing_data": {
         "tested": 25953065,
@@ -410,18 +415,18 @@
     },
     "PB": {
       "name": "Punjab",
-      "confirmed": 332110,
-      "active": 46565,
-      "recovered": 277189,
-      "dead": 8356,
-      "updatedTime": "24/04/2021 21:41:19",
+      "confirmed": 339090,
+      "active": 48154,
+      "recovered": 282504,
+      "dead": 8432,
+      "updatedTime": "25/04/2021 22:12:20",
       "note": "",
       "stateCode": "PB",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 6980,
+        "recovered": 5315,
+        "dead": 76,
+        "active": 1589
       },
       "testing_data": {
         "tested": 6961532,
@@ -429,7 +434,7 @@
         "negative": 0,
         "unconfirmed": 0,
         "date": "25/4/2021",
-        "source": ""
+        "source": "https://twitter.com/ANI/status/1386337212984270850"
       }
     },
     "JK": {
@@ -496,20 +501,21 @@
         "active": 2576
       },
       "testing_data": {
-        "tested": 0,
+        "tested": 3574574,
         "positive": 0,
-        "negative": 0,
-        "unconfirmed": 0,
-        "updated": false
+        "negative": 3422773,
+        "unconfirmed": 30132,
+        "date": "25/04/2021",
+        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/8048"
       }
     },
     "HP": {
       "name": "Himachal Pradesh",
       "confirmed": 87501,
-      "active": 13581,
+      "active": 13577,
       "recovered": 72557,
       "dead": 1323,
-      "updatedTime": "25/04/2021 20:09:18",
+      "updatedTime": "25/04/2021 22:12:22",
       "note": "",
       "stateCode": "HP",
       "today": {
@@ -591,11 +597,12 @@
         "active": 82
       },
       "testing_data": {
-        "tested": 0,
-        "positive": 0,
-        "negative": 0,
+        "tested": 683472,
+        "positive": 34526,
+        "negative": 648946,
         "unconfirmed": 0,
-        "updated": false
+        "date": "25/04/2021",
+        "source": "https://covid19.tripura.gov.in/Visitor/ViewStatus.aspx"
       }
     },
     "MN": {
@@ -614,12 +621,12 @@
         "active": 100
       },
       "testing_data": {
-        "tested": 602832,
+        "tested": 604620,
         "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "24/04/2021",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/8020"
+        "date": "25/04/2021",
+        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/8038"
       }
     },
     "CH": {
@@ -686,12 +693,12 @@
         "active": 144
       },
       "testing_data": {
-        "tested": 447985,
+        "tested": 449420,
         "positive": 0,
-        "negative": 432199,
+        "negative": 433426,
         "unconfirmed": 0,
-        "date": "24/04/2021",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/8019"
+        "date": "25/04/2021",
+        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/8047"
       }
     },
     "NL": {
@@ -710,12 +717,12 @@
         "active": 162
       },
       "testing_data": {
-        "tested": 143272,
+        "tested": 143918,
         "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "24/04/2021",
-        "source": "https://twitter.com/MyGovNagaland/status/1385968994377617413?s=19"
+        "date": "25/04/2021",
+        "source": "https://twitter.com/MyGovNagaland/status/1365979814125989890"
       }
     },
     "LA": {
@@ -758,11 +765,12 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 0,
+        "tested": 83701,
         "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "updated": false
+        "date": "03/04/2021",
+        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/7609"
       }
     },
     "AN": {
@@ -805,12 +813,12 @@
         "active": 70
       },
       "testing_data": {
-        "tested": 287694,
+        "tested": 289994,
         "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "24/4/2021",
-        "source": "https://dipr.mizoram.gov.in/post/status-of-state-surveillance-of-covid-19-2442021-last-24-hours-500pm-as-per-data-received-from-integrated-diseases-surveillance-programme-idsp"
+        "date": "25/4/2021",
+        "source": "https://dipr.mizoram.gov.in/post/status-of-state-surveillance-of-covid-19-2542021-last-24-hours-500pm-as-per-data-received-from-integrated-diseases-surveillance-programme-idsp"
       }
     },
     "DN": {
@@ -873,19 +881,19 @@
     }
   },
   "testing_data": {
-    "tested": 207373974,
-    "positive": 204652,
-    "negative": 38620906,
-    "unconfirmed": 6260
+    "tested": 304490704,
+    "positive": 239178,
+    "negative": 42693852,
+    "unconfirmed": 41821
   },
   "testing_data_imcr": {
     "tested": 277918810,
     "source": "https://twitter.com/ICMRDELHI/status/1386160268758052867"
   },
   "today": {
-    "confirmed": 291152,
-    "recovered": 169113,
-    "dead": 1993,
-    "active": 120046
+    "confirmed": 333860,
+    "recovered": 203032,
+    "dead": 2487,
+    "active": 128341
   }
 }
