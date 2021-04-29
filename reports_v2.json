@@ -1,24 +1,24 @@
 {
-  "confirmed": 18552408,
-  "recovered": 15188830,
-  "dead": 205968,
-  "active": 3149619,
-  "updatedTime": "29/4/2021 19:53:27",
+  "confirmed": 18668356,
+  "recovered": 15295417,
+  "dead": 207115,
+  "active": 3157802,
+  "updatedTime": "29/4/2021 20:23:26",
   "states": {
     "MH": {
       "name": "Maharashtra",
-      "confirmed": 4473394,
-      "active": 673481,
-      "recovered": 3730729,
-      "dead": 67214,
-      "updatedTime": "28/04/2021 22:33:25",
+      "confirmed": 4539553,
+      "active": 670301,
+      "recovered": 3799266,
+      "dead": 67985,
+      "updatedTime": "29/04/2021 20:23:28",
       "note": "[Dec 16]:10,218 duplicate cases & other state cases removed from total cases.791 recovered cases also removed from total recovered cases while reconciling \n[Sep 9] :239 cases have been removed from the hospitalized figures owing to the removal of duplicates and change of addresses as per the original residence\n[Aug 15] : MH bulletin has reduced 819 confirmed cases in Mumbai and 72 confirmed cases from 'Other States' from the tally\n[Jun 16] : 1328 deceased cases have been retroactively added to MH bulletin.\n[Jun 20] : 69 deceased cases have been reduced based on state bulletin.",
       "stateCode": "MH",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 66159,
+        "recovered": 68537,
+        "dead": 771,
+        "active": -3149
       },
       "testing_data": {
         "tested": 26527862,
@@ -103,26 +103,26 @@
     },
     "TN": {
       "name": "Tamil Nadu",
-      "confirmed": 1130167,
-      "active": 110308,
-      "recovered": 1006033,
-      "dead": 13826,
-      "updatedTime": "28/04/2021 19:07:33",
+      "confirmed": 1148064,
+      "active": 112556,
+      "recovered": 1021575,
+      "dead": 13933,
+      "updatedTime": "29/04/2021 20:23:30",
       "note": "[July 22]: 444 backdated deceased entries added to Chennai in TN bulletin.\n2 deaths cross notified to other states from Chennai and Coimbatore.\n1 patient died after turning negative for infection in Chengalpattu.\nThese cases have been added to TN deceased tally",
       "stateCode": "TN",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 17897,
+        "recovered": 15542,
+        "dead": 107,
+        "active": 2248
       },
       "testing_data": {
-        "tested": 22378247,
+        "tested": 22140645,
         "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "28/04/2021",
-        "source": "https://stopcorona.tn.gov.in/wp-content/uploads/2020/03/Media-Bulletin-28-04-21-COVID-19-6-PM.pdf"
+        "date": "29/04/2021",
+        "source": "https://stopcorona.tn.gov.in/daily-bulletin/"
       }
     },
     "DL": {
@@ -175,18 +175,18 @@
     },
     "WB": {
       "name": "West Bengal",
-      "confirmed": 793552,
-      "active": 105812,
-      "recovered": 676581,
-      "dead": 11159,
-      "updatedTime": "28/04/2021 21:14:23",
+      "confirmed": 810955,
+      "active": 110241,
+      "recovered": 689466,
+      "dead": 11248,
+      "updatedTime": "29/04/2021 20:23:34",
       "note": "",
       "stateCode": "WB",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 17403,
+        "recovered": 12885,
+        "dead": 89,
+        "active": 4429
       },
       "testing_data": {
         "tested": 10325581,
@@ -319,18 +319,18 @@
     },
     "GJ": {
       "name": "Gujarat",
-      "confirmed": 538845,
-      "active": 133191,
-      "recovered": 398824,
-      "dead": 6830,
-      "updatedTime": "28/04/2021 20:40:04",
+      "confirmed": 553172,
+      "active": 137794,
+      "recovered": 408368,
+      "dead": 7010,
+      "updatedTime": "29/04/2021 20:23:36",
       "note": "",
       "stateCode": "GJ",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 14327,
+        "recovered": 9544,
+        "dead": 180,
+        "active": 4603
       },
       "testing_data": {
         "tested": 17709605,
@@ -357,12 +357,12 @@
         "active": 2074
       },
       "testing_data": {
-        "tested": 26237749,
+        "tested": 26335721,
         "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "28/04/2021",
-        "source": "https://twitter.com/BiharHealthDept/status/1387393503638872066/photo/1"
+        "date": "29/04/2021",
+        "source": "https://twitter.com/BiharHealthDept/status/1387757671256715265/photo/1"
       }
     },
     "MP": {
@@ -443,7 +443,7 @@
       "active": 26144,
       "recovered": 144154,
       "dead": 2253,
-      "updatedTime": "29/04/2021 19:53:47",
+      "updatedTime": "29/04/2021 20:12:39",
       "note": "",
       "stateCode": "JK",
       "today": {
@@ -823,18 +823,18 @@
     },
     "DN": {
       "name": "Dadra and Nagar Haveli and Daman and Diu",
-      "confirmed": 7216,
-      "active": 2109,
-      "recovered": 5072,
+      "confirmed": 7378,
+      "active": 2192,
+      "recovered": 5151,
       "dead": 4,
-      "updatedTime": "29/04/2021 19:53:51",
+      "updatedTime": "29/04/2021 20:23:39",
       "note": "",
       "stateCode": "DN",
       "today": {
-        "confirmed": 43,
-        "recovered": 33,
+        "confirmed": 205,
+        "recovered": 112,
         "dead": 0,
-        "active": 10
+        "active": 93
       },
       "isUnknown": true
     },
@@ -881,7 +881,7 @@
     }
   },
   "testing_data": {
-    "tested": 311240419,
+    "tested": 311100789,
     "positive": 265472,
     "negative": 43520042,
     "unconfirmed": 44157
@@ -891,9 +891,9 @@
     "source": "https://twitter.com/ICMRDELHI/status/1387611640678346752?s=19"
   },
   "today": {
-    "confirmed": 184078,
-    "recovered": 106549,
-    "dead": 1156,
-    "active": 76373
+    "confirmed": 300026,
+    "recovered": 213136,
+    "dead": 2303,
+    "active": 84587
   }
 }
