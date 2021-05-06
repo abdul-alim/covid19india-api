@@ -1,4 +1,4 @@
-# COVID-19 India JSON API
+# COVID-19 India JSON API 
 
 Main Dashboard: [https://www.track-covid19.in/](https://www.track-covid19.in/)
 
