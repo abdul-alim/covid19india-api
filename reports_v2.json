@@ -1,23 +1,23 @@
 {
-  "confirmed": 23977578,
-  "recovered": 20003642,
-  "dead": 261362,
-  "active": 3702510,
-  "updatedTime": "13/5/2021 21:26:19",
+  "confirmed": 24026262,
+  "recovered": 20049791,
+  "dead": 261969,
+  "active": 3704426,
+  "updatedTime": "13/5/2021 22:12:20",
   "states": {
     "AN": {
       "name": "Andaman and Nicobar",
-      "confirmed": 6470,
+      "confirmed": 6510,
       "active": 214,
-      "recovered": 6175,
-      "dead": 81,
+      "recovered": 6213,
+      "dead": 83,
       "updatedTime": "12/05/2021 23:19:20",
       "note": "",
       "stateCode": "AN",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
+        "confirmed": 40,
+        "recovered": 38,
+        "dead": 2,
         "active": 0
       },
       "testing_data": {
@@ -131,7 +131,7 @@
       "active": 8441,
       "recovered": 44343,
       "dead": 609,
-      "updatedTime": "13/05/2021 21:26:22",
+      "updatedTime": "13/05/2021 21:44:23",
       "note": "",
       "stateCode": "CH",
       "today": {
@@ -295,18 +295,18 @@
     },
     "HP": {
       "name": "Himachal Pradesh",
-      "confirmed": 145736,
-      "active": 38954,
-      "recovered": 104686,
-      "dead": 2055,
-      "updatedTime": "12/05/2021 21:44:26",
+      "confirmed": 150673,
+      "active": 40008,
+      "recovered": 108503,
+      "dead": 2118,
+      "updatedTime": "13/05/2021 22:12:22",
       "note": "",
       "stateCode": "HP",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 4937,
+        "recovered": 3817,
+        "dead": 63,
+        "active": 1057
       },
       "testing_data": {
         "tested": 1679291,
@@ -367,18 +367,18 @@
     },
     "KA": {
       "name": "Karnataka",
-      "confirmed": 2053191,
-      "active": 592182,
-      "recovered": 1440621,
-      "dead": 20368,
-      "updatedTime": "12/05/2021 20:44:35",
+      "confirmed": 2088488,
+      "active": 593078,
+      "recovered": 1474678,
+      "dead": 20712,
+      "updatedTime": "13/05/2021 22:12:31",
       "note": "",
       "stateCode": "KA",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 35297,
+        "recovered": 34057,
+        "dead": 344,
+        "active": 896
       },
       "testing_data": {
         "tested": 27521028,
@@ -443,7 +443,7 @@
       "active": 1092,
       "recovered": 3272,
       "dead": 13,
-      "updatedTime": "13/05/2021 21:26:27",
+      "updatedTime": "13/05/2021 21:44:26",
       "note": "",
       "stateCode": "LD",
       "today": {
@@ -584,17 +584,17 @@
     "NL": {
       "name": "Nagaland",
       "confirmed": 17256,
-      "active": 3572,
+      "active": 3551,
       "recovered": 12968,
-      "dead": 165,
-      "updatedTime": "13/05/2021 21:26:29",
+      "dead": 177,
+      "updatedTime": "13/05/2021 22:12:33",
       "note": "",
       "stateCode": "NL",
       "today": {
         "confirmed": 366,
         "recovered": 91,
-        "dead": 0,
-        "active": 275
+        "dead": 12,
+        "active": 263
       },
       "testing_data": {
         "tested": 170119,
@@ -655,18 +655,18 @@
     },
     "PB": {
       "name": "Punjab",
-      "confirmed": 467539,
-      "active": 79963,
-      "recovered": 376465,
-      "dead": 11111,
-      "updatedTime": "12/05/2021 22:30:21",
+      "confirmed": 475949,
+      "active": 79950,
+      "recovered": 384702,
+      "dead": 11297,
+      "updatedTime": "13/05/2021 22:12:35",
       "note": "",
       "stateCode": "PB",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 8410,
+        "recovered": 8237,
+        "dead": 186,
+        "active": -13
       },
       "testing_data": {
         "tested": 7932936,
@@ -683,7 +683,7 @@
       "active": 211889,
       "recovered": 603319,
       "dead": 6317,
-      "updatedTime": "13/05/2021 21:26:34",
+      "updatedTime": "13/05/2021 21:44:31",
       "note": "",
       "stateCode": "RJ",
       "today": {
@@ -748,7 +748,7 @@
       "active": 183772,
       "recovered": 1298945,
       "dead": 16768,
-      "updatedTime": "13/05/2021 21:26:36",
+      "updatedTime": "13/05/2021 21:44:33",
       "note": "[July 22]: 444 backdated deceased entries added to Chennai in TN bulletin.\n2 deaths cross notified to other states from Chennai and Coimbatore.\n1 patient died after turning negative for infection in Chengalpattu.\nThese cases have been added to TN deceased tally",
       "stateCode": "TN",
       "today": {
@@ -898,9 +898,9 @@
     "source": "https://twitter.com/ICMRDELHI/status/1392681501184073729"
   },
   "today": {
-    "confirmed": 274354,
-    "recovered": 274845,
-    "dead": 3009,
-    "active": -3500
+    "confirmed": 323038,
+    "recovered": 320994,
+    "dead": 3616,
+    "active": -1572
   }
 }
