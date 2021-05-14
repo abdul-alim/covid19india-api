@@ -1,9 +1,9 @@
 {
-  "confirmed": 24062147,
-  "recovered": 20075257,
+  "confirmed": 24062205,
+  "recovered": 20075256,
   "dead": 262425,
-  "active": 3714389,
-  "updatedTime": "14/5/2021 16:20:18",
+  "active": 3714448,
+  "updatedTime": "14/5/2021 16:50:18",
   "states": {
     "AN": {
       "name": "Andaman and Nicobar",
@@ -539,7 +539,7 @@
       "active": 4014,
       "recovered": 17909,
       "dead": 280,
-      "updatedTime": "14/05/2021 16:20:20",
+      "updatedTime": "14/05/2021 16:37:50",
       "note": "",
       "stateCode": "ML",
       "today": {
@@ -559,18 +559,18 @@
     },
     "MZ": {
       "name": "Mizoram",
-      "confirmed": 8319,
-      "active": 2091,
-      "recovered": 6205,
+      "confirmed": 8377,
+      "active": 2150,
+      "recovered": 6204,
       "dead": 23,
-      "updatedTime": "13/05/2021 18:20:20",
+      "updatedTime": "14/05/2021 16:50:20",
       "note": "",
       "stateCode": "MZ",
       "today": {
-        "confirmed": 143,
-        "recovered": 0,
+        "confirmed": 201,
+        "recovered": -1,
         "dead": 0,
-        "active": 143
+        "active": 202
       },
       "testing_data": {
         "tested": 337104,
@@ -635,7 +635,7 @@
       "active": 17424,
       "recovered": 62424,
       "dead": 1099,
-      "updatedTime": "14/05/2021 16:20:22",
+      "updatedTime": "14/05/2021 16:37:57",
       "note": "",
       "stateCode": "PY",
       "today": {
@@ -707,7 +707,7 @@
       "active": 3003,
       "recovered": 7446,
       "dead": 198,
-      "updatedTime": "14/05/2021 16:20:26",
+      "updatedTime": "14/05/2021 16:38:00",
       "note": "",
       "stateCode": "SK",
       "today": {
@@ -717,12 +717,12 @@
         "active": 57
       },
       "testing_data": {
-        "tested": 102413,
+        "tested": 103161,
         "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "13/05/2021",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/8407"
+        "date": "14/05/2021",
+        "source": "https://covid19sikkim.org/"
       }
     },
     "UN": {
@@ -796,7 +796,7 @@
       "active": 4069,
       "recovered": 35088,
       "dead": 423,
-      "updatedTime": "14/05/2021 16:20:27",
+      "updatedTime": "14/05/2021 16:38:04",
       "note": "[Aug 4]: Tripura bulletin for the previous day is released on the next day. We will add the cases for Tripura against the date of release, as that is the convention that we are following for other states.",
       "stateCode": "TR",
       "today": {
@@ -806,12 +806,12 @@
         "active": 350
       },
       "testing_data": {
-        "tested": 771752,
-        "positive": 39051,
-        "negative": 732701,
+        "tested": 777407,
+        "positive": 39603,
+        "negative": 737804,
         "unconfirmed": 0,
-        "date": "13/05/2021",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/8405"
+        "date": "14/05/2021",
+        "source": "https://covid19.tripura.gov.in/Visitor/ViewStatus.aspx"
       }
     },
     "UP": {
@@ -888,9 +888,9 @@
     }
   },
   "testing_data": {
-    "tested": 342056784,
-    "positive": 355003,
-    "negative": 47522750,
+    "tested": 342063187,
+    "positive": 355555,
+    "negative": 47527853,
     "unconfirmed": 27141
   },
   "testing_data_imcr": {
@@ -898,9 +898,9 @@
     "source": "https://twitter.com/ICMRDELHI/status/1393045402849406976"
   },
   "today": {
-    "confirmed": 15918,
-    "recovered": 1784,
+    "confirmed": 15976,
+    "recovered": 1783,
     "dead": 72,
-    "active": 14062
+    "active": 14121
   }
 }
