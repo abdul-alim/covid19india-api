@@ -1,24 +1,24 @@
 {
-  "confirmed": 25167802,
-  "recovered": 21492926,
-  "dead": 276947,
-  "active": 3387669,
-  "updatedTime": "17/5/2021 20:56:21",
+  "confirmed": 25194453,
+  "recovered": 21541183,
+  "dead": 277948,
+  "active": 3365043,
+  "updatedTime": "17/5/2021 21:26:20",
   "states": {
     "AN": {
       "name": "Andaman and Nicobar",
-      "confirmed": 6603,
-      "active": 232,
-      "recovered": 6283,
-      "dead": 88,
-      "updatedTime": "17/05/2021 08:24:20",
+      "confirmed": 6638,
+      "active": 220,
+      "recovered": 6329,
+      "dead": 89,
+      "updatedTime": "17/05/2021 21:26:21",
       "note": "",
       "stateCode": "AN",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 35,
+        "recovered": 46,
+        "dead": 1,
+        "active": -12
       },
       "testing_data": {
         "tested": 379674,
@@ -107,7 +107,7 @@
       "active": 69697,
       "recovered": 584203,
       "dead": 3928,
-      "updatedTime": "17/05/2021 20:56:22",
+      "updatedTime": "17/05/2021 21:05:21",
       "note": "",
       "stateCode": "BR",
       "today": {
@@ -117,12 +117,12 @@
         "active": -5392
       },
       "testing_data": {
-        "tested": 28069489,
+        "tested": 28194831,
         "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "16/05/2021",
-        "source": "https://twitter.com/BiharHealthDept/status/1393908085857656839"
+        "date": "17/05/2021",
+        "source": "https://twitter.com/BiharHealthDept/status/1394308083967578119?s=20"
       }
     },
     "CH": {
@@ -285,12 +285,12 @@
         "active": -6905
       },
       "testing_data": {
-        "tested": 8299423,
+        "tested": 8349357,
         "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "16/05/2021",
-        "source": "http://www.nhmharyana.gov.in/WriteReadData/userfiles/file/CoronaVirus/Daily%20Bulletin%20of%20COVID%2019%20as%20on%2016-05-2021.pdf"
+        "date": "17/05/2021",
+        "source": "http://www.nhmharyana.gov.in/WriteReadData/userfiles/file/CoronaVirus/Daily%20Bulletin%20of%20COVID%2019%20as%20on%2017-05-2021.pdf"
       }
     },
     "HP": {
@@ -309,11 +309,12 @@
         "active": -272
       },
       "testing_data": {
-        "tested": 0,
+        "tested": 1733730,
         "positive": 0,
-        "negative": 0,
-        "unconfirmed": 0,
-        "updated": false
+        "negative": 1569635,
+        "unconfirmed": 3855,
+        "date": "16/05/2021",
+        "source": "https://twitter.com/nhm_hp/status/1393929385430851585"
       }
     },
     "JK": {
@@ -479,18 +480,18 @@
     },
     "MH": {
       "name": "Maharashtra",
-      "confirmed": 5378452,
-      "active": 468109,
-      "recovered": 4826371,
-      "dead": 81486,
-      "updatedTime": "16/05/2021 21:14:35",
+      "confirmed": 5405068,
+      "active": 445495,
+      "recovered": 4874582,
+      "dead": 82486,
+      "updatedTime": "17/05/2021 21:26:23",
       "note": "[Dec 16]:10,218 duplicate cases & other state cases removed from total cases.791 recovered cases also removed from total recovered cases while reconciling \n[Sep 9] :239 cases have been removed from the hospitalized figures owing to the removal of duplicates and change of addresses as per the original residence\n[Aug 15] : MH bulletin has reduced 819 confirmed cases in Mumbai and 72 confirmed cases from 'Other States' from the tally\n[Jun 16] : 1328 deceased cases have been retroactively added to MH bulletin.\n[Jun 20] : 69 deceased cases have been reduced based on state bulletin.",
       "stateCode": "MH",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 26616,
+        "recovered": 48211,
+        "dead": 1000,
+        "active": -22595
       },
       "testing_data": {
         "tested": 0,
@@ -575,7 +576,7 @@
       "active": 4253,
       "recovered": 13299,
       "dead": 216,
-      "updatedTime": "17/05/2021 20:56:24",
+      "updatedTime": "17/05/2021 21:05:23",
       "note": "",
       "stateCode": "NL",
       "today": {
@@ -864,19 +865,19 @@
     }
   },
   "testing_data": {
-    "tested": 112783188,
+    "tested": 114692194,
     "positive": 9797,
-    "negative": 17540269,
-    "unconfirmed": 356
+    "negative": 19109904,
+    "unconfirmed": 4211
   },
   "testing_data_imcr": {
     "tested": 316423658,
     "source": "http://twitter.com/ICMRDELHI/status/1389062543033786370"
   },
   "today": {
-    "confirmed": 202723,
-    "recovered": 325180,
-    "dead": 2533,
-    "active": -124990
+    "confirmed": 229374,
+    "recovered": 373437,
+    "dead": 3534,
+    "active": -147597
   }
 }
