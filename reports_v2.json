@@ -1,9 +1,9 @@
 {
-  "confirmed": 26344303,
-  "recovered": 23121522,
-  "dead": 296094,
-  "active": 2916145,
-  "updatedTime": "22/5/2021 19:17:58",
+  "confirmed": 26378290,
+  "recovered": 23178942,
+  "dead": 296399,
+  "active": 2892407,
+  "updatedTime": "22/5/2021 19:50:01",
   "states": {
     "AN": {
       "name": "Andaman and Nicobar",
@@ -21,12 +21,12 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 381349,
-        "positive": 6758,
+        "tested": 382015,
+        "positive": 6789,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "20/05/2021",
-        "source": "https://dhs.andaman.gov.in/NewEvents/674.pdf"
+        "date": "21/05/2021",
+        "source": "https://dhs.andaman.gov.in/NewEvents/675.pdf"
       }
     },
     "AP": {
@@ -35,7 +35,7 @@
       "active": 210683,
       "recovered": 1341355,
       "dead": 10022,
-      "updatedTime": "22/05/2021 19:17:59",
+      "updatedTime": "22/05/2021 19:35:58",
       "note": "",
       "stateCode": "AP",
       "today": {
@@ -223,18 +223,18 @@
     },
     "GA": {
       "name": "Goa",
-      "confirmed": 143192,
-      "active": 19328,
-      "recovered": 121562,
-      "dead": 2302,
-      "updatedTime": "21/05/2021 19:05:00",
+      "confirmed": 144839,
+      "active": 18243,
+      "recovered": 124255,
+      "dead": 2341,
+      "updatedTime": "22/05/2021 19:50:05",
       "note": "",
       "stateCode": "GA",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 1647,
+        "recovered": 2693,
+        "dead": 39,
+        "active": -1085
       },
       "testing_data": {
         "tested": 778828,
@@ -391,18 +391,18 @@
     },
     "KL": {
       "name": "Kerala",
-      "confirmed": 2293633,
-      "active": 306342,
-      "recovered": 1979919,
-      "dead": 6995,
-      "updatedTime": "22/05/2021 08:19:00",
+      "confirmed": 2322147,
+      "active": 289280,
+      "recovered": 2025319,
+      "dead": 7171,
+      "updatedTime": "22/05/2021 19:50:09",
       "note": "Mahe native who expired in Kannur included in Kerala's deceased tally.\nSome non-covid deaths have also been reported in the bulletin.\nThese have been reduced from active count",
       "stateCode": "KL",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 28514,
+        "recovered": 45400,
+        "dead": 176,
+        "active": -17062
       },
       "testing_data": {
         "tested": 18555023,
@@ -463,18 +463,18 @@
     },
     "MP": {
       "name": "Madhya Pradesh",
-      "confirmed": 757119,
-      "active": 67625,
-      "recovered": 682100,
-      "dead": 7394,
-      "updatedTime": "21/05/2021 20:11:00",
+      "confirmed": 760963,
+      "active": 62053,
+      "recovered": 691427,
+      "dead": 7483,
+      "updatedTime": "22/05/2021 19:50:11",
       "note": "[Oct 14]: 4469 confirmed cases and 4469 recoveries added in MP bulletin as reconciliation with private labs and hospitals",
       "stateCode": "MP",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 3844,
+        "recovered": 9327,
+        "dead": 89,
+        "active": -5572
       },
       "testing_data": {
         "tested": 9148503,
@@ -559,18 +559,18 @@
     },
     "MZ": {
       "name": "Mizoram",
-      "confirmed": 10024,
-      "active": 2360,
+      "confirmed": 10006,
+      "active": 2341,
       "recovered": 7634,
-      "dead": 30,
-      "updatedTime": "22/05/2021 19:18:01",
+      "dead": 31,
+      "updatedTime": "22/05/2021 19:50:13",
       "note": "",
       "stateCode": "MZ",
       "today": {
-        "confirmed": 292,
+        "confirmed": 274,
         "recovered": 113,
-        "dead": 0,
-        "active": 179
+        "dead": 1,
+        "active": 160
       },
       "testing_data": {
         "tested": 354526,
@@ -597,12 +597,11 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 207977,
+        "tested": 0,
         "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "21/5/2021",
-        "source": "https://twitter.com/MyGovNagaland/status/1395752118426894343"
+        "updated": false
       }
     },
     "OR": {
@@ -611,7 +610,7 @@
       "active": 99038,
       "recovered": 577983,
       "dead": 2509,
-      "updatedTime": "22/05/2021 19:18:02",
+      "updatedTime": "22/05/2021 19:36:03",
       "note": "[July 12th] :20 non-covid deaths reported in state dashboard are included in the deceased count",
       "stateCode": "OR",
       "today": {
@@ -621,12 +620,11 @@
         "active": 481
       },
       "testing_data": {
-        "tested": 11118984,
+        "tested": 0,
         "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "20/05/2021",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/8557"
+        "updated": false
       }
     },
     "PY": {
@@ -645,12 +643,11 @@
         "active": -596
       },
       "testing_data": {
-        "tested": 971544,
+        "tested": 0,
         "positive": 0,
-        "negative": 844423,
+        "negative": 0,
         "unconfirmed": 0,
-        "date": "21/5/2021",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/8564"
+        "updated": false
       }
     },
     "PB": {
@@ -669,12 +666,11 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 8556117,
+        "tested": 0,
         "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "21/5/2021",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/8577?single"
+        "updated": false
       }
     },
     "RJ": {
@@ -693,12 +689,11 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 10118617,
+        "tested": 0,
         "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "21/05/2021",
-        "source": "https://twitter.com/airnews_jaipur/status/1395728476104138757/photo/2"
+        "updated": false
       }
     },
     "SK": {
@@ -707,7 +702,7 @@
       "active": 3200,
       "recovered": 9183,
       "dead": 221,
-      "updatedTime": "22/05/2021 19:18:03",
+      "updatedTime": "22/05/2021 19:36:04",
       "note": "",
       "stateCode": "SK",
       "today": {
@@ -717,12 +712,11 @@
         "active": 19
       },
       "testing_data": {
-        "tested": 108170,
+        "tested": 0,
         "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "21/05/2021",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/8567"
+        "updated": false
       }
     },
     "UN": {
@@ -758,12 +752,11 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 25949517,
+        "tested": 0,
         "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "21/05/2021",
-        "source": "https://stopcorona.tn.gov.in/wp-content/uploads/2020/03/Media-Bulletin-21-05-21-COVID-19-6-PM.pdf"
+        "updated": false
       }
     },
     "TG": {
@@ -782,12 +775,11 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 14402251,
+        "tested": 0,
         "positive": 0,
         "negative": 0,
-        "unconfirmed": 2227,
-        "date": "21/5/2021",
-        "source": "https://twitter.com/IPRTelangana/status/1395737183063969792/photo/1"
+        "unconfirmed": 0,
+        "updated": false
       }
     },
     "TR": {
@@ -806,12 +798,11 @@
         "active": 530
       },
       "testing_data": {
-        "tested": 836629,
-        "positive": 44356,
-        "negative": 792273,
+        "tested": 0,
+        "positive": 0,
+        "negative": 0,
         "unconfirmed": 0,
-        "date": "21/05/2021",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/8565"
+        "updated": false
       }
     },
     "UP": {
@@ -830,12 +821,11 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 46111719,
+        "tested": 0,
         "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "21/05/2021",
-        "source": "https://twitter.com/ShishirGoUP/status/1395600074458034180?s=20"
+        "updated": false
       }
     },
     "UT": {
@@ -854,12 +844,11 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 4443937,
+        "tested": 0,
         "positive": 0,
-        "negative": 4136371,
-        "unconfirmed": 14996,
-        "date": "21/5/2021",
-        "source": "https://twitter.com/DDnews_dehradun/status/1395752903017598976?s=19"
+        "negative": 0,
+        "unconfirmed": 0,
+        "updated": false
       }
     },
     "WB": {
@@ -868,7 +857,7 @@
       "active": 131688,
       "recovered": 1102772,
       "dead": 14208,
-      "updatedTime": "22/05/2021 19:17:01",
+      "updatedTime": "22/05/2021 19:36:05",
       "note": "",
       "stateCode": "WB",
       "today": {
@@ -878,29 +867,28 @@
         "active": -493
       },
       "testing_data": {
-        "tested": 11786397,
+        "tested": 0,
         "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "21/05/2021",
-        "source": "https://www.wbhealth.gov.in/uploaded_files/corona/WB_DHFW_Bulletin_21st_MAY_REPORT_FINAL_(1).pdf"
+        "updated": false
       }
     }
   },
   "testing_data": {
-    "tested": 358902261,
-    "positive": 381343,
-    "negative": 49797508,
-    "unconfirmed": 19702
+    "tested": 224291068,
+    "positive": 337018,
+    "negative": 44024441,
+    "unconfirmed": 2479
   },
   "testing_data_imcr": {
     "tested": 326484155,
     "source": "https://twitter.com/ICMRDELHI/status/1395946889250426883"
   },
   "today": {
-    "confirmed": 56223,
-    "recovered": 57824,
-    "dead": 534,
-    "active": -2135
+    "confirmed": 90210,
+    "recovered": 115244,
+    "dead": 839,
+    "active": -25873
   }
 }
