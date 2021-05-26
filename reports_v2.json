@@ -1,24 +1,24 @@
 {
-  "confirmed": 27354029,
-  "recovered": 24604894,
-  "dead": 314908,
-  "active": 2423330,
-  "updatedTime": "26/5/2021 20:59:04",
+  "confirmed": 27359751,
+  "recovered": 24611189,
+  "dead": 315000,
+  "active": 2422665,
+  "updatedTime": "26/5/2021 21:34:06",
   "states": {
     "AN": {
       "name": "Andaman and Nicobar",
-      "confirmed": 6878,
-      "active": 228,
-      "recovered": 6544,
-      "dead": 106,
-      "updatedTime": "25/05/2021 22:02:11",
+      "confirmed": 6901,
+      "active": 220,
+      "recovered": 6573,
+      "dead": 108,
+      "updatedTime": "26/05/2021 21:34:15",
       "note": "",
       "stateCode": "AN",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 23,
+        "recovered": 29,
+        "dead": 2,
+        "active": -8
       },
       "testing_data": {
         "tested": 383396,
@@ -79,18 +79,18 @@
     },
     "AS": {
       "name": "Assam",
-      "confirmed": 381171,
-      "active": 53541,
-      "recovered": 323368,
-      "dead": 2915,
-      "updatedTime": "25/05/2021 22:02:19",
+      "confirmed": 386870,
+      "active": 52884,
+      "recovered": 329634,
+      "dead": 3005,
+      "updatedTime": "26/05/2021 21:34:16",
       "note": "[Jan 1]: 1347 cases i.e Covid +'tive patients dead for other reasons have been deducted fom active count.",
       "stateCode": "AS",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 5699,
+        "recovered": 6266,
+        "dead": 90,
+        "active": -657
       },
       "testing_data": {
         "tested": 10387419,
@@ -107,7 +107,7 @@
       "active": 30992,
       "recovered": 662491,
       "dead": 4845,
-      "updatedTime": "26/05/2021 20:59:06",
+      "updatedTime": "26/05/2021 21:18:03",
       "note": "",
       "stateCode": "BR",
       "today": {
@@ -275,7 +275,7 @@
       "active": 31644,
       "recovered": 708255,
       "dead": 7841,
-      "updatedTime": "26/05/2021 20:59:07",
+      "updatedTime": "26/05/2021 21:18:04",
       "note": "",
       "stateCode": "HR",
       "today": {
@@ -299,7 +299,7 @@
       "active": 22181,
       "recovered": 159227,
       "dead": 2917,
-      "updatedTime": "26/05/2021 20:59:09",
+      "updatedTime": "26/05/2021 21:18:06",
       "note": "",
       "stateCode": "HP",
       "today": {
@@ -371,7 +371,7 @@
       "active": 409924,
       "recovered": 2062910,
       "dead": 26929,
-      "updatedTime": "26/05/2021 20:59:11",
+      "updatedTime": "26/05/2021 21:18:07",
       "note": "",
       "stateCode": "KA",
       "today": {
@@ -443,7 +443,7 @@
       "active": 2247,
       "recovered": 4930,
       "dead": 26,
-      "updatedTime": "26/05/2021 20:59:12",
+      "updatedTime": "26/05/2021 21:18:08",
       "note": "",
       "stateCode": "LD",
       "today": {
@@ -491,7 +491,7 @@
       "active": 315042,
       "recovered": 5241833,
       "dead": 91341,
-      "updatedTime": "26/05/2021 20:59:14",
+      "updatedTime": "26/05/2021 21:18:09",
       "note": "[Dec 16]:10,218 duplicate cases & other state cases removed from total cases.791 recovered cases also removed from total recovered cases while reconciling \n[Sep 9] :239 cases have been removed from the hospitalized figures owing to the removal of duplicates and change of addresses as per the original residence\n[Aug 15] : MH bulletin has reduced 819 confirmed cases in Mumbai and 72 confirmed cases from 'Other States' from the tally\n[Jun 16] : 1328 deceased cases have been retroactively added to MH bulletin.\n[Jun 20] : 69 deceased cases have been reduced based on state bulletin.",
       "stateCode": "MH",
       "today": {
@@ -587,7 +587,7 @@
       "active": 4923,
       "recovered": 14929,
       "dead": 327,
-      "updatedTime": "26/05/2021 20:59:15",
+      "updatedTime": "26/05/2021 21:18:10",
       "note": "",
       "stateCode": "NL",
       "today": {
@@ -748,7 +748,7 @@
       "active": 310224,
       "recovered": 1613221,
       "dead": 21815,
-      "updatedTime": "26/05/2021 20:59:16",
+      "updatedTime": "26/05/2021 21:18:12",
       "note": "[July 22]: 444 backdated deceased entries added to Chennai in TN bulletin.\n2 deaths cross notified to other states from Chennai and Coimbatore.\n1 patient died after turning negative for infection in Chengalpattu.\nThese cases have been added to TN deceased tally",
       "stateCode": "TN",
       "today": {
@@ -820,7 +820,7 @@
       "active": 62271,
       "recovered": 1598701,
       "dead": 19712,
-      "updatedTime": "26/05/2021 20:59:17",
+      "updatedTime": "26/05/2021 21:18:13",
       "note": "[Jan 1]:As no bulletin was provided for 31'st Dec'20,its count has been combined with 1st Jan'21\n[Jan 9]:Due to reconcillation there are 1286 cases.",
       "stateCode": "UP",
       "today": {
@@ -898,9 +898,9 @@
     "source": "https://twitter.com/ICMRDELHI/status/1397392262879875074"
   },
   "today": {
-    "confirmed": 197369,
-    "recovered": 261804,
-    "dead": 3486,
-    "active": -67921
+    "confirmed": 203091,
+    "recovered": 268099,
+    "dead": 3578,
+    "active": -68586
   }
 }
