@@ -1,9 +1,9 @@
 {
-  "confirmed": 28450595,
-  "recovered": 26383495,
-  "dead": 338065,
-  "active": 1717673,
-  "updatedTime": "03/06/2021 12:44:11",
+  "confirmed": 28451635,
+  "recovered": 26384445,
+  "dead": 338082,
+  "active": 1717746,
+  "updatedTime": "03/06/2021 14:13:10",
   "states": {
     "AN": {
       "name": "Andaman and Nicobar",
@@ -21,12 +21,12 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 387348,
-        "positive": 7018,
+        "tested": 387871,
+        "positive": 7043,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "01/06/2021",
-        "source": "https://dhs.andaman.gov.in/NewEvents/686.pdf"
+        "date": "02/06/2021",
+        "source": "https://dhs.andaman.gov.in/NewEvents/687.pdf"
       }
     },
     "AP": {
@@ -559,18 +559,18 @@
     },
     "MZ": {
       "name": "Mizoram",
-      "confirmed": 12634,
-      "active": 3096,
+      "confirmed": 12859,
+      "active": 3320,
       "recovered": 9494,
-      "dead": 44,
-      "updatedTime": "03/06/2021 00:31:14",
+      "dead": 45,
+      "updatedTime": "03/06/2021 14:13:12",
       "note": "",
       "stateCode": "MZ",
       "today": {
-        "confirmed": 0,
+        "confirmed": 225,
         "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "dead": 1,
+        "active": 224
       },
       "testing_data": {
         "tested": 393681,
@@ -611,7 +611,7 @@
       "active": 85423,
       "recovered": 702621,
       "dead": 2926,
-      "updatedTime": "03/06/2021 12:44:14",
+      "updatedTime": "03/06/2021 12:58:13",
       "note": "[July 12th] :20 non-covid deaths reported in state dashboard are included in the deceased count",
       "stateCode": "OR",
       "today": {
@@ -621,36 +621,36 @@
         "active": 8797
       },
       "testing_data": {
-        "tested": 11902048,
+        "tested": 11972226,
         "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "02/06/2021",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/8810"
+        "date": "03/06/2021",
+        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/8812"
       }
     },
     "PY": {
       "name": "Puducherry",
-      "confirmed": 106299,
-      "active": 10166,
-      "recovered": 94566,
-      "dead": 1567,
-      "updatedTime": "03/06/2021 00:31:15",
+      "confirmed": 107114,
+      "active": 10015,
+      "recovered": 95516,
+      "dead": 1583,
+      "updatedTime": "03/06/2021 14:13:13",
       "note": "",
       "stateCode": "PY",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 815,
+        "recovered": 950,
+        "dead": 16,
+        "active": -151
       },
       "testing_data": {
-        "tested": 1076259,
+        "tested": 1085293,
         "positive": 0,
-        "negative": 0,
+        "negative": 929317,
         "unconfirmed": 0,
-        "date": "2/6/2021",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/8806"
+        "date": "3/6/2021",
+        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/8813"
       }
     },
     "PB": {
@@ -796,7 +796,7 @@
       "active": 6495,
       "recovered": 46170,
       "dead": 531,
-      "updatedTime": "03/06/2021 12:43:14",
+      "updatedTime": "03/06/2021 12:58:18",
       "note": "[Aug 4]: Tripura bulletin for the previous day is released on the next day. We will add the cases for Tripura against the date of release, as that is the convention that we are following for other states.",
       "stateCode": "TR",
       "today": {
@@ -888,9 +888,9 @@
     }
   },
   "testing_data": {
-    "tested": 385188319,
-    "positive": 402346,
-    "negative": 110699943,
+    "tested": 385268054,
+    "positive": 402371,
+    "negative": 111629260,
     "unconfirmed": 10951
   },
   "testing_data_imcr": {
@@ -898,9 +898,9 @@
     "source": "https://twitter.com/ICMRDELHI/status/1400297782372487169"
   },
   "today": {
-    "confirmed": 9516,
-    "recovered": 458,
-    "dead": 51,
-    "active": 9007
+    "confirmed": 10556,
+    "recovered": 1408,
+    "dead": 68,
+    "active": 9080
   }
 }
