@@ -1,9 +1,9 @@
 {
-  "confirmed": 29002915,
-  "recovered": 27335451,
-  "dead": 351394,
-  "active": 1304513,
-  "updatedTime": "08/06/2021 12:55:21",
+  "confirmed": 29008342,
+  "recovered": 27347741,
+  "dead": 351492,
+  "active": 1297552,
+  "updatedTime": "08/06/2021 19:15:20",
   "states": {
     "AN": {
       "name": "Andaman and Nicobar",
@@ -854,53 +854,52 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 4979584,
+        "tested": 5005058,
         "positive": 0,
-        "negative": 4645165,
-        "unconfirmed": 7871,
-        "date": "07/06/2021",
-        "source": "https://twitter.com/DDnews_dehradun/status/1401898014403272709/photo/2"
+        "negative": 4669604,
+        "unconfirmed": 8366,
+        "date": "08/06/2021",
+        "source": "https://twitter.com/DDnews_dehradun/status/1402248791328051202"
       }
     },
     "WB": {
       "name": "West Bengal",
-      "confirmed": 1432019,
-      "active": 26886,
-      "recovered": 1388771,
-      "dead": 16362,
-      "updatedTime": "07/06/2021 20:29:43",
+      "confirmed": 1437446,
+      "active": 19925,
+      "recovered": 1401061,
+      "dead": 16460,
+      "updatedTime": "08/06/2021 19:15:22",
       "note": "",
       "stateCode": "WB",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 5427,
+        "recovered": 12290,
+        "dead": 98,
+        "active": -6961
       },
       "testing_data": {
-        "tested": 12919787,
+        "tested": 0,
         "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "07/06/2021",
-        "source": "https://www.wbhealth.gov.in/uploaded_files/corona/WB_DHFW_Bulletin_7th_JUNE_REPORT_FINAL1.pdf"
+        "updated": false
       }
     }
   },
   "testing_data": {
-    "tested": 396084270,
+    "tested": 383189957,
     "positive": 408067,
-    "negative": 45595917,
-    "unconfirmed": 9883
+    "negative": 45620356,
+    "unconfirmed": 10378
   },
   "testing_data_imcr": {
     "tested": 368207596,
     "source": "https://www.icmr.gov.in/pdf/covid/update/ICMR_testing_update_08Jun2021.pdf"
   },
   "today": {
-    "confirmed": 7458,
-    "recovered": 1533,
-    "dead": 59,
-    "active": 5866
+    "confirmed": 12885,
+    "recovered": 13823,
+    "dead": 157,
+    "active": -1095
   }
 }
