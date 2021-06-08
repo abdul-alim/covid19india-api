@@ -1,9 +1,9 @@
 {
-  "confirmed": 28996157,
+  "confirmed": 29002359,
   "recovered": 27334513,
-  "dead": 351343,
-  "active": 1298744,
-  "updatedTime": "08/06/2021 12:27:20",
+  "dead": 351388,
+  "active": 1304901,
+  "updatedTime": "08/06/2021 12:36:22",
   "states": {
     "AN": {
       "name": "Andaman and Nicobar",
@@ -21,12 +21,12 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 390574,
-        "positive": 7119,
+        "tested": 391273,
+        "positive": 7131,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "06/06/2021",
-        "source": "https://dhs.andaman.gov.in/NewEvents/692.pdf"
+        "date": "07/06/2021",
+        "source": "https://dhs.andaman.gov.in/NewEvents/693.pdf"
       }
     },
     "AP": {
@@ -429,12 +429,12 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 278229,
+        "tested": 280494,
         "positive": 0,
-        "negative": 247053,
+        "negative": 249254,
         "unconfirmed": 0,
-        "date": "06/06/2021",
-        "source": "https://twitter.com/DIPR_Leh/status/1401693721272492034"
+        "date": "07/06/2021",
+        "source": "https://twitter.com/DIPR_Leh/status/1402072808738365441"
       }
     },
     "LD": {
@@ -559,26 +559,26 @@
     },
     "MZ": {
       "name": "Mizoram",
-      "confirmed": 13679,
-      "active": 3071,
+      "confirmed": 13985,
+      "active": 3377,
       "recovered": 10553,
       "dead": 55,
-      "updatedTime": "08/06/2021 09:53:22",
+      "updatedTime": "08/06/2021 12:36:30",
       "note": "",
       "stateCode": "MZ",
       "today": {
-        "confirmed": 0,
+        "confirmed": 306,
         "recovered": 0,
         "dead": 0,
-        "active": 0
+        "active": 306
       },
       "testing_data": {
-        "tested": 410614,
+        "tested": 414581,
         "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "07/06/2021",
-        "source": "https://twitter.com/dipr_mizoram/status/1401713169291038721"
+        "date": "08/06/2021",
+        "source": "https://twitter.com/dipr_mizoram/status/1402076301779816448"
       }
     },
     "NL": {
@@ -607,26 +607,26 @@
     },
     "OR": {
       "name": "Odisha",
-      "confirmed": 819214,
-      "active": 68321,
+      "confirmed": 825110,
+      "active": 74172,
       "recovered": 747805,
-      "dead": 3088,
-      "updatedTime": "08/06/2021 00:20:24",
+      "dead": 3133,
+      "updatedTime": "08/06/2021 12:36:32",
       "note": "[July 12th] :20 non-covid deaths reported in state dashboard are included in the deceased count",
       "stateCode": "OR",
       "today": {
-        "confirmed": 0,
+        "confirmed": 5896,
         "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "dead": 45,
+        "active": 5851
       },
       "testing_data": {
-        "tested": 12250294,
+        "tested": 12319190,
         "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "07/06/2021",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/8886"
+        "date": "08/06/2021",
+        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/8901"
       }
     },
     "PY": {
@@ -645,12 +645,12 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 1120783,
+        "tested": 1129875,
         "positive": 0,
-        "negative": 959332,
+        "negative": 965670,
         "unconfirmed": 0,
-        "date": "07/06/2021",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/8887"
+        "date": "08/06/2021",
+        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/8902"
       }
     },
     "PB": {
@@ -796,7 +796,7 @@
       "active": 6055,
       "recovered": 49519,
       "dead": 569,
-      "updatedTime": "08/06/2021 12:27:23",
+      "updatedTime": "08/06/2021 12:36:35",
       "note": "[Aug 4]: Tripura bulletin for the previous day is released on the next day. We will add the cases for Tripura against the date of release, as that is the convention that we are following for other states.",
       "stateCode": "TR",
       "today": {
@@ -888,9 +888,9 @@
     }
   },
   "testing_data": {
-    "tested": 395999351,
-    "positive": 408055,
-    "negative": 45587378,
+    "tested": 396084270,
+    "positive": 408067,
+    "negative": 45595917,
     "unconfirmed": 9883
   },
   "testing_data_imcr": {
@@ -898,9 +898,9 @@
     "source": "https://www.icmr.gov.in/pdf/covid/update/ICMR_testing_update_08Jun2021.pdf"
   },
   "today": {
-    "confirmed": 700,
+    "confirmed": 6902,
     "recovered": 595,
-    "dead": 8,
-    "active": 97
+    "dead": 53,
+    "active": 6254
   }
 }
