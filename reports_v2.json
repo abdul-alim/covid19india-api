@@ -1,9 +1,9 @@
 {
   "confirmed": 29177251,
   "recovered": 27638902,
-  "dead": 359481,
-  "active": 1167203,
-  "updatedTime": "09/06/2021 21:13:25",
+  "dead": 359501,
+  "active": 1167183,
+  "updatedTime": "09/06/2021 21:31:24",
   "states": {
     "AN": {
       "name": "Andaman and Nicobar",
@@ -11,7 +11,7 @@
       "active": 91,
       "recovered": 6952,
       "dead": 125,
-      "updatedTime": "09/06/2021 21:13:29",
+      "updatedTime": "09/06/2021 21:22:24",
       "note": "",
       "stateCode": "AN",
       "today": {
@@ -83,7 +83,7 @@
       "active": 48499,
       "recovered": 392806,
       "dead": 3793,
-      "updatedTime": "09/06/2021 21:13:31",
+      "updatedTime": "09/06/2021 21:22:26",
       "note": "[Jan 1]: 1347 cases i.e Covid +'tive patients dead for other reasons have been deducted fom active count.",
       "stateCode": "AS",
       "today": {
@@ -104,17 +104,17 @@
     "BR": {
       "name": "Bihar",
       "confirmed": 714590,
-      "active": 3946,
+      "active": 3926,
       "recovered": 701234,
-      "dead": 9409,
-      "updatedTime": "09/06/2021 21:03:26",
-      "note": "[June 9] : 3951 deaths reported in the bulletin after reconcillation of records by the authorities",
+      "dead": 9429,
+      "updatedTime": "09/06/2021 21:31:27",
+      "note": "[June 9] : 3951 deceased cases have been reported in the bulletin after reconcillation of records by the authorities",
       "stateCode": "BR",
       "today": {
         "confirmed": 0,
         "recovered": 0,
-        "dead": 3951,
-        "active": -3951
+        "dead": 3971,
+        "active": -3971
       },
       "testing_data": {
         "tested": 30876528,
@@ -275,7 +275,7 @@
       "active": 7079,
       "recovered": 748186,
       "dead": 8829,
-      "updatedTime": "09/06/2021 21:13:32",
+      "updatedTime": "09/06/2021 21:22:27",
       "note": "",
       "stateCode": "HR",
       "today": {
@@ -335,7 +335,7 @@
       "testing_data": {
         "tested": 8985138,
         "positive": 0,
-        "negative": 0,
+        "negative": 8681389,
         "unconfirmed": 0,
         "date": "09/06/2021",
         "source": "https://twitter.com/NHMJK5/status/1402627566700171264"
@@ -405,12 +405,12 @@
         "active": -4189
       },
       "testing_data": {
-        "tested": 20688146,
+        "tested": 20803168,
         "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "08/06/2021",
-        "source": "https://dhs.kerala.gov.in/wp-content/uploads/2021/06/Bulletin-HFWD-English-June-08.pdf"
+        "date": "09/06/2021",
+        "source": "https://dhs.kerala.gov.in/wp-content/uploads/2021/06/Bulletin-HFWD-English-June-09-1.pdf"
       }
     },
     "LA": {
@@ -443,7 +443,7 @@
       "active": 787,
       "recovered": 8141,
       "dead": 42,
-      "updatedTime": "09/06/2021 21:13:34",
+      "updatedTime": "09/06/2021 21:22:29",
       "note": "",
       "stateCode": "LD",
       "today": {
@@ -453,12 +453,12 @@
         "active": -103
       },
       "testing_data": {
-        "tested": 149221,
+        "tested": 151065,
         "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "08/06/2021",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/8910"
+        "date": "09/06/2021",
+        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/8917"
       }
     },
     "MP": {
@@ -477,12 +477,12 @@
         "active": -912
       },
       "testing_data": {
-        "tested": 10518760,
+        "tested": 10595870,
         "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "08/06/2021",
-        "source": "https://twitter.com/healthminmp/status/1402256699025772550"
+        "date": "09/06/2021",
+        "source": "https://twitter.com/healthminmp/status/1402631688346161157"
       }
     },
     "MH": {
@@ -525,12 +525,12 @@
         "active": 166
       },
       "testing_data": {
-        "tested": 774451,
+        "tested": 783395,
         "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "08/06/2021",
-        "source": "https://twitter.com/airnews_imphal/status/1402257799812370444"
+        "date": "09/06/2021",
+        "source": "https://twitter.com/airnews_imphal/status/1402638514915725325"
       }
     },
     "ML": {
@@ -888,9 +888,9 @@
     }
   },
   "testing_data": {
-    "tested": 399459630,
+    "tested": 399662550,
     "positive": 409318,
-    "negative": 37326501,
+    "negative": 46007890,
     "unconfirmed": 11264
   },
   "testing_data_imcr": {
@@ -900,7 +900,7 @@
   "today": {
     "confirmed": 89009,
     "recovered": 142653,
-    "dead": 5924,
-    "active": -59568
+    "dead": 5944,
+    "active": -59588
   }
 }
