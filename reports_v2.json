@@ -1,9 +1,9 @@
 {
-  "confirmed": 29201160,
-  "recovered": 27664722,
-  "dead": 360010,
-  "active": 1164763,
-  "updatedTime": "10/06/2021 18:42:27",
+  "confirmed": 29201548,
+  "recovered": 27667964,
+  "dead": 360039,
+  "active": 1162146,
+  "updatedTime": "10/06/2021 18:59:22",
   "states": {
     "AN": {
       "name": "Andaman and Nicobar",
@@ -35,7 +35,7 @@
       "active": 99057,
       "recovered": 1677063,
       "dead": 11763,
-      "updatedTime": "10/06/2021 18:42:29",
+      "updatedTime": "10/06/2021 18:51:27",
       "note": "",
       "stateCode": "AP",
       "today": {
@@ -179,7 +179,7 @@
       "active": 117,
       "recovered": 10293,
       "dead": 4,
-      "updatedTime": "10/06/2021 18:42:31",
+      "updatedTime": "10/06/2021 18:51:29",
       "note": "",
       "stateCode": "DN",
       "today": {
@@ -203,7 +203,7 @@
       "active": 4212,
       "recovered": 1401473,
       "dead": 24748,
-      "updatedTime": "10/06/2021 18:42:33",
+      "updatedTime": "10/06/2021 18:43:29",
       "note": "[July 14]: Value for the total tests conducted has been reduced by 97008 in the state bulletin. Reason given : \"Reconciled with ICMR figures\". We have made the same change.",
       "stateCode": "DL",
       "today": {
@@ -227,7 +227,7 @@
       "active": 5605,
       "recovered": 152657,
       "dead": 2891,
-      "updatedTime": "10/06/2021 18:42:36",
+      "updatedTime": "10/06/2021 18:43:30",
       "note": "",
       "stateCode": "GA",
       "today": {
@@ -323,7 +323,7 @@
       "active": 18581,
       "recovered": 282142,
       "dead": 4143,
-      "updatedTime": "10/06/2021 18:42:42",
+      "updatedTime": "10/06/2021 18:51:31",
       "note": "",
       "stateCode": "JK",
       "today": {
@@ -563,7 +563,7 @@
       "active": 3431,
       "recovered": 11041,
       "dead": 61,
-      "updatedTime": "10/06/2021 18:41:32",
+      "updatedTime": "10/06/2021 18:43:34",
       "note": "",
       "stateCode": "MZ",
       "today": {
@@ -840,26 +840,26 @@
     },
     "UT": {
       "name": "Uttarakhand",
-      "confirmed": 335478,
-      "active": 9258,
-      "recovered": 313379,
-      "dead": 6849,
-      "updatedTime": "09/06/2021 20:36:24",
+      "confirmed": 335866,
+      "active": 6641,
+      "recovered": 316621,
+      "dead": 6878,
+      "updatedTime": "10/06/2021 18:59:24",
       "note": "[Oct 30]: Metric of capturing the testing data has switched to \"Samples Tested\" from \"Samples Collected\"",
       "stateCode": "UT",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 388,
+        "recovered": 3242,
+        "dead": 29,
+        "active": -2883
       },
       "testing_data": {
-        "tested": 5028341,
+        "tested": 5053879,
         "positive": 0,
-        "negative": 4692863,
-        "unconfirmed": 8386,
-        "date": "09/06/2021",
-        "source": "https://health.uk.gov.in/files/2021.06.09_Health_Bulletin.pdf"
+        "negative": 4710735,
+        "unconfirmed": 15364,
+        "date": "10/06/2021",
+        "source": "https://twitter.com/ANI/status/1402974827237892108"
       }
     },
     "WB": {
@@ -888,19 +888,19 @@
     }
   },
   "testing_data": {
-    "tested": 400888597,
+    "tested": 400914135,
     "positive": 410292,
-    "negative": 46250953,
-    "unconfirmed": 11284
+    "negative": 46268825,
+    "unconfirmed": 18262
   },
   "testing_data_imcr": {
     "tested": 372198253,
     "source": "https://twitter.com/ICMRDELHI/status/1402826004725256195"
   },
   "today": {
-    "confirmed": 19033,
-    "recovered": 19426,
-    "dead": 314,
-    "active": -707
+    "confirmed": 19421,
+    "recovered": 22668,
+    "dead": 343,
+    "active": -3590
   }
 }
