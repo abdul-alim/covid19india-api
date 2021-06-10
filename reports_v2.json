@@ -1,9 +1,9 @@
 {
-  "confirmed": 29203415,
-  "recovered": 27670624,
-  "dead": 360055,
-  "active": 1161337,
-  "updatedTime": "10/06/2021 19:08:22",
+  "confirmed": 29204066,
+  "recovered": 27681308,
+  "dead": 360078,
+  "active": 1151281,
+  "updatedTime": "10/06/2021 19:25:26",
   "states": {
     "AN": {
       "name": "Andaman and Nicobar",
@@ -131,7 +131,7 @@
       "active": 581,
       "recovered": 59564,
       "dead": 783,
-      "updatedTime": "10/06/2021 19:08:24",
+      "updatedTime": "10/06/2021 19:17:31",
       "note": "",
       "stateCode": "CH",
       "today": {
@@ -179,7 +179,7 @@
       "active": 116,
       "recovered": 10297,
       "dead": 4,
-      "updatedTime": "10/06/2021 19:08:25",
+      "updatedTime": "10/06/2021 19:17:32",
       "note": "",
       "stateCode": "DN",
       "today": {
@@ -583,42 +583,42 @@
     },
     "NL": {
       "name": "Nagaland",
-      "confirmed": 23237,
-      "active": 3893,
-      "recovered": 18261,
+      "confirmed": 23350,
+      "active": 3889,
+      "recovered": 18378,
       "dead": 435,
-      "updatedTime": "09/06/2021 20:09:28",
+      "updatedTime": "10/06/2021 19:25:30",
       "note": "",
       "stateCode": "NL",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 113,
+        "recovered": 117,
         "dead": 0,
-        "active": 0
+        "active": -4
       },
       "testing_data": {
-        "tested": 202694,
+        "tested": 203922,
         "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "09/06/2021",
-        "source": "https://twitter.com/MyGovNagaland/status/1402627741392928771?s=20"
+        "date": "10/06/2021",
+        "source": "https://twitter.com/MyGovNagaland/status/1402984667586850823?s=20"
       }
     },
     "OR": {
       "name": "Odisha",
       "confirmed": 837226,
-      "active": 69333,
-      "recovered": 764673,
+      "active": 61034,
+      "recovered": 772972,
       "dead": 3220,
-      "updatedTime": "10/06/2021 12:26:25",
+      "updatedTime": "10/06/2021 19:25:33",
       "note": "[July 12th] :20 non-covid deaths reported in state dashboard are included in the deceased count",
       "stateCode": "OR",
       "today": {
         "confirmed": 6097,
-        "recovered": 0,
+        "recovered": 8299,
         "dead": 44,
-        "active": 6053
+        "active": -2246
       },
       "testing_data": {
         "tested": 12457606,
@@ -679,26 +679,26 @@
     },
     "RJ": {
       "name": "Rajasthan",
-      "confirmed": 948024,
-      "active": 11832,
-      "recovered": 927443,
-      "dead": 8749,
-      "updatedTime": "09/06/2021 19:26:30",
+      "confirmed": 948562,
+      "active": 10079,
+      "recovered": 929711,
+      "dead": 8772,
+      "updatedTime": "10/06/2021 19:25:36",
       "note": "",
       "stateCode": "RJ",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 538,
+        "recovered": 2268,
+        "dead": 23,
+        "active": -1753
       },
       "testing_data": {
-        "tested": 11022726,
+        "tested": 11068706,
         "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "09/06/2021",
-        "source": "https://twitter.com/airnews_jaipur/status/1402617951182671880/photo/2"
+        "date": "10/06/2021",
+        "source": "https://twitter.com/ANI/status/1402983407684972558/photo/2"
       }
     },
     "SK": {
@@ -758,12 +758,12 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 29243359,
+        "tested": 29425279,
         "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "09/06/2021",
-        "source": "https://stopcorona.tn.gov.in/wp-content/uploads/2020/03/Media-Bulletin-09-06-21-COVID-19.pdf"
+        "date": "10/06/2021",
+        "source": "https://stopcorona.tn.gov.in/wp-content/uploads/2020/03/Media-Bulletin-10-06-21-COVID-19.pdf"
       }
     },
     "TG": {
@@ -772,7 +772,7 @@
       "active": 23561,
       "recovered": 571610,
       "dead": 3440,
-      "updatedTime": "10/06/2021 19:08:27",
+      "updatedTime": "10/06/2021 19:17:50",
       "note": "[July 27] : Telangana bulletin for the previous day is released on the next day. We will add the cases for Telangana against the date of release, as that is the convention that we are following for other states.",
       "stateCode": "TG",
       "today": {
@@ -888,7 +888,7 @@
     }
   },
   "testing_data": {
-    "tested": 401047125,
+    "tested": 401276253,
     "positive": 410292,
     "negative": 45847519,
     "unconfirmed": 18064
@@ -898,9 +898,9 @@
     "source": "https://twitter.com/ICMRDELHI/status/1402826004725256195"
   },
   "today": {
-    "confirmed": 21288,
-    "recovered": 25328,
-    "dead": 359,
-    "active": -4399
+    "confirmed": 21939,
+    "recovered": 36012,
+    "dead": 382,
+    "active": -14455
   }
 }
