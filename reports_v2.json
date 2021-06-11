@@ -1,9 +1,9 @@
 {
-  "confirmed": 29318579,
-  "recovered": 27846459,
-  "dead": 363895,
-  "active": 1096800,
-  "updatedTime": "11/06/2021 20:17:33",
+  "confirmed": 29318959,
+  "recovered": 27847859,
+  "dead": 363930,
+  "active": 1095742,
+  "updatedTime": "11/06/2021 20:26:24",
   "states": {
     "AN": {
       "name": "Andaman and Nicobar",
@@ -45,12 +45,12 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 20137627,
+        "tested": 20239490,
         "positive": 0,
-        "negative": 18349744,
+        "negative": 18443368,
         "unconfirmed": 0,
-        "date": "10/06/2021",
-        "source": "https://twitter.com/ArogyaAndhra/status/1402945311455076354"
+        "date": "11/06/2021",
+        "source": "https://twitter.com/ArogyaAndhra/status/1403322406744182795"
       }
     },
     "AR": {
@@ -463,18 +463,18 @@
     },
     "MP": {
       "name": "Madhya Pradesh",
-      "confirmed": 787175,
-      "active": 6325,
-      "recovered": 772375,
-      "dead": 8475,
-      "updatedTime": "10/06/2021 20:43:30",
+      "confirmed": 787555,
+      "active": 5483,
+      "recovered": 773566,
+      "dead": 8506,
+      "updatedTime": "11/06/2021 20:26:26",
       "note": "[Oct 14]: 4469 confirmed cases and 4469 recoveries added in MP bulletin as reconciliation with private labs and hospitals",
       "stateCode": "MP",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 380,
+        "recovered": 1191,
+        "dead": 31,
+        "active": -842
       },
       "testing_data": {
         "tested": 10672339,
@@ -584,17 +584,17 @@
     "NL": {
       "name": "Nagaland",
       "confirmed": 23466,
-      "active": 3993,
-      "recovered": 18378,
-      "dead": 441,
-      "updatedTime": "11/06/2021 20:17:48",
+      "active": 3777,
+      "recovered": 18587,
+      "dead": 445,
+      "updatedTime": "11/06/2021 20:26:28",
       "note": "",
       "stateCode": "NL",
       "today": {
         "confirmed": 116,
-        "recovered": 0,
-        "dead": 0,
-        "active": 116
+        "recovered": 209,
+        "dead": 4,
+        "active": -97
       },
       "testing_data": {
         "tested": 203922,
@@ -868,7 +868,7 @@
       "active": 15192,
       "recovered": 1421064,
       "dead": 16731,
-      "updatedTime": "11/06/2021 20:17:54",
+      "updatedTime": "11/06/2021 20:26:36",
       "note": "",
       "stateCode": "WB",
       "today": {
@@ -888,9 +888,9 @@
     }
   },
   "testing_data": {
-    "tested": 402548358,
+    "tested": 402650221,
     "positive": 411255,
-    "negative": 45947504,
+    "negative": 46041128,
     "unconfirmed": 17793
   },
   "testing_data_imcr": {
@@ -898,9 +898,9 @@
     "source": "https://twitter.com/ICMRDELHI/status/1403191597009801222"
   },
   "today": {
-    "confirmed": 44607,
-    "recovered": 65837,
-    "dead": 785,
-    "active": -22015
+    "confirmed": 44987,
+    "recovered": 67237,
+    "dead": 820,
+    "active": -23070
   }
 }
