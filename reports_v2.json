@@ -1,9 +1,9 @@
 {
-  "confirmed": 29358987,
-  "recovered": 27904146,
-  "dead": 367115,
-  "active": 1076268,
-  "updatedTime": "12/06/2021 12:08:24",
+  "confirmed": 29364445,
+  "recovered": 27904711,
+  "dead": 367171,
+  "active": 1081105,
+  "updatedTime": "12/06/2021 12:54:25",
   "states": {
     "AN": {
       "name": "Andaman and Nicobar",
@@ -559,18 +559,18 @@
     },
     "MZ": {
       "name": "Mizoram",
-      "confirmed": 14743,
-      "active": 3324,
+      "confirmed": 14921,
+      "active": 3501,
       "recovered": 11358,
-      "dead": 61,
-      "updatedTime": "11/06/2021 22:31:25",
+      "dead": 62,
+      "updatedTime": "12/06/2021 12:54:27",
       "note": "",
       "stateCode": "MZ",
       "today": {
-        "confirmed": 0,
+        "confirmed": 178,
         "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "dead": 1,
+        "active": 177
       },
       "testing_data": {
         "tested": 425706,
@@ -607,18 +607,18 @@
     },
     "OR": {
       "name": "Odisha",
-      "confirmed": 842461,
-      "active": 57710,
+      "confirmed": 847313,
+      "active": 62515,
       "recovered": 781488,
-      "dead": 3263,
-      "updatedTime": "11/06/2021 19:44:27",
+      "dead": 3310,
+      "updatedTime": "12/06/2021 12:53:29",
       "note": "[July 12th] :20 non-covid deaths reported in state dashboard are included in the deceased count",
       "stateCode": "OR",
       "today": {
-        "confirmed": 0,
+        "confirmed": 4852,
         "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "dead": 47,
+        "active": 4805
       },
       "testing_data": {
         "tested": 12523241,
@@ -792,18 +792,18 @@
     },
     "TR": {
       "name": "Tripura",
-      "confirmed": 58090,
-      "active": 5881,
-      "recovered": 51593,
-      "dead": 593,
-      "updatedTime": "11/06/2021 12:52:41",
+      "confirmed": 58518,
+      "active": 5736,
+      "recovered": 52158,
+      "dead": 601,
+      "updatedTime": "12/06/2021 12:53:31",
       "note": "[Aug 4]: Tripura bulletin for the previous day is released on the next day. We will add the cases for Tripura against the date of release, as that is the convention that we are following for other states.",
       "stateCode": "TR",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 428,
+        "recovered": 565,
+        "dead": 8,
+        "active": -145
       },
       "testing_data": {
         "tested": 1117070,
@@ -898,9 +898,9 @@
     "source": "https://www.icmr.gov.in/pdf/covid/update/ICMR_testing_update_12Jun2021.pdf"
   },
   "today": {
-    "confirmed": 442,
-    "recovered": 844,
-    "dead": 9,
-    "active": -411
+    "confirmed": 5900,
+    "recovered": 1409,
+    "dead": 65,
+    "active": 4426
   }
 }
