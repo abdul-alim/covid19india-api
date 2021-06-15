@@ -1,9 +1,9 @@
 {
-  "confirmed": 29619480,
-  "recovered": 28358274,
-  "dead": 378045,
-  "active": 871508,
-  "updatedTime": "15/06/2021 21:02:30",
+  "confirmed": 29627763,
+  "recovered": 28375144,
+  "dead": 379551,
+  "active": 861404,
+  "updatedTime": "15/06/2021 21:28:27",
   "states": {
     "AN": {
       "name": "Andaman and Nicobar",
@@ -175,16 +175,16 @@
     },
     "DN": {
       "name": "Dadra and Nagar Haveli and Daman and Diu",
-      "confirmed": 10470,
+      "confirmed": 10473,
       "active": 64,
-      "recovered": 10369,
+      "recovered": 10372,
       "dead": 4,
       "updatedTime": "15/06/2021 18:55:30",
       "note": "",
       "stateCode": "DN",
       "today": {
-        "confirmed": 4,
-        "recovered": 2,
+        "confirmed": 7,
+        "recovered": 5,
         "dead": 0,
         "active": 2
       },
@@ -487,18 +487,18 @@
     },
     "MH": {
       "name": "Maharashtra",
-      "confirmed": 5917121,
-      "active": 147354,
-      "recovered": 5654003,
-      "dead": 112696,
-      "updatedTime": "14/06/2021 21:14:28",
+      "confirmed": 5924773,
+      "active": 138361,
+      "recovered": 5669179,
+      "dead": 114154,
+      "updatedTime": "15/06/2021 21:28:33",
       "note": "[Dec 16]:10,218 duplicate cases & other state cases removed from total cases.791 recovered cases also removed from total recovered cases while reconciling \n[Sep 9] :239 cases have been removed from the hospitalized figures owing to the removal of duplicates and change of addresses as per the original residence\n[Aug 15] : MH bulletin has reduced 819 confirmed cases in Mumbai and 72 confirmed cases from 'Other States' from the tally\n[Jun 16] : 1328 deceased cases have been retroactively added to MH bulletin.\n[Jun 20] : 69 deceased cases have been reduced based on state bulletin.",
       "stateCode": "MH",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 7652,
+        "recovered": 15176,
+        "dead": 1458,
+        "active": -8982
       },
       "testing_data": {
         "tested": 38215492,
@@ -655,18 +655,18 @@
     },
     "PB": {
       "name": "Punjab",
-      "confirmed": 588525,
-      "active": 11913,
-      "recovered": 561010,
-      "dead": 15602,
-      "updatedTime": "14/06/2021 21:23:30",
+      "confirmed": 589153,
+      "active": 10802,
+      "recovered": 562701,
+      "dead": 15650,
+      "updatedTime": "15/06/2021 21:28:35",
       "note": "",
       "stateCode": "PB",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 628,
+        "recovered": 1691,
+        "dead": 48,
+        "active": -1111
       },
       "testing_data": {
         "tested": 10083279,
@@ -898,9 +898,9 @@
     "source": "https://www.icmr.gov.in/pdf/covid/update/ICMR_testing_update_15Jun2021.pdf"
   },
   "today": {
-    "confirmed": 49395,
-    "recovered": 85350,
-    "dead": 983,
-    "active": -36938
+    "confirmed": 57678,
+    "recovered": 102220,
+    "dead": 2489,
+    "active": -47031
   }
 }
