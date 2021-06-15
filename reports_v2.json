@@ -1,9 +1,9 @@
 {
-  "confirmed": 29617058,
-  "recovered": 28345261,
-  "dead": 377909,
-  "active": 882235,
-  "updatedTime": "15/06/2021 20:02:32",
+  "confirmed": 29617724,
+  "recovered": 28353797,
+  "dead": 377922,
+  "active": 874352,
+  "updatedTime": "15/06/2021 20:12:33",
   "states": {
     "AN": {
       "name": "Andaman and Nicobar",
@@ -319,18 +319,18 @@
     },
     "JK": {
       "name": "Jammu and Kashmir",
-      "confirmed": 308011,
-      "active": 13532,
-      "recovered": 290284,
-      "dead": 4195,
+      "confirmed": 308663,
+      "active": 12474,
+      "recovered": 291984,
+      "dead": 4205,
       "updatedTime": "14/06/2021 19:51:34",
       "note": "",
       "stateCode": "JK",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 652,
+        "recovered": 1700,
+        "dead": 10,
+        "active": -1058
       },
       "testing_data": {
         "tested": 9214386,
@@ -371,7 +371,7 @@
       "active": 162282,
       "recovered": 2581559,
       "dead": 33148,
-      "updatedTime": "15/06/2021 20:02:36",
+      "updatedTime": "15/06/2021 20:12:37",
       "note": "",
       "stateCode": "KA",
       "today": {
@@ -463,18 +463,18 @@
     },
     "MP": {
       "name": "Madhya Pradesh",
-      "confirmed": 788635,
-      "active": 3636,
-      "recovered": 776387,
-      "dead": 8612,
-      "updatedTime": "15/06/2021 20:02:39",
+      "confirmed": 788649,
+      "active": 3610,
+      "recovered": 776424,
+      "dead": 8615,
+      "updatedTime": "15/06/2021 20:12:42",
       "note": "[Oct 14]: 4469 confirmed cases and 4469 recoveries added in MP bulletin as reconciliation with private labs and hospitals",
       "stateCode": "MP",
       "today": {
-        "confirmed": 210,
-        "recovered": 491,
-        "dead": 24,
-        "active": -305
+        "confirmed": 224,
+        "recovered": 528,
+        "dead": 27,
+        "active": -331
       },
       "testing_data": {
         "tested": 10975520,
@@ -515,7 +515,7 @@
       "active": 8744,
       "recovered": 51354,
       "dead": 998,
-      "updatedTime": "15/06/2021 20:02:41",
+      "updatedTime": "15/06/2021 20:12:44",
       "note": "[Dec 14]:824 out of 980 recovered cases are backdated.",
       "stateCode": "MN",
       "today": {
@@ -608,17 +608,17 @@
     "OR": {
       "name": "Odisha",
       "confirmed": 859526,
-      "active": 51104,
-      "recovered": 804981,
+      "active": 44305,
+      "recovered": 811780,
       "dead": 3441,
-      "updatedTime": "15/06/2021 12:04:36",
+      "updatedTime": "15/06/2021 20:12:46",
       "note": "[July 12th] :20 non-covid deaths reported in state dashboard are included in the deceased count",
       "stateCode": "OR",
       "today": {
         "confirmed": 3405,
-        "recovered": 0,
+        "recovered": 6799,
         "dead": 42,
-        "active": 3363
+        "active": -3436
       },
       "testing_data": {
         "tested": 12720932,
@@ -898,9 +898,9 @@
     "source": "https://www.icmr.gov.in/pdf/covid/update/ICMR_testing_update_15Jun2021.pdf"
   },
   "today": {
-    "confirmed": 46973,
-    "recovered": 72337,
-    "dead": 847,
-    "active": -26211
+    "confirmed": 47639,
+    "recovered": 80873,
+    "dead": 860,
+    "active": -34094
   }
 }
