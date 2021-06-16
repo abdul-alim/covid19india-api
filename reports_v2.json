@@ -1,24 +1,24 @@
 {
-  "confirmed": 29673178,
-  "recovered": 28442568,
-  "dead": 380397,
-  "active": 838549,
-  "updatedTime": "16/06/2021 20:27:29",
+  "confirmed": 29683524,
+  "recovered": 28453684,
+  "dead": 381659,
+  "active": 836513,
+  "updatedTime": "16/06/2021 20:37:33",
   "states": {
     "AN": {
       "name": "Andaman and Nicobar",
-      "confirmed": 7280,
-      "active": 105,
-      "recovered": 7049,
-      "dead": 126,
-      "updatedTime": "15/06/2021 20:41:31",
+      "confirmed": 7306,
+      "active": 100,
+      "recovered": 7079,
+      "dead": 127,
+      "updatedTime": "16/06/2021 20:37:34",
       "note": "",
       "stateCode": "AN",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 26,
+        "recovered": 30,
+        "dead": 1,
+        "active": -5
       },
       "testing_data": {
         "tested": 397953,
@@ -47,7 +47,7 @@
       "testing_data": {
         "tested": 20736435,
         "positive": 0,
-        "negative": 0,
+        "negative": 18909684,
         "unconfirmed": 0,
         "date": "16/06/2021",
         "source": "https://twitter.com/ArogyaAndhra/status/1405117755259383813"
@@ -131,7 +131,7 @@
       "active": 462,
       "recovered": 59980,
       "dead": 799,
-      "updatedTime": "16/06/2021 20:26:39",
+      "updatedTime": "16/06/2021 20:27:33",
       "note": "",
       "stateCode": "CH",
       "today": {
@@ -141,12 +141,12 @@
         "active": -24
       },
       "testing_data": {
-        "tested": 542526,
+        "tested": 544309,
         "positive": 0,
-        "negative": 480077,
-        "unconfirmed": 23,
-        "date": "15/06/2021",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/9034"
+        "negative": 481819,
+        "unconfirmed": 13,
+        "date": "16/06/2021",
+        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/9050"
       }
     },
     "CT": {
@@ -175,18 +175,18 @@
     },
     "DN": {
       "name": "Dadra and Nagar Haveli and Daman and Diu",
-      "confirmed": 10473,
-      "active": 64,
-      "recovered": 10372,
+      "confirmed": 10474,
+      "active": 62,
+      "recovered": 10375,
       "dead": 4,
-      "updatedTime": "15/06/2021 18:55:30",
+      "updatedTime": "16/06/2021 20:37:37",
       "note": "",
       "stateCode": "DN",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 1,
+        "recovered": 3,
         "dead": 0,
-        "active": 0
+        "active": -2
       },
       "testing_data": {
         "tested": 72410,
@@ -199,18 +199,18 @@
     },
     "DL": {
       "name": "Delhi",
-      "confirmed": 1431498,
-      "active": 3078,
-      "recovered": 1403569,
-      "dead": 24851,
-      "updatedTime": "15/06/2021 18:55:32",
+      "confirmed": 1431710,
+      "active": 2749,
+      "recovered": 1404085,
+      "dead": 24876,
+      "updatedTime": "16/06/2021 20:36:34",
       "note": "[July 14]: Value for the total tests conducted has been reduced by 97008 in the state bulletin. Reason given : \"Reconciled with ICMR figures\". We have made the same change.",
       "stateCode": "DL",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 212,
+        "recovered": 516,
+        "dead": 25,
+        "active": -329
       },
       "testing_data": {
         "tested": 20394401,
@@ -275,7 +275,7 @@
       "active": 3579,
       "recovered": 753918,
       "dead": 9109,
-      "updatedTime": "16/06/2021 20:26:42",
+      "updatedTime": "16/06/2021 20:27:35",
       "note": "",
       "stateCode": "HR",
       "today": {
@@ -323,7 +323,7 @@
       "active": 11381,
       "recovered": 293763,
       "dead": 4217,
-      "updatedTime": "16/06/2021 20:26:44",
+      "updatedTime": "16/06/2021 20:36:36",
       "note": "",
       "stateCode": "JK",
       "today": {
@@ -357,12 +357,11 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 9175094,
-        "positive": 343793,
-        "negative": 8831291,
+        "tested": 0,
+        "positive": 0,
+        "negative": 0,
         "unconfirmed": 0,
-        "date": "15/06/2021",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/9045"
+        "updated": false
       }
     },
     "KA": {
@@ -371,7 +370,7 @@
       "active": 151566,
       "recovered": 2599472,
       "dead": 33296,
-      "updatedTime": "16/06/2021 20:26:45",
+      "updatedTime": "16/06/2021 20:27:38",
       "note": "",
       "stateCode": "KA",
       "today": {
@@ -381,12 +380,11 @@
         "active": -10716
       },
       "testing_data": {
-        "tested": 31923601,
+        "tested": 0,
         "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "15/06/2021",
-        "source": "https://t.co/jpLUnMCSJC?amp=1"
+        "updated": false
       }
     },
     "KL": {
@@ -405,12 +403,11 @@
         "active": -2566
       },
       "testing_data": {
-        "tested": 21393618,
+        "tested": 0,
         "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "15/06/2021",
-        "source": "https://dhs.kerala.gov.in/wp-content/uploads/2021/06/Bulletin-HFWD-English-June-15.pdf"
+        "updated": false
       }
     },
     "LA": {
@@ -429,12 +426,11 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 303421,
+        "tested": 0,
         "positive": 0,
-        "negative": 271777,
+        "negative": 0,
         "unconfirmed": 0,
-        "date": "15/06/2021",
-        "source": "https://twitter.com/DIPR_Leh/status/1404973346278711298"
+        "updated": false
       }
     },
     "LD": {
@@ -453,12 +449,11 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 160526,
+        "tested": 0,
         "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "15/06/2021",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/9036"
+        "updated": false
       }
     },
     "MP": {
@@ -467,7 +462,7 @@
       "active": 3273,
       "recovered": 776887,
       "dead": 8649,
-      "updatedTime": "16/06/2021 20:26:51",
+      "updatedTime": "16/06/2021 20:36:38",
       "note": "[Oct 14]: 4469 confirmed cases and 4469 recoveries added in MP bulletin as reconciliation with private labs and hospitals",
       "stateCode": "MP",
       "today": {
@@ -477,36 +472,34 @@
         "active": -337
       },
       "testing_data": {
-        "tested": 11117921,
+        "tested": 0,
         "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "16/06/2021",
-        "source": "https://twitter.com/healthminmp/status/1405155295370776585?s=20"
+        "updated": false
       }
     },
     "MH": {
       "name": "Maharashtra",
-      "confirmed": 5924773,
-      "active": 138361,
-      "recovered": 5669179,
-      "dead": 114154,
-      "updatedTime": "15/06/2021 21:29:35",
+      "confirmed": 5934880,
+      "active": 136661,
+      "recovered": 5679746,
+      "dead": 115390,
+      "updatedTime": "16/06/2021 20:36:39",
       "note": "[Dec 16]:10,218 duplicate cases & other state cases removed from total cases.791 recovered cases also removed from total recovered cases while reconciling \n[Sep 9] :239 cases have been removed from the hospitalized figures owing to the removal of duplicates and change of addresses as per the original residence\n[Aug 15] : MH bulletin has reduced 819 confirmed cases in Mumbai and 72 confirmed cases from 'Other States' from the tally\n[Jun 16] : 1328 deceased cases have been retroactively added to MH bulletin.\n[Jun 20] : 69 deceased cases have been reduced based on state bulletin.",
       "stateCode": "MH",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 10107,
+        "recovered": 10567,
+        "dead": 1236,
+        "active": -1696
       },
       "testing_data": {
-        "tested": 38418130,
+        "tested": 0,
         "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "15/06/2021",
-        "source": "https://twitter.com/ANI/status/1404818862332276737"
+        "updated": false
       }
     },
     "MN": {
@@ -525,12 +518,11 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 826571,
+        "tested": 0,
         "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "15/06/2021",
-        "source": "https://twitter.com/airnews_imphal/status/1404795024156602371"
+        "updated": false
       }
     },
     "ML": {
@@ -549,12 +541,11 @@
         "active": 34
       },
       "testing_data": {
-        "tested": 633824,
+        "tested": 0,
         "positive": 0,
-        "negative": 591065,
+        "negative": 0,
         "unconfirmed": 0,
-        "date": "15/06/2021",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/9032"
+        "updated": false
       }
     },
     "MZ": {
@@ -563,7 +554,7 @@
       "active": 3514,
       "recovered": 12313,
       "dead": 72,
-      "updatedTime": "16/06/2021 20:26:57",
+      "updatedTime": "16/06/2021 20:27:52",
       "note": "",
       "stateCode": "MZ",
       "today": {
@@ -573,12 +564,11 @@
         "active": 144
       },
       "testing_data": {
-        "tested": 437480,
+        "tested": 0,
         "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "15/06/2021",
-        "source": "https://twitter.com/dipr_mizoram/status/1404612257753964544"
+        "updated": false
       }
     },
     "NL": {
@@ -597,12 +587,11 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 211133,
+        "tested": 0,
         "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "16/06/2021",
-        "source": "https://twitter.com/MyGovNagaland/status/1365979814125989891"
+        "updated": false
       }
     },
     "OR": {
@@ -621,12 +610,11 @@
         "active": 3491
       },
       "testing_data": {
-        "tested": 12777739,
+        "tested": 0,
         "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "15/06/2021",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/9043"
+        "updated": false
       }
     },
     "PY": {
@@ -645,12 +633,11 @@
         "active": -173
       },
       "testing_data": {
-        "tested": 1190193,
+        "tested": 0,
         "positive": 0,
-        "negative": 1015787,
+        "negative": 0,
         "unconfirmed": 0,
-        "date": "15/06/2021",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/9031"
+        "updated": false
       }
     },
     "PB": {
@@ -669,12 +656,11 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 10136118,
+        "tested": 0,
         "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "15/06/2021",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/9037"
+        "updated": false
       }
     },
     "RJ": {
@@ -693,12 +679,11 @@
         "active": -657
       },
       "testing_data": {
-        "tested": 11314599,
+        "tested": 0,
         "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "16/06/2021",
-        "source": "https://twitter.com/airnews_jaipur/status/1405154828641177603?s=20"
+        "updated": false
       }
     },
     "SK": {
@@ -717,12 +702,11 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 151119,
+        "tested": 0,
         "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "16/06/2021",
-        "source": "https://covid19sikkim.org/"
+        "updated": false
       }
     },
     "UN": {
@@ -758,12 +742,11 @@
         "active": -10880
       },
       "testing_data": {
-        "tested": 30480340,
+        "tested": 0,
         "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "16/06/2021",
-        "source": "https://stopcorona.tn.gov.in/wp-content/uploads/2021/06/Media-Bulletin-16-06-21-COVID-19.pdf"
+        "updated": false
       }
     },
     "TG": {
@@ -782,12 +765,11 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 17070886,
+        "tested": 0,
         "positive": 0,
         "negative": 0,
-        "unconfirmed": 1293,
-        "date": "16/6/2021",
-        "source": "https://covid19.telangana.gov.in/"
+        "unconfirmed": 0,
+        "updated": false
       }
     },
     "TR": {
@@ -806,12 +788,11 @@
         "active": -65
       },
       "testing_data": {
-        "tested": 1160421,
-        "positive": 60382,
-        "negative": 1100039,
+        "tested": 0,
+        "positive": 0,
+        "negative": 0,
         "unconfirmed": 0,
-        "date": "16/06/2021",
-        "source": "https://t.co/P3I5jdauva?amp=1"
+        "updated": false
       }
     },
     "UP": {
@@ -830,12 +811,11 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 54145947,
+        "tested": 0,
         "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "16/06/2021",
-        "source": "https://twitter.com/ShishirGoUP/status/1405023307334766599?s=20"
+        "updated": false
       }
     },
     "UT": {
@@ -854,12 +834,11 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 5192496,
+        "tested": 0,
         "positive": 0,
-        "negative": 4854694,
-        "unconfirmed": 17045,
-        "date": "16/06/2021",
-        "source": "https://health.uk.gov.in/files/2021.06.16_Health_Bulletin.pdf"
+        "negative": 0,
+        "unconfirmed": 0,
+        "updated": false
       }
     },
     "WB": {
@@ -878,29 +857,28 @@
         "active": 1106
       },
       "testing_data": {
-        "tested": 13405729,
+        "tested": 0,
         "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "15/06/2021",
-        "source": "wbhealth.gov.in/uploaded_files/corona/WB_DHFW_Bulletin_15th_JUNE_REPORT_FINAL1.pdf"
+        "updated": false
       }
     }
   },
   "testing_data": {
-    "tested": 413510547,
-    "positive": 414649,
-    "negative": 28819687,
-    "unconfirmed": 21189
+    "tested": 141885424,
+    "positive": 10474,
+    "negative": 31066460,
+    "unconfirmed": 2841
   },
   "testing_data_imcr": {
     "tested": 383306971,
     "source": "https://twitter.com/ICMRDELHI/status/1405002322984407042"
   },
   "today": {
-    "confirmed": 40879,
-    "recovered": 61877,
-    "dead": 795,
-    "active": -21793
+    "confirmed": 51225,
+    "recovered": 72993,
+    "dead": 2057,
+    "active": -23825
   }
 }
