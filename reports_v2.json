@@ -1,9 +1,9 @@
 {
-  "confirmed": 29717142,
-  "recovered": 28507859,
-  "dead": 382182,
-  "active": 815406,
-  "updatedTime": "17/06/2021 19:23:27",
+  "confirmed": 29724334,
+  "recovered": 28520676,
+  "dead": 382440,
+  "active": 809523,
+  "updatedTime": "17/06/2021 19:42:28",
   "states": {
     "AN": {
       "name": "Andaman and Nicobar",
@@ -175,18 +175,18 @@
     },
     "DN": {
       "name": "Dadra and Nagar Haveli and Daman and Diu",
-      "confirmed": 10481,
-      "active": 68,
+      "confirmed": 10483,
+      "active": 70,
       "recovered": 10376,
       "dead": 4,
       "updatedTime": "16/06/2021 22:30:49",
       "note": "",
       "stateCode": "DN",
       "today": {
-        "confirmed": 0,
+        "confirmed": 2,
         "recovered": 0,
         "dead": 0,
-        "active": 0
+        "active": 2
       },
       "testing_data": {
         "tested": 72410,
@@ -295,18 +295,18 @@
     },
     "HP": {
       "name": "Himachal Pradesh",
-      "confirmed": 199407,
-      "active": 3733,
-      "recovered": 192256,
-      "dead": 3398,
-      "updatedTime": "16/06/2021 21:06:31",
+      "confirmed": 199699,
+      "active": 3430,
+      "recovered": 192841,
+      "dead": 3408,
+      "updatedTime": "17/06/2021 19:42:30",
       "note": "",
       "stateCode": "HP",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 292,
+        "recovered": 585,
+        "dead": 10,
+        "active": -303
       },
       "testing_data": {
         "tested": 2219860,
@@ -323,7 +323,7 @@
       "active": 10602,
       "recovered": 295189,
       "dead": 4226,
-      "updatedTime": "17/06/2021 19:23:30",
+      "updatedTime": "17/06/2021 19:41:35",
       "note": "",
       "stateCode": "JK",
       "today": {
@@ -367,18 +367,18 @@
     },
     "KA": {
       "name": "Karnataka",
-      "confirmed": 2784355,
-      "active": 151566,
-      "recovered": 2599472,
-      "dead": 33296,
-      "updatedTime": "16/06/2021 20:27:38",
+      "confirmed": 2790338,
+      "active": 146726,
+      "recovered": 2610157,
+      "dead": 33434,
+      "updatedTime": "17/06/2021 19:42:31",
       "note": "",
       "stateCode": "KA",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 5983,
+        "recovered": 10685,
+        "dead": 138,
+        "active": -4840
       },
       "testing_data": {
         "tested": 32092313,
@@ -463,18 +463,18 @@
     },
     "MP": {
       "name": "Madhya Pradesh",
-      "confirmed": 788809,
-      "active": 3273,
-      "recovered": 776887,
-      "dead": 8649,
-      "updatedTime": "16/06/2021 20:39:02",
+      "confirmed": 788954,
+      "active": 2984,
+      "recovered": 777291,
+      "dead": 8679,
+      "updatedTime": "17/06/2021 19:42:32",
       "note": "[Oct 14]: 4469 confirmed cases and 4469 recoveries added in MP bulletin as reconciliation with private labs and hospitals",
       "stateCode": "MP",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 145,
+        "recovered": 404,
+        "dead": 30,
+        "active": -289
       },
       "testing_data": {
         "tested": 11117921,
@@ -511,18 +511,18 @@
     },
     "MN": {
       "name": "Manipur",
-      "confirmed": 61848,
-      "active": 9078,
-      "recovered": 51762,
-      "dead": 1008,
-      "updatedTime": "16/06/2021 22:27:59",
+      "confirmed": 62343,
+      "active": 9102,
+      "recovered": 52220,
+      "dead": 1021,
+      "updatedTime": "17/06/2021 19:42:34",
       "note": "[Dec 14]:824 out of 980 recovered cases are backdated.",
       "stateCode": "MN",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 495,
+        "recovered": 458,
+        "dead": 13,
+        "active": 24
       },
       "testing_data": {
         "tested": 835063,
@@ -816,18 +816,18 @@
     },
     "UP": {
       "name": "Uttar Pradesh",
-      "confirmed": 1703458,
-      "active": 6496,
-      "recovered": 1674999,
-      "dead": 21963,
-      "updatedTime": "16/06/2021 22:51:35",
+      "confirmed": 1703733,
+      "active": 6019,
+      "recovered": 1675684,
+      "dead": 22030,
+      "updatedTime": "17/06/2021 19:42:36",
       "note": "[Jan 1]:As no bulletin was provided for 31'st Dec'20,its count has been combined with 1st Jan'21\n[Jan 9]:Due to reconcillation there are 1286 cases.",
       "stateCode": "UP",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 275,
+        "recovered": 685,
+        "dead": 67,
+        "active": -477
       },
       "testing_data": {
         "tested": 54145947,
@@ -854,12 +854,12 @@
         "active": -95
       },
       "testing_data": {
-        "tested": 5192496,
+        "tested": 5221431,
         "positive": 0,
-        "negative": 4854694,
-        "unconfirmed": 17045,
-        "date": "16/06/2021",
-        "source": "https://health.uk.gov.in/files/2021.06.16_Health_Bulletin.pdf"
+        "negative": 4883365,
+        "unconfirmed": 13173,
+        "date": "17/06/2021",
+        "source": "https://health.uk.gov.in/pages/display/140-novel-corona-virus-guidelines-and-advisory-"
       }
     },
     "WB": {
@@ -888,19 +888,19 @@
     }
   },
   "testing_data": {
-    "tested": 414776198,
+    "tested": 414805133,
     "positive": 414865,
-    "negative": 47843287,
-    "unconfirmed": 21179
+    "negative": 47871958,
+    "unconfirmed": 17307
   },
   "testing_data_imcr": {
     "tested": 385238220,
     "source": "https://twitter.com/ICMRDELHI/status/1405365975034122242"
   },
   "today": {
-    "confirmed": 17554,
-    "recovered": 23268,
-    "dead": 251,
-    "active": -5965
+    "confirmed": 24746,
+    "recovered": 36085,
+    "dead": 509,
+    "active": -11848
   }
 }
