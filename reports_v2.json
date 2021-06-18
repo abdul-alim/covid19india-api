@@ -1,9 +1,9 @@
 {
-  "confirmed": 29789625,
-  "recovered": 28612708,
-  "dead": 384107,
-  "active": 781090,
-  "updatedTime": "18/06/2021 19:34:26",
+  "confirmed": 29795454,
+  "recovered": 28634250,
+  "dead": 384275,
+  "active": 765208,
+  "updatedTime": "18/06/2021 19:54:31",
   "states": {
     "AN": {
       "name": "Andaman and Nicobar",
@@ -127,18 +127,18 @@
     },
     "CH": {
       "name": "Chandigarh",
-      "confirmed": 61312,
-      "active": 385,
+      "confirmed": 61358,
+      "active": 431,
       "recovered": 60123,
       "dead": 804,
-      "updatedTime": "17/06/2021 19:23:28",
+      "updatedTime": "18/06/2021 19:54:39",
       "note": "",
       "stateCode": "CH",
       "today": {
-        "confirmed": 39,
+        "confirmed": 48,
         "recovered": 47,
         "dead": 2,
-        "active": -10
+        "active": -1
       },
       "testing_data": {
         "tested": 546381,
@@ -179,7 +179,7 @@
       "active": 65,
       "recovered": 10396,
       "dead": 4,
-      "updatedTime": "18/06/2021 19:34:30",
+      "updatedTime": "18/06/2021 19:46:32",
       "note": "",
       "stateCode": "DN",
       "today": {
@@ -299,7 +299,7 @@
       "active": 3193,
       "recovered": 193418,
       "dead": 3413,
-      "updatedTime": "18/06/2021 19:34:31",
+      "updatedTime": "18/06/2021 19:41:32",
       "note": "",
       "stateCode": "HP",
       "today": {
@@ -323,7 +323,7 @@
       "active": 10094,
       "recovered": 296360,
       "dead": 4234,
-      "updatedTime": "18/06/2021 19:34:36",
+      "updatedTime": "18/06/2021 19:41:33",
       "note": "",
       "stateCode": "JK",
       "today": {
@@ -367,18 +367,18 @@
     },
     "KA": {
       "name": "Karnataka",
-      "confirmed": 2790338,
-      "active": 146726,
-      "recovered": 2610157,
-      "dead": 33434,
-      "updatedTime": "17/06/2021 19:53:36",
+      "confirmed": 2796121,
+      "active": 137050,
+      "recovered": 2625447,
+      "dead": 33602,
+      "updatedTime": "18/06/2021 19:54:41",
       "note": "",
       "stateCode": "KA",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 5783,
+        "recovered": 15290,
+        "dead": 168,
+        "active": -9675
       },
       "testing_data": {
         "tested": 32250755,
@@ -587,7 +587,7 @@
       "active": 2059,
       "recovered": 20887,
       "dead": 467,
-      "updatedTime": "18/06/2021 19:34:41",
+      "updatedTime": "18/06/2021 19:41:35",
       "note": "",
       "stateCode": "NL",
       "today": {
@@ -608,17 +608,17 @@
     "OR": {
       "name": "Odisha",
       "confirmed": 870498,
-      "active": 43338,
-      "recovered": 823599,
+      "active": 37086,
+      "recovered": 829851,
       "dead": 3561,
       "updatedTime": "18/06/2021 12:27:38",
       "note": "[July 12th] :20 non-covid deaths reported in state dashboard are included in the deceased count",
       "stateCode": "OR",
       "today": {
         "confirmed": 3806,
-        "recovered": 0,
+        "recovered": 6252,
         "dead": 37,
-        "active": 3769
+        "active": -2483
       },
       "testing_data": {
         "tested": 12899855,
@@ -683,7 +683,7 @@
       "active": 3783,
       "recovered": 938101,
       "dead": 8884,
-      "updatedTime": "18/06/2021 19:34:44",
+      "updatedTime": "18/06/2021 19:41:36",
       "note": "",
       "stateCode": "RJ",
       "today": {
@@ -748,7 +748,7 @@
       "active": 89009,
       "recovered": 2286653,
       "dead": 30835,
-      "updatedTime": "18/06/2021 19:34:49",
+      "updatedTime": "18/06/2021 19:46:34",
       "note": "[July 22]: 444 backdated deceased entries added to Chennai in TN bulletin.\n2 deaths cross notified to other states from Chennai and Coimbatore.\n1 patient died after turning negative for infection in Chengalpattu.\nThese cases have been added to TN deceased tally",
       "stateCode": "TN",
       "today": {
@@ -772,7 +772,7 @@
       "active": 19029,
       "recovered": 588259,
       "dead": 3546,
-      "updatedTime": "18/06/2021 19:34:55",
+      "updatedTime": "18/06/2021 19:41:38",
       "note": "[July 27] : Telangana bulletin for the previous day is released on the next day. We will add the cases for Telangana against the date of release, as that is the convention that we are following for other states.",
       "stateCode": "TG",
       "today": {
@@ -844,7 +844,7 @@
       "active": 3231,
       "recovered": 322258,
       "dead": 7017,
-      "updatedTime": "18/06/2021 19:35:06",
+      "updatedTime": "18/06/2021 19:46:35",
       "note": "[Oct 30]: Metric of capturing the testing data has switched to \"Samples Tested\" from \"Samples Collected\"",
       "stateCode": "UT",
       "today": {
@@ -898,9 +898,9 @@
     "source": "https://twitter.com/ICMRDELHI/status/1405734030943784971"
   },
   "today": {
-    "confirmed": 27639,
-    "recovered": 39610,
-    "dead": 585,
-    "active": -12556
+    "confirmed": 33431,
+    "recovered": 61152,
+    "dead": 753,
+    "active": -28474
   }
 }
