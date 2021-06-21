@@ -1,9 +1,9 @@
 {
-  "confirmed": 29957601,
-  "recovered": 28878718,
-  "dead": 388581,
-  "active": 678518,
-  "updatedTime": "21/06/2021 19:42:58",
+  "confirmed": 29965325,
+  "recovered": 28895203,
+  "dead": 388828,
+  "active": 669509,
+  "updatedTime": "21/06/2021 19:59:59",
   "states": {
     "AN": {
       "name": "Andaman and Nicobar",
@@ -131,7 +131,7 @@
       "active": 311,
       "recovered": 60327,
       "dead": 806,
-      "updatedTime": "21/06/2021 19:43:00",
+      "updatedTime": "21/06/2021 19:52:00",
       "note": "",
       "stateCode": "CH",
       "today": {
@@ -323,7 +323,7 @@
       "active": 7759,
       "recovered": 300135,
       "dead": 4262,
-      "updatedTime": "21/06/2021 19:43:06",
+      "updatedTime": "21/06/2021 19:52:01",
       "note": "",
       "stateCode": "JK",
       "today": {
@@ -371,7 +371,7 @@
       "active": 123134,
       "recovered": 2654139,
       "dead": 34025,
-      "updatedTime": "21/06/2021 19:43:06",
+      "updatedTime": "21/06/2021 19:52:02",
       "note": "",
       "stateCode": "KA",
       "today": {
@@ -395,7 +395,7 @@
       "active": 99691,
       "recovered": 2704554,
       "dead": 12155,
-      "updatedTime": "21/06/2021 19:43:07",
+      "updatedTime": "21/06/2021 19:44:03",
       "note": "Mahe native who expired in Kannur included in Kerala's deceased tally.\nSome non-covid deaths have also been reported in the bulletin.\nThese have been reduced from active count",
       "stateCode": "KL",
       "today": {
@@ -439,18 +439,18 @@
     },
     "LD": {
       "name": "Laccadives",
-      "confirmed": 9443,
+      "confirmed": 9471,
       "active": 319,
-      "recovered": 9042,
+      "recovered": 9069,
       "dead": 46,
       "updatedTime": "20/06/2021 22:52:22",
       "note": "",
       "stateCode": "LD",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 28,
+        "recovered": 27,
         "dead": 0,
-        "active": 0
+        "active": 1
       },
       "testing_data": {
         "tested": 167129,
@@ -584,17 +584,17 @@
     "NL": {
       "name": "Nagaland",
       "confirmed": 24374,
-      "active": 2016,
-      "recovered": 21201,
-      "dead": 469,
-      "updatedTime": "21/06/2021 19:43:08",
+      "active": 1844,
+      "recovered": 21367,
+      "dead": 475,
+      "updatedTime": "21/06/2021 20:00:02",
       "note": "",
       "stateCode": "NL",
       "today": {
         "confirmed": 126,
-        "recovered": 0,
-        "dead": 0,
-        "active": 126
+        "recovered": 166,
+        "dead": 6,
+        "active": -46
       },
       "testing_data": {
         "tested": 214966,
@@ -679,26 +679,26 @@
     },
     "RJ": {
       "name": "Rajasthan",
-      "confirmed": 951105,
-      "active": 3079,
-      "recovered": 939131,
-      "dead": 8895,
-      "updatedTime": "20/06/2021 22:52:30",
+      "confirmed": 951256,
+      "active": 2691,
+      "recovered": 939664,
+      "dead": 8901,
+      "updatedTime": "21/06/2021 20:00:03",
       "note": "",
       "stateCode": "RJ",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 151,
+        "recovered": 533,
+        "dead": 6,
+        "active": -388
       },
       "testing_data": {
-        "tested": 11489628,
+        "tested": 11505011,
         "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "20/06/2021",
-        "source": "https://twitter.com/airnews_jaipur/status/1406611133801263106?s=20"
+        "date": "21/06/2021",
+        "source": "http://rajswasthya.nic.in/"
       }
     },
     "SK": {
@@ -717,12 +717,11 @@
         "active": -248
       },
       "testing_data": {
-        "tested": 156526,
+        "tested": 0,
         "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "20/06/2021",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/9134"
+        "updated": false
       }
     },
     "UN": {
@@ -744,26 +743,25 @@
     },
     "TN": {
       "name": "Tamil Nadu",
-      "confirmed": 2422497,
-      "active": 69372,
-      "recovered": 2321928,
-      "dead": 31197,
-      "updatedTime": "20/06/2021 22:52:32",
+      "confirmed": 2429924,
+      "active": 61329,
+      "recovered": 2337209,
+      "dead": 31386,
+      "updatedTime": "21/06/2021 20:00:03",
       "note": "[July 22]: 444 backdated deceased entries added to Chennai in TN bulletin.\n2 deaths cross notified to other states from Chennai and Coimbatore.\n1 patient died after turning negative for infection in Chengalpattu.\nThese cases have been added to TN deceased tally",
       "stateCode": "TN",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 7427,
+        "recovered": 15281,
+        "dead": 189,
+        "active": -8043
       },
       "testing_data": {
-        "tested": 31169341,
+        "tested": 0,
         "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "20/06/2021",
-        "source": "https://stopcorona.tn.gov.in/wp-content/uploads/2020/03/Media-Bulletin-20-06-21-COVID-19.pdf"
+        "updated": false
       }
     },
     "TG": {
@@ -782,12 +780,11 @@
         "active": -519
       },
       "testing_data": {
-        "tested": 17525639,
+        "tested": 0,
         "positive": 0,
         "negative": 0,
-        "unconfirmed": 1319,
-        "date": "20/6/2021",
-        "source": "https://twitter.com/IPRTelangana/status/1406624443636404236"
+        "unconfirmed": 0,
+        "updated": false
       }
     },
     "TR": {
@@ -806,36 +803,34 @@
         "active": -475
       },
       "testing_data": {
-        "tested": 1206710,
-        "positive": 62146,
-        "negative": 1144564,
+        "tested": 0,
+        "positive": 0,
+        "negative": 0,
         "unconfirmed": 0,
-        "date": "20/06/2021",
-        "source": "https://t.co/e85Renhf2K?amp=1"
+        "updated": false
       }
     },
     "UP": {
       "name": "Uttar Pradesh",
-      "confirmed": 1704358,
-      "active": 4569,
-      "recovered": 1677611,
-      "dead": 22178,
-      "updatedTime": "20/06/2021 22:52:36",
+      "confirmed": 1704476,
+      "active": 4163,
+      "recovered": 1678089,
+      "dead": 22224,
+      "updatedTime": "21/06/2021 20:00:04",
       "note": "[Jan 1]:As no bulletin was provided for 31'st Dec'20,its count has been combined with 1st Jan'21\n[Jan 9]:Due to reconcillation there are 1286 cases.",
       "stateCode": "UP",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 118,
+        "recovered": 478,
+        "dead": 46,
+        "active": -406
       },
       "testing_data": {
-        "tested": 55264433,
+        "tested": 0,
         "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "20/06/2021",
-        "source": "https://twitter.com/ShishirGoUP/status/1406526929931362309?s=20"
+        "updated": false
       }
     },
     "UT": {
@@ -854,12 +849,11 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 5289955,
+        "tested": 0,
         "positive": 0,
-        "negative": 4951311,
-        "unconfirmed": 7993,
-        "date": "20/06/2021",
-        "source": "https://health.uk.gov.in/files/2021.06.20_Health_Bulletin.pdf"
+        "negative": 0,
+        "unconfirmed": 0,
+        "updated": false
       }
     },
     "WB": {
@@ -878,29 +872,28 @@
         "active": -276
       },
       "testing_data": {
-        "tested": 13684862,
+        "tested": 0,
         "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "20/06/2021",
-        "source": "https://www.wbhealth.gov.in/uploaded_files/corona/WB_DHFW_Bulletin_20th_JUNE_REPORT_FINAL1.pdf"
+        "updated": false
       }
     }
   },
   "testing_data": {
-    "tested": 423156439,
-    "positive": 417246,
-    "negative": 49070982,
-    "unconfirmed": 10296
+    "tested": 298874356,
+    "positive": 355100,
+    "negative": 42975107,
+    "unconfirmed": 984
   },
   "testing_data_imcr": {
     "tested": 392407782,
     "source": "https://twitter.com/ICMRDELHI/status/1406810620662452232"
   },
   "today": {
-    "confirmed": 23218,
-    "recovered": 41967,
-    "dead": 416,
-    "active": -19165
+    "confirmed": 30942,
+    "recovered": 58452,
+    "dead": 663,
+    "active": -28173
   }
 }
