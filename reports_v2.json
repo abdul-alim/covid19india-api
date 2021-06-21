@@ -1,24 +1,24 @@
 {
-  "confirmed": 29972304,
-  "recovered": 28910439,
-  "dead": 389203,
-  "active": 660871,
-  "updatedTime": "21/06/2021 20:17:59",
+  "confirmed": 29972558,
+  "recovered": 28910863,
+  "dead": 389210,
+  "active": 660694,
+  "updatedTime": "21/06/2021 20:25:59",
   "states": {
     "AN": {
       "name": "Andaman and Nicobar",
-      "confirmed": 7406,
-      "active": 102,
-      "recovered": 7177,
+      "confirmed": 7415,
+      "active": 97,
+      "recovered": 7191,
       "dead": 127,
-      "updatedTime": "20/06/2021 22:52:00",
+      "updatedTime": "21/06/2021 20:26:01",
       "note": "",
       "stateCode": "AN",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 9,
+        "recovered": 14,
         "dead": 0,
-        "active": 0
+        "active": -5
       },
       "testing_data": {
         "tested": 400211,
@@ -103,18 +103,18 @@
     },
     "BR": {
       "name": "Bihar",
-      "confirmed": 719694,
-      "active": 3188,
-      "recovered": 706955,
-      "dead": 9550,
-      "updatedTime": "20/06/2021 22:52:04",
+      "confirmed": 719939,
+      "active": 3016,
+      "recovered": 707365,
+      "dead": 9557,
+      "updatedTime": "21/06/2021 20:26:02",
       "note": "[June 9] : 3951 deceased cases have been reported in the bulletin after reconciliation of records by the authorities",
       "stateCode": "BR",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 245,
+        "recovered": 410,
+        "dead": 7,
+        "active": -172
       },
       "testing_data": {
         "tested": 32097259,
@@ -299,7 +299,7 @@
       "active": 2403,
       "recovered": 194744,
       "dead": 3432,
-      "updatedTime": "21/06/2021 20:18:00",
+      "updatedTime": "21/06/2021 20:26:03",
       "note": "",
       "stateCode": "HP",
       "today": {
@@ -491,7 +491,7 @@
       "active": 124398,
       "recovered": 5733215,
       "dead": 118313,
-      "updatedTime": "21/06/2021 20:18:02",
+      "updatedTime": "21/06/2021 20:26:05",
       "note": "[Dec 16]:10,218 duplicate cases & other state cases removed from total cases.791 recovered cases also removed from total recovered cases while reconciling \n[Sep 9] :239 cases have been removed from the hospitalized figures owing to the removal of duplicates and change of addresses as per the original residence\n[Aug 15] : MH bulletin has reduced 819 confirmed cases in Mumbai and 72 confirmed cases from 'Other States' from the tally\n[Jun 16] : 1328 deceased cases have been retroactively added to MH bulletin.\n[Jun 20] : 69 deceased cases have been reduced based on state bulletin.",
       "stateCode": "MH",
       "today": {
@@ -898,9 +898,9 @@
     "source": "https://twitter.com/ICMRDELHI/status/1406810620662452232"
   },
   "today": {
-    "confirmed": 37921,
-    "recovered": 73688,
-    "dead": 1038,
-    "active": -36805
+    "confirmed": 38175,
+    "recovered": 74112,
+    "dead": 1045,
+    "active": -36982
   }
 }
