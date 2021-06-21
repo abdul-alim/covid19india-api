@@ -1,9 +1,9 @@
 {
-  "confirmed": 29944563,
-  "recovered": 28848543,
-  "dead": 388318,
-  "active": 695926,
-  "updatedTime": "21/06/2021 18:40:59",
+  "confirmed": 29944783,
+  "recovered": 28855438,
+  "dead": 388335,
+  "active": 689234,
+  "updatedTime": "21/06/2021 18:57:59",
   "states": {
     "AN": {
       "name": "Andaman and Nicobar",
@@ -175,18 +175,18 @@
     },
     "DN": {
       "name": "Dadra and Nagar Haveli and Daman and Diu",
-      "confirmed": 10515,
-      "active": 62,
-      "recovered": 10415,
+      "confirmed": 10517,
+      "active": 61,
+      "recovered": 10418,
       "dead": 4,
-      "updatedTime": "20/06/2021 22:52:07",
+      "updatedTime": "21/06/2021 18:58:00",
       "note": "",
       "stateCode": "DN",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 2,
+        "recovered": 3,
         "dead": 0,
-        "active": 0
+        "active": -1
       },
       "testing_data": {
         "tested": 72410,
@@ -223,18 +223,18 @@
     },
     "GA": {
       "name": "Goa",
-      "confirmed": 164436,
-      "active": 3268,
-      "recovered": 158178,
-      "dead": 2990,
-      "updatedTime": "20/06/2021 22:52:09",
+      "confirmed": 164654,
+      "active": 3066,
+      "recovered": 158591,
+      "dead": 2997,
+      "updatedTime": "21/06/2021 18:58:01",
       "note": "",
       "stateCode": "GA",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 218,
+        "recovered": 413,
+        "dead": 7,
+        "active": -202
       },
       "testing_data": {
         "tested": 888422,
@@ -560,17 +560,17 @@
     "MZ": {
       "name": "Mizoram",
       "confirmed": 17605,
-      "active": 4132,
-      "recovered": 13390,
-      "dead": 83,
-      "updatedTime": "21/06/2021 13:03:59",
+      "active": 3946,
+      "recovered": 13575,
+      "dead": 84,
+      "updatedTime": "21/06/2021 18:58:02",
       "note": "",
       "stateCode": "MZ",
       "today": {
         "confirmed": 662,
-        "recovered": 0,
-        "dead": 1,
-        "active": 661
+        "recovered": 185,
+        "dead": 2,
+        "active": 475
       },
       "testing_data": {
         "tested": 453379,
@@ -608,17 +608,17 @@
     "OR": {
       "name": "Odisha",
       "confirmed": 880533,
-      "active": 36633,
-      "recovered": 840214,
+      "active": 32046,
+      "recovered": 844801,
       "dead": 3686,
-      "updatedTime": "21/06/2021 12:50:02",
+      "updatedTime": "21/06/2021 18:58:03",
       "note": "[July 12th] :20 non-covid deaths reported in state dashboard are included in the deceased count",
       "stateCode": "OR",
       "today": {
         "confirmed": 3031,
-        "recovered": 0,
+        "recovered": 4587,
         "dead": 43,
-        "active": 2988
+        "active": -1599
       },
       "testing_data": {
         "tested": 13095199,
@@ -769,17 +769,17 @@
     "TG": {
       "name": "Telangana",
       "confirmed": 614399,
-      "active": 18962,
-      "recovered": 591870,
-      "dead": 3567,
-      "updatedTime": "21/06/2021 18:41:02",
+      "active": 17246,
+      "recovered": 593577,
+      "dead": 3576,
+      "updatedTime": "21/06/2021 18:58:04",
       "note": "[July 27] : Telangana bulletin for the previous day is released on the next day. We will add the cases for Telangana against the date of release, as that is the convention that we are following for other states.",
       "stateCode": "TG",
       "today": {
         "confirmed": 1197,
-        "recovered": 0,
-        "dead": 0,
-        "active": 1197
+        "recovered": 1707,
+        "dead": 9,
+        "active": -519
       },
       "testing_data": {
         "tested": 17525639,
@@ -868,7 +868,7 @@
       "active": 22740,
       "recovered": 1443456,
       "dead": 17390,
-      "updatedTime": "21/06/2021 18:41:02",
+      "updatedTime": "21/06/2021 18:49:05",
       "note": "",
       "stateCode": "WB",
       "today": {
@@ -898,9 +898,9 @@
     "source": "https://twitter.com/ICMRDELHI/status/1406810620662452232"
   },
   "today": {
-    "confirmed": 10180,
-    "recovered": 11792,
-    "dead": 153,
-    "active": -1765
+    "confirmed": 10400,
+    "recovered": 18687,
+    "dead": 170,
+    "active": -8457
   }
 }
