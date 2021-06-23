@@ -1,9 +1,9 @@
 {
-  "confirmed": 30050383,
-  "recovered": 29009893,
-  "dead": 390940,
-  "active": 637740,
-  "updatedTime": "23/06/2021 19:07:07",
+  "confirmed": 30056091,
+  "recovered": 29018279,
+  "dead": 391079,
+  "active": 634923,
+  "updatedTime": "23/06/2021 19:16:05",
   "states": {
     "AN": {
       "name": "Andaman and Nicobar",
@@ -35,7 +35,7 @@
       "active": 51204,
       "recovered": 1798380,
       "dead": 12452,
-      "updatedTime": "23/06/2021 19:07:09",
+      "updatedTime": "23/06/2021 19:16:06",
       "note": "",
       "stateCode": "AP",
       "today": {
@@ -141,12 +141,12 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 554164,
+        "tested": 555785,
         "positive": 0,
-        "negative": 491447,
-        "unconfirmed": 22,
-        "date": "22/06/2021",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/9177"
+        "negative": 0,
+        "unconfirmed": 0,
+        "date": "23/06/2021",
+        "source": "http://chdcovid19.in"
       }
     },
     "CT": {
@@ -176,10 +176,10 @@
     "DN": {
       "name": "Dadra and Nagar Haveli and Daman and Diu",
       "confirmed": 10524,
-      "active": 61,
-      "recovered": 10426,
+      "active": 56,
+      "recovered": 10431,
       "dead": 4,
-      "updatedTime": "22/06/2021 19:19:04",
+      "updatedTime": "23/06/2021 19:16:08",
       "note": "",
       "stateCode": "DN",
       "today": {
@@ -199,18 +199,18 @@
     },
     "DL": {
       "name": "Delhi",
-      "confirmed": 1432778,
-      "active": 1918,
-      "recovered": 1405927,
-      "dead": 24933,
-      "updatedTime": "22/06/2021 19:16:03",
+      "confirmed": 1433366,
+      "active": 1797,
+      "recovered": 1406629,
+      "dead": 24940,
+      "updatedTime": "23/06/2021 19:16:11",
       "note": "[July 14]: Value for the total tests conducted has been reduced by 97008 in the state bulletin. Reason given : \"Reconciled with ICMR figures\". We have made the same change.",
       "stateCode": "DL",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 588,
+        "recovered": 702,
+        "dead": 7,
+        "active": -121
       },
       "testing_data": {
         "tested": 20899715,
@@ -223,18 +223,18 @@
     },
     "GA": {
       "name": "Goa",
-      "confirmed": 164957,
-      "active": 2920,
-      "recovered": 159029,
-      "dead": 3008,
-      "updatedTime": "22/06/2021 19:16:05",
+      "confirmed": 165197,
+      "active": 2765,
+      "recovered": 159419,
+      "dead": 3013,
+      "updatedTime": "23/06/2021 19:16:13",
       "note": "",
       "stateCode": "GA",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 240,
+        "recovered": 390,
+        "dead": 5,
+        "active": -155
       },
       "testing_data": {
         "tested": 895409,
@@ -296,10 +296,10 @@
     "HP": {
       "name": "Himachal Pradesh",
       "confirmed": 200791,
-      "active": 2271,
-      "recovered": 195060,
+      "active": 2276,
+      "recovered": 195055,
       "dead": 3437,
-      "updatedTime": "22/06/2021 21:11:08",
+      "updatedTime": "23/06/2021 19:16:16",
       "note": "",
       "stateCode": "HP",
       "today": {
@@ -319,18 +319,18 @@
     },
     "JK": {
       "name": "Jammu and Kashmir",
-      "confirmed": 312584,
-      "active": 7181,
-      "recovered": 301134,
-      "dead": 4269,
-      "updatedTime": "22/06/2021 19:19:05",
+      "confirmed": 313028,
+      "active": 6782,
+      "recovered": 301973,
+      "dead": 4273,
+      "updatedTime": "23/06/2021 19:16:20",
       "note": "",
       "stateCode": "JK",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 444,
+        "recovered": 839,
+        "dead": 4,
+        "active": -399
       },
       "testing_data": {
         "tested": 9581172,
@@ -367,18 +367,18 @@
     },
     "KA": {
       "name": "Karnataka",
-      "confirmed": 2815029,
-      "active": 118592,
-      "recovered": 2662250,
-      "dead": 34164,
-      "updatedTime": "22/06/2021 19:43:05",
+      "confirmed": 2819465,
+      "active": 116450,
+      "recovered": 2668705,
+      "dead": 34287,
+      "updatedTime": "23/06/2021 19:16:22",
       "note": "",
       "stateCode": "KA",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 4436,
+        "recovered": 6455,
+        "dead": 123,
+        "active": -2142
       },
       "testing_data": {
         "tested": 33018369,
@@ -888,19 +888,19 @@
     }
   },
   "testing_data": {
-    "tested": 426980613,
+    "tested": 426982234,
     "positive": 418126,
-    "negative": 49592627,
-    "unconfirmed": 12697
+    "negative": 49101180,
+    "unconfirmed": 12675
   },
   "testing_data_imcr": {
     "tested": 0,
     "source": ""
   },
   "today": {
-    "confirmed": 22500,
-    "recovered": 22414,
-    "dead": 249,
-    "active": -163
+    "confirmed": 28208,
+    "recovered": 30800,
+    "dead": 388,
+    "active": -2980
   }
 }
