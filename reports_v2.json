@@ -1,9 +1,9 @@
 {
-  "confirmed": 30129766,
-  "recovered": 29114824,
-  "dead": 393273,
-  "active": 609833,
-  "updatedTime": "24/06/2021 21:14:04",
+  "confirmed": 30133288,
+  "recovered": 29119833,
+  "dead": 393336,
+  "active": 608283,
+  "updatedTime": "24/06/2021 21:31:03",
   "states": {
     "AN": {
       "name": "Andaman and Nicobar",
@@ -11,7 +11,7 @@
       "active": 99,
       "recovered": 7214,
       "dead": 127,
-      "updatedTime": "24/06/2021 21:14:05",
+      "updatedTime": "24/06/2021 21:15:04",
       "note": "",
       "stateCode": "AN",
       "today": {
@@ -79,18 +79,18 @@
     },
     "AS": {
       "name": "Assam",
-      "confirmed": 490907,
-      "active": 30524,
-      "recovered": 454726,
-      "dead": 4310,
-      "updatedTime": "23/06/2021 21:38:03",
+      "confirmed": 493688,
+      "active": 29667,
+      "recovered": 458330,
+      "dead": 4344,
+      "updatedTime": "24/06/2021 21:31:04",
       "note": "[Jan 1]: 1347 cases i.e Covid +'tive patients dead for other reasons have been deducted fom active count.",
       "stateCode": "AS",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 2781,
+        "recovered": 3604,
+        "dead": 34,
+        "active": -857
       },
       "testing_data": {
         "tested": 14076432,
@@ -151,18 +151,18 @@
     },
     "CT": {
       "name": "Chhattisgarh",
-      "confirmed": 992061,
-      "active": 7622,
-      "recovered": 971032,
-      "dead": 13407,
-      "updatedTime": "23/06/2021 23:11:03",
+      "confirmed": 992391,
+      "active": 7314,
+      "recovered": 971662,
+      "dead": 13415,
+      "updatedTime": "24/06/2021 21:31:06",
       "note": "",
       "stateCode": "CT",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 330,
+        "recovered": 630,
+        "dead": 8,
+        "active": -308
       },
       "testing_data": {
         "tested": 10137066,
@@ -439,18 +439,18 @@
     },
     "LD": {
       "name": "Laccadives",
-      "confirmed": 9559,
-      "active": 340,
-      "recovered": 9134,
+      "confirmed": 9601,
+      "active": 322,
+      "recovered": 9194,
       "dead": 47,
-      "updatedTime": "23/06/2021 21:22:09",
+      "updatedTime": "24/06/2021 21:30:04",
       "note": "",
       "stateCode": "LD",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 42,
+        "recovered": 60,
         "dead": 0,
-        "active": 0
+        "active": -18
       },
       "testing_data": {
         "tested": 172961,
@@ -655,18 +655,18 @@
     },
     "PB": {
       "name": "Punjab",
-      "confirmed": 593572,
-      "active": 5641,
-      "recovered": 572008,
-      "dead": 15923,
-      "updatedTime": "23/06/2021 21:14:07",
+      "confirmed": 593941,
+      "active": 5274,
+      "recovered": 572723,
+      "dead": 15944,
+      "updatedTime": "24/06/2021 21:30:05",
       "note": "",
       "stateCode": "PB",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 369,
+        "recovered": 715,
+        "dead": 21,
+        "active": -367
       },
       "testing_data": {
         "tested": 10558558,
@@ -748,7 +748,7 @@
       "active": 49845,
       "recovered": 2367831,
       "dead": 31901,
-      "updatedTime": "24/06/2021 21:14:16",
+      "updatedTime": "24/06/2021 21:15:07",
       "note": "[July 22]: 444 backdated deceased entries added to Chennai in TN bulletin.\n2 deaths cross notified to other states from Chennai and Coimbatore.\n1 patient died after turning negative for infection in Chengalpattu.\nThese cases have been added to TN deceased tally",
       "stateCode": "TN",
       "today": {
@@ -820,7 +820,7 @@
       "active": 3552,
       "recovered": 1679096,
       "dead": 22366,
-      "updatedTime": "24/06/2021 21:14:18",
+      "updatedTime": "24/06/2021 21:23:08",
       "note": "[Jan 1]:As no bulletin was provided for 31'st Dec'20,its count has been combined with 1st Jan'21\n[Jan 9]:Due to reconcillation there are 1286 cases.",
       "stateCode": "UP",
       "today": {
@@ -844,7 +844,7 @@
       "active": 2739,
       "recovered": 323627,
       "dead": 7074,
-      "updatedTime": "24/06/2021 21:14:21",
+      "updatedTime": "24/06/2021 21:15:09",
       "note": "[Oct 30]: Metric of capturing the testing data has switched to \"Samples Tested\" from \"Samples Collected\"",
       "stateCode": "UT",
       "today": {
@@ -898,9 +898,9 @@
     "source": "https://twitter.com/ICMRDELHI/status/1407902242514997257"
   },
   "today": {
-    "confirmed": 47587,
-    "recovered": 58183,
-    "dead": 1259,
-    "active": -11855
+    "confirmed": 51109,
+    "recovered": 63192,
+    "dead": 1322,
+    "active": -13405
   }
 }
