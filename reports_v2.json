@@ -1,24 +1,24 @@
 {
-  "confirmed": 30168291,
-  "recovered": 29164892,
-  "dead": 393934,
-  "active": 597623,
-  "updatedTime": "25/06/2021 20:47:02",
+  "confirmed": 30168436,
+  "recovered": 29165108,
+  "dead": 393952,
+  "active": 597534,
+  "updatedTime": "25/06/2021 20:56:03",
   "states": {
     "AN": {
       "name": "Andaman and Nicobar",
-      "confirmed": 7440,
-      "active": 99,
-      "recovered": 7214,
+      "confirmed": 7441,
+      "active": 69,
+      "recovered": 7245,
       "dead": 127,
-      "updatedTime": "24/06/2021 21:15:04",
+      "updatedTime": "25/06/2021 20:56:04",
       "note": "",
       "stateCode": "AN",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 1,
+        "recovered": 31,
         "dead": 0,
-        "active": 0
+        "active": -30
       },
       "testing_data": {
         "tested": 404494,
@@ -271,18 +271,18 @@
     },
     "HR": {
       "name": "Haryana",
-      "confirmed": 768002,
-      "active": 1990,
-      "recovered": 756679,
-      "dead": 9333,
-      "updatedTime": "24/06/2021 20:46:11",
+      "confirmed": 768142,
+      "active": 1927,
+      "recovered": 756864,
+      "dead": 9351,
+      "updatedTime": "25/06/2021 20:56:07",
       "note": "",
       "stateCode": "HR",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 140,
+        "recovered": 185,
+        "dead": 18,
+        "active": -63
       },
       "testing_data": {
         "tested": 9866496,
@@ -816,18 +816,18 @@
     },
     "UP": {
       "name": "Uttar Pradesh",
-      "confirmed": 1705216,
-      "active": 3419,
+      "confirmed": 1705220,
+      "active": 3423,
       "recovered": 1679416,
       "dead": 22381,
-      "updatedTime": "25/06/2021 20:47:04",
+      "updatedTime": "25/06/2021 20:56:11",
       "note": "[Jan 1]:As no bulletin was provided for 31'st Dec'20,its count has been combined with 1st Jan'21\n[Jan 9]:Due to reconcillation there are 1286 cases.",
       "stateCode": "UP",
       "today": {
-        "confirmed": 202,
+        "confirmed": 206,
         "recovered": 320,
         "dead": 15,
-        "active": -133
+        "active": -129
       },
       "testing_data": {
         "tested": 56540503,
@@ -898,9 +898,9 @@
     "source": "https://twitter.com/ICMRDELHI/status/1408268568374890497"
   },
   "today": {
-    "confirmed": 34440,
-    "recovered": 43857,
-    "dead": 592,
-    "active": -10009
+    "confirmed": 34585,
+    "recovered": 44073,
+    "dead": 610,
+    "active": -10098
   }
 }
