@@ -1,9 +1,9 @@
 {
-  "confirmed": 30210380,
-  "recovered": 29218419,
-  "dead": 395417,
-  "active": 584676,
-  "updatedTime": "26/06/2021 19:57:05",
+  "confirmed": 30211089,
+  "recovered": 29219222,
+  "dead": 395449,
+  "active": 584550,
+  "updatedTime": "26/06/2021 20:14:03",
   "states": {
     "AN": {
       "name": "Andaman and Nicobar",
@@ -21,12 +21,12 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 405197,
-        "positive": 7440,
+        "tested": 405887,
+        "positive": 7441,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "24/06/2021",
-        "source": "https://dhs.andaman.gov.in/NewEvents/711.pdf"
+        "date": "25/06/2021",
+        "source": "https://dhs.andaman.gov.in/NewEvents/712.pdf"
       }
     },
     "AP": {
@@ -45,12 +45,12 @@
         "active": -1664
       },
       "testing_data": {
-        "tested": 21541485,
+        "tested": 21637606,
         "positive": 0,
-        "negative": 19670010,
+        "negative": 19761984,
         "unconfirmed": 0,
-        "date": "25/06/2021",
-        "source": "https://twitter.com/ArogyaAndhra/status/1408387648662634505"
+        "date": "26/06/2021",
+        "source": "https://twitter.com/ArogyaAndhra/status/1408750296671522823"
       }
     },
     "AR": {
@@ -107,7 +107,7 @@
       "active": 2249,
       "recovered": 709286,
       "dead": 9578,
-      "updatedTime": "26/06/2021 19:57:06",
+      "updatedTime": "26/06/2021 20:12:10",
       "note": "[June 9] : 3951 deceased cases have been reported in the bulletin after reconciliation of records by the authorities",
       "stateCode": "BR",
       "today": {
@@ -131,7 +131,7 @@
       "active": 220,
       "recovered": 60577,
       "dead": 807,
-      "updatedTime": "26/06/2021 19:57:08",
+      "updatedTime": "26/06/2021 20:12:12",
       "note": "",
       "stateCode": "CH",
       "today": {
@@ -179,7 +179,7 @@
       "active": 45,
       "recovered": 10452,
       "dead": 4,
-      "updatedTime": "26/06/2021 19:57:11",
+      "updatedTime": "26/06/2021 20:12:14",
       "note": "",
       "stateCode": "DN",
       "today": {
@@ -271,18 +271,18 @@
     },
     "HR": {
       "name": "Haryana",
-      "confirmed": 768142,
-      "active": 1927,
-      "recovered": 756864,
-      "dead": 9351,
-      "updatedTime": "25/06/2021 21:06:04",
+      "confirmed": 768263,
+      "active": 1804,
+      "recovered": 757091,
+      "dead": 9368,
+      "updatedTime": "26/06/2021 20:14:04",
       "note": "",
       "stateCode": "HR",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 121,
+        "recovered": 227,
+        "dead": 17,
+        "active": -123
       },
       "testing_data": {
         "tested": 9891746,
@@ -439,26 +439,26 @@
     },
     "LD": {
       "name": "Laccadives",
-      "confirmed": 9632,
-      "active": 313,
-      "recovered": 9233,
+      "confirmed": 9659,
+      "active": 298,
+      "recovered": 9275,
       "dead": 48,
-      "updatedTime": "25/06/2021 21:15:04",
+      "updatedTime": "26/06/2021 20:14:05",
       "note": "",
       "stateCode": "LD",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 27,
+        "recovered": 42,
         "dead": 0,
-        "active": 0
+        "active": -15
       },
       "testing_data": {
-        "tested": 174336,
+        "tested": 175545,
         "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "25/06/2021",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/9235"
+        "date": "26/06/2021",
+        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/9248"
       }
     },
     "MP": {
@@ -511,18 +511,18 @@
     },
     "MN": {
       "name": "Manipur",
-      "confirmed": 66756,
-      "active": 5668,
-      "recovered": 59995,
-      "dead": 1093,
-      "updatedTime": "25/06/2021 21:15:05",
+      "confirmed": 67317,
+      "active": 5680,
+      "recovered": 60529,
+      "dead": 1108,
+      "updatedTime": "26/06/2021 20:14:07",
       "note": "[Dec 14]:824 out of 980 recovered cases are backdated.",
       "stateCode": "MN",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 561,
+        "recovered": 534,
+        "dead": 15,
+        "active": 12
       },
       "testing_data": {
         "tested": 878417,
@@ -844,7 +844,7 @@
       "active": 2510,
       "recovered": 324127,
       "dead": 7086,
-      "updatedTime": "25/06/2021 20:40:23",
+      "updatedTime": "26/06/2021 20:12:33",
       "note": "[Oct 30]: Metric of capturing the testing data has switched to \"Samples Tested\" from \"Samples Collected\"",
       "stateCode": "UT",
       "today": {
@@ -888,9 +888,9 @@
     }
   },
   "testing_data": {
-    "tested": 433999302,
-    "positive": 419951,
-    "negative": 50216477,
+    "tested": 434097322,
+    "positive": 419952,
+    "negative": 50308451,
     "unconfirmed": 12563
   },
   "testing_data_imcr": {
@@ -898,9 +898,9 @@
     "source": "https://twitter.com/ICMRDELHI/status/1408641501471526916"
   },
   "today": {
-    "confirmed": 27761,
-    "recovered": 32565,
-    "dead": 892,
-    "active": -5696
+    "confirmed": 28470,
+    "recovered": 33368,
+    "dead": 924,
+    "active": -5822
   }
 }
