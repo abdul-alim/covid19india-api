@@ -372,16 +372,16 @@
       {
         "district": "East Siang",
         "notes": "",
-        "active": 167,
+        "active": 166,
         "confirmed": 1960,
         "migratedother": 0,
         "recovered": 1781,
-        "dead": 12,
+        "dead": 13,
         "today": {
           "confirmed": 0,
           "recovered": 0,
-          "active": 0,
-          "dead": 0
+          "active": -1,
+          "dead": 1
         }
       },
       {
@@ -522,16 +522,16 @@
       {
         "district": "Namsai",
         "notes": "",
-        "active": 134,
+        "active": 133,
         "confirmed": 1520,
         "migratedother": 0,
         "recovered": 1377,
-        "dead": 9,
+        "dead": 10,
         "today": {
           "confirmed": 0,
           "recovered": 0,
-          "active": 0,
-          "dead": 0
+          "active": -1,
+          "dead": 1
         }
       },
       {
@@ -702,9 +702,9 @@
     ],
     "today": {
       "confirmed": 0,
-      "active": 0,
+      "active": -2,
       "recovered": 0,
-      "dead": 0
+      "dead": 2
     },
     "confirmed": 34480,
     "recovered": 31792,
