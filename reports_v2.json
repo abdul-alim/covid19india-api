@@ -1,24 +1,24 @@
 {
-  "confirmed": 30223207,
-  "recovered": 29230346,
-  "dead": 395567,
-  "active": 585426,
-  "updatedTime": "26/06/2021 20:36:05",
+  "confirmed": 30228632,
+  "recovered": 29238048,
+  "dead": 395715,
+  "active": 583001,
+  "updatedTime": "26/06/2021 21:17:03",
   "states": {
     "AN": {
       "name": "Andaman and Nicobar",
-      "confirmed": 7441,
-      "active": 69,
-      "recovered": 7245,
+      "confirmed": 7451,
+      "active": 39,
+      "recovered": 7285,
       "dead": 127,
-      "updatedTime": "25/06/2021 21:06:03",
+      "updatedTime": "26/06/2021 21:17:05",
       "note": "",
       "stateCode": "AN",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 10,
+        "recovered": 40,
         "dead": 0,
-        "active": 0
+        "active": -30
       },
       "testing_data": {
         "tested": 405887,
@@ -176,17 +176,17 @@
     "DN": {
       "name": "Dadra and Nagar Haveli and Daman and Diu",
       "confirmed": 10534,
-      "active": 45,
-      "recovered": 10452,
+      "active": 44,
+      "recovered": 10453,
       "dead": 4,
-      "updatedTime": "26/06/2021 20:12:14",
+      "updatedTime": "26/06/2021 21:17:06",
       "note": "",
       "stateCode": "DN",
       "today": {
         "confirmed": 3,
-        "recovered": 8,
+        "recovered": 9,
         "dead": 0,
-        "active": -5
+        "active": -6
       },
       "testing_data": {
         "tested": 72410,
@@ -744,18 +744,18 @@
     },
     "TN": {
       "name": "Tamil Nadu",
-      "confirmed": 2455332,
-      "active": 47318,
-      "recovered": 2375963,
-      "dead": 32051,
-      "updatedTime": "25/06/2021 20:40:20",
+      "confirmed": 2460747,
+      "active": 44924,
+      "recovered": 2383624,
+      "dead": 32199,
+      "updatedTime": "26/06/2021 21:17:09",
       "note": "[July 22]: 444 backdated deceased entries added to Chennai in TN bulletin.\n2 deaths cross notified to other states from Chennai and Coimbatore.\n1 patient died after turning negative for infection in Chengalpattu.\nThese cases have been added to TN deceased tally",
       "stateCode": "TN",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 5415,
+        "recovered": 7661,
+        "dead": 148,
+        "active": -2394
       },
       "testing_data": {
         "tested": 32017144,
@@ -898,9 +898,9 @@
     "source": "https://twitter.com/ICMRDELHI/status/1408641501471526916"
   },
   "today": {
-    "confirmed": 40588,
-    "recovered": 44492,
-    "dead": 1042,
-    "active": -4946
+    "confirmed": 46013,
+    "recovered": 52194,
+    "dead": 1190,
+    "active": -7371
   }
 }
