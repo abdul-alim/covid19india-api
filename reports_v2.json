@@ -1,9 +1,9 @@
 {
-  "confirmed": 30264344,
-  "recovered": 29279130,
-  "dead": 396540,
-  "active": 576792,
-  "updatedTime": "27/06/2021 20:03:08",
+  "confirmed": 30265094,
+  "recovered": 29280622,
+  "dead": 396549,
+  "active": 576041,
+  "updatedTime": "27/06/2021 20:11:06",
   "states": {
     "AN": {
       "name": "Andaman and Nicobar",
@@ -179,7 +179,7 @@
       "active": 45,
       "recovered": 10456,
       "dead": 4,
-      "updatedTime": "27/06/2021 20:03:10",
+      "updatedTime": "27/06/2021 20:04:12",
       "note": "",
       "stateCode": "DN",
       "today": {
@@ -463,18 +463,18 @@
     },
     "MP": {
       "name": "Madhya Pradesh",
-      "confirmed": 789694,
-      "active": 815,
+      "confirmed": 789696,
+      "active": 816,
       "recovered": 779963,
-      "dead": 8916,
-      "updatedTime": "27/06/2021 20:03:12",
+      "dead": 8917,
+      "updatedTime": "27/06/2021 20:11:08",
       "note": "[Oct 14]: 4469 confirmed cases and 4469 recoveries added in MP bulletin as reconciliation with private labs and hospitals",
       "stateCode": "MP",
       "today": {
-        "confirmed": 37,
+        "confirmed": 39,
         "recovered": 129,
-        "dead": 20,
-        "active": -112
+        "dead": 21,
+        "active": -111
       },
       "testing_data": {
         "tested": 11804713,
@@ -491,7 +491,7 @@
       "active": 122252,
       "recovered": 5790113,
       "dead": 121286,
-      "updatedTime": "27/06/2021 20:03:14",
+      "updatedTime": "27/06/2021 20:11:10",
       "note": "[Dec 16]:10,218 duplicate cases & other state cases removed from total cases.791 recovered cases also removed from total recovered cases while reconciling \n[Sep 9] :239 cases have been removed from the hospitalized figures owing to the removal of duplicates and change of addresses as per the original residence\n[Aug 15] : MH bulletin has reduced 819 confirmed cases in Mumbai and 72 confirmed cases from 'Other States' from the tally\n[Jun 16] : 1328 deceased cases have been retroactively added to MH bulletin.\n[Jun 20] : 69 deceased cases have been reduced based on state bulletin.",
       "stateCode": "MH",
       "today": {
@@ -587,7 +587,7 @@
       "active": 1523,
       "recovered": 22251,
       "dead": 487,
-      "updatedTime": "27/06/2021 20:03:16",
+      "updatedTime": "27/06/2021 20:11:11",
       "note": "",
       "stateCode": "NL",
       "today": {
@@ -768,18 +768,18 @@
     },
     "TG": {
       "name": "Telangana",
-      "confirmed": 619865,
-      "active": 15054,
-      "recovered": 601184,
-      "dead": 3627,
-      "updatedTime": "26/06/2021 19:49:23",
+      "confirmed": 620613,
+      "active": 14302,
+      "recovered": 602676,
+      "dead": 3635,
+      "updatedTime": "27/06/2021 20:11:13",
       "note": "[July 27] : Telangana bulletin for the previous day is released on the next day. We will add the cases for Telangana against the date of release, as that is the convention that we are following for other states.",
       "stateCode": "TG",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 748,
+        "recovered": 1492,
+        "dead": 8,
+        "active": -752
       },
       "testing_data": {
         "tested": 18246482,
@@ -898,9 +898,9 @@
     "source": "https://www.icmr.gov.in/pdf/covid/update/ICMR_testing_update_27Jun2021.pdf"
   },
   "today": {
-    "confirmed": 31879,
-    "recovered": 35410,
-    "dead": 757,
-    "active": -4288
+    "confirmed": 32629,
+    "recovered": 36902,
+    "dead": 766,
+    "active": -5039
   }
 }
