@@ -1,9 +1,9 @@
 {
-  "confirmed": 30254220,
-  "recovered": 29270366,
-  "dead": 396115,
-  "active": 575865,
-  "updatedTime": "27/06/2021 19:44:06",
+  "confirmed": 30264344,
+  "recovered": 29279130,
+  "dead": 396540,
+  "active": 576792,
+  "updatedTime": "27/06/2021 20:03:08",
   "states": {
     "AN": {
       "name": "Andaman and Nicobar",
@@ -11,7 +11,7 @@
       "active": 62,
       "recovered": 7266,
       "dead": 127,
-      "updatedTime": "27/06/2021 19:44:07",
+      "updatedTime": "27/06/2021 19:55:08",
       "note": "",
       "stateCode": "AN",
       "today": {
@@ -175,11 +175,11 @@
     },
     "DN": {
       "name": "Dadra and Nagar Haveli and Daman and Diu",
-      "confirmed": 10536,
-      "active": 43,
+      "confirmed": 10538,
+      "active": 45,
       "recovered": 10456,
       "dead": 4,
-      "updatedTime": "26/06/2021 21:18:08",
+      "updatedTime": "27/06/2021 20:03:10",
       "note": "",
       "stateCode": "DN",
       "today": {
@@ -299,7 +299,7 @@
       "active": 1754,
       "recovered": 196422,
       "dead": 3457,
-      "updatedTime": "27/06/2021 19:44:13",
+      "updatedTime": "27/06/2021 19:55:11",
       "note": "",
       "stateCode": "HP",
       "today": {
@@ -463,18 +463,18 @@
     },
     "MP": {
       "name": "Madhya Pradesh",
-      "confirmed": 789657,
-      "active": 927,
-      "recovered": 779834,
-      "dead": 8896,
-      "updatedTime": "26/06/2021 19:57:17",
+      "confirmed": 789694,
+      "active": 815,
+      "recovered": 779963,
+      "dead": 8916,
+      "updatedTime": "27/06/2021 20:03:12",
       "note": "[Oct 14]: 4469 confirmed cases and 4469 recoveries added in MP bulletin as reconciliation with private labs and hospitals",
       "stateCode": "MP",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 37,
+        "recovered": 129,
+        "dead": 20,
+        "active": -112
       },
       "testing_data": {
         "tested": 11804713,
@@ -487,18 +487,18 @@
     },
     "MH": {
       "name": "Maharashtra",
-      "confirmed": 6026847,
-      "active": 121251,
-      "recovered": 5781551,
-      "dead": 120881,
-      "updatedTime": "26/06/2021 19:49:17",
+      "confirmed": 6036821,
+      "active": 122252,
+      "recovered": 5790113,
+      "dead": 121286,
+      "updatedTime": "27/06/2021 20:03:14",
       "note": "[Dec 16]:10,218 duplicate cases & other state cases removed from total cases.791 recovered cases also removed from total recovered cases while reconciling \n[Sep 9] :239 cases have been removed from the hospitalized figures owing to the removal of duplicates and change of addresses as per the original residence\n[Aug 15] : MH bulletin has reduced 819 confirmed cases in Mumbai and 72 confirmed cases from 'Other States' from the tally\n[Jun 16] : 1328 deceased cases have been retroactively added to MH bulletin.\n[Jun 20] : 69 deceased cases have been reduced based on state bulletin.",
       "stateCode": "MH",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 9974,
+        "recovered": 8562,
+        "dead": 405,
+        "active": 1007
       },
       "testing_data": {
         "tested": 40831332,
@@ -515,7 +515,7 @@
       "active": 5824,
       "recovered": 61038,
       "dead": 1124,
-      "updatedTime": "27/06/2021 19:44:14",
+      "updatedTime": "27/06/2021 19:53:12",
       "note": "[Dec 14]:824 out of 980 recovered cases are backdated.",
       "stateCode": "MN",
       "today": {
@@ -583,26 +583,26 @@
     },
     "NL": {
       "name": "Nagaland",
-      "confirmed": 24850,
-      "active": 1487,
-      "recovered": 22178,
+      "confirmed": 24961,
+      "active": 1523,
+      "recovered": 22251,
       "dead": 487,
-      "updatedTime": "26/06/2021 18:17:05",
+      "updatedTime": "27/06/2021 20:03:16",
       "note": "",
       "stateCode": "NL",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 111,
+        "recovered": 73,
         "dead": 0,
-        "active": 0
+        "active": 38
       },
       "testing_data": {
-        "tested": 221528,
+        "tested": 222871,
         "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "26/06/2021",
-        "source": "https://twitter.com/MyGovNagaland/status/1408762509050347521?s=20"
+        "date": "27/06/2021",
+        "source": "https://twitter.com/MyGovNagaland/status/1409148795695222790?s=20"
       }
     },
     "OR": {
@@ -611,7 +611,7 @@
       "active": 32706,
       "recovered": 863824,
       "dead": 3940,
-      "updatedTime": "27/06/2021 19:44:16",
+      "updatedTime": "27/06/2021 19:53:13",
       "note": "[July 12th] :20 non-covid deaths reported in state dashboard are included in the deceased count",
       "stateCode": "OR",
       "today": {
@@ -717,12 +717,12 @@
         "active": -33
       },
       "testing_data": {
-        "tested": 160938,
+        "tested": 161755,
         "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "26/06/2021",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/9241"
+        "date": "27/06/2021",
+        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/9260"
       }
     },
     "UN": {
@@ -758,12 +758,12 @@
         "active": -2123
       },
       "testing_data": {
-        "tested": 32188107,
+        "tested": 32354130,
         "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "26/06/2021",
-        "source": "https://stopcorona.tn.gov.in/daily-bulletin/"
+        "date": "27/06/2021",
+        "source": "https://stopcorona.tn.gov.in/wp-content/uploads/2020/03/Media-Bulletin-27-06-21-COVID-19.pdf"
       }
     },
     "TG": {
@@ -806,12 +806,12 @@
         "active": 23
       },
       "testing_data": {
-        "tested": 1251294,
-        "positive": 64156,
-        "negative": 1187138,
+        "tested": 1259387,
+        "positive": 64641,
+        "negative": 1194746,
         "unconfirmed": 0,
-        "date": "26/06/2021",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/9239"
+        "date": "27/06/2021",
+        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/9256"
       }
     },
     "UP": {
@@ -830,12 +830,12 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 56807529,
+        "tested": 57085424,
         "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "26/06/2021",
-        "source": "https://twitter.com/ShishirGoUP/status/1408655413071941639?s=20"
+        "date": "27/06/2021",
+        "source": "https://twitter.com/ShishirGoUP/status/1409020616066289664?s=20"
       }
     },
     "UT": {
@@ -856,8 +856,8 @@
       "testing_data": {
         "tested": 5460182,
         "positive": 0,
-        "negative": 0,
-        "unconfirmed": 0,
+        "negative": 5120563,
+        "unconfirmed": 8091,
         "date": "27/06/2021",
         "source": "https://health.uk.gov.in/files/2021.06.27_Health_Bulletin.pdf"
       }
@@ -888,19 +888,19 @@
     }
   },
   "testing_data": {
-    "tested": 435339610,
-    "positive": 420050,
-    "negative": 45331425,
-    "unconfirmed": 1670
+    "tested": 435793781,
+    "positive": 420535,
+    "negative": 50459596,
+    "unconfirmed": 9761
   },
   "testing_data_imcr": {
     "tested": 404265101,
     "source": "https://www.icmr.gov.in/pdf/covid/update/ICMR_testing_update_27Jun2021.pdf"
   },
   "today": {
-    "confirmed": 21757,
-    "recovered": 26646,
-    "dead": 332,
-    "active": -5221
+    "confirmed": 31879,
+    "recovered": 35410,
+    "dead": 757,
+    "active": -4288
   }
 }
