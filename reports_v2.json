@@ -1,9 +1,9 @@
 {
-  "confirmed": 30367056,
-  "recovered": 29421314,
-  "dead": 398547,
-  "active": 535280,
-  "updatedTime": "30/06/2021 15:35:04",
+  "confirmed": 30367153,
+  "recovered": 29421556,
+  "dead": 398553,
+  "active": 535129,
+  "updatedTime": "30/06/2021 17:25:05",
   "states": {
     "AN": {
       "name": "Andaman and Nicobar",
@@ -175,18 +175,18 @@
     },
     "DN": {
       "name": "Dadra and Nagar Haveli and Daman and Diu",
-      "confirmed": 10558,
-      "active": 42,
-      "recovered": 10481,
+      "confirmed": 10561,
+      "active": 43,
+      "recovered": 10483,
       "dead": 4,
-      "updatedTime": "30/06/2021 09:29:09",
+      "updatedTime": "30/06/2021 17:25:07",
       "note": "",
       "stateCode": "DN",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 3,
+        "recovered": 2,
         "dead": 0,
-        "active": 0
+        "active": 1
       },
       "testing_data": {
         "tested": 72410,
@@ -199,18 +199,18 @@
     },
     "DL": {
       "name": "Delhi",
-      "confirmed": 1434094,
-      "active": 1531,
-      "recovered": 1407592,
-      "dead": 24971,
-      "updatedTime": "29/06/2021 19:30:07",
+      "confirmed": 1434188,
+      "active": 1379,
+      "recovered": 1407832,
+      "dead": 24977,
+      "updatedTime": "30/06/2021 17:25:08",
       "note": "[July 14]: Value for the total tests conducted has been reduced by 97008 in the state bulletin. Reason given : \"Reconciled with ICMR figures\". We have made the same change.",
       "stateCode": "DL",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 94,
+        "recovered": 240,
+        "dead": 6,
+        "active": -152
       },
       "testing_data": {
         "tested": 21403169,
@@ -898,9 +898,9 @@
     "source": "https://twitter.com/ICMRDELHI/status/1410079538311090178"
   },
   "today": {
-    "confirmed": 4894,
-    "recovered": 1286,
-    "dead": 60,
-    "active": 3548
+    "confirmed": 4991,
+    "recovered": 1528,
+    "dead": 66,
+    "active": 3397
   }
 }
