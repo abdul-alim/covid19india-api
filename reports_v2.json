@@ -1,24 +1,24 @@
 {
-  "confirmed": 30396235,
-  "recovered": 29465608,
-  "dead": 399250,
-  "active": 519458,
-  "updatedTime": "30/06/2021 20:31:10",
+  "confirmed": 30396496,
+  "recovered": 29465951,
+  "dead": 399254,
+  "active": 519372,
+  "updatedTime": "30/06/2021 20:40:05",
   "states": {
     "AN": {
       "name": "Andaman and Nicobar",
-      "confirmed": 7466,
-      "active": 42,
-      "recovered": 7296,
+      "confirmed": 7467,
+      "active": 31,
+      "recovered": 7308,
       "dead": 128,
-      "updatedTime": "29/06/2021 22:13:06",
+      "updatedTime": "30/06/2021 20:40:06",
       "note": "",
       "stateCode": "AN",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 1,
+        "recovered": 12,
         "dead": 0,
-        "active": 0
+        "active": -11
       },
       "testing_data": {
         "tested": 408220,
@@ -103,18 +103,18 @@
     },
     "BR": {
       "name": "Bihar",
-      "confirmed": 721654,
-      "active": 1831,
-      "recovered": 710238,
-      "dead": 9584,
-      "updatedTime": "29/06/2021 20:59:07",
+      "confirmed": 721914,
+      "active": 1756,
+      "recovered": 710569,
+      "dead": 9588,
+      "updatedTime": "30/06/2021 20:40:07",
       "note": "[June 9] : 3951 deceased cases have been reported in the bulletin after reconciliation of records by the authorities",
       "stateCode": "BR",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 260,
+        "recovered": 331,
+        "dead": 4,
+        "active": -75
       },
       "testing_data": {
         "tested": 33001019,
@@ -611,7 +611,7 @@
       "active": 28189,
       "recovered": 877540,
       "dead": 4071,
-      "updatedTime": "30/06/2021 20:31:14",
+      "updatedTime": "30/06/2021 20:40:10",
       "note": "[July 12th] :20 non-covid deaths reported in state dashboard are included in the deceased count",
       "stateCode": "OR",
       "today": {
@@ -683,7 +683,7 @@
       "active": 1471,
       "recovered": 942030,
       "dead": 8921,
-      "updatedTime": "30/06/2021 20:31:15",
+      "updatedTime": "30/06/2021 20:40:11",
       "note": "",
       "stateCode": "RJ",
       "today": {
@@ -748,7 +748,7 @@
       "active": 38191,
       "recovered": 2408886,
       "dead": 32619,
-      "updatedTime": "30/06/2021 20:31:16",
+      "updatedTime": "30/06/2021 20:39:12",
       "note": "[June 29 2021]: TN has introduced a new district \"Mayiladuthurai\" in the bulletin and has assigned cases from Nagapattinam to the new district.\n[July 22]: 444 backdated deceased entries added to Chennai in TN bulletin.\n2 deaths cross notified to other states from Chennai and Coimbatore.\n1 patient died after turning negative for infection in Chengalpattu.\nThese cases have been added to TN deceased tally",
       "stateCode": "TN",
       "today": {
@@ -898,9 +898,9 @@
     "source": "https://twitter.com/ICMRDELHI/status/1410079538311090178"
   },
   "today": {
-    "confirmed": 34073,
-    "recovered": 45580,
-    "dead": 763,
-    "active": -12270
+    "confirmed": 34334,
+    "recovered": 45923,
+    "dead": 767,
+    "active": -12356
   }
 }
