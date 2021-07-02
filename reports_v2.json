@@ -1,9 +1,9 @@
 {
-  "confirmed": 30465044,
-  "recovered": 29545716,
-  "dead": 400430,
-  "active": 506942,
-  "updatedTime": "02/07/2021 19:23:08",
+  "confirmed": 30465185,
+  "recovered": 29546471,
+  "dead": 400434,
+  "active": 506324,
+  "updatedTime": "02/07/2021 19:42:06",
   "states": {
     "AN": {
       "name": "Andaman and Nicobar",
@@ -35,7 +35,7 @@
       "active": 37323,
       "recovered": 1846716,
       "dead": 12779,
-      "updatedTime": "02/07/2021 19:23:10",
+      "updatedTime": "02/07/2021 19:40:07",
       "note": "",
       "stateCode": "AP",
       "today": {
@@ -127,18 +127,18 @@
     },
     "CH": {
       "name": "Chandigarh",
-      "confirmed": 61687,
-      "active": 149,
-      "recovered": 60730,
+      "confirmed": 61700,
+      "active": 147,
+      "recovered": 60745,
       "dead": 808,
-      "updatedTime": "01/07/2021 20:25:16",
+      "updatedTime": "02/07/2021 19:42:08",
       "note": "",
       "stateCode": "CH",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 13,
+        "recovered": 15,
         "dead": 0,
-        "active": 0
+        "active": -2
       },
       "testing_data": {
         "tested": 568854,
@@ -199,18 +199,18 @@
     },
     "DL": {
       "name": "Delhi",
-      "confirmed": 1434281,
-      "active": 1357,
-      "recovered": 1407943,
-      "dead": 24981,
-      "updatedTime": "01/07/2021 18:48:10",
+      "confirmed": 1434374,
+      "active": 1041,
+      "recovered": 1408350,
+      "dead": 24983,
+      "updatedTime": "02/07/2021 19:42:09",
       "note": "[July 14]: Value for the total tests conducted has been reduced by 97008 in the state bulletin. Reason given : \"Reconciled with ICMR figures\". We have made the same change.",
       "stateCode": "DL",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 93,
+        "recovered": 407,
+        "dead": 2,
+        "active": -316
       },
       "testing_data": {
         "tested": 21559572,
@@ -224,17 +224,17 @@
     "GA": {
       "name": "Goa",
       "confirmed": 167103,
-      "active": 2461,
-      "recovered": 161582,
-      "dead": 3060,
-      "updatedTime": "01/07/2021 18:42:12",
+      "active": 2174,
+      "recovered": 161867,
+      "dead": 3062,
+      "updatedTime": "02/07/2021 19:41:12",
       "note": "",
       "stateCode": "GA",
       "today": {
         "confirmed": 183,
-        "recovered": 0,
-        "dead": 0,
-        "active": 183
+        "recovered": 285,
+        "dead": 2,
+        "active": -104
       },
       "testing_data": {
         "tested": 926632,
@@ -439,18 +439,18 @@
     },
     "LD": {
       "name": "Laccadives",
-      "confirmed": 9808,
-      "active": 293,
-      "recovered": 9427,
+      "confirmed": 9843,
+      "active": 280,
+      "recovered": 9475,
       "dead": 49,
-      "updatedTime": "01/07/2021 20:25:28",
+      "updatedTime": "02/07/2021 19:41:15",
       "note": "",
       "stateCode": "LD",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 35,
+        "recovered": 48,
         "dead": 0,
-        "active": 0
+        "active": -13
       },
       "testing_data": {
         "tested": 184431,
@@ -717,12 +717,12 @@
         "active": -45
       },
       "testing_data": {
-        "tested": 164498,
+        "tested": 165117,
         "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "01/07/2021",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/9343"
+        "date": "02/07/2021",
+        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/9357"
       }
     },
     "UN": {
@@ -758,12 +758,12 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 33001904,
+        "tested": 33162714,
         "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "01/07/2021",
-        "source": "https://stopcorona.tn.gov.in/wp-content/uploads/2020/03/Media-Bulletin-01-07-21-COVID-19.pdf"
+        "date": "02/07/2021",
+        "source": "https://stopcorona.tn.gov.in/wp-content/uploads/2020/03/Media-Bulletin-02-07-21-COVID-19.pdf"
       }
     },
     "TG": {
@@ -782,12 +782,12 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 18777030,
+        "tested": 18885647,
         "positive": 0,
         "negative": 0,
-        "unconfirmed": 13052,
-        "date": "1/7/2021",
-        "source": "https://twitter.com/IPRTelangana/status/1410582282444804097?s=20"
+        "unconfirmed": 996,
+        "date": "2/7/2021",
+        "source": "https://twitter.com/IPRTelangana/status/1410954518880161794?s=20"
       }
     },
     "TR": {
@@ -830,12 +830,12 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 58111746,
+        "tested": 58382501,
         "positive": 0,
-        "negative": 5215205,
-        "unconfirmed": 9697,
-        "date": "01/07/2021",
-        "source": "https://twitter.com/ShishirGoUP/status/1410474174213095427?s=20"
+        "negative": 0,
+        "unconfirmed": 0,
+        "date": "02/07/2021",
+        "source": "https://twitter.com/ShishirGoUP/status/1410841727884091392?s=20"
       }
     },
     "UT": {
@@ -854,12 +854,12 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 5555584,
+        "tested": 5576775,
         "positive": 0,
-        "negative": 0,
-        "unconfirmed": 0,
-        "date": "01/07/2021",
-        "source": "https://twitter.com/DDnews_dehradun/status/1410595671044870150?s=20"
+        "negative": 5236287,
+        "unconfirmed": 11853,
+        "date": "02/07/2021",
+        "source": "https://health.uk.gov.in/files/2021.07.02_Health_Bulletin.pdf"
       }
     },
     "WB": {
@@ -888,19 +888,19 @@
     }
   },
   "testing_data": {
-    "tested": 445125808,
+    "tested": 445687800,
     "positive": 422584,
-    "negative": 49819789,
-    "unconfirmed": 23274
+    "negative": 49840871,
+    "unconfirmed": 13374
   },
   "testing_data_imcr": {
     "tested": 414251520,
     "source": "https://www.icmr.gov.in/pdf/covid/update/ICMR_testing_update_02July2021.pdf"
   },
   "today": {
-    "confirmed": 7640,
-    "recovered": 5081,
-    "dead": 94,
-    "active": 2465
+    "confirmed": 7781,
+    "recovered": 5836,
+    "dead": 98,
+    "active": 1847
   }
 }
