@@ -1,9 +1,9 @@
 {
-  "confirmed": 30527997,
-  "recovered": 29632220,
-  "dead": 401539,
-  "active": 482166,
-  "updatedTime": "03/07/2021 20:44:09",
+  "confirmed": 30531105,
+  "recovered": 29636748,
+  "dead": 401575,
+  "active": 480710,
+  "updatedTime": "03/07/2021 20:52:10",
   "states": {
     "AN": {
       "name": "Andaman and Nicobar",
@@ -31,18 +31,18 @@
     },
     "AP": {
       "name": "Andhra Pradesh",
-      "confirmed": 1896818,
-      "active": 37323,
-      "recovered": 1846716,
-      "dead": 12779,
-      "updatedTime": "02/07/2021 19:40:07",
+      "confirmed": 1899748,
+      "active": 35871,
+      "recovered": 1851062,
+      "dead": 12815,
+      "updatedTime": "03/07/2021 20:52:12",
       "note": "",
       "stateCode": "AP",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 2930,
+        "recovered": 4346,
+        "dead": 36,
+        "active": -1452
       },
       "testing_data": {
         "tested": 22268483,
@@ -189,11 +189,12 @@
         "active": -2
       },
       "testing_data": {
-        "tested": 0,
-        "positive": 0,
-        "negative": 0,
-        "unconfirmed": 0,
-        "updated": false
+        "tested": 72410,
+        "positive": 3194,
+        "negative": 68894,
+        "unconfirmed": 302,
+        "date": "20/10/2020",
+        "source": "https://dddcovid19.in/uploads/report/BulletinDNHDD20102020.pdf"
       }
     },
     "DL": {
@@ -212,11 +213,12 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 0,
+        "tested": 21633137,
         "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "updated": false
+        "date": "02/07/2021",
+        "source": "https://twitter.com/ANI/status/1410962300719144961?s=20"
       }
     },
     "GA": {
@@ -235,11 +237,12 @@
         "active": -45
       },
       "testing_data": {
-        "tested": 0,
+        "tested": 933845,
         "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "updated": false
+        "date": "03/07/2021",
+        "source": "https://www.goa.gov.in/wp-content/uploads/2021/07/Media-Bulletin-03rd-July-2021.pdf"
       }
     },
     "GJ": {
@@ -258,11 +261,12 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 0,
+        "tested": 23813162,
         "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "updated": false
+        "date": "02/07/2021",
+        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/9371"
       }
     },
     "HR": {
@@ -547,7 +551,7 @@
       "active": 3821,
       "recovered": 17087,
       "dead": 95,
-      "updatedTime": "03/07/2021 20:44:13",
+      "updatedTime": "03/07/2021 20:52:20",
       "note": "",
       "stateCode": "MZ",
       "today": {
@@ -681,18 +685,18 @@
     },
     "SK": {
       "name": "Sikkim",
-      "confirmed": 20777,
-      "active": 2062,
-      "recovered": 18154,
+      "confirmed": 20955,
+      "active": 2058,
+      "recovered": 18336,
       "dead": 308,
-      "updatedTime": "02/07/2021 16:24:17",
+      "updatedTime": "03/07/2021 20:52:22",
       "note": "",
       "stateCode": "SK",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 178,
+        "recovered": 182,
         "dead": 0,
-        "active": 0
+        "active": -4
       },
       "testing_data": {
         "tested": 0,
@@ -859,19 +863,19 @@
     }
   },
   "testing_data": {
-    "tested": 83145372,
-    "positive": 7475,
-    "negative": 20877944,
-    "unconfirmed": 9
+    "tested": 129597926,
+    "positive": 10669,
+    "negative": 20946838,
+    "unconfirmed": 311
   },
   "testing_data_imcr": {
     "tested": 416416463,
     "source": "https://twitter.com/ICMRDELHI/status/1411163358422659074"
   },
   "today": {
-    "confirmed": 26263,
-    "recovered": 33826,
-    "dead": 456,
-    "active": -8019
+    "confirmed": 29371,
+    "recovered": 38354,
+    "dead": 492,
+    "active": -9475
   }
 }
