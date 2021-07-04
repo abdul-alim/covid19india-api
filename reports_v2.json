@@ -1,9 +1,9 @@
 {
-  "confirmed": 30571311,
-  "recovered": 29682461,
-  "dead": 402357,
-  "active": 474391,
-  "updatedTime": "04/07/2021 20:21:10",
+  "confirmed": 30571431,
+  "recovered": 29682688,
+  "dead": 402359,
+  "active": 474282,
+  "updatedTime": "04/07/2021 20:48:09",
   "states": {
     "AN": {
       "name": "Andaman and Nicobar",
@@ -103,48 +103,50 @@
     },
     "BR": {
       "name": "Bihar",
-      "confirmed": 722418,
-      "active": 1539,
-      "recovered": 711279,
-      "dead": 9599,
-      "updatedTime": "03/07/2021 21:28:15",
+      "confirmed": 722527,
+      "active": 1435,
+      "recovered": 711490,
+      "dead": 9601,
+      "updatedTime": "04/07/2021 20:48:11",
       "note": "[June 9] : 3951 deceased cases have been reported in the bulletin after reconciliation of records by the authorities",
       "stateCode": "BR",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 109,
+        "recovered": 211,
+        "dead": 2,
+        "active": -104
       },
       "testing_data": {
-        "tested": 0,
+        "tested": 33567148,
         "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "updated": false
+        "date": "03/07/2021",
+        "source": "https://twitter.com/BiharHealthDept/status/1411335622078328838"
       }
     },
     "CH": {
       "name": "Chandigarh",
-      "confirmed": 61718,
-      "active": 149,
-      "recovered": 60761,
+      "confirmed": 61728,
+      "active": 143,
+      "recovered": 60777,
       "dead": 808,
-      "updatedTime": "03/07/2021 20:09:10",
+      "updatedTime": "04/07/2021 20:40:12",
       "note": "",
       "stateCode": "CH",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 10,
+        "recovered": 16,
         "dead": 0,
-        "active": 0
+        "active": -6
       },
       "testing_data": {
-        "tested": 0,
+        "tested": 573440,
         "positive": 0,
-        "negative": 0,
-        "unconfirmed": 0,
-        "updated": false
+        "negative": 510452,
+        "unconfirmed": 10,
+        "date": "04/07/2021",
+        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/9401"
       }
     },
     "CT": {
@@ -163,34 +165,36 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 0,
+        "tested": 10434778,
         "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "updated": false
+        "date": "03/07/2021",
+        "source": "https://twitter.com/HealthCgGov/status/1411349822993408002?s=20"
       }
     },
     "DN": {
       "name": "Dadra and Nagar Haveli and Daman and Diu",
-      "confirmed": 10571,
-      "active": 39,
+      "confirmed": 10572,
+      "active": 40,
       "recovered": 10497,
       "dead": 4,
-      "updatedTime": "04/07/2021 18:40:11",
+      "updatedTime": "04/07/2021 20:40:13",
       "note": "",
       "stateCode": "DN",
       "today": {
-        "confirmed": 1,
+        "confirmed": 2,
         "recovered": 4,
         "dead": 0,
-        "active": -3
+        "active": -2
       },
       "testing_data": {
-        "tested": 0,
-        "positive": 0,
-        "negative": 0,
-        "unconfirmed": 0,
-        "updated": false
+        "tested": 72410,
+        "positive": 3194,
+        "negative": 68894,
+        "unconfirmed": 302,
+        "date": "20/10/2020",
+        "source": "https://dddcovid19.in/uploads/report/BulletinDNHDD20102020.pdf"
       }
     },
     "DL": {
@@ -209,11 +213,12 @@
         "active": -24
       },
       "testing_data": {
-        "tested": 0,
+        "tested": 21709756,
         "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "updated": false
+        "date": "03/07/2021",
+        "source": "https://twitter.com/CMODelhi/status/1411359043877150725?s=20"
       }
     },
     "GA": {
@@ -232,11 +237,12 @@
         "active": -42
       },
       "testing_data": {
-        "tested": 0,
+        "tested": 938454,
         "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "updated": false
+        "date": "04/07/2021",
+        "source": "https://www.goa.gov.in/wp-content/uploads/2021/07/Media-Bulletin-4-th-july-2021.pdf"
       }
     },
     "GJ": {
@@ -245,7 +251,7 @@
       "active": 2467,
       "recovered": 811297,
       "dead": 10069,
-      "updatedTime": "04/07/2021 20:21:13",
+      "updatedTime": "04/07/2021 20:38:11",
       "note": "",
       "stateCode": "GJ",
       "today": {
@@ -255,11 +261,12 @@
         "active": -60
       },
       "testing_data": {
-        "tested": 0,
+        "tested": 23873009,
         "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "updated": false
+        "date": "03/07/2021",
+        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/9394"
       }
     },
     "HR": {
@@ -278,11 +285,12 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 0,
+        "tested": 10139882,
         "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "updated": false
+        "date": "03/07/2021",
+        "source": "http://www.nhmharyana.gov.in/WriteReadData/userfiles/file/CoronaVirus/Daily%20Bulletin%20of%20COVID%2019%20as%20on%2003-07-2021.pdf"
       }
     },
     "HP": {
@@ -301,11 +309,12 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 0,
+        "tested": 2476760,
         "positive": 0,
-        "negative": 0,
-        "unconfirmed": 0,
-        "updated": false
+        "negative": 2273851,
+        "unconfirmed": 354,
+        "date": "03/07/2021",
+        "source": "https://twitter.com/nhm_hp/status/1411324685799755776?s=20"
       }
     },
     "JK": {
@@ -567,7 +576,7 @@
       "active": 1234,
       "recovered": 23077,
       "dead": 499,
-      "updatedTime": "04/07/2021 20:21:17",
+      "updatedTime": "04/07/2021 20:38:12",
       "note": "",
       "stateCode": "NL",
       "today": {
@@ -722,7 +731,7 @@
       "active": 35294,
       "recovered": 2427988,
       "dead": 33005,
-      "updatedTime": "04/07/2021 20:21:19",
+      "updatedTime": "04/07/2021 20:38:13",
       "note": "[June 29 2021]: TN has introduced a new district \"Mayiladuthurai\" in the bulletin and has assigned cases from Nagapattinam to the new district.\n[July 22]: 444 backdated deceased entries added to Chennai in TN bulletin.\n2 deaths cross notified to other states from Chennai and Coimbatore.\n1 patient died after turning negative for infection in Chengalpattu.\nThese cases have been added to TN deceased tally",
       "stateCode": "TN",
       "today": {
@@ -745,7 +754,7 @@
       "active": 11964,
       "recovered": 611035,
       "dead": 3691,
-      "updatedTime": "04/07/2021 20:21:20",
+      "updatedTime": "04/07/2021 20:22:18",
       "note": "[July 27] : Telangana bulletin for the previous day is released on the next day. We will add the cases for Telangana against the date of release, as that is the convention that we are following for other states.",
       "stateCode": "TG",
       "today": {
@@ -856,19 +865,19 @@
     }
   },
   "testing_data": {
-    "tested": 38829624,
-    "positive": 7475,
-    "negative": 20460155,
-    "unconfirmed": 0
+    "tested": 142615261,
+    "positive": 10669,
+    "negative": 23313352,
+    "unconfirmed": 666
   },
   "testing_data_imcr": {
     "tested": 418254953,
     "source": "https://twitter.com/ICMRDELHI/status/1411527477160144902"
   },
   "today": {
-    "confirmed": 26550,
-    "recovered": 31797,
-    "dead": 324,
-    "active": -5571
+    "confirmed": 26670,
+    "recovered": 32024,
+    "dead": 326,
+    "active": -5680
   }
 }
