@@ -1,9 +1,9 @@
 {
-  "confirmed": 30588760,
-  "recovered": 29694944,
-  "dead": 402830,
-  "active": 478875,
-  "updatedTime": "05/07/2021 18:07:15",
+  "confirmed": 30590926,
+  "recovered": 29698552,
+  "dead": 402859,
+  "active": 477404,
+  "updatedTime": "05/07/2021 18:25:09",
   "states": {
     "AN": {
       "name": "Andaman and Nicobar",
@@ -31,18 +31,18 @@
     },
     "AP": {
       "name": "Andhra Pradesh",
-      "confirmed": 1902923,
-      "active": 35325,
-      "recovered": 1854754,
-      "dead": 12844,
-      "updatedTime": "04/07/2021 18:40:10",
+      "confirmed": 1905023,
+      "active": 33964,
+      "recovered": 1858189,
+      "dead": 12870,
+      "updatedTime": "05/07/2021 18:25:12",
       "note": "",
       "stateCode": "AP",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 2100,
+        "recovered": 3435,
+        "dead": 26,
+        "active": -1361
       },
       "testing_data": {
         "tested": 22363078,
@@ -127,18 +127,18 @@
     },
     "CH": {
       "name": "Chandigarh",
-      "confirmed": 61728,
-      "active": 143,
-      "recovered": 60777,
-      "dead": 808,
-      "updatedTime": "04/07/2021 20:40:12",
+      "confirmed": 61740,
+      "active": 116,
+      "recovered": 60815,
+      "dead": 809,
+      "updatedTime": "05/07/2021 18:25:14",
       "note": "",
       "stateCode": "CH",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 12,
+        "recovered": 38,
+        "dead": 1,
+        "active": -27
       },
       "testing_data": {
         "tested": 573440,
@@ -176,17 +176,17 @@
     "DN": {
       "name": "Dadra and Nagar Haveli and Daman and Diu",
       "confirmed": 10572,
-      "active": 40,
-      "recovered": 10497,
+      "active": 37,
+      "recovered": 10500,
       "dead": 4,
-      "updatedTime": "04/07/2021 20:40:13",
+      "updatedTime": "05/07/2021 18:25:16",
       "note": "",
       "stateCode": "DN",
       "today": {
         "confirmed": 0,
-        "recovered": 0,
+        "recovered": 3,
         "dead": 0,
-        "active": 0
+        "active": -3
       },
       "testing_data": {
         "tested": 72410,
@@ -199,18 +199,18 @@
     },
     "DL": {
       "name": "Delhi",
-      "confirmed": 1434554,
-      "active": 992,
-      "recovered": 1408567,
-      "dead": 24995,
-      "updatedTime": "04/07/2021 18:20:12",
+      "confirmed": 1434608,
+      "active": 912,
+      "recovered": 1408699,
+      "dead": 24997,
+      "updatedTime": "05/07/2021 18:25:17",
       "note": "[July 14]: Value for the total tests conducted has been reduced by 97008 in the state bulletin. Reason given : \"Reconciled with ICMR figures\". We have made the same change.",
       "stateCode": "DL",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 54,
+        "recovered": 132,
+        "dead": 2,
+        "active": -80
       },
       "testing_data": {
         "tested": 21784889,
@@ -227,7 +227,7 @@
       "active": 1934,
       "recovered": 162557,
       "dead": 3075,
-      "updatedTime": "05/07/2021 18:07:17",
+      "updatedTime": "05/07/2021 18:16:13",
       "note": "",
       "stateCode": "GA",
       "today": {
@@ -898,9 +898,9 @@
     "source": "https://www.icmr.gov.in/pdf/covid/update/ICMR_testing_update_05July2021.pdf"
   },
   "today": {
-    "confirmed": 3847,
-    "recovered": 1940,
-    "dead": 72,
-    "active": 1835
+    "confirmed": 6013,
+    "recovered": 5548,
+    "dead": 101,
+    "active": 364
   }
 }
