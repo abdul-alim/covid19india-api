@@ -1,9 +1,9 @@
 {
-  "confirmed": 30618930,
-  "recovered": 29744812,
+  "confirmed": 30618939,
+  "recovered": 29744831,
   "dead": 403310,
-  "active": 458640,
-  "updatedTime": "06/07/2021 02:21:12",
+  "active": 458629,
+  "updatedTime": "06/07/2021 02:39:10",
   "states": {
     "AN": {
       "name": "Andaman and Nicobar",
@@ -415,18 +415,18 @@
     },
     "LA": {
       "name": "Ladakh",
-      "confirmed": 20120,
-      "active": 226,
-      "recovered": 19690,
+      "confirmed": 20129,
+      "active": 216,
+      "recovered": 19709,
       "dead": 204,
-      "updatedTime": "05/07/2021 11:54:09",
+      "updatedTime": "06/07/2021 02:39:12",
       "note": "",
       "stateCode": "LA",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 9,
+        "recovered": 19,
         "dead": 0,
-        "active": 0
+        "active": -10
       },
       "testing_data": {
         "tested": 366955,
@@ -793,10 +793,10 @@
     "TR": {
       "name": "Tripura",
       "confirmed": 67674,
-      "active": 3777,
+      "active": 3776,
       "recovered": 63146,
       "dead": 689,
-      "updatedTime": "06/07/2021 02:21:18",
+      "updatedTime": "06/07/2021 02:39:15",
       "note": "[Aug 4]: Tripura bulletin for the previous day is released on the next day. We will add the cases for Tripura against the date of release, as that is the convention that we are following for other states.",
       "stateCode": "TR",
       "today": {
@@ -898,9 +898,9 @@
     "source": "https://www.icmr.gov.in/pdf/covid/update/ICMR_testing_update_05July2021.pdf"
   },
   "today": {
-    "confirmed": 34017,
-    "recovered": 51808,
+    "confirmed": 34026,
+    "recovered": 51827,
     "dead": 552,
-    "active": -18343
+    "active": -18353
   }
 }
