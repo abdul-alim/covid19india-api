@@ -1,24 +1,24 @@
 {
-  "confirmed": 30611933,
-  "recovered": 29737536,
-  "dead": 403209,
-  "active": 459059,
-  "updatedTime": "05/07/2021 22:37:12",
+  "confirmed": 30618894,
+  "recovered": 29744780,
+  "dead": 403310,
+  "active": 458675,
+  "updatedTime": "06/07/2021 02:04:12",
   "states": {
     "AN": {
       "name": "Andaman and Nicobar",
       "confirmed": 7482,
-      "active": 21,
-      "recovered": 7333,
+      "active": 15,
+      "recovered": 7339,
       "dead": 128,
-      "updatedTime": "04/07/2021 22:05:11",
+      "updatedTime": "06/07/2021 01:55:11",
       "note": "",
       "stateCode": "AN",
       "today": {
         "confirmed": 0,
-        "recovered": 0,
+        "recovered": 6,
         "dead": 0,
-        "active": 0
+        "active": -6
       },
       "testing_data": {
         "tested": 413316,
@@ -55,18 +55,18 @@
     },
     "AR": {
       "name": "Arunachal Pradesh",
-      "confirmed": 37105,
-      "active": 2961,
-      "recovered": 33967,
-      "dead": 177,
-      "updatedTime": "05/07/2021 02:15:10",
+      "confirmed": 37531,
+      "active": 3118,
+      "recovered": 34234,
+      "dead": 179,
+      "updatedTime": "06/07/2021 02:04:13",
       "note": "[July 25]: All numbers corresponding to Papum Pare and Captial Complex are tracked under Papum Pare district.",
       "stateCode": "AR",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 426,
+        "recovered": 247,
         "dead": 0,
-        "active": 0
+        "active": 179
       },
       "testing_data": {
         "tested": 790027,
@@ -79,18 +79,18 @@
     },
     "AS": {
       "name": "Assam",
-      "confirmed": 517194,
-      "active": 22155,
-      "recovered": 489040,
-      "dead": 4652,
-      "updatedTime": "05/07/2021 00:58:11",
+      "confirmed": 519834,
+      "active": 22243,
+      "recovered": 491561,
+      "dead": 4683,
+      "updatedTime": "06/07/2021 02:04:15",
       "note": "[Jan 1]: 1347 cases i.e Covid +'tive patients dead for other reasons have been deducted fom active count.",
       "stateCode": "AS",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 2640,
+        "recovered": 2521,
+        "dead": 31,
+        "active": 88
       },
       "testing_data": {
         "tested": 15444912,
@@ -343,18 +343,18 @@
     },
     "JH": {
       "name": "Jharkhand",
-      "confirmed": 345937,
-      "active": 658,
-      "recovered": 340164,
-      "dead": 5115,
-      "updatedTime": "05/07/2021 00:49:17",
+      "confirmed": 345983,
+      "active": 609,
+      "recovered": 340257,
+      "dead": 5117,
+      "updatedTime": "06/07/2021 01:55:14",
       "note": "",
       "stateCode": "JH",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 46,
+        "recovered": 93,
+        "dead": 2,
+        "active": -49
       },
       "testing_data": {
         "tested": 10232119,
@@ -655,18 +655,18 @@
     },
     "PB": {
       "name": "Punjab",
-      "confirmed": 596416,
-      "active": 2324,
-      "recovered": 577982,
-      "dead": 16110,
-      "updatedTime": "04/07/2021 22:38:12",
+      "confirmed": 596550,
+      "active": 2118,
+      "recovered": 578310,
+      "dead": 16122,
+      "updatedTime": "06/07/2021 01:55:16",
       "note": "",
       "stateCode": "PB",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 134,
+        "recovered": 328,
+        "dead": 12,
+        "active": -206
       },
       "testing_data": {
         "tested": 11081636,
@@ -744,18 +744,18 @@
     },
     "TN": {
       "name": "Tamil Nadu",
-      "confirmed": 2496287,
-      "active": 35294,
-      "recovered": 2427988,
-      "dead": 33005,
-      "updatedTime": "05/07/2021 22:33:19",
+      "confirmed": 2500002,
+      "active": 34926,
+      "recovered": 2432017,
+      "dead": 33059,
+      "updatedTime": "06/07/2021 01:55:18",
       "note": "[June 29 2021]: TN has introduced a new district \"Mayiladuthurai\" in the bulletin and has assigned cases from Nagapattinam to the new district.\n[July 22]: 444 backdated deceased entries added to Chennai in TN bulletin.\n2 deaths cross notified to other states from Chennai and Coimbatore.\n1 patient died after turning negative for infection in Chengalpattu.\nThese cases have been added to TN deceased tally",
       "stateCode": "TN",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 3715,
+        "recovered": 4029,
+        "dead": 54,
+        "active": -368
       },
       "testing_data": {
         "tested": 33636070,
@@ -898,9 +898,9 @@
     "source": "https://www.icmr.gov.in/pdf/covid/update/ICMR_testing_update_05July2021.pdf"
   },
   "today": {
-    "confirmed": 27020,
-    "recovered": 44532,
-    "dead": 451,
-    "active": -17963
+    "confirmed": 33981,
+    "recovered": 51756,
+    "dead": 550,
+    "active": -18325
   }
 }
