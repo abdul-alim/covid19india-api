@@ -1,9 +1,9 @@
 {
-  "confirmed": 30600649,
-  "recovered": 29716212,
-  "dead": 402996,
-  "active": 469328,
-  "updatedTime": "05/07/2021 19:26:10",
+  "confirmed": 30601647,
+  "recovered": 29717477,
+  "dead": 403010,
+  "active": 469047,
+  "updatedTime": "05/07/2021 19:37:09",
   "states": {
     "AN": {
       "name": "Andaman and Nicobar",
@@ -295,18 +295,18 @@
     },
     "HP": {
       "name": "Himachal Pradesh",
-      "confirmed": 202642,
-      "active": 1365,
-      "recovered": 197778,
-      "dead": 3467,
-      "updatedTime": "05/07/2021 01:15:10",
+      "confirmed": 202800,
+      "active": 1357,
+      "recovered": 197943,
+      "dead": 3468,
+      "updatedTime": "05/07/2021 19:37:12",
       "note": "",
       "stateCode": "HP",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 158,
+        "recovered": 165,
+        "dead": 1,
+        "active": -8
       },
       "testing_data": {
         "tested": 2483610,
@@ -463,18 +463,18 @@
     },
     "MP": {
       "name": "Madhya Pradesh",
-      "confirmed": 789983,
-      "active": 479,
-      "recovered": 780495,
-      "dead": 9009,
-      "updatedTime": "05/07/2021 00:58:13",
+      "confirmed": 790015,
+      "active": 466,
+      "recovered": 780534,
+      "dead": 9015,
+      "updatedTime": "05/07/2021 19:37:14",
       "note": "[Oct 14]: 4469 confirmed cases and 4469 recoveries added in MP bulletin as reconciliation with private labs and hospitals",
       "stateCode": "MP",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 32,
+        "recovered": 39,
+        "dead": 6,
+        "active": -13
       },
       "testing_data": {
         "tested": 12373136,
@@ -611,7 +611,7 @@
       "active": 26294,
       "recovered": 894104,
       "dead": 4301,
-      "updatedTime": "05/07/2021 19:26:12",
+      "updatedTime": "05/07/2021 19:37:19",
       "note": "[July 12th] :20 non-covid deaths reported in state dashboard are included in the deceased count",
       "stateCode": "OR",
       "today": {
@@ -683,7 +683,7 @@
       "active": 1092,
       "recovered": 942756,
       "dead": 8941,
-      "updatedTime": "05/07/2021 19:26:13",
+      "updatedTime": "05/07/2021 19:37:24",
       "note": "",
       "stateCode": "RJ",
       "today": {
@@ -768,18 +768,18 @@
     },
     "TG": {
       "name": "Telangana",
-      "confirmed": 626690,
-      "active": 11964,
-      "recovered": 611035,
-      "dead": 3691,
-      "updatedTime": "04/07/2021 20:22:18",
+      "confirmed": 627498,
+      "active": 11704,
+      "recovered": 612096,
+      "dead": 3698,
+      "updatedTime": "05/07/2021 19:37:25",
       "note": "[July 27] : Telangana bulletin for the previous day is released on the next day. We will add the cases for Telangana against the date of release, as that is the convention that we are following for other states.",
       "stateCode": "TG",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 808,
+        "recovered": 1061,
+        "dead": 7,
+        "active": -260
       },
       "testing_data": {
         "tested": 19066401,
@@ -830,12 +830,12 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 58875021,
+        "tested": 59103444,
         "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "04/07/2021",
-        "source": "https://twitter.com/ShishirGoUP/status/1411547291777863683"
+        "date": "05/07/2021",
+        "source": "https://twitter.com/ShishirGoUP/status/1411894999898152960?s=20"
       }
     },
     "UT": {
@@ -854,12 +854,12 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 5629971,
+        "tested": 5651292,
         "positive": 0,
-        "negative": 5289247,
-        "unconfirmed": 6592,
-        "date": "04/07/2021",
-        "source": "https://twitter.com/DDnews_dehradun/status/1411688379788324867"
+        "negative": 5310499,
+        "unconfirmed": 8489,
+        "date": "05/07/2021",
+        "source": "https://health.uk.gov.in/files/2021.07.05_Health_Bulletin.pdf"
       }
     },
     "WB": {
@@ -888,19 +888,19 @@
     }
   },
   "testing_data": {
-    "tested": 452330792,
+    "tested": 452580536,
     "positive": 424054,
-    "negative": 50571327,
-    "unconfirmed": 7764
+    "negative": 50592579,
+    "unconfirmed": 9661
   },
   "testing_data_imcr": {
     "tested": 419777457,
     "source": "https://www.icmr.gov.in/pdf/covid/update/ICMR_testing_update_05July2021.pdf"
   },
   "today": {
-    "confirmed": 15736,
-    "recovered": 23208,
-    "dead": 238,
-    "active": -7710
+    "confirmed": 16734,
+    "recovered": 24473,
+    "dead": 252,
+    "active": -7991
   }
 }
