@@ -1,9 +1,9 @@
 {
-  "confirmed": 30650186,
-  "recovered": 29773582,
-  "dead": 403778,
-  "active": 460658,
-  "updatedTime": "06/07/2021 20:15:13",
+  "confirmed": 30659399,
+  "recovered": 29785192,
+  "dead": 404178,
+  "active": 457856,
+  "updatedTime": "06/07/2021 20:47:11",
   "states": {
     "AN": {
       "name": "Andaman and Nicobar",
@@ -45,12 +45,12 @@
         "active": -734
       },
       "testing_data": {
-        "tested": 22435809,
+        "tested": 22524187,
         "positive": 0,
-        "negative": 20530786,
+        "negative": 20616122,
         "unconfirmed": 0,
-        "date": "05/07/2021",
-        "source": "https://twitter.com/ArogyaAndhra/status/1412016607941984258"
+        "date": "06/07/2021",
+        "source": "https://twitter.com/ArogyaAndhra/status/1412374794914304001"
       }
     },
     "AR": {
@@ -117,12 +117,12 @@
         "active": -83
       },
       "testing_data": {
-        "tested": 33768662,
+        "tested": 33875754,
         "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "05/07/2021",
-        "source": "https://twitter.com/BiharHealthDept/status/1412066611830345735"
+        "date": "06/07/2021",
+        "source": "https://twitter.com/BiharHealthDept/status/1412415450085011457"
       }
     },
     "CH": {
@@ -141,12 +141,12 @@
         "active": -10
       },
       "testing_data": {
-        "tested": 574942,
+        "tested": 576457,
         "positive": 0,
-        "negative": 511941,
-        "unconfirmed": 8,
-        "date": "05/07/2021",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/9418"
+        "negative": 513444,
+        "unconfirmed": 13,
+        "date": "06/07/2021",
+        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/9442"
       }
     },
     "CT": {
@@ -439,18 +439,18 @@
     },
     "LD": {
       "name": "Laccadives",
-      "confirmed": 9936,
-      "active": 278,
-      "recovered": 9570,
+      "confirmed": 9947,
+      "active": 255,
+      "recovered": 9604,
       "dead": 49,
-      "updatedTime": "06/07/2021 02:21:15",
+      "updatedTime": "06/07/2021 20:47:13",
       "note": "",
       "stateCode": "LD",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 11,
+        "recovered": 34,
         "dead": 0,
-        "active": 0
+        "active": -23
       },
       "testing_data": {
         "tested": 190704,
@@ -487,18 +487,18 @@
     },
     "MH": {
       "name": "Maharashtra",
-      "confirmed": 6104917,
-      "active": 116827,
-      "recovered": 5861720,
-      "dead": 123136,
-      "updatedTime": "05/07/2021 22:29:20",
+      "confirmed": 6113335,
+      "active": 114297,
+      "recovered": 5872268,
+      "dead": 123531,
+      "updatedTime": "06/07/2021 20:47:16",
       "note": "[Dec 16]:10,218 duplicate cases & other state cases removed from total cases.791 recovered cases also removed from total recovered cases while reconciling \n[Sep 9] :239 cases have been removed from the hospitalized figures owing to the removal of duplicates and change of addresses as per the original residence\n[Aug 15] : MH bulletin has reduced 819 confirmed cases in Mumbai and 72 confirmed cases from 'Other States' from the tally\n[Jun 16] : 1328 deceased cases have been retroactively added to MH bulletin.\n[Jun 20] : 69 deceased cases have been reduced based on state bulletin.",
       "stateCode": "MH",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 8418,
+        "recovered": 10548,
+        "dead": 395,
+        "active": -2525
       },
       "testing_data": {
         "tested": 42712460,
@@ -768,18 +768,18 @@
     },
     "TG": {
       "name": "Telangana",
-      "confirmed": 627498,
-      "active": 11704,
-      "recovered": 612096,
-      "dead": 3698,
-      "updatedTime": "05/07/2021 19:55:35",
+      "confirmed": 628282,
+      "active": 11455,
+      "recovered": 613124,
+      "dead": 3703,
+      "updatedTime": "06/07/2021 20:47:19",
       "note": "[July 27] : Telangana bulletin for the previous day is released on the next day. We will add the cases for Telangana against the date of release, as that is the convention that we are following for other states.",
       "stateCode": "TG",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 784,
+        "recovered": 1028,
+        "dead": 5,
+        "active": -249
       },
       "testing_data": {
         "tested": 19169799,
@@ -888,19 +888,19 @@
     }
   },
   "testing_data": {
-    "tested": 453311410,
+    "tested": 453508395,
     "positive": 424807,
-    "negative": 50826712,
-    "unconfirmed": 10348
+    "negative": 50913551,
+    "unconfirmed": 10353
   },
   "testing_data_imcr": {
     "tested": 421424881,
     "source": "https://twitter.com/ICMRDELHI/status/1412248886496808963"
   },
   "today": {
-    "confirmed": 31247,
-    "recovered": 28645,
-    "dead": 468,
-    "active": 2134
+    "confirmed": 40460,
+    "recovered": 40255,
+    "dead": 868,
+    "active": -663
   }
 }
