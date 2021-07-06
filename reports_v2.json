@@ -1,9 +1,9 @@
 {
-  "confirmed": 30646552,
-  "recovered": 29769484,
-  "dead": 403700,
-  "active": 461200,
-  "updatedTime": "06/07/2021 19:37:12",
+  "confirmed": 30650186,
+  "recovered": 29773582,
+  "dead": 403778,
+  "active": 460658,
+  "updatedTime": "06/07/2021 20:03:10",
   "states": {
     "AN": {
       "name": "Andaman and Nicobar",
@@ -103,18 +103,18 @@
     },
     "BR": {
       "name": "Bihar",
-      "confirmed": 722603,
-      "active": 1304,
-      "recovered": 711692,
-      "dead": 9606,
-      "updatedTime": "05/07/2021 22:37:14",
+      "confirmed": 722746,
+      "active": 1221,
+      "recovered": 711913,
+      "dead": 9611,
+      "updatedTime": "06/07/2021 20:03:11",
       "note": "[June 9] : 3951 deceased cases have been reported in the bulletin after reconciliation of records by the authorities",
       "stateCode": "BR",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 143,
+        "recovered": 221,
+        "dead": 5,
+        "active": -83
       },
       "testing_data": {
         "tested": 33768662,
@@ -127,18 +127,18 @@
     },
     "CH": {
       "name": "Chandigarh",
-      "confirmed": 61740,
-      "active": 116,
-      "recovered": 60815,
+      "confirmed": 61752,
+      "active": 106,
+      "recovered": 60837,
       "dead": 809,
-      "updatedTime": "05/07/2021 18:34:19",
+      "updatedTime": "06/07/2021 20:03:18",
       "note": "",
       "stateCode": "CH",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 12,
+        "recovered": 22,
         "dead": 0,
-        "active": 0
+        "active": -10
       },
       "testing_data": {
         "tested": 574942,
@@ -299,7 +299,7 @@
       "active": 1326,
       "recovered": 198123,
       "dead": 3469,
-      "updatedTime": "06/07/2021 19:37:14",
+      "updatedTime": "06/07/2021 19:47:12",
       "note": "",
       "stateCode": "HP",
       "today": {
@@ -371,7 +371,7 @@
       "active": 40016,
       "recovered": 2784030,
       "dead": 35526,
-      "updatedTime": "06/07/2021 19:37:15",
+      "updatedTime": "06/07/2021 19:38:16",
       "note": "",
       "stateCode": "KA",
       "today": {
@@ -467,7 +467,7 @@
       "active": 447,
       "recovered": 780578,
       "dead": 9017,
-      "updatedTime": "06/07/2021 19:37:18",
+      "updatedTime": "06/07/2021 19:38:18",
       "note": "[Oct 14]: 4469 confirmed cases and 4469 recoveries added in MP bulletin as reconciliation with private labs and hospitals",
       "stateCode": "MP",
       "today": {
@@ -744,26 +744,26 @@
     },
     "TN": {
       "name": "Tamil Nadu",
-      "confirmed": 2500002,
-      "active": 34926,
-      "recovered": 2432017,
-      "dead": 33059,
-      "updatedTime": "06/07/2021 01:55:18",
+      "confirmed": 2503481,
+      "active": 34477,
+      "recovered": 2435872,
+      "dead": 33132,
+      "updatedTime": "06/07/2021 20:03:20",
       "note": "[June 29 2021]: TN has introduced a new district \"Mayiladuthurai\" in the bulletin and has assigned cases from Nagapattinam to the new district.\n[July 22]: 444 backdated deceased entries added to Chennai in TN bulletin.\n2 deaths cross notified to other states from Chennai and Coimbatore.\n1 patient died after turning negative for infection in Chengalpattu.\nThese cases have been added to TN deceased tally",
       "stateCode": "TN",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 3479,
+        "recovered": 3855,
+        "dead": 73,
+        "active": -449
       },
       "testing_data": {
-        "tested": 33636070,
+        "tested": 33789460,
         "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "05/07/2021",
-        "source": "https://stopcorona.tn.gov.in/wp-content/uploads/2020/03/Media-Bulletin-05-07-21-COVID-19.pdf"
+        "date": "06/07/2021",
+        "source": "https://stopcorona.tn.gov.in/wp-content/uploads/2020/03/Media-Bulletin-06-07-21-COVID-19.pdf"
       }
     },
     "TG": {
@@ -844,7 +844,7 @@
       "active": 1538,
       "recovered": 326043,
       "dead": 7338,
-      "updatedTime": "06/07/2021 19:37:22",
+      "updatedTime": "06/07/2021 19:47:16",
       "note": "[Oct 30]: Metric of capturing the testing data has switched to \"Samples Tested\" from \"Samples Collected\"\n[Jun 30th'21]:145 confirmed cases and 218 deceased cases added of previous days after reconciliation with district and ICMR portal",
       "stateCode": "UT",
       "today": {
@@ -888,7 +888,7 @@
     }
   },
   "testing_data": {
-    "tested": 453158020,
+    "tested": 453311410,
     "positive": 424807,
     "negative": 50826712,
     "unconfirmed": 10348
@@ -898,9 +898,9 @@
     "source": "https://twitter.com/ICMRDELHI/status/1412248886496808963"
   },
   "today": {
-    "confirmed": 27613,
-    "recovered": 24547,
-    "dead": 390,
-    "active": 2676
+    "confirmed": 31247,
+    "recovered": 28645,
+    "dead": 468,
+    "active": 2134
   }
 }
