@@ -1,9 +1,9 @@
 {
-  "confirmed": 30623194,
-  "recovered": 29746087,
-  "dead": 403376,
-  "active": 461561,
-  "updatedTime": "06/07/2021 16:17:13",
+  "confirmed": 30623273,
+  "recovered": 29746243,
+  "dead": 403380,
+  "active": 461480,
+  "updatedTime": "06/07/2021 16:58:12",
   "states": {
     "AN": {
       "name": "Andaman and Nicobar",
@@ -176,17 +176,17 @@
     "DN": {
       "name": "Dadra and Nagar Haveli and Daman and Diu",
       "confirmed": 10572,
-      "active": 37,
-      "recovered": 10500,
+      "active": 35,
+      "recovered": 10502,
       "dead": 4,
-      "updatedTime": "05/07/2021 18:34:20",
+      "updatedTime": "06/07/2021 16:58:14",
       "note": "",
       "stateCode": "DN",
       "today": {
         "confirmed": 0,
-        "recovered": 0,
+        "recovered": 2,
         "dead": 0,
-        "active": 0
+        "active": -2
       },
       "testing_data": {
         "tested": 72410,
@@ -199,18 +199,18 @@
     },
     "DL": {
       "name": "Delhi",
-      "confirmed": 1434608,
-      "active": 912,
-      "recovered": 1408699,
-      "dead": 24997,
-      "updatedTime": "05/07/2021 18:34:21",
+      "confirmed": 1434687,
+      "active": 833,
+      "recovered": 1408853,
+      "dead": 25001,
+      "updatedTime": "06/07/2021 16:58:15",
       "note": "[July 14]: Value for the total tests conducted has been reduced by 97008 in the state bulletin. Reason given : \"Reconciled with ICMR figures\". We have made the same change.",
       "stateCode": "DL",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 79,
+        "recovered": 154,
+        "dead": 4,
+        "active": -79
       },
       "testing_data": {
         "tested": 21846294,
@@ -898,9 +898,9 @@
     "source": "https://twitter.com/ICMRDELHI/status/1412248886496808963"
   },
   "today": {
-    "confirmed": 4255,
-    "recovered": 1150,
-    "dead": 66,
-    "active": 3039
+    "confirmed": 4334,
+    "recovered": 1306,
+    "dead": 70,
+    "active": 2958
   }
 }
