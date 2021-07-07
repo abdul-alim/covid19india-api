@@ -1,24 +1,24 @@
 {
-  "confirmed": 30689362,
-  "recovered": 29820384,
-  "dead": 404845,
-  "active": 451949,
-  "updatedTime": "07/07/2021 20:31:16",
+  "confirmed": 30704966,
+  "recovered": 29832019,
+  "dead": 404993,
+  "active": 455766,
+  "updatedTime": "07/07/2021 20:41:31",
   "states": {
     "AN": {
       "name": "Andaman and Nicobar",
-      "confirmed": 7487,
-      "active": 16,
-      "recovered": 7343,
+      "confirmed": 7491,
+      "active": 14,
+      "recovered": 7349,
       "dead": 128,
-      "updatedTime": "06/07/2021 21:41:15",
+      "updatedTime": "07/07/2021 20:41:34",
       "note": "",
       "stateCode": "AN",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 4,
+        "recovered": 6,
         "dead": 0,
-        "active": 0
+        "active": -2
       },
       "testing_data": {
         "tested": 415066,
@@ -391,18 +391,18 @@
     },
     "KL": {
       "name": "Kerala",
-      "confirmed": 2996095,
-      "active": 104105,
-      "recovered": 2877557,
-      "dead": 13960,
-      "updatedTime": "06/07/2021 19:37:17",
+      "confirmed": 3011695,
+      "active": 107924,
+      "recovered": 2889186,
+      "dead": 14108,
+      "updatedTime": "07/07/2021 20:41:40",
       "note": "Mahe native who expired in Kannur included in Kerala's deceased tally.\nSome non-covid deaths have also been reported in the bulletin.\nThese have been reduced from active count",
       "stateCode": "KL",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 15600,
+        "recovered": 11629,
+        "dead": 148,
+        "active": 3823
       },
       "testing_data": {
         "tested": 23768112,
@@ -443,7 +443,7 @@
       "active": 246,
       "recovered": 9631,
       "dead": 49,
-      "updatedTime": "07/07/2021 20:31:19",
+      "updatedTime": "07/07/2021 20:33:18",
       "note": "",
       "stateCode": "LD",
       "today": {
@@ -491,7 +491,7 @@
       "active": 114625,
       "recovered": 5881167,
       "dead": 123857,
-      "updatedTime": "07/07/2021 20:31:20",
+      "updatedTime": "07/07/2021 20:41:43",
       "note": "[Dec 16]:10,218 duplicate cases & other state cases removed from total cases.791 recovered cases also removed from total recovered cases while reconciling \n[Sep 9] :239 cases have been removed from the hospitalized figures owing to the removal of duplicates and change of addresses as per the original residence\n[Aug 15] : MH bulletin has reduced 819 confirmed cases in Mumbai and 72 confirmed cases from 'Other States' from the tally\n[Jun 16] : 1328 deceased cases have been retroactively added to MH bulletin.\n[Jun 20] : 69 deceased cases have been reduced based on state bulletin.",
       "stateCode": "MH",
       "today": {
@@ -748,7 +748,7 @@
       "active": 34076,
       "recovered": 2439576,
       "dead": 33196,
-      "updatedTime": "07/07/2021 20:31:22",
+      "updatedTime": "07/07/2021 20:33:21",
       "note": "[June 29 2021]: TN has introduced a new district \"Mayiladuthurai\" in the bulletin and has assigned cases from Nagapattinam to the new district.\n[July 22]: 444 backdated deceased entries added to Chennai in TN bulletin.\n2 deaths cross notified to other states from Chennai and Coimbatore.\n1 patient died after turning negative for infection in Chengalpattu.\nThese cases have been added to TN deceased tally",
       "stateCode": "TN",
       "today": {
@@ -898,9 +898,9 @@
     "source": "https://twitter.com/ICMRDELHI/status/1412614409680158725"
   },
   "today": {
-    "confirmed": 26458,
-    "recovered": 28393,
-    "dead": 605,
-    "active": -2540
+    "confirmed": 42062,
+    "recovered": 40028,
+    "dead": 753,
+    "active": 1281
   }
 }
