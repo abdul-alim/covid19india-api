@@ -1,9 +1,9 @@
 {
-  "confirmed": 30676181,
-  "recovered": 29807304,
-  "dead": 404454,
-  "active": 452244,
-  "updatedTime": "07/07/2021 19:54:18",
+  "confirmed": 30676419,
+  "recovered": 29807754,
+  "dead": 404455,
+  "active": 452031,
+  "updatedTime": "07/07/2021 20:13:16",
   "states": {
     "AN": {
       "name": "Andaman and Nicobar",
@@ -107,7 +107,7 @@
       "active": 1182,
       "recovered": 712055,
       "dead": 9612,
-      "updatedTime": "07/07/2021 19:54:20",
+      "updatedTime": "07/07/2021 20:04:23",
       "note": "[June 9] : 3951 deceased cases have been reported in the bulletin after reconciliation of records by the authorities",
       "stateCode": "BR",
       "today": {
@@ -131,7 +131,7 @@
       "active": 99,
       "recovered": 60872,
       "dead": 809,
-      "updatedTime": "07/07/2021 19:54:21",
+      "updatedTime": "07/07/2021 20:01:26",
       "note": "",
       "stateCode": "CH",
       "today": {
@@ -175,18 +175,18 @@
     },
     "DN": {
       "name": "Dadra and Nagar Haveli and Daman and Diu",
-      "confirmed": 10579,
-      "active": 38,
-      "recovered": 10506,
+      "confirmed": 10580,
+      "active": 37,
+      "recovered": 10508,
       "dead": 4,
-      "updatedTime": "07/07/2021 19:14:30",
+      "updatedTime": "07/07/2021 20:13:18",
       "note": "",
       "stateCode": "DN",
       "today": {
-        "confirmed": 1,
-        "recovered": 2,
+        "confirmed": 2,
+        "recovered": 4,
         "dead": 0,
-        "active": -1
+        "active": -2
       },
       "testing_data": {
         "tested": 72410,
@@ -247,18 +247,18 @@
     },
     "GJ": {
       "name": "Gujarat",
-      "confirmed": 823964,
-      "active": 2193,
-      "recovered": 811699,
+      "confirmed": 824029,
+      "active": 1969,
+      "recovered": 811988,
       "dead": 10072,
-      "updatedTime": "06/07/2021 21:25:20",
+      "updatedTime": "07/07/2021 20:13:20",
       "note": "",
       "stateCode": "GJ",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 65,
+        "recovered": 289,
         "dead": 0,
-        "active": 0
+        "active": -224
       },
       "testing_data": {
         "tested": 24033168,
@@ -295,26 +295,26 @@
     },
     "HP": {
       "name": "Himachal Pradesh",
-      "confirmed": 202945,
-      "active": 1326,
-      "recovered": 198123,
-      "dead": 3469,
-      "updatedTime": "06/07/2021 19:47:12",
+      "confirmed": 203117,
+      "active": 1338,
+      "recovered": 198282,
+      "dead": 3470,
+      "updatedTime": "07/07/2021 20:13:21",
       "note": "",
       "stateCode": "HP",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 172,
+        "recovered": 159,
+        "dead": 1,
+        "active": 12
       },
       "testing_data": {
-        "tested": 2512236,
+        "tested": 2528724,
         "positive": 0,
-        "negative": 2309229,
-        "unconfirmed": 62,
-        "date": "06/07/2021",
-        "source": "https://twitter.com/nhm_hp/status/1412408395370582029"
+        "negative": 2325577,
+        "unconfirmed": 30,
+        "date": "07/07/2021",
+        "source": "National Health Mission HP on Twitter: \"#7PMupdate @jairamthakurbjp @CMOFFICEHP @Dr_rajivsaizal @hemrajb @PIBChandigarh @PIBShimla @ROBChandigarh @DDNewsShimla @dprhp https://t.co/CyYQuzxgoO\" / Twitter"
       }
     },
     "JK": {
@@ -371,7 +371,7 @@
       "active": 39603,
       "recovered": 2787111,
       "dead": 35601,
-      "updatedTime": "07/07/2021 19:54:23",
+      "updatedTime": "07/07/2021 20:04:28",
       "note": "",
       "stateCode": "KA",
       "today": {
@@ -611,7 +611,7 @@
       "active": 25095,
       "recovered": 900282,
       "dead": 4411,
-      "updatedTime": "07/07/2021 19:54:25",
+      "updatedTime": "07/07/2021 20:04:31",
       "note": "[July 12th] :20 non-covid deaths reported in state dashboard are included in the deceased count",
       "stateCode": "OR",
       "today": {
@@ -683,7 +683,7 @@
       "active": 935,
       "recovered": 943010,
       "dead": 8942,
-      "updatedTime": "07/07/2021 19:54:27",
+      "updatedTime": "07/07/2021 20:04:33",
       "note": "",
       "stateCode": "RJ",
       "today": {
@@ -844,7 +844,7 @@
       "active": 1506,
       "recovered": 326147,
       "dead": 7338,
-      "updatedTime": "07/07/2021 19:54:29",
+      "updatedTime": "07/07/2021 20:01:38",
       "note": "[Oct 30]: Metric of capturing the testing data has switched to \"Samples Tested\" from \"Samples Collected\"\n[Jun 30th'21]:145 confirmed cases and 218 deceased cases added of previous days after reconciliation with district and ICMR portal",
       "stateCode": "UT",
       "today": {
@@ -888,19 +888,19 @@
     }
   },
   "testing_data": {
-    "tested": 455952452,
+    "tested": 455968940,
     "positive": 425328,
-    "negative": 31717791,
-    "unconfirmed": 11057
+    "negative": 31734139,
+    "unconfirmed": 11025
   },
   "testing_data_imcr": {
     "tested": 423332097,
     "source": "https://twitter.com/ICMRDELHI/status/1412614409680158725"
   },
   "today": {
-    "confirmed": 13277,
-    "recovered": 15313,
-    "dead": 214,
-    "active": -2250
+    "confirmed": 13515,
+    "recovered": 15763,
+    "dead": 215,
+    "active": -2463
   }
 }
