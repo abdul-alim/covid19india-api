@@ -1,9 +1,9 @@
 {
-  "confirmed": 30734651,
-  "recovered": 29859132,
-  "dead": 405391,
-  "active": 457932,
-  "updatedTime": "08/07/2021 19:54:27",
+  "confirmed": 30734770,
+  "recovered": 29859334,
+  "dead": 405401,
+  "active": 457834,
+  "updatedTime": "08/07/2021 20:11:32",
   "states": {
     "AN": {
       "name": "Andaman and Nicobar",
@@ -271,18 +271,18 @@
     },
     "HR": {
       "name": "Haryana",
-      "confirmed": 769093,
-      "active": 1066,
-      "recovered": 758512,
-      "dead": 9515,
-      "updatedTime": "08/07/2021 11:42:05",
+      "confirmed": 769148,
+      "active": 1034,
+      "recovered": 758589,
+      "dead": 9525,
+      "updatedTime": "08/07/2021 20:11:36",
       "note": "",
       "stateCode": "HR",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 55,
+        "recovered": 77,
+        "dead": 10,
+        "active": -32
       },
       "testing_data": {
         "tested": 10253758,
@@ -371,7 +371,7 @@
       "active": 38729,
       "recovered": 2790453,
       "dead": 35663,
-      "updatedTime": "08/07/2021 19:54:30",
+      "updatedTime": "08/07/2021 20:03:32",
       "note": "",
       "stateCode": "KA",
       "today": {
@@ -467,7 +467,7 @@
       "active": 416,
       "recovered": 780657,
       "dead": 9023,
-      "updatedTime": "08/07/2021 19:54:32",
+      "updatedTime": "08/07/2021 20:03:34",
       "note": "[Oct 14]: 4469 confirmed cases and 4469 recoveries added in MP bulletin as reconciliation with private labs and hospitals",
       "stateCode": "MP",
       "today": {
@@ -583,26 +583,26 @@
     },
     "NL": {
       "name": "Nagaland",
-      "confirmed": 25663,
-      "active": 1070,
-      "recovered": 23376,
+      "confirmed": 25727,
+      "active": 1004,
+      "recovered": 23501,
       "dead": 505,
-      "updatedTime": "08/07/2021 11:42:38",
+      "updatedTime": "08/07/2021 20:11:38",
       "note": "",
       "stateCode": "NL",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 64,
+        "recovered": 125,
         "dead": 0,
-        "active": 0
+        "active": -61
       },
       "testing_data": {
-        "tested": 234126,
+        "tested": 235080,
         "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "07/07/2021",
-        "source": "MyGov Nagaland on Twitter: \"Covid-19 Bulletin #Nagaland status as on 7th July 2021 at 5:00 PM. #TogetherWeCan #NagalandAgainstCovid19 #FlattenTheCurve @dipr_nagaland @StateDisaster @ddnewskohima @airnews_kohima Source-@HealthNagaland https://t.co/w5xPOHVrfQ\" / Twitter"
+        "date": "08/07/2021",
+        "source": "https://twitter.com/MyGovNagaland/status/1413128833084006415?s=20"
       }
     },
     "OR": {
@@ -806,12 +806,12 @@
         "active": 175
       },
       "testing_data": {
-        "tested": 1334119,
-        "positive": 68609,
-        "negative": 1265510,
+        "tested": 1342692,
+        "positive": 69016,
+        "negative": 1273676,
         "unconfirmed": 0,
-        "date": "07/07/2021",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/9456"
+        "date": "08/07/2021",
+        "source": "https://covid19.tripura.gov.in/Visitor/ViewStatus.aspx"
       }
     },
     "UP": {
@@ -830,12 +830,12 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 59589422,
+        "tested": 59848583,
         "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "07/07/2021",
-        "source": "https://twitter.com/ShishirGoUP/status/1412642263453245444?s=20"
+        "date": "08/07/2021",
+        "source": "https://twitter.com/ShishirGoUP/status/1413005714734284804?s=20"
       }
     },
     "UT": {
@@ -854,12 +854,12 @@
         "active": -56
       },
       "testing_data": {
-        "tested": 5704961,
+        "tested": 5729388,
         "positive": 0,
-        "negative": 5364002,
-        "unconfirmed": 9495,
-        "date": "07/07/2021",
-        "source": "https://health.uk.gov.in/files/2021.07.07_Health_Bulletin.pdf"
+        "negative": 5388365,
+        "unconfirmed": 12892,
+        "date": "08/07/2021",
+        "source": "https://health.uk.gov.in/files/2021.07.08_Health_Bulletin.pdf"
       }
     },
     "WB": {
@@ -888,19 +888,19 @@
     }
   },
   "testing_data": {
-    "tested": 456881668,
-    "positive": 1215477,
-    "negative": 31781247,
-    "unconfirmed": 11025
+    "tested": 457174783,
+    "positive": 1215884,
+    "negative": 31813776,
+    "unconfirmed": 14422
   },
   "testing_data_imcr": {
     "tested": 425225897,
     "source": "https://twitter.com/ICMRDELHI/status/1412974261011197955"
   },
   "today": {
-    "confirmed": 26047,
-    "recovered": 22612,
-    "dead": 332,
-    "active": 3103
+    "confirmed": 26166,
+    "recovered": 22814,
+    "dead": 342,
+    "active": 3010
   }
 }
