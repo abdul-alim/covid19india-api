@@ -1,9 +1,9 @@
 {
-  "confirmed": 30791168,
-  "recovered": 29922226,
-  "dead": 407131,
-  "active": 449596,
-  "updatedTime": "09/07/2021 21:05:30",
+  "confirmed": 30791262,
+  "recovered": 29922448,
+  "dead": 407132,
+  "active": 449460,
+  "updatedTime": "09/07/2021 21:24:29",
   "states": {
     "AN": {
       "name": "Andaman and Nicobar",
@@ -251,7 +251,7 @@
       "active": 1356,
       "recovered": 812718,
       "dead": 10073,
-      "updatedTime": "09/07/2021 21:05:32",
+      "updatedTime": "09/07/2021 21:10:31",
       "note": "",
       "stateCode": "GJ",
       "today": {
@@ -463,26 +463,26 @@
     },
     "MP": {
       "name": "Madhya Pradesh",
-      "confirmed": 790096,
-      "active": 416,
-      "recovered": 780657,
-      "dead": 9023,
-      "updatedTime": "08/07/2021 20:03:34",
+      "confirmed": 790125,
+      "active": 406,
+      "recovered": 780695,
+      "dead": 9024,
+      "updatedTime": "09/07/2021 21:24:31",
       "note": "[Oct 14]: 4469 confirmed cases and 4469 recoveries added in MP bulletin as reconciliation with private labs and hospitals",
       "stateCode": "MP",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 29,
+        "recovered": 38,
+        "dead": 1,
+        "active": -10
       },
       "testing_data": {
-        "tested": 12731932,
+        "tested": 12806933,
         "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "08/07/2021",
-        "source": "https://twitter.com/healthminmp/status/1413132136186474506?s=20"
+        "date": "09/07/2021",
+        "source": "https://twitter.com/healthminmp/status/1413520562110877698"
       }
     },
     "MH": {
@@ -501,12 +501,12 @@
         "active": -2204
       },
       "testing_data": {
-        "tested": 43350257,
+        "tested": 43565119,
         "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "08/07/2021",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/9505"
+        "date": "09/07/2021",
+        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/9519"
       }
     },
     "MN": {
@@ -573,12 +573,12 @@
         "active": 311
       },
       "testing_data": {
-        "tested": 509970,
+        "tested": 513470,
         "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "08/07/2021",
-        "source": "DIRECTORATE OF INFORMATION & PUBLIC RELATIONS (mizoram.gov.in)"
+        "date": "09/07/2021",
+        "source": "https://dipr.mizoram.gov.in/post/covid-19-positive-thar-311-hmuhchhuah-a-ni"
       }
     },
     "NL": {
@@ -820,7 +820,7 @@
       "active": 1697,
       "recovered": 1682741,
       "dead": 22689,
-      "updatedTime": "09/07/2021 21:05:34",
+      "updatedTime": "09/07/2021 21:16:31",
       "note": "[Jan 1]:As no bulletin was provided for 31'st Dec'20,its count has been combined with 1st Jan'21\n[Jan 9]:Due to reconcillation there are 1286 cases.",
       "stateCode": "UP",
       "today": {
@@ -840,18 +840,18 @@
     },
     "UT": {
       "name": "Uttarakhand",
-      "confirmed": 341023,
-      "active": 1445,
-      "recovered": 326267,
+      "confirmed": 341088,
+      "active": 1319,
+      "recovered": 326451,
       "dead": 7338,
-      "updatedTime": "08/07/2021 19:05:34",
+      "updatedTime": "09/07/2021 21:24:34",
       "note": "[Oct 30]: Metric of capturing the testing data has switched to \"Samples Tested\" from \"Samples Collected\"\n[Jun 30th'21]:145 confirmed cases and 218 deceased cases added of previous days after reconciliation with district and ICMR portal",
       "stateCode": "UT",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 65,
+        "recovered": 184,
         "dead": 0,
-        "active": 0
+        "active": -119
       },
       "testing_data": {
         "tested": 5759406,
@@ -878,17 +878,17 @@
         "active": -453
       },
       "testing_data": {
-        "tested": 14613782,
+        "tested": 14665147,
         "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "08/07/2021",
-        "source": "https://www.wbhealth.gov.in/uploaded_files/corona/WB_DHFW_Bulletin_8th_JULY_REPORT_FINAL1.pdf"
+        "date": "09/07/2021",
+        "source": "https://www.wbhealth.gov.in/uploaded_files/corona/WB_DHFW_Bulletin_9th_JULY_REPORT_FINAL1.pdf"
       }
     }
   },
   "testing_data": {
-    "tested": 460157798,
+    "tested": 460502526,
     "positive": 426401,
     "negative": 52942806,
     "unconfirmed": 11197
@@ -898,9 +898,9 @@
     "source": "https://twitter.com/ICMRDELHI/status/1413337357676277760"
   },
   "today": {
-    "confirmed": 39060,
-    "recovered": 41502,
-    "dead": 1164,
-    "active": -3606
+    "confirmed": 39154,
+    "recovered": 41724,
+    "dead": 1165,
+    "active": -3735
   }
 }
