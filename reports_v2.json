@@ -1,9 +1,9 @@
 {
-  "confirmed": 30774061,
-  "recovered": 29901927,
-  "dead": 406200,
-  "active": 453727,
-  "updatedTime": "09/07/2021 19:31:29",
+  "confirmed": 30774253,
+  "recovered": 29902286,
+  "dead": 406209,
+  "active": 453551,
+  "updatedTime": "09/07/2021 20:13:29",
   "states": {
     "AN": {
       "name": "Andaman and Nicobar",
@@ -103,42 +103,42 @@
     },
     "BR": {
       "name": "Bihar",
-      "confirmed": 722965,
-      "active": 1140,
-      "recovered": 712210,
+      "confirmed": 723060,
+      "active": 1018,
+      "recovered": 712427,
       "dead": 9614,
-      "updatedTime": "08/07/2021 20:31:30",
+      "updatedTime": "09/07/2021 20:13:30",
       "note": "[June 9] : 3951 deceased cases have been reported in the bulletin after reconciliation of records by the authorities",
       "stateCode": "BR",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 95,
+        "recovered": 217,
         "dead": 0,
-        "active": 0
+        "active": -122
       },
       "testing_data": {
-        "tested": 34131349,
+        "tested": 34260265,
         "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "08/07/2021",
-        "source": "https://twitter.com/BiharHealthDept/status/1413136973842116612?s=20"
+        "date": "09/07/2021",
+        "source": "https://twitter.com/BiharHealthDept/status/1413503244786036743"
       }
     },
     "CH": {
       "name": "Chandigarh",
-      "confirmed": 61794,
-      "active": 100,
-      "recovered": 60885,
+      "confirmed": 61811,
+      "active": 101,
+      "recovered": 60901,
       "dead": 809,
-      "updatedTime": "08/07/2021 19:45:29",
+      "updatedTime": "09/07/2021 20:13:32",
       "note": "",
       "stateCode": "CH",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 17,
+        "recovered": 16,
         "dead": 0,
-        "active": 0
+        "active": 1
       },
       "testing_data": {
         "tested": 581225,
@@ -146,7 +146,7 @@
         "negative": 518145,
         "unconfirmed": 7,
         "date": "09/07/2021",
-        "source": "http://chdcovid19.in"
+        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/9517"
       }
     },
     "CT": {
@@ -175,18 +175,18 @@
     },
     "DN": {
       "name": "Dadra and Nagar Haveli and Daman and Diu",
-      "confirmed": 10582,
-      "active": 25,
-      "recovered": 10522,
+      "confirmed": 10583,
+      "active": 23,
+      "recovered": 10525,
       "dead": 4,
-      "updatedTime": "09/07/2021 19:06:31",
+      "updatedTime": "09/07/2021 20:13:39",
       "note": "",
       "stateCode": "DN",
       "today": {
-        "confirmed": 0,
-        "recovered": 8,
+        "confirmed": 1,
+        "recovered": 11,
         "dead": 0,
-        "active": -8
+        "active": -10
       },
       "testing_data": {
         "tested": 72410,
@@ -271,18 +271,18 @@
     },
     "HR": {
       "name": "Haryana",
-      "confirmed": 769148,
-      "active": 1034,
-      "recovered": 758589,
-      "dead": 9525,
-      "updatedTime": "08/07/2021 20:29:31",
+      "confirmed": 769205,
+      "active": 993,
+      "recovered": 758678,
+      "dead": 9534,
+      "updatedTime": "09/07/2021 20:13:41",
       "note": "",
       "stateCode": "HR",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 57,
+        "recovered": 89,
+        "dead": 9,
+        "active": -41
       },
       "testing_data": {
         "tested": 10311915,
@@ -439,18 +439,18 @@
     },
     "LD": {
       "name": "Laccadives",
-      "confirmed": 9980,
-      "active": 236,
-      "recovered": 9656,
+      "confirmed": 10002,
+      "active": 224,
+      "recovered": 9690,
       "dead": 49,
-      "updatedTime": "08/07/2021 20:47:33",
+      "updatedTime": "09/07/2021 20:13:43",
       "note": "",
       "stateCode": "LD",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 22,
+        "recovered": 34,
         "dead": 0,
-        "active": 0
+        "active": -12
       },
       "testing_data": {
         "tested": 196542,
@@ -888,7 +888,7 @@
     }
   },
   "testing_data": {
-    "tested": 459831253,
+    "tested": 459960169,
     "positive": 426400,
     "negative": 52942806,
     "unconfirmed": 11197
@@ -898,9 +898,9 @@
     "source": "https://twitter.com/ICMRDELHI/status/1413337357676277760"
   },
   "today": {
-    "confirmed": 21953,
-    "recovered": 21203,
-    "dead": 233,
-    "active": 517
+    "confirmed": 22145,
+    "recovered": 21562,
+    "dead": 242,
+    "active": 341
   }
 }
