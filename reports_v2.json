@@ -1,24 +1,24 @@
 {
-  "confirmed": 30824353,
-  "recovered": 29957090,
-  "dead": 407537,
-  "active": 447503,
-  "updatedTime": "10/07/2021 20:45:31",
+  "confirmed": 30833008,
+  "recovered": 29963603,
+  "dead": 408035,
+  "active": 449140,
+  "updatedTime": "10/07/2021 21:49:31",
   "states": {
     "AN": {
       "name": "Andaman and Nicobar",
       "confirmed": 7492,
-      "active": 12,
+      "active": 11,
       "recovered": 7352,
-      "dead": 128,
-      "updatedTime": "09/07/2021 21:42:31",
+      "dead": 129,
+      "updatedTime": "10/07/2021 21:49:34",
       "note": "",
       "stateCode": "AN",
       "today": {
         "confirmed": 0,
         "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "dead": 1,
+        "active": -1
       },
       "testing_data": {
         "tested": 416815,
@@ -151,18 +151,18 @@
     },
     "CT": {
       "name": "Chhattisgarh",
-      "confirmed": 997426,
-      "active": 4993,
-      "recovered": 978961,
-      "dead": 13472,
-      "updatedTime": "09/07/2021 23:49:32",
+      "confirmed": 997785,
+      "active": 4862,
+      "recovered": 979448,
+      "dead": 13475,
+      "updatedTime": "10/07/2021 21:49:36",
       "note": "",
       "stateCode": "CT",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 359,
+        "recovered": 487,
+        "dead": 3,
+        "active": -131
       },
       "testing_data": {
         "tested": 10634379,
@@ -487,18 +487,18 @@
     },
     "MH": {
       "name": "Maharashtra",
-      "confirmed": 6140968,
-      "active": 112231,
-      "recovered": 5900440,
-      "dead": 125034,
-      "updatedTime": "09/07/2021 20:50:32",
+      "confirmed": 6149264,
+      "active": 114000,
+      "recovered": 5906466,
+      "dead": 125528,
+      "updatedTime": "10/07/2021 21:49:39",
       "note": "[Dec 16]:10,218 duplicate cases & other state cases removed from total cases.791 recovered cases also removed from total recovered cases while reconciling \n[Sep 9] :239 cases have been removed from the hospitalized figures owing to the removal of duplicates and change of addresses as per the original residence\n[Aug 15] : MH bulletin has reduced 819 confirmed cases in Mumbai and 72 confirmed cases from 'Other States' from the tally\n[Jun 16] : 1328 deceased cases have been retroactively added to MH bulletin.\n[Jun 20] : 69 deceased cases have been reduced based on state bulletin.",
       "stateCode": "MH",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 8296,
+        "recovered": 6026,
+        "dead": 494,
+        "active": 1776
       },
       "testing_data": {
         "tested": 43800139,
@@ -693,12 +693,12 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 12232083,
+        "tested": 12278046,
         "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "09/07/2021",
-        "source": "https://twitter.com/airnews_jaipur/status/1413507366868295685"
+        "date": "10/07/2021",
+        "source": "https://twitter.com/airnews_jaipur/status/1413880037623877635"
       }
     },
     "SK": {
@@ -878,17 +878,17 @@
         "active": -386
       },
       "testing_data": {
-        "tested": 14665147,
+        "tested": 14717688,
         "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "09/07/2021",
-        "source": "https://www.wbhealth.gov.in/uploaded_files/corona/WB_DHFW_Bulletin_9th_JULY_REPORT_FINAL1.pdf"
+        "date": "10/07/2021",
+        "source": "https://www.wbhealth.gov.in/uploaded_files/corona/WB_DHFW_Bulletin_10th_JULY_REPORT_FINAL1.pdf"
       }
     }
   },
   "testing_data": {
-    "tested": 462360031,
+    "tested": 462458535,
     "positive": 426867,
     "negative": 53215765,
     "unconfirmed": 8923
@@ -898,9 +898,9 @@
     "source": "https://twitter.com/ICMRDELHI/status/1413702619613200384"
   },
   "today": {
-    "confirmed": 29585,
-    "recovered": 31075,
-    "dead": 363,
-    "active": -1853
+    "confirmed": 38240,
+    "recovered": 37588,
+    "dead": 861,
+    "active": -209
   }
 }
