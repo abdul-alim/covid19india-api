@@ -1,9 +1,9 @@
 {
-  "confirmed": 30824019,
-  "recovered": 29956728,
-  "dead": 407524,
-  "active": 447545,
-  "updatedTime": "10/07/2021 20:16:34",
+  "confirmed": 30824353,
+  "recovered": 29957090,
+  "dead": 407537,
+  "active": 447503,
+  "updatedTime": "10/07/2021 20:44:31",
   "states": {
     "AN": {
       "name": "Andaman and Nicobar",
@@ -271,26 +271,26 @@
     },
     "HR": {
       "name": "Haryana",
-      "confirmed": 769205,
-      "active": 993,
-      "recovered": 758678,
-      "dead": 9534,
-      "updatedTime": "09/07/2021 20:26:37",
+      "confirmed": 769243,
+      "active": 973,
+      "recovered": 758728,
+      "dead": 9542,
+      "updatedTime": "10/07/2021 20:44:33",
       "note": "",
       "stateCode": "HR",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 38,
+        "recovered": 50,
+        "dead": 8,
+        "active": -20
       },
       "testing_data": {
-        "tested": 10311915,
+        "tested": 10343409,
         "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "09/07/2021",
-        "source": "http://www.nhmharyana.gov.in/WriteReadData/userfiles/file/CoronaVirus/Daily%20Bulletin%20of%20COVID%2019%20as%20on%2009-07-2021.pdf"
+        "date": "10/07/2021",
+        "source": "http://www.nhmharyana.gov.in/WriteReadData/userfiles/file/CoronaVirus/Daily%20Bulletin%20of%20COVID%2019%20as%20on%2010-07-2021.pdf"
       }
     },
     "HP": {
@@ -333,12 +333,12 @@
         "active": -172
       },
       "testing_data": {
-        "tested": 10501931,
+        "tested": 10560499,
         "positive": 0,
-        "negative": 10183647,
+        "negative": 10242030,
         "unconfirmed": 0,
-        "date": "09/07/2021",
-        "source": "https://twitter.com/diprjk/status/1413482280853512197"
+        "date": "10/07/2021",
+        "source": "https://twitter.com/diprjk/status/1413862946514489348"
       }
     },
     "JH": {
@@ -381,12 +381,12 @@
         "active": -765
       },
       "testing_data": {
-        "tested": 35630054,
+        "tested": 35775720,
         "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "09/07/2021",
-        "source": "https://t.co/GDq3PMYXIP?amp=1"
+        "date": "10/07/2021",
+        "source": "https://t.co/m9r5YFHLLe?amp=1"
       }
     },
     "KL": {
@@ -703,18 +703,18 @@
     },
     "SK": {
       "name": "Sikkim",
-      "confirmed": 21965,
-      "active": 2177,
-      "recovered": 19219,
-      "dead": 312,
-      "updatedTime": "09/07/2021 17:43:34",
+      "confirmed": 22163,
+      "active": 2244,
+      "recovered": 19348,
+      "dead": 313,
+      "updatedTime": "10/07/2021 20:44:36",
       "note": "",
       "stateCode": "SK",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 198,
+        "recovered": 129,
+        "dead": 1,
+        "active": 68
       },
       "testing_data": {
         "tested": 172750,
@@ -816,18 +816,18 @@
     },
     "UP": {
       "name": "Uttar Pradesh",
-      "confirmed": 1707127,
-      "active": 1697,
-      "recovered": 1682741,
-      "dead": 22689,
-      "updatedTime": "09/07/2021 21:16:31",
+      "confirmed": 1707225,
+      "active": 1608,
+      "recovered": 1682924,
+      "dead": 22693,
+      "updatedTime": "10/07/2021 20:36:00",
       "note": "[Jan 1]:As no bulletin was provided for 31'st Dec'20,its count has been combined with 1st Jan'21\n[Jan 9]:Due to reconcillation there are 1286 cases.",
       "stateCode": "UP",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 98,
+        "recovered": 183,
+        "dead": 4,
+        "active": -89
       },
       "testing_data": {
         "tested": 60377016,
@@ -844,7 +844,7 @@
       "active": 1165,
       "recovered": 326651,
       "dead": 7338,
-      "updatedTime": "10/07/2021 20:16:41",
+      "updatedTime": "10/07/2021 20:26:41",
       "note": "[Oct 30]: Metric of capturing the testing data has switched to \"Samples Tested\" from \"Samples Collected\"\n[Jun 30th'21]:145 confirmed cases and 218 deceased cases added of previous days after reconciliation with district and ICMR portal",
       "stateCode": "UT",
       "today": {
@@ -888,9 +888,9 @@
     }
   },
   "testing_data": {
-    "tested": 461666299,
+    "tested": 461902027,
     "positive": 426867,
-    "negative": 53149761,
+    "negative": 53208144,
     "unconfirmed": 8923
   },
   "testing_data_imcr": {
@@ -898,9 +898,9 @@
     "source": "https://twitter.com/ICMRDELHI/status/1413702619613200384"
   },
   "today": {
-    "confirmed": 29251,
-    "recovered": 30713,
-    "dead": 350,
-    "active": -1812
+    "confirmed": 29585,
+    "recovered": 31075,
+    "dead": 363,
+    "active": -1853
   }
 }
