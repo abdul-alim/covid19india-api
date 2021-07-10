@@ -1,9 +1,9 @@
 {
-  "confirmed": 30803318,
-  "recovered": 29933469,
-  "dead": 407299,
-  "active": 450328,
-  "updatedTime": "10/07/2021 19:15:29",
+  "confirmed": 30817483,
+  "recovered": 29945419,
+  "dead": 407409,
+  "active": 452433,
+  "updatedTime": "10/07/2021 19:32:34",
   "states": {
     "AN": {
       "name": "Andaman and Nicobar",
@@ -175,16 +175,16 @@
     },
     "DN": {
       "name": "Dadra and Nagar Haveli and Daman and Diu",
-      "confirmed": 10585,
+      "confirmed": 10587,
       "active": 25,
-      "recovered": 10525,
+      "recovered": 10527,
       "dead": 4,
       "updatedTime": "10/07/2021 19:08:33",
       "note": "",
       "stateCode": "DN",
       "today": {
-        "confirmed": 2,
-        "recovered": 0,
+        "confirmed": 4,
+        "recovered": 2,
         "dead": 0,
         "active": 2
       },
@@ -199,18 +199,18 @@
     },
     "DL": {
       "name": "Delhi",
-      "confirmed": 1434954,
-      "active": 798,
-      "recovered": 1409145,
-      "dead": 25011,
-      "updatedTime": "09/07/2021 17:51:31",
+      "confirmed": 1435030,
+      "active": 792,
+      "recovered": 1409226,
+      "dead": 25012,
+      "updatedTime": "10/07/2021 19:32:38",
       "note": "[July 14]: Value for the total tests conducted has been reduced by 97008 in the state bulletin. Reason given : \"Reconciled with ICMR figures\". We have made the same change.",
       "stateCode": "DL",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 76,
+        "recovered": 81,
+        "dead": 1,
+        "active": -6
       },
       "testing_data": {
         "tested": 22145913,
@@ -391,18 +391,18 @@
     },
     "KL": {
       "name": "Kerala",
-      "confirmed": 3039029,
-      "active": 113120,
-      "recovered": 2911054,
-      "dead": 14380,
-      "updatedTime": "09/07/2021 19:31:32",
+      "confirmed": 3053116,
+      "active": 115231,
+      "recovered": 2922921,
+      "dead": 14489,
+      "updatedTime": "10/07/2021 19:32:50",
       "note": "",
       "stateCode": "KL",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 14087,
+        "recovered": 11867,
+        "dead": 109,
+        "active": 2111
       },
       "testing_data": {
         "tested": 24176318,
@@ -563,7 +563,7 @@
       "active": 4208,
       "recovered": 19240,
       "dead": 103,
-      "updatedTime": "10/07/2021 19:15:31",
+      "updatedTime": "10/07/2021 19:16:32",
       "note": "",
       "stateCode": "MZ",
       "today": {
@@ -772,7 +772,7 @@
       "active": 10724,
       "recovered": 616769,
       "dead": 3725,
-      "updatedTime": "10/07/2021 19:15:33",
+      "updatedTime": "10/07/2021 19:16:34",
       "note": "[July 27] : Telangana bulletin for the previous day is released on the next day. We will add the cases for Telangana against the date of release, as that is the convention that we are following for other states.",
       "stateCode": "TG",
       "today": {
@@ -830,12 +830,12 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 60101058,
+        "tested": 60377016,
         "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "09/07/2021",
-        "source": "https://twitter.com/ShishirGoUP/status/1413366307559378953"
+        "date": "10/07/2021",
+        "source": "https://twitter.com/ShishirGoUP/status/1413728761409794051?s=20"
       }
     },
     "UT": {
@@ -854,12 +854,12 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 5759406,
+        "tested": 5788696,
         "positive": 0,
-        "negative": 5418318,
-        "unconfirmed": 8560,
-        "date": "09/07/2021",
-        "source": "https://health.uk.gov.in/files/2021.07.09_Health_Bulletin.pdf"
+        "negative": 5447559,
+        "unconfirmed": 7612,
+        "date": "10/07/2021",
+        "source": "https://health.uk.gov.in/files/2021.07.10_Health_Bulletin.pdf"
       }
     },
     "WB": {
@@ -868,7 +868,7 @@
       "active": 15304,
       "recovered": 1477998,
       "dead": 17903,
-      "updatedTime": "10/07/2021 19:15:35",
+      "updatedTime": "10/07/2021 19:24:34",
       "note": "",
       "stateCode": "WB",
       "today": {
@@ -888,19 +888,19 @@
     }
   },
   "testing_data": {
-    "tested": 460943717,
+    "tested": 461248965,
     "positive": 426456,
-    "negative": 52993609,
-    "unconfirmed": 11197
+    "negative": 53022850,
+    "unconfirmed": 10249
   },
   "testing_data_imcr": {
     "tested": 429041970,
     "source": "https://twitter.com/ICMRDELHI/status/1413702619613200384"
   },
   "today": {
-    "confirmed": 8550,
-    "recovered": 7454,
-    "dead": 125,
-    "active": 971
+    "confirmed": 22715,
+    "recovered": 19404,
+    "dead": 235,
+    "active": 3076
   }
 }
