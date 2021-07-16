@@ -1,24 +1,24 @@
 {
-  "confirmed": 31059025,
-  "recovered": 30213496,
-  "dead": 413048,
-  "active": 420161,
-  "updatedTime": "16/07/2021 21:17:37",
+  "confirmed": 31061653,
+  "recovered": 30216841,
+  "dead": 413097,
+  "active": 419395,
+  "updatedTime": "16/07/2021 21:26:34",
   "states": {
     "AN": {
       "name": "Andaman and Nicobar",
-      "confirmed": 7501,
-      "active": 13,
-      "recovered": 7359,
+      "confirmed": 7505,
+      "active": 16,
+      "recovered": 7360,
       "dead": 129,
-      "updatedTime": "15/07/2021 21:30:39",
+      "updatedTime": "16/07/2021 21:26:36",
       "note": "",
       "stateCode": "AN",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 4,
+        "recovered": 1,
         "dead": 0,
-        "active": 0
+        "active": 3
       },
       "testing_data": {
         "tested": 422876,
@@ -151,18 +151,18 @@
     },
     "CT": {
       "name": "Chhattisgarh",
-      "confirmed": 999150,
-      "active": 4016,
-      "recovered": 981645,
-      "dead": 13489,
-      "updatedTime": "15/07/2021 22:17:36",
+      "confirmed": 999462,
+      "active": 3967,
+      "recovered": 982003,
+      "dead": 13492,
+      "updatedTime": "16/07/2021 21:26:38",
       "note": "",
       "stateCode": "CT",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 312,
+        "recovered": 358,
+        "dead": 3,
+        "active": -49
       },
       "testing_data": {
         "tested": 10843793,
@@ -443,7 +443,7 @@
       "active": 79,
       "recovered": 9885,
       "dead": 49,
-      "updatedTime": "15/07/2021 22:07:49",
+      "updatedTime": "16/07/2021 21:26:40",
       "note": "",
       "stateCode": "LD",
       "today": {
@@ -491,7 +491,7 @@
       "active": 101337,
       "recovered": 5965644,
       "dead": 126727,
-      "updatedTime": "16/07/2021 21:17:41",
+      "updatedTime": "16/07/2021 21:26:42",
       "note": "[Dec 16]:10,218 duplicate cases & other state cases removed from total cases.791 recovered cases also removed from total recovered cases while reconciling \n[Sep 9] :239 cases have been removed from the hospitalized figures owing to the removal of duplicates and change of addresses as per the original residence\n[Aug 15] : MH bulletin has reduced 819 confirmed cases in Mumbai and 72 confirmed cases from 'Other States' from the tally\n[Jun 16] : 1328 deceased cases have been retroactively added to MH bulletin.\n[Jun 20] : 69 deceased cases have been reduced based on state bulletin.",
       "stateCode": "MH",
       "today": {
@@ -659,7 +659,7 @@
       "active": 1238,
       "recovered": 580677,
       "dead": 16215,
-      "updatedTime": "16/07/2021 21:17:59",
+      "updatedTime": "16/07/2021 21:26:44",
       "note": "",
       "stateCode": "PB",
       "today": {
@@ -744,18 +744,18 @@
     },
     "TN": {
       "name": "Tamil Nadu",
-      "confirmed": 2528806,
-      "active": 29950,
-      "recovered": 2465250,
-      "dead": 33606,
-      "updatedTime": "15/07/2021 20:21:42",
+      "confirmed": 2531118,
+      "active": 29230,
+      "recovered": 2468236,
+      "dead": 33652,
+      "updatedTime": "16/07/2021 21:26:46",
       "note": "[June 29 2021]: TN has introduced a new district \"Mayiladuthurai\" in the bulletin and has assigned cases from Nagapattinam to the new district.\n[July 22]: 444 backdated deceased entries added to Chennai in TN bulletin.\n2 deaths cross notified to other states from Chennai and Coimbatore.\n1 patient died after turning negative for infection in Chengalpattu.\nThese cases have been added to TN deceased tally",
       "stateCode": "TN",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 2312,
+        "recovered": 2986,
+        "dead": 46,
+        "active": -720
       },
       "testing_data": {
         "tested": 35119946,
@@ -898,9 +898,9 @@
     "source": "https://twitter.com/ICMRDELHI/status/1415871011413581825"
   },
   "today": {
-    "confirmed": 33147,
-    "recovered": 37182,
-    "dead": 485,
-    "active": -4520
+    "confirmed": 35775,
+    "recovered": 40527,
+    "dead": 534,
+    "active": -5286
   }
 }
