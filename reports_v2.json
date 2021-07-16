@@ -1,9 +1,9 @@
 {
-  "confirmed": 31025878,
-  "recovered": 30176314,
-  "dead": 412563,
-  "active": 424692,
-  "updatedTime": "16/07/2021 08:56:33",
+  "confirmed": 31028637,
+  "recovered": 30179395,
+  "dead": 412580,
+  "active": 424353,
+  "updatedTime": "16/07/2021 18:16:37",
   "states": {
     "AN": {
       "name": "Andaman and Nicobar",
@@ -21,36 +21,36 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 421940,
-        "positive": 7499,
+        "tested": 422876,
+        "positive": 7501,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "14/07/2021",
-        "source": "https://dhs.andaman.gov.in/NewEvents/733.pdf"
+        "date": "15/07/2021",
+        "source": "https://dhs.andaman.gov.in/NewEvents/734.pdf"
       }
     },
     "AP": {
       "name": "Andhra Pradesh",
-      "confirmed": 1932105,
-      "active": 25526,
-      "recovered": 1893498,
-      "dead": 13081,
-      "updatedTime": "15/07/2021 19:24:20",
+      "confirmed": 1934450,
+      "active": 24854,
+      "recovered": 1896499,
+      "dead": 13097,
+      "updatedTime": "16/07/2021 18:16:39",
       "note": "",
       "stateCode": "AP",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 2345,
+        "recovered": 3001,
+        "dead": 16,
+        "active": -672
       },
       "testing_data": {
-        "tested": 23314697,
+        "tested": 23396437,
         "positive": 0,
-        "negative": 2023364,
+        "negative": 21461987,
         "unconfirmed": 0,
-        "date": "15/07/2021",
-        "source": "https://twitter.com/ArogyaAndhra/status/1415646483521499138"
+        "date": "16/07/2021",
+        "source": "https://twitter.com/ArogyaAndhra/status/1416003493228253184"
       }
     },
     "AR": {
@@ -176,17 +176,17 @@
     "DN": {
       "name": "Dadra and Nagar Haveli and Daman and Diu",
       "confirmed": 10594,
-      "active": 23,
-      "recovered": 10536,
+      "active": 22,
+      "recovered": 10537,
       "dead": 4,
-      "updatedTime": "14/07/2021 19:12:42",
+      "updatedTime": "16/07/2021 18:16:42",
       "note": "",
       "stateCode": "DN",
       "today": {
         "confirmed": 0,
-        "recovered": 0,
+        "recovered": 1,
         "dead": 0,
-        "active": 0
+        "active": -1
       },
       "testing_data": {
         "tested": 72410,
@@ -199,26 +199,26 @@
     },
     "DL": {
       "name": "Delhi",
-      "confirmed": 1435353,
-      "active": 671,
-      "recovered": 1409660,
-      "dead": 25022,
-      "updatedTime": "15/07/2021 19:34:05",
+      "confirmed": 1435419,
+      "active": 657,
+      "recovered": 1409739,
+      "dead": 25023,
+      "updatedTime": "16/07/2021 18:16:44",
       "note": "[July 14]: Value for the total tests conducted has been reduced by 97008 in the state bulletin. Reason given : \"Reconciled with ICMR figures\". We have made the same change.",
       "stateCode": "DL",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 66,
+        "recovered": 79,
+        "dead": 1,
+        "active": -14
       },
       "testing_data": {
-        "tested": 22572277,
+        "tested": 22648736,
         "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "15/07/2021",
-        "source": "https://twitter.com/ANI/status/1415611994959319049?s=20"
+        "date": "16/07/2021",
+        "source": "https://twitter.com/ANI/status/1415999530105860102"
       }
     },
     "GA": {
@@ -559,26 +559,26 @@
     },
     "MZ": {
       "name": "Mizoram",
-      "confirmed": 25751,
-      "active": 5157,
+      "confirmed": 26099,
+      "active": 5505,
       "recovered": 20478,
       "dead": 116,
-      "updatedTime": "15/07/2021 23:32:53",
+      "updatedTime": "16/07/2021 18:16:47",
       "note": "",
       "stateCode": "MZ",
       "today": {
-        "confirmed": 0,
+        "confirmed": 348,
         "recovered": 0,
         "dead": 0,
-        "active": 0
+        "active": 348
       },
       "testing_data": {
-        "tested": 537915,
+        "tested": 542452,
         "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "15/07/2021",
-        "source": "https://dipr.mizoram.gov.in/post/covid-19-positive-thar-581-hmuhchhuah-a-ni"
+        "date": "16/07/2021",
+        "source": "https://dipr.mizoram.gov.in/post/covid-19-positive-thar-456-hmuhchhuah-a-ni"
       }
     },
     "NL": {
@@ -888,9 +888,9 @@
     }
   },
   "testing_data": {
-    "tested": 472658812,
-    "positive": 1221202,
-    "negative": 34774392,
+    "tested": 472822484,
+    "positive": 1221204,
+    "negative": 54213015,
     "unconfirmed": 12519
   },
   "testing_data_imcr": {
@@ -898,9 +898,9 @@
     "source": "https://twitter.com/ICMRDELHI/status/1415871011413581825"
   },
   "today": {
-    "confirmed": 0,
-    "recovered": 0,
-    "dead": 0,
-    "active": 0
+    "confirmed": 2759,
+    "recovered": 3081,
+    "dead": 17,
+    "active": -339
   }
 }
