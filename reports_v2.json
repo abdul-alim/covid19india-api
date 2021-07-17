@@ -1,9 +1,9 @@
 {
-  "confirmed": 31090237,
-  "recovered": 30242041,
-  "dead": 413406,
-  "active": 422457,
-  "updatedTime": "17/07/2021 20:08:48",
+  "confirmed": 31091136,
+  "recovered": 30243083,
+  "dead": 413414,
+  "active": 422306,
+  "updatedTime": "17/07/2021 20:17:35",
   "states": {
     "AN": {
       "name": "Andaman and Nicobar",
@@ -21,12 +21,12 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 422876,
-        "positive": 7501,
+        "tested": 423910,
+        "positive": 7505,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "15/07/2021",
-        "source": "https://dhs.andaman.gov.in/NewEvents/734.pdf"
+        "date": "16/07/2021",
+        "source": "https://dhs.andaman.gov.in/NewEvents/735.pdf"
       }
     },
     "AP": {
@@ -117,12 +117,12 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 35117677,
+        "tested": 35250772,
         "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "16/07/2021",
-        "source": "https://twitter.com/BiharHealthDept/status/1416048417797672964"
+        "date": "17/07/2021",
+        "source": "https://twitter.com/BiharHealthDept/status/1416404942961614851"
       }
     },
     "CH": {
@@ -141,12 +141,12 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 592255,
+        "tested": 593875,
         "positive": 0,
-        "negative": 529113,
-        "unconfirmed": 4,
-        "date": "16/07/2021",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/9662"
+        "negative": 530724,
+        "unconfirmed": 5,
+        "date": "17/07/2021",
+        "source": ""
       }
     },
     "CT": {
@@ -844,7 +844,7 @@
       "active": 656,
       "recovered": 327412,
       "dead": 7356,
-      "updatedTime": "17/07/2021 20:09:04",
+      "updatedTime": "17/07/2021 20:17:38",
       "note": "[Oct 30]: Metric of capturing the testing data has switched to \"Samples Tested\" from \"Samples Collected\"\n[Jun 30th'21]:145 confirmed cases and 218 deceased cases added of previous days after reconciliation with district and ICMR portal",
       "stateCode": "UT",
       "today": {
@@ -864,18 +864,18 @@
     },
     "WB": {
       "name": "West Bengal",
-      "confirmed": 1516481,
-      "active": 13484,
-      "recovered": 1485017,
-      "dead": 17980,
-      "updatedTime": "16/07/2021 20:16:57",
+      "confirmed": 1517380,
+      "active": 13333,
+      "recovered": 1486059,
+      "dead": 17988,
+      "updatedTime": "17/07/2021 20:16:39",
       "note": "",
       "stateCode": "WB",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 899,
+        "recovered": 1042,
+        "dead": 8,
+        "active": -151
       },
       "testing_data": {
         "tested": 15086856,
@@ -888,19 +888,19 @@
     }
   },
   "testing_data": {
-    "tested": 475435696,
-    "positive": 1222199,
-    "negative": 54582362,
-    "unconfirmed": 12090
+    "tested": 475571445,
+    "positive": 1222203,
+    "negative": 54583973,
+    "unconfirmed": 12091
   },
   "testing_data_imcr": {
     "tested": 442021954,
     "source": "https://twitter.com/ICMRDELHI/status/1416241863481184257"
   },
   "today": {
-    "confirmed": 26244,
-    "recovered": 21849,
-    "dead": 283,
-    "active": 4112
+    "confirmed": 27143,
+    "recovered": 22891,
+    "dead": 291,
+    "active": 3961
   }
 }
