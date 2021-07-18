@@ -1,9 +1,9 @@
 {
-  "confirmed": 31115789,
-  "recovered": 30271568,
-  "dead": 413804,
-  "active": 418067,
-  "updatedTime": "18/07/2021 19:38:33",
+  "confirmed": 31125552,
+  "recovered": 30280791,
+  "dead": 413995,
+  "active": 418409,
+  "updatedTime": "18/07/2021 20:27:36",
   "states": {
     "AN": {
       "name": "Andaman and Nicobar",
@@ -103,18 +103,18 @@
     },
     "BR": {
       "name": "Bihar",
-      "confirmed": 723864,
-      "active": 754,
-      "recovered": 713482,
-      "dead": 9627,
-      "updatedTime": "17/07/2021 20:36:38",
+      "confirmed": 723945,
+      "active": 724,
+      "recovered": 713591,
+      "dead": 9629,
+      "updatedTime": "18/07/2021 20:27:42",
       "note": "[June 9] : 3951 deceased cases have been reported in the bulletin after reconciliation of records by the authorities",
       "stateCode": "BR",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 81,
+        "recovered": 109,
+        "dead": 2,
+        "active": -30
       },
       "testing_data": {
         "tested": 35250772,
@@ -199,18 +199,18 @@
     },
     "DL": {
       "name": "Delhi",
-      "confirmed": 1435478,
-      "active": 621,
-      "recovered": 1409830,
+      "confirmed": 1435529,
+      "active": 592,
+      "recovered": 1409910,
       "dead": 25027,
-      "updatedTime": "17/07/2021 19:14:37",
+      "updatedTime": "18/07/2021 20:27:44",
       "note": "[July 14]: Value for the total tests conducted has been reduced by 97008 in the state bulletin. Reason given : \"Reconciled with ICMR figures\". We have made the same change.",
       "stateCode": "DL",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 51,
+        "recovered": 80,
         "dead": 0,
-        "active": 0
+        "active": -29
       },
       "testing_data": {
         "tested": 22725157,
@@ -271,18 +271,18 @@
     },
     "HR": {
       "name": "Haryana",
-      "confirmed": 769504,
-      "active": 823,
-      "recovered": 759088,
-      "dead": 9593,
-      "updatedTime": "17/07/2021 20:45:43",
+      "confirmed": 769539,
+      "active": 817,
+      "recovered": 759123,
+      "dead": 9599,
+      "updatedTime": "18/07/2021 20:27:46",
       "note": "",
       "stateCode": "HR",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 35,
+        "recovered": 35,
+        "dead": 6,
+        "active": -6
       },
       "testing_data": {
         "tested": 10535792,
@@ -463,18 +463,18 @@
     },
     "MP": {
       "name": "Madhya Pradesh",
-      "confirmed": 791640,
-      "active": 221,
-      "recovered": 780907,
+      "confirmed": 791658,
+      "active": 219,
+      "recovered": 780927,
       "dead": 10512,
-      "updatedTime": "17/07/2021 20:45:48",
+      "updatedTime": "18/07/2021 20:27:49",
       "note": "[14 Oct'20]: 4469 confirmed cases and 4469 recoveries added in MP bulletin as reconciliation with private labs and hospitals\n[12 July'21] :1478 deceased cases have been added after reconciliation of deceased cases records from Home Isolation(208), Private Hospitals(762) and other districts data (508)",
       "stateCode": "MP",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 18,
+        "recovered": 20,
         "dead": 0,
-        "active": 0
+        "active": -2
       },
       "testing_data": {
         "tested": 13408288,
@@ -487,18 +487,18 @@
     },
     "MH": {
       "name": "Maharashtra",
-      "confirmed": 6205190,
-      "active": 100429,
-      "recovered": 5974594,
-      "dead": 126851,
-      "updatedTime": "17/07/2021 21:04:04",
+      "confirmed": 6214190,
+      "active": 103486,
+      "recovered": 5980350,
+      "dead": 127031,
+      "updatedTime": "18/07/2021 20:27:51",
       "note": "[Dec 16]:10,218 duplicate cases & other state cases removed from total cases.791 recovered cases also removed from total recovered cases while reconciling \n[Sep 9] :239 cases have been removed from the hospitalized figures owing to the removal of duplicates and change of addresses as per the original residence\n[Aug 15] : MH bulletin has reduced 819 confirmed cases in Mumbai and 72 confirmed cases from 'Other States' from the tally\n[Jun 16] : 1328 deceased cases have been retroactively added to MH bulletin.\n[Jun 20] : 69 deceased cases have been reduced based on state bulletin.",
       "stateCode": "MH",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 9000,
+        "recovered": 5756,
+        "dead": 180,
+        "active": 3064
       },
       "testing_data": {
         "tested": 45260468,
@@ -608,17 +608,17 @@
     "OR": {
       "name": "Odisha",
       "confirmed": 954326,
-      "active": 21289,
-      "recovered": 927926,
+      "active": 18797,
+      "recovered": 930418,
       "dead": 5111,
-      "updatedTime": "18/07/2021 18:23:59",
+      "updatedTime": "18/07/2021 20:27:53",
       "note": "[July 12th] :20 non-covid deaths reported in state dashboard are included in the deceased count",
       "stateCode": "OR",
       "today": {
         "confirmed": 2215,
-        "recovered": 0,
+        "recovered": 2492,
         "dead": 66,
-        "active": 2149
+        "active": -343
       },
       "testing_data": {
         "tested": 14988531,
@@ -768,18 +768,18 @@
     },
     "TG": {
       "name": "Telangana",
-      "confirmed": 636049,
-      "active": 9980,
-      "recovered": 622313,
-      "dead": 3756,
-      "updatedTime": "17/07/2021 21:05:46",
+      "confirmed": 636627,
+      "active": 9824,
+      "recovered": 623044,
+      "dead": 3759,
+      "updatedTime": "18/07/2021 20:27:56",
       "note": "[July 27] : Telangana bulletin for the previous day is released on the next day. We will add the cases for Telangana against the date of release, as that is the convention that we are following for other states.",
       "stateCode": "TG",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 578,
+        "recovered": 731,
+        "dead": 3,
+        "active": -156
       },
       "testing_data": {
         "tested": 20438922,
@@ -898,9 +898,9 @@
     "source": "https://twitter.com/ICMRDELHI/status/1416598162790227969"
   },
   "today": {
-    "confirmed": 10513,
-    "recovered": 9327,
-    "dead": 164,
-    "active": 1022
+    "confirmed": 20276,
+    "recovered": 18550,
+    "dead": 355,
+    "active": 1371
   }
 }
