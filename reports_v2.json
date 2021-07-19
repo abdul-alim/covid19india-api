@@ -1,9 +1,9 @@
 {
-  "confirmed": 31170222,
-  "recovered": 30340248,
+  "confirmed": 31170246,
+  "recovered": 30342570,
   "dead": 414475,
-  "active": 403122,
-  "updatedTime": "19/07/2021 21:13:34",
+  "active": 400824,
+  "updatedTime": "19/07/2021 21:34:36",
   "states": {
     "AN": {
       "name": "Andaman and Nicobar",
@@ -213,12 +213,12 @@
         "active": -25
       },
       "testing_data": {
-        "tested": 22796703,
+        "tested": 22856113,
         "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "18/07/2021",
-        "source": "https://twitter.com/ANI/status/1416763578921545732"
+        "date": "19/07/2021",
+        "source": "https://twitter.com/ANI/status/1417081859045957633"
       }
     },
     "GA": {
@@ -247,18 +247,18 @@
     },
     "GJ": {
       "name": "Gujarat",
-      "confirmed": 824493,
-      "active": 493,
-      "recovered": 813924,
+      "confirmed": 824517,
+      "active": 443,
+      "recovered": 813998,
       "dead": 10076,
-      "updatedTime": "18/07/2021 21:14:53",
+      "updatedTime": "19/07/2021 21:34:39",
       "note": "",
       "stateCode": "GJ",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 24,
+        "recovered": 74,
         "dead": 0,
-        "active": 0
+        "active": -50
       },
       "testing_data": {
         "tested": 24682324,
@@ -395,7 +395,7 @@
       "active": 121706,
       "recovered": 3033258,
       "dead": 15408,
-      "updatedTime": "19/07/2021 21:13:36",
+      "updatedTime": "19/07/2021 21:23:45",
       "note": "",
       "stateCode": "KL",
       "today": {
@@ -405,12 +405,12 @@
         "active": -3333
       },
       "testing_data": {
-        "tested": 25341594,
+        "tested": 25431248,
         "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "18/07/2021",
-        "source": "https://dhs.kerala.gov.in/wp-content/uploads/2021/07/Bulletin-HFWD-English-July-18.pdf"
+        "date": "19/07/2021",
+        "source": "https://dhs.kerala.gov.in/wp-content/uploads/2021/07/Bulletin-HFWD-English-July-19.pdf"
       }
     },
     "LA": {
@@ -549,12 +549,12 @@
         "active": 54
       },
       "testing_data": {
-        "tested": 777412,
+        "tested": 780696,
         "positive": 0,
-        "negative": 720024,
+        "negative": 722921,
         "unconfirmed": 0,
-        "date": "18/07/2021",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/9729"
+        "date": "19/07/2021",
+        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/9748"
       }
     },
     "MZ": {
@@ -608,25 +608,25 @@
     "OR": {
       "name": "Odisha",
       "confirmed": 955974,
-      "active": 20387,
-      "recovered": 930418,
+      "active": 18139,
+      "recovered": 932666,
       "dead": 5169,
-      "updatedTime": "19/07/2021 19:00:47",
+      "updatedTime": "19/07/2021 21:34:42",
       "note": "[July 12th] :20 non-covid deaths reported in state dashboard are included in the deceased count",
       "stateCode": "OR",
       "today": {
         "confirmed": 1648,
-        "recovered": 0,
+        "recovered": 2248,
         "dead": 58,
-        "active": 1590
+        "active": -658
       },
       "testing_data": {
-        "tested": 15066050,
+        "tested": 15135862,
         "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "18/07/2021",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/9730"
+        "date": "19/07/2021",
+        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/9749"
       }
     },
     "PY": {
@@ -772,7 +772,7 @@
       "active": 9836,
       "recovered": 623773,
       "dead": 3764,
-      "updatedTime": "19/07/2021 21:13:38",
+      "updatedTime": "19/07/2021 21:18:44",
       "note": "[July 27] : Telangana bulletin for the previous day is released on the next day. We will add the cases for Telangana against the date of release, as that is the convention that we are following for other states.",
       "stateCode": "TG",
       "today": {
@@ -888,9 +888,9 @@
     }
   },
   "testing_data": {
-    "tested": 480041778,
+    "tested": 480263938,
     "positive": 1222953,
-    "negative": 55080997,
+    "negative": 55083894,
     "unconfirmed": 11305
   },
   "testing_data_imcr": {
@@ -898,9 +898,9 @@
     "source": "https://twitter.com/ICMRDELHI/status/1416967348045500418?s=19"
   },
   "today": {
-    "confirmed": 26616,
-    "recovered": 39462,
+    "confirmed": 26640,
+    "recovered": 41784,
     "dead": 334,
-    "active": -13180
+    "active": -15478
   }
 }
