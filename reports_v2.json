@@ -1,9 +1,9 @@
 {
-  "confirmed": 31264684,
-  "recovered": 30428444,
-  "dead": 419169,
-  "active": 404670,
-  "updatedTime": "22/07/2021 19:21:38",
+  "confirmed": 31265231,
+  "recovered": 30428892,
+  "dead": 419172,
+  "active": 404766,
+  "updatedTime": "22/07/2021 19:31:41",
   "states": {
     "AN": {
       "name": "Andaman and Nicobar",
@@ -141,11 +141,11 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 599618,
+        "tested": 600610,
         "positive": 0,
-        "negative": 536421,
-        "unconfirmed": 7,
-        "date": "21/07/2021",
+        "negative": 537408,
+        "unconfirmed": 9,
+        "date": "22/07/2021",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/9783"
       }
     },
@@ -213,12 +213,12 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 22984943,
+        "tested": 23043445,
         "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "21/07/2021",
-        "source": "https://twitter.com/CMODelhi/status/1417771929742692352"
+        "date": "22/07/2021",
+        "source": "https://twitter.com/ANI/status/1418142966753812484"
       }
     },
     "GA": {
@@ -563,7 +563,7 @@
       "active": 7039,
       "recovered": 22476,
       "dead": 130,
-      "updatedTime": "22/07/2021 19:21:41",
+      "updatedTime": "22/07/2021 19:31:46",
       "note": "",
       "stateCode": "MZ",
       "today": {
@@ -587,7 +587,7 @@
       "active": 1237,
       "recovered": 24494,
       "dead": 536,
-      "updatedTime": "22/07/2021 19:21:43",
+      "updatedTime": "22/07/2021 19:31:48",
       "note": "",
       "stateCode": "NL",
       "today": {
@@ -611,7 +611,7 @@
       "active": 19623,
       "recovered": 936950,
       "dead": 5361,
-      "updatedTime": "22/07/2021 19:21:44",
+      "updatedTime": "22/07/2021 19:31:50",
       "note": "[July 12th] :20 non-covid deaths reported in state dashboard are included in the deceased count",
       "stateCode": "OR",
       "today": {
@@ -635,7 +635,7 @@
       "active": 955,
       "recovered": 117265,
       "dead": 1783,
-      "updatedTime": "22/07/2021 19:21:46",
+      "updatedTime": "22/07/2021 19:30:48",
       "note": "",
       "stateCode": "PY",
       "today": {
@@ -703,18 +703,18 @@
     },
     "SK": {
       "name": "Sikkim",
-      "confirmed": 24047,
-      "active": 2616,
-      "recovered": 20841,
-      "dead": 326,
-      "updatedTime": "21/07/2021 19:55:35",
+      "confirmed": 24341,
+      "active": 2719,
+      "recovered": 21030,
+      "dead": 328,
+      "updatedTime": "22/07/2021 19:30:50",
       "note": "",
       "stateCode": "SK",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 294,
+        "recovered": 189,
+        "dead": 2,
+        "active": 103
       },
       "testing_data": {
         "tested": 183968,
@@ -792,18 +792,18 @@
     },
     "TR": {
       "name": "Tripura",
-      "confirmed": 74843,
-      "active": 4345,
-      "recovered": 69707,
-      "dead": 728,
-      "updatedTime": "21/07/2021 19:33:22",
+      "confirmed": 75096,
+      "active": 4338,
+      "recovered": 69966,
+      "dead": 729,
+      "updatedTime": "22/07/2021 19:30:52",
       "note": "[Aug 4]: Tripura bulletin for the previous day is released on the next day. We will add the cases for Tripura against the date of release, as that is the convention that we are following for other states.",
       "stateCode": "TR",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 253,
+        "recovered": 259,
+        "dead": 1,
+        "active": -7
       },
       "testing_data": {
         "tested": 1469720,
@@ -878,29 +878,29 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 15283709,
+        "tested": 15327518,
         "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "21/07/2021",
-        "source": "https://www.wbhealth.gov.in/uploaded_files/corona/WB_DHFW_Bulletin_21ST_JULY_REPORT_FINAL.pdf"
+        "date": "22/07/2021",
+        "source": "https://www.wbhealth.gov.in/uploaded_files/corona/WB_DHFW_Bulletin_22ND_JULY_REPORT_FINAL.pdf"
       }
     }
   },
   "testing_data": {
-    "tested": 485113732,
+    "tested": 485217035,
     "positive": 1141722,
-    "negative": 33797956,
-    "unconfirmed": 9825
+    "negative": 33798943,
+    "unconfirmed": 9827
   },
   "testing_data_imcr": {
     "tested": 450911712,
     "source": "https://twitter.com/ICMRDELHI/status/1418049732228775948"
   },
   "today": {
-    "confirmed": 7841,
-    "recovered": 6533,
-    "dead": 148,
-    "active": 1160
+    "confirmed": 8388,
+    "recovered": 6981,
+    "dead": 151,
+    "active": 1256
   }
 }
