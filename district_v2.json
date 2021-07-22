@@ -1407,15 +1407,15 @@
       {
         "district": "Gaya",
         "notes": "",
-        "active": 4,
+        "active": 1,
         "confirmed": 33901,
         "migratedother": 0,
-        "recovered": 33618,
+        "recovered": 33621,
         "dead": 279,
         "today": {
           "confirmed": 1,
-          "recovered": 0,
-          "active": 1,
+          "recovered": 3,
+          "active": -2,
           "dead": 0
         }
       },
@@ -1647,15 +1647,15 @@
       {
         "district": "Purnia",
         "notes": "",
-        "active": 10,
-        "confirmed": 24362,
+        "active": 12,
+        "confirmed": 24366,
         "migratedother": 0,
-        "recovered": 24172,
+        "recovered": 24174,
         "dead": 180,
         "today": {
-          "confirmed": 0,
-          "recovered": 0,
-          "active": 0,
+          "confirmed": 4,
+          "recovered": 2,
+          "active": 2,
           "dead": 0
         }
       },
@@ -1826,15 +1826,15 @@
       }
     ],
     "today": {
-      "confirmed": 57,
-      "active": 8,
-      "recovered": 49,
+      "confirmed": 61,
+      "active": 7,
+      "recovered": 54,
       "dead": 0
     },
-    "confirmed": 724226,
-    "recovered": 713996,
+    "confirmed": 724230,
+    "recovered": 713998,
     "dead": 9635,
-    "active": 594
+    "active": 596
   },
   "CH": {
     "state": "Chandigarh",
@@ -4979,7 +4979,7 @@
         "notes": "",
         "active": 5095,
         "confirmed": 89028,
-        "migratedother": 7,
+        "migratedother": 8,
         "recovered": 83751,
         "dead": 182,
         "today": {
@@ -5024,7 +5024,7 @@
         "notes": "",
         "active": 3985,
         "confirmed": 256413,
-        "migratedother": 52,
+        "migratedother": 55,
         "recovered": 251289,
         "dead": 1139,
         "today": {
@@ -5069,7 +5069,7 @@
         "notes": "",
         "active": 16385,
         "confirmed": 375941,
-        "migratedother": 28,
+        "migratedother": 29,
         "recovered": 358326,
         "dead": 1230,
         "today": {
@@ -5164,7 +5164,7 @@
     "confirmed": 3218015,
     "recovered": 3072895,
     "dead": 15740,
-    "active": 128882
+    "active": 128877
   },
   "LA": {
     "state": "Ladakh",
@@ -5217,29 +5217,29 @@
       {
         "district": "Lakshadweep",
         "notes": "",
-        "active": 112,
-        "confirmed": 10093,
+        "active": 108,
+        "confirmed": 10100,
         "migratedother": 40,
-        "recovered": 9933,
+        "recovered": 9944,
         "dead": 48,
         "today": {
-          "confirmed": 0,
-          "recovered": 0,
-          "active": 0,
+          "confirmed": 7,
+          "recovered": 11,
+          "active": -4,
           "dead": 0
         }
       }
     ],
     "today": {
-      "confirmed": 0,
-      "active": 0,
-      "recovered": 0,
+      "confirmed": 7,
+      "active": -4,
+      "recovered": 11,
       "dead": 0
     },
-    "confirmed": 10093,
-    "recovered": 9933,
+    "confirmed": 10100,
+    "recovered": 9944,
     "dead": 49,
-    "active": 71
+    "active": 67
   },
   "MH": {
     "state": "Maharashtra",
