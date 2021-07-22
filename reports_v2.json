@@ -1,9 +1,9 @@
 {
-  "confirmed": 31275487,
-  "recovered": 30440380,
-  "dead": 419342,
-  "active": 403361,
-  "updatedTime": "22/07/2021 20:00:39",
+  "confirmed": 31275559,
+  "recovered": 30440505,
+  "dead": 419346,
+  "active": 403304,
+  "updatedTime": "22/07/2021 20:11:36",
   "states": {
     "AN": {
       "name": "Andaman and Nicobar",
@@ -175,18 +175,18 @@
     },
     "DN": {
       "name": "Dadra and Nagar Haveli and Daman and Diu",
-      "confirmed": 10624,
-      "active": 35,
-      "recovered": 10554,
+      "confirmed": 10627,
+      "active": 36,
+      "recovered": 10556,
       "dead": 4,
-      "updatedTime": "22/07/2021 19:07:56",
+      "updatedTime": "22/07/2021 20:11:38",
       "note": "",
       "stateCode": "DN",
       "today": {
-        "confirmed": 1,
-        "recovered": 0,
+        "confirmed": 4,
+        "recovered": 2,
         "dead": 0,
-        "active": 1
+        "active": 2
       },
       "testing_data": {
         "tested": 72410,
@@ -275,7 +275,7 @@
       "active": 765,
       "recovered": 759287,
       "dead": 9613,
-      "updatedTime": "22/07/2021 19:59:48",
+      "updatedTime": "22/07/2021 20:11:40",
       "note": "",
       "stateCode": "HR",
       "today": {
@@ -299,7 +299,7 @@
       "active": 935,
       "recovered": 200352,
       "dead": 3493,
-      "updatedTime": "22/07/2021 19:59:50",
+      "updatedTime": "22/07/2021 20:00:54",
       "note": "",
       "stateCode": "HP",
       "today": {
@@ -491,7 +491,7 @@
       "active": 94168,
       "recovered": 6016506,
       "dead": 131038,
-      "updatedTime": "22/07/2021 20:00:02",
+      "updatedTime": "22/07/2021 20:11:42",
       "note": "[Dec 16]:10,218 duplicate cases & other state cases removed from total cases.791 recovered cases also removed from total recovered cases while reconciling \n[Sep 9] :239 cases have been removed from the hospitalized figures owing to the removal of duplicates and change of addresses as per the original residence\n[Aug 15] : MH bulletin has reduced 819 confirmed cases in Mumbai and 72 confirmed cases from 'Other States' from the tally\n[Jun 16] : 1328 deceased cases have been retroactively added to MH bulletin.\n[Jun 20] : 69 deceased cases have been reduced based on state bulletin.",
       "stateCode": "MH",
       "today": {
@@ -655,18 +655,18 @@
     },
     "PB": {
       "name": "Punjab",
-      "confirmed": 598521,
-      "active": 869,
-      "recovered": 581406,
-      "dead": 16246,
-      "updatedTime": "21/07/2021 22:32:46",
+      "confirmed": 598590,
+      "active": 811,
+      "recovered": 581529,
+      "dead": 16250,
+      "updatedTime": "22/07/2021 20:11:44",
       "note": "",
       "stateCode": "PB",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 69,
+        "recovered": 123,
+        "dead": 4,
+        "active": -58
       },
       "testing_data": {
         "tested": 11760706,
@@ -683,7 +683,7 @@
       "active": 360,
       "recovered": 944150,
       "dead": 8952,
-      "updatedTime": "22/07/2021 20:00:05",
+      "updatedTime": "22/07/2021 20:11:45",
       "note": "",
       "stateCode": "RJ",
       "today": {
@@ -748,7 +748,7 @@
       "active": 25526,
       "recovered": 2483676,
       "dead": 33838,
-      "updatedTime": "21/07/2021 20:35:49",
+      "updatedTime": "22/07/2021 20:11:48",
       "note": "[June 29 2021]: TN has introduced a new district \"Mayiladuthurai\" in the bulletin and has assigned cases from Nagapattinam to the new district.\n[July 22]: 444 backdated deceased entries added to Chennai in TN bulletin.\n2 deaths cross notified to other states from Chennai and Coimbatore.\n1 patient died after turning negative for infection in Chengalpattu.\nThese cases have been added to TN deceased tally",
       "stateCode": "TN",
       "today": {
@@ -844,7 +844,7 @@
       "active": 649,
       "recovered": 327606,
       "dead": 7359,
-      "updatedTime": "22/07/2021 20:00:07",
+      "updatedTime": "22/07/2021 20:11:50",
       "note": "[Oct 30]: Metric of capturing the testing data has switched to \"Samples Tested\" from \"Samples Collected\"\n[Jun 30th'21]:145 confirmed cases and 218 deceased cases added of previous days after reconciliation with district and ICMR portal",
       "stateCode": "UT",
       "today": {
@@ -854,12 +854,12 @@
         "active": 6
       },
       "testing_data": {
-        "tested": 6035217,
+        "tested": 6060032,
         "positive": 0,
-        "negative": 5693644,
-        "unconfirmed": 8922,
-        "date": "21/07/2021",
-        "source": "https://twitter.com/DDnews_dehradun/status/1417844788708012036"
+        "negative": 5718403,
+        "unconfirmed": 8876,
+        "date": "22/07/2021",
+        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/9812"
       }
     },
     "WB": {
@@ -888,19 +888,19 @@
     }
   },
   "testing_data": {
-    "tested": 485637496,
+    "tested": 485662311,
     "positive": 350018,
-    "negative": 33813527,
-    "unconfirmed": 9913
+    "negative": 33838286,
+    "unconfirmed": 9867
   },
   "testing_data_imcr": {
     "tested": 450911712,
     "source": "https://twitter.com/ICMRDELHI/status/1418049732228775948"
   },
   "today": {
-    "confirmed": 18644,
-    "recovered": 18469,
-    "dead": 321,
-    "active": -146
+    "confirmed": 18716,
+    "recovered": 18594,
+    "dead": 325,
+    "active": -203
   }
 }
