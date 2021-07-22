@@ -1,9 +1,9 @@
 {
-  "confirmed": 31261962,
-  "recovered": 30428067,
+  "confirmed": 31262587,
+  "recovered": 30428312,
   "dead": 419096,
-  "active": 402399,
-  "updatedTime": "22/07/2021 19:01:39",
+  "active": 402779,
+  "updatedTime": "22/07/2021 19:11:37",
   "states": {
     "AN": {
       "name": "Andaman and Nicobar",
@@ -35,7 +35,7 @@
       "active": 23571,
       "recovered": 1911812,
       "dead": 13209,
-      "updatedTime": "22/07/2021 19:01:42",
+      "updatedTime": "22/07/2021 19:07:53",
       "note": "",
       "stateCode": "AP",
       "today": {
@@ -179,7 +179,7 @@
       "active": 35,
       "recovered": 10554,
       "dead": 4,
-      "updatedTime": "22/07/2021 19:01:44",
+      "updatedTime": "22/07/2021 19:07:56",
       "note": "",
       "stateCode": "DN",
       "today": {
@@ -227,7 +227,7 @@
       "active": 1376,
       "recovered": 165700,
       "dead": 3123,
-      "updatedTime": "22/07/2021 19:01:46",
+      "updatedTime": "22/07/2021 19:07:58",
       "note": "",
       "stateCode": "GA",
       "today": {
@@ -323,7 +323,7 @@
       "active": 1513,
       "recovered": 314454,
       "dead": 4373,
-      "updatedTime": "22/07/2021 19:01:49",
+      "updatedTime": "22/07/2021 19:11:39",
       "note": "",
       "stateCode": "JK",
       "today": {
@@ -371,7 +371,7 @@
       "active": 24695,
       "recovered": 2828983,
       "dead": 36293,
-      "updatedTime": "22/07/2021 19:01:52",
+      "updatedTime": "22/07/2021 19:11:41",
       "note": "",
       "stateCode": "KA",
       "today": {
@@ -515,7 +515,7 @@
       "active": 10395,
       "recovered": 77147,
       "dead": 1436,
-      "updatedTime": "22/07/2021 19:01:54",
+      "updatedTime": "22/07/2021 19:11:43",
       "note": "[Dec 14]:824 out of 980 recovered cases are backdated.",
       "stateCode": "MN",
       "today": {
@@ -539,7 +539,7 @@
       "active": 4413,
       "recovered": 53945,
       "dead": 988,
-      "updatedTime": "22/07/2021 19:01:56",
+      "updatedTime": "22/07/2021 19:11:45",
       "note": "",
       "stateCode": "ML",
       "today": {
@@ -551,34 +551,34 @@
       "testing_data": {
         "tested": 795557,
         "positive": 0,
-        "negative": 0,
+        "negative": 736211,
         "unconfirmed": 0,
         "date": "22/07/2021",
-        "source": ""
+        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/9801"
       }
     },
     "MZ": {
       "name": "Mizoram",
-      "confirmed": 29020,
-      "active": 6662,
-      "recovered": 22231,
+      "confirmed": 29645,
+      "active": 7042,
+      "recovered": 22476,
       "dead": 127,
-      "updatedTime": "21/07/2021 20:15:52",
+      "updatedTime": "22/07/2021 19:11:50",
       "note": "",
       "stateCode": "MZ",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 625,
+        "recovered": 154,
         "dead": 0,
-        "active": 0
+        "active": 471
       },
       "testing_data": {
-        "tested": 565462,
+        "tested": 569840,
         "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "21/07/2021",
-        "source": "https://dipr.mizoram.gov.in/post/covid-19-positive-thar-725-hmuhchhuah-a-ni"
+        "date": "22/07/2021",
+        "source": "https://dipr.mizoram.gov.in/post/covid-19-positive-thar-625-hmuhchhuah-a-ni"
       }
     },
     "NL": {
@@ -888,9 +888,9 @@
     }
   },
   "testing_data": {
-    "tested": 484781522,
+    "tested": 484785900,
     "positive": 1216565,
-    "negative": 33049599,
+    "negative": 33785810,
     "unconfirmed": 9825
   },
   "testing_data_imcr": {
@@ -898,9 +898,9 @@
     "source": "https://twitter.com/ICMRDELHI/status/1418049732228775948"
   },
   "today": {
-    "confirmed": 5119,
-    "recovered": 6247,
+    "confirmed": 5744,
+    "recovered": 6401,
     "dead": 75,
-    "active": -1203
+    "active": -732
   }
 }
