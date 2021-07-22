@@ -1,9 +1,9 @@
 {
-  "confirmed": 31291679,
-  "recovered": 30460269,
-  "dead": 419503,
-  "active": 399498,
-  "updatedTime": "22/07/2021 23:52:36",
+  "confirmed": 31291704,
+  "recovered": 30460304,
+  "dead": 419502,
+  "active": 399489,
+  "updatedTime": "23/07/2021 00:11:38",
   "states": {
     "AN": {
       "name": "Andaman and Nicobar",
@@ -69,12 +69,12 @@
         "active": 14
       },
       "testing_data": {
-        "tested": 877444,
+        "tested": 884284,
         "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "21/07/2021",
-        "source": "https://twitter.com/DirHealth_ArPr/status/1417881652064182274"
+        "date": "22/07/2021",
+        "source": ""
       }
     },
     "AS": {
@@ -261,11 +261,11 @@
         "active": -19
       },
       "testing_data": {
-        "tested": 24878052,
+        "tested": 24945995,
         "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "21/07/2021",
+        "date": "22/07/2021",
         "source": "https://t.me/Covid19india_Auxiliary_Test_Data/9791"
       }
     },
@@ -343,26 +343,26 @@
     },
     "JH": {
       "name": "Jharkhand",
-      "confirmed": 346824,
-      "active": 315,
-      "recovered": 341387,
+      "confirmed": 346846,
+      "active": 305,
+      "recovered": 341419,
       "dead": 5122,
-      "updatedTime": "22/07/2021 00:35:52",
+      "updatedTime": "23/07/2021 00:11:40",
       "note": "",
       "stateCode": "JH",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 22,
+        "recovered": 32,
         "dead": 0,
-        "active": 0
+        "active": -10
       },
       "testing_data": {
-        "tested": 11066130,
-        "positive": 346824,
-        "negative": 10719296,
+        "tested": 11131066,
+        "positive": 0,
+        "negative": 10784210,
         "unconfirmed": 0,
-        "date": "21/07/2021",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/9798"
+        "date": "22/07/2021",
+        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/9817"
       }
     },
     "KA": {
@@ -816,18 +816,18 @@
     },
     "UP": {
       "name": "Uttar Pradesh",
-      "confirmed": 1708054,
-      "active": 1027,
-      "recovered": 1684283,
-      "dead": 22744,
-      "updatedTime": "22/07/2021 23:52:40",
+      "confirmed": 1708057,
+      "active": 1028,
+      "recovered": 1684286,
+      "dead": 22743,
+      "updatedTime": "23/07/2021 00:11:43",
       "note": "[Jan 1]:As no bulletin was provided for 31'st Dec'20,its count has been combined with 1st Jan'21\n[Jan 9]:Due to reconcillation there are 1286 cases.",
       "stateCode": "UP",
       "today": {
-        "confirmed": 49,
-        "recovered": 53,
-        "dead": 5,
-        "active": -9
+        "confirmed": 52,
+        "recovered": 56,
+        "dead": 4,
+        "active": -8
       },
       "testing_data": {
         "tested": 63307101,
@@ -888,9 +888,9 @@
     }
   },
   "testing_data": {
-    "tested": 486308880,
-    "positive": 350018,
-    "negative": 33838286,
+    "tested": 486448599,
+    "positive": 3194,
+    "negative": 33903200,
     "unconfirmed": 10495
   },
   "testing_data_imcr": {
@@ -898,9 +898,9 @@
     "source": "https://twitter.com/ICMRDELHI/status/1418049732228775948"
   },
   "today": {
-    "confirmed": 34836,
-    "recovered": 38358,
-    "dead": 482,
-    "active": -4004
+    "confirmed": 34861,
+    "recovered": 38393,
+    "dead": 481,
+    "active": -4013
   }
 }
