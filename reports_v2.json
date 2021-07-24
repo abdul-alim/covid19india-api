@@ -1,9 +1,9 @@
 {
-  "confirmed": 31341507,
-  "recovered": 30504747,
-  "dead": 420196,
-  "active": 404155,
-  "updatedTime": "24/07/2021 19:39:41",
+  "confirmed": 31342161,
+  "recovered": 30505504,
+  "dead": 420198,
+  "active": 404050,
+  "updatedTime": "24/07/2021 19:57:36",
   "states": {
     "AN": {
       "name": "Andaman and Nicobar",
@@ -127,18 +127,18 @@
     },
     "CH": {
       "name": "Chandigarh",
-      "confirmed": 61917,
-      "active": 33,
-      "recovered": 61075,
+      "confirmed": 61922,
+      "active": 32,
+      "recovered": 61081,
       "dead": 809,
-      "updatedTime": "23/07/2021 19:32:44",
+      "updatedTime": "24/07/2021 19:57:38",
       "note": "",
       "stateCode": "CH",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 5,
+        "recovered": 6,
         "dead": 0,
-        "active": 0
+        "active": -1
       },
       "testing_data": {
         "tested": 602003,
@@ -175,16 +175,16 @@
     },
     "DN": {
       "name": "Dadra and Nagar Haveli and Daman and Diu",
-      "confirmed": 10633,
+      "confirmed": 10635,
       "active": 41,
-      "recovered": 10557,
+      "recovered": 10559,
       "dead": 4,
       "updatedTime": "23/07/2021 22:18:43",
       "note": "",
       "stateCode": "DN",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 2,
+        "recovered": 2,
         "dead": 0,
         "active": 0
       },
@@ -299,7 +299,7 @@
       "active": 931,
       "recovered": 200571,
       "dead": 3497,
-      "updatedTime": "24/07/2021 19:39:44",
+      "updatedTime": "24/07/2021 19:47:40",
       "note": "",
       "stateCode": "HP",
       "today": {
@@ -515,7 +515,7 @@
       "active": 10251,
       "recovered": 79744,
       "dead": 1465,
-      "updatedTime": "24/07/2021 19:39:47",
+      "updatedTime": "24/07/2021 19:49:23",
       "note": "[Dec 14]:824 out of 980 recovered cases are backdated.",
       "stateCode": "MN",
       "today": {
@@ -768,18 +768,18 @@
     },
     "TG": {
       "name": "Telangana",
-      "confirmed": 640012,
-      "active": 9729,
-      "recovered": 626505,
-      "dead": 3778,
-      "updatedTime": "23/07/2021 20:33:51",
+      "confirmed": 640659,
+      "active": 9625,
+      "recovered": 627254,
+      "dead": 3780,
+      "updatedTime": "24/07/2021 19:57:41",
       "note": "[July 27] : Telangana bulletin for the previous day is released on the next day. We will add the cases for Telangana against the date of release, as that is the convention that we are following for other states.",
       "stateCode": "TG",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 647,
+        "recovered": 749,
+        "dead": 2,
+        "active": -104
       },
       "testing_data": {
         "tested": 21104249,
@@ -898,9 +898,9 @@
     "source": "https://twitter.com/ICMRDELHI/status/1418781481522982913"
   },
   "today": {
-    "confirmed": 10300,
-    "recovered": 9289,
-    "dead": 152,
-    "active": 859
+    "confirmed": 10954,
+    "recovered": 10046,
+    "dead": 154,
+    "active": 754
   }
 }
