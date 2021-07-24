@@ -1,9 +1,9 @@
 {
-  "confirmed": 31342161,
-  "recovered": 30505504,
-  "dead": 420198,
-  "active": 404050,
-  "updatedTime": "24/07/2021 19:57:36",
+  "confirmed": 31342227,
+  "recovered": 30505556,
+  "dead": 420199,
+  "active": 404060,
+  "updatedTime": "24/07/2021 20:15:36",
   "states": {
     "AN": {
       "name": "Andaman and Nicobar",
@@ -131,7 +131,7 @@
       "active": 32,
       "recovered": 61081,
       "dead": 809,
-      "updatedTime": "24/07/2021 19:57:38",
+      "updatedTime": "24/07/2021 20:12:43",
       "note": "",
       "stateCode": "CH",
       "today": {
@@ -199,18 +199,18 @@
     },
     "DL": {
       "name": "Delhi",
-      "confirmed": 1435778,
-      "active": 573,
-      "recovered": 1410164,
+      "confirmed": 1435844,
+      "active": 587,
+      "recovered": 1410216,
       "dead": 25041,
-      "updatedTime": "23/07/2021 19:32:52",
+      "updatedTime": "24/07/2021 20:15:39",
       "note": "[July 14]: Value for the total tests conducted has been reduced by 97008 in the state bulletin. Reason given : \"Reconciled with ICMR figures\". We have made the same change.",
       "stateCode": "DL",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 66,
+        "recovered": 52,
         "dead": 0,
-        "active": 0
+        "active": 14
       },
       "testing_data": {
         "tested": 23111262,
@@ -584,25 +584,25 @@
     "NL": {
       "name": "Nagaland",
       "confirmed": 27240,
-      "active": 1316,
+      "active": 1312,
       "recovered": 24630,
-      "dead": 537,
-      "updatedTime": "24/07/2021 19:29:42",
+      "dead": 538,
+      "updatedTime": "24/07/2021 20:16:06",
       "note": "",
       "stateCode": "NL",
       "today": {
         "confirmed": 124,
         "recovered": 59,
-        "dead": 0,
-        "active": 65
+        "dead": 1,
+        "active": 64
       },
       "testing_data": {
-        "tested": 252809,
+        "tested": 254260,
         "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "23/07/2021",
-        "source": "https://twitter.com/MyGovNagaland/status/1418552818915368961"
+        "date": "24/07/2021",
+        "source": ""
       }
     },
     "OR": {
@@ -772,7 +772,7 @@
       "active": 9625,
       "recovered": 627254,
       "dead": 3780,
-      "updatedTime": "24/07/2021 19:57:41",
+      "updatedTime": "24/07/2021 19:58:43",
       "note": "[July 27] : Telangana bulletin for the previous day is released on the next day. We will add the cases for Telangana against the date of release, as that is the convention that we are following for other states.",
       "stateCode": "TG",
       "today": {
@@ -888,7 +888,7 @@
     }
   },
   "testing_data": {
-    "tested": 488454074,
+    "tested": 488455525,
     "positive": 794926,
     "negative": 34075784,
     "unconfirmed": 13289
@@ -898,9 +898,9 @@
     "source": "https://twitter.com/ICMRDELHI/status/1418781481522982913"
   },
   "today": {
-    "confirmed": 10954,
-    "recovered": 10046,
-    "dead": 154,
-    "active": 754
+    "confirmed": 11020,
+    "recovered": 10098,
+    "dead": 155,
+    "active": 767
   }
 }
