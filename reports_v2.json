@@ -1,9 +1,9 @@
 {
-  "confirmed": 31442032,
-  "recovered": 30616248,
-  "dead": 421433,
-  "active": 391916,
-  "updatedTime": "27/07/2021 17:32:45",
+  "confirmed": 31442181,
+  "recovered": 30616400,
+  "dead": 421437,
+  "active": 391909,
+  "updatedTime": "27/07/2021 18:07:55",
   "states": {
     "AN": {
       "name": "Andaman and Nicobar",
@@ -175,16 +175,16 @@
     },
     "DN": {
       "name": "Dadra and Nagar Haveli and Daman and Diu",
-      "confirmed": 10640,
+      "confirmed": 10641,
       "active": 45,
-      "recovered": 10560,
+      "recovered": 10561,
       "dead": 4,
       "updatedTime": "26/07/2021 18:49:45",
       "note": "",
       "stateCode": "DN",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 1,
+        "recovered": 1,
         "dead": 0,
         "active": 0
       },
@@ -223,26 +223,26 @@
     },
     "GA": {
       "name": "Goa",
-      "confirmed": 170581,
-      "active": 1137,
-      "recovered": 166308,
-      "dead": 3136,
-      "updatedTime": "26/07/2021 18:49:47",
+      "confirmed": 170729,
+      "active": 1130,
+      "recovered": 166459,
+      "dead": 3140,
+      "updatedTime": "27/07/2021 18:07:59",
       "note": "",
       "stateCode": "GA",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 148,
+        "recovered": 151,
+        "dead": 4,
+        "active": -7
       },
       "testing_data": {
-        "tested": 1034324,
+        "tested": 1039002,
         "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "26/07/2021",
-        "source": "https://www.goa.gov.in/wp-content/uploads/2021/07/Media-Bulletin-26th-July-2021.pdf"
+        "date": "27/07/2021",
+        "source": "https://www.goa.gov.in/wp-content/uploads/2021/07/Media-Bulletin-27th-July-2021.pdf"
       }
     },
     "GJ": {
@@ -888,7 +888,7 @@
     }
   },
   "testing_data": {
-    "tested": 494271954,
+    "tested": 494276632,
     "positive": 79730,
     "negative": 56863324,
     "unconfirmed": 12673
@@ -898,9 +898,9 @@
     "source": "https://twitter.com/ICMRDELHI/status/1419859662753583105"
   },
   "today": {
-    "confirmed": 1540,
-    "recovered": 2304,
-    "dead": 19,
-    "active": -783
+    "confirmed": 1689,
+    "recovered": 2456,
+    "dead": 23,
+    "active": -790
   }
 }
