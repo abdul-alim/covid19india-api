@@ -1,9 +1,9 @@
 {
-  "confirmed": 31571299,
-  "recovered": 30736249,
-  "dead": 423244,
-  "active": 399311,
-  "updatedTime": "30/07/2021 09:38:09",
+  "confirmed": 31573431,
+  "recovered": 30738412,
+  "dead": 423269,
+  "active": 399255,
+  "updatedTime": "30/07/2021 18:42:08",
   "states": {
     "AN": {
       "name": "Andaman and Nicobar",
@@ -31,26 +31,26 @@
     },
     "AP": {
       "name": "Andhra Pradesh",
-      "confirmed": 1962049,
-      "active": 21279,
-      "recovered": 1927438,
-      "dead": 13332,
-      "updatedTime": "29/07/2021 20:42:24",
+      "confirmed": 1964117,
+      "active": 21198,
+      "recovered": 1929565,
+      "dead": 13354,
+      "updatedTime": "30/07/2021 18:42:10",
       "note": "",
       "stateCode": "AP",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 2068,
+        "recovered": 2127,
+        "dead": 22,
+        "active": -81
       },
       "testing_data": {
-        "tested": 24403410,
+        "tested": 24484051,
         "positive": 0,
-        "negative": 22441361,
+        "negative": 22519934,
         "unconfirmed": 0,
-        "date": "29/07/2021",
-        "source": "https://twitter.com/ArogyaAndhra/status/1420699592908185616"
+        "date": "30/07/2021",
+        "source": "https://twitter.com/ArogyaAndhra/status/1421070662517489666"
       }
     },
     "AR": {
@@ -175,18 +175,18 @@
     },
     "DN": {
       "name": "Dadra and Nagar Haveli and Daman and Diu",
-      "confirmed": 10646,
-      "active": 38,
-      "recovered": 10573,
+      "confirmed": 10647,
+      "active": 37,
+      "recovered": 10575,
       "dead": 4,
-      "updatedTime": "29/07/2021 20:37:29",
+      "updatedTime": "30/07/2021 18:42:12",
       "note": "",
       "stateCode": "DN",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 1,
+        "recovered": 2,
         "dead": 0,
-        "active": 0
+        "active": -1
       },
       "testing_data": {
         "tested": 72410,
@@ -199,26 +199,26 @@
     },
     "DL": {
       "name": "Delhi",
-      "confirmed": 1436144,
-      "active": 554,
-      "recovered": 1410541,
-      "dead": 25049,
-      "updatedTime": "29/07/2021 20:37:34",
+      "confirmed": 1436207,
+      "active": 580,
+      "recovered": 1410575,
+      "dead": 25052,
+      "updatedTime": "30/07/2021 18:42:15",
       "note": "[July 14]: Value for the total tests conducted has been reduced by 97008 in the state bulletin. Reason given : \"Reconciled with ICMR figures\". We have made the same change.",
       "stateCode": "DL",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 63,
+        "recovered": 34,
+        "dead": 3,
+        "active": 26
       },
       "testing_data": {
-        "tested": 23525771,
+        "tested": 23595882,
         "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "29/07/2021",
-        "source": "https://twitter.com/CMODelhi/status/1420674865401524229"
+        "date": "30/07/2021",
+        "source": ""
       }
     },
     "GA": {
@@ -888,9 +888,9 @@
     }
   },
   "testing_data": {
-    "tested": 500349681,
+    "tested": 500500433,
     "positive": 80979,
-    "negative": 57553908,
+    "negative": 57632481,
     "unconfirmed": 12626
   },
   "testing_data_imcr": {
@@ -898,9 +898,9 @@
     "source": "https://twitter.com/ICMRDELHI/status/1420946267396403200"
   },
   "today": {
-    "confirmed": 0,
-    "recovered": 0,
-    "dead": 0,
-    "active": 0
+    "confirmed": 2132,
+    "recovered": 2163,
+    "dead": 25,
+    "active": -56
   }
 }
