@@ -1,9 +1,9 @@
 {
-  "confirmed": 31619573,
-  "recovered": 30778218,
-  "dead": 423965,
-  "active": 404877,
-  "updatedTime": "31/07/2021 20:43:06",
+  "confirmed": 31619708,
+  "recovered": 30778337,
+  "dead": 423966,
+  "active": 404892,
+  "updatedTime": "31/07/2021 21:01:06",
   "states": {
     "AN": {
       "name": "Andaman and Nicobar",
@@ -35,7 +35,7 @@
       "active": 21180,
       "recovered": 1931618,
       "dead": 13377,
-      "updatedTime": "31/07/2021 20:43:22",
+      "updatedTime": "31/07/2021 20:53:07",
       "note": "",
       "stateCode": "AP",
       "today": {
@@ -141,12 +141,12 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 612441,
+        "tested": 613891,
         "positive": 0,
-        "negative": 549199,
-        "unconfirmed": 3,
-        "date": "30/07/2021",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/10002"
+        "negative": 550648,
+        "unconfirmed": 7,
+        "date": "31/07/2021",
+        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/10021"
       }
     },
     "CT": {
@@ -203,7 +203,7 @@
       "active": 581,
       "recovered": 1410631,
       "dead": 25053,
-      "updatedTime": "31/07/2021 20:43:24",
+      "updatedTime": "31/07/2021 20:53:08",
       "note": "[July 14]: Value for the total tests conducted has been reduced by 97008 in the state bulletin. Reason given : \"Reconciled with ICMR figures\". We have made the same change.",
       "stateCode": "DL",
       "today": {
@@ -227,7 +227,7 @@
       "active": 1058,
       "recovered": 166941,
       "dead": 3147,
-      "updatedTime": "31/07/2021 20:43:26",
+      "updatedTime": "31/07/2021 20:53:10",
       "note": "",
       "stateCode": "GA",
       "today": {
@@ -285,12 +285,12 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 10845751,
+        "tested": 10874081,
         "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "30/07/2021",
-        "source": "http://www.nhmharyana.gov.in/WriteReadData/userfiles/file/CoronaVirus/Daily%20Bulletin%20of%20COVID%2019%20as%20on%2030-07-2021.pdf"
+        "date": "31/07/2021",
+        "source": "http://www.nhmharyana.gov.in/WriteReadData/userfiles/file/CoronaVirus/Daily%20Bulletin%20of%20COVID%2019%20as%20on%2031-07-2021.pdf"
       }
     },
     "HP": {
@@ -309,28 +309,28 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 2821308,
+        "tested": 2834431,
         "positive": 0,
-        "negative": 2615200,
-        "unconfirmed": 234,
-        "date": "30/07/2021",
-        "source": "https://twitter.com/nhm_hp/status/1421113655366541319"
+        "negative": 2627525,
+        "unconfirmed": 0,
+        "date": "31/07/2021",
+        "source": "https://twitter.com/nhm_hp/status/1421477689811111936"
       }
     },
     "JK": {
       "name": "Jammu and Kashmir",
-      "confirmed": 321344,
-      "active": 1171,
-      "recovered": 315795,
+      "confirmed": 321462,
+      "active": 1192,
+      "recovered": 315892,
       "dead": 4378,
-      "updatedTime": "30/07/2021 19:58:07",
+      "updatedTime": "31/07/2021 21:01:08",
       "note": "",
       "stateCode": "JK",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 118,
+        "recovered": 97,
         "dead": 0,
-        "active": 0
+        "active": 21
       },
       "testing_data": {
         "tested": 11660513,
@@ -679,18 +679,18 @@
     },
     "RJ": {
       "name": "Rajasthan",
-      "confirmed": 953650,
-      "active": 254,
-      "recovered": 944443,
-      "dead": 8953,
-      "updatedTime": "30/07/2021 19:53:19",
+      "confirmed": 953667,
+      "active": 248,
+      "recovered": 944465,
+      "dead": 8954,
+      "updatedTime": "31/07/2021 21:01:10",
       "note": "",
       "stateCode": "RJ",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 17,
+        "recovered": 22,
+        "dead": 1,
+        "active": -6
       },
       "testing_data": {
         "tested": 12935008,
@@ -868,7 +868,7 @@
       "active": 11113,
       "recovered": 1498770,
       "dead": 18136,
-      "updatedTime": "30/07/2021 19:41:17",
+      "updatedTime": "31/07/2021 20:53:13",
       "note": "",
       "stateCode": "WB",
       "today": {
@@ -888,19 +888,19 @@
     }
   },
   "testing_data": {
-    "tested": 503411194,
+    "tested": 503454097,
     "positive": 81552,
-    "negative": 57915550,
-    "unconfirmed": 14290
+    "negative": 57929324,
+    "unconfirmed": 14060
   },
   "testing_data_imcr": {
     "tested": 466427038,
     "source": "https://twitter.com/ICMRDELHI/status/1421323445074153472"
   },
   "today": {
-    "confirmed": 6775,
-    "recovered": 4649,
-    "dead": 123,
-    "active": 2003
+    "confirmed": 6910,
+    "recovered": 4768,
+    "dead": 124,
+    "active": 2018
   }
 }
