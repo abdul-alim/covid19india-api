@@ -1,9 +1,9 @@
 {
-  "confirmed": 31695378,
-  "recovered": 30849685,
-  "dead": 424808,
-  "active": 408349,
-  "updatedTime": "02/08/2021 10:51:06",
+  "confirmed": 31699720,
+  "recovered": 30854221,
+  "dead": 424919,
+  "active": 408039,
+  "updatedTime": "02/08/2021 18:58:11",
   "states": {
     "AN": {
       "name": "Andaman and Nicobar",
@@ -21,28 +21,28 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 440870,
+        "tested": 442063,
         "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "31/07/2021",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/10046"
+        "date": "01/08/2021",
+        "source": "https://dhs.andaman.gov.in/NewEvents/752.pdf"
       }
     },
     "AP": {
       "name": "Andhra Pradesh",
-      "confirmed": 1968462,
-      "active": 21019,
-      "recovered": 1934048,
-      "dead": 13395,
-      "updatedTime": "01/08/2021 19:11:11",
+      "confirmed": 1970008,
+      "active": 20582,
+      "recovered": 1936016,
+      "dead": 13410,
+      "updatedTime": "02/08/2021 18:58:14",
       "note": "",
       "stateCode": "AP",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 1546,
+        "recovered": 1968,
+        "dead": 15,
+        "active": -437
       },
       "testing_data": {
         "tested": 24648899,
@@ -176,17 +176,17 @@
     "DN": {
       "name": "Dadra and Nagar Haveli and Daman and Diu",
       "confirmed": 10653,
-      "active": 27,
-      "recovered": 10591,
+      "active": 18,
+      "recovered": 10600,
       "dead": 4,
-      "updatedTime": "01/08/2021 20:51:08",
+      "updatedTime": "02/08/2021 18:58:16",
       "note": "",
       "stateCode": "DN",
       "today": {
         "confirmed": 0,
-        "recovered": 0,
+        "recovered": 9,
         "dead": 0,
-        "active": 0
+        "active": -9
       },
       "testing_data": {
         "tested": 72410,
@@ -223,18 +223,18 @@
     },
     "GA": {
       "name": "Goa",
-      "confirmed": 171205,
-      "active": 1011,
-      "recovered": 167046,
-      "dead": 3148,
-      "updatedTime": "01/08/2021 19:11:13",
+      "confirmed": 171295,
+      "active": 1027,
+      "recovered": 167118,
+      "dead": 3150,
+      "updatedTime": "02/08/2021 18:58:19",
       "note": "",
       "stateCode": "GA",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 90,
+        "recovered": 72,
+        "dead": 2,
+        "active": 16
       },
       "testing_data": {
         "tested": 1059718,
@@ -415,11 +415,11 @@
     },
     "LA": {
       "name": "Ladakh",
-      "confirmed": 20348,
-      "active": 62,
-      "recovered": 20079,
+      "confirmed": 20340,
+      "active": 57,
+      "recovered": 20076,
       "dead": 207,
-      "updatedTime": "02/08/2021 10:51:08",
+      "updatedTime": "02/08/2021 18:58:21",
       "note": "",
       "stateCode": "LA",
       "today": {
@@ -429,12 +429,12 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 435897,
+        "tested": 437692,
         "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "31/07/2021",
-        "source": "https://twitter.com/DIPR_Leh/status/1421645069426200579"
+        "date": "01/08/2021",
+        "source": "https://twitter.com/DIPR_Leh/status/1422081933735989250"
       }
     },
     "LD": {
@@ -535,18 +535,18 @@
     },
     "ML": {
       "name": "Meghalaya",
-      "confirmed": 65589,
-      "active": 6043,
-      "recovered": 58450,
-      "dead": 1096,
-      "updatedTime": "01/08/2021 19:19:26",
+      "confirmed": 65939,
+      "active": 5843,
+      "recovered": 58987,
+      "dead": 1109,
+      "updatedTime": "02/08/2021 18:58:24",
       "note": "",
       "stateCode": "ML",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 350,
+        "recovered": 537,
+        "dead": 13,
+        "active": -200
       },
       "testing_data": {
         "tested": 850097,
@@ -559,18 +559,18 @@
     },
     "MZ": {
       "name": "Mizoram",
-      "confirmed": 38925,
-      "active": 11751,
-      "recovered": 27024,
-      "dead": 150,
-      "updatedTime": "02/08/2021 01:31:14",
+      "confirmed": 39363,
+      "active": 11841,
+      "recovered": 27371,
+      "dead": 151,
+      "updatedTime": "02/08/2021 18:58:26",
       "note": "",
       "stateCode": "MZ",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 438,
+        "recovered": 347,
+        "dead": 1,
+        "active": 90
       },
       "testing_data": {
         "tested": 627155,
@@ -607,18 +607,18 @@
     },
     "OR": {
       "name": "Odisha",
-      "confirmed": 978705,
-      "active": 14085,
+      "confirmed": 979737,
+      "active": 15050,
       "recovered": 958601,
-      "dead": 6019,
-      "updatedTime": "01/08/2021 19:44:37",
+      "dead": 6086,
+      "updatedTime": "02/08/2021 18:58:28",
       "note": "[July 12th] :20 non-covid deaths reported in state dashboard are included in the deceased count",
       "stateCode": "OR",
       "today": {
-        "confirmed": 0,
+        "confirmed": 1032,
         "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "dead": 67,
+        "active": 965
       },
       "testing_data": {
         "tested": 16097412,
@@ -631,18 +631,18 @@
     },
     "PY": {
       "name": "Puducherry",
-      "confirmed": 121005,
-      "active": 982,
-      "recovered": 118228,
+      "confirmed": 121059,
+      "active": 944,
+      "recovered": 118320,
       "dead": 1795,
-      "updatedTime": "01/08/2021 19:28:16",
+      "updatedTime": "02/08/2021 18:58:30",
       "note": "",
       "stateCode": "PY",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 54,
+        "recovered": 92,
         "dead": 0,
-        "active": 0
+        "active": -38
       },
       "testing_data": {
         "tested": 1509217,
@@ -703,18 +703,18 @@
     },
     "SK": {
       "name": "Sikkim",
-      "confirmed": 26754,
-      "active": 3454,
-      "recovered": 22686,
-      "dead": 345,
-      "updatedTime": "01/08/2021 19:29:00",
+      "confirmed": 26880,
+      "active": 3323,
+      "recovered": 22937,
+      "dead": 346,
+      "updatedTime": "02/08/2021 18:58:33",
       "note": "",
       "stateCode": "SK",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 126,
+        "recovered": 251,
+        "dead": 1,
+        "active": -126
       },
       "testing_data": {
         "tested": 202328,
@@ -792,18 +792,18 @@
     },
     "TR": {
       "name": "Tripura",
-      "confirmed": 78580,
-      "active": 3482,
-      "recovered": 74283,
+      "confirmed": 78719,
+      "active": 3092,
+      "recovered": 74812,
       "dead": 752,
-      "updatedTime": "01/08/2021 19:19:32",
+      "updatedTime": "02/08/2021 18:58:35",
       "note": "[Aug 4]: Tripura bulletin for the previous day is released on the next day. We will add the cases for Tripura against the date of release, as that is the convention that we are following for other states.",
       "stateCode": "TR",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 139,
+        "recovered": 529,
         "dead": 0,
-        "active": 0
+        "active": -390
       },
       "testing_data": {
         "tested": 1566979,
@@ -864,18 +864,18 @@
     },
     "WB": {
       "name": "West Bengal",
-      "confirmed": 1528720,
-      "active": 10974,
-      "recovered": 1499597,
-      "dead": 18149,
-      "updatedTime": "01/08/2021 19:30:20",
+      "confirmed": 1529295,
+      "active": 10803,
+      "recovered": 1500331,
+      "dead": 18161,
+      "updatedTime": "02/08/2021 18:58:38",
       "note": "",
       "stateCode": "WB",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 575,
+        "recovered": 734,
+        "dead": 12,
+        "active": -171
       },
       "testing_data": {
         "tested": 15774091,
@@ -888,7 +888,7 @@
     }
   },
   "testing_data": {
-    "tested": 506410879,
+    "tested": 506413867,
     "positive": 3194,
     "negative": 58289799,
     "unconfirmed": 10691
@@ -898,9 +898,9 @@
     "source": "https://twitter.com/ICMRDELHI/status/1422035626631651328"
   },
   "today": {
-    "confirmed": 0,
-    "recovered": 0,
-    "dead": 0,
-    "active": 0
+    "confirmed": 4350,
+    "recovered": 4539,
+    "dead": 111,
+    "active": -300
   }
 }
