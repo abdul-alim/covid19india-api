@@ -1,9 +1,9 @@
 {
-  "confirmed": 31703380,
-  "recovered": 30858005,
-  "dead": 424979,
-  "active": 407850,
-  "updatedTime": "02/08/2021 19:27:12",
+  "confirmed": 31703921,
+  "recovered": 30860910,
+  "dead": 424991,
+  "active": 405474,
+  "updatedTime": "02/08/2021 19:37:11",
   "states": {
     "AN": {
       "name": "Andaman and Nicobar",
@@ -131,7 +131,7 @@
       "active": 33,
       "recovered": 61116,
       "dead": 811,
-      "updatedTime": "02/08/2021 19:26:22",
+      "updatedTime": "02/08/2021 19:37:14",
       "note": "",
       "stateCode": "CH",
       "today": {
@@ -299,7 +299,7 @@
       "active": 1304,
       "recovered": 201520,
       "dead": 3506,
-      "updatedTime": "02/08/2021 19:26:24",
+      "updatedTime": "02/08/2021 19:37:17",
       "note": "",
       "stateCode": "HP",
       "today": {
@@ -323,7 +323,7 @@
       "active": 1254,
       "recovered": 316090,
       "dead": 4381,
-      "updatedTime": "02/08/2021 19:26:26",
+      "updatedTime": "02/08/2021 19:37:20",
       "note": "",
       "stateCode": "JK",
       "today": {
@@ -371,7 +371,7 @@
       "active": 24021,
       "recovered": 2847627,
       "dead": 36612,
-      "updatedTime": "02/08/2021 19:26:29",
+      "updatedTime": "02/08/2021 19:37:23",
       "note": "",
       "stateCode": "KA",
       "today": {
@@ -511,18 +511,18 @@
     },
     "MN": {
       "name": "Manipur",
-      "confirmed": 99331,
-      "active": 10405,
-      "recovered": 87360,
-      "dead": 1566,
-      "updatedTime": "01/08/2021 20:07:18",
+      "confirmed": 99872,
+      "active": 9814,
+      "recovered": 88480,
+      "dead": 1578,
+      "updatedTime": "02/08/2021 19:37:25",
       "note": "[Dec 14]:824 out of 980 recovered cases are backdated.",
       "stateCode": "MN",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 541,
+        "recovered": 1120,
+        "dead": 12,
+        "active": -591
       },
       "testing_data": {
         "tested": 1092540,
@@ -587,7 +587,7 @@
       "active": 1300,
       "recovered": 25338,
       "dead": 574,
-      "updatedTime": "02/08/2021 19:26:32",
+      "updatedTime": "02/08/2021 19:28:14",
       "note": "",
       "stateCode": "NL",
       "today": {
@@ -608,17 +608,17 @@
     "OR": {
       "name": "Odisha",
       "confirmed": 979737,
-      "active": 15050,
-      "recovered": 958601,
+      "active": 13265,
+      "recovered": 960386,
       "dead": 6086,
-      "updatedTime": "02/08/2021 19:05:31",
+      "updatedTime": "02/08/2021 19:37:28",
       "note": "[July 12th] :20 non-covid deaths reported in state dashboard are included in the deceased count",
       "stateCode": "OR",
       "today": {
         "confirmed": 1032,
-        "recovered": 0,
+        "recovered": 1785,
         "dead": 67,
-        "active": 965
+        "active": -820
       },
       "testing_data": {
         "tested": 16097412,
@@ -683,7 +683,7 @@
       "active": 241,
       "recovered": 944509,
       "dead": 8954,
-      "updatedTime": "02/08/2021 19:26:34",
+      "updatedTime": "02/08/2021 19:37:31",
       "note": "",
       "stateCode": "RJ",
       "today": {
@@ -748,7 +748,7 @@
       "active": 20385,
       "recovered": 2509029,
       "dead": 34130,
-      "updatedTime": "02/08/2021 19:26:36",
+      "updatedTime": "02/08/2021 19:28:21",
       "note": "[June 29 2021]: TN has introduced a new district \"Mayiladuthurai\" in the bulletin and has assigned cases from Nagapattinam to the new district.\n[July 22]: 444 backdated deceased entries added to Chennai in TN bulletin.\n2 deaths cross notified to other states from Chennai and Coimbatore.\n1 patient died after turning negative for infection in Chengalpattu.\nThese cases have been added to TN deceased tally",
       "stateCode": "TN",
       "today": {
@@ -898,9 +898,9 @@
     "source": "https://twitter.com/ICMRDELHI/status/1422035626631651328"
   },
   "today": {
-    "confirmed": 8010,
-    "recovered": 8323,
-    "dead": 171,
-    "active": -484
+    "confirmed": 8551,
+    "recovered": 11228,
+    "dead": 183,
+    "active": -2860
   }
 }
