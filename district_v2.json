@@ -2532,15 +2532,15 @@
       {
         "district": "Daman",
         "notes": "",
-        "active": 32,
+        "active": 31,
         "confirmed": 3533,
         "migratedother": 26,
-        "recovered": 3500,
+        "recovered": 3501,
         "dead": 1,
         "today": {
           "confirmed": 0,
-          "recovered": 0,
-          "active": 0,
+          "recovered": 1,
+          "active": -1,
           "dead": 0
         }
       },
@@ -2562,8 +2562,8 @@
     ],
     "today": {
       "confirmed": 0,
-      "active": 0,
-      "recovered": 0,
+      "active": -1,
+      "recovered": 1,
       "dead": 0
     },
     "confirmed": 10655,
@@ -8367,45 +8367,45 @@
       {
         "district": "Ajmer",
         "notes": "",
-        "active": 10,
-        "confirmed": 37706,
+        "active": 11,
+        "confirmed": 37708,
         "migratedother": 0,
-        "recovered": 37286,
+        "recovered": 37287,
         "dead": 410,
         "today": {
-          "confirmed": 0,
-          "recovered": 0,
-          "active": 0,
+          "confirmed": 2,
+          "recovered": 1,
+          "active": 1,
           "dead": 0
         }
       },
       {
         "district": "Alwar",
         "notes": "",
-        "active": 12,
-        "confirmed": 59645,
+        "active": 14,
+        "confirmed": 59649,
         "migratedother": 0,
-        "recovered": 59326,
+        "recovered": 59328,
         "dead": 307,
         "today": {
-          "confirmed": 0,
-          "recovered": 0,
-          "active": 0,
+          "confirmed": 4,
+          "recovered": 2,
+          "active": 2,
           "dead": 0
         }
       },
       {
         "district": "Banswara",
         "notes": "",
-        "active": 1,
-        "confirmed": 10003,
+        "active": 3,
+        "confirmed": 10005,
         "migratedother": 0,
         "recovered": 9898,
         "dead": 104,
         "today": {
-          "confirmed": 0,
+          "confirmed": 2,
           "recovered": 0,
-          "active": 0,
+          "active": 2,
           "dead": 0
         }
       },
@@ -8427,15 +8427,15 @@
       {
         "district": "Barmer",
         "notes": "",
-        "active": 7,
+        "active": 5,
         "confirmed": 15547,
         "migratedother": 0,
-        "recovered": 15355,
+        "recovered": 15357,
         "dead": 185,
         "today": {
           "confirmed": 0,
-          "recovered": 0,
-          "active": 0,
+          "recovered": 2,
+          "active": -2,
           "dead": 0
         }
       },
@@ -8472,15 +8472,15 @@
       {
         "district": "Bikaner",
         "notes": "",
-        "active": 4,
-        "confirmed": 40306,
+        "active": 5,
+        "confirmed": 40307,
         "migratedother": 0,
         "recovered": 39757,
         "dead": 545,
         "today": {
-          "confirmed": 0,
+          "confirmed": 1,
           "recovered": 0,
-          "active": 0,
+          "active": 1,
           "dead": 0
         }
       },
@@ -8577,15 +8577,15 @@
       {
         "district": "Dungarpur",
         "notes": "",
-        "active": 1,
+        "active": 0,
         "confirmed": 18407,
         "migratedother": 0,
-        "recovered": 18275,
+        "recovered": 18276,
         "dead": 131,
         "today": {
           "confirmed": 0,
-          "recovered": 0,
-          "active": 0,
+          "recovered": 1,
+          "active": -1,
           "dead": 0
         }
       },
@@ -8622,15 +8622,15 @@
       {
         "district": "Hanumangarh",
         "notes": "",
-        "active": 8,
-        "confirmed": 16047,
+        "active": 9,
+        "confirmed": 16049,
         "migratedother": 0,
-        "recovered": 15928,
+        "recovered": 15929,
         "dead": 111,
         "today": {
-          "confirmed": 0,
-          "recovered": 0,
-          "active": 0,
+          "confirmed": 2,
+          "recovered": 1,
+          "active": 1,
           "dead": 0
         }
       },
@@ -8652,15 +8652,15 @@
       {
         "district": "Jaipur",
         "notes": "",
-        "active": 57,
-        "confirmed": 187557,
+        "active": 63,
+        "confirmed": 187570,
         "migratedother": 0,
-        "recovered": 185530,
+        "recovered": 185537,
         "dead": 1970,
         "today": {
-          "confirmed": 0,
-          "recovered": 0,
-          "active": 0,
+          "confirmed": 13,
+          "recovered": 7,
+          "active": 6,
           "dead": 0
         }
       },
@@ -8727,15 +8727,15 @@
       {
         "district": "Jodhpur",
         "notes": "",
-        "active": 14,
+        "active": 12,
         "confirmed": 112374,
         "migratedother": 0,
-        "recovered": 111257,
+        "recovered": 111259,
         "dead": 1103,
         "today": {
           "confirmed": 0,
-          "recovered": 0,
-          "active": 0,
+          "recovered": 2,
+          "active": -2,
           "dead": 0
         }
       },
@@ -8772,15 +8772,15 @@
       {
         "district": "Nagaur",
         "notes": "",
-        "active": 8,
-        "confirmed": 17720,
+        "active": 12,
+        "confirmed": 17724,
         "migratedother": 0,
         "recovered": 17535,
         "dead": 177,
         "today": {
-          "confirmed": 0,
+          "confirmed": 4,
           "recovered": 0,
-          "active": 0,
+          "active": 4,
           "dead": 0
         }
       },
@@ -8802,15 +8802,15 @@
       {
         "district": "Pali",
         "notes": "",
-        "active": 2,
-        "confirmed": 27306,
+        "active": 7,
+        "confirmed": 27311,
         "migratedother": 0,
         "recovered": 27017,
         "dead": 287,
         "today": {
-          "confirmed": 0,
+          "confirmed": 5,
           "recovered": 0,
-          "active": 0,
+          "active": 5,
           "dead": 0
         }
       },
@@ -8862,15 +8862,15 @@
       {
         "district": "Sikar",
         "notes": "",
-        "active": 9,
-        "confirmed": 30601,
+        "active": 10,
+        "confirmed": 30603,
         "migratedother": 0,
-        "recovered": 30257,
+        "recovered": 30258,
         "dead": 335,
         "today": {
-          "confirmed": 0,
-          "recovered": 0,
-          "active": 0,
+          "confirmed": 2,
+          "recovered": 1,
+          "active": 1,
           "dead": 0
         }
       },
@@ -8907,23 +8907,23 @@
       {
         "district": "Udaipur",
         "notes": "",
-        "active": 57,
-        "confirmed": 56332,
+        "active": 59,
+        "confirmed": 56337,
         "migratedother": 0,
-        "recovered": 55522,
+        "recovered": 55525,
         "dead": 753,
         "today": {
-          "confirmed": 0,
-          "recovered": 0,
-          "active": 0,
+          "confirmed": 5,
+          "recovered": 3,
+          "active": 2,
           "dead": 0
         }
       }
     ],
     "today": {
-      "confirmed": 0,
-      "active": 0,
-      "recovered": 0,
+      "confirmed": 40,
+      "active": 20,
+      "recovered": 20,
       "dead": 0
     },
     "confirmed": 953733,
