@@ -1,9 +1,9 @@
 {
-  "confirmed": 31864732,
-  "recovered": 31017638,
-  "dead": 426960,
-  "active": 407530,
-  "updatedTime": "06/08/2021 19:58:15",
+  "confirmed": 31884819,
+  "recovered": 31037245,
+  "dead": 427149,
+  "active": 407815,
+  "updatedTime": "06/08/2021 20:18:11",
   "states": {
     "AN": {
       "name": "Andaman and Nicobar",
@@ -391,18 +391,18 @@
     },
     "KL": {
       "name": "Kerala",
-      "confirmed": 3493603,
-      "active": 177923,
-      "recovered": 3297834,
-      "dead": 17328,
-      "updatedTime": "05/08/2021 22:09:49",
+      "confirmed": 3513551,
+      "active": 178203,
+      "recovered": 3317314,
+      "dead": 17515,
+      "updatedTime": "06/08/2021 20:18:14",
       "note": "",
       "stateCode": "KL",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 19948,
+        "recovered": 19480,
+        "dead": 187,
+        "active": 281
       },
       "testing_data": {
         "tested": 28227419,
@@ -515,7 +515,7 @@
       "active": 8367,
       "recovered": 92894,
       "dead": 1628,
-      "updatedTime": "06/08/2021 19:58:18",
+      "updatedTime": "06/08/2021 20:16:16",
       "note": "[Dec 14]:824 out of 980 recovered cases are backdated.",
       "stateCode": "MN",
       "today": {
@@ -583,26 +583,26 @@
     },
     "NL": {
       "name": "Nagaland",
-      "confirmed": 28335,
-      "active": 1345,
-      "recovered": 25603,
-      "dead": 581,
-      "updatedTime": "05/08/2021 22:10:12",
+      "confirmed": 28445,
+      "active": 1370,
+      "recovered": 25682,
+      "dead": 582,
+      "updatedTime": "06/08/2021 20:18:16",
       "note": "",
       "stateCode": "NL",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 110,
+        "recovered": 79,
+        "dead": 1,
+        "active": 30
       },
       "testing_data": {
-        "tested": 272115,
+        "tested": 274036,
         "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "05/08/2021",
-        "source": "https://twitter.com/MyGovNagaland/status/1423285223035342858"
+        "date": "06/08/2021",
+        "source": "https://twitter.com/MyGovNagaland/status/1423650764979720192"
       }
     },
     "OR": {
@@ -840,26 +840,26 @@
     },
     "UT": {
       "name": "Uttarakhand",
-      "confirmed": 342307,
-      "active": 533,
-      "recovered": 328371,
-      "dead": 7366,
-      "updatedTime": "05/08/2021 22:10:52",
+      "confirmed": 342336,
+      "active": 513,
+      "recovered": 328419,
+      "dead": 7367,
+      "updatedTime": "06/08/2021 20:18:18",
       "note": "[Oct 30]: Metric of capturing the testing data has switched to \"Samples Tested\" from \"Samples Collected\"\n[Jun 30th'21]:145 confirmed cases and 218 deceased cases added of previous days after reconciliation with district and ICMR portal",
       "stateCode": "UT",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 29,
+        "recovered": 48,
+        "dead": 1,
+        "active": -20
       },
       "testing_data": {
-        "tested": 6417333,
+        "tested": 6443888,
         "positive": 0,
-        "negative": 6075026,
-        "unconfirmed": 14010,
-        "date": "05/08/2021",
-        "source": "https://twitter.com/DDnews_dehradun/status/1423276013430075406"
+        "negative": 6101552,
+        "unconfirmed": 13251,
+        "date": "06/08/2021",
+        "source": "https://twitter.com/PIBDehradun/status/1423650647266656257"
       }
     },
     "WB": {
@@ -888,19 +888,19 @@
     }
   },
   "testing_data": {
-    "tested": 515243800,
+    "tested": 515272276,
     "positive": 82968,
-    "negative": 59422717,
-    "unconfirmed": 16564
+    "negative": 59449243,
+    "unconfirmed": 15805
   },
   "testing_data_imcr": {
     "tested": 476533650,
     "source": "https://twitter.com/ICMRDELHI/status/1423482707397410828"
   },
   "today": {
-    "confirmed": 8945,
-    "recovered": 9505,
-    "dead": 175,
-    "active": -735
+    "confirmed": 29032,
+    "recovered": 29112,
+    "dead": 364,
+    "active": -444
   }
 }
