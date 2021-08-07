@@ -1,9 +1,9 @@
 {
-  "confirmed": 31913096,
-  "recovered": 31071690,
-  "dead": 427750,
-  "active": 401027,
-  "updatedTime": "07/08/2021 23:34:15",
+  "confirmed": 31913186,
+  "recovered": 31071822,
+  "dead": 427753,
+  "active": 400982,
+  "updatedTime": "08/08/2021 00:05:10",
   "states": {
     "AN": {
       "name": "Andaman and Nicobar",
@@ -179,7 +179,7 @@
       "active": 12,
       "recovered": 10608,
       "dead": 4,
-      "updatedTime": "07/08/2021 23:34:17",
+      "updatedTime": "07/08/2021 23:44:12",
       "note": "",
       "stateCode": "DN",
       "today": {
@@ -405,12 +405,12 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 28227419,
+        "tested": 28379940,
         "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "06/08/2021",
-        "source": "https://dhs.kerala.gov.in/wp-content/uploads/2021/08/Bulletin-HFWD-English-August-06.pdf"
+        "date": "07/08/2021",
+        "source": ""
       }
     },
     "LA": {
@@ -467,7 +467,7 @@
       "active": 156,
       "recovered": 781280,
       "dead": 10514,
-      "updatedTime": "07/08/2021 23:34:19",
+      "updatedTime": "07/08/2021 23:44:16",
       "note": "[14 Oct'20]: 4469 confirmed cases and 4469 recoveries added in MP bulletin as reconciliation with private labs and hospitals\n[12 July'21] :1478 deceased cases have been added after reconciliation of deceased cases records from Home Isolation(208), Private Hospitals(762) and other districts data (508)",
       "stateCode": "MP",
       "today": {
@@ -477,12 +477,12 @@
         "active": -2
       },
       "testing_data": {
-        "tested": 14864977,
+        "tested": 14939051,
         "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "06/08/2021",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/10193"
+        "date": "07/08/2021",
+        "source": "https://twitter.com/healthminmp/status/1424054792637222912"
       }
     },
     "MH": {
@@ -655,18 +655,18 @@
     },
     "PB": {
       "name": "Punjab",
-      "confirmed": 599365,
-      "active": 473,
-      "recovered": 582580,
-      "dead": 16312,
-      "updatedTime": "06/08/2021 21:39:29",
+      "confirmed": 599428,
+      "active": 461,
+      "recovered": 582654,
+      "dead": 16313,
+      "updatedTime": "08/08/2021 00:05:13",
       "note": "",
       "stateCode": "PB",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 63,
+        "recovered": 74,
+        "dead": 1,
+        "active": -12
       },
       "testing_data": {
         "tested": 12379434,
@@ -816,18 +816,18 @@
     },
     "UP": {
       "name": "Uttar Pradesh",
-      "confirmed": 1708689,
-      "active": 619,
-      "recovered": 1685299,
-      "dead": 22771,
-      "updatedTime": "06/08/2021 21:39:34",
+      "confirmed": 1708716,
+      "active": 586,
+      "recovered": 1685357,
+      "dead": 22773,
+      "updatedTime": "08/08/2021 00:05:15",
       "note": "[Jan 1]:As no bulletin was provided for 31'st Dec'20,its count has been combined with 1st Jan'21\n[Jan 9]:Due to reconcillation there are 1286 cases.",
       "stateCode": "UP",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 27,
+        "recovered": 58,
+        "dead": 2,
+        "active": -33
       },
       "testing_data": {
         "tested": 67221784,
@@ -888,7 +888,7 @@
     }
   },
   "testing_data": {
-    "tested": 518387173,
+    "tested": 518613768,
     "positive": 83139,
     "negative": 59755706,
     "unconfirmed": 15084
@@ -898,9 +898,9 @@
     "source": "https://www.icmr.gov.in/pdf/covid/update/ICMR_testing_update_07Aug2021.pdf"
   },
   "today": {
-    "confirmed": 18604,
-    "recovered": 23531,
-    "dead": 349,
-    "active": -5276
+    "confirmed": 18694,
+    "recovered": 23663,
+    "dead": 352,
+    "active": -5321
   }
 }
