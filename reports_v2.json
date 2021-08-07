@@ -1,9 +1,9 @@
 {
-  "confirmed": 31913083,
-  "recovered": 31071673,
+  "confirmed": 31913096,
+  "recovered": 31071690,
   "dead": 427750,
-  "active": 401031,
-  "updatedTime": "07/08/2021 23:03:10",
+  "active": 401027,
+  "updatedTime": "07/08/2021 23:34:15",
   "states": {
     "AN": {
       "name": "Andaman and Nicobar",
@@ -176,17 +176,17 @@
     "DN": {
       "name": "Dadra and Nagar Haveli and Daman and Diu",
       "confirmed": 10655,
-      "active": 14,
-      "recovered": 10606,
+      "active": 12,
+      "recovered": 10608,
       "dead": 4,
-      "updatedTime": "07/08/2021 19:42:25",
+      "updatedTime": "07/08/2021 23:34:17",
       "note": "",
       "stateCode": "DN",
       "today": {
         "confirmed": 0,
-        "recovered": 1,
+        "recovered": 3,
         "dead": 0,
-        "active": -1
+        "active": -3
       },
       "testing_data": {
         "tested": 72410,
@@ -463,18 +463,18 @@
     },
     "MP": {
       "name": "Madhya Pradesh",
-      "confirmed": 791937,
-      "active": 158,
-      "recovered": 781265,
+      "confirmed": 791950,
+      "active": 156,
+      "recovered": 781280,
       "dead": 10514,
-      "updatedTime": "06/08/2021 21:39:27",
+      "updatedTime": "07/08/2021 23:34:19",
       "note": "[14 Oct'20]: 4469 confirmed cases and 4469 recoveries added in MP bulletin as reconciliation with private labs and hospitals\n[12 July'21] :1478 deceased cases have been added after reconciliation of deceased cases records from Home Isolation(208), Private Hospitals(762) and other districts data (508)",
       "stateCode": "MP",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 13,
+        "recovered": 15,
         "dead": 0,
-        "active": 0
+        "active": -2
       },
       "testing_data": {
         "tested": 14864977,
@@ -898,9 +898,9 @@
     "source": "https://www.icmr.gov.in/pdf/covid/update/ICMR_testing_update_07Aug2021.pdf"
   },
   "today": {
-    "confirmed": 18591,
-    "recovered": 23514,
+    "confirmed": 18604,
+    "recovered": 23531,
     "dead": 349,
-    "active": -5272
+    "active": -5276
   }
 }
