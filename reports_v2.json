@@ -1,9 +1,9 @@
 {
-  "confirmed": 31905628,
-  "recovered": 31058740,
-  "dead": 427601,
-  "active": 406668,
-  "updatedTime": "07/08/2021 20:48:11",
+  "confirmed": 31911689,
+  "recovered": 31069621,
+  "dead": 427729,
+  "active": 401710,
+  "updatedTime": "07/08/2021 21:11:14",
   "states": {
     "AN": {
       "name": "Andaman and Nicobar",
@@ -107,7 +107,7 @@
       "active": 320,
       "recovered": 715191,
       "dead": 9646,
-      "updatedTime": "07/08/2021 20:48:13",
+      "updatedTime": "07/08/2021 20:49:15",
       "note": "[June 9] : 3951 deceased cases have been reported in the bulletin after reconciliation of records by the authorities",
       "stateCode": "BR",
       "today": {
@@ -227,7 +227,7 @@
       "active": 1006,
       "recovered": 167649,
       "dead": 3159,
-      "updatedTime": "07/08/2021 20:47:15",
+      "updatedTime": "07/08/2021 20:49:18",
       "note": "",
       "stateCode": "GA",
       "today": {
@@ -251,7 +251,7 @@
       "active": 196,
       "recovered": 814747,
       "dead": 10077,
-      "updatedTime": "07/08/2021 20:47:17",
+      "updatedTime": "07/08/2021 20:56:15",
       "note": "",
       "stateCode": "GJ",
       "today": {
@@ -299,7 +299,7 @@
       "active": 1949,
       "recovered": 202194,
       "dead": 3517,
-      "updatedTime": "07/08/2021 20:47:19",
+      "updatedTime": "07/08/2021 20:49:22",
       "note": "",
       "stateCode": "HP",
       "today": {
@@ -443,7 +443,7 @@
       "active": 64,
       "recovered": 10093,
       "dead": 50,
-      "updatedTime": "07/08/2021 20:47:21",
+      "updatedTime": "07/08/2021 20:49:24",
       "note": "",
       "stateCode": "LD",
       "today": {
@@ -487,18 +487,18 @@
     },
     "MH": {
       "name": "Maharashtra",
-      "confirmed": 6341759,
-      "active": 74483,
-      "recovered": 6130137,
-      "dead": 133717,
-      "updatedTime": "06/08/2021 21:57:16",
+      "confirmed": 6347820,
+      "active": 71050,
+      "recovered": 6139493,
+      "dead": 133845,
+      "updatedTime": "07/08/2021 21:11:19",
       "note": "[Dec 16]:10,218 duplicate cases & other state cases removed from total cases.791 recovered cases also removed from total recovered cases while reconciling \n[Sep 9] :239 cases have been removed from the hospitalized figures owing to the removal of duplicates and change of addresses as per the original residence\n[Aug 15] : MH bulletin has reduced 819 confirmed cases in Mumbai and 72 confirmed cases from 'Other States' from the tally\n[Jun 16] : 1328 deceased cases have been retroactively added to MH bulletin.\n[Jun 20] : 69 deceased cases have been reduced based on state bulletin.",
       "stateCode": "MH",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 6061,
+        "recovered": 9356,
+        "dead": 128,
+        "active": -3423
       },
       "testing_data": {
         "tested": 49172531,
@@ -608,17 +608,17 @@
     "OR": {
       "name": "Odisha",
       "confirmed": 985827,
-      "active": 12480,
-      "recovered": 966928,
+      "active": 10955,
+      "recovered": 968453,
       "dead": 6419,
-      "updatedTime": "07/08/2021 19:16:45",
+      "updatedTime": "07/08/2021 21:11:23",
       "note": "[July 12th] :20 non-covid deaths reported in state dashboard are included in the deceased count",
       "stateCode": "OR",
       "today": {
         "confirmed": 1096,
-        "recovered": 0,
+        "recovered": 1525,
         "dead": 64,
-        "active": 1032
+        "active": -493
       },
       "testing_data": {
         "tested": 16424645,
@@ -748,7 +748,7 @@
       "active": 20286,
       "recovered": 2518777,
       "dead": 34289,
-      "updatedTime": "07/08/2021 20:47:24",
+      "updatedTime": "07/08/2021 20:49:27",
       "note": "[June 29 2021]: TN has introduced a new district \"Mayiladuthurai\" in the bulletin and has assigned cases from Nagapattinam to the new district.\n[July 22]: 444 backdated deceased entries added to Chennai in TN bulletin.\n2 deaths cross notified to other states from Chennai and Coimbatore.\n1 patient died after turning negative for infection in Chengalpattu.\nThese cases have been added to TN deceased tally",
       "stateCode": "TN",
       "today": {
@@ -772,7 +772,7 @@
       "active": 8582,
       "recovered": 636552,
       "dead": 3823,
-      "updatedTime": "07/08/2021 20:47:26",
+      "updatedTime": "07/08/2021 20:49:29",
       "note": "[July 27] : Telangana bulletin for the previous day is released on the next day. We will add the cases for Telangana against the date of release, as that is the convention that we are following for other states.",
       "stateCode": "TG",
       "today": {
@@ -844,7 +844,7 @@
       "active": 492,
       "recovered": 328476,
       "dead": 7367,
-      "updatedTime": "07/08/2021 20:47:28",
+      "updatedTime": "07/08/2021 20:49:31",
       "note": "[Oct 30]: Metric of capturing the testing data has switched to \"Samples Tested\" from \"Samples Collected\"\n[Jun 30th'21]:145 confirmed cases and 218 deceased cases added of previous days after reconciliation with district and ICMR portal",
       "stateCode": "UT",
       "today": {
@@ -898,9 +898,9 @@
     "source": "https://www.icmr.gov.in/pdf/covid/update/ICMR_testing_update_07Aug2021.pdf"
   },
   "today": {
-    "confirmed": 11136,
-    "recovered": 10581,
-    "dead": 200,
-    "active": 355
+    "confirmed": 17197,
+    "recovered": 21462,
+    "dead": 328,
+    "active": -4593
   }
 }
