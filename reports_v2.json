@@ -1,9 +1,9 @@
 {
-  "confirmed": 31968217,
-  "recovered": 31129205,
-  "dead": 428316,
-  "active": 398059,
-  "updatedTime": "08/08/2021 21:11:01",
+  "confirmed": 31968680,
+  "recovered": 31129843,
+  "dead": 428318,
+  "active": 397882,
+  "updatedTime": "08/08/2021 21:20:11",
   "states": {
     "AN": {
       "name": "Andaman and Nicobar",
@@ -165,12 +165,12 @@
         "active": 0
       },
       "testing_data": {
-        "tested": 11666597,
+        "tested": 11692078,
         "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "07/08/2021",
-        "source": "https://twitter.com/HealthCgGov/status/1424048118287388674?s=19"
+        "date": "08/08/2021",
+        "source": "https://twitter.com/HealthCgGov/status/1424394310640803841"
       }
     },
     "DN": {
@@ -395,7 +395,7 @@
       "active": 176572,
       "recovered": 3357687,
       "dead": 17747,
-      "updatedTime": "08/08/2021 21:11:04",
+      "updatedTime": "08/08/2021 21:20:14",
       "note": "",
       "stateCode": "KL",
       "today": {
@@ -405,12 +405,12 @@
         "active": -1594
       },
       "testing_data": {
-        "tested": 28379940,
+        "tested": 28514136,
         "positive": 0,
         "negative": 0,
         "unconfirmed": 0,
-        "date": "07/08/2021",
-        "source": "https://dhs.kerala.gov.in/wp-content/uploads/2021/08/Bulletin-HFWD-English-August-07.pdf"
+        "date": "08/08/2021",
+        "source": "https://dhs.kerala.gov.in/wp-content/uploads/2021/08/Bulletin-HFWD-English-August-08.pdf"
       }
     },
     "LA": {
@@ -679,18 +679,18 @@
     },
     "RJ": {
       "name": "Rajasthan",
-      "confirmed": 953812,
-      "active": 237,
-      "recovered": 944621,
+      "confirmed": 953826,
+      "active": 236,
+      "recovered": 944636,
       "dead": 8954,
-      "updatedTime": "07/08/2021 19:16:56",
+      "updatedTime": "08/08/2021 21:20:17",
       "note": "",
       "stateCode": "RJ",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 14,
+        "recovered": 15,
         "dead": 0,
-        "active": 0
+        "active": -1
       },
       "testing_data": {
         "tested": 13160683,
@@ -768,26 +768,26 @@
     },
     "TG": {
       "name": "Telangana",
-      "confirmed": 648957,
-      "active": 8582,
-      "recovered": 636552,
-      "dead": 3823,
-      "updatedTime": "07/08/2021 20:49:29",
+      "confirmed": 649406,
+      "active": 8406,
+      "recovered": 637175,
+      "dead": 3825,
+      "updatedTime": "08/08/2021 21:20:23",
       "note": "[July 27] : Telangana bulletin for the previous day is released on the next day. We will add the cases for Telangana against the date of release, as that is the convention that we are following for other states.",
       "stateCode": "TG",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 449,
+        "recovered": 623,
+        "dead": 2,
+        "active": -176
       },
       "testing_data": {
-        "tested": 22742923,
+        "tested": 22822154,
         "positive": 0,
         "negative": 0,
-        "unconfirmed": 1414,
-        "date": "07/08/2021",
-        "source": "https://twitter.com/IPRTelangana/status/1424007864545275905"
+        "unconfirmed": 1444,
+        "date": "08/08/2021",
+        "source": "https://twitter.com/IPRTelangana/status/1424396021174464514"
       }
     },
     "TR": {
@@ -888,19 +888,19 @@
     }
   },
   "testing_data": {
-    "tested": 519700292,
+    "tested": 519939200,
     "positive": 3194,
     "negative": 59941965,
-    "unconfirmed": 11954
+    "unconfirmed": 11984
   },
   "testing_data_imcr": {
     "tested": 480039185,
     "source": "https://twitter.com/ICMRDELHI/status/1424214162008199169"
   },
   "today": {
-    "confirmed": 34657,
-    "recovered": 37111,
-    "dead": 424,
-    "active": -2878
+    "confirmed": 35120,
+    "recovered": 37749,
+    "dead": 426,
+    "active": -3055
   }
 }
