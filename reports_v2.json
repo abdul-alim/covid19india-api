@@ -1,24 +1,24 @@
 {
-  "confirmed": 32075627,
-  "recovered": 31249743,
-  "dead": 429680,
-  "active": 383560,
-  "updatedTime": "11/08/2021 22:35:14",
+  "confirmed": 32076974,
+  "recovered": 31252609,
+  "dead": 429702,
+  "active": 382019,
+  "updatedTime": "12/08/2021 00:42:15",
   "states": {
     "AN": {
       "name": "Andaman and Nicobar",
       "confirmed": 7548,
-      "active": 7,
-      "recovered": 7412,
+      "active": 6,
+      "recovered": 7413,
       "dead": 129,
-      "updatedTime": "11/08/2021 08:21:13",
+      "updatedTime": "12/08/2021 00:42:17",
       "note": "",
       "stateCode": "AN",
       "today": {
         "confirmed": 0,
-        "recovered": 0,
+        "recovered": 1,
         "dead": 0,
-        "active": 0
+        "active": -1
       },
       "testing_data": {
         "tested": 453934,
@@ -55,18 +55,18 @@
     },
     "AR": {
       "name": "Arunachal Pradesh",
-      "confirmed": 50605,
-      "active": 2536,
-      "recovered": 47821,
-      "dead": 248,
-      "updatedTime": "11/08/2021 08:21:15",
+      "confirmed": 50793,
+      "active": 2488,
+      "recovered": 48054,
+      "dead": 251,
+      "updatedTime": "12/08/2021 00:42:19",
       "note": "[July 25]: All numbers corresponding to Papum Pare and Captial Complex are tracked under Papum Pare district.",
       "stateCode": "AR",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 188,
+        "recovered": 233,
+        "dead": 3,
+        "active": -48
       },
       "testing_data": {
         "tested": 990843,
@@ -79,18 +79,18 @@
     },
     "AS": {
       "name": "Assam",
-      "confirmed": 576149,
-      "active": 9698,
-      "recovered": 559684,
-      "dead": 5420,
-      "updatedTime": "11/08/2021 08:21:17",
+      "confirmed": 577035,
+      "active": 9472,
+      "recovered": 560782,
+      "dead": 5434,
+      "updatedTime": "12/08/2021 00:41:20",
       "note": "[Jan 1]: 1347 cases i.e Covid +'tive patients dead for other reasons have been deducted fom active count.",
       "stateCode": "AS",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 886,
+        "recovered": 1098,
+        "dead": 14,
+        "active": -226
       },
       "testing_data": {
         "tested": 19952535,
@@ -103,18 +103,18 @@
     },
     "BR": {
       "name": "Bihar",
-      "confirmed": 725279,
-      "active": 280,
-      "recovered": 715352,
+      "confirmed": 725326,
+      "active": 276,
+      "recovered": 715403,
       "dead": 9646,
-      "updatedTime": "11/08/2021 08:21:19",
+      "updatedTime": "12/08/2021 00:41:22",
       "note": "[June 9] : 3951 deceased cases have been reported in the bulletin after reconciliation of records by the authorities",
       "stateCode": "BR",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 47,
+        "recovered": 51,
         "dead": 0,
-        "active": 0
+        "active": -4
       },
       "testing_data": {
         "tested": 38998006,
@@ -131,7 +131,7 @@
       "active": 35,
       "recovered": 61151,
       "dead": 811,
-      "updatedTime": "11/08/2021 22:35:16",
+      "updatedTime": "11/08/2021 22:45:16",
       "note": "",
       "stateCode": "CH",
       "today": {
@@ -151,18 +151,18 @@
     },
     "CT": {
       "name": "Chhattisgarh",
-      "confirmed": 1003356,
-      "active": 1623,
-      "recovered": 988189,
-      "dead": 13544,
-      "updatedTime": "11/08/2021 08:21:20",
+      "confirmed": 1003439,
+      "active": 1557,
+      "recovered": 988337,
+      "dead": 13545,
+      "updatedTime": "12/08/2021 00:41:24",
       "note": "",
       "stateCode": "CT",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 83,
+        "recovered": 148,
+        "dead": 1,
+        "active": -66
       },
       "testing_data": {
         "tested": 11804804,
@@ -251,7 +251,7 @@
       "active": 194,
       "recovered": 814830,
       "dead": 10077,
-      "updatedTime": "11/08/2021 22:35:18",
+      "updatedTime": "11/08/2021 22:45:18",
       "note": "",
       "stateCode": "GJ",
       "today": {
@@ -275,7 +275,7 @@
       "active": 670,
       "recovered": 759807,
       "dead": 9653,
-      "updatedTime": "11/08/2021 22:35:20",
+      "updatedTime": "11/08/2021 22:45:21",
       "note": "",
       "stateCode": "HR",
       "today": {
@@ -299,7 +299,7 @@
       "active": 2556,
       "recovered": 202893,
       "dead": 3523,
-      "updatedTime": "11/08/2021 22:35:23",
+      "updatedTime": "11/08/2021 22:45:24",
       "note": "",
       "stateCode": "HP",
       "today": {
@@ -343,18 +343,18 @@
     },
     "JH": {
       "name": "Jharkhand",
-      "confirmed": 347440,
-      "active": 208,
-      "recovered": 342102,
+      "confirmed": 347454,
+      "active": 196,
+      "recovered": 342128,
       "dead": 5130,
-      "updatedTime": "11/08/2021 11:09:14",
+      "updatedTime": "12/08/2021 00:41:27",
       "note": "",
       "stateCode": "JH",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 14,
+        "recovered": 26,
         "dead": 0,
-        "active": 0
+        "active": -12
       },
       "testing_data": {
         "tested": 12184347,
@@ -371,7 +371,7 @@
       "active": 22851,
       "recovered": 2863117,
       "dead": 36881,
-      "updatedTime": "11/08/2021 22:35:25",
+      "updatedTime": "11/08/2021 22:45:26",
       "note": "",
       "stateCode": "KA",
       "today": {
@@ -395,7 +395,7 @@
       "active": 175958,
       "recovered": 3415595,
       "dead": 18120,
-      "updatedTime": "11/08/2021 22:35:27",
+      "updatedTime": "11/08/2021 22:45:28",
       "note": "",
       "stateCode": "KL",
       "today": {
@@ -443,7 +443,7 @@
       "active": 40,
       "recovered": 10135,
       "dead": 51,
-      "updatedTime": "11/08/2021 22:35:29",
+      "updatedTime": "11/08/2021 22:45:30",
       "note": "",
       "stateCode": "LD",
       "today": {
@@ -467,7 +467,7 @@
       "active": 132,
       "recovered": 781344,
       "dead": 10514,
-      "updatedTime": "11/08/2021 22:35:32",
+      "updatedTime": "11/08/2021 22:45:32",
       "note": "[14 Oct'20]: 4469 confirmed cases and 4469 recoveries added in MP bulletin as reconciliation with private labs and hospitals\n[12 July'21] :1478 deceased cases have been added after reconciliation of deceased cases records from Home Isolation(208), Private Hospitals(762) and other districts data (508)",
       "stateCode": "MP",
       "today": {
@@ -491,7 +491,7 @@
       "active": 64570,
       "recovered": 6166620,
       "dead": 134364,
-      "updatedTime": "11/08/2021 22:35:34",
+      "updatedTime": "11/08/2021 22:45:34",
       "note": "[Dec 16]:10,218 duplicate cases & other state cases removed from total cases.791 recovered cases also removed from total recovered cases while reconciling \n[Sep 9] :239 cases have been removed from the hospitalized figures owing to the removal of duplicates and change of addresses as per the original residence\n[Aug 15] : MH bulletin has reduced 819 confirmed cases in Mumbai and 72 confirmed cases from 'Other States' from the tally\n[Jun 16] : 1328 deceased cases have been retroactively added to MH bulletin.\n[Jun 20] : 69 deceased cases have been reduced based on state bulletin.",
       "stateCode": "MH",
       "today": {
@@ -515,7 +515,7 @@
       "active": 6857,
       "recovered": 97499,
       "dead": 1674,
-      "updatedTime": "11/08/2021 22:35:36",
+      "updatedTime": "11/08/2021 22:45:36",
       "note": "[Dec 14]:824 out of 980 recovered cases are backdated.",
       "stateCode": "MN",
       "today": {
@@ -560,17 +560,17 @@
     "MZ": {
       "name": "Mizoram",
       "confirmed": 46320,
-      "active": 11746,
-      "recovered": 34402,
+      "active": 11414,
+      "recovered": 34734,
       "dead": 172,
-      "updatedTime": "11/08/2021 22:35:38",
+      "updatedTime": "12/08/2021 00:41:30",
       "note": "",
       "stateCode": "MZ",
       "today": {
         "confirmed": 863,
-        "recovered": 680,
+        "recovered": 1012,
         "dead": 1,
-        "active": 182
+        "active": -150
       },
       "testing_data": {
         "tested": 694812,
@@ -587,7 +587,7 @@
       "active": 1351,
       "recovered": 26101,
       "dead": 591,
-      "updatedTime": "11/08/2021 22:35:41",
+      "updatedTime": "11/08/2021 22:45:40",
       "note": "",
       "stateCode": "NL",
       "today": {
@@ -608,17 +608,17 @@
     "OR": {
       "name": "Odisha",
       "confirmed": 990075,
-      "active": 10682,
-      "recovered": 972710,
+      "active": 9813,
+      "recovered": 973579,
       "dead": 6683,
-      "updatedTime": "11/08/2021 19:12:26",
+      "updatedTime": "12/08/2021 00:41:32",
       "note": "[July 12th] :20 non-covid deaths reported in state dashboard are included in the deceased count",
       "stateCode": "OR",
       "today": {
         "confirmed": 1078,
-        "recovered": 0,
+        "recovered": 869,
         "dead": 65,
-        "active": 1013
+        "active": 144
       },
       "testing_data": {
         "tested": 16752488,
@@ -635,7 +635,7 @@
       "active": 866,
       "recovered": 119213,
       "dead": 1801,
-      "updatedTime": "11/08/2021 22:35:43",
+      "updatedTime": "11/08/2021 22:45:44",
       "note": "",
       "stateCode": "PY",
       "today": {
@@ -655,18 +655,18 @@
     },
     "PB": {
       "name": "Punjab",
-      "confirmed": 599573,
-      "active": 460,
-      "recovered": 582791,
-      "dead": 16322,
-      "updatedTime": "11/08/2021 08:21:28",
+      "confirmed": 599678,
+      "active": 517,
+      "recovered": 582836,
+      "dead": 16325,
+      "updatedTime": "12/08/2021 00:41:34",
       "note": "",
       "stateCode": "PB",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 105,
+        "recovered": 45,
+        "dead": 3,
+        "active": 57
       },
       "testing_data": {
         "tested": 12520735,
@@ -683,7 +683,7 @@
       "active": 195,
       "recovered": 944721,
       "dead": 8954,
-      "updatedTime": "11/08/2021 22:35:45",
+      "updatedTime": "11/08/2021 22:45:46",
       "note": "",
       "stateCode": "RJ",
       "today": {
@@ -707,7 +707,7 @@
       "active": 2543,
       "recovered": 24995,
       "dead": 359,
-      "updatedTime": "11/08/2021 22:35:47",
+      "updatedTime": "11/08/2021 22:45:48",
       "note": "",
       "stateCode": "SK",
       "today": {
@@ -748,7 +748,7 @@
       "active": 20382,
       "recovered": 2526317,
       "dead": 34395,
-      "updatedTime": "11/08/2021 22:35:49",
+      "updatedTime": "11/08/2021 22:45:50",
       "note": "[June 29 2021]: TN has introduced a new district \"Mayiladuthurai\" in the bulletin and has assigned cases from Nagapattinam to the new district.\n[July 22]: 444 backdated deceased entries added to Chennai in TN bulletin.\n2 deaths cross notified to other states from Chennai and Coimbatore.\n1 patient died after turning negative for infection in Chengalpattu.\nThese cases have been added to TN deceased tally",
       "stateCode": "TN",
       "today": {
@@ -772,7 +772,7 @@
       "active": 8137,
       "recovered": 638865,
       "dead": 3833,
-      "updatedTime": "11/08/2021 22:35:51",
+      "updatedTime": "11/08/2021 22:45:52",
       "note": "[July 27] : Telangana bulletin for the previous day is released on the next day. We will add the cases for Telangana against the date of release, as that is the convention that we are following for other states.",
       "stateCode": "TG",
       "today": {
@@ -816,18 +816,18 @@
     },
     "UP": {
       "name": "Uttar Pradesh",
-      "confirmed": 1708812,
-      "active": 545,
-      "recovered": 1685492,
-      "dead": 22775,
-      "updatedTime": "11/08/2021 08:21:35",
+      "confirmed": 1708836,
+      "active": 505,
+      "recovered": 1685555,
+      "dead": 22776,
+      "updatedTime": "12/08/2021 00:41:37",
       "note": "[Jan 1]:As no bulletin was provided for 31'st Dec'20,its count has been combined with 1st Jan'21\n[Jan 9]:Due to reconcillation there are 1286 cases.",
       "stateCode": "UP",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 24,
+        "recovered": 63,
+        "dead": 1,
+        "active": -40
       },
       "testing_data": {
         "tested": 68137752,
@@ -844,7 +844,7 @@
       "active": 435,
       "recovered": 328658,
       "dead": 7369,
-      "updatedTime": "11/08/2021 22:35:53",
+      "updatedTime": "11/08/2021 22:45:55",
       "note": "[Oct 30]: Metric of capturing the testing data has switched to \"Samples Tested\" from \"Samples Collected\"\n[Jun 30th'21]:145 confirmed cases and 218 deceased cases added of previous days after reconciliation with district and ICMR portal",
       "stateCode": "UT",
       "today": {
@@ -894,13 +894,13 @@
     "unconfirmed": 15746
   },
   "testing_data_imcr": {
-    "tested": 485056507,
-    "source": "https://twitter.com/ICMRDELHI/status/1425297343469916162"
+    "tested": 0,
+    "source": ""
   },
   "today": {
-    "confirmed": 40227,
-    "recovered": 36259,
-    "dead": 469,
-    "active": 3499
+    "confirmed": 41574,
+    "recovered": 39125,
+    "dead": 491,
+    "active": 1958
   }
 }
