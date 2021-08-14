@@ -1,8 +1,8 @@
 {
-  "confirmed": 32191046,
-  "recovered": 31365693,
-  "dead": 431240,
-  "active": 381434,
+  "confirmed": 32191954,
+  "recovered": 31368460,
+  "dead": 431253,
+  "active": 379562,
   "updatedTime": "13/08/2021 23:27:22",
   "states": {
     "AN": {
@@ -79,18 +79,18 @@
     },
     "AS": {
       "name": "Assam",
-      "confirmed": 578733,
-      "active": 8654,
-      "recovered": 563261,
-      "dead": 5471,
+      "confirmed": 579488,
+      "active": 8429,
+      "recovered": 564230,
+      "dead": 5482,
       "updatedTime": "13/08/2021 23:27:22",
       "note": "[Jan 1]: 1347 cases i.e Covid +'tive patients dead for other reasons have been deducted fom active count.",
       "stateCode": "AS",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 755,
+        "recovered": 969,
+        "dead": 11,
+        "active": -225
       },
       "testing_data": {
         "tested": 20287201,
@@ -151,18 +151,18 @@
     },
     "CT": {
       "name": "Chhattisgarh",
-      "confirmed": 1003614,
-      "active": 1423,
-      "recovered": 988646,
-      "dead": 13545,
+      "confirmed": 1003697,
+      "active": 1361,
+      "recovered": 988790,
+      "dead": 13546,
       "updatedTime": "13/08/2021 23:27:22",
       "note": "",
       "stateCode": "CT",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 83,
+        "recovered": 144,
+        "dead": 1,
+        "active": -62
       },
       "testing_data": {
         "tested": 11923082,
@@ -343,18 +343,18 @@
     },
     "JH": {
       "name": "Jharkhand",
-      "confirmed": 347530,
-      "active": 223,
-      "recovered": 342176,
+      "confirmed": 347558,
+      "active": 217,
+      "recovered": 342210,
       "dead": 5131,
       "updatedTime": "13/08/2021 23:27:22",
       "note": "",
       "stateCode": "JH",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 28,
+        "recovered": 34,
         "dead": 0,
-        "active": 0
+        "active": -6
       },
       "testing_data": {
         "tested": 12343180,
@@ -560,17 +560,17 @@
     "MZ": {
       "name": "Mizoram",
       "confirmed": 47995,
-      "active": 10549,
-      "recovered": 37268,
+      "active": 10191,
+      "recovered": 37626,
       "dead": 178,
       "updatedTime": "13/08/2021 23:27:22",
       "note": "",
       "stateCode": "MZ",
       "today": {
         "confirmed": 524,
-        "recovered": 589,
+        "recovered": 947,
         "dead": 4,
-        "active": -69
+        "active": -427
       },
       "testing_data": {
         "tested": 724107,
@@ -608,17 +608,17 @@
     "OR": {
       "name": "Odisha",
       "confirmed": 993507,
-      "active": 10632,
-      "recovered": 975999,
+      "active": 9434,
+      "recovered": 977197,
       "dead": 6876,
       "updatedTime": "13/08/2021 23:27:22",
       "note": "[July 12th] :20 non-covid deaths reported in state dashboard are included in the deceased count",
       "stateCode": "OR",
       "today": {
         "confirmed": 1132,
-        "recovered": 0,
+        "recovered": 1198,
         "dead": 66,
-        "active": 1066
+        "active": -132
       },
       "testing_data": {
         "tested": 16957359,
@@ -816,18 +816,18 @@
     },
     "UP": {
       "name": "Uttar Pradesh",
-      "confirmed": 1708876,
-      "active": 469,
-      "recovered": 1685625,
-      "dead": 22782,
+      "confirmed": 1708918,
+      "active": 446,
+      "recovered": 1685689,
+      "dead": 22783,
       "updatedTime": "13/08/2021 23:27:22",
       "note": "[Jan 1]:As no bulletin was provided for 31'st Dec'20,its count has been combined with 1st Jan'21\n[Jan 9]:Due to reconcillation there are 1286 cases.",
       "stateCode": "UP",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
-        "dead": 0,
-        "active": 0
+        "confirmed": 42,
+        "recovered": 64,
+        "dead": 1,
+        "active": -23
       },
       "testing_data": {
         "tested": 68862712,
@@ -898,9 +898,9 @@
     "source": "https://twitter.com/ICMRDELHI/status/1426385131518889987"
   },
   "today": {
-    "confirmed": 35218,
-    "recovered": 35167,
-    "dead": 478,
-    "active": -427
+    "confirmed": 36126,
+    "recovered": 37934,
+    "dead": 491,
+    "active": -2299
   }
 }
