@@ -1,24 +1,24 @@
 {
-  "confirmed": 32190846,
-  "recovered": 31365316,
+  "confirmed": 32191046,
+  "recovered": 31365693,
   "dead": 431240,
-  "active": 381611,
+  "active": 381434,
   "updatedTime": "13/08/2021 23:27:22",
   "states": {
     "AN": {
       "name": "Andaman and Nicobar",
       "confirmed": 7548,
-      "active": 4,
-      "recovered": 7415,
+      "active": 2,
+      "recovered": 7417,
       "dead": 129,
       "updatedTime": "13/08/2021 23:27:22",
       "note": "",
       "stateCode": "AN",
       "today": {
         "confirmed": 0,
-        "recovered": 0,
+        "recovered": 2,
         "dead": 0,
-        "active": 0
+        "active": -2
       },
       "testing_data": {
         "tested": 457530,
@@ -55,18 +55,18 @@
     },
     "AR": {
       "name": "Arunachal Pradesh",
-      "confirmed": 51139,
-      "active": 2289,
-      "recovered": 48598,
+      "confirmed": 51300,
+      "active": 2127,
+      "recovered": 48921,
       "dead": 252,
       "updatedTime": "13/08/2021 23:27:22",
       "note": "[July 25]: All numbers corresponding to Papum Pare and Captial Complex are tracked under Papum Pare district.",
       "stateCode": "AR",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 161,
+        "recovered": 323,
         "dead": 0,
-        "active": 0
+        "active": -162
       },
       "testing_data": {
         "tested": 1002065,
@@ -103,18 +103,18 @@
     },
     "BR": {
       "name": "Bihar",
-      "confirmed": 725416,
-      "active": 263,
-      "recovered": 715503,
+      "confirmed": 725455,
+      "active": 250,
+      "recovered": 715555,
       "dead": 9649,
       "updatedTime": "13/08/2021 23:27:22",
       "note": "[June 9] : 3951 deceased cases have been reported in the bulletin after reconciliation of records by the authorities",
       "stateCode": "BR",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 39,
+        "recovered": 52,
         "dead": 0,
-        "active": 0
+        "active": -13
       },
       "testing_data": {
         "tested": 39303190,
@@ -898,9 +898,9 @@
     "source": "https://twitter.com/ICMRDELHI/status/1426385131518889987"
   },
   "today": {
-    "confirmed": 35018,
-    "recovered": 34790,
+    "confirmed": 35218,
+    "recovered": 35167,
     "dead": 478,
-    "active": -250
+    "active": -427
   }
 }
