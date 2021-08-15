@@ -1,8 +1,8 @@
 {
-  "confirmed": 32225159,
-  "recovered": 31403941,
-  "dead": 431572,
-  "active": 376964,
+  "confirmed": 32225175,
+  "recovered": 31403959,
+  "dead": 431674,
+  "active": 376860,
   "updatedTime": "13/08/2021 23:27:22",
   "states": {
     "AN": {
@@ -247,18 +247,18 @@
     },
     "GJ": {
       "name": "Gujarat",
-      "confirmed": 825166,
-      "active": 185,
-      "recovered": 814903,
+      "confirmed": 825182,
+      "active": 183,
+      "recovered": 814921,
       "dead": 10078,
       "updatedTime": "13/08/2021 23:27:22",
       "note": "",
       "stateCode": "GJ",
       "today": {
-        "confirmed": 0,
-        "recovered": 0,
+        "confirmed": 16,
+        "recovered": 18,
         "dead": 0,
-        "active": 0
+        "active": -2
       },
       "testing_data": {
         "tested": 26514698,
@@ -392,17 +392,17 @@
     "KL": {
       "name": "Kerala",
       "confirmed": 3690123,
-      "active": 178737,
+      "active": 178635,
       "recovered": 3492367,
-      "dead": 18499,
+      "dead": 18601,
       "updatedTime": "13/08/2021 23:27:22",
       "note": "",
       "stateCode": "KL",
       "today": {
         "confirmed": 18582,
         "recovered": 20089,
-        "dead": 0,
-        "active": -1507
+        "dead": 102,
+        "active": -1609
       },
       "testing_data": {
         "tested": 29457951,
@@ -894,13 +894,13 @@
     "unconfirmed": 11100
   },
   "testing_data_imcr": {
-    "tested": 493624440,
-    "source": "https://twitter.com/ICMRDELHI/status/1426744918064603137"
+    "tested": 0,
+    "source": ""
   },
   "today": {
-    "confirmed": 33196,
-    "recovered": 35479,
-    "dead": 319,
-    "active": -2602
+    "confirmed": 33212,
+    "recovered": 35497,
+    "dead": 421,
+    "active": -2706
   }
 }
